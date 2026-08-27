@@ -1,0 +1,111 @@
+{
+  "id": "0242",
+  "name": "cable tuck reverse crunch",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Attach a cable to a low pulley and lie down on a mat facing up. Hold the cable with both hands and extend your arms straight up above your chest. Bend your knees and lift your legs up, bringing your knees towards your chest. At the same time, curl your pelvis up towards your chest, lifting your hips off the ground. Pause for a moment at the top, then slowly lower your legs and hips back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Attacca un cavo a una carrucola bassa e sdraiati su un tappeto rivolto verso l'alto. Tieni il cavo con entrambe le mani e estendi le braccia dritte sopra il petto. Flette le ginocchia e solleva le gambe, portando le ginocchia verso il petto. Allo stesso tempo, arrotola il bacino verso il petto, sollevando i fianchi da terra. Fermati un attimo in cima, poi abbassa lentamente gambe e fianchi fino alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Alçak makaraya bir kablo bağlayın ve yukarı bakacak şekilde bir matın üzerine uzanın. Kabloyu iki elinizle tutun ve kollarınızı göğsünüzün üzerine doğru uzatın. Dizlerinizi bükün ve bacaklarınızı yukarı kaldırın, dizlerinizi göğsünüze doğru getirin. Aynı zamanda kalçalarınızı yerden kaldırarak pelvisinizi göğsünüze doğru kıvırın. Tepe noktasında bir an duraklayın, ardından bacaklarınızı ve kalçalarınızı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Sujeta un cable a una polea baja y túmbate boca arriba sobre una esterilla. Sujeta el cable con ambas manos y extiende los brazos rectos por encima del pecho. Flexiona las rodillas y levanta las piernas, llevando las rodillas hacia el pecho. Al mismo tiempo, eleva la pelvis hacia el pecho, levantando las caderas del suelo. Haz una pausa breve en la parte alta, luego baja lentamente las piernas y las caderas de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Прикрепите трос к низкому блоку и лягте на коврик лицом вверх. Возьмите трос обеими руками и вытяните руки прямо над грудью. Согните ноги в коленях и поднимите ноги вверх, подтягивая колени к груди. В то же время поднимите таз к груди, отрывая бедра от земли. Задержитесь на мгновение в верхней точке, затем медленно опустите ноги и бедра обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "将电缆连接到低滑轮上，然后面朝上躺在垫子上。 用双手握住电缆并将双臂伸直至胸部上方。 弯曲膝盖并抬起双腿，使膝盖靠近胸部。 同时，将骨盆向胸部弯曲，将臀部抬离地面。 在顶部暂停片刻，然后慢慢降低双腿和臀部回到起始位置。 重复所需的重复次数。",
+    "hi": "एक केबल को निचली पुली से जोड़ें और एक चटाई पर ऊपर की ओर मुंह करके लेट जाएं। केबल को दोनों हाथों से पकड़ें और अपनी बाहों को सीधे अपनी छाती के ऊपर फैलाएँ। अपने घुटनों को मोड़ें और अपने पैरों को ऊपर उठाएं, अपने घुटनों को अपनी छाती की ओर लाएं। साथ ही, अपने कूल्हों को ज़मीन से ऊपर उठाते हुए, अपने श्रोणि को अपनी छाती की ओर मोड़ें। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने पैरों और कूल्हों को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Podłącz linkę do dolnego bloku i połóż się na macie twarzą do góry. Trzymaj linkę obiema rękami i wyciągnij ramiona prosto nad klatką piersiową. Ugnij kolana i unieś nogi, przyciągając kolana w kierunku klatki piersiowej. Jednocześnie unieś biodra znad podłogi, zwijając miednicę w kierunku klatki piersiowej. Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść nogi i biodra z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "저 도르래에 케이블을 연결하고 매트 위에 얼굴을 위로 향해 누웁니다. 양손으로 케이블을 잡고 팔을 가슴 위로 곧게 뻗습니다. 무릎을 구부리고 다리를 들어 무릎을 가슴으로 가져갑니다. 동시에 골반을 가슴 쪽으로 말아올려 엉덩이를 바닥에서 들어올립니다. 최상단에서 잠시 멈춘 후 천천히 다리와 엉덩이를 처음 위치로 내립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Fixe un câble à une poulie basse et allonge-toi sur un tapis sur le dos. Tiens le câble des deux mains et étends tes bras droit au-dessus de ta poitrine. Fléchis les genoux et lève les jambes en amenant tes genoux vers ta poitrine. En même temps, enroule ton bassin vers ta poitrine en soulevant tes hanches du sol. Marque une pause en haut, puis abaisse lentement tes jambes et tes hanches pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Attach a cable to a low pulley and lie down on a mat facing up.",
+      "Hold the cable with both hands and extend your arms straight up above your chest.",
+      "Bend your knees and lift your legs up, bringing your knees towards your chest.",
+      "At the same time, curl your pelvis up towards your chest, lifting your hips off the ground.",
+      "Pause for a moment at the top, then slowly lower your legs and hips back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Attacca un cavo a una carrucola bassa e sdraiati su un tappeto rivolto verso l'alto.",
+      "Tieni il cavo con entrambe le mani e estendi le braccia dritte sopra il petto.",
+      "Flette le ginocchia e solleva le gambe, portando le ginocchia verso il petto.",
+      "Allo stesso tempo, arrotola il bacino verso il petto, sollevando i fianchi da terra.",
+      "Fermati un attimo in cima, poi abbassa lentamente gambe e fianchi fino alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Alçak makaraya bir kablo bağlayın ve yukarı bakacak şekilde bir matın üzerine uzanın.",
+      "Kabloyu iki elinizle tutun ve kollarınızı göğsünüzün üzerine doğru uzatın.",
+      "Dizlerinizi bükün ve bacaklarınızı yukarı kaldırın, dizlerinizi göğsünüze doğru getirin.",
+      "Aynı zamanda kalçalarınızı yerden kaldırarak pelvisinizi göğsünüze doğru kıvırın.",
+      "Tepe noktasında bir an duraklayın, ardından bacaklarınızı ve kalçalarınızı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Sujeta un cable a una polea baja y túmbate boca arriba sobre una esterilla.",
+      "Sujeta el cable con ambas manos y extiende los brazos rectos por encima del pecho.",
+      "Flexiona las rodillas y levanta las piernas, llevando las rodillas hacia el pecho.",
+      "Al mismo tiempo, eleva la pelvis hacia el pecho, levantando las caderas del suelo.",
+      "Haz una pausa breve en la parte alta, luego baja lentamente las piernas y las caderas de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Прикрепите трос к низкому блоку и лягте на коврик лицом вверх.",
+      "Возьмите трос обеими руками и вытяните руки прямо над грудью.",
+      "Согните ноги в коленях и поднимите ноги вверх, подтягивая колени к груди.",
+      "В то же время поднимите таз к груди, отрывая бедра от земли.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите ноги и бедра обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将电缆连接到低滑轮上，然后面朝上躺在垫子上。",
+      "用双手握住电缆并将双臂伸直至胸部上方。",
+      "弯曲膝盖并抬起双腿，使膝盖靠近胸部。",
+      "同时，将骨盆向胸部弯曲，将臀部抬离地面。",
+      "在顶部暂停片刻，然后慢慢降低双腿和臀部回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "एक केबल को निचली पुली से जोड़ें और एक चटाई पर ऊपर की ओर मुंह करके लेट जाएं।",
+      "केबल को दोनों हाथों से पकड़ें और अपनी बाहों को सीधे अपनी छाती के ऊपर फैलाएँ।",
+      "अपने घुटनों को मोड़ें और अपने पैरों को ऊपर उठाएं, अपने घुटनों को अपनी छाती की ओर लाएं।",
+      "साथ ही, अपने कूल्हों को ज़मीन से ऊपर उठाते हुए, अपने श्रोणि को अपनी छाती की ओर मोड़ें।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने पैरों और कूल्हों को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Podłącz linkę do dolnego bloku i połóż się na macie twarzą do góry.",
+      "Trzymaj linkę obiema rękami i wyciągnij ramiona prosto nad klatką piersiową.",
+      "Ugnij kolana i unieś nogi, przyciągając kolana w kierunku klatki piersiowej.",
+      "Jednocześnie unieś biodra znad podłogi, zwijając miednicę w kierunku klatki piersiowej.",
+      "Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść nogi i biodra z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "저 도르래에 케이블을 연결하고 매트 위에 얼굴을 위로 향해 누웁니다.",
+      "양손으로 케이블을 잡고 팔을 가슴 위로 곧게 뻗습니다.",
+      "무릎을 구부리고 다리를 들어 무릎을 가슴으로 가져갑니다.",
+      "동시에 골반을 가슴 쪽으로 말아올려 엉덩이를 바닥에서 들어올립니다.",
+      "최상단에서 잠시 멈춘 후 천천히 다리와 엉덩이를 처음 위치로 내립니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Fixe un câble à une poulie basse et allonge-toi sur un tapis sur le dos.",
+      "Tiens le câble des deux mains et étends tes bras droit au-dessus de ta poitrine.",
+      "Fléchis les genoux et lève les jambes en amenant tes genoux vers ta poitrine.",
+      "En même temps, enroule ton bassin vers ta poitrine en soulevant tes hanches du sol.",
+      "Marque une pause en haut, puis abaisse lentement tes jambes et tes hanches pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hip flexors",
+  "secondary_muscles": [
+    "hip flexors"
+  ],
+  "target": "abs",
+  "image": "images/0242-TXtXc84.jpg",
+  "gif_url": "videos/0242-TXtXc84.gif",
+  "media_id": "TXtXc84",
+  "created_at": "2026-03-18T12:31:32.876616+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

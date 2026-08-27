@@ -1,0 +1,102 @@
+{
+  "id": "2139",
+  "name": "hands bike",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "upper body ergometer",
+  "instructions": {
+    "en": "Adjust the seat height and handlebar position to a comfortable level. Sit on the ergometer with your back straight and feet on the pedals. Grasp the handles with your hands and position your arms at a 90-degree angle. Start pedaling with your hands, pushing and pulling the handles in a controlled motion. Continue pedaling for the desired duration or number of repetitions.",
+    "it": "Regolare l'altezza del sedile e la posizione del manubrio a un livello confortevole. Sedersi sull'ergometro con la schiena dritta e i piedi sui pedali. Afferrare le maniglie con le mani e posizionare le braccia ad un angolo di 90 gradi. Inizia a pedalare con le mani, spingendo e tirando le maniglie con un movimento controllato. Continua a pedalare per la durata o il numero di ripetizioni desiderato.",
+    "tr": "Koltuk yüksekliğini ve gidon konumunu rahat bir seviyeye ayarlayın. Sırtınız düz ve ayaklarınız pedalların üzerinde olacak şekilde ergometrenin üzerine oturun. Tutma yerlerini ellerinizle kavrayın ve kollarınızı 90 derecelik bir açıyla konumlandırın. Ellerinizle pedal çevirmeye başlayın, kolları kontrollü bir hareketle itip çekin. İstenilen süre veya tekrar sayısı kadar pedal çevirmeye devam edin.",
+    "es": "Ajusta la altura del asiento y la posición del manillar a un nivel cómodo. Siéntate en el ergómetro con la espalda recta y los pies sobre los pedales. Sujeta las asas con las manos y coloca los brazos en un ángulo de 90 grados. Comienza a pedalear con las manos, empujando y tirando de las asas con un movimiento controlado. Continúa pedaleando durante el tiempo o el número de repeticiones deseado.",
+    "ru": "Отрегулируйте высоту сиденья и положение руля до удобного уровня. Сядьте на эргометр, спина прямая, ноги на педалях. Возьмитесь за ручки руками и расположите руки под углом 90 градусов. Начните крутить педали руками, толкая и тянув ручки контролируемым движением. Продолжайте крутить педали желаемую продолжительность или количество повторений.",
+    "zh": "将座椅高度和车把位置调整至舒适的水平。 坐在测力计上，背部挺直，双脚放在踏板上。 双手抓住手柄，并将手臂呈 90 度角。 开始用手踩踏板，以受控的动作推拉手柄。 继续踩踏所需的持续时间或重复次数。",
+    "hi": "सीट की ऊंचाई और हैंडलबार की स्थिति को आरामदायक स्तर पर समायोजित करें। एर्गोमीटर पर अपनी पीठ सीधी और पैर पैडल पर रखकर बैठें। अपने हाथों से हैंडल को पकड़ें और अपनी भुजाओं को 90 डिग्री के कोण पर रखें। अपने हाथों से पैडल चलाना शुरू करें, नियंत्रित गति में हैंडल को धक्का दें और खींचें। वांछित अवधि या दोहराव की संख्या तक पैडल चलाना जारी रखें।",
+    "pl": "Dostosuj wysokość siedziska i pozycję uchwytów do wygodnego poziomu. Usiądź na ergometrze z prostymi plecami, a stopy umieść na pedałach. Chwyć uchwyty dłońmi i ustaw ramiona pod kątem 90 stopni. Zacznij pedałować rękami, pchając i ciągnąc uchwyty w kontrolowanym ruchu. Kontynuuj pedałowanie przez zalecany czas lub liczbę powtórzeń.",
+    "ko": "좌석 높이와 핸들바 위치를 편한 수준으로 조정합니다. 에르고미터에 등을 펴고 앉아 발을 페달에 올립니다. 손으로 핸들을 잡고 팔을 90도 각도로 위치시킵니다. 손으로 페달을 밟기 시작하여 핸들을 통제된 동작으로 밀고 당깁니다. 원하는 기간이나 횟수만큼 계속 페달을 밟습니다.",
+    "fr": "Règle la hauteur du siège et la position du guidon à un niveau confortable. Assieds-toi sur l'ergomètre, le dos droit et les pieds sur les pédales. Saisis les poignées avec tes mains et place tes bras à un angle de 90 degrés. Commence à pédaler avec les mains, en poussant et en tirant les poignées d'un mouvement contrôlé. Continue à pédaler pendant la durée ou le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the seat height and handlebar position to a comfortable level.",
+      "Sit on the ergometer with your back straight and feet on the pedals.",
+      "Grasp the handles with your hands and position your arms at a 90-degree angle.",
+      "Start pedaling with your hands, pushing and pulling the handles in a controlled motion.",
+      "Continue pedaling for the desired duration or number of repetitions."
+    ],
+    "it": [
+      "Regolare l'altezza del sedile e la posizione del manubrio a un livello confortevole.",
+      "Sedersi sull'ergometro con la schiena dritta e i piedi sui pedali.",
+      "Afferrare le maniglie con le mani e posizionare le braccia ad un angolo di 90 gradi.",
+      "Inizia a pedalare con le mani, spingendo e tirando le maniglie con un movimento controllato.",
+      "Continua a pedalare per la durata o il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Koltuk yüksekliğini ve gidon konumunu rahat bir seviyeye ayarlayın.",
+      "Sırtınız düz ve ayaklarınız pedalların üzerinde olacak şekilde ergometrenin üzerine oturun.",
+      "Tutma yerlerini ellerinizle kavrayın ve kollarınızı 90 derecelik bir açıyla konumlandırın.",
+      "Ellerinizle pedal çevirmeye başlayın, kolları kontrollü bir hareketle itip çekin.",
+      "İstenilen süre veya tekrar sayısı kadar pedal çevirmeye devam edin."
+    ],
+    "es": [
+      "Ajusta la altura del asiento y la posición del manillar a un nivel cómodo.",
+      "Siéntate en el ergómetro con la espalda recta y los pies sobre los pedales.",
+      "Sujeta las asas con las manos y coloca los brazos en un ángulo de 90 grados.",
+      "Comienza a pedalear con las manos, empujando y tirando de las asas con un movimiento controlado.",
+      "Continúa pedaleando durante el tiempo o el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Отрегулируйте высоту сиденья и положение руля до удобного уровня.",
+      "Сядьте на эргометр, спина прямая, ноги на педалях.",
+      "Возьмитесь за ручки руками и расположите руки под углом 90 градусов.",
+      "Начните крутить педали руками, толкая и тянув ручки контролируемым движением.",
+      "Продолжайте крутить педали желаемую продолжительность или количество повторений."
+    ],
+    "zh": [
+      "将座椅高度和车把位置调整至舒适的水平。",
+      "坐在测力计上，背部挺直，双脚放在踏板上。",
+      "双手抓住手柄，并将手臂呈 90 度角。",
+      "开始用手踩踏板，以受控的动作推拉手柄。",
+      "继续踩踏所需的持续时间或重复次数。"
+    ],
+    "hi": [
+      "सीट की ऊंचाई और हैंडलबार की स्थिति को आरामदायक स्तर पर समायोजित करें।",
+      "एर्गोमीटर पर अपनी पीठ सीधी और पैर पैडल पर रखकर बैठें।",
+      "अपने हाथों से हैंडल को पकड़ें और अपनी भुजाओं को 90 डिग्री के कोण पर रखें।",
+      "अपने हाथों से पैडल चलाना शुरू करें, नियंत्रित गति में हैंडल को धक्का दें और खींचें।",
+      "वांछित अवधि या दोहराव की संख्या तक पैडल चलाना जारी रखें।"
+    ],
+    "pl": [
+      "Dostosuj wysokość siedziska i pozycję uchwytów do wygodnego poziomu.",
+      "Usiądź na ergometrze z prostymi plecami, a stopy umieść na pedałach.",
+      "Chwyć uchwyty dłońmi i ustaw ramiona pod kątem 90 stopni.",
+      "Zacznij pedałować rękami, pchając i ciągnąc uchwyty w kontrolowanym ruchu.",
+      "Kontynuuj pedałowanie przez zalecany czas lub liczbę powtórzeń."
+    ],
+    "ko": [
+      "좌석 높이와 핸들바 위치를 편한 수준으로 조정합니다.",
+      "에르고미터에 등을 펴고 앉아 발을 페달에 올립니다.",
+      "손으로 핸들을 잡고 팔을 90도 각도로 위치시킵니다.",
+      "손으로 페달을 밟기 시작하여 핸들을 통제된 동작으로 밀고 당깁니다.",
+      "원하는 기간이나 횟수만큼 계속 페달을 밟습니다."
+    ],
+    "fr": [
+      "Règle la hauteur du siège et la position du guidon à un niveau confortable.",
+      "Assieds-toi sur l'ergomètre, le dos droit et les pieds sur les pédales.",
+      "Saisis les poignées avec tes mains et place tes bras à un angle de 90 degrés.",
+      "Commence à pédaler avec les mains, en poussant et en tirant les poignées d'un mouvement contrôlé.",
+      "Continue à pédaler pendant la durée ou le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "target": "pectorals",
+  "image": "images/2139-pAIWRGu.jpg",
+  "gif_url": "videos/2139-pAIWRGu.gif",
+  "media_id": "pAIWRGu",
+  "created_at": "2026-03-18T12:31:32.884056+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

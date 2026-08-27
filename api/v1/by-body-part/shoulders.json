@@ -1,0 +1,1432 @@
+[
+  {
+    "id": "0977",
+    "name": "band front lateral raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "band",
+    "target": "delts",
+    "image": "images/0977-sTg7iys.jpg",
+    "gif_url": "videos/0977-sTg7iys.gif"
+  },
+  {
+    "id": "0978",
+    "name": "band front raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "band",
+    "target": "delts",
+    "image": "images/0978-TFA88iB.jpg",
+    "gif_url": "videos/0978-TFA88iB.gif"
+  },
+  {
+    "id": "0993",
+    "name": "band reverse fly",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "band",
+    "target": "delts",
+    "image": "images/0993-sTfvVsG.jpg",
+    "gif_url": "videos/0993-sTfvVsG.gif"
+  },
+  {
+    "id": "0997",
+    "name": "band shoulder press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "band",
+    "target": "delts",
+    "image": "images/0997-peAeMR3.jpg",
+    "gif_url": "videos/0997-peAeMR3.gif"
+  },
+  {
+    "id": "1022",
+    "name": "band standing rear delt row",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "band",
+    "target": "delts",
+    "image": "images/1022-tc5dYrf.jpg",
+    "gif_url": "videos/1022-tc5dYrf.gif"
+  },
+  {
+    "id": "1012",
+    "name": "band twisting overhead press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "band",
+    "target": "delts",
+    "image": "images/1012-u4bAmKp.jpg",
+    "gif_url": "videos/1012-u4bAmKp.gif"
+  },
+  {
+    "id": "1017",
+    "name": "band y-raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "band",
+    "target": "delts",
+    "image": "images/1017-aHDy5O5.jpg",
+    "gif_url": "videos/1017-aHDy5O5.gif"
+  },
+  {
+    "id": "0041",
+    "name": "barbell front raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/0041-b2Uoz54.jpg",
+    "gif_url": "videos/0041-b2Uoz54.gif"
+  },
+  {
+    "id": "0067",
+    "name": "barbell one arm snatch",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/0067-xHKN2s8.jpg",
+    "gif_url": "videos/0067-xHKN2s8.gif"
+  },
+  {
+    "id": "0075",
+    "name": "barbell rear delt raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/0075-Ln9iTbU.jpg",
+    "gif_url": "videos/0075-Ln9iTbU.gif"
+  },
+  {
+    "id": "0076",
+    "name": "barbell rear delt row",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/0076-S9zHIvU.jpg",
+    "gif_url": "videos/0076-S9zHIvU.gif"
+  },
+  {
+    "id": "0086",
+    "name": "barbell seated behind head military press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/0086-ngPpyRS.jpg",
+    "gif_url": "videos/0086-ngPpyRS.gif"
+  },
+  {
+    "id": "0087",
+    "name": "barbell seated bradford rocky press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/0087-0dCyly0.jpg",
+    "gif_url": "videos/0087-0dCyly0.gif"
+  },
+  {
+    "id": "0091",
+    "name": "barbell seated overhead press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/0091-kTbSH9h.jpg",
+    "gif_url": "videos/0091-kTbSH9h.gif"
+  },
+  {
+    "id": "0100",
+    "name": "barbell skier",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/0100-4Leypho.jpg",
+    "gif_url": "videos/0100-4Leypho.gif"
+  },
+  {
+    "id": "0105",
+    "name": "barbell standing bradford press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/0105-dCPESfR.jpg",
+    "gif_url": "videos/0105-dCPESfR.gif"
+  },
+  {
+    "id": "1456",
+    "name": "barbell standing close grip military press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/1456-wdRZISl.jpg",
+    "gif_url": "videos/1456-wdRZISl.gif"
+  },
+  {
+    "id": "0107",
+    "name": "barbell standing front raise over head",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/0107-S8mo30S.jpg",
+    "gif_url": "videos/0107-S8mo30S.gif"
+  },
+  {
+    "id": "1457",
+    "name": "barbell standing wide military press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/1457-Kyd9Rz5.jpg",
+    "gif_url": "videos/1457-Kyd9Rz5.gif"
+  },
+  {
+    "id": "3305",
+    "name": "barbell thruster",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/3305-f7Y9eDZ.jpg",
+    "gif_url": "videos/3305-f7Y9eDZ.gif"
+  },
+  {
+    "id": "0120",
+    "name": "barbell upright row",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/0120-UDlhcO8.jpg",
+    "gif_url": "videos/0120-UDlhcO8.gif"
+  },
+  {
+    "id": "0119",
+    "name": "barbell upright row v. 2",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/0119-83HoW9X.jpg",
+    "gif_url": "videos/0119-83HoW9X.gif"
+  },
+  {
+    "id": "0121",
+    "name": "barbell upright row v. 3",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/0121-fI18Rbc.jpg",
+    "gif_url": "videos/0121-fI18Rbc.gif"
+  },
+  {
+    "id": "0123",
+    "name": "barbell wide-grip upright row",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/0123-RgJDRR1.jpg",
+    "gif_url": "videos/0123-RgJDRR1.gif"
+  },
+  {
+    "id": "0128",
+    "name": "battling ropes",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "rope",
+    "target": "delts",
+    "image": "images/0128-RJa4tCo.jpg",
+    "gif_url": "videos/0128-RJa4tCo.gif"
+  },
+  {
+    "id": "0148",
+    "name": "cable alternate shoulder press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "cable",
+    "target": "delts",
+    "image": "images/0148-KHPZL0b.jpg",
+    "gif_url": "videos/0148-KHPZL0b.gif"
+  },
+  {
+    "id": "0154",
+    "name": "cable cross-over revers fly",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "cable",
+    "target": "delts",
+    "image": "images/0154-aqvSOQE.jpg",
+    "gif_url": "videos/0154-aqvSOQE.gif"
+  },
+  {
+    "id": "0161",
+    "name": "cable forward raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "cable",
+    "target": "delts",
+    "image": "images/0161-hvHhCv8.jpg",
+    "gif_url": "videos/0161-hvHhCv8.gif"
+  },
+  {
+    "id": "0162",
+    "name": "cable front raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "cable",
+    "target": "delts",
+    "image": "images/0162-u2X71Np.jpg",
+    "gif_url": "videos/0162-u2X71Np.gif"
+  },
+  {
+    "id": "0164",
+    "name": "cable front shoulder raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "cable",
+    "target": "delts",
+    "image": "images/0164-mTT3KLn.jpg",
+    "gif_url": "videos/0164-mTT3KLn.gif"
+  },
+  {
+    "id": "3697",
+    "name": "cable kneeling rear delt row (with rope) (male)",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "cable",
+    "target": "delts",
+    "image": "images/3697-G61cXLk.jpg",
+    "gif_url": "videos/3697-G61cXLk.gif"
+  },
+  {
+    "id": "0178",
+    "name": "cable lateral raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "cable",
+    "target": "delts",
+    "image": "images/0178-goJ6ezq.jpg",
+    "gif_url": "videos/0178-goJ6ezq.gif"
+  },
+  {
+    "id": "0192",
+    "name": "cable one arm lateral raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "cable",
+    "target": "delts",
+    "image": "images/0192-wEulIzp.jpg",
+    "gif_url": "videos/0192-wEulIzp.gif"
+  },
+  {
+    "id": "0202",
+    "name": "cable rear delt row (stirrups)",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "cable",
+    "target": "delts",
+    "image": "images/0202-yUdIGNs.jpg",
+    "gif_url": "videos/0202-yUdIGNs.gif"
+  },
+  {
+    "id": "0203",
+    "name": "cable rear delt row (with rope)",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "cable",
+    "target": "delts",
+    "image": "images/0203-wqNPGCg.jpg",
+    "gif_url": "videos/0203-wqNPGCg.gif"
+  },
+  {
+    "id": "0215",
+    "name": "cable seated rear lateral raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "cable",
+    "target": "delts",
+    "image": "images/0215-x825CZm.jpg",
+    "gif_url": "videos/0215-x825CZm.gif"
+  },
+  {
+    "id": "0216",
+    "name": "cable seated shoulder internal rotation",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "cable",
+    "target": "delts",
+    "image": "images/0216-YPoVrBi.jpg",
+    "gif_url": "videos/0216-YPoVrBi.gif"
+  },
+  {
+    "id": "0219",
+    "name": "cable shoulder press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "cable",
+    "target": "delts",
+    "image": "images/0219-PzQanLE.jpg",
+    "gif_url": "videos/0219-PzQanLE.gif"
+  },
+  {
+    "id": "0225",
+    "name": "cable standing cross-over high reverse fly",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "cable",
+    "target": "delts",
+    "image": "images/0225-P5p0j8B.jpg",
+    "gif_url": "videos/0225-P5p0j8B.gif"
+  },
+  {
+    "id": "0233",
+    "name": "cable standing rear delt row (with rope)",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "cable",
+    "target": "delts",
+    "image": "images/0233-ZfyAGhK.jpg",
+    "gif_url": "videos/0233-ZfyAGhK.gif"
+  },
+  {
+    "id": "0235",
+    "name": "cable standing shoulder external rotation",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "cable",
+    "target": "delts",
+    "image": "images/0235-FWdVhcW.jpg",
+    "gif_url": "videos/0235-FWdVhcW.gif"
+  },
+  {
+    "id": "0240",
+    "name": "cable supine reverse fly",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "cable",
+    "target": "delts",
+    "image": "images/0240-PQcUlDi.jpg",
+    "gif_url": "videos/0240-PQcUlDi.gif"
+  },
+  {
+    "id": "0246",
+    "name": "cable upright row",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "cable",
+    "target": "delts",
+    "image": "images/0246-cALKspW.jpg",
+    "gif_url": "videos/0246-cALKspW.gif"
+  },
+  {
+    "id": "0286",
+    "name": "dumbbell alternate side press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0286-izMnLqz.jpg",
+    "gif_url": "videos/0286-izMnLqz.gif"
+  },
+  {
+    "id": "2137",
+    "name": "dumbbell arnold press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/2137-Xy4jlWA.jpg",
+    "gif_url": "videos/2137-Xy4jlWA.gif"
+  },
+  {
+    "id": "0287",
+    "name": "dumbbell arnold press v. 2",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0287-eOrFCnx.jpg",
+    "gif_url": "videos/0287-eOrFCnx.gif"
+  },
+  {
+    "id": "0290",
+    "name": "dumbbell bench seated press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0290-3d7wHyd.jpg",
+    "gif_url": "videos/0290-3d7wHyd.gif"
+  },
+  {
+    "id": "0299",
+    "name": "dumbbell cuban press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0299-QfAKy1G.jpg",
+    "gif_url": "videos/0299-QfAKy1G.gif"
+  },
+  {
+    "id": "2136",
+    "name": "dumbbell cuban press v. 2",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/2136-BqgCRif.jpg",
+    "gif_url": "videos/2136-BqgCRif.gif"
+  },
+  {
+    "id": "0310",
+    "name": "dumbbell front raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0310-3eGE2JC.jpg",
+    "gif_url": "videos/0310-3eGE2JC.gif"
+  },
+  {
+    "id": "0309",
+    "name": "dumbbell front raise v. 2",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0309-Rr7S3yg.jpg",
+    "gif_url": "videos/0309-Rr7S3yg.gif"
+  },
+  {
+    "id": "0311",
+    "name": "dumbbell full can lateral raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0311-AQ0mC4Y.jpg",
+    "gif_url": "videos/0311-AQ0mC4Y.gif"
+  },
+  {
+    "id": "0323",
+    "name": "dumbbell incline one arm lateral raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0323-aTNKZiC.jpg",
+    "gif_url": "videos/0323-aTNKZiC.gif"
+  },
+  {
+    "id": "0325",
+    "name": "dumbbell incline raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0325-nxW6BkN.jpg",
+    "gif_url": "videos/0325-nxW6BkN.gif"
+  },
+  {
+    "id": "0326",
+    "name": "dumbbell incline rear lateral raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0326-vYk8lqw.jpg",
+    "gif_url": "videos/0326-vYk8lqw.gif"
+  },
+  {
+    "id": "3542",
+    "name": "dumbbell incline t-raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/3542-jgbvVJ0.jpg",
+    "gif_url": "videos/3542-jgbvVJ0.gif"
+  },
+  {
+    "id": "0332",
+    "name": "dumbbell iron cross",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0332-cALkHHX.jpg",
+    "gif_url": "videos/0332-cALkHHX.gif"
+  },
+  {
+    "id": "0334",
+    "name": "dumbbell lateral raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0334-DsgkuIt.jpg",
+    "gif_url": "videos/0334-DsgkuIt.gif"
+  },
+  {
+    "id": "0335",
+    "name": "dumbbell lateral to front raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0335-xMjBKwn.jpg",
+    "gif_url": "videos/0335-xMjBKwn.gif"
+  },
+  {
+    "id": "0863",
+    "name": "dumbbell lying external shoulder rotation",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0863-bmBf7LN.jpg",
+    "gif_url": "videos/0863-bmBf7LN.gif"
+  },
+  {
+    "id": "2470",
+    "name": "dumbbell lying on floor rear delt raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/2470-Ion0XWz.jpg",
+    "gif_url": "videos/2470-Ion0XWz.gif"
+  },
+  {
+    "id": "0341",
+    "name": "dumbbell lying one arm deltoid rear",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0341-gSw59a4.jpg",
+    "gif_url": "videos/0341-gSw59a4.gif"
+  },
+  {
+    "id": "0345",
+    "name": "dumbbell lying one arm rear lateral raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0345-KwFGiEP.jpg",
+    "gif_url": "videos/0345-KwFGiEP.gif"
+  },
+  {
+    "id": "0348",
+    "name": "dumbbell lying rear lateral raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0348-53Ttlck.jpg",
+    "gif_url": "videos/0348-53Ttlck.gif"
+  },
+  {
+    "id": "0355",
+    "name": "dumbbell one arm lateral raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0355-n5cWCsI.jpg",
+    "gif_url": "videos/0355-n5cWCsI.gif"
+  },
+  {
+    "id": "0356",
+    "name": "dumbbell one arm lateral raise with support",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0356-Yg7MJAT.jpg",
+    "gif_url": "videos/0356-Yg7MJAT.gif"
+  },
+  {
+    "id": "0359",
+    "name": "dumbbell one arm reverse fly (with support)",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0359-e25F58f.jpg",
+    "gif_url": "videos/0359-e25F58f.gif"
+  },
+  {
+    "id": "0361",
+    "name": "dumbbell one arm shoulder press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0361-84RyJf8.jpg",
+    "gif_url": "videos/0361-84RyJf8.gif"
+  },
+  {
+    "id": "0360",
+    "name": "dumbbell one arm shoulder press v. 2",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0360-1TkiAFK.jpg",
+    "gif_url": "videos/0360-1TkiAFK.gif"
+  },
+  {
+    "id": "0363",
+    "name": "dumbbell one arm upright row",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0363-6cKQC5E.jpg",
+    "gif_url": "videos/0363-6cKQC5E.gif"
+  },
+  {
+    "id": "1700",
+    "name": "dumbbell push press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/1700-FS63wTN.jpg",
+    "gif_url": "videos/1700-FS63wTN.gif"
+  },
+  {
+    "id": "0376",
+    "name": "dumbbell raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0376-c9MnDRp.jpg",
+    "gif_url": "videos/0376-c9MnDRp.gif"
+  },
+  {
+    "id": "2292",
+    "name": "dumbbell rear delt raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/2292-mu5Guxt.jpg",
+    "gif_url": "videos/2292-mu5Guxt.gif"
+  },
+  {
+    "id": "0377",
+    "name": "dumbbell rear delt row_shoulder",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0377-EKXOMEh.jpg",
+    "gif_url": "videos/0377-EKXOMEh.gif"
+  },
+  {
+    "id": "0378",
+    "name": "dumbbell rear fly",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0378-8DiFDVA.jpg",
+    "gif_url": "videos/0378-8DiFDVA.gif"
+  },
+  {
+    "id": "0380",
+    "name": "dumbbell rear lateral raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0380-v1qBec9.jpg",
+    "gif_url": "videos/0380-v1qBec9.gif"
+  },
+  {
+    "id": "0379",
+    "name": "dumbbell rear lateral raise (support head)",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0379-UzkLrem.jpg",
+    "gif_url": "videos/0379-UzkLrem.gif"
+  },
+  {
+    "id": "0383",
+    "name": "dumbbell reverse fly",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0383-EAs3xL9.jpg",
+    "gif_url": "videos/0383-EAs3xL9.gif"
+  },
+  {
+    "id": "0386",
+    "name": "dumbbell rotation reverse fly",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0386-prbWx1D.jpg",
+    "gif_url": "videos/0386-prbWx1D.gif"
+  },
+  {
+    "id": "2397",
+    "name": "dumbbell scott press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/2397-5vfAI0I.jpg",
+    "gif_url": "videos/2397-5vfAI0I.gif"
+  },
+  {
+    "id": "0387",
+    "name": "dumbbell seated alternate front raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0387-gH5fRsC.jpg",
+    "gif_url": "videos/0387-gH5fRsC.gif"
+  },
+  {
+    "id": "0388",
+    "name": "dumbbell seated alternate press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0388-QT5Q0nK.jpg",
+    "gif_url": "videos/0388-QT5Q0nK.gif"
+  },
+  {
+    "id": "3546",
+    "name": "dumbbell seated alternate shoulder",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/3546-q7qkONO.jpg",
+    "gif_url": "videos/3546-q7qkONO.gif"
+  },
+  {
+    "id": "2317",
+    "name": "dumbbell seated bent arm lateral raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/2317-JzQbv7J.jpg",
+    "gif_url": "videos/2317-JzQbv7J.gif"
+  },
+  {
+    "id": "0392",
+    "name": "dumbbell seated front raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0392-Ys97II0.jpg",
+    "gif_url": "videos/0392-Ys97II0.gif"
+  },
+  {
+    "id": "0396",
+    "name": "dumbbell seated lateral raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0396-hxyTtWj.jpg",
+    "gif_url": "videos/0396-hxyTtWj.gif"
+  },
+  {
+    "id": "0395",
+    "name": "dumbbell seated lateral raise v. 2",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0395-hrrS0Ed.jpg",
+    "gif_url": "videos/0395-hrrS0Ed.gif"
+  },
+  {
+    "id": "0405",
+    "name": "dumbbell seated shoulder press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0405-znQUdHY.jpg",
+    "gif_url": "videos/0405-znQUdHY.gif"
+  },
+  {
+    "id": "0404",
+    "name": "dumbbell seated shoulder press (parallel grip)",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0404-f1jf47L.jpg",
+    "gif_url": "videos/0404-f1jf47L.gif"
+  },
+  {
+    "id": "0408",
+    "name": "dumbbell side lying one hand raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0408-fTlkJop.jpg",
+    "gif_url": "videos/0408-fTlkJop.gif"
+  },
+  {
+    "id": "3548",
+    "name": "dumbbell single arm overhead carry",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/3548-mWBtgmb.jpg",
+    "gif_url": "videos/3548-mWBtgmb.gif"
+  },
+  {
+    "id": "0414",
+    "name": "dumbbell standing alternate overhead press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0414-bBi35y3.jpg",
+    "gif_url": "videos/0414-bBi35y3.gif"
+  },
+  {
+    "id": "0415",
+    "name": "dumbbell standing alternate raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0415-SxHteRW.jpg",
+    "gif_url": "videos/0415-SxHteRW.gif"
+  },
+  {
+    "id": "2143",
+    "name": "dumbbell standing around world",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/2143-RSOsp5d.jpg",
+    "gif_url": "videos/2143-RSOsp5d.gif"
+  },
+  {
+    "id": "0419",
+    "name": "dumbbell standing front raise above head",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0419-laVRfDf.jpg",
+    "gif_url": "videos/0419-laVRfDf.gif"
+  },
+  {
+    "id": "0424",
+    "name": "dumbbell standing one arm palm in press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0424-ocYc6Db.jpg",
+    "gif_url": "videos/0424-ocYc6Db.gif"
+  },
+  {
+    "id": "0426",
+    "name": "dumbbell standing overhead press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0426-A6wtbuL.jpg",
+    "gif_url": "videos/0426-A6wtbuL.gif"
+  },
+  {
+    "id": "0427",
+    "name": "dumbbell standing palms in press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0427-UilDHSs.jpg",
+    "gif_url": "videos/0427-UilDHSs.gif"
+  },
+  {
+    "id": "0437",
+    "name": "dumbbell upright row",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0437-ainizkb.jpg",
+    "gif_url": "videos/0437-ainizkb.gif"
+  },
+  {
+    "id": "1765",
+    "name": "dumbbell upright row (back pov)",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/1765-Iptlv6x.jpg",
+    "gif_url": "videos/1765-Iptlv6x.gif"
+  },
+  {
+    "id": "0864",
+    "name": "dumbbell upright shoulder external rotation",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0864-x306lCW.jpg",
+    "gif_url": "videos/0864-x306lCW.gif"
+  },
+  {
+    "id": "0438",
+    "name": "dumbbell w-press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "dumbbell",
+    "target": "delts",
+    "image": "images/0438-vmwLyCg.jpg",
+    "gif_url": "videos/0438-vmwLyCg.gif"
+  },
+  {
+    "id": "0445",
+    "name": "ez barbell anti gravity press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "ez barbell",
+    "target": "delts",
+    "image": "images/0445-fprd84i.jpg",
+    "gif_url": "videos/0445-fprd84i.gif"
+  },
+  {
+    "id": "0520",
+    "name": "kettlebell alternating press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "kettlebell",
+    "target": "delts",
+    "image": "images/0520-5KLbZWx.jpg",
+    "gif_url": "videos/0520-5KLbZWx.gif"
+  },
+  {
+    "id": "0523",
+    "name": "kettlebell arnold press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "kettlebell",
+    "target": "delts",
+    "image": "images/0523-UM8mgyG.jpg",
+    "gif_url": "videos/0523-UM8mgyG.gif"
+  },
+  {
+    "id": "0527",
+    "name": "kettlebell double jerk",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "kettlebell",
+    "target": "delts",
+    "image": "images/0527-tznL2Ad.jpg",
+    "gif_url": "videos/0527-tznL2Ad.gif"
+  },
+  {
+    "id": "0528",
+    "name": "kettlebell double push press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "kettlebell",
+    "target": "delts",
+    "image": "images/0528-I4KkPdl.jpg",
+    "gif_url": "videos/0528-I4KkPdl.gif"
+  },
+  {
+    "id": "0529",
+    "name": "kettlebell double snatch",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "kettlebell",
+    "target": "delts",
+    "image": "images/0529-M74kdvm.jpg",
+    "gif_url": "videos/0529-M74kdvm.gif"
+  },
+  {
+    "id": "0537",
+    "name": "kettlebell one arm clean and jerk",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "kettlebell",
+    "target": "delts",
+    "image": "images/0537-vzAxBtt.jpg",
+    "gif_url": "videos/0537-vzAxBtt.gif"
+  },
+  {
+    "id": "0538",
+    "name": "kettlebell one arm jerk",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "kettlebell",
+    "target": "delts",
+    "image": "images/0538-S37C94C.jpg",
+    "gif_url": "videos/0538-S37C94C.gif"
+  },
+  {
+    "id": "0539",
+    "name": "kettlebell one arm military press to the side",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "kettlebell",
+    "target": "delts",
+    "image": "images/0539-yCvYdi7.jpg",
+    "gif_url": "videos/0539-yCvYdi7.gif"
+  },
+  {
+    "id": "0540",
+    "name": "kettlebell one arm push press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "kettlebell",
+    "target": "delts",
+    "image": "images/0540-osdXT3K.jpg",
+    "gif_url": "videos/0540-osdXT3K.gif"
+  },
+  {
+    "id": "0542",
+    "name": "kettlebell one arm snatch",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "kettlebell",
+    "target": "delts",
+    "image": "images/0542-aXcUyKb.jpg",
+    "gif_url": "videos/0542-aXcUyKb.gif"
+  },
+  {
+    "id": "0543",
+    "name": "kettlebell pirate supper legs",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "kettlebell",
+    "target": "delts",
+    "image": "images/0543-kuXhl0o.jpg",
+    "gif_url": "videos/0543-kuXhl0o.gif"
+  },
+  {
+    "id": "0546",
+    "name": "kettlebell seated press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "kettlebell",
+    "target": "delts",
+    "image": "images/0546-BkxB8LW.jpg",
+    "gif_url": "videos/0546-BkxB8LW.gif"
+  },
+  {
+    "id": "1438",
+    "name": "kettlebell seated two arm military press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "kettlebell",
+    "target": "delts",
+    "image": "images/1438-ZEkjZDi.jpg",
+    "gif_url": "videos/1438-ZEkjZDi.gif"
+  },
+  {
+    "id": "0547",
+    "name": "kettlebell seesaw press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "kettlebell",
+    "target": "delts",
+    "image": "images/0547-UDm6cGl.jpg",
+    "gif_url": "videos/0547-UDm6cGl.gif"
+  },
+  {
+    "id": "0550",
+    "name": "kettlebell thruster",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "kettlebell",
+    "target": "delts",
+    "image": "images/0550-yWxMvB5.jpg",
+    "gif_url": "videos/0550-yWxMvB5.gif"
+  },
+  {
+    "id": "0552",
+    "name": "kettlebell two arm clean",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "kettlebell",
+    "target": "delts",
+    "image": "images/0552-7Ba7bQ2.jpg",
+    "gif_url": "videos/0552-7Ba7bQ2.gif"
+  },
+  {
+    "id": "0553",
+    "name": "kettlebell two arm military press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "kettlebell",
+    "target": "delts",
+    "image": "images/0553-blBXysN.jpg",
+    "gif_url": "videos/0553-blBXysN.gif"
+  },
+  {
+    "id": "3237",
+    "name": "landmine lateral raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/3237-eXMFHww.jpg",
+    "gif_url": "videos/3237-eXMFHww.gif"
+  },
+  {
+    "id": "2271",
+    "name": "left hook. boxing",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "body weight",
+    "target": "delts",
+    "image": "images/2271-hoXt6wv.jpg",
+    "gif_url": "videos/2271-hoXt6wv.gif"
+  },
+  {
+    "id": "0584",
+    "name": "lever lateral raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "leverage machine",
+    "target": "delts",
+    "image": "images/0584-dRTfGZT.jpg",
+    "gif_url": "videos/0584-dRTfGZT.gif"
+  },
+  {
+    "id": "0587",
+    "name": "lever military press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "leverage machine",
+    "target": "delts",
+    "image": "images/0587-CggQhII.jpg",
+    "gif_url": "videos/0587-CggQhII.gif"
+  },
+  {
+    "id": "0590",
+    "name": "lever one arm shoulder press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "leverage machine",
+    "target": "delts",
+    "image": "images/0590-2KGnL6M.jpg",
+    "gif_url": "videos/0590-2KGnL6M.gif"
+  },
+  {
+    "id": "0602",
+    "name": "lever seated reverse fly",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "leverage machine",
+    "target": "delts",
+    "image": "images/0602-myfUsKf.jpg",
+    "gif_url": "videos/0602-myfUsKf.gif"
+  },
+  {
+    "id": "0601",
+    "name": "lever seated reverse fly (parallel grip)",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "leverage machine",
+    "target": "delts",
+    "image": "images/0601-xiHiJcA.jpg",
+    "gif_url": "videos/0601-xiHiJcA.gif"
+  },
+  {
+    "id": "0603",
+    "name": "lever shoulder press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "leverage machine",
+    "target": "delts",
+    "image": "images/0603-67n3r98.jpg",
+    "gif_url": "videos/0603-67n3r98.gif"
+  },
+  {
+    "id": "0869",
+    "name": "lever shoulder press v. 2",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "leverage machine",
+    "target": "delts",
+    "image": "images/0869-vqsbmL0.jpg",
+    "gif_url": "videos/0869-vqsbmL0.gif"
+  },
+  {
+    "id": "2318",
+    "name": "lever shoulder press v. 3",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "leverage machine",
+    "target": "delts",
+    "image": "images/2318-dNFYIU1.jpg",
+    "gif_url": "videos/2318-dNFYIU1.gif"
+  },
+  {
+    "id": "0669",
+    "name": "rear deltoid stretch",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "body weight",
+    "target": "delts",
+    "image": "images/0669-xifhB5W.jpg",
+    "gif_url": "videos/0669-xifhB5W.gif"
+  },
+  {
+    "id": "3122",
+    "name": "resistance band seated shoulder press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "resistance band",
+    "target": "delts",
+    "image": "images/3122-S93zLTG.jpg",
+    "gif_url": "videos/3122-S93zLTG.gif"
+  },
+  {
+    "id": "0747",
+    "name": "smith behind neck press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "smith machine",
+    "target": "delts",
+    "image": "images/0747-Gpn4ADc.jpg",
+    "gif_url": "videos/0747-Gpn4ADc.gif"
+  },
+  {
+    "id": "0762",
+    "name": "smith rear delt row",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "smith machine",
+    "target": "delts",
+    "image": "images/0762-nFUwqG6.jpg",
+    "gif_url": "videos/0762-nFUwqG6.gif"
+  },
+  {
+    "id": "0765",
+    "name": "smith seated shoulder press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "smith machine",
+    "target": "delts",
+    "image": "images/0765-xUwnBMT.jpg",
+    "gif_url": "videos/0765-xUwnBMT.gif"
+  },
+  {
+    "id": "0766",
+    "name": "smith shoulder press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "smith machine",
+    "target": "delts",
+    "image": "images/0766-903mzG8.jpg",
+    "gif_url": "videos/0766-903mzG8.gif"
+  },
+  {
+    "id": "0772",
+    "name": "smith standing behind head military press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "smith machine",
+    "target": "delts",
+    "image": "images/0772-ht8xDrP.jpg",
+    "gif_url": "videos/0772-ht8xDrP.gif"
+  },
+  {
+    "id": "0774",
+    "name": "smith standing military press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "smith machine",
+    "target": "delts",
+    "image": "images/0774-jjUPrze.jpg",
+    "gif_url": "videos/0774-jjUPrze.gif"
+  },
+  {
+    "id": "0775",
+    "name": "smith upright row",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "smith machine",
+    "target": "delts",
+    "image": "images/0775-1DN3iz4.jpg",
+    "gif_url": "videos/0775-1DN3iz4.gif"
+  },
+  {
+    "id": "0788",
+    "name": "standing behind neck press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/0788-xDh0lJr.jpg",
+    "gif_url": "videos/0788-xDh0lJr.gif"
+  },
+  {
+    "id": "0834",
+    "name": "weighted front raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "weighted",
+    "target": "delts",
+    "image": "images/0834-e4aFmFY.jpg",
+    "gif_url": "videos/0834-e4aFmFY.gif"
+  },
+  {
+    "id": "3641",
+    "name": "weighted kneeling step with swing",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "weighted",
+    "target": "delts",
+    "image": "images/3641-7uFJuXp.jpg",
+    "gif_url": "videos/3641-7uFJuXp.gif"
+  },
+  {
+    "id": "0844",
+    "name": "weighted round arm",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "weighted",
+    "target": "delts",
+    "image": "images/0844-VLYXo8S.jpg",
+    "gif_url": "videos/0844-VLYXo8S.gif"
+  }
+]

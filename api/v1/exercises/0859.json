@@ -1,0 +1,112 @@
+{
+  "id": "0859",
+  "name": "wrist rollerer",
+  "category": "lower arms",
+  "body_part": "lower arms",
+  "equipment": "weighted",
+  "instructions": {
+    "en": "Attach a weight to one end of a rope or bar. Hold the other end of the rope or bar with both hands, palms facing down. Stand with your feet shoulder-width apart and your arms fully extended in front of you. Slowly roll the weight up towards your hands by flexing your wrists. Pause for a moment at the top, then slowly lower the weight back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Attacca un peso a un'estremità di una corda o di una barra. Tieni l'altra estremità della corda o della barra con entrambe le mani, i palmi rivolti verso il basso. Stai con i piedi alla larghezza delle spalle e le braccia completamente distese davanti a te. Ruota lentamente il peso verso le mani flettendo i polsi. Fermati per un momento in alto, quindi abbassa lentamente il peso nella posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Bir halatın veya çubuğun bir ucuna ağırlık takın. Halatın veya çubuğun diğer ucunu iki elinizle, avuçlarınız aşağıya bakacak şekilde tutun. Ayaklarınız omuz genişliğinde açık ve kollarınız tamamen önünüzde uzatılmış şekilde ayakta durun. Bileklerinizi bükerek ağırlığı yavaşça ellerinize doğru yuvarlayın. Tepe noktasında bir süre duraklayın, ardından ağırlığı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Sujeta un peso a un extremo de una cuerda o barra. Sostén el otro extremo de la cuerda o barra con ambas manos, con las palmas hacia abajo. Ponte de pie con los pies separados a la altura de los hombros y los brazos completamente extendidos frente a ti. Enrolla lentamente el peso hacia las manos flexionando las muñecas. Haz una pausa breve en lo alto, luego baja lentamente el peso de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Прикрепите груз к одному концу веревки или перекладины. Возьмите другой конец веревки или перекладины обеими руками ладонями вниз. Встаньте, ноги на ширине плеч, а руки полностью вытянуты перед собой. Медленно поднимите вес к рукам, сгибая запястья. Задержитесь на мгновение в верхней точке, затем медленно опустите вес обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "将重物固定在绳子或杆的一端。 用双手握住绳子或杆的另一端，手掌朝下。 双脚分开与肩同宽站立，双臂完全伸展在身前。 弯曲手腕，慢慢地将重物向上滚动到手上。 在顶部暂停片刻，然后慢慢将重量放回起始位置。 重复所需的重复次数。",
+    "hi": "रस्सी या पट्टी के एक सिरे पर वजन लगाएँ। रस्सी या पट्टी के दूसरे सिरे को दोनों हाथों से पकड़ें, हथेलियाँ नीचे की ओर। अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और आपकी भुजाएं आपके सामने पूरी तरह फैली हुई हों। अपनी कलाइयों को मोड़कर वजन को धीरे-धीरे अपने हाथों की ओर ऊपर उठाएं। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे वजन को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Przymocuj obciążenie do jednego końca liny lub drążka. Trzymaj drugi koniec liny lub drążka obiema rękami, dłońmi skierowanymi w dół. Stań ze stopami rozstawionymi na szerokość barków i ramionami w pełni wyprostowanymi przed sobą. Powoli nawijaj obciążenie w stronę dłoni, zginając nadgarstki. Zatrzymaj się na chwilę na górze, a następnie powoli opuść obciążenie z powrotem do pozycji wyjściowej. Powtórz zgodnie z żądaną liczbą powtórzeń.",
+    "ko": "로프나 봉의 한쪽 끝에 웨이트를 부착합니다. 로프나 봉의 다른 쪽 끝을 양손으로 잡고 손가락이 아래를 향하도록 합니다. 발을 어깨 너비만큼 떨어뜨리고 팔을 앞으로 완전히 펴고 서 있습니다. 손목을 구부려 손을 향해 웨이트를 천천히 위로 굴립니다. 맨 위에서 잠깐 멈춘 후 웨이트를 천천히 시작 위치로 내립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Fixe un poids à une extrémité d'une corde ou d'une barre. Tiens l'autre extrémité de la corde ou de la barre des deux mains, les paumes tournées vers le bas. Tiens-toi debout, les pieds écartés à la largeur des épaules et les bras complètement tendus devant toi. Fais rouler lentement le poids vers tes mains en fléchissant les poignets. Marque une pause en haut, puis abaisse lentement le poids pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Attach a weight to one end of a rope or bar.",
+      "Hold the other end of the rope or bar with both hands, palms facing down.",
+      "Stand with your feet shoulder-width apart and your arms fully extended in front of you.",
+      "Slowly roll the weight up towards your hands by flexing your wrists.",
+      "Pause for a moment at the top, then slowly lower the weight back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Attacca un peso a un'estremità di una corda o di una barra.",
+      "Tieni l'altra estremità della corda o della barra con entrambe le mani, i palmi rivolti verso il basso.",
+      "Stai con i piedi alla larghezza delle spalle e le braccia completamente distese davanti a te.",
+      "Ruota lentamente il peso verso le mani flettendo i polsi.",
+      "Fermati per un momento in alto, quindi abbassa lentamente il peso nella posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Bir halatın veya çubuğun bir ucuna ağırlık takın.",
+      "Halatın veya çubuğun diğer ucunu iki elinizle, avuçlarınız aşağıya bakacak şekilde tutun.",
+      "Ayaklarınız omuz genişliğinde açık ve kollarınız tamamen önünüzde uzatılmış şekilde ayakta durun.",
+      "Bileklerinizi bükerek ağırlığı yavaşça ellerinize doğru yuvarlayın.",
+      "Tepe noktasında bir süre duraklayın, ardından ağırlığı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Sujeta un peso a un extremo de una cuerda o barra.",
+      "Sostén el otro extremo de la cuerda o barra con ambas manos, con las palmas hacia abajo.",
+      "Ponte de pie con los pies separados a la altura de los hombros y los brazos completamente extendidos frente a ti.",
+      "Enrolla lentamente el peso hacia las manos flexionando las muñecas.",
+      "Haz una pausa breve en lo alto, luego baja lentamente el peso de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Прикрепите груз к одному концу веревки или перекладины.",
+      "Возьмите другой конец веревки или перекладины обеими руками ладонями вниз.",
+      "Встаньте, ноги на ширине плеч, а руки полностью вытянуты перед собой.",
+      "Медленно поднимите вес к рукам, сгибая запястья.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите вес обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将重物固定在绳子或杆的一端。",
+      "用双手握住绳子或杆的另一端，手掌朝下。",
+      "双脚分开与肩同宽站立，双臂完全伸展在身前。",
+      "弯曲手腕，慢慢地将重物向上滚动到手上。",
+      "在顶部暂停片刻，然后慢慢将重量放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "रस्सी या पट्टी के एक सिरे पर वजन लगाएँ।",
+      "रस्सी या पट्टी के दूसरे सिरे को दोनों हाथों से पकड़ें, हथेलियाँ नीचे की ओर।",
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और आपकी भुजाएं आपके सामने पूरी तरह फैली हुई हों।",
+      "अपनी कलाइयों को मोड़कर वजन को धीरे-धीरे अपने हाथों की ओर ऊपर उठाएं।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे वजन को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Przymocuj obciążenie do jednego końca liny lub drążka.",
+      "Trzymaj drugi koniec liny lub drążka obiema rękami, dłońmi skierowanymi w dół.",
+      "Stań ze stopami rozstawionymi na szerokość barków i ramionami w pełni wyprostowanymi przed sobą.",
+      "Powoli nawijaj obciążenie w stronę dłoni, zginając nadgarstki.",
+      "Zatrzymaj się na chwilę na górze, a następnie powoli opuść obciążenie z powrotem do pozycji wyjściowej.",
+      "Powtórz zgodnie z żądaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "로프나 봉의 한쪽 끝에 웨이트를 부착합니다.",
+      "로프나 봉의 다른 쪽 끝을 양손으로 잡고 손가락이 아래를 향하도록 합니다.",
+      "발을 어깨 너비만큼 떨어뜨리고 팔을 앞으로 완전히 펴고 서 있습니다.",
+      "손목을 구부려 손을 향해 웨이트를 천천히 위로 굴립니다.",
+      "맨 위에서 잠깐 멈춘 후 웨이트를 천천히 시작 위치로 내립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Fixe un poids à une extrémité d'une corde ou d'une barre.",
+      "Tiens l'autre extrémité de la corde ou de la barre des deux mains, les paumes tournées vers le bas.",
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et les bras complètement tendus devant toi.",
+      "Fais rouler lentement le poids vers tes mains en fléchissant les poignets.",
+      "Marque une pause en haut, puis abaisse lentement le poids pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "triceps"
+  ],
+  "target": "forearms",
+  "image": "images/0859-bd5b860.jpg",
+  "gif_url": "videos/0859-bd5b860.gif",
+  "media_id": "bd5b860",
+  "created_at": "2026-03-18T12:31:32.906631+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

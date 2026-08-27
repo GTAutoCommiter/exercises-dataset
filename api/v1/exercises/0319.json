@@ -1,0 +1,111 @@
+{
+  "id": "0319",
+  "name": "dumbbell incline fly",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Set an incline bench to a 45-degree angle. Sit on the bench with a dumbbell in each hand, palms facing each other. Lie back on the bench and press the dumbbells up to the starting position, directly above your chest. Lower the dumbbells out to the sides in a wide arc until you feel a stretch in your chest. Pause for a moment, then squeeze your chest muscles to bring the dumbbells back up to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Imposta una panca inclinata a 45 gradi. Seduta sulla panchina con un manubrio in ogni mano, i palmi rivolti l'uno verso l'altro. Sdraiati sulla panca e spingi i manubri fino alla posizione iniziale, direttamente sopra il petto. Abbassa i manubri ai lati in un ampio arco finché non senti uno stiramento al petto. Fermati un attimo, poi stringi i muscoli del petto per riportare i manubri alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Eğimli bir bankı 45 derecelik bir açıya ayarlayın. Her iki elinizde birer dambıl, avuçlarınız birbirine bakacak şekilde bankta oturun. Bankta arkanıza yaslanın ve dambılları başlangıç ​​pozisyonuna, doğrudan göğsünüzün üzerine doğru bastırın. Göğsünüzde bir gerginlik hissedene kadar dambılları geniş bir yay çizerek yanlara doğru indirin. Bir an duraklayın, ardından dambılları başlangıç ​​pozisyonuna getirmek için göğüs kaslarınızı sıkın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta un banco inclinado a un ángulo de 45 grados. Siéntate en el banco con una mancuerna en cada mano, con las palmas enfrentadas entre sí. Recuéstate en el banco y empuja las mancuernas hacia arriba hasta la posición inicial, directamente por encima del pecho. Baja las mancuernas hacia los lados describiendo un amplio arco hasta sentir un estiramiento en el pecho. Haz una pausa por un momento, luego contrae los músculos del pecho para llevar las mancuernas de nuevo hacia arriba hasta la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Установите наклонную скамью под углом 45 градусов. Сядьте на скамью, взяв в каждую руку по гантели, ладони обращены друг к другу. Лягте на скамью и выжмите гантели в исходное положение, прямо над грудью. Опускайте гантели в стороны по широкой дуге, пока не почувствуете растяжение в груди. Сделайте паузу на мгновение, затем сожмите мышцы груди, чтобы вернуть гантели в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "将上斜凳设置为 45 度角。 坐在长凳上，双手各握一个哑铃，手掌相对。 仰卧在长凳上，将哑铃推至起始位置，位于胸部正上方。 将哑铃以宽弧线向两侧放低，直到感觉到胸部有拉伸感。 暂停片刻，然后挤压胸部肌肉，将哑铃拉回起始位置。 重复所需的重复次数。",
+    "hi": "एक झुकी हुई बेंच को 45-डिग्री के कोण पर सेट करें। प्रत्येक हाथ में डम्बल लेकर बेंच पर बैठें, हथेलियाँ एक-दूसरे के सामने हों। बेंच पर पीठ के बल लेट जाएँ और डम्बल को सीधे अपनी छाती के ऊपर प्रारंभिक स्थिति में दबाएँ। जब तक आप अपनी छाती में खिंचाव महसूस न करें तब तक डम्बल को एक चौड़े चाप में बगल की ओर नीचे करें। एक पल के लिए रुकें, फिर डम्बल को शुरुआती स्थिति में वापस लाने के लिए अपनी छाती की मांसपेशियों को निचोड़ें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Ustaw ławkę skośną pod kątem 45 stopni. Usiądź na ławce, trzymając hantle w obu rękach, dłonie skierowane do siebie. Połóż się na ławce i wypchnij hantle do pozycji wyjściowej, bezpośrednio nad klatką piersiową. Opuść hantle na boki szerokim łukiem, aż poczujesz rozciąganie w klatce piersiowej. Zatrzymaj się na chwilę, a następnie napnij mięśnie klatki piersiowej, aby przywrócić hantle do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "인클라인 벤치를 45도 각도로 설정합니다. 벤치에 앉아 각 손에 덤벨을 들되 손바닥이 서로 마주보도록 합니다. 벤치에 등을 기대고 덤벨을 가슴 위로 올려 시작 위치에 놓습니다. 덤벨을 옆으로 넓은 호를 그리며 내려 가슴에 스트레치를 느낍니다. 잠깐 멈춘 후 가슴 근육을 조이면서 덤벨을 시작 위치로 올립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Règle un banc incliné à un angle de 45 degrés. Assieds-toi sur le banc avec un haltère dans chaque main, paumes tournées l'une vers l'autre. Allonge-toi sur le dos sur le banc et pousse les haltères vers le haut jusqu'à la position de départ, directement au-dessus de ta poitrine. Abaisse les haltères sur les côtés en un large arc de cercle jusqu'à ce que tu ressentes un étirement dans ta poitrine. Marque une pause, puis contracte tes muscles pectoraux pour ramener les haltères vers le haut jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Set an incline bench to a 45-degree angle.",
+      "Sit on the bench with a dumbbell in each hand, palms facing each other.",
+      "Lie back on the bench and press the dumbbells up to the starting position, directly above your chest.",
+      "Lower the dumbbells out to the sides in a wide arc until you feel a stretch in your chest.",
+      "Pause for a moment, then squeeze your chest muscles to bring the dumbbells back up to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Imposta una panca inclinata a 45 gradi.",
+      "Seduta sulla panchina con un manubrio in ogni mano, i palmi rivolti l'uno verso l'altro.",
+      "Sdraiati sulla panca e spingi i manubri fino alla posizione iniziale, direttamente sopra il petto.",
+      "Abbassa i manubri ai lati in un ampio arco finché non senti uno stiramento al petto.",
+      "Fermati un attimo, poi stringi i muscoli del petto per riportare i manubri alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Eğimli bir bankı 45 derecelik bir açıya ayarlayın.",
+      "Her iki elinizde birer dambıl, avuçlarınız birbirine bakacak şekilde bankta oturun.",
+      "Bankta arkanıza yaslanın ve dambılları başlangıç ​​pozisyonuna, doğrudan göğsünüzün üzerine doğru bastırın.",
+      "Göğsünüzde bir gerginlik hissedene kadar dambılları geniş bir yay çizerek yanlara doğru indirin.",
+      "Bir an duraklayın, ardından dambılları başlangıç ​​pozisyonuna getirmek için göğüs kaslarınızı sıkın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta un banco inclinado a un ángulo de 45 grados.",
+      "Siéntate en el banco con una mancuerna en cada mano, con las palmas enfrentadas entre sí.",
+      "Recuéstate en el banco y empuja las mancuernas hacia arriba hasta la posición inicial, directamente por encima del pecho.",
+      "Baja las mancuernas hacia los lados describiendo un amplio arco hasta sentir un estiramiento en el pecho.",
+      "Haz una pausa por un momento, luego contrae los músculos del pecho para llevar las mancuernas de nuevo hacia arriba hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Установите наклонную скамью под углом 45 градусов.",
+      "Сядьте на скамью, взяв в каждую руку по гантели, ладони обращены друг к другу.",
+      "Лягте на скамью и выжмите гантели в исходное положение, прямо над грудью.",
+      "Опускайте гантели в стороны по широкой дуге, пока не почувствуете растяжение в груди.",
+      "Сделайте паузу на мгновение, затем сожмите мышцы груди, чтобы вернуть гантели в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将上斜凳设置为 45 度角。",
+      "坐在长凳上，双手各握一个哑铃，手掌相对。",
+      "仰卧在长凳上，将哑铃推至起始位置，位于胸部正上方。",
+      "将哑铃以宽弧线向两侧放低，直到感觉到胸部有拉伸感。",
+      "暂停片刻，然后挤压胸部肌肉，将哑铃拉回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "एक झुकी हुई बेंच को 45-डिग्री के कोण पर सेट करें।",
+      "प्रत्येक हाथ में डम्बल लेकर बेंच पर बैठें, हथेलियाँ एक-दूसरे के सामने हों।",
+      "बेंच पर पीठ के बल लेट जाएँ और डम्बल को सीधे अपनी छाती के ऊपर प्रारंभिक स्थिति में दबाएँ।",
+      "जब तक आप अपनी छाती में खिंचाव महसूस न करें तब तक डम्बल को एक चौड़े चाप में बगल की ओर नीचे करें।",
+      "एक पल के लिए रुकें, फिर डम्बल को शुरुआती स्थिति में वापस लाने के लिए अपनी छाती की मांसपेशियों को निचोड़ें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Ustaw ławkę skośną pod kątem 45 stopni.",
+      "Usiądź na ławce, trzymając hantle w obu rękach, dłonie skierowane do siebie.",
+      "Połóż się na ławce i wypchnij hantle do pozycji wyjściowej, bezpośrednio nad klatką piersiową.",
+      "Opuść hantle na boki szerokim łukiem, aż poczujesz rozciąganie w klatce piersiowej.",
+      "Zatrzymaj się na chwilę, a następnie napnij mięśnie klatki piersiowej, aby przywrócić hantle do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "인클라인 벤치를 45도 각도로 설정합니다.",
+      "벤치에 앉아 각 손에 덤벨을 들되 손바닥이 서로 마주보도록 합니다.",
+      "벤치에 등을 기대고 덤벨을 가슴 위로 올려 시작 위치에 놓습니다.",
+      "덤벨을 옆으로 넓은 호를 그리며 내려 가슴에 스트레치를 느낍니다.",
+      "잠깐 멈춘 후 가슴 근육을 조이면서 덤벨을 시작 위치로 올립니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Règle un banc incliné à un angle de 45 degrés.",
+      "Assieds-toi sur le banc avec un haltère dans chaque main, paumes tournées l'une vers l'autre.",
+      "Allonge-toi sur le dos sur le banc et pousse les haltères vers le haut jusqu'à la position de départ, directement au-dessus de ta poitrine.",
+      "Abaisse les haltères sur les côtés en un large arc de cercle jusqu'à ce que tu ressentes un étirement dans ta poitrine.",
+      "Marque une pause, puis contracte tes muscles pectoraux pour ramener les haltères vers le haut jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders"
+  ],
+  "target": "pectorals",
+  "image": "images/0319-ESOd5Pl.jpg",
+  "gif_url": "videos/0319-ESOd5Pl.gif",
+  "media_id": "ESOd5Pl",
+  "created_at": "2026-03-18T12:31:32.878622+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

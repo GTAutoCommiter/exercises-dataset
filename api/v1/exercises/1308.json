@@ -1,0 +1,122 @@
+{
+  "id": "1308",
+  "name": "smith wide grip bench press",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "smith machine",
+  "instructions": {
+    "en": "Adjust the bench to a comfortable position on the smith machine. Lie down on the bench with your feet flat on the ground. Grasp the barbell with a wide grip, slightly wider than shoulder-width apart. Unrack the barbell and lower it slowly towards your chest, keeping your elbows out to the sides. Pause for a moment when the barbell touches your chest. Push the barbell back up to the starting position, fully extending your arms. Repeat for the desired number of repetitions.",
+    "it": "Regola la panca in una posizione comoda sulla macchina da fabbro. Sdraiati sulla panca con i piedi appoggiati a terra. Afferrare il bilanciere con una presa ampia, leggermente più larga della larghezza delle spalle. Togli il bilanciere e abbassalo lentamente verso il petto, mantenendo i gomiti ai lati. Fai una pausa per un momento quando il bilanciere tocca il tuo petto. Spingi nuovamente il bilanciere nella posizione iniziale, estendendo completamente le braccia. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Tezgahı demirci makinesinde rahat bir konuma ayarlayın. Ayaklarınız yere düz basacak şekilde bankta uzanın. Halteri omuz genişliğinden biraz daha geniş, geniş bir tutuşla kavrayın. Halterin askısını açın ve dirseklerinizi yanlarda tutarak yavaşça göğsünüze doğru indirin. Halter göğsünüze dokunduğunda bir an duraklayın. Kollarınızı tamamen uzatarak halteri başlangıç ​​pozisyonuna geri itin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta el banco a una posición cómoda en la máquina Smith. Túmbate en el banco con los pies planos sobre el suelo. Agarra la barra con un agarre amplio, un poco más ancho que la separación de los hombros. Desengancha la barra y bájala lentamente hacia tu pecho, manteniendo los codos hacia afuera a los costados. Haz una pausa breve cuando la barra toque el pecho. Empuja la barra de vuelta a la posición inicial, extendiendo completamente los brazos. Repite el número de repeticiones deseado.",
+    "ru": "Установите скамью в удобное положение на машине кузнеца. Лягте на скамью, положив ноги на землю. Возьмите штангу широким хватом, на расстоянии чуть шире ширины плеч. Снимите штангу и медленно опустите ее к груди, держа локти в стороны. Сделайте паузу на мгновение, когда штанга коснется вашей груди. Верните штангу в исходное положение, полностью выпрямив руки. Повторите необходимое количество повторений.",
+    "zh": "将史密斯机上的长凳调整到舒适的位置。 躺在长凳上，双脚平放在地上。 宽握距抓住杠铃，握距略宽于肩宽。 松开杠铃并将其慢慢降低到胸部，保持肘部向两侧伸出。 当杠铃触及胸部时暂停片刻。 将杠铃推回到起始位置，完全伸展双臂。 重复所需的重复次数。",
+    "hi": "स्मिथ मशीन पर बेंच को आरामदायक स्थिति में समायोजित करें। अपने पैरों को ज़मीन पर सपाट करके बेंच पर लेट जाएँ। बारबेल को कंधे की चौड़ाई से थोड़ा अधिक चौड़ी पकड़ से पकड़ें। बारबेल को खोलें और अपनी कोहनियों को बगल की ओर रखते हुए इसे धीरे-धीरे अपनी छाती की ओर नीचे करें। जब बारबेल आपकी छाती को छूए तो एक पल के लिए रुकें। अपनी भुजाओं को पूरी तरह फैलाते हुए बारबेल को वापस प्रारंभिक स्थिति में धकेलें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Ustaw ławkę w wygodnej pozycji na suwnicy Smitha. Połóż się na ławce, ze stopami płasko na podłodze. Chwyć sztangę szerokim chwytem, nieco szerszym niż szerokość barków. Zdejmij sztangę ze stojaka i powoli opuść ją w kierunku klatki piersiowej, trzymając łokcie na zewnątrz. Zatrzymaj się na chwilę, gdy sztanga dotknie klatki piersiowej. Wypchnij sztangę z powrotem do pozycji wyjściowej, całkowicie prostując ręce. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "스미스 머신의 벤치를 편안한 위치로 조정합니다. 벤치 위에 누워서 발을 바닥에 평평하게 놓습니다. 어깨 너비보다 약간 넓은 너비의 와이드 그립으로 바벨을 잡습니다. 바벨을 언래크하고 팔꿈치를 옆으로 벌린 상태에서 천천히 가슴 쪽으로 내립니다. 바벨이 가슴에 닿을 때 잠깐 멈춥니다. 바벨을 시작 위치로 올려 팔을 완전히 펼칩니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Règle le banc dans une position confortable sur la machine Smith. Allonge-toi sur le banc, les pieds à plat au sol. Saisis la barre avec une prise large, un peu plus large que la largeur des épaules. Sors la barre du support et abaisse-la lentement vers ta poitrine, en gardant les coudes ouverts sur les côtés. Marque une pause lorsque la barre touche ta poitrine. Repousse la barre vers le haut jusqu'à la position de départ en tendant complètement tes bras. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the bench to a comfortable position on the smith machine.",
+      "Lie down on the bench with your feet flat on the ground.",
+      "Grasp the barbell with a wide grip, slightly wider than shoulder-width apart.",
+      "Unrack the barbell and lower it slowly towards your chest, keeping your elbows out to the sides.",
+      "Pause for a moment when the barbell touches your chest.",
+      "Push the barbell back up to the starting position, fully extending your arms.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Regola la panca in una posizione comoda sulla macchina da fabbro.",
+      "Sdraiati sulla panca con i piedi appoggiati a terra.",
+      "Afferrare il bilanciere con una presa ampia, leggermente più larga della larghezza delle spalle.",
+      "Togli il bilanciere e abbassalo lentamente verso il petto, mantenendo i gomiti ai lati.",
+      "Fai una pausa per un momento quando il bilanciere tocca il tuo petto.",
+      "Spingi nuovamente il bilanciere nella posizione iniziale, estendendo completamente le braccia.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Tezgahı demirci makinesinde rahat bir konuma ayarlayın.",
+      "Ayaklarınız yere düz basacak şekilde bankta uzanın.",
+      "Halteri omuz genişliğinden biraz daha geniş, geniş bir tutuşla kavrayın.",
+      "Halterin askısını açın ve dirseklerinizi yanlarda tutarak yavaşça göğsünüze doğru indirin.",
+      "Halter göğsünüze dokunduğunda bir an duraklayın.",
+      "Kollarınızı tamamen uzatarak halteri başlangıç ​​pozisyonuna geri itin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta el banco a una posición cómoda en la máquina Smith.",
+      "Túmbate en el banco con los pies planos sobre el suelo.",
+      "Agarra la barra con un agarre amplio, un poco más ancho que la separación de los hombros.",
+      "Desengancha la barra y bájala lentamente hacia tu pecho, manteniendo los codos hacia afuera a los costados.",
+      "Haz una pausa breve cuando la barra toque el pecho.",
+      "Empuja la barra de vuelta a la posición inicial, extendiendo completamente los brazos.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Установите скамью в удобное положение на машине кузнеца.",
+      "Лягте на скамью, положив ноги на землю.",
+      "Возьмите штангу широким хватом, на расстоянии чуть шире ширины плеч.",
+      "Снимите штангу и медленно опустите ее к груди, держа локти в стороны.",
+      "Сделайте паузу на мгновение, когда штанга коснется вашей груди.",
+      "Верните штангу в исходное положение, полностью выпрямив руки.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将史密斯机上的长凳调整到舒适的位置。",
+      "躺在长凳上，双脚平放在地上。",
+      "宽握距抓住杠铃，握距略宽于肩宽。",
+      "松开杠铃并将其慢慢降低到胸部，保持肘部向两侧伸出。",
+      "当杠铃触及胸部时暂停片刻。",
+      "将杠铃推回到起始位置，完全伸展双臂。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "स्मिथ मशीन पर बेंच को आरामदायक स्थिति में समायोजित करें।",
+      "अपने पैरों को ज़मीन पर सपाट करके बेंच पर लेट जाएँ।",
+      "बारबेल को कंधे की चौड़ाई से थोड़ा अधिक चौड़ी पकड़ से पकड़ें।",
+      "बारबेल को खोलें और अपनी कोहनियों को बगल की ओर रखते हुए इसे धीरे-धीरे अपनी छाती की ओर नीचे करें।",
+      "जब बारबेल आपकी छाती को छूए तो एक पल के लिए रुकें।",
+      "अपनी भुजाओं को पूरी तरह फैलाते हुए बारबेल को वापस प्रारंभिक स्थिति में धकेलें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Ustaw ławkę w wygodnej pozycji na suwnicy Smitha.",
+      "Połóż się na ławce, ze stopami płasko na podłodze.",
+      "Chwyć sztangę szerokim chwytem, nieco szerszym niż szerokość barków.",
+      "Zdejmij sztangę ze stojaka i powoli opuść ją w kierunku klatki piersiowej, trzymając łokcie na zewnątrz.",
+      "Zatrzymaj się na chwilę, gdy sztanga dotknie klatki piersiowej.",
+      "Wypchnij sztangę z powrotem do pozycji wyjściowej, całkowicie prostując ręce.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "스미스 머신의 벤치를 편안한 위치로 조정합니다.",
+      "벤치 위에 누워서 발을 바닥에 평평하게 놓습니다.",
+      "어깨 너비보다 약간 넓은 너비의 와이드 그립으로 바벨을 잡습니다.",
+      "바벨을 언래크하고 팔꿈치를 옆으로 벌린 상태에서 천천히 가슴 쪽으로 내립니다.",
+      "바벨이 가슴에 닿을 때 잠깐 멈춥니다.",
+      "바벨을 시작 위치로 올려 팔을 완전히 펼칩니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Règle le banc dans une position confortable sur la machine Smith.",
+      "Allonge-toi sur le banc, les pieds à plat au sol.",
+      "Saisis la barre avec une prise large, un peu plus large que la largeur des épaules.",
+      "Sors la barre du support et abaisse-la lentement vers ta poitrine, en gardant les coudes ouverts sur les côtés.",
+      "Marque une pause lorsque la barre touche ta poitrine.",
+      "Repousse la barre vers le haut jusqu'à la position de départ en tendant complètement tes bras.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "target": "pectorals",
+  "image": "images/1308-zoOvPcx.jpg",
+  "gif_url": "videos/1308-zoOvPcx.gif",
+  "media_id": "zoOvPcx",
+  "created_at": "2026-03-18T12:31:32.891239+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

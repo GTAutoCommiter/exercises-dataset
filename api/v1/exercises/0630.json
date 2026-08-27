@@ -1,0 +1,103 @@
+{
+  "id": "0630",
+  "name": "mountain climber",
+  "category": "cardio",
+  "body_part": "cardio",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Start in a high plank position with your hands directly under your shoulders and your body in a straight line. Engage your core and bring your right knee towards your chest, then quickly switch and bring your left knee towards your chest. Continue alternating legs in a running motion, keeping your hips low and your core engaged. Maintain a steady pace and breathe evenly throughout the exercise. Repeat for the desired number of repetitions.",
+    "it": "Inizia in una posizione di plancia alta con le mani direttamente sotto le spalle e il corpo in linea retta. Coinvolgi il core e porta il ginocchio destro verso il petto, quindi cambia rapidamente e porta il ginocchio sinistro verso il petto. Continua ad alternare le gambe con un movimento di corsa, mantenendo i fianchi bassi e il core impegnato. Mantieni un ritmo costante e respira in modo uniforme durante l'esercizio. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Elleriniz doğrudan omuzlarınızın altında ve vücudunuz düz bir çizgide olacak şekilde yüksek bir plank pozisyonuyla başlayın. Merkez bölgenizi devreye sokun ve sağ dizinizi göğsünüze doğru getirin, ardından hızla geçiş yapın ve sol dizinizi göğsünüze doğru getirin. Kalçalarınızı aşağıda ve merkez bölgenizi meşgul tutarak, koşu hareketinde bacaklarınızı değiştirmeye devam edin. Egzersiz boyunca sabit bir tempoyu koruyun ve eşit nefes alın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Comienza en una posición de plancha alta con las manos justo debajo de los hombros y el cuerpo en línea recta. Activa el core y lleva la rodilla derecha hacia el pecho, luego cambia rápidamente y lleva la rodilla izquierda hacia el pecho. Continúa alternando las piernas con un movimiento de carrera, manteniendo las caderas bajas y el core activado. Mantén un ritmo constante y respira de forma regular durante todo el ejercicio. Repite el número de repeticiones deseado.",
+    "ru": "Начните с позиции высокой планки, положив руки прямо под плечи, а тело образуя прямую линию. Напрягите корпус и поднесите правое колено к груди, затем быстро переключитесь и поднесите левое колено к груди. Продолжайте чередовать ноги в беговом движении, держа бедра низко и напрягая корпус. Поддерживайте устойчивый темп и дышите ровно на протяжении всего упражнения. Повторите необходимое количество повторений.",
+    "zh": "从高平板支撑位置开始，双手直接放在肩膀下方，身体呈一条直线。 启动你的核心并将你的右膝盖靠近你的胸部，然后快速切换并将你的左膝盖靠近你的胸部。 继续以跑步动作交替双腿，保持臀部较低，核心肌群参与。 在整个练习过程中保持稳定的节奏和均匀的呼吸。 重复所需的重复次数。",
+    "hi": "अपने हाथों को सीधे अपने कंधों के नीचे और अपने शरीर को एक सीधी रेखा में रखते हुए एक उच्च तख़्त स्थिति में शुरुआत करें। अपने कोर को संलग्न करें और अपने दाहिने घुटने को अपनी छाती की ओर लाएँ, फिर जल्दी से स्विच करें और अपने बाएँ घुटने को अपनी छाती की ओर लाएँ। अपने कूल्हों को नीचे और अपने कोर को व्यस्त रखते हुए पैरों को बारी-बारी से चलाना जारी रखें। पूरे अभ्यास के दौरान स्थिर गति बनाए रखें और समान रूप से सांस लें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Zacznij w wysokiej pozycji deski, dłonie bezpośrednio pod barkami, a ciało w prostej linii. Napnij mięśnie tułowia i przyciągnij prawe kolano w kierunku klatki piersiowej, a następnie szybko zmień nogę, przyciągając lewe kolano w kierunku klatki piersiowej. Kontynuuj naprzemienne ruchy nóg w tempie biegu, utrzymując biodra nisko, a mięśnie tułowia napięte. Utrzymuj stałe tempo i oddychaj równomiernie przez cały czas trwania ćwiczenia. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "높은 플랭크 자세를 취해 손을 어깨 바로 아래 놓고 몸을 일직선으로 유지합니다. 코어에 힘을 주고 오른쪽 무릎을 가슴 쪽으로 가져온 후 빠르게 왼쪽 무릎으로 전환합니다. 달리는 동작으로 좌우 다리를 교대로 가져가면서 엉덩이를 낮게 유지하고 코어를 계속 조입니다. 꾸준한 속도를 유지하고 운동 내내 균등하게 숨을 쉽니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Commence en position de planche haute, les mains directement sous les épaules et le corps bien aligné. Gaine ta sangle abdominale et amène ton genou droit vers ta poitrine, puis change rapidement et amène ton genou gauche vers ta poitrine. Continue à alterner les jambes dans un mouvement de course en gardant tes hanches basses et ta sangle abdominale gainée. Maintiens un rythme régulier et respire de façon régulière pendant tout l'exercice. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start in a high plank position with your hands directly under your shoulders and your body in a straight line.",
+      "Engage your core and bring your right knee towards your chest, then quickly switch and bring your left knee towards your chest.",
+      "Continue alternating legs in a running motion, keeping your hips low and your core engaged.",
+      "Maintain a steady pace and breathe evenly throughout the exercise.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia in una posizione di plancia alta con le mani direttamente sotto le spalle e il corpo in linea retta.",
+      "Coinvolgi il core e porta il ginocchio destro verso il petto, quindi cambia rapidamente e porta il ginocchio sinistro verso il petto.",
+      "Continua ad alternare le gambe con un movimento di corsa, mantenendo i fianchi bassi e il core impegnato.",
+      "Mantieni un ritmo costante e respira in modo uniforme durante l'esercizio.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Elleriniz doğrudan omuzlarınızın altında ve vücudunuz düz bir çizgide olacak şekilde yüksek bir plank pozisyonuyla başlayın.",
+      "Merkez bölgenizi devreye sokun ve sağ dizinizi göğsünüze doğru getirin, ardından hızla geçiş yapın ve sol dizinizi göğsünüze doğru getirin.",
+      "Kalçalarınızı aşağıda ve merkez bölgenizi meşgul tutarak, koşu hareketinde bacaklarınızı değiştirmeye devam edin.",
+      "Egzersiz boyunca sabit bir tempoyu koruyun ve eşit nefes alın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Comienza en una posición de plancha alta con las manos justo debajo de los hombros y el cuerpo en línea recta.",
+      "Activa el core y lleva la rodilla derecha hacia el pecho, luego cambia rápidamente y lleva la rodilla izquierda hacia el pecho.",
+      "Continúa alternando las piernas con un movimiento de carrera, manteniendo las caderas bajas y el core activado.",
+      "Mantén un ritmo constante y respira de forma regular durante todo el ejercicio.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с позиции высокой планки, положив руки прямо под плечи, а тело образуя прямую линию.",
+      "Напрягите корпус и поднесите правое колено к груди, затем быстро переключитесь и подтяните левое колено к груди.",
+      "Продолжайте чередовать ноги в беговом движении, держа бедра низко и напрягая корпус.",
+      "Поддерживайте устойчивый темп и дышите ровно на протяжении всего упражнения.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "从高平板支撑位置开始，双手直接放在肩膀下方，身体呈一条直线。",
+      "启动你的核心并将你的右膝盖靠近你的胸部，然后快速切换并将你的左膝盖靠近你的胸部。",
+      "继续以跑步动作交替双腿，保持臀部较低，核心肌群参与。",
+      "在整个练习过程中保持稳定的节奏和均匀的呼吸。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने हाथों को सीधे अपने कंधों के नीचे और अपने शरीर को एक सीधी रेखा में रखते हुए एक उच्च तख़्त स्थिति में शुरुआत करें।",
+      "अपने कोर को संलग्न करें और अपने दाहिने घुटने को अपनी छाती की ओर लाएँ, फिर जल्दी से स्विच करें और अपने बाएँ घुटने को अपनी छाती की ओर लाएँ।",
+      "अपने कूल्हों को नीचे और अपने कोर को व्यस्त रखते हुए पैरों को बारी-बारी से चलाना जारी रखें।",
+      "पूरे अभ्यास के दौरान स्थिर गति बनाए रखें और समान रूप से सांस लें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Zacznij w wysokiej pozycji deski, dłonie bezpośrednio pod barkami, a ciało w prostej linii.",
+      "Napnij mięśnie tułowia i przyciągnij prawe kolano w kierunku klatki piersiowej, a następnie szybko zmień nogę, przyciągając lewe kolano w kierunku klatki piersiowej.",
+      "Kontynuuj naprzemienne ruchy nóg w tempie biegu, utrzymując biodra nisko, a mięśnie tułowia napięte.",
+      "Utrzymuj stałe tempo i oddychaj równomiernie przez cały czas trwania ćwiczenia.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "높은 플랭크 자세를 취해 손을 어깨 바로 아래 놓고 몸을 일직선으로 유지합니다.",
+      "코어에 힘을 주고 오른쪽 무릎을 가슴 쪽으로 가져온 후 빠르게 왼쪽 무릎으로 전환합니다.",
+      "달리는 동작으로 좌우 다리를 교대로 가져가면서 엉덩이를 낮게 유지하고 코어를 계속 조입니다.",
+      "꾸준한 속도를 유지하고 운동 내내 균등하게 숨을 쉽니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Commence en position de planche haute, les mains directement sous les épaules et le corps bien aligné.",
+      "Gaine ta sangle abdominale et amène ton genou droit vers ta poitrine, puis change rapidement et amène ton genou gauche vers ta poitrine.",
+      "Continue à alterner les jambes dans un mouvement de course en gardant tes hanches basses et ta sangle abdominale gainée.",
+      "Maintiens un rythme régulier et respire de façon régulière pendant tout l'exercice.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "core",
+  "secondary_muscles": [
+    "core",
+    "shoulders",
+    "triceps"
+  ],
+  "target": "cardiovascular system",
+  "image": "images/0630-RJgzwny.jpg",
+  "gif_url": "videos/0630-RJgzwny.gif",
+  "media_id": "RJgzwny",
+  "created_at": "2026-03-18T12:31:32.887777+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

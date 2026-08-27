@@ -1,0 +1,102 @@
+{
+  "id": "0082",
+  "name": "barbell reverse wrist curl",
+  "category": "lower arms",
+  "body_part": "lower arms",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Sit on a bench with your feet flat on the ground and hold a barbell with an overhand grip, palms facing down. Rest your forearms on your thighs, allowing your wrists to hang off the edge. Slowly curl your wrists upward, bringing the barbell towards your body. Pause for a moment at the top, then slowly lower the barbell back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Sedersi su una panca con i piedi appoggiati a terra e tenere un bilanciere con una presa prona, i palmi rivolti verso il basso. Appoggia gli avambracci sulle cosce, lasciando che i polsi pendano dal bordo. Piega lentamente i polsi verso l'alto, portando il bilanciere verso il tuo corpo. Fermati per un momento in alto, quindi abbassa lentamente il bilanciere nella posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız yere düz basacak şekilde bir bankta oturun ve halteri avuç içleriniz aşağıya bakacak şekilde üstten kavrayarak tutun. Ön kollarınızı uyluklarınıza yaslayın, bileklerinizin kenardan sarkmasına izin verin. Bileklerinizi yavaşça yukarı doğru kıvırarak halteri vücudunuza doğru getirin. Tepe noktasında bir süre duraklayın, ardından halteri yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Siéntate en un banco con los pies planos sobre el suelo y sujeta una barra con un agarre pronado, con las palmas hacia abajo. Apoya los antebrazos sobre los muslos, dejando que las muñecas cuelguen del borde. Flexiona lentamente las muñecas hacia arriba, llevando la barra hacia el cuerpo. Haz una pausa breve en la parte alta y luego baja lentamente la barra de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Сядьте на скамью, поставьте ноги на землю и возьмите штангу хватом сверху ладонями вниз. Положите предплечья на бедра, позволяя запястьям свисать с края. Медленно поднимите запястья вверх, приближая штангу к телу. Задержитесь на мгновение в верхней точке, затем медленно опустите штангу обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "坐在长凳上，双脚平放在地上，正手握住杠铃，手掌朝下。 将前臂放在大腿上，让手腕悬在边缘。 慢慢向上弯曲手腕，将杠铃拉向身体。 在顶部停顿片刻，然后慢慢将杠铃放回起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को ज़मीन पर सपाट करके एक बेंच पर बैठें और हथेलियाँ नीचे की ओर रखते हुए बारबेल को ज़ोर से पकड़ें। अपने अग्रबाहुओं को अपनी जाँघों पर टिकाएँ, जिससे आपकी कलाइयाँ किनारे से लटक जाएँ। धीरे-धीरे अपनी कलाइयों को ऊपर की ओर मोड़ें, बारबेल को अपने शरीर की ओर लाएं। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे बारबेल को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Usiądź na ławce, stopy oprzyj płasko na podłodze, i chwyć sztangę chwytem nachwytem, dłonie skierowane w dół. Oprzyj przedramiona na udach, pozwalając nadgarstkom zwisać za krawędzią. Powoli zginaj nadgarstki w górę, przyciągając sztangę w kierunku ciała. Zatrzymaj się na chwilę na górze, a następnie powoli opuść sztangę z powrotem do pozycji wyjściowej. Powtórz odpowiednią liczbę razy.",
+    "ko": "벤치에 앉아 발은 바닥에 놓습니다. 오버핸드 그립으로 바벨을 잡으며 손은 아래를 향합니다. 전완을 허벅지 위에 올리고 손목은 벤치 끝에서 튀어나온 상태로 유지합니다. 손목을 천천히 위로 컬링하며 바벨을 몸 방향으로 올립니다. 상단에서 잠시 멈춘 후 천천히 바벨을 시작 위치로 내립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Assieds-toi sur un banc, les pieds à plat sur le sol, et tiens une barre avec une prise en pronation, paumes tournées vers le bas. Pose tes avant-bras sur tes cuisses, en laissant tes poignets dépasser du bord. Enroule lentement tes poignets vers le haut, en ramenant la barre vers ton corps. Marque une pause en haut, puis abaisse lentement la barre pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on a bench with your feet flat on the ground and hold a barbell with an overhand grip, palms facing down.",
+      "Rest your forearms on your thighs, allowing your wrists to hang off the edge.",
+      "Slowly curl your wrists upward, bringing the barbell towards your body.",
+      "Pause for a moment at the top, then slowly lower the barbell back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Sedersi su una panca con i piedi appoggiati a terra e tenere un bilanciere con una presa prona, i palmi rivolti verso il basso.",
+      "Appoggia gli avambracci sulle cosce, lasciando che i polsi pendano dal bordo.",
+      "Piega lentamente i polsi verso l'alto, portando il bilanciere verso il tuo corpo.",
+      "Fermati per un momento in alto, quindi abbassa lentamente il bilanciere nella posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız yere düz basacak şekilde bir bankta oturun ve halteri avuç içleriniz aşağıya bakacak şekilde üstten kavrayarak tutun.",
+      "Ön kollarınızı uyluklarınıza yaslayın, bileklerinizin kenardan sarkmasına izin verin.",
+      "Bileklerinizi yavaşça yukarı doğru kıvırarak halteri vücudunuza doğru getirin.",
+      "Tepe noktasında bir süre duraklayın, ardından halteri yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Siéntate en un banco con los pies planos sobre el suelo y sujeta una barra con un agarre pronado, con las palmas hacia abajo.",
+      "Apoya los antebrazos sobre los muslos, dejando que las muñecas cuelguen del borde.",
+      "Flexiona lentamente las muñecas hacia arriba, llevando la barra hacia el cuerpo.",
+      "Haz una pausa breve en la parte alta y luego baja lentamente la barra de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на скамью, поставьте ноги на землю и возьмите штангу хватом сверху ладонями вниз.",
+      "Положите предплечья на бедра, позволяя запястьям свисать с края.",
+      "Медленно поднимите запястья вверх, приближая штангу к телу.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите штангу обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "坐在长凳上，双脚平放在地上，正手握住杠铃，手掌朝下。",
+      "将前臂放在大腿上，让手腕悬在边缘。",
+      "慢慢向上弯曲手腕，将杠铃拉向身体。",
+      "在顶部停顿片刻，然后慢慢将杠铃放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को ज़मीन पर सपाट करके एक बेंच पर बैठें और हथेलियाँ नीचे की ओर रखते हुए बारबेल को ज़ोर से पकड़ें।",
+      "अपने अग्रबाहुओं को अपनी जाँघों पर टिकाएँ, जिससे आपकी कलाइयाँ किनारे से लटक जाएँ।",
+      "धीरे-धीरे अपनी कलाइयों को ऊपर की ओर मोड़ें, बारबेल को अपने शरीर की ओर लाएं।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे बारबेल को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Usiądź na ławce, stopy oprzyj płasko na podłodze, i chwyć sztangę chwytem nachwytem, dłonie skierowane w dół.",
+      "Oprzyj przedramiona na udach, pozwalając nadgarstkom zwisać za krawędzią.",
+      "Powoli zginaj nadgarstki w górę, przyciągając sztangę w kierunku ciała.",
+      "Zatrzymaj się na chwilę na górze, a następnie powoli opuść sztangę z powrotem do pozycji wyjściowej.",
+      "Powtórz odpowiednią liczbę razy."
+    ],
+    "ko": [
+      "벤치에 앉아 발은 바닥에 놓습니다.",
+      "오버핸드 그립으로 바벨을 잡으며 손은 아래를 향합니다.",
+      "전완을 허벅지 위에 올리고 손목은 벤치 끝에서 튀어나온 상태로 유지합니다.",
+      "손목을 천천히 위로 컬링하며 바벨을 몸 방향으로 올립니다.",
+      "상단에서 잠시 멈춘 후 천천히 바벨을 시작 위치로 내립니다."
+    ],
+    "fr": [
+      "Assieds-toi sur un banc, les pieds à plat sur le sol, et tiens une barre avec une prise en pronation, paumes tournées vers le bas.",
+      "Pose tes avant-bras sur tes cuisses, en laissant tes poignets dépasser du bord.",
+      "Enroule lentement tes poignets vers le haut, en ramenant la barre vers ton corps.",
+      "Marque une pause en haut, puis abaisse lentement la barre pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "brachialis"
+  ],
+  "target": "forearms",
+  "image": "images/0082-LsZkfU6.jpg",
+  "gif_url": "videos/0082-LsZkfU6.gif",
+  "media_id": "LsZkfU6",
+  "created_at": "2026-03-18T12:31:32.872552+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

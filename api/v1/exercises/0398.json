@@ -1,0 +1,101 @@
+{
+  "id": "0398",
+  "name": "dumbbell seated one arm kickback",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Sit on a bench with your feet flat on the ground and hold a dumbbell in one hand. Bend your torso forward at the waist, keeping your back straight and parallel to the ground. Extend your arm straight back, keeping your elbow close to your body. Pause for a moment at the top, then slowly lower the dumbbell back to the starting position. Repeat for the desired number of repetitions, then switch arms.",
+    "it": "Siediti su una panchina con i piedi piatti a terra e tieni un manubrio in una mano. Piega il busto in avanti in vita, mantenendo la schiena dritta e parallela al suolo. Allunga il braccio dritto all'indietro, tenendo il gomito vicino al corpo. Fermati un attimo in cima, poi abbassa lentamente il manubrio alla posizione di partenza. Ripeti per il numero desiderato di ripetizioni, poi cambia braccio.",
+    "tr": "Ayaklarınız yere düz basacak şekilde bir bankta oturun ve bir elinizde bir dambıl tutun. Sırtınızı düz ve yere paralel tutarak gövdenizi belinizden öne doğru eğin. Dirseğinizi vücudunuza yakın tutarak kolunuzu düz bir şekilde geriye doğru uzatın. Tepe noktasında bir süre duraklayın, ardından dambılı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen tekrar sayısı kadar tekrarlayın, ardından kolları değiştirin.",
+    "es": "Siéntate en un banco con los pies apoyados en el suelo y sujeta una mancuerna con una mano. Inclina el torso hacia adelante desde la cintura, manteniendo la espalda recta y paralela al suelo. Extiende el brazo recto hacia atrás, manteniendo el codo cerca de tu cuerpo. Haz una pausa breve en la parte más alta, luego baja lentamente la mancuerna de vuelta a la posición inicial. Repite el número de repeticiones deseado, luego cambia de brazo.",
+    "ru": "Сядьте на скамью, поставьте ноги на землю и возьмите в одну руку гантель. Наклоните туловище вперед в талии, сохраняя спину прямой и параллельной земле. Вытяните руку прямо назад, держа локоть близко к телу. Задержитесь на мгновение в верхней точке, затем медленно опустите гантель обратно в исходное положение. Повторите желаемое количество повторений, затем поменяйте руки.",
+    "zh": "坐在长凳上，双脚平放在地上，一手握住哑铃。 将躯干的腰部向前弯曲，保持背部挺直并与地面平行。 将手臂向后伸直，保持肘部靠近身体。 在最高点暂停片刻，然后慢慢将哑铃放回起始位置。 重复所需的重复次数，然后换臂。",
+    "hi": "अपने पैरों को ज़मीन पर सपाट करके एक बेंच पर बैठें और एक हाथ में डम्बल पकड़ें। अपने धड़ को कमर के बल आगे की ओर झुकाएं, अपनी पीठ को सीधा और जमीन के समानांतर रखें। अपनी कोहनी को अपने शरीर के पास रखते हुए, अपना हाथ सीधा पीछे की ओर फैलाएँ। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे डम्बल को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएं, फिर हथियार बदल लें।",
+    "pl": "Usiądź na ławce, oprzyj stopy płasko na podłodze i trzymaj hantlę w jednej dłoni. Pochyl tułów do przodu w pasie, trzymając plecy proste i równoległe do podłoża. Wyprostuj ramię do tyłu, trzymając łokieć blisko ciała. Zatrzymaj się na chwilę na górze, a następnie powoli opuść hantlę do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń, a następnie zmień ręce.",
+    "ko": "벤치에 앉아 발을 바닥에 붙이고 한 손에 덤벨을 듭니다. 등을 곧게 펴면서 허리에서 몸을 앞으로 구부리고 등이 바닥과 평행하게 유지합니다. 팔꿈치를 몸 가까이 붙인 상태로 팔을 곧게 뒤로 뻗습니다. 꼭대기에서 잠깐 멈추었다가 덤벨을 처음 위치로 천천히 내립니다. 원하는 반복 횟수만큼 반복한 후 팔을 바꿉니다.",
+    "fr": "Assieds-toi sur un banc, les pieds à plat sur le sol, et tiens un haltère dans une main. Penche ton torse vers l'avant au niveau de la taille en gardant le dos droit et parallèle au sol. Étends ton bras droit vers l'arrière, en gardant ton coude près de ton corps. Marque une pause en haut, puis abaisse lentement l'haltère pour revenir à la position de départ. Répète le nombre de répétitions souhaité, puis change de bras."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on a bench with your feet flat on the ground and hold a dumbbell in one hand.",
+      "Bend your torso forward at the waist, keeping your back straight and parallel to the ground.",
+      "Extend your arm straight back, keeping your elbow close to your body.",
+      "Pause for a moment at the top, then slowly lower the dumbbell back to the starting position.",
+      "Repeat for the desired number of repetitions, then switch arms."
+    ],
+    "it": [
+      "Siediti su una panchina con i piedi piatti a terra e tieni un manubrio in una mano.",
+      "Piega il busto in avanti in vita, mantenendo la schiena dritta e parallela al suolo.",
+      "Allunga il braccio dritto all'indietro, tenendo il gomito vicino al corpo.",
+      "Fermati un attimo in cima, poi abbassa lentamente il manubrio alla posizione di partenza.",
+      "Ripeti per il numero desiderato di ripetizioni, poi cambia braccio."
+    ],
+    "tr": [
+      "Ayaklarınız yere düz basacak şekilde bir bankta oturun ve bir elinizde bir dambıl tutun.",
+      "Sırtınızı düz ve yere paralel tutarak gövdenizi belinizden öne doğru eğin.",
+      "Dirseğinizi vücudunuza yakın tutarak kolunuzu düz bir şekilde geriye doğru uzatın.",
+      "Tepe noktasında bir süre duraklayın, ardından dambılı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından kolları değiştirin."
+    ],
+    "es": [
+      "Siéntate en un banco con los pies apoyados en el suelo y sujeta una mancuerna con una mano.",
+      "Inclina el torso hacia adelante desde la cintura, manteniendo la espalda recta y paralela al suelo.",
+      "Extiende el brazo recto hacia atrás, manteniendo el codo cerca de tu cuerpo.",
+      "Haz una pausa breve en la parte más alta, luego baja lentamente la mancuerna de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado, luego cambia de brazo."
+    ],
+    "ru": [
+      "Сядьте на скамью, поставьте ноги на землю и возьмите в одну руку гантель.",
+      "Наклоните туловище вперед в талии, сохраняя спину прямой и параллельной земле.",
+      "Вытяните руку прямо назад, держа локоть близко к телу.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите гантель обратно в исходное положение.",
+      "Повторите желаемое количество повторений, затем поменяйте руки."
+    ],
+    "zh": [
+      "坐在长凳上，双脚平放在地上，一手握住哑铃。",
+      "将躯干的腰部向前弯曲，保持背部挺直并与地面平行。",
+      "将手臂向后伸直，保持肘部靠近身体。",
+      "在最高点暂停片刻，然后慢慢将哑铃放回起始位置。",
+      "重复所需的重复次数，然后换臂。"
+    ],
+    "hi": [
+      "अपने पैरों को ज़मीन पर सपाट करके एक बेंच पर बैठें और एक हाथ में डम्बल पकड़ें।",
+      "अपने धड़ को कमर के बल आगे की ओर झुकाएं, अपनी पीठ को सीधा और जमीन के समानांतर रखें।",
+      "अपनी कोहनी को अपने शरीर के पास रखते हुए, अपना हाथ सीधा पीछे की ओर फैलाएँ।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे डम्बल को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर हथियार बदल लें।"
+    ],
+    "pl": [
+      "Usiądź na ławce, oprzyj stopy płasko na podłodze i trzymaj hantlę w jednej dłoni.",
+      "Pochyl tułów do przodu w pasie, trzymając plecy proste i równoległe do podłoża.",
+      "Wyprostuj ramię do tyłu, trzymając łokieć blisko ciała.",
+      "Zatrzymaj się na chwilę na górze, a następnie powoli opuść hantlę do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń, a następnie zmień ręce."
+    ],
+    "ko": [
+      "벤치에 앉아 발을 바닥에 붙이고 한 손에 덤벨을 듭니다.",
+      "등을 곧게 펴면서 허리에서 몸을 앞으로 구부리고 등이 바닥과 평행하게 유지합니다.",
+      "팔꿈치를 몸 가까이 붙인 상태로 팔을 곧게 뒤로 뻗습니다.",
+      "꼭대기에서 잠깐 멈추었다가 덤벨을 처음 위치로 천천히 내립니다.",
+      "원하는 반복 횟수만큼 반복한 후 팔을 바꿉니다."
+    ],
+    "fr": [
+      "Assieds-toi sur un banc, les pieds à plat sur le sol, et tiens un haltère dans une main.",
+      "Penche ton torse vers l'avant au niveau de la taille en gardant le dos droit et parallèle au sol.",
+      "Étends ton bras droit vers l'arrière, en gardant ton coude près de ton corps.",
+      "Marque une pause en haut, puis abaisse lentement l'haltère pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis change de bras."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders"
+  ],
+  "target": "triceps",
+  "image": "images/0398-VQ3sNCn.jpg",
+  "gif_url": "videos/0398-VQ3sNCn.gif",
+  "media_id": "VQ3sNCn",
+  "created_at": "2026-03-18T12:31:32.881373+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

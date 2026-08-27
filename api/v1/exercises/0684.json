@@ -1,0 +1,103 @@
+{
+  "id": "0684",
+  "name": "run (equipment)",
+  "category": "cardio",
+  "body_part": "cardio",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Start by standing upright with your feet hip-width apart. Engage your core and keep your upper body relaxed. Begin jogging in place, lifting your knees up towards your chest and landing softly on the balls of your feet. Maintain a steady pace and continue jogging for the desired duration or distance. Remember to breathe deeply and maintain good posture throughout the exercise.",
+    "it": "Inizia stando in piedi con i piedi alla larghezza dei fianchi. Coinvolgi il tuo core e mantieni la parte superiore del corpo rilassata. Inizia a fare jogging sul posto, sollevando le ginocchia verso il petto e atterrando dolcemente sulle punte dei piedi. Mantenere un ritmo costante e continuare a fare jogging per la durata o la distanza desiderata. Ricordatevi di respirare profondamente e di mantenere una buona postura durante l'esercizio.",
+    "tr": "Ayaklarınız kalça genişliğinde açık olacak şekilde dik durmaya başlayın. Merkez bölgenizi harekete geçirin ve üst vücudunuzu rahat tutun. Yerinizde koşmaya başlayın, dizlerinizi göğsünüze doğru kaldırın ve yumuşak bir şekilde ayak parmaklarınızın üzerine inin. Sabit bir tempoyu koruyun ve istediğiniz süre veya mesafe boyunca koşmaya devam edin. Egzersiz boyunca derin nefes almayı ve iyi bir duruş sergilemeyi unutmayın.",
+    "es": "Comienza de pie con los pies separados a la altura de la cadera. Activa el core y mantén la parte superior del cuerpo relajada. Comienza a trotar en el lugar, levantando las rodillas hacia el pecho y aterrizando suavemente sobre la punta de los pies. Mantén un ritmo constante y continúa trotando durante la duración o distancia deseada. Recuerda respirar profundamente y mantener una buena postura durante todo el ejercicio.",
+    "ru": "Начните с того, что встаньте прямо, ноги на ширине плеч. Задействуйте корпус и держите верхнюю часть тела расслабленной. Начните бег на месте, подтягивая колени к груди и мягко приземляясь на подушечки стоп. Поддерживайте устойчивый темп и продолжайте бег трусцой желаемую продолжительность или расстояние. Не забывайте глубоко дышать и сохранять правильную осанку на протяжении всего упражнения.",
+    "zh": "首先站直，双脚分开与臀部同宽。 启动你的核心并保持上半身放松。 开始原地慢跑，将膝盖抬向胸部，然后轻轻落在脚掌上。 保持稳定的步伐并继续慢跑所需的时间或距离。 记住在整个练习过程中深呼吸并保持良好的姿势。",
+    "hi": "अपने पैरों को कूल्हे की चौड़ाई के बराबर दूरी पर रखकर सीधे खड़े होकर शुरुआत करें। अपने कोर को व्यस्त रखें और अपने ऊपरी शरीर को शिथिल रखें। अपनी जगह पर जॉगिंग करना शुरू करें, अपने घुटनों को अपनी छाती की ओर उठाएं और धीरे से अपने पैरों की उंगलियों पर उतरें। स्थिर गति बनाए रखें और वांछित अवधि या दूरी तक जॉगिंग जारी रखें। याद रखें कि पूरे अभ्यास के दौरान गहरी सांस लें और अच्छी मुद्रा बनाए रखें।",
+    "pl": "Rozpocznij, stojąc wyprostowany, stopy w rozkroku na szerokość bioder. Napnij mięśnie brzucha i trzymaj rozluźnioną górną część ciała. Zacznij biec w miejscu, unosząc kolana w kierunku klatki piersiowej i lądując miękko na palcach stóp. Utrzymuj stałe tempo i kontynuuj bieg przez wybrany czas lub dystans. Pamiętaj o głębokim oddychaniu i utrzymywaniu prawidłowej postawy przez cały czas trwania ćwiczenia.",
+    "ko": "두 발을 엉덩이 너비로 벌려 곧게 서 있습니다. 코어를 수축시키고 상반신은 이완된 상태로 유지합니다. 제자리에서 조깅을 시작하여 무릎을 가슴을 향해 올리고 발 앞부분에 부드럽게 착지합니다. 일정한 속도를 유지하고 원하는 시간이나 거리동안 계속 조깅합니다. 깊게 숨을 쉬고 운동 전체에서 좋은 자세를 유지하는 것을 기억합니다.",
+    "fr": "Commence debout, bien droit, les pieds écartés à la largeur des hanches. Gaine ta sangle abdominale et garde ton haut du corps détendu. Commence à courir sur place en levant tes genoux vers ta poitrine et en atterrissant en douceur sur la plante de tes pieds. Maintiens un rythme régulier et continue à courir pendant la durée ou la distance souhaitée. Pense à respirer profondément et à maintenir une bonne posture tout au long de l'exercice."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start by standing upright with your feet hip-width apart.",
+      "Engage your core and keep your upper body relaxed.",
+      "Begin jogging in place, lifting your knees up towards your chest and landing softly on the balls of your feet.",
+      "Maintain a steady pace and continue jogging for the desired duration or distance.",
+      "Remember to breathe deeply and maintain good posture throughout the exercise."
+    ],
+    "it": [
+      "Inizia stando in piedi con i piedi alla larghezza dei fianchi.",
+      "Coinvolgi il tuo core e mantieni la parte superiore del corpo rilassata.",
+      "Inizia a fare jogging sul posto, sollevando le ginocchia verso il petto e atterrando dolcemente sulle punte dei piedi.",
+      "Mantenere un ritmo costante e continuare a fare jogging per la durata o la distanza desiderata.",
+      "Ricordatevi di respirare profondamente e di mantenere una buona postura durante l'esercizio."
+    ],
+    "tr": [
+      "Ayaklarınız kalça genişliğinde açık olacak şekilde dik durmaya başlayın.",
+      "Merkez bölgenizi harekete geçirin ve üst vücudunuzu rahat tutun.",
+      "Yerinizde koşmaya başlayın, dizlerinizi göğsünüze doğru kaldırın ve yumuşak bir şekilde ayak parmaklarınızın üzerine inin.",
+      "Sabit bir tempoyu koruyun ve istediğiniz süre veya mesafe boyunca koşmaya devam edin.",
+      "Egzersiz boyunca derin nefes almayı ve iyi bir duruş sergilemeyi unutmayın."
+    ],
+    "es": [
+      "Comienza de pie con los pies separados a la altura de la cadera.",
+      "Activa el core y mantén la parte superior del cuerpo relajada.",
+      "Comienza a trotar en el lugar, levantando las rodillas hacia el pecho y aterrizando suavemente sobre la punta de los pies.",
+      "Mantén un ritmo constante y continúa trotando durante la duración o distancia deseada.",
+      "Recuerda respirar profundamente y mantener una buena postura durante todo el ejercicio."
+    ],
+    "ru": [
+      "Начните с того, что встаньте прямо, ноги на ширине плеч.",
+      "Задействуйте корпус и держите верхнюю часть тела расслабленной.",
+      "Начните бег на месте, подтягивая колени к груди и мягко приземляясь на подушечки стоп.",
+      "Поддерживайте устойчивый темп и продолжайте бег трусцой желаемую продолжительность или расстояние.",
+      "Не забывайте глубоко дышать и сохранять правильную осанку на протяжении всего упражнения."
+    ],
+    "zh": [
+      "首先站直，双脚分开与臀部同宽。",
+      "启动你的核心并保持上半身放松。",
+      "开始原地慢跑，将膝盖抬向胸部，然后轻轻落在脚掌上。",
+      "保持稳定的步伐并继续慢跑所需的时间或距离。",
+      "记住在整个练习过程中深呼吸并保持良好的姿势。"
+    ],
+    "hi": [
+      "अपने पैरों को कूल्हे की चौड़ाई के बराबर दूरी पर रखकर सीधे खड़े होकर शुरुआत करें।",
+      "अपने कोर को व्यस्त रखें और अपने ऊपरी शरीर को शिथिल रखें।",
+      "अपनी जगह पर जॉगिंग करना शुरू करें, अपने घुटनों को अपनी छाती की ओर उठाएं और धीरे से अपने पैरों की उंगलियों पर उतरें।",
+      "स्थिर गति बनाए रखें और वांछित अवधि या दूरी तक जॉगिंग जारी रखें।",
+      "याद रखें कि पूरे अभ्यास के दौरान गहरी सांस लें और अच्छी मुद्रा बनाए रखें।"
+    ],
+    "pl": [
+      "Rozpocznij, stojąc wyprostowany, stopy w rozkroku na szerokość bioder.",
+      "Napnij mięśnie brzucha i trzymaj rozluźnioną górną część ciała.",
+      "Zacznij biec w miejscu, unosząc kolana w kierunku klatki piersiowej i lądując miękko na palcach stóp.",
+      "Utrzymuj stałe tempo i kontynuuj bieg przez wybrany czas lub dystans.",
+      "Pamiętaj o głębokim oddychaniu i utrzymywaniu prawidłowej postawy przez cały czas trwania ćwiczenia."
+    ],
+    "ko": [
+      "두 발을 엉덩이 너비로 벌려 곧게 서 있습니다.",
+      "코어를 수축시키고 상반신은 이완된 상태로 유지합니다.",
+      "제자리에서 조깅을 시작하여 무릎을 가슴을 향해 올리고 발 앞부분에 부드럽게 착지합니다.",
+      "일정한 속도를 유지하고 원하는 시간이나 거리동안 계속 조깅합니다.",
+      "깊게 숨을 쉬고 운동 전체에서 좋은 자세를 유지하는 것을 기억합니다."
+    ],
+    "fr": [
+      "Commence debout, bien droit, les pieds écartés à la largeur des hanches.",
+      "Gaine ta sangle abdominale et garde ton haut du corps détendu.",
+      "Commence à courir sur place en levant tes genoux vers ta poitrine et en atterrissant en douceur sur la plante de tes pieds.",
+      "Maintiens un rythme régulier et continue à courir pendant la durée ou la distance souhaitée.",
+      "Pense à respirer profondément et à maintenir une bonne posture tout au long de l'exercice."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "cardiovascular system",
+  "image": "images/0684-y5p0H8a.jpg",
+  "gif_url": "videos/0684-y5p0H8a.gif",
+  "media_id": "y5p0H8a",
+  "created_at": "2026-03-18T12:31:32.889316+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

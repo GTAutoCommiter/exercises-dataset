@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "3214",
+    "name": "arms apart circular toe touch (male)",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes",
+    "image": "images/3214-RtyAsy1.jpg",
+    "gif_url": "videos/3214-RtyAsy1.gif"
+  },
+  {
+    "id": "1709",
+    "name": "assisted lying glutes stretch",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "assisted",
+    "target": "glutes",
+    "image": "images/1709-yn0LjwL.jpg",
+    "gif_url": "videos/1709-yn0LjwL.gif"
+  },
+  {
+    "id": "1710",
+    "name": "assisted lying gluteus and piriformis stretch",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "assisted",
+    "target": "glutes",
+    "image": "images/1710-RQNVT10.jpg",
+    "gif_url": "videos/1710-RQNVT10.gif"
+  },
+  {
+    "id": "0980",
+    "name": "band bent-over hip extension",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "band",
+    "target": "glutes",
+    "image": "images/0980-wSScovH.jpg",
+    "gif_url": "videos/0980-wSScovH.gif"
+  },
+  {
+    "id": "1408",
+    "name": "band hip lift",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "band",
+    "target": "glutes",
+    "image": "images/1408-E4R8Hz1.jpg",
+    "gif_url": "videos/1408-E4R8Hz1.gif"
+  },
+  {
+    "id": "0984",
+    "name": "band lying hip internal rotation",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "band",
+    "target": "glutes",
+    "image": "images/0984-vIICElP.jpg",
+    "gif_url": "videos/0984-vIICElP.gif"
+  },
+  {
+    "id": "0991",
+    "name": "band pull through",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "band",
+    "target": "glutes",
+    "image": "images/0991-VtTbiP3.jpg",
+    "gif_url": "videos/0991-VtTbiP3.gif"
+  },
+  {
+    "id": "0996",
+    "name": "band seated hip internal rotation",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "band",
+    "target": "glutes",
+    "image": "images/0996-9gbyYKk.jpg",
+    "gif_url": "videos/0996-9gbyYKk.gif"
+  },
+  {
+    "id": "1004",
+    "name": "band squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "band",
+    "target": "glutes",
+    "image": "images/1004-TUZLh71.jpg",
+    "gif_url": "videos/1004-TUZLh71.gif"
+  },
+  {
+    "id": "1003",
+    "name": "band squat row",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "band",
+    "target": "glutes",
+    "image": "images/1003-w1NOByi.jpg",
+    "gif_url": "videos/1003-w1NOByi.gif"
+  },
+  {
+    "id": "1008",
+    "name": "band step-up",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "band",
+    "target": "glutes",
+    "image": "images/1008-d5bTEPV.jpg",
+    "gif_url": "videos/1008-d5bTEPV.gif"
+  },
+  {
+    "id": "1009",
+    "name": "band stiff leg deadlift",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "band",
+    "target": "glutes",
+    "image": "images/1009-kuMiR2T.jpg",
+    "gif_url": "videos/1009-kuMiR2T.gif"
+  },
+  {
+    "id": "1023",
+    "name": "band straight back stiff leg deadlift",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "band",
+    "target": "glutes",
+    "image": "images/1023-lHeUULr.jpg",
+    "gif_url": "videos/1023-lHeUULr.gif"
+  },
+  {
+    "id": "0029",
+    "name": "barbell clean-grip front squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0029-qi996YS.jpg",
+    "gif_url": "videos/0029-qi996YS.gif"
+  },
+  {
+    "id": "0032",
+    "name": "barbell deadlift",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0032-ila4NZS.jpg",
+    "gif_url": "videos/0032-ila4NZS.gif"
+  },
+  {
+    "id": "0039",
+    "name": "barbell front chest squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0039-IeTIEqg.jpg",
+    "gif_url": "videos/0039-IeTIEqg.gif"
+  },
+  {
+    "id": "0042",
+    "name": "barbell front squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0042-zG0zs85.jpg",
+    "gif_url": "videos/0042-zG0zs85.gif"
+  },
+  {
+    "id": "0043",
+    "name": "barbell full squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0043-qXTaZnJ.jpg",
+    "gif_url": "videos/0043-qXTaZnJ.gif"
+  },
+  {
+    "id": "1461",
+    "name": "barbell full squat (back pov)",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/1461-DhMl549.jpg",
+    "gif_url": "videos/1461-DhMl549.gif"
+  },
+  {
+    "id": "1462",
+    "name": "barbell full squat (side pov)",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/1462-iYzB0Cz.jpg",
+    "gif_url": "videos/1462-iYzB0Cz.gif"
+  },
+  {
+    "id": "1545",
+    "name": "barbell full zercher squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/1545-vR1vold.jpg",
+    "gif_url": "videos/1545-vR1vold.gif"
+  },
+  {
+    "id": "1409",
+    "name": "barbell glute bridge",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/1409-qKBpF7I.jpg",
+    "gif_url": "videos/1409-qKBpF7I.gif"
+  },
+  {
+    "id": "3562",
+    "name": "barbell glute bridge two legs on bench (male)",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/3562-qg2PGl6.jpg",
+    "gif_url": "videos/3562-qg2PGl6.gif"
+  },
+  {
+    "id": "0046",
+    "name": "barbell hack squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0046-5VCj6iH.jpg",
+    "gif_url": "videos/0046-5VCj6iH.gif"
+  },
+  {
+    "id": "1436",
+    "name": "barbell high bar squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/1436-Gnfo4FM.jpg",
+    "gif_url": "videos/1436-Gnfo4FM.gif"
+  },
+  {
+    "id": "0051",
+    "name": "barbell jefferson squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0051-pkSoCW9.jpg",
+    "gif_url": "videos/0051-pkSoCW9.gif"
+  },
+  {
+    "id": "0053",
+    "name": "barbell jump squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0053-1gFNTZV.jpg",
+    "gif_url": "videos/0053-1gFNTZV.gif"
+  },
+  {
+    "id": "1410",
+    "name": "barbell lateral lunge",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/1410-py1HSzx.jpg",
+    "gif_url": "videos/1410-py1HSzx.gif"
+  },
+  {
+    "id": "1435",
+    "name": "barbell low bar squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/1435-bTpEUcm.jpg",
+    "gif_url": "videos/1435-bTpEUcm.gif"
+  },
+  {
+    "id": "0054",
+    "name": "barbell lunge",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0054-t8iSghb.jpg",
+    "gif_url": "videos/0054-t8iSghb.gif"
+  },
+  {
+    "id": "0058",
+    "name": "barbell lying lifting (on hip)",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0058-SNFfUff.jpg",
+    "gif_url": "videos/0058-SNFfUff.gif"
+  },
+  {
+    "id": "0063",
+    "name": "barbell narrow stance squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0063-elhhVgj.jpg",
+    "gif_url": "videos/0063-elhhVgj.gif"
+  },
+  {
+    "id": "0066",
+    "name": "barbell one arm side deadlift",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0066-2DxtqHL.jpg",
+    "gif_url": "videos/0066-2DxtqHL.gif"
+  },
+  {
+    "id": "0074",
+    "name": "barbell rack pull",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0074-za9Ni4z.jpg",
+    "gif_url": "videos/0074-za9Ni4z.gif"
+  },
+  {
+    "id": "0078",
+    "name": "barbell rear lunge",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0078-VaP75jl.jpg",
+    "gif_url": "videos/0078-VaP75jl.gif"
+  },
+  {
+    "id": "0077",
+    "name": "barbell rear lunge v. 2",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0077-62Nw60O.jpg",
+    "gif_url": "videos/0077-62Nw60O.gif"
+  },
+  {
+    "id": "0085",
+    "name": "barbell romanian deadlift",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0085-wQ2c4XD.jpg",
+    "gif_url": "videos/0085-wQ2c4XD.gif"
+  },
+  {
+    "id": "0090",
+    "name": "barbell seated good morning",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0090-d960PgE.jpg",
+    "gif_url": "videos/0090-d960PgE.gif"
+  },
+  {
+    "id": "1756",
+    "name": "barbell single leg deadlift",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/1756-gEyURal.jpg",
+    "gif_url": "videos/1756-gEyURal.gif"
+  },
+  {
+    "id": "0101",
+    "name": "barbell speed squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0101-euI1BwR.jpg",
+    "gif_url": "videos/0101-euI1BwR.gif"
+  },
+  {
+    "id": "0114",
+    "name": "barbell step-up",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0114-Kxquu2E.jpg",
+    "gif_url": "videos/0114-Kxquu2E.gif"
+  },
+  {
+    "id": "0115",
+    "name": "barbell stiff leg good morning",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0115-JrOHAZc.jpg",
+    "gif_url": "videos/0115-JrOHAZc.gif"
+  },
+  {
+    "id": "0117",
+    "name": "barbell sumo deadlift",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0117-KgI0tqW.jpg",
+    "gif_url": "videos/0117-KgI0tqW.gif"
+  },
+  {
+    "id": "0127",
+    "name": "barbell zercher squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0127-LSTChY9.jpg",
+    "gif_url": "videos/0127-LSTChY9.gif"
+  },
+  {
+    "id": "3212",
+    "name": "basic toe touch (male)",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes",
+    "image": "images/3212-BbfB8Gb.jpg",
+    "gif_url": "videos/3212-BbfB8Gb.gif"
+  },
+  {
+    "id": "0130",
+    "name": "bench hip extension",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes",
+    "image": "images/0130-u27Kcdz.jpg",
+    "gif_url": "videos/0130-u27Kcdz.gif"
+  },
+  {
+    "id": "3639",
+    "name": "bent knee lying twist (male)",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes",
+    "image": "images/3639-6sYyrRX.jpg",
+    "gif_url": "videos/3639-6sYyrRX.gif"
+  },
+  {
+    "id": "3543",
+    "name": "bodyweight drop jump squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes",
+    "image": "images/3543-wfotm7S.jpg",
+    "gif_url": "videos/3543-wfotm7S.gif"
+  },
+  {
+    "id": "0157",
+    "name": "cable deadlift",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "cable",
+    "target": "glutes",
+    "image": "images/0157-eGDudUV.jpg",
+    "gif_url": "videos/0157-eGDudUV.gif"
+  },
+  {
+    "id": "0196",
+    "name": "cable pull through (with rope)",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "cable",
+    "target": "glutes",
+    "image": "images/0196-OM46QHm.jpg",
+    "gif_url": "videos/0196-OM46QHm.gif"
+  },
+  {
+    "id": "0228",
+    "name": "cable standing hip extension",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "cable",
+    "target": "glutes",
+    "image": "images/0228-Kpajagk.jpg",
+    "gif_url": "videos/0228-Kpajagk.gif"
+  },
+  {
+    "id": "3769",
+    "name": "curtsey squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes",
+    "image": "images/3769-gUjqdei.jpg",
+    "gif_url": "videos/3769-gUjqdei.gif"
+  },
+  {
+    "id": "0291",
+    "name": "dumbbell bench squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "dumbbell",
+    "target": "glutes",
+    "image": "images/0291-mnzcrIB.jpg",
+    "gif_url": "videos/0291-mnzcrIB.gif"
+  },
+  {
+    "id": "0295",
+    "name": "dumbbell clean",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "dumbbell",
+    "target": "glutes",
+    "image": "images/0295-7Hg55JG.jpg",
+    "gif_url": "videos/0295-7Hg55JG.gif"
+  },
+  {
+    "id": "3635",
+    "name": "dumbbell contralateral forward lunge",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "dumbbell",
+    "target": "glutes",
+    "image": "images/3635-ecl28tP.jpg",
+    "gif_url": "videos/3635-ecl28tP.gif"
+  },
+  {
+    "id": "0300",
+    "name": "dumbbell deadlift",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "dumbbell",
+    "target": "glutes",
+    "image": "images/0300-nUwVh7b.jpg",
+    "gif_url": "videos/0300-nUwVh7b.gif"
+  },
+  {
+    "id": "0336",
+    "name": "dumbbell lunge",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "dumbbell",
+    "target": "glutes",
+    "image": "images/0336-RRWFUcw.jpg",
+    "gif_url": "videos/0336-RRWFUcw.gif"
+  },
+  {
+    "id": "3888",
+    "name": "dumbbell one arm snatch",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "dumbbell",
+    "target": "glutes",
+    "image": "images/3888-6pTkI99.jpg",
+    "gif_url": "videos/3888-6pTkI99.gif"
+  },
+  {
+    "id": "0371",
+    "name": "dumbbell plyo squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "dumbbell",
+    "target": "glutes",
+    "image": "images/0371-S4pwGlc.jpg",
+    "gif_url": "videos/0371-S4pwGlc.gif"
+  },
+  {
+    "id": "0381",
+    "name": "dumbbell rear lunge",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "dumbbell",
+    "target": "glutes",
+    "image": "images/0381-SSsBDwB.jpg",
+    "gif_url": "videos/0381-SSsBDwB.gif"
+  },
+  {
+    "id": "1459",
+    "name": "dumbbell romanian deadlift",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "dumbbell",
+    "target": "glutes",
+    "image": "images/1459-rR0LJzx.jpg",
+    "gif_url": "videos/1459-rR0LJzx.gif"
+  },
+  {
+    "id": "1757",
+    "name": "dumbbell single leg deadlift",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "dumbbell",
+    "target": "glutes",
+    "image": "images/1757-gKozT8X.jpg",
+    "gif_url": "videos/1757-gKozT8X.gif"
+  },
+  {
+    "id": "2805",
+    "name": "dumbbell single leg deadlift with stepbox support",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "dumbbell",
+    "target": "glutes",
+    "image": "images/2805-daBmy1Y.jpg",
+    "gif_url": "videos/2805-daBmy1Y.gif"
+  },
+  {
+    "id": "0411",
+    "name": "dumbbell single leg squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "dumbbell",
+    "target": "glutes",
+    "image": "images/0411-H6ybluc.jpg",
+    "gif_url": "videos/0411-H6ybluc.gif"
+  },
+  {
+    "id": "0413",
+    "name": "dumbbell squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "dumbbell",
+    "target": "glutes",
+    "image": "images/0413-HsvHqgf.jpg",
+    "gif_url": "videos/0413-HsvHqgf.gif"
+  },
+  {
+    "id": "0431",
+    "name": "dumbbell step-up",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "dumbbell",
+    "target": "glutes",
+    "image": "images/0431-aXtJhlg.jpg",
+    "gif_url": "videos/0431-aXtJhlg.gif"
+  },
+  {
+    "id": "0432",
+    "name": "dumbbell stiff leg deadlift",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "dumbbell",
+    "target": "glutes",
+    "image": "images/0432-5eLRITT.jpg",
+    "gif_url": "videos/0432-5eLRITT.gif"
+  },
+  {
+    "id": "0434",
+    "name": "dumbbell straight leg deadlift",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "dumbbell",
+    "target": "glutes",
+    "image": "images/0434-oom75KC.jpg",
+    "gif_url": "videos/0434-oom75KC.gif"
+  },
+  {
+    "id": "2808",
+    "name": "dumbbell sumo pull through",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "dumbbell",
+    "target": "glutes",
+    "image": "images/2808-BmrwWzo.jpg",
+    "gif_url": "videos/2808-BmrwWzo.gif"
+  },
+  {
+    "id": "1559",
+    "name": "exercise ball hip flexor stretch",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "stability ball",
+    "target": "glutes",
+    "image": "images/1559-2LQkNPW.jpg",
+    "gif_url": "videos/1559-2LQkNPW.gif"
+  },
+  {
+    "id": "1416",
+    "name": "exercise ball one leg prone lower body rotation",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "stability ball",
+    "target": "glutes",
+    "image": "images/1416-M72BExt.jpg",
+    "gif_url": "videos/1416-M72BExt.gif"
+  },
+  {
+    "id": "1417",
+    "name": "exercise ball one legged diagonal kick hamstring curl",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "stability ball",
+    "target": "glutes",
+    "image": "images/1417-GOJKFfO.jpg",
+    "gif_url": "videos/1417-GOJKFfO.gif"
+  },
+  {
+    "id": "0459",
+    "name": "flutter kicks",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes",
+    "image": "images/0459-UVo2Qs2.jpg",
+    "gif_url": "videos/0459-UVo2Qs2.gif"
+  },
+  {
+    "id": "3470",
+    "name": "forward lunge (male)",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes",
+    "image": "images/3470-kMzUs9Y.jpg",
+    "gif_url": "videos/3470-kMzUs9Y.gif"
+  },
+  {
+    "id": "3194",
+    "name": "frankenstein squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/3194-bdWcbaU.jpg",
+    "gif_url": "videos/3194-bdWcbaU.gif"
+  },
+  {
+    "id": "3561",
+    "name": "glute bridge march",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes",
+    "image": "images/3561-GibBPPg.jpg",
+    "gif_url": "videos/3561-GibBPPg.gif"
+  },
+  {
+    "id": "3523",
+    "name": "glute bridge two legs on bench (male)",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes",
+    "image": "images/3523-aWedzZX.jpg",
+    "gif_url": "videos/3523-aWedzZX.gif"
+  },
+  {
+    "id": "3218",
+    "name": "hands clasped circular toe touch (male)",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes",
+    "image": "images/3218-B5xca8s.jpg",
+    "gif_url": "videos/3218-B5xca8s.gif"
+  },
+  {
+    "id": "3215",
+    "name": "hands reversed clasped circular toe touch (male)",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes",
+    "image": "images/3215-yq3GAJX.jpg",
+    "gif_url": "videos/3215-yq3GAJX.gif"
+  },
+  {
+    "id": "1418",
+    "name": "hug keens to chest",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes",
+    "image": "images/1418-znP9SIh.jpg",
+    "gif_url": "videos/1418-znP9SIh.gif"
+  },
+  {
+    "id": "1419",
+    "name": "iron cross stretch",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes",
+    "image": "images/1419-pZwUsKB.jpg",
+    "gif_url": "videos/1419-pZwUsKB.gif"
+  },
+  {
+    "id": "0514",
+    "name": "jump squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes",
+    "image": "images/0514-LIlE5Tn.jpg",
+    "gif_url": "videos/0514-LIlE5Tn.gif"
+  },
+  {
+    "id": "0513",
+    "name": "jump squat v. 2",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes",
+    "image": "images/0513-TDYiji6.jpg",
+    "gif_url": "videos/0513-TDYiji6.gif"
+  },
+  {
+    "id": "0533",
+    "name": "kettlebell front squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "kettlebell",
+    "target": "glutes",
+    "image": "images/0533-DB0n8AG.jpg",
+    "gif_url": "videos/0533-DB0n8AG.gif"
+  },
+  {
+    "id": "0534",
+    "name": "kettlebell goblet squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "kettlebell",
+    "target": "glutes",
+    "image": "images/0534-ZA8b5hc.jpg",
+    "gif_url": "videos/0534-ZA8b5hc.gif"
+  },
+  {
+    "id": "0536",
+    "name": "kettlebell lunge pass through",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "kettlebell",
+    "target": "glutes",
+    "image": "images/0536-WKMQzCD.jpg",
+    "gif_url": "videos/0536-WKMQzCD.gif"
+  },
+  {
+    "id": "0544",
+    "name": "kettlebell pistol squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "kettlebell",
+    "target": "glutes",
+    "image": "images/0544-5bpPTHv.jpg",
+    "gif_url": "videos/0544-5bpPTHv.gif"
+  },
+  {
+    "id": "0549",
+    "name": "kettlebell swing",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "kettlebell",
+    "target": "glutes",
+    "image": "images/0549-UHJlbu3.jpg",
+    "gif_url": "videos/0549-UHJlbu3.gif"
+  },
+  {
+    "id": "0551",
+    "name": "kettlebell turkish get up (squat style)",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "kettlebell",
+    "target": "glutes",
+    "image": "images/0551-Ha7SZ3y.jpg",
+    "gif_url": "videos/0551-Ha7SZ3y.gif"
+  },
+  {
+    "id": "1420",
+    "name": "kneeling jump squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/1420-UgDm3oy.jpg",
+    "gif_url": "videos/1420-UgDm3oy.gif"
+  },
+  {
+    "id": "0578",
+    "name": "lever deadlift",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "leverage machine",
+    "target": "glutes",
+    "image": "images/0578-GUT8I22.jpg",
+    "gif_url": "videos/0578-GUT8I22.gif"
+  },
+  {
+    "id": "2286",
+    "name": "lever hip extension v. 2",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "leverage machine",
+    "target": "glutes",
+    "image": "images/2286-OPqShYN.jpg",
+    "gif_url": "videos/2286-OPqShYN.gif"
+  },
+  {
+    "id": "2611",
+    "name": "lever horizontal one leg press",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "leverage machine",
+    "target": "glutes",
+    "image": "images/2611-9KU9TYF.jpg",
+    "gif_url": "videos/2611-9KU9TYF.gif"
+  },
+  {
+    "id": "0593",
+    "name": "lever reverse hyperextension",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "leverage machine",
+    "target": "glutes",
+    "image": "images/0593-Krmb3cB.jpg",
+    "gif_url": "videos/0593-Krmb3cB.gif"
+  },
+  {
+    "id": "3759",
+    "name": "lever seated good morning",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "leverage machine",
+    "target": "glutes",
+    "image": "images/3759-XsCcxCC.jpg",
+    "gif_url": "videos/3759-XsCcxCC.gif"
+  },
+  {
+    "id": "3013",
+    "name": "low glute bridge on floor",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes",
+    "image": "images/3013-u0cNiij.jpg",
+    "gif_url": "videos/3013-u0cNiij.gif"
+  },
+  {
+    "id": "3582",
+    "name": "lunge with jump",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes",
+    "image": "images/3582-PM1PZjg.jpg",
+    "gif_url": "videos/3582-PM1PZjg.gif"
+  },
+  {
+    "id": "0624",
+    "name": "march sit (wall)",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes",
+    "image": "images/0624-sVQCCeG.jpg",
+    "gif_url": "videos/0624-sVQCCeG.gif"
+  },
+  {
+    "id": "0628",
+    "name": "monster walk",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes",
+    "image": "images/0628-O95afRA.jpg",
+    "gif_url": "videos/0628-O95afRA.gif"
+  },
+  {
+    "id": "1476",
+    "name": "one leg squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes",
+    "image": "images/1476-C31LMnP.jpg",
+    "gif_url": "videos/1476-C31LMnP.gif"
+  },
+  {
+    "id": "0642",
+    "name": "outside leg kick push-up",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes",
+    "image": "images/0642-jNU1gFQ.jpg",
+    "gif_url": "videos/0642-jNU1gFQ.gif"
+  },
+  {
+    "id": "1422",
+    "name": "pelvic tilt into bridge",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes",
+    "image": "images/1422-D9qe7CM.jpg",
+    "gif_url": "videos/1422-D9qe7CM.gif"
+  },
+  {
+    "id": "3662",
+    "name": "pike-to-cobra push-up",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes",
+    "image": "images/3662-XPUDTt7.jpg",
+    "gif_url": "videos/3662-XPUDTt7.gif"
+  },
+  {
+    "id": "3132",
+    "name": "potty squat with support",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes",
+    "image": "images/3132-b63ZzGe.jpg",
+    "gif_url": "videos/3132-b63ZzGe.gif"
+  },
+  {
+    "id": "0661",
+    "name": "push-up inside leg kick",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes",
+    "image": "images/0661-0br45wL.jpg",
+    "gif_url": "videos/0661-0br45wL.gif"
+  },
+  {
+    "id": "0668",
+    "name": "rear decline bridge",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes",
+    "image": "images/0668-UpAlold.jpg",
+    "gif_url": "videos/0668-UpAlold.gif"
+  },
+  {
+    "id": "3236",
+    "name": "resistance band hip thrusts on knees (female)",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "resistance band",
+    "target": "glutes",
+    "image": "images/3236-Pjbc0Kt.jpg",
+    "gif_url": "videos/3236-Pjbc0Kt.gif"
+  },
+  {
+    "id": "0675",
+    "name": "reverse hyper extension (on stability ball)",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "stability ball",
+    "target": "glutes",
+    "image": "images/0675-vM5YS2g.jpg",
+    "gif_url": "videos/0675-vM5YS2g.gif"
+  },
+  {
+    "id": "1423",
+    "name": "reverse hyper on flat bench",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes",
+    "image": "images/1423-OrETs32.jpg",
+    "gif_url": "videos/1423-OrETs32.gif"
+  },
+  {
+    "id": "2571",
+    "name": "rocking frog stretch",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes",
+    "image": "images/2571-2Dk4xQV.jpg",
+    "gif_url": "videos/2571-2Dk4xQV.gif"
+  },
+  {
+    "id": "2205",
+    "name": "roller hip lat stretch",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "roller",
+    "target": "glutes",
+    "image": "images/2205-0L2KwtI.jpg",
+    "gif_url": "videos/2205-0L2KwtI.gif"
+  },
+  {
+    "id": "2202",
+    "name": "roller hip stretch",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "roller",
+    "target": "glutes",
+    "image": "images/2202-oMypNrz.jpg",
+    "gif_url": "videos/2202-oMypNrz.gif"
+  },
+  {
+    "id": "1424",
+    "name": "seated glute stretch",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes",
+    "image": "images/1424-DeDThfG.jpg",
+    "gif_url": "videos/1424-DeDThfG.gif"
+  },
+  {
+    "id": "2567",
+    "name": "seated piriformis stretch",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes",
+    "image": "images/2567-QY39eBr.jpg",
+    "gif_url": "videos/2567-QY39eBr.gif"
+  },
+  {
+    "id": "3645",
+    "name": "single leg bridge with outstretched leg",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes",
+    "image": "images/3645-rmEukuS.jpg",
+    "gif_url": "videos/3645-rmEukuS.gif"
+  },
+  {
+    "id": "1759",
+    "name": "single leg squat (pistol) male",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes",
+    "image": "images/1759-nqs5HGV.jpg",
+    "gif_url": "videos/1759-nqs5HGV.gif"
+  },
+  {
+    "id": "1425",
+    "name": "sled 45 degrees one leg press",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "sled machine",
+    "target": "glutes",
+    "image": "images/1425-WWD6FzI.jpg",
+    "gif_url": "videos/1425-WWD6FzI.gif"
+  },
+  {
+    "id": "0739",
+    "name": "sled 45в° leg press",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "sled machine",
+    "target": "glutes",
+    "image": "images/0739-10Z2DXU.jpg",
+    "gif_url": "videos/0739-10Z2DXU.gif"
+  },
+  {
+    "id": "1464",
+    "name": "sled 45в° leg press (back pov)",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "sled machine",
+    "target": "glutes",
+    "image": "images/1464-yn2lLSI.jpg",
+    "gif_url": "videos/1464-yn2lLSI.gif"
+  },
+  {
+    "id": "1463",
+    "name": "sled 45° leg press (side pov)",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "sled machine",
+    "target": "glutes",
+    "image": "images/1463-2Qh2J1e.jpg",
+    "gif_url": "videos/1463-2Qh2J1e.gif"
+  },
+  {
+    "id": "0740",
+    "name": "sled 45в° leg wide press",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "sled machine",
+    "target": "glutes",
+    "image": "images/0740-tj41Nu6.jpg",
+    "gif_url": "videos/0740-tj41Nu6.gif"
+  },
+  {
+    "id": "0741",
+    "name": "sled closer hack squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "sled machine",
+    "target": "glutes",
+    "image": "images/0741-gf3ZjB9.jpg",
+    "gif_url": "videos/0741-gf3ZjB9.gif"
+  },
+  {
+    "id": "0743",
+    "name": "sled hack squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "sled machine",
+    "target": "glutes",
+    "image": "images/0743-Qa55kX1.jpg",
+    "gif_url": "videos/0743-Qa55kX1.gif"
+  },
+  {
+    "id": "0744",
+    "name": "sled lying squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "sled machine",
+    "target": "glutes",
+    "image": "images/0744-9n2149Z.jpg",
+    "gif_url": "videos/0744-9n2149Z.gif"
+  },
+  {
+    "id": "0749",
+    "name": "smith bent knee good morning",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "smith machine",
+    "target": "glutes",
+    "image": "images/0749-1bQkKZK.jpg",
+    "gif_url": "videos/0749-1bQkKZK.gif"
+  },
+  {
+    "id": "0752",
+    "name": "smith deadlift",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "smith machine",
+    "target": "glutes",
+    "image": "images/0752-UfePqpx.jpg",
+    "gif_url": "videos/0752-UfePqpx.gif"
+  },
+  {
+    "id": "1433",
+    "name": "smith front squat (clean grip)",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "smith machine",
+    "target": "glutes",
+    "image": "images/1433-lFhb2Rw.jpg",
+    "gif_url": "videos/1433-lFhb2Rw.gif"
+  },
+  {
+    "id": "3281",
+    "name": "smith full squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "smith machine",
+    "target": "glutes",
+    "image": "images/3281-NNoHCEA.jpg",
+    "gif_url": "videos/3281-NNoHCEA.gif"
+  },
+  {
+    "id": "0755",
+    "name": "smith hack squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "smith machine",
+    "target": "glutes",
+    "image": "images/0755-ZuPXtCK.jpg",
+    "gif_url": "videos/0755-ZuPXtCK.gif"
+  },
+  {
+    "id": "0760",
+    "name": "smith leg press",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "smith machine",
+    "target": "glutes",
+    "image": "images/0760-7zdxRTl.jpg",
+    "gif_url": "videos/0760-7zdxRTl.gif"
+  },
+  {
+    "id": "1434",
+    "name": "smith low bar squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "smith machine",
+    "target": "glutes",
+    "image": "images/1434-RGLscZM.jpg",
+    "gif_url": "videos/1434-RGLscZM.gif"
+  },
+  {
+    "id": "0769",
+    "name": "smith sprint lunge",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "smith machine",
+    "target": "glutes",
+    "image": "images/0769-HsjbB1z.jpg",
+    "gif_url": "videos/0769-HsjbB1z.gif"
+  },
+  {
+    "id": "0770",
+    "name": "smith squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "smith machine",
+    "target": "glutes",
+    "image": "images/0770-jFtipLl.jpg",
+    "gif_url": "videos/0770-jFtipLl.gif"
+  },
+  {
+    "id": "3142",
+    "name": "smith sumo squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "smith machine",
+    "target": "glutes",
+    "image": "images/3142-dzz6BiV.jpg",
+    "gif_url": "videos/3142-dzz6BiV.gif"
+  },
+  {
+    "id": "0778",
+    "name": "spider crawl push up",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes",
+    "image": "images/0778-P9GFBME.jpg",
+    "gif_url": "videos/0778-P9GFBME.gif"
+  },
+  {
+    "id": "3433",
+    "name": "swimmer kicks v. 2 (male)",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes",
+    "image": "images/3433-SP3hUez.jpg",
+    "gif_url": "videos/3433-SP3hUez.gif"
+  },
+  {
+    "id": "2459",
+    "name": "tire flip",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "tire",
+    "target": "glutes",
+    "image": "images/2459-oZjMu1t.jpg",
+    "gif_url": "videos/2459-oZjMu1t.gif"
+  },
+  {
+    "id": "0811",
+    "name": "trap bar deadlift",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "trap bar",
+    "target": "glutes",
+    "image": "images/0811-jQGwmxN.jpg",
+    "gif_url": "videos/0811-jQGwmxN.gif"
+  },
+  {
+    "id": "1466",
+    "name": "twist hip lift",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes",
+    "image": "images/1466-AX1kB0o.jpg",
+    "gif_url": "videos/1466-AX1kB0o.gif"
+  },
+  {
+    "id": "1460",
+    "name": "walking lunge",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes",
+    "image": "images/1460-IZVHb27.jpg",
+    "gif_url": "videos/1460-IZVHb27.gif"
+  },
+  {
+    "id": "3643",
+    "name": "weighted cossack squats (male)",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "weighted",
+    "target": "glutes",
+    "image": "images/3643-GWoKnIm.jpg",
+    "gif_url": "videos/3643-GWoKnIm.gif"
+  },
+  {
+    "id": "3644",
+    "name": "weighted lunge with swing",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "weighted",
+    "target": "glutes",
+    "image": "images/3644-5WiFcYk.jpg",
+    "gif_url": "videos/3644-5WiFcYk.gif"
+  },
+  {
+    "id": "0852",
+    "name": "weighted squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "weighted",
+    "target": "glutes",
+    "image": "images/0852-JZuApnB.jpg",
+    "gif_url": "videos/0852-JZuApnB.gif"
+  },
+  {
+    "id": "3642",
+    "name": "weighted stretch lunge",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "weighted",
+    "target": "glutes",
+    "image": "images/3642-13VW2VO.jpg",
+    "gif_url": "videos/3642-13VW2VO.gif"
+  }
+]

@@ -1,0 +1,112 @@
+{
+  "id": "0846",
+  "name": "weighted russian twist",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "weighted",
+  "instructions": {
+    "en": "Sit on the ground with your knees bent and your feet flat on the floor. Hold a weight or medicine ball with both hands in front of your chest. Lean back slightly, keeping your back straight and your core engaged. Slowly twist your torso to the right, bringing the weight or medicine ball towards the floor on your right side. Pause for a moment, then twist your torso to the left, bringing the weight or medicine ball towards the floor on your left side. Continue alternating sides for the desired number of repetitions.",
+    "it": "Siediti a terra con le ginocchia piegate e i piedi appoggiati sul pavimento. Tieni un peso o una palla medica con entrambe le mani davanti al petto. Appoggiati leggermente all'indietro, mantenendo la schiena dritta e il core impegnato. Ruota lentamente il busto verso destra, portando il peso o la palla medica verso il pavimento sul lato destro. Fai una pausa per un momento, quindi ruota il busto verso sinistra, portando il peso o la palla medica verso il pavimento sul lato sinistro. Continua ad alternare i lati per il numero di ripetizioni desiderato.",
+    "tr": "Dizleriniz bükülü ve ayaklarınız yere düz basacak şekilde yere oturun. Bir ağırlığı veya sağlık topunu iki elinizle göğsünüzün önünde tutun. Hafifçe geriye yaslanın, sırtınızı düz tutun ve merkez bölgenizi meşgul edin. Ağırlığı veya sağlık topunu sağ tarafınızdaki yere doğru getirerek gövdenizi yavaşça sağa doğru çevirin. Bir an duraklayın, ardından gövdenizi sola doğru döndürerek ağırlığı veya sağlık topunu sol tarafınızdaki yere doğru getirin. İstenilen tekrar sayısı için alternatif taraflara devam edin.",
+    "es": "Siéntate en el suelo con las rodillas flexionadas y los pies apoyados en el suelo. Sostén un peso o un balón medicinal con ambas manos frente al pecho. Inclínate ligeramente hacia atrás, manteniendo la espalda recta y el core activado. Gira lentamente el torso hacia la derecha, llevando el peso o el balón medicinal hacia el suelo a tu lado derecho. Haz una pausa de un momento, luego gira el torso hacia la izquierda, llevando el peso o el balón medicinal hacia el suelo a tu lado izquierdo. Continúa alternando lados durante el número de repeticiones deseado.",
+    "ru": "Сядьте на пол, согните колени и поставьте ступни на пол. Держите гирю или медицинский мяч обеими руками перед грудью. Слегка откиньтесь назад, сохраняя спину прямой и напряженный корпус. Медленно поверните туловище вправо, приближая гирю или медицинский мяч к полу с правой стороны. Сделайте паузу на мгновение, затем поверните туловище влево, перемещая гирю или медицинский мяч к полу с левой стороны. Продолжайте чередовать стороны желаемое количество повторений.",
+    "zh": "坐在地上，膝盖弯曲，双脚平放在地板上。 双手握住重物球或健身球放在胸前。 稍微向后倾斜，保持背部挺直，核心肌群参与。 慢慢地将你的躯干向右扭转，将重物或药球拉向右侧的地板。 暂停片刻，然后将躯干向左扭转，将重物或健身球拉向左侧的地板。 继续交替进行所需的重复次数。",
+    "hi": "अपने घुटनों को मोड़कर और अपने पैरों को फर्श पर सपाट करके जमीन पर बैठें। अपनी छाती के सामने दोनों हाथों से कोई वज़न या दवा की गेंद पकड़ें। अपनी पीठ सीधी और अपने कोर को व्यस्त रखते हुए थोड़ा पीछे झुकें। धीरे-धीरे अपने धड़ को दाहिनी ओर मोड़ें, वजन या दवा की गेंद को अपनी दाहिनी ओर फर्श की ओर लाएँ। एक पल के लिए रुकें, फिर अपने धड़ को बाईं ओर मोड़ें, वजन या दवा की गेंद को अपनी बाईं ओर फर्श की ओर लाएं। दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।",
+    "pl": "Usiądź na podłodze z ugiętymi kolanami i stopami płasko na podłodze. Trzymaj obciążenie lub piłkę lekarską obiema rękami przed klatką piersiową. Odchyl się lekko do tyłu, trzymając plecy proste i napinając mięśnie brzucha. Powoli skręć tułów w prawą stronę, przybliżając obciążenie lub piłkę lekarską w stronę podłogi po prawej stronie. Zatrzymaj się na chwilę, a następnie skręć tułów w lewą stronę, przybliżając obciążenie lub piłkę lekarską w stronę podłogi po lewej stronie. Kontynuuj naprzemienne strony przez żądaną liczbę powtórzeń.",
+    "ko": "무릎을 구부리고 발을 바닥에 붙인 채 바닥에 앉습니다. 양손으로 무게나 메디신볼을 들고 가슴 앞에서 잡습니다. 등을 곧게 유지하고 코어에 힘을 주며 약간 뒤로 몸을 기댑니다. 몸통을 오른쪽으로 천천히 비틀어 무게를 오른쪽 바닥 쪽으로 가져옵니다. 잠시 멈춘 후 몸통을 왼쪽으로 비틀어 무게를 왼쪽 바닥 쪽으로 가져옵니다. 원하는 횟수 동안 양쪽을 번갈아 가며 계속합니다.",
+    "fr": "Assieds-toi au sol, les genoux fléchis et les pieds à plat sur le sol. Tiens un poids ou un médecine-ball des deux mains devant ta poitrine. Penche-toi légèrement en arrière, en gardant le dos droit et la sangle abdominale gainée. Tourne lentement ton torse vers la droite, en amenant le poids ou le médecine-ball vers le sol sur ton côté droit. Marque une pause, puis fais pivoter ton torse vers la gauche, en amenant le poids ou le médecine-ball vers le sol du côté gauche. Continue à alterner les côtés pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on the ground with your knees bent and your feet flat on the floor.",
+      "Hold a weight or medicine ball with both hands in front of your chest.",
+      "Lean back slightly, keeping your back straight and your core engaged.",
+      "Slowly twist your torso to the right, bringing the weight or medicine ball towards the floor on your right side.",
+      "Pause for a moment, then twist your torso to the left, bringing the weight or medicine ball towards the floor on your left side.",
+      "Continue alternating sides for the desired number of repetitions."
+    ],
+    "it": [
+      "Siediti a terra con le ginocchia piegate e i piedi appoggiati sul pavimento.",
+      "Tieni un peso o una palla medica con entrambe le mani davanti al petto.",
+      "Appoggiati leggermente all'indietro, mantenendo la schiena dritta e il core impegnato.",
+      "Ruota lentamente il busto verso destra, portando il peso o la palla medica verso il pavimento sul lato destro.",
+      "Fai una pausa per un momento, quindi ruota il busto verso sinistra, portando il peso o la palla medica verso il pavimento sul lato sinistro.",
+      "Continua ad alternare i lati per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Dizleriniz bükülü ve ayaklarınız yere düz basacak şekilde yere oturun.",
+      "Bir ağırlığı veya sağlık topunu iki elinizle göğsünüzün önünde tutun.",
+      "Hafifçe geriye yaslanın, sırtınızı düz tutun ve merkez bölgenizi meşgul edin.",
+      "Ağırlığı veya sağlık topunu sağ tarafınızdaki yere doğru getirerek gövdenizi yavaşça sağa doğru çevirin.",
+      "Bir an duraklayın, ardından gövdenizi sola doğru döndürerek ağırlığı veya sağlık topunu sol tarafınızdaki yere doğru getirin.",
+      "İstenilen tekrar sayısı için alternatif taraflara devam edin."
+    ],
+    "es": [
+      "Siéntate en el suelo con las rodillas flexionadas y los pies apoyados en el suelo.",
+      "Sostén un peso o un balón medicinal con ambas manos frente al pecho.",
+      "Inclínate ligeramente hacia atrás, manteniendo la espalda recta y el core activado.",
+      "Gira lentamente el torso hacia la derecha, llevando el peso o el balón medicinal hacia el suelo a tu lado derecho.",
+      "Haz una pausa de un momento, luego gira el torso hacia la izquierda, llevando el peso o el balón medicinal hacia el suelo a tu lado izquierdo.",
+      "Continúa alternando lados durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на пол, согните колени и поставьте ступни на пол.",
+      "Держите гирю или медицинский мяч обеими руками перед грудью.",
+      "Слегка откиньтесь назад, сохраняя спину прямой и напряженный корпус.",
+      "Медленно поверните туловище вправо, приближая гирю или медицинский мяч к полу с правой стороны.",
+      "Сделайте паузу на мгновение, затем поверните туловище влево, перемещая гирю или медицинский мяч к полу с левой стороны.",
+      "Продолжайте чередовать стороны желаемое количество повторений."
+    ],
+    "zh": [
+      "坐在地上，膝盖弯曲，双脚平放在地板上。",
+      "双手握住重物球或健身球放在胸前。",
+      "稍微向后倾斜，保持背部挺直，核心肌群参与。",
+      "慢慢地将你的躯干向右扭转，将重物或药球拉向右侧的地板。",
+      "暂停片刻，然后将躯干向左扭转，将重物或健身球拉向左侧的地板。",
+      "继续交替进行所需的重复次数。"
+    ],
+    "hi": [
+      "अपने घुटनों को मोड़कर और अपने पैरों को फर्श पर सपाट करके जमीन पर बैठें।",
+      "अपनी छाती के सामने दोनों हाथों से कोई वज़न या दवा की गेंद पकड़ें।",
+      "अपनी पीठ सीधी और अपने कोर को व्यस्त रखते हुए थोड़ा पीछे झुकें।",
+      "धीरे-धीरे अपने धड़ को दाहिनी ओर मोड़ें, वजन या दवा की गेंद को अपनी दाहिनी ओर फर्श की ओर लाएँ।",
+      "एक पल के लिए रुकें, फिर अपने धड़ को बाईं ओर मोड़ें, वजन या दवा की गेंद को अपनी बाईं ओर फर्श की ओर लाएं।",
+      "दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।"
+    ],
+    "pl": [
+      "Usiądź na podłodze z ugiętymi kolanami i stopami płasko na podłodze.",
+      "Trzymaj obciążenie lub piłkę lekarską obiema rękami przed klatką piersiową.",
+      "Odchyl się lekko do tyłu, trzymając plecy proste i napinając mięśnie brzucha.",
+      "Powoli skręć tułów w prawą stronę, przybliżając obciążenie lub piłkę lekarską w stronę podłogi po prawej stronie.",
+      "Zatrzymaj się na chwilę, a następnie skręć tułów w lewą stronę, przybliżając obciążenie lub piłkę lekarską w stronę podłogi po lewej stronie.",
+      "Kontynuuj naprzemienne strony przez żądaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "무릎을 구부리고 발을 바닥에 붙인 채 바닥에 앉습니다.",
+      "양손으로 무게나 메디신볼을 들고 가슴 앞에서 잡습니다.",
+      "등을 곧게 유지하고 코어에 힘을 주며 약간 뒤로 몸을 기댑니다.",
+      "몸통을 오른쪽으로 천천히 비틀어 무게를 오른쪽 바닥 쪽으로 가져옵니다.",
+      "잠시 멈춘 후 몸통을 왼쪽으로 비틀어 무게를 왼쪽 바닥 쪽으로 가져옵니다.",
+      "원하는 횟수 동안 양쪽을 번갈아 가며 계속합니다."
+    ],
+    "fr": [
+      "Assieds-toi au sol, les genoux fléchis et les pieds à plat sur le sol.",
+      "Tiens un poids ou un médecine-ball des deux mains devant ta poitrine.",
+      "Penche-toi légèrement en arrière, en gardant le dos droit et la sangle abdominale gainée.",
+      "Tourne lentement ton torse vers la droite, en amenant le poids ou le médecine-ball vers le sol sur ton côté droit.",
+      "Marque une pause, puis fais pivoter ton torse vers la gauche, en amenant le poids ou le médecine-ball vers le sol du côté gauche.",
+      "Continue à alterner les côtés pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "obliques",
+  "secondary_muscles": [
+    "obliques",
+    "lower back"
+  ],
+  "target": "abs",
+  "image": "images/0846-fZFZ704.jpg",
+  "gif_url": "videos/0846-fZFZ704.gif",
+  "media_id": "fZFZ704",
+  "created_at": "2026-03-18T12:31:32.906116+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,102 @@
+{
+  "id": "0861",
+  "name": "cable seated row",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Sit on the cable row machine with your feet flat on the footrests and your knees slightly bent. Grasp the handles with an overhand grip, keeping your back straight and your shoulders relaxed. Pull the handles towards your body, squeezing your shoulder blades together. Pause for a moment at the peak of the movement, then slowly release the handles back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Siediti sulla macchina a remi con i piedi piatti sui piedi e le ginocchia leggermente piegate. Afferra le maniglie con una presa sopra la mano, tenendo la schiena dritta e le spalle rilassate. Tira le maniglie verso il corpo, stringendo le scapole insieme. Fermati un attimo al picco del movimento, poi rilasci lentamente le maniglie alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız ayaklıkların üzerinde düz ve dizleriniz hafifçe bükülmüş şekilde kablo kürek makinesine oturun. Sırtınızı dik ve omuzlarınızı rahat tutarak kolları üstten kavrayın. Kürek kemiklerinizi birbirine sıkıştırarak kolları vücudunuza doğru çekin. Hareketin zirvesinde bir an duraklayın, ardından kolları yavaşça başlangıç ​​pozisyonuna bırakın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Siéntate en la máquina de remo con cable con los pies planos sobre los apoyapiés y las rodillas ligeramente flexionadas. Sujeta las agarraderas con un agarre prono, manteniendo la espalda recta y los hombros relajados. Jala las agarraderas hacia el cuerpo, apretando los omóplatos entre sí. Haz una pausa por un momento en el punto máximo del movimiento, luego suelta lentamente las agarraderas de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Сядьте на тренажер для тяги тросов, поставьте ноги на подножки и слегка согните колени. Возьмитесь за рукоятки верхним хватом, сохраняя спину прямой, а плечи расслабленными. Потяните ручки к телу, сведя лопатки вместе. Задержитесь на мгновение на пике движения, затем медленно отпустите ручки обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "坐在电缆划船机上，双脚平放在脚踏板上，膝盖稍微弯曲。 正手握住手柄，保持背部挺直，肩膀放松。 将手柄拉向身体，将肩胛骨挤压在一起。 在动作的最高点暂停片刻，然后慢慢松开手柄回到起始位置。 重复所需的重复次数。",
+    "hi": "केबल रो मशीन पर अपने पैरों को फ़ुटरेस्ट पर सपाट करके और अपने घुटनों को थोड़ा मोड़कर बैठें। अपनी पीठ को सीधा रखते हुए और अपने कंधों को आराम से रखते हुए, हैंडल को ओवरहैंड ग्रिप से पकड़ें। अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए, हैंडल को अपने शरीर की ओर खींचें। गति के चरम पर एक पल के लिए रुकें, फिर धीरे-धीरे हैंडल को प्रारंभिक स्थिति में वापस छोड़ दें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Usiądź na wioślarzu z wyciągiem, stopy płasko na podnóżkach, kolana lekko ugięte. Chwyć uchwyty nachwytem, utrzymując proste plecy i rozluźnione barki. Przyciągnij uchwyty do ciała, ściągając łopatki. Zatrzymaj się na moment w szczytowym punkcie ruchu, a następnie powoli wróć z uchwytami do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "케이블 로우 머신에 앉아 발을 풋레스트에 평평하게 놓고 무릎을 약간 구부립니다. 오버핸드 그립으로 핸들을 잡고 등을 곧게 펴고 어깨를 이완합니다. 핸들을 몸 쪽으로 당기며 견갑골을 함께 조입니다. 운동의 최고점에서 잠시 멈춘 후 천천히 핸들을 처음 위치로 돌려놓습니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Assieds-toi sur la machine de tirage horizontal, les pieds à plat sur les repose-pieds et les genoux légèrement fléchis. Saisis les poignées avec une prise en pronation, en gardant le dos droit et les épaules relâchées. Tire les poignées vers ton corps en contractant tes omoplates l'une vers l'autre. Marque une pause au sommet du mouvement, puis relâche lentement les poignées pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on the cable row machine with your feet flat on the footrests and your knees slightly bent.",
+      "Grasp the handles with an overhand grip, keeping your back straight and your shoulders relaxed.",
+      "Pull the handles towards your body, squeezing your shoulder blades together.",
+      "Pause for a moment at the peak of the movement, then slowly release the handles back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Siediti sulla macchina a remi con i piedi piatti sui piedi e le ginocchia leggermente piegate.",
+      "Afferra le maniglie con una presa sopra la mano, tenendo la schiena dritta e le spalle rilassate.",
+      "Tira le maniglie verso il corpo, stringendo le scapole insieme.",
+      "Fermati un attimo al picco del movimento, poi rilasci lentamente le maniglie alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız ayaklıkların üzerinde düz ve dizleriniz hafifçe bükülmüş şekilde kablo kürek makinesine oturun.",
+      "Sırtınızı dik ve omuzlarınızı rahat tutarak kolları üstten kavrayın.",
+      "Kürek kemiklerinizi birbirine sıkıştırarak kolları vücudunuza doğru çekin.",
+      "Hareketin zirvesinde bir an duraklayın, ardından kolları yavaşça başlangıç ​​pozisyonuna bırakın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Siéntate en la máquina de remo con cable con los pies planos sobre los apoyapiés y las rodillas ligeramente flexionadas.",
+      "Sujeta las agarraderas con un agarre prono, manteniendo la espalda recta y los hombros relajados.",
+      "Jala las agarraderas hacia el cuerpo, apretando los omóplatos entre sí.",
+      "Haz una pausa por un momento en el punto máximo del movimiento, luego suelta lentamente las agarraderas de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на тренажер для тяги тросов, поставьте ноги на подножки и слегка согните колени.",
+      "Возьмитесь за рукоятки верхним хватом, сохраняя спину прямой, а плечи расслабленными.",
+      "Потяните ручки к телу, сведя лопатки вместе.",
+      "Задержитесь на мгновение на пике движения, затем медленно отпустите ручки обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "坐在电缆划船机上，双脚平放在脚踏板上，膝盖稍微弯曲。",
+      "正手握住手柄，保持背部挺直，肩膀放松。",
+      "将手柄拉向身体，将肩胛骨挤压在一起。",
+      "在动作的最高点暂停片刻，然后慢慢松开手柄回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "केबल रो मशीन पर अपने पैरों को फ़ुटरेस्ट पर सपाट करके और अपने घुटनों को थोड़ा मोड़कर बैठें।",
+      "अपनी पीठ को सीधा रखते हुए और अपने कंधों को आराम से रखते हुए, हैंडल को ओवरहैंड ग्रिप से पकड़ें।",
+      "अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए, हैंडल को अपने शरीर की ओर खींचें।",
+      "गति के चरम पर एक पल के लिए रुकें, फिर धीरे-धीरे हैंडल को प्रारंभिक स्थिति में वापस छोड़ दें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Usiądź na wioślarzu z wyciągiem, stopy płasko na podnóżkach, kolana lekko ugięte.",
+      "Chwyć uchwyty nachwytem, utrzymując proste plecy i rozluźnione barki.",
+      "Przyciągnij uchwyty do ciała, ściągając łopatki.",
+      "Zatrzymaj się na moment w szczytowym punkcie ruchu, a następnie powoli wróć z uchwytami do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "케이블 로우 머신에 앉아 발을 풋레스트에 평평하게 놓고 무릎을 약간 구부립니다.",
+      "오버핸드 그립으로 핸들을 잡고 등을 곧게 펴고 어깨를 이완합니다.",
+      "핸들을 몸 쪽으로 당기며 견갑골을 함께 조입니다.",
+      "운동의 최고점에서 잠시 멈춘 후 천천히 핸들을 처음 위치로 돌려놓습니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Assieds-toi sur la machine de tirage horizontal, les pieds à plat sur les repose-pieds et les genoux légèrement fléchis.",
+      "Saisis les poignées avec une prise en pronation, en gardant le dos droit et les épaules relâchées.",
+      "Tire les poignées vers ton corps en contractant tes omoplates l'une vers l'autre.",
+      "Marque une pause au sommet du mouvement, puis relâche lentement les poignées pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "forearms"
+  ],
+  "target": "upper back",
+  "image": "images/0861-fUBheHs.jpg",
+  "gif_url": "videos/0861-fUBheHs.gif",
+  "media_id": "fUBheHs",
+  "created_at": "2026-03-18T12:31:32.875996+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

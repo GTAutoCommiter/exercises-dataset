@@ -1,0 +1,102 @@
+{
+  "id": "0628",
+  "name": "monster walk",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Place a resistance band around your ankles. Stand with your feet shoulder-width apart and slightly bend your knees. Take a step to the side with your right foot, maintaining tension on the resistance band. Follow with your left foot, stepping to the side to return to the starting position. Repeat for the desired number of repetitions, then switch sides.",
+    "it": "Posiziona una fascia di resistenza intorno alle caviglie. Stai con i piedi alla larghezza delle spalle e piega leggermente le ginocchia. Fai un passo laterale con il piede destro, mantenendo la tensione sulla fascia di resistenza. Segui con il piede sinistro, facendo un passo laterale per tornare alla posizione di partenza. Ripeti per il numero di ripetizioni desiderato, quindi cambia lato.",
+    "tr": "Ayak bileklerinizin etrafına bir direnç bandı yerleştirin. Ayaklarınızı omuz genişliğinde açın ve dizlerinizi hafifçe bükün. Direnç bandının gerginliğini koruyarak sağ ayağınızla yana doğru bir adım atın. Başlangıç ​​pozisyonuna dönmek için yan adım atarak sol ayağınızla devam edin. İstenilen tekrar sayısı kadar tekrarlayın, ardından taraf değiştirin.",
+    "es": "Coloca una banda elástica alrededor de los tobillos. Coloca los pies separados a la altura de los hombros y flexiona ligeramente las rodillas. Da un paso hacia el lado con el pie derecho, manteniendo la tensión en la banda elástica. Continúa con el pie izquierdo, dando un paso lateral para volver a la posición inicial. Repite el número de repeticiones deseado, luego cambia de lado.",
+    "ru": "Наденьте эластичную ленту на лодыжки. Встаньте, поставив ноги на ширине плеч и слегка согнув колени. Сделайте шаг в сторону правой ногой, сохраняя напряжение на эспандере. Следуйте левой ногой, делая шаг в сторону, чтобы вернуться в исходное положение. Повторите желаемое количество повторений, затем поменяйте сторону.",
+    "zh": "在脚踝周围放置一根阻力带。 双脚分开与肩同宽站立，稍微弯曲膝盖。 右脚向一侧迈出一步，保持阻力带的张力。 左脚跟随，向一侧迈步以返回起始位置。 重复所需的重复次数，然后换边。",
+    "hi": "अपनी एड़ियों के चारों ओर एक प्रतिरोध बैंड लगाएं। अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और अपने घुटनों को थोड़ा मोड़ लें। प्रतिरोध बैंड पर तनाव बनाए रखते हुए, अपने दाहिने पैर के साथ एक कदम आगे बढ़ें। प्रारंभिक स्थिति में लौटने के लिए अपने बाएं पैर का अनुसरण करें, बगल की ओर बढ़ते हुए। दोहराव की वांछित संख्या के लिए दोहराएं, फिर पक्ष बदलें।",
+    "pl": "Załóż taśmę oporową na kostki. Stań w rozkroku na szerokość barków i ugnij lekko kolana. Zrób krok w bok prawą stopą, utrzymując napięcie taśmy oporowej. Dostaw lewą stopę, wracając do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń, a następnie zmień stronę.",
+    "ko": "저항 밴드를 발목 주위에 감습니다. 어깨 너비로 발을 벌리고 무릎을 약간 구부립니다. 오른쪽 발을 옆으로 한 발 내디디면서 저항 밴드의 긴장을 유지합니다. 왼쪽 발으로 따라 옆으로 한 발 내디디어 처음 위치로 돌아옵니다. 원하는 횟수만큼 반복한 후 반대쪽으로 바꿉니다.",
+    "fr": "Place un élastique autour de tes chevilles. Tiens-toi debout, les pieds écartés à la largeur des épaules et fléchis légèrement tes genoux. Fais un pas sur le côté avec le pied droit, en maintenant la tension sur l'élastique. Suis avec ton pied gauche, en faisant un pas sur le côté pour revenir à la position de départ. Répète le nombre de répétitions souhaité, puis change de côté."
+  },
+  "instruction_steps": {
+    "en": [
+      "Place a resistance band around your ankles.",
+      "Stand with your feet shoulder-width apart and slightly bend your knees.",
+      "Take a step to the side with your right foot, maintaining tension on the resistance band.",
+      "Follow with your left foot, stepping to the side to return to the starting position.",
+      "Repeat for the desired number of repetitions, then switch sides."
+    ],
+    "it": [
+      "Posiziona una fascia di resistenza intorno alle caviglie.",
+      "Stai con i piedi alla larghezza delle spalle e piega leggermente le ginocchia.",
+      "Fai un passo laterale con il piede destro, mantenendo la tensione sulla fascia di resistenza.",
+      "Segui con il piede sinistro, facendo un passo laterale per tornare alla posizione di partenza.",
+      "Ripeti per il numero di ripetizioni desiderato, quindi cambia lato."
+    ],
+    "tr": [
+      "Ayak bileklerinizin etrafına bir direnç bandı yerleştirin.",
+      "Ayaklarınızı omuz genişliğinde açın ve dizlerinizi hafifçe bükün.",
+      "Direnç bandının gerginliğini koruyarak sağ ayağınızla yana doğru bir adım atın.",
+      "Başlangıç ​​pozisyonuna dönmek için yan adım atarak sol ayağınızla devam edin.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından taraf değiştirin."
+    ],
+    "es": [
+      "Coloca una banda elástica alrededor de los tobillos.",
+      "Coloca los pies separados a la altura de los hombros y flexiona ligeramente las rodillas.",
+      "Da un paso hacia el lado con el pie derecho, manteniendo la tensión en la banda elástica.",
+      "Continúa con el pie izquierdo, dando un paso lateral para volver a la posición inicial.",
+      "Repite el número de repeticiones deseado, luego cambia de lado."
+    ],
+    "ru": [
+      "Наденьте эластичную ленту на лодыжки.",
+      "Встаньте, поставив ноги на ширине плеч и слегка согнув колени.",
+      "Сделайте шаг в сторону правой ногой, сохраняя напряжение на эспандере.",
+      "Следуйте левой ногой, делая шаг в сторону, чтобы вернуться в исходное положение.",
+      "Повторите желаемое количество повторений, затем поменяйте сторону."
+    ],
+    "zh": [
+      "在脚踝周围放置一根阻力带。",
+      "双脚分开与肩同宽站立，稍微弯曲膝盖。",
+      "右脚向一侧迈出一步，保持阻力带的张力。",
+      "左脚跟随，向一侧迈步以返回起始位置。",
+      "重复所需的重复次数，然后换边。"
+    ],
+    "hi": [
+      "अपनी एड़ियों के चारों ओर एक प्रतिरोध बैंड लगाएं।",
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और अपने घुटनों को थोड़ा मोड़ लें।",
+      "प्रतिरोध बैंड पर तनाव बनाए रखते हुए, अपने दाहिने पैर के साथ एक कदम आगे बढ़ें।",
+      "प्रारंभिक स्थिति में लौटने के लिए अपने बाएं पैर का अनुसरण करें, बगल की ओर बढ़ते हुए।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर पक्ष बदलें।"
+    ],
+    "pl": [
+      "Załóż taśmę oporową na kostki.",
+      "Stań w rozkroku na szerokość barków i ugnij lekko kolana.",
+      "Zrób krok w bok prawą stopą, utrzymując napięcie taśmy oporowej.",
+      "Dostaw lewą stopę, wracając do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń, a następnie zmień stronę."
+    ],
+    "ko": [
+      "저항 밴드를 발목 주위에 감습니다.",
+      "어깨 너비로 발을 벌리고 무릎을 약간 구부립니다.",
+      "오른쪽 발을 옆으로 한 발 내디디면서 저항 밴드의 긴장을 유지합니다.",
+      "왼쪽 발으로 따라 옆으로 한 발 내디디어 처음 위치로 돌아옵니다.",
+      "원하는 횟수만큼 반복한 후 반대쪽으로 바꿉니다."
+    ],
+    "fr": [
+      "Place un élastique autour de tes chevilles.",
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et fléchis légèrement tes genoux.",
+      "Fais un pas sur le côté avec le pied droit, en maintenant la tension sur l'élastique.",
+      "Suis avec ton pied gauche, en faisant un pas sur le côté pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis change de côté."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings",
+    "quadriceps"
+  ],
+  "target": "glutes",
+  "image": "images/0628-O95afRA.jpg",
+  "gif_url": "videos/0628-O95afRA.gif",
+  "media_id": "O95afRA",
+  "created_at": "2026-03-18T12:31:32.887759+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

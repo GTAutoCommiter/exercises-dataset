@@ -1,0 +1,123 @@
+{
+  "id": "0205",
+  "name": "cable rear pulldown",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Adjust the cable machine so that the pulley is at the highest position. Sit facing the machine with your feet flat on the ground and your knees slightly bent. Grasp the cable attachment with an overhand grip, hands slightly wider than shoulder-width apart. Lean back slightly, keeping your back straight and your chest up. Pull the cable attachment down towards your chest, squeezing your shoulder blades together. Pause for a moment at the bottom of the movement, then slowly release the cable back up to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Regola la macchina a cavo in modo che la carrucola sia nella posizione più alta. Siediti rivolto verso la macchina con i piedi piatti a terra e le ginocchia leggermente piegate. Afferra il cavo con una presa sopra la mano, le mani leggermente più larghe della larghezza delle spalle. Appoggiati leggermente all'indietro, tenendo la schiena dritta e il petto sollevato. Tira il cavo verso il petto, stringendo le scapole insieme. Fermati un attimo in fondo al movimento, poi rilascia lentamente il cavo fino alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Kablo makinesini makara en yüksek konumda olacak şekilde ayarlayın. Ayaklarınız yere düz basacak ve dizleriniz hafifçe bükülü olacak şekilde makineye dönük oturun. Kablo bağlantı parçasını üstten kavrayarak, eller omuz genişliğinden biraz daha geniş olacak şekilde kavrayın. Sırtınızı düz ve göğsünüzü yukarıda tutarak hafifçe geriye yaslanın. Kürek kemiklerinizi birbirine sıkıştırarak kablo eklentisini göğsünüze doğru çekin. Hareketin alt noktasında bir an duraklayın, ardından kabloyu yavaşça başlangıç ​​pozisyonuna kadar bırakın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta la máquina de cable de modo que la polea quede en la posición más alta. Siéntate frente a la máquina con los pies apoyados planos en el suelo y las rodillas ligeramente flexionadas. Sujeta el accesorio del cable con un agarre prono, con las manos un poco más separadas que el ancho de los hombros. Inclínate ligeramente hacia atrás, manteniendo la espalda recta y el pecho elevado. Jala el accesorio del cable hacia el pecho, apretando los omóplatos entre sí. Haz una pausa por un momento en la parte baja del movimiento y luego suelta lentamente el cable de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Отрегулируйте тросовую машину так, чтобы шкив находился в самом высоком положении. Сядьте лицом к машине, поставьте ступни на землю и слегка согните колени. Возьмитесь за блочное крепление верхним хватом, расставив руки чуть шире плеч. Слегка откиньтесь назад, держа спину прямо и грудь вверх. Потяните крепление троса вниз к груди, сжимая лопатки вместе. Сделайте паузу на мгновение в нижней части движения, затем медленно отпустите трос обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "调整拉索机，使滑轮处于最高位置。 面向机器坐着，双脚平放在地面上，膝盖稍微弯曲。 正手握住电缆附件，双手之间的距离略大于肩宽。 稍微向后倾斜，保持背部挺直，挺胸。 将电缆附件向下拉向胸部，将肩胛骨挤压在一起。 在动作底部停顿片刻，然后慢慢松开绳索回到起始位置。 重复所需的重复次数。",
+    "hi": "केबल मशीन को समायोजित करें ताकि चरखी उच्चतम स्थान पर हो। अपने पैरों को ज़मीन पर सपाट करके और घुटनों को थोड़ा मोड़कर मशीन की ओर मुंह करके बैठें। केबल अटैचमेंट को ओवरहैंड ग्रिप से पकड़ें, हाथों को कंधे की चौड़ाई से थोड़ा चौड़ा रखें। अपनी पीठ सीधी और छाती ऊपर रखते हुए थोड़ा पीछे झुकें। अपने कंधे के ब्लेड को एक साथ दबाते हुए, केबल अटैचमेंट को अपनी छाती की ओर नीचे खींचें। गति के निचले भाग पर एक पल के लिए रुकें, फिर धीरे-धीरे केबल को वापस प्रारंभिक स्थिति में छोड़ दें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Ustaw wyciąg tak, aby bloczek znajdował się w najwyższej pozycji. Usiądź przodem do maszyny, stopy płasko na podłodze, kolana lekko ugięte. Chwyć uchwyt wyciągu nachwytem, dłonie rozstawione nieco szerzej niż barki. Odchyl się lekko do tyłu, utrzymując proste plecy i uniesioną klatkę piersiową. Przyciągnij uchwyt w dół w kierunku klatki piersiowej, ściągając łopatki. Zatrzymaj się na moment na dole ruchu, a następnie powoli wróć z uchwytem do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "케이블 머신의 도르래를 가장 높은 위치에 조정합니다. 머신을 향해 앉고 발을 바닥에 두며 무릎을 약간 구부립니다. 손을 어깨 너비보다 약간 넓게 벌린 오버핸드 그립으로 케이블 어태치먼트를 잡습니다. 약간 뒤로 기울어져 등을 곧게 유지하고 가슴을 들어올립니다. 케이블 어태치먼트를 가슴 방향으로 당기며 어깨뼈를 함께 조입니다. 움직임의 최하점에서 잠깐 멈춘 후 천천히 케이블을 시작 위치로 풀어 올립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Règle la machine à câble de sorte que la poulie soit à la position la plus haute. Assieds-toi face à la machine, les pieds à plat sur le sol et les genoux légèrement fléchis. Saisis la poignée du câble avec une prise en pronation, les mains un peu plus larges que la largeur des épaules. Penche-toi légèrement en arrière, en gardant le dos droit et la poitrine ouverte. Tire l'accessoire du câble vers ta poitrine, en contractant tes omoplates. Marque une pause en bas du mouvement, puis relâche lentement le câble jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the cable machine so that the pulley is at the highest position.",
+      "Sit facing the machine with your feet flat on the ground and your knees slightly bent.",
+      "Grasp the cable attachment with an overhand grip, hands slightly wider than shoulder-width apart.",
+      "Lean back slightly, keeping your back straight and your chest up.",
+      "Pull the cable attachment down towards your chest, squeezing your shoulder blades together.",
+      "Pause for a moment at the bottom of the movement, then slowly release the cable back up to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Regola la macchina a cavo in modo che la carrucola sia nella posizione più alta.",
+      "Siediti rivolto verso la macchina con i piedi piatti a terra e le ginocchia leggermente piegate.",
+      "Afferra il cavo con una presa sopra la mano, le mani leggermente più larghe della larghezza delle spalle.",
+      "Appoggiati leggermente all'indietro, tenendo la schiena dritta e il petto sollevato.",
+      "Tira il cavo verso il petto, stringendo le scapole insieme.",
+      "Fermati un attimo in fondo al movimento, poi rilascia lentamente il cavo fino alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Kablo makinesini makara en yüksek konumda olacak şekilde ayarlayın.",
+      "Ayaklarınız yere düz basacak ve dizleriniz hafifçe bükülü olacak şekilde makineye dönük oturun.",
+      "Kablo bağlantı parçasını üstten kavrayarak, eller omuz genişliğinden biraz daha geniş olacak şekilde kavrayın.",
+      "Sırtınızı düz ve göğsünüzü yukarıda tutarak hafifçe geriye yaslanın.",
+      "Kürek kemiklerinizi birbirine sıkıştırarak kablo eklentisini göğsünüze doğru çekin.",
+      "Hareketin alt noktasında bir an duraklayın, ardından kabloyu yavaşça başlangıç ​​pozisyonuna kadar bırakın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta la máquina de cable de modo que la polea quede en la posición más alta.",
+      "Siéntate frente a la máquina con los pies apoyados planos en el suelo y las rodillas ligeramente flexionadas.",
+      "Sujeta el accesorio del cable con un agarre prono, con las manos un poco más separadas que el ancho de los hombros.",
+      "Inclínate ligeramente hacia atrás, manteniendo la espalda recta y el pecho elevado.",
+      "Jala el accesorio del cable hacia el pecho, apretando los omóplatos entre sí.",
+      "Haz una pausa por un momento en la parte baja del movimiento y luego suelta lentamente el cable de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Отрегулируйте тросовую машину так, чтобы шкив находился в самом высоком положении.",
+      "Сядьте лицом к машине, поставьте ступни на землю и слегка согните колени.",
+      "Возьмитесь за блочное крепление верхним хватом, расставив руки чуть шире плеч.",
+      "Слегка откиньтесь назад, держа спину прямо и грудь вверх.",
+      "Потяните крепление троса вниз к груди, сжимая лопатки вместе.",
+      "Сделайте паузу на мгновение в нижней части движения, затем медленно отпустите трос обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "调整拉索机，使滑轮处于最高位置。",
+      "面向机器坐着，双脚平放在地面上，膝盖稍微弯曲。",
+      "正手握住电缆附件，双手之间的距离略大于肩宽。",
+      "稍微向后倾斜，保持背部挺直，挺胸。",
+      "将电缆附件向下拉向胸部，将肩胛骨挤压在一起。",
+      "在动作底部停顿片刻，然后慢慢松开绳索回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "केबल मशीन को समायोजित करें ताकि चरखी उच्चतम स्थान पर हो।",
+      "अपने पैरों को ज़मीन पर सपाट करके और घुटनों को थोड़ा मोड़कर मशीन की ओर मुंह करके बैठें।",
+      "केबल अटैचमेंट को ओवरहैंड ग्रिप से पकड़ें, हाथों को कंधे की चौड़ाई से थोड़ा चौड़ा रखें।",
+      "अपनी पीठ सीधी और छाती ऊपर रखते हुए थोड़ा पीछे झुकें।",
+      "अपने कंधे के ब्लेड को एक साथ दबाते हुए, केबल अटैचमेंट को अपनी छाती की ओर नीचे खींचें।",
+      "गति के निचले भाग पर एक पल के लिए रुकें, फिर धीरे-धीरे केबल को वापस प्रारंभिक स्थिति में छोड़ दें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Ustaw wyciąg tak, aby bloczek znajdował się w najwyższej pozycji.",
+      "Usiądź przodem do maszyny, stopy płasko na podłodze, kolana lekko ugięte.",
+      "Chwyć uchwyt wyciągu nachwytem, dłonie rozstawione nieco szerzej niż barki.",
+      "Odchyl się lekko do tyłu, utrzymując proste plecy i uniesioną klatkę piersiową.",
+      "Przyciągnij uchwyt w dół w kierunku klatki piersiowej, ściągając łopatki.",
+      "Zatrzymaj się na moment na dole ruchu, a następnie powoli wróć z uchwytem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "케이블 머신의 도르래를 가장 높은 위치에 조정합니다.",
+      "머신을 향해 앉고 발을 바닥에 두며 무릎을 약간 구부립니다.",
+      "손을 어깨 너비보다 약간 넓게 벌린 오버핸드 그립으로 케이블 어태치먼트를 잡습니다.",
+      "약간 뒤로 기울어져 등을 곧게 유지하고 가슴을 들어올립니다.",
+      "케이블 어태치먼트를 가슴 방향으로 당기며 어깨뼈를 함께 조입니다.",
+      "움직임의 최하점에서 잠깐 멈춘 후 천천히 케이블을 시작 위치로 풀어 올립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Règle la machine à câble de sorte que la poulie soit à la position la plus haute.",
+      "Assieds-toi face à la machine, les pieds à plat sur le sol et les genoux légèrement fléchis.",
+      "Saisis la poignée du câble avec une prise en pronation, les mains un peu plus larges que la largeur des épaules.",
+      "Penche-toi légèrement en arrière, en gardant le dos droit et la poitrine ouverte.",
+      "Tire l'accessoire du câble vers ta poitrine, en contractant tes omoplates.",
+      "Marque une pause en bas du mouvement, puis relâche lentement le câble jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "rhomboids",
+    "rear deltoids"
+  ],
+  "target": "lats",
+  "image": "images/0205-SpsOSXk.jpg",
+  "gif_url": "videos/0205-SpsOSXk.gif",
+  "media_id": "SpsOSXk",
+  "created_at": "2026-03-18T12:31:32.875536+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

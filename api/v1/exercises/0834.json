@@ -1,0 +1,92 @@
+{
+  "id": "0834",
+  "name": "weighted front raise",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "weighted",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand with your palms facing your thighs. Keeping your arms straight, exhale and lift the dumbbells in front of you until they are at shoulder level. Pause for a moment at the top, then inhale and slowly lower the dumbbells back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi alla larghezza delle spalle, tenendo un manubrio in ciascuna mano con i palmi rivolti verso le cosce. Tenendo le braccia tese, espira e solleva i manubri davanti a te finché non sono all'altezza delle spalle. Fermati per un momento in alto, quindi inspira e abbassa lentamente i manubri nella posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınızı omuz genişliğinde açın, avuçlarınız uyluklarınıza bakacak şekilde her iki elinizde birer dambıl tutun. Kollarınızı düz tutarak nefes verin ve önünüzdeki dambılları omuz hizasına gelene kadar kaldırın. Tepe noktasında bir süre duraklayın, ardından nefes alın ve dambılları yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros, sosteniendo una mancuerna en cada mano con las palmas hacia los muslos. Manteniendo los brazos rectos, exhala y levanta las mancuernas frente a ti hasta que queden a la altura de los hombros. Haz una pausa por un momento en la parte superior, luego inhala y baja lentamente las mancuernas de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, держите по гантели в каждой руке ладонями к бедрам. Держа руки прямыми, выдохните и поднимите гантели перед собой до уровня плеч. Задержитесь на мгновение в верхней точке, затем вдохните и медленно опустите гантели обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，双手各握一个哑铃，手掌朝向大腿。 保持双臂伸直，呼气并将哑铃举至身前，直至与肩齐平。 在顶部停顿片刻，然后吸气，慢慢将哑铃放回起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, प्रत्येक हाथ में डंबल पकड़ें और अपनी हथेलियों को अपनी जांघों की ओर रखें। अपनी बाहों को सीधा रखते हुए, सांस छोड़ें और डम्बल को अपने सामने तब तक उठाएं जब तक वे कंधे के स्तर पर न आ जाएं। शीर्ष पर एक पल के लिए रुकें, फिर सांस लें और धीरे-धीरे डम्बल को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań ze stopami rozstawionymi na szerokość barków, trzymając hantlę w każdej dłoni, dłońmi skierowanymi w stronę ud. Trzymając ramiona proste, wydychaj powietrze i unieś hantle przed sobą, aż znajdą się na wysokości barków. Zatrzymaj się na chwilę na górze, a następnie wdychaj powietrze i powoli opuść hantle z powrotem do pozycji wyjściowej. Powtórz zgodnie z żądaną liczbą powtórzeń.",
+    "ko": "발을 어깨 너비로 벌리고 서서 각 손에 덤벨을 들되 손바닥이 허벅지를 향하도록 합니다. 팔을 곧게 유지하며 숨을 내쉬고 덤벨을 어깨 높이까지 앞쪽으로 들어올립니다. 위쪽에서 잠시 멈춘 후 숨을 들이쉬며 덤벨을 천천히 처음 위치로 내려갑니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un haltère dans chaque main, paumes tournées vers tes cuisses. En gardant les bras tendus, expire et lève les haltères devant toi jusqu'à ce qu'ils soient à hauteur d'épaule. Marque une pause en haut, puis inspire et abaisse lentement les haltères pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart, holding a dumbbell in each hand with your palms facing your thighs.",
+      "Keeping your arms straight, exhale and lift the dumbbells in front of you until they are at shoulder level.",
+      "Pause for a moment at the top, then inhale and slowly lower the dumbbells back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle, tenendo un manubrio in ciascuna mano con i palmi rivolti verso le cosce.",
+      "Tenendo le braccia tese, espira e solleva i manubri davanti a te finché non sono all'altezza delle spalle.",
+      "Fermati per un momento in alto, quindi inspira e abbassa lentamente i manubri nella posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınızı omuz genişliğinde açın, avuçlarınız uyluklarınıza bakacak şekilde her iki elinizde birer dambıl tutun.",
+      "Kollarınızı düz tutarak nefes verin ve önünüzdeki dambılları omuz hizasına gelene kadar kaldırın.",
+      "Tepe noktasında bir süre duraklayın, ardından nefes alın ve dambılları yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros, sosteniendo una mancuerna en cada mano con las palmas hacia los muslos.",
+      "Manteniendo los brazos rectos, exhala y levanta las mancuernas frente a ti hasta que queden a la altura de los hombros.",
+      "Haz una pausa por un momento en la parte superior, luego inhala y baja lentamente las mancuernas de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, держите по гантели в каждой руке ладонями к бедрам.",
+      "Держа руки прямыми, выдохните и поднимите гантели перед собой до уровня плеч.",
+      "Задержитесь на мгновение в верхней точке, затем вдохните и медленно опустите гантели обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，双手各握一个哑铃，手掌朝向大腿。",
+      "保持双臂伸直，呼气并将哑铃举至身前，直至与肩齐平。",
+      "在顶部停顿片刻，然后吸气，慢慢将哑铃放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, प्रत्येक हाथ में डंबल पकड़ें और अपनी हथेलियों को अपनी जांघों की ओर रखें।",
+      "अपनी बाहों को सीधा रखते हुए, सांस छोड़ें और डम्बल को अपने सामने तब तक उठाएं जब तक वे कंधे के स्तर पर न आ जाएं।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर सांस लें और धीरे-धीरे डम्बल को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań ze stopami rozstawionymi na szerokość barków, trzymając hantlę w każdej dłoni, dłońmi skierowanymi w stronę ud.",
+      "Trzymając ramiona proste, wydychaj powietrze i unieś hantle przed sobą, aż znajdą się na wysokości barków.",
+      "Zatrzymaj się na chwilę na górze, a następnie wdychaj powietrze i powoli opuść hantle z powrotem do pozycji wyjściowej.",
+      "Powtórz zgodnie z żądaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 너비로 벌리고 서서 각 손에 덤벨을 들되 손바닥이 허벅지를 향하도록 합니다.",
+      "팔을 곧게 유지하며 숨을 내쉬고 덤벨을 어깨 높이까지 앞쪽으로 들어올립니다.",
+      "위쪽에서 잠시 멈춘 후 숨을 들이쉬며 덤벨을 천천히 처음 위치로 내려갑니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un haltère dans chaque main, paumes tournées vers tes cuisses.",
+      "En gardant les bras tendus, expire et lève les haltères devant toi jusqu'à ce qu'ils soient à hauteur d'épaule.",
+      "Marque une pause en haut, puis inspire et abaisse lentement les haltères pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "forearms"
+  ],
+  "target": "delts",
+  "image": "images/0834-e4aFmFY.jpg",
+  "gif_url": "videos/0834-e4aFmFY.gif",
+  "media_id": "e4aFmFY",
+  "created_at": "2026-03-18T12:31:32.905889+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

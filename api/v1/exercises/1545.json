@@ -1,0 +1,124 @@
+{
+  "id": "1545",
+  "name": "barbell full zercher squat",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and toes slightly turned out. Hold the barbell in the crooks of your elbows, with your hands gripping the barbell for stability. Engage your core and keep your chest lifted as you lower your hips back and down into a squat position. Keep your knees in line with your toes and your weight in your heels. Lower until your thighs are parallel to the ground, or as low as you can comfortably go. Drive through your heels to stand back up, squeezing your glutes at the top of the movement. Repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi alla larghezza delle spalle e le dita dei piedi leggermente rivolte verso l'esterno. Tieni il bilanciere nell'incavo dei gomiti, con le mani che afferrano il bilanciere per stabilità. Coinvolgi il core e mantieni il petto sollevato mentre abbassi i fianchi indietro e in basso in una posizione tozza. Tieni le ginocchia in linea con le dita dei piedi e il peso sui talloni. Abbassati finché le cosce non sono parallele al suolo o il più in basso possibile. Spingi i talloni per rialzarti, contraendo i glutei nella parte superiore del movimento. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız omuz genişliğinde açık ve ayak parmaklarınız hafifçe dışa dönük olacak şekilde ayakta durun. Halterinizi dirseklerinizin kıvrımlarında tutun ve ellerinizle denge sağlamak için halteri kavrayın. Kalçalarınızı geriye ve aşağıya doğru çömelme pozisyonuna indirirken, merkez bölgenizi devreye sokun ve göğsünüzü yukarıda tutun. Dizlerinizi ayak parmaklarınızla aynı hizada ve ağırlığınızı topuklarınızda tutun. Uyluklarınız yere paralel veya rahatça gidebildiğiniz kadar alçaltın. Hareketin en üst noktasında kalça kaslarınızı sıkarak ayağa kalkmak için topuklarınızın üzerinden geçin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y los dedos de los pies ligeramente hacia afuera. Sujeta la barra en el pliegue de los codos, agarrándola con las manos para mantener la estabilidad. Activa el core y mantén el pecho elevado mientras bajas las caderas hacia atrás y hacia abajo en una posición de sentadilla. Mantén las rodillas alineadas con los dedos de los pies y el peso sobre los talones. Baja hasta que los muslos queden paralelos al suelo, o tan abajo como puedas hacerlo cómodamente. Empuja con los talones para volver a ponerte de pie, apretando los glúteos en la parte alta del movimiento. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, поставив ноги на ширине плеч и слегка развернув пальцы ног. Держите штангу на сгибах локтей, удерживая ее руками для устойчивости. Напрягите корпус и держите грудь поднятой, опуская бедра назад и вниз в положение приседа. Держите колени на одной линии с пальцами ног, а вес тела перенесите на пятки. Опускайтесь до тех пор, пока бедра не станут параллельны земле или настолько низко, насколько вам будет удобно. Проведите пятками, чтобы встать обратно, сжимая ягодицы в верхней части движения. Повторите необходимое количество повторений.",
+    "zh": "站立，双脚分开与肩同宽，脚趾稍微外翻。 将杠铃放在肘部的弯曲处，双手握住杠铃以保持稳定。 当你将臀部向后降低到蹲姿时，启动你的核心并保持胸部抬起。 保持膝盖与脚趾对齐，并将重量放在脚后跟上。 降低直到大腿与地面平行，或者尽可能降低到您能舒服的高度。 通过脚跟发力站起来，在动作的最高点挤压臀部。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर और पंजों को थोड़ा बाहर की ओर करके खड़े हो जाएं। स्थिरता के लिए बारबेल को अपनी कोहनियों के मोड़ से पकड़ें, अपने हाथों से बारबेल को पकड़ें। अपने कोर को संलग्न करें और अपने कूल्हों को पीछे की ओर झुकाते हुए स्क्वाट स्थिति में आते समय अपनी छाती को ऊपर उठाएं। अपने घुटनों को अपने पंजों की सीध में रखें और अपना वजन अपनी एड़ियों पर रखें। तब तक नीचे जाएँ जब तक आपकी जाँघें ज़मीन के समानांतर न हो जाएँ, या जितना नीचे आप आराम से जा सकें। वापस खड़े होने के लिए अपनी एड़ियों के माध्यम से ड्राइव करें, आंदोलन के शीर्ष पर अपने ग्लूट्स को निचोड़ें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań w rozkroku na szerokość barków, z lekko rozstawionymi na zewnątrz palcami stóp. Trzymaj sztangę w zgięciach łokci, chwytając ją dłońmi dla stabilności. Napnij mięśnie tułowia i utrzymuj uniesioną klatkę piersiową, opuszczając biodra w dół do pozycji przysiadu. Utrzymuj kolana w linii ze stopami, a ciężar ciała w piętach. Opuszczaj się, aż uda będą równoległe do podłoża, lub tak nisko, jak pozwala ci na to komfort. Wypchnij się przez pięty, wracając do pozycji stojącej, ściskając pośladki na szczycie ruchu. Powtórz odpowiednią liczbę razy.",
+    "ko": "발을 어깨넓이로 벌리고 발가락을 약간 바깥쪽으로 향하게 섭니다. 바벨을 팔꿈치 안쪽에 걸쳐놓고 바벨을 잡아 안정성을 유지합니다. 복부에 힘을 주고 가슴을 들어올린 상태를 유지하면서 허리를 뒤로 내리고 스쿼트 위치로 내려갑니다. 무릎이 발가락과 일직선상에 있고 체중은 발 뒤꿈치에 있는지 확인합니다. 넓적다리가 바닥과 평행하거나 편안한 범위 내에서 최대한 낮게 내려갑니다. 발 뒤꿈치로 힘을 주어 일어나면서 둔근을 조이고 움직임의 최상단에서 조입니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et les orteils légèrement tournés vers l'extérieur. Tiens la barre au creux de tes coudes, tes mains agrippant la barre pour la stabilité. Gaine ta sangle abdominale et garde ta poitrine relevée pendant que tu abaisses tes hanches vers l'arrière et le bas en position de squat. Garde les genoux alignés avec les orteils et le poids dans les talons. Descends jusqu'à ce que tes cuisses soient parallèles au sol, ou aussi bas que tu peux confortablement aller. Pousse sur tes talons pour te relever, en contractant tes fessiers en haut du mouvement. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and toes slightly turned out.",
+      "Hold the barbell in the crooks of your elbows, with your hands gripping the barbell for stability.",
+      "Engage your core and keep your chest lifted as you lower your hips back and down into a squat position.",
+      "Keep your knees in line with your toes and your weight in your heels.",
+      "Lower until your thighs are parallel to the ground, or as low as you can comfortably go.",
+      "Drive through your heels to stand back up, squeezing your glutes at the top of the movement.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle e le dita dei piedi leggermente rivolte verso l'esterno.",
+      "Tieni il bilanciere nell'incavo dei gomiti, con le mani che afferrano il bilanciere per stabilità.",
+      "Coinvolgi il core e mantieni il petto sollevato mentre abbassi i fianchi indietro e in basso in una posizione tozza.",
+      "Tieni le ginocchia in linea con le dita dei piedi e il peso sui talloni.",
+      "Abbassati finché le cosce non sono parallele al suolo o il più in basso possibile.",
+      "Spingi i talloni per rialzarti, contraendo i glutei nella parte superiore del movimento.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık ve ayak parmaklarınız hafifçe dışa dönük olacak şekilde ayakta durun.",
+      "Halterinizi dirseklerinizin kıvrımlarında tutun ve ellerinizle denge sağlamak için halteri kavrayın.",
+      "Kalçalarınızı geriye ve aşağıya doğru çömelme pozisyonuna indirirken, merkez bölgenizi devreye sokun ve göğsünüzü yukarıda tutun.",
+      "Dizlerinizi ayak parmaklarınızla aynı hizada ve ağırlığınızı topuklarınızda tutun.",
+      "Uyluklarınız yere paralel veya rahatça gidebildiğiniz kadar alçaltın.",
+      "Hareketin en üst noktasında kalça kaslarınızı sıkarak ayağa kalkmak için topuklarınızın üzerinden geçin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y los dedos de los pies ligeramente hacia afuera.",
+      "Sujeta la barra en el pliegue de los codos, agarrándola con las manos para mantener la estabilidad.",
+      "Activa el core y mantén el pecho elevado mientras bajas las caderas hacia atrás y hacia abajo en una posición de sentadilla.",
+      "Mantén las rodillas alineadas con los dedos de los pies y el peso sobre los talones.",
+      "Baja hasta que los muslos queden paralelos al suelo, o tan abajo como puedas hacerlo cómodamente.",
+      "Empuja con los talones para volver a ponerte de pie, apretando los glúteos en la parte alta del movimiento.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, поставив ноги на ширине плеч и слегка развернув пальцы ног.",
+      "Держите штангу на сгибах локтей, удерживая ее руками для устойчивости.",
+      "Напрягите корпус и держите грудь поднятой, опуская бедра назад и вниз в положение приседа.",
+      "Держите колени на одной линии с пальцами ног, а вес тела перенесите на пятки.",
+      "Опускайтесь до тех пор, пока бедра не станут параллельны земле или настолько низко, насколько вам будет удобно.",
+      "Проведите пятками, чтобы встать обратно, сжимая ягодицы в верхней части движения.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "站立，双脚分开与肩同宽，脚趾稍微外翻。",
+      "将杠铃放在肘部的弯曲处，双手握住杠铃以保持稳定。",
+      "当你将臀部向后降低到蹲姿时，启动你的核心并保持胸部抬起。",
+      "保持膝盖与脚趾对齐，并将重量放在脚后跟上。",
+      "降低直到大腿与地面平行，或者尽可能降低到您能舒服的高度。",
+      "通过脚跟发力站起来，在动作的最高点挤压臀部。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर और पंजों को थोड़ा बाहर की ओर करके खड़े हो जाएं।",
+      "स्थिरता के लिए बारबेल को अपनी कोहनियों के मोड़ से पकड़ें, अपने हाथों से बारबेल को पकड़ें।",
+      "अपने कोर को संलग्न करें और अपने कूल्हों को पीछे की ओर झुकाते हुए स्क्वाट स्थिति में आते समय अपनी छाती को ऊपर उठाएं।",
+      "अपने घुटनों को अपने पंजों की सीध में रखें और अपना वजन अपनी एड़ियों पर रखें।",
+      "तब तक नीचे जाएँ जब तक आपकी जाँघें ज़मीन के समानांतर न हो जाएँ, या जितना नीचे आप आराम से जा सकें।",
+      "वापस खड़े होने के लिए अपनी एड़ियों के माध्यम से ड्राइव करें, आंदोलन के शीर्ष पर अपने ग्लूट्स को निचोड़ें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków, z lekko rozstawionymi na zewnątrz palcami stóp.",
+      "Trzymaj sztangę w zgięciach łokci, chwytając ją dłońmi dla stabilności.",
+      "Napnij mięśnie tułowia i utrzymuj uniesioną klatkę piersiową, opuszczając biodra w dół do pozycji przysiadu.",
+      "Utrzymuj kolana w linii ze stopami, a ciężar ciała w piętach.",
+      "Opuszczaj się, aż uda będą równoległe do podłoża, lub tak nisko, jak pozwala ci na to komfort.",
+      "Wypchnij się przez pięty, wracając do pozycji stojącej, ściskając pośladki na szczycie ruchu.",
+      "Powtórz odpowiednią liczbę razy."
+    ],
+    "ko": [
+      "발을 어깨넓이로 벌리고 발가락을 약간 바깥쪽으로 향하게 섭니다.",
+      "바벨을 팔꿈치 안쪽에 걸쳐놓고 바벨을 잡아 안정성을 유지합니다.",
+      "복부에 힘을 주고 가슴을 들어올린 상태를 유지하면서 허리를 뒤로 내리고 스쿼트 위치로 내려갑니다.",
+      "무릎이 발가락과 일직선상에 있고 체중은 발 뒤꿈치에 있는지 확인합니다.",
+      "넓적다리가 바닥과 평행하거나 편안한 범위 내에서 최대한 낮게 내려갑니다.",
+      "발 뒤꿈치로 힘을 주어 일어나면서 둔근을 조이고 움직임의 최상단에서 조입니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et les orteils légèrement tournés vers l'extérieur.",
+      "Tiens la barre au creux de tes coudes, tes mains agrippant la barre pour la stabilité.",
+      "Gaine ta sangle abdominale et garde ta poitrine relevée pendant que tu abaisses tes hanches vers l'arrière et le bas en position de squat.",
+      "Garde les genoux alignés avec les orteils et le poids dans les talons.",
+      "Descends jusqu'à ce que tes cuisses soient parallèles au sol, ou aussi bas que tu peux confortablement aller.",
+      "Pousse sur tes talons pour te relever, en contractant tes fessiers en haut du mouvement.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves",
+    "core"
+  ],
+  "target": "glutes",
+  "image": "images/1545-vR1vold.jpg",
+  "gif_url": "videos/1545-vR1vold.gif",
+  "media_id": "vR1vold",
+  "created_at": "2026-03-18T12:31:32.871597+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,92 @@
+{
+  "id": "0204",
+  "name": "cable rear drive",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Attach a handle to a low pulley cable machine and stand facing away from the machine. Grasp the handle with an overhand grip and extend your arms straight out in front of you. Keeping your elbows stationary, pull the handle back towards your body, squeezing your triceps at the end of the movement. Slowly return the handle to the starting position and repeat for the desired number of repetitions.",
+    "it": "Fissa una maniglia a una macchina a cavo a carrucole bassa e mettiti rivolto di spalle alla macchina. Afferra il manico con una presa sopra la mano e estendi le braccia dritte davanti a te. Mantenendo i gomiti fermi, tira la maniglia verso il corpo, stringendo i tricipiti alla fine del movimento. Riporta lentamente la maniglia alla posizione iniziale e ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Alçak makaralı bir kablo makinesine bir tutamak takın ve makineden uzağa bakacak şekilde durun. Kolu üstten kavrayarak kollarınızı düz bir şekilde önünüze doğru uzatın. Dirseklerinizi sabit tutarak kolu vücudunuza doğru çekin ve hareketin sonunda trisepsinizi sıkın. Kolu yavaşça başlangıç ​​pozisyonuna getirin ve istenilen sayıda tekrar için tekrarlayın.",
+    "es": "Sujeta una agarradera a una máquina de cable con polea baja y ponte de pie de espaldas a la máquina. Sujeta la agarradera con un agarre prono y extiende los brazos rectos frente a ti. Manteniendo los codos inmóviles, jala la agarradera de vuelta hacia el cuerpo, apretando los tríceps al final del movimiento. Regresa lentamente la agarradera a la posición inicial y repite el número de repeticiones deseado.",
+    "ru": "Прикрепите ручку к машине с тросом с низким шкивом и встаньте лицом в сторону от машины. Возьмитесь за рукоятку верхним хватом и вытяните руки прямо перед собой. Удерживая локти неподвижными, потяните рукоятку назад к телу, сжимая трицепсы в конце движения. Медленно верните рукоятку в исходное положение и повторите необходимое количество повторений.",
+    "zh": "将手柄连接到低滑轮电缆机器上，并背对机器站立。 正手握住手柄，并将双臂伸直至身前。 保持肘部不动，将手柄拉回身体，在动作结束时挤压三头肌。 慢慢地将手柄返回到起始位置，然后重复所需的重复次数。",
+    "hi": "लो पुली केबल मशीन में एक हैंडल जोड़ें और मशीन से दूर की ओर मुंह करके खड़े हो जाएं। हैंडल को ओवरहैंड ग्रिप से पकड़ें और अपनी बाहों को अपने सामने सीधा फैलाएं। अपनी कोहनियों को स्थिर रखते हुए, आंदोलन के अंत में अपने ट्राइसेप्स को निचोड़ते हुए, हैंडल को अपने शरीर की ओर वापस खींचें। धीरे-धीरे हैंडल को शुरुआती स्थिति में लौटाएं और वांछित संख्या में दोहराव के लिए दोहराएं।",
+    "pl": "Podłącz uchwyt do wyciągu z dolnym bloczkiem i stań tyłem do maszyny. Chwyć uchwyt nachwytem i wyprostuj ramiona prosto przed sobą. Trzymając nieruchome łokcie, przyciągnij uchwyt do ciała, napinając triceps na końcu ruchu. Powoli wróć z uchwytem do pozycji wyjściowej i powtórz zalecaną liczbę powtórzeń.",
+    "ko": "낮은 도르래 케이블 머신에 손잡이를 부착하고 머신을 등지고 섭니다. 오버핸드 그립으로 손잡이를 잡고 팔을 앞으로 쭉 펴집니다. 팔꿈치를 고정한 채로 손잡이를 몸 방향으로 당기며 움직임의 끝에서 삼두근을 조입니다. 천천히 손잡이를 시작 위치로 돌립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Fixe une poignée à une machine à câble à poulie basse et tiens-toi dos à la machine. Saisis la poignée avec une prise en pronation et étends les bras droit devant toi. En gardant les coudes immobiles, tire la poignée vers ton corps, en contractant tes triceps à la fin du mouvement. Ramène lentement la poignée à la position de départ et répète pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Attach a handle to a low pulley cable machine and stand facing away from the machine.",
+      "Grasp the handle with an overhand grip and extend your arms straight out in front of you.",
+      "Keeping your elbows stationary, pull the handle back towards your body, squeezing your triceps at the end of the movement.",
+      "Slowly return the handle to the starting position and repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Fissa una maniglia a una macchina a cavo a carrucole bassa e mettiti rivolto di spalle alla macchina.",
+      "Afferra il manico con una presa sopra la mano e estendi le braccia dritte davanti a te.",
+      "Mantenendo i gomiti fermi, tira la maniglia verso il corpo, stringendo i tricipiti alla fine del movimento.",
+      "Riporta lentamente la maniglia alla posizione iniziale e ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Alçak makaralı bir kablo makinesine bir tutamak takın ve makineden uzağa bakacak şekilde durun.",
+      "Kolu üstten kavrayarak kollarınızı düz bir şekilde önünüze doğru uzatın.",
+      "Dirseklerinizi sabit tutarak kolu vücudunuza doğru çekin ve hareketin sonunda trisepsinizi sıkın.",
+      "Kolu yavaşça başlangıç ​​pozisyonuna getirin ve istenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Sujeta una agarradera a una máquina de cable con polea baja y ponte de pie de espaldas a la máquina.",
+      "Sujeta la agarradera con un agarre prono y extiende los brazos rectos frente a ti.",
+      "Manteniendo los codos inmóviles, jala la agarradera de vuelta hacia el cuerpo, apretando los tríceps al final del movimiento.",
+      "Regresa lentamente la agarradera a la posición inicial y repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Прикрепите ручку к машине с тросом с низким шкивом и встаньте лицом в сторону от машины.",
+      "Возьмитесь за рукоятку верхним хватом и вытяните руки прямо перед собой.",
+      "Удерживая локти неподвижными, потяните рукоятку назад к телу, сжимая трицепсы в конце движения.",
+      "Медленно верните рукоятку в исходное положение и повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将手柄连接到低滑轮电缆机器上，并背对机器站立。",
+      "正手握住手柄，并将双臂伸直至身前。",
+      "保持肘部不动，将手柄拉回身体，在动作结束时挤压三头肌。",
+      "慢慢地将手柄返回到起始位置，然后重复所需的重复次数。"
+    ],
+    "hi": [
+      "लो पुली केबल मशीन में एक हैंडल जोड़ें और मशीन से दूर की ओर मुंह करके खड़े हो जाएं।",
+      "हैंडल को ओवरहैंड ग्रिप से पकड़ें और अपनी बाहों को अपने सामने सीधा फैलाएं।",
+      "अपनी कोहनियों को स्थिर रखते हुए, आंदोलन के अंत में अपने ट्राइसेप्स को निचोड़ते हुए, हैंडल को अपने शरीर की ओर वापस खींचें।",
+      "धीरे-धीरे हैंडल को शुरुआती स्थिति में लौटाएं और वांछित संख्या में दोहराव के लिए दोहराएं।"
+    ],
+    "pl": [
+      "Podłącz uchwyt do wyciągu z dolnym bloczkiem i stań tyłem do maszyny.",
+      "Chwyć uchwyt nachwytem i wyprostuj ramiona prosto przed sobą.",
+      "Trzymając nieruchome łokcie, przyciągnij uchwyt do ciała, napinając triceps na końcu ruchu.",
+      "Powoli wróć z uchwytem do pozycji wyjściowej i powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "낮은 도르래 케이블 머신에 손잡이를 부착하고 머신을 등지고 섭니다.",
+      "오버핸드 그립으로 손잡이를 잡고 팔을 앞으로 쭉 펴집니다.",
+      "팔꿈치를 고정한 채로 손잡이를 몸 방향으로 당기며 움직임의 끝에서 삼두근을 조입니다.",
+      "천천히 손잡이를 시작 위치로 돌립니다."
+    ],
+    "fr": [
+      "Fixe une poignée à une machine à câble à poulie basse et tiens-toi dos à la machine.",
+      "Saisis la poignée avec une prise en pronation et étends les bras droit devant toi.",
+      "En gardant les coudes immobiles, tire la poignée vers ton corps, en contractant tes triceps à la fin du mouvement.",
+      "Ramène lentement la poignée à la position de départ et répète pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "back"
+  ],
+  "target": "triceps",
+  "image": "images/0204-c3QQLPi.jpg",
+  "gif_url": "videos/0204-c3QQLPi.gif",
+  "media_id": "c3QQLPi",
+  "created_at": "2026-03-18T12:31:32.875519+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

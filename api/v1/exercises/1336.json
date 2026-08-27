@@ -1,0 +1,112 @@
+{
+  "id": "1336",
+  "name": "exercise ball back extension with rotation",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "stability ball",
+  "instructions": {
+    "en": "Start by lying face down on the stability ball with your hips resting on the ball and your feet firmly planted on the ground. Place your hands behind your head or cross them over your chest. Engage your core and slowly lift your upper body off the ball, extending your back until your body forms a straight line from your head to your heels. Pause for a moment at the top, then slowly rotate your torso to one side, keeping your hips and legs stable. Return to the center and repeat the rotation to the other side. Lower your upper body back down to the starting position and repeat for the desired number of repetitions.",
+    "it": "Inizia sdraiandoti a faccia in giù sulla palla di stabilità con i fianchi appoggiati sulla palla e i piedi saldamente piantati a terra. Metti le mani dietro la testa o incrociale sul petto. Coinvolgi il core e solleva lentamente la parte superiore del corpo dalla palla, estendendo la schiena finché il corpo non forma una linea retta dalla testa ai talloni. Fermati per un momento in alto, quindi ruota lentamente il busto da un lato, mantenendo i fianchi e le gambe stabili. Ritorna al centro e ripeti la rotazione sull'altro lato. Abbassa la parte superiore del corpo nella posizione iniziale e ripeti per il numero di ripetizioni desiderato.",
+    "tr": "Kalçalarınız topun üzerinde olacak ve ayaklarınız yere sıkıca basacak şekilde stabilite topunun üzerine yüzüstü yatarak başlayın. Ellerinizi başınızın arkasına koyun veya göğsünüzün üzerinde çaprazlayın. Merkez bölgenizi devreye sokun ve üst bedeninizi yavaşça topun üzerinden kaldırın, vücudunuz başınızdan topuklarınıza kadar düz bir çizgi oluşturana kadar sırtınızı uzatın. Tepede bir an duraklayın, ardından kalçalarınızı ve bacaklarınızı sabit tutarak gövdenizi yavaşça bir tarafa çevirin. Merkeze dönün ve dönüşü diğer tarafa doğru tekrarlayın. Üst vücudunuzu başlangıç ​​pozisyonuna indirin ve istediğiniz sayıda tekrar yapın.",
+    "es": "Comienza tumbado boca abajo sobre el balón de estabilidad, con las caderas apoyadas en el balón y los pies firmemente apoyados en el suelo. Coloca las manos detrás de la cabeza o crúzalas sobre el pecho. Activa el core y levanta lentamente la parte superior del cuerpo del balón, extendiendo la espalda hasta que tu cuerpo forme una línea recta desde la cabeza hasta los talones. Haz una pausa por un momento en la parte superior, luego gira lentamente el torso hacia un lado, manteniendo las caderas y las piernas estables. Vuelve al centro y repite el giro hacia el otro lado. Baja la parte superior del cuerpo de vuelta a la posición inicial y repite el número de repeticiones deseado.",
+    "ru": "Начните с того, что лягте на мяч лицом вниз, положив бедра на мяч и твердо поставив ступни на землю. Заведите руки за голову или скрестите их на груди. Напрягите корпус и медленно поднимите верхнюю часть тела с мяча, вытягивая спину до тех пор, пока тело не образует прямую линию от головы до пяток. Задержитесь на мгновение в верхней точке, затем медленно поверните туловище в сторону, сохраняя бедра и ноги устойчивыми. Вернитесь в центр и повторите вращение в другую сторону. Опустите верхнюю часть тела обратно в исходное положение и повторите желаемое количество повторений.",
+    "zh": "首先，面朝下躺在稳定球上，臀部放在球上，双脚牢牢踩在地面上。 将双手放在脑后或交叉放在胸前。 启动你的核心，慢慢地将你的上半身抬离球，伸展你的背部，直到你的身体从头部到脚后跟形成一条直线。 在顶部停顿片刻，然后慢慢将躯干旋转到一侧，保持臀部和腿部稳定。 返回中心并重复旋转到另一侧。 将上半身放低至起始位置，然后重复所需的重复次数。",
+    "hi": "अपने कूल्हों को गेंद पर टिकाकर और अपने पैरों को मजबूती से जमीन पर टिकाकर स्टेबिलिटी बॉल पर मुंह के बल लेटकर शुरुआत करें। अपने हाथों को अपने सिर के पीछे रखें या उन्हें अपनी छाती के ऊपर से पार करें। अपने कोर को संलग्न करें और धीरे-धीरे अपने ऊपरी शरीर को गेंद से ऊपर उठाएं, अपनी पीठ को तब तक फैलाएं जब तक कि आपका शरीर आपके सिर से आपकी एड़ी तक एक सीधी रेखा न बना ले। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने कूल्हों और पैरों को स्थिर रखते हुए अपने धड़ को एक तरफ घुमाएं। केंद्र पर लौटें और दूसरी ओर भी घुमाएँ। अपने ऊपरी शरीर को वापस प्रारंभिक स्थिति में लाएँ और वांछित संख्या में दोहराव के लिए दोहराएँ।",
+    "pl": "Zacznij od leżenia twarzą w dół na piłce gimnastycznej, opierając biodra na piłce, a stopy mocno na podłodze. Ułóż dłonie za głową lub skrzyżuj je na klatce piersiowej. Napnij mięśnie brzucha i powoli unieś górną część ciała nad piłkę, prostując plecy, aż ciało utworzy prostą linię od głowy do pięt. Zatrzymaj się na chwilę na górze, a następnie powoli obróć tułów w jedną stronę, trzymając biodra i nogi stabilnie. Wróć do środka i powtórz obrót w drugą stronę. Opuść górną część ciała do pozycji wyjściowej i powtórz zalecaną liczbę powtórzeń.",
+    "ko": "짐볼 위에 엎드려 누운 상태에서 시작하되 골반이 볼 위에 올라오고 발이 바닥에 단단히 붙어있도록 위치하십시오. 손을 머리 뒤에 놓거나 가슴 위에 교차시키십시오. 코어를 조이고 상체를 천천히 볼에서 들어올리되 등을 확장하여 머리에서 발뒤꿈치까지 일직선을 만드십시오. 맨 위에서 잠시 멈춘 후 천천히 한쪽 방향으로 몸통을 회전시키되 엉덩이와 다리는 안정적으로 유지하십시오. 중앙으로 돌아온 후 다른 쪽으로 회전 동작을 반복하십시오. 상체를 시작 위치로 내려놓고 원하는 반복 횟수만큼 반복하십시오.",
+    "fr": "Commence allongé face contre terre sur le ballon de stabilité, les hanches reposant sur le ballon et les pieds fermement ancrés au sol. Place tes mains derrière ta tête ou croise-les sur ta poitrine. Gaine ta sangle abdominale et soulève lentement le haut du corps du ballon, en étendant ton dos jusqu'à ce que ton corps forme une ligne droite de la tête aux talons. Marque une pause en haut, puis tourne lentement ton torse d'un côté, en gardant tes hanches et tes jambes stables. Reviens au centre et répète la rotation de l'autre côté. Redescends le haut du corps jusqu'à la position de départ et répète pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start by lying face down on the stability ball with your hips resting on the ball and your feet firmly planted on the ground.",
+      "Place your hands behind your head or cross them over your chest.",
+      "Engage your core and slowly lift your upper body off the ball, extending your back until your body forms a straight line from your head to your heels.",
+      "Pause for a moment at the top, then slowly rotate your torso to one side, keeping your hips and legs stable.",
+      "Return to the center and repeat the rotation to the other side.",
+      "Lower your upper body back down to the starting position and repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia sdraiandoti a faccia in giù sulla palla di stabilità con i fianchi appoggiati sulla palla e i piedi saldamente piantati a terra.",
+      "Metti le mani dietro la testa o incrociale sul petto.",
+      "Coinvolgi il core e solleva lentamente la parte superiore del corpo dalla palla, estendendo la schiena finché il corpo non forma una linea retta dalla testa ai talloni.",
+      "Fermati per un momento in alto, quindi ruota lentamente il busto da un lato, mantenendo i fianchi e le gambe stabili.",
+      "Ritorna al centro e ripeti la rotazione sull'altro lato.",
+      "Abbassa la parte superiore del corpo nella posizione iniziale e ripeti per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Kalçalarınız topun üzerinde olacak ve ayaklarınız yere sıkıca basacak şekilde stabilite topunun üzerine yüzüstü yatarak başlayın.",
+      "Ellerinizi başınızın arkasına koyun veya göğsünüzün üzerinde çaprazlayın.",
+      "Merkez bölgenizi devreye sokun ve üst bedeninizi yavaşça topun üzerinden kaldırın, vücudunuz başınızdan topuklarınıza kadar düz bir çizgi oluşturana kadar sırtınızı uzatın.",
+      "Tepede bir an duraklayın, ardından kalçalarınızı ve bacaklarınızı sabit tutarak gövdenizi yavaşça bir tarafa çevirin.",
+      "Merkeze dönün ve dönüşü diğer tarafa doğru tekrarlayın.",
+      "Üst vücudunuzu başlangıç ​​pozisyonuna indirin ve istediğiniz sayıda tekrar yapın."
+    ],
+    "es": [
+      "Comienza tumbado boca abajo sobre el balón de estabilidad, con las caderas apoyadas en el balón y los pies firmemente apoyados en el suelo.",
+      "Coloca las manos detrás de la cabeza o crúzalas sobre el pecho.",
+      "Activa el core y levanta lentamente la parte superior del cuerpo del balón, extendiendo la espalda hasta que tu cuerpo forme una línea recta desde la cabeza hasta los talones.",
+      "Haz una pausa por un momento en la parte superior, luego gira lentamente el torso hacia un lado, manteniendo las caderas y las piernas estables.",
+      "Vuelve al centro y repite el giro hacia el otro lado.",
+      "Baja la parte superior del cuerpo de vuelta a la posición inicial y repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с того, что лягте на мяч лицом вниз, положив бедра на мяч и твердо поставив ступни на землю.",
+      "Заведите руки за голову или скрестите их на груди.",
+      "Напрягите корпус и медленно поднимите верхнюю часть тела с мяча, вытягивая спину до тех пор, пока тело не образует прямую линию от головы до пяток.",
+      "Задержитесь на мгновение в верхней точке, затем медленно поверните туловище в сторону, сохраняя бедра и ноги устойчивыми.",
+      "Вернитесь в центр и повторите вращение в другую сторону.",
+      "Опустите верхнюю часть тела обратно в исходное положение и повторите желаемое количество повторений."
+    ],
+    "zh": [
+      "首先，面朝下躺在稳定球上，臀部放在球上，双脚牢牢踩在地面上。",
+      "将双手放在脑后或交叉放在胸前。",
+      "启动你的核心，慢慢地将你的上半身抬离球，伸展你的背部，直到你的身体从头部到脚后跟形成一条直线。",
+      "在顶部停顿片刻，然后慢慢将躯干旋转到一侧，保持臀部和腿部稳定。",
+      "返回中心并重复旋转到另一侧。",
+      "将上半身放低至起始位置，然后重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने कूल्हों को गेंद पर टिकाकर और अपने पैरों को मजबूती से जमीन पर टिकाकर स्टेबिलिटी बॉल पर मुंह के बल लेटकर शुरुआत करें।",
+      "अपने हाथों को अपने सिर के पीछे रखें या उन्हें अपनी छाती के ऊपर से पार करें।",
+      "अपने कोर को संलग्न करें और धीरे-धीरे अपने ऊपरी शरीर को गेंद से ऊपर उठाएं, अपनी पीठ को तब तक फैलाएं जब तक कि आपका शरीर आपके सिर से आपकी एड़ी तक एक सीधी रेखा न बना ले।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने कूल्हों और पैरों को स्थिर रखते हुए अपने धड़ को एक तरफ घुमाएं।",
+      "केंद्र पर लौटें और दूसरी ओर भी घुमाएँ।",
+      "अपने ऊपरी शरीर को वापस प्रारंभिक स्थिति में लाएँ और वांछित संख्या में दोहराव के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Zacznij od leżenia twarzą w dół na piłce gimnastycznej, opierając biodra na piłce, a stopy mocno na podłodze.",
+      "Ułóż dłonie za głową lub skrzyżuj je na klatce piersiowej.",
+      "Napnij mięśnie brzucha i powoli unieś górną część ciała nad piłkę, prostując plecy, aż ciało utworzy prostą linię od głowy do pięt.",
+      "Zatrzymaj się na chwilę na górze, a następnie powoli obróć tułów w jedną stronę, trzymając biodra i nogi stabilnie.",
+      "Wróć do środka i powtórz obrót w drugą stronę.",
+      "Opuść górną część ciała do pozycji wyjściowej i powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "짐볼 위에 엎드려 누운 상태에서 시작하되 골반이 볼 위에 올라오고 발이 바닥에 단단히 붙어있도록 위치하십시오.",
+      "손을 머리 뒤에 놓거나 가슴 위에 교차시키십시오.",
+      "코어를 조이고 상체를 천천히 볼에서 들어올리되 등을 확장하여 머리에서 발뒤꿈치까지 일직선을 만드십시오.",
+      "맨 위에서 잠시 멈춘 후 천천히 한쪽 방향으로 몸통을 회전시키되 엉덩이와 다리는 안정적으로 유지하십시오.",
+      "중앙으로 돌아온 후 다른 쪽으로 회전 동작을 반복하십시오.",
+      "상체를 시작 위치로 내려놓고 원하는 반복 횟수만큼 반복하십시오."
+    ],
+    "fr": [
+      "Commence allongé face contre terre sur le ballon de stabilité, les hanches reposant sur le ballon et les pieds fermement ancrés au sol.",
+      "Place tes mains derrière ta tête ou croise-les sur ta poitrine.",
+      "Gaine ta sangle abdominale et soulève lentement le haut du corps du ballon, en étendant ton dos jusqu'à ce que ton corps forme une ligne droite de la tête aux talons.",
+      "Marque une pause en haut, puis tourne lentement ton torse d'un côté, en gardant tes hanches et tes jambes stables.",
+      "Reviens au centre et répète la rotation de l'autre côté.",
+      "Redescends le haut du corps jusqu'à la position de départ et répète pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "glutes",
+  "secondary_muscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "target": "spine",
+  "image": "images/1336-WVD66ff.jpg",
+  "gif_url": "videos/1336-WVD66ff.gif",
+  "media_id": "WVD66ff",
+  "created_at": "2026-03-18T12:31:32.882716+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

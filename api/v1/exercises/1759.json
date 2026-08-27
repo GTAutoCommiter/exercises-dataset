@@ -1,0 +1,123 @@
+{
+  "id": "1759",
+  "name": "single leg squat (pistol) male",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and arms extended in front of you. Lift your right foot off the ground and extend it forward. Slowly lower your body down by bending your left knee and pushing your hips back. Keep your chest up and your back straight as you lower yourself down. Lower until your left thigh is parallel to the ground, or as low as you can comfortably go. Pause for a moment at the bottom, then push through your left heel to return to the starting position. Repeat for the desired number of repetitions, then switch legs.",
+    "it": "Stai con i piedi alla larghezza delle spalle e le braccia distese davanti a te. Solleva il piede destro da terra ed estendilo in avanti. Abbassa lentamente il corpo piegando il ginocchio sinistro e spingendo indietro i fianchi. Tieni il petto in alto e la schiena dritta mentre ti abbassi. Abbassati finché la coscia sinistra non è parallela al suolo o il più in basso possibile. Fermati per un momento in basso, quindi spingi attraverso il tallone sinistro per tornare alla posizione di partenza. Ripeti per il numero di ripetizioni desiderato, quindi cambia gamba.",
+    "tr": "Ayaklarınız omuz genişliğinde açık ve kollarınız önünüzde uzatılmış şekilde ayakta durun. Sağ ayağınızı yerden kaldırın ve öne doğru uzatın. Sol dizinizi bükerek ve kalçalarınızı geriye doğru iterek vücudunuzu yavaşça aşağı indirin. Kendinizi aşağı indirirken göğsünüzü yukarıda ve sırtınızı düz tutun. Sol uyluğunuz yere paralel veya rahatça gidebildiğiniz kadar alçaltıncaya kadar alçaltın. Altta bir an duraklayın, ardından başlangıç ​​pozisyonuna dönmek için sol topuğunuzu itin. İstenilen tekrar sayısı kadar tekrarlayın, ardından bacakları değiştirin.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y los brazos extendidos frente a ti. Levanta el pie derecho del suelo y extiéndelo hacia delante. Baja lentamente el cuerpo doblando la rodilla izquierda y empujando las caderas hacia atrás. Mantén el pecho elevado y la espalda recta mientras bajas el cuerpo. Baja hasta que el muslo izquierdo quede paralelo al suelo, o lo más abajo que puedas llegar cómodamente. Haz una pausa por un momento en la posición baja, luego empuja con el talón izquierdo para volver a la posición inicial. Repite el número de repeticiones deseado, luego cambia de pierna.",
+    "ru": "Встаньте, ноги на ширине плеч, руки вытянуты перед собой. Поднимите правую ногу от земли и вытяните ее вперед. Медленно опустите тело вниз, согнув левое колено и отведя бедра назад. Держите грудь поднятой, а спину прямой, когда опускаетесь вниз. Опускайтесь до тех пор, пока левое бедро не станет параллельно земле или настолько низко, насколько вам будет удобно. Задержитесь на мгновение внизу, затем оттолкнитесь левой пяткой, чтобы вернуться в исходное положение. Повторите необходимое количество повторений, затем поменяйте ногу.",
+    "zh": "双脚分开与肩同宽站立，双臂在身前伸展。 将右脚抬离地面并向前伸展。 弯曲左膝并将臀部向后推，慢慢降低身体。 降低身体时，保持挺胸、背部挺直。 降低直到左大腿与地面平行，或者尽可能降低到您能舒服的高度。 在底部停顿片刻，然后推动左脚跟回到起始位置。 重复所需的重复次数，然后换腿。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और भुजाएं आपके सामने फैली हुई हों। अपने दाहिने पैर को जमीन से ऊपर उठाएं और आगे की ओर फैलाएं। अपने बाएं घुटने को मोड़कर और अपने कूल्हों को पीछे धकेलते हुए धीरे-धीरे अपने शरीर को नीचे लाएं। नीचे उतरते समय अपनी छाती ऊपर और पीठ सीधी रखें। तब तक नीचे जाएँ जब तक आपकी बायीं जांघ ज़मीन के समानांतर न हो जाए, या जितना नीचे आप आराम से जा सकें। नीचे एक पल के लिए रुकें, फिर प्रारंभिक स्थिति में लौटने के लिए अपनी बायीं एड़ी से धक्का दें। दोहराव की वांछित संख्या के लिए दोहराएं, फिर पैर बदल लें।",
+    "pl": "Stań w rozkroku na szerokość barków, z rękami wyciągniętymi przed sobą. Unieś prawą stopę nad podłogę i wyciągnij ją do przodu. Powoli opuść tułów, uginając lewe kolano i cofając biodra. Trzymaj klatkę piersiową uniesioną, a plecy proste podczas opuszczania. Opuszczaj się, aż lewe udo będzie równoległe do podłogi lub tak nisko, jak jesteś w stanie wygodnie zejść. Zatrzymaj się na chwilę na dole, a następnie odepchnij się przez lewą piętę, aby wrócić do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń, a następnie zmień nogę.",
+    "ko": "발을 어깨너비로 벌리고 팔을 앞으로 펼쳐 서세요. 오른발을 땅에서 들어 앞으로 펼칩니다. 왼쪽 무릎을 구부려 천천히 신체를 내립니다. 엉덩이를 뒤로 밀어냅니다. 내려가면서 가슴을 올린 상태로 등은 펴진 상태를 유지합니다. 왼쪽 허벅다리가 땅과 평행할 때까지 내려갑니다. 또는 편안하게 갈 수 있는 만큼 내려갑니다. 위쪽에서 잠깐 멈춘 후 왼쪽 발꿈치로 밀어 시작 위치로 돌아갑니다. 원하는 반복 횟수만큼 반복한 후 다리를 전환합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et les bras tendus devant toi. Décolle ton pied droit du sol et étends-le vers l'avant. Abaisse lentement ton corps en fléchissant ton genou gauche et en poussant tes hanches vers l'arrière. Garde la poitrine relevée et le dos droit pendant que tu descends. Descends jusqu'à ce que ta cuisse gauche soit parallèle au sol, ou aussi bas que tu peux confortablement aller. Marque une pause en bas, puis pousse sur ton talon gauche pour revenir à la position de départ. Répète le nombre de répétitions souhaité, puis change de jambe."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and arms extended in front of you.",
+      "Lift your right foot off the ground and extend it forward.",
+      "Slowly lower your body down by bending your left knee and pushing your hips back.",
+      "Keep your chest up and your back straight as you lower yourself down.",
+      "Lower until your left thigh is parallel to the ground, or as low as you can comfortably go.",
+      "Pause for a moment at the bottom, then push through your left heel to return to the starting position.",
+      "Repeat for the desired number of repetitions, then switch legs."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle e le braccia distese davanti a te.",
+      "Solleva il piede destro da terra ed estendilo in avanti.",
+      "Abbassa lentamente il corpo piegando il ginocchio sinistro e spingendo indietro i fianchi.",
+      "Tieni il petto in alto e la schiena dritta mentre ti abbassi.",
+      "Abbassati finché la coscia sinistra non è parallela al suolo o il più in basso possibile.",
+      "Fermati per un momento in basso, quindi spingi attraverso il tallone sinistro per tornare alla posizione di partenza.",
+      "Ripeti per il numero di ripetizioni desiderato, quindi cambia gamba."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık ve kollarınız önünüzde uzatılmış şekilde ayakta durun.",
+      "Sağ ayağınızı yerden kaldırın ve öne doğru uzatın.",
+      "Sol dizinizi bükerek ve kalçalarınızı geriye doğru iterek vücudunuzu yavaşça aşağı indirin.",
+      "Kendinizi aşağı indirirken göğsünüzü yukarıda ve sırtınızı düz tutun.",
+      "Sol uyluğunuz yere paralel veya rahatça gidebildiğiniz kadar alçaltıncaya kadar alçaltın.",
+      "Altta bir an duraklayın, ardından başlangıç ​​pozisyonuna dönmek için sol topuğunuzu itin.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından bacakları değiştirin."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y los brazos extendidos frente a ti.",
+      "Levanta el pie derecho del suelo y extiéndelo hacia delante.",
+      "Baja lentamente el cuerpo doblando la rodilla izquierda y empujando las caderas hacia atrás.",
+      "Mantén el pecho elevado y la espalda recta mientras bajas el cuerpo.",
+      "Baja hasta que el muslo izquierdo quede paralelo al suelo, o lo más abajo que puedas llegar cómodamente.",
+      "Haz una pausa por un momento en la posición baja, luego empuja con el talón izquierdo para volver a la posición inicial.",
+      "Repite el número de repeticiones deseado, luego cambia de pierna."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, руки вытянуты перед собой.",
+      "Поднимите правую ногу от земли и вытяните ее вперед.",
+      "Медленно опустите тело вниз, согнув левое колено и отведя бедра назад.",
+      "Держите грудь поднятой, а спину прямой, когда опускаетесь вниз.",
+      "Опускайтесь до тех пор, пока левое бедро не станет параллельно земле или настолько низко, насколько вам будет удобно.",
+      "Задержитесь на мгновение внизу, затем оттолкнитесь левой пяткой, чтобы вернуться в исходное положение.",
+      "Повторите необходимое количество повторений, затем поменяйте ногу."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，双臂在身前伸展。",
+      "将右脚抬离地面并向前伸展。",
+      "弯曲左膝并将臀部向后推，慢慢降低身体。",
+      "降低身体时，保持挺胸、背部挺直。",
+      "降低直到左大腿与地面平行，或者尽可能降低到您能舒服的高度。",
+      "在底部停顿片刻，然后推动左脚跟回到起始位置。",
+      "重复所需的重复次数，然后换腿。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और भुजाएं आपके सामने फैली हुई हों।",
+      "अपने दाहिने पैर को जमीन से ऊपर उठाएं और आगे की ओर फैलाएं।",
+      "अपने बाएं घुटने को मोड़कर और अपने कूल्हों को पीछे धकेलते हुए धीरे-धीरे अपने शरीर को नीचे लाएं।",
+      "नीचे उतरते समय अपनी छाती ऊपर और पीठ सीधी रखें।",
+      "तब तक नीचे जाएँ जब तक आपकी बायीं जांघ ज़मीन के समानांतर न हो जाए, या जितना नीचे आप आराम से जा सकें।",
+      "नीचे एक पल के लिए रुकें, फिर प्रारंभिक स्थिति में लौटने के लिए अपनी बायीं एड़ी से धक्का दें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर पैर बदल लें।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków, z rękami wyciągniętymi przed sobą.",
+      "Unieś prawą stopę nad podłogę i wyciągnij ją do przodu.",
+      "Powoli opuść tułów, uginając lewe kolano i cofając biodra.",
+      "Trzymaj klatkę piersiową uniesioną, a plecy proste podczas opuszczania.",
+      "Opuszczaj się, aż lewe udo będzie równoległe do podłogi lub tak nisko, jak jesteś w stanie wygodnie zejść.",
+      "Zatrzymaj się na chwilę na dole, a następnie odepchnij się przez lewą piętę, aby wrócić do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń, a następnie zmień nogę."
+    ],
+    "ko": [
+      "발을 어깨너비로 벌리고 팔을 앞으로 펼쳐 서세요.",
+      "오른발을 땅에서 들어 앞으로 펼칩니다.",
+      "왼쪽 무릎을 구부려 천천히 신체를 내립니다. 엉덩이를 뒤로 밀어냅니다.",
+      "내려가면서 가슴을 올린 상태로 등은 펴진 상태를 유지합니다.",
+      "왼쪽 허벅다리가 땅과 평행할 때까지 내려갑니다. 또는 편안하게 갈 수 있는 만큼 내려갑니다.",
+      "위쪽에서 잠깐 멈춘 후 왼쪽 발꿈치로 밀어 시작 위치로 돌아갑니다.",
+      "원하는 반복 횟수만큼 반복한 후 다리를 전환합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et les bras tendus devant toi.",
+      "Décolle ton pied droit du sol et étends-le vers l'avant.",
+      "Abaisse lentement ton corps en fléchissant ton genou gauche et en poussant tes hanches vers l'arrière.",
+      "Garde la poitrine relevée et le dos droit pendant que tu descends.",
+      "Descends jusqu'à ce que ta cuisse gauche soit parallèle au sol, ou aussi bas que tu peux confortablement aller.",
+      "Marque une pause en bas, puis pousse sur ton talon gauche pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis change de jambe."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "glutes",
+  "image": "images/1759-nqs5HGV.jpg",
+  "gif_url": "videos/1759-nqs5HGV.gif",
+  "media_id": "nqs5HGV",
+  "created_at": "2026-03-18T12:31:32.889992+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

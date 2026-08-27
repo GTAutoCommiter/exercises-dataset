@@ -1,0 +1,122 @@
+{
+  "id": "2329",
+  "name": "spine twist",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Sit on the ground with your legs extended in front of you. Bend your knees and place your feet flat on the ground, hip-width apart. Place your hands behind your head with your elbows pointing outwards. Engage your abs and slowly twist your torso to the right, bringing your right elbow towards your left knee. Pause for a moment at the end of the twist, then slowly return to the starting position. Repeat the twist to the left side, bringing your left elbow towards your right knee. Continue alternating sides for the desired number of repetitions.",
+    "it": "Siediti a terra con le gambe distese davanti a te. Piega le ginocchia e appoggia i piedi a terra, alla larghezza dei fianchi. Metti le mani dietro la testa con i gomiti rivolti verso l'esterno. Contrai gli addominali e ruota lentamente il busto verso destra, portando il gomito destro verso il ginocchio sinistro. Fare una pausa per un momento alla fine della torsione, quindi tornare lentamente alla posizione di partenza. Ripeti la torsione sul lato sinistro, portando il gomito sinistro verso il ginocchio destro. Continua ad alternare i lati per il numero di ripetizioni desiderato.",
+    "tr": "Bacaklarınız önünüzde uzatılmış halde yere oturun. Dizlerinizi bükün ve ayaklarınızı kalça genişliğinde olacak şekilde yere düz bir şekilde yerleştirin. Ellerinizi başınızın arkasına, dirsekleriniz dışarı bakacak şekilde yerleştirin. Karın kaslarınızı devreye sokun ve gövdenizi yavaşça sağa doğru çevirin, sağ dirseğinizi sol dizinize doğru getirin. Dönüşün sonunda bir süre duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün. Sol dirseğinizi sağ dizinize doğru getirerek bükümü sol tarafa doğru tekrarlayın. İstenilen tekrar sayısı için alternatif taraflara devam edin.",
+    "es": "Siéntate en el suelo con las piernas extendidas frente a ti. Dobla las rodillas y coloca los pies planos sobre el suelo, separados a la altura de la cadera. Coloca las manos detrás de la cabeza con los codos apuntando hacia afuera. Activa el abdomen y gira lentamente el torso hacia la derecha, llevando el codo derecho hacia la rodilla izquierda. Haz una pausa por un momento al final de la rotación, luego regresa lentamente a la posición inicial. Repite el giro hacia el lado izquierdo, llevando el codo izquierdo hacia la rodilla derecha. Continúa alternando lados durante el número de repeticiones deseado.",
+    "ru": "Сядьте на пол, вытянув ноги перед собой. Согните колени и поставьте ступни на землю, на ширине плеч. Положите руки за голову локтями наружу. Напрягите пресс и медленно поверните туловище вправо, приближая правый локоть к левому колену. Сделайте небольшую паузу в конце поворота, затем медленно вернитесь в исходное положение. Повторите поворот в левую сторону, поднеся левый локоть к правому колену. Продолжайте чередовать стороны желаемое количество повторений.",
+    "zh": "坐在地上，双腿在身前伸展。 弯曲膝盖，将双脚平放在地面上，距离与臀部同宽。 将双手放在脑后，肘部朝外。 收紧腹肌，慢慢向右扭转躯干，将右肘拉向左膝盖。 扭转结束时暂停片刻，然后慢慢回到起始位置。 向左侧重复扭转，将左肘拉向右膝盖。 继续交替进行所需的重复次数。",
+    "hi": "अपने पैरों को सामने फैलाकर जमीन पर बैठें। अपने घुटनों को मोड़ें और अपने पैरों को ज़मीन पर सपाट रखें, कूल्हे की चौड़ाई से अलग। अपने हाथों को अपने सिर के पीछे रखें और अपनी कोहनियों को बाहर की ओर रखें। अपने पेट को संलग्न करें और धीरे-धीरे अपने धड़ को दाईं ओर मोड़ें, अपनी दाहिनी कोहनी को अपने बाएं घुटने की ओर लाएं। मोड़ के अंत में एक पल के लिए रुकें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं। बाईं ओर मोड़ को दोहराएं, अपनी बाईं कोहनी को अपने दाहिने घुटने की ओर लाएं। दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।",
+    "pl": "Usiądź na podłodze z nogami wyprostowanymi przed sobą. Ugnij kolana i ustaw stopy płasko na podłodze, na szerokość bioder. Ułóż dłonie za głową, z łokciami skierowanymi na zewnątrz. Napnij mięśnie brzucha i powoli obróć tułów w prawo, przybliżając prawy łokieć do lewego kolana. Zatrzymaj się na chwilę na końcu skrętu, a następnie powoli wróć do pozycji wyjściowej. Powtórz skręt w lewą stronę, przybliżając lewy łokieć do prawego kolana. Kontynuuj naprzemienną zmianę stron przez zadaną liczbę powtórzeń.",
+    "ko": "바닥에 앉아서 다리를 앞으로 펼칩니다. 무릎을 구부려 발을 바닥에 어깨 너비로 놓습니다. 손을 머리 뒤에 올리고 팔꿈치를 바깥쪽으로 향하게 합니다. 복부에 힘을 주고 몸통을 오른쪽으로 천천히 회전하여 오른쪽 팔꿈치를 왼쪽 무릎 쪽으로 가져갑니다. 회전의 끝에서 잠깐 멈추고 천천히 시작 위치로 돌아옵니다. 몸통을 왼쪽으로 회전하여 왼쪽 팔꿈치를 오른쪽 무릎 쪽으로 가져가 왼쪽을 반복합니다. 원하는 횟수만큼 양쪽을 번갈아 반복합니다.",
+    "fr": "Assieds-toi au sol, les jambes tendues devant toi. Fléchis les genoux et pose les pieds à plat sur le sol, écartés à la largeur des hanches. Place tes mains derrière ta tête avec tes coudes pointés vers l'extérieur. Gaine tes abdominaux et fais lentement pivoter ton torse vers la droite, en amenant ton coude droit vers ton genou gauche. Marque une pause à la fin de la torsion, puis reviens lentement à la position de départ. Répète la torsion vers le côté gauche, en amenant ton coude gauche vers ton genou droit. Continue à alterner les côtés pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on the ground with your legs extended in front of you.",
+      "Bend your knees and place your feet flat on the ground, hip-width apart.",
+      "Place your hands behind your head with your elbows pointing outwards.",
+      "Engage your abs and slowly twist your torso to the right, bringing your right elbow towards your left knee.",
+      "Pause for a moment at the end of the twist, then slowly return to the starting position.",
+      "Repeat the twist to the left side, bringing your left elbow towards your right knee.",
+      "Continue alternating sides for the desired number of repetitions."
+    ],
+    "it": [
+      "Siediti a terra con le gambe distese davanti a te.",
+      "Piega le ginocchia e appoggia i piedi a terra, alla larghezza dei fianchi.",
+      "Metti le mani dietro la testa con i gomiti rivolti verso l'esterno.",
+      "Contrai gli addominali e ruota lentamente il busto verso destra, portando il gomito destro verso il ginocchio sinistro.",
+      "Fare una pausa per un momento alla fine della torsione, quindi tornare lentamente alla posizione di partenza.",
+      "Ripeti la torsione sul lato sinistro, portando il gomito sinistro verso il ginocchio destro.",
+      "Continua ad alternare i lati per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Bacaklarınız önünüzde uzatılmış halde yere oturun.",
+      "Dizlerinizi bükün ve ayaklarınızı kalça genişliğinde olacak şekilde yere düz bir şekilde yerleştirin.",
+      "Ellerinizi başınızın arkasına, dirsekleriniz dışarı bakacak şekilde yerleştirin.",
+      "Karın kaslarınızı devreye sokun ve gövdenizi yavaşça sağa doğru çevirin, sağ dirseğinizi sol dizinize doğru getirin.",
+      "Dönüşün sonunda bir süre duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün.",
+      "Sol dirseğinizi sağ dizinize doğru getirerek bükümü sol tarafa doğru tekrarlayın.",
+      "İstenilen tekrar sayısı için alternatif taraflara devam edin."
+    ],
+    "es": [
+      "Siéntate en el suelo con las piernas extendidas frente a ti.",
+      "Dobla las rodillas y coloca los pies planos sobre el suelo, separados a la altura de la cadera.",
+      "Coloca las manos detrás de la cabeza con los codos apuntando hacia afuera.",
+      "Activa el abdomen y gira lentamente el torso hacia la derecha, llevando el codo derecho hacia la rodilla izquierda.",
+      "Haz una pausa por un momento al final de la rotación, luego regresa lentamente a la posición inicial.",
+      "Repite el giro hacia el lado izquierdo, llevando el codo izquierdo hacia la rodilla derecha.",
+      "Continúa alternando lados durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на пол, вытянув ноги перед собой.",
+      "Согните колени и поставьте ступни на землю, на ширине плеч.",
+      "Положите руки за голову локтями наружу.",
+      "Напрягите пресс и медленно поверните туловище вправо, приближая правый локоть к левому колену.",
+      "Сделайте небольшую паузу в конце поворота, затем медленно вернитесь в исходное положение.",
+      "Повторите поворот в левую сторону, поднеся левый локоть к правому колену.",
+      "Продолжайте чередовать стороны желаемое количество повторений."
+    ],
+    "zh": [
+      "坐在地上，双腿在身前伸展。",
+      "弯曲膝盖，将双脚平放在地面上，距离与臀部同宽。",
+      "将双手放在脑后，肘部朝外。",
+      "收紧腹肌，慢慢向右扭转躯干，将右肘拉向左膝盖。",
+      "扭转结束时暂停片刻，然后慢慢回到起始位置。",
+      "向左侧重复扭转，将左肘拉向右膝盖。",
+      "继续交替进行所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को सामने फैलाकर जमीन पर बैठें।",
+      "अपने घुटनों को मोड़ें और अपने पैरों को ज़मीन पर सपाट रखें, कूल्हे की चौड़ाई से अलग।",
+      "अपने हाथों को अपने सिर के पीछे रखें और अपनी कोहनियों को बाहर की ओर रखें।",
+      "अपने पेट को संलग्न करें और धीरे-धीरे अपने धड़ को दाईं ओर मोड़ें, अपनी दाहिनी कोहनी को अपने बाएं घुटने की ओर लाएं।",
+      "मोड़ के अंत में एक पल के लिए रुकें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं।",
+      "बाईं ओर मोड़ को दोहराएं, अपनी बाईं कोहनी को अपने दाहिने घुटने की ओर लाएं।",
+      "दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।"
+    ],
+    "pl": [
+      "Usiądź na podłodze z nogami wyprostowanymi przed sobą.",
+      "Ugnij kolana i ustaw stopy płasko na podłodze, na szerokość bioder.",
+      "Ułóż dłonie za głową, z łokciami skierowanymi na zewnątrz.",
+      "Napnij mięśnie brzucha i powoli obróć tułów w prawo, przybliżając prawy łokieć do lewego kolana.",
+      "Zatrzymaj się na chwilę na końcu skrętu, a następnie powoli wróć do pozycji wyjściowej.",
+      "Powtórz skręt w lewą stronę, przybliżając lewy łokieć do prawego kolana.",
+      "Kontynuuj naprzemienną zmianę stron przez zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "바닥에 앉아서 다리를 앞으로 펼칩니다.",
+      "무릎을 구부려 발을 바닥에 어깨 너비로 놓습니다.",
+      "손을 머리 뒤에 올리고 팔꿈치를 바깥쪽으로 향하게 합니다.",
+      "복부에 힘을 주고 몸통을 오른쪽으로 천천히 회전하여 오른쪽 팔꿈치를 왼쪽 무릎 쪽으로 가져갑니다.",
+      "회전의 끝에서 잠깐 멈추고 천천히 시작 위치로 돌아옵니다.",
+      "몸통을 왼쪽으로 회전하여 왼쪽 팔꿈치를 오른쪽 무릎 쪽으로 가져가 왼쪽을 반복합니다.",
+      "원하는 횟수만큼 양쪽을 번갈아 반복합니다."
+    ],
+    "fr": [
+      "Assieds-toi au sol, les jambes tendues devant toi.",
+      "Fléchis les genoux et pose les pieds à plat sur le sol, écartés à la largeur des hanches.",
+      "Place tes mains derrière ta tête avec tes coudes pointés vers l'extérieur.",
+      "Gaine tes abdominaux et fais lentement pivoter ton torse vers la droite, en amenant ton coude droit vers ton genou gauche.",
+      "Marque une pause à la fin de la torsion, puis reviens lentement à la position de départ.",
+      "Répète la torsion vers le côté gauche, en amenant ton coude gauche vers ton genou droit.",
+      "Continue à alterner les côtés pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "obliques",
+  "secondary_muscles": [
+    "obliques",
+    "lower back"
+  ],
+  "target": "abs",
+  "image": "images/2329-2jl9K55.jpg",
+  "gif_url": "videos/2329-2jl9K55.gif",
+  "media_id": "2jl9K55",
+  "created_at": "2026-03-18T12:31:32.891357+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

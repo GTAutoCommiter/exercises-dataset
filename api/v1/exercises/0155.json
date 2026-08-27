@@ -1,0 +1,122 @@
+{
+  "id": "0155",
+  "name": "cable cross-over variation",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Adjust the cable pulleys to chest height. Stand in the center of the cable machine with one foot in front of the other. Grasp the handles with your palms facing down and your arms extended out to the sides. Take a step forward, keeping your arms slightly bent. With a slight bend in your elbows, bring your hands together in front of your chest. Pause for a moment, then slowly return your arms back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Regola le carrucole a cavo all'altezza del petto. Stai al centro della macchina per cavi con un piede davanti all'altro. Afferra le maniglie con i palmi rivolti verso il basso e le braccia estese ai lati. Fai un passo avanti, tenendo le braccia leggermente piegate. Con una leggera piega dei gomiti, unisci le mani davanti al petto. Fermati un attimo, poi lentamente riporta le braccia alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Kablo makaralarını göğüs yüksekliğine ayarlayın. Bir ayağınız diğerinin önünde olacak şekilde kablo makinesinin ortasında durun. Avuçlarınız aşağıya bakacak ve kollarınız yanlara doğru uzatılacak şekilde tutamaçları kavrayın. Kollarınızı hafifçe bükerek ileri doğru bir adım atın. Dirseklerinizi hafif bükerek ellerinizi göğsünüzün önünde birleştirin. Bir an duraklayın, ardından kollarınızı yavaşça başlangıç ​​pozisyonuna geri getirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta las poleas del cable a la altura del pecho. Ponte de pie en el centro de la máquina de cable con un pie delante del otro. Sujeta las agarraderas con las palmas hacia abajo y los brazos extendidos hacia los lados. Da un paso hacia adelante, manteniendo los brazos ligeramente flexionados. Con una ligera flexión en los codos, junta las manos frente al pecho. Haz una pausa breve, luego vuelve lentamente los brazos a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Отрегулируйте шкивы троса на высоту груди. Встаньте в центр канатной машины, поставив одну ногу перед другой. Возьмитесь за ручки ладонями вниз и вытяните руки в стороны. Сделайте шаг вперед, держа руки слегка согнутыми. Слегка согнув локти, соедините руки перед грудью. Сделайте паузу на мгновение, затем медленно верните руки в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "将电缆滑轮调整至胸部高度。 站在电缆机的中央，一只脚在另一只脚前面。 手掌朝下抓住手柄，手臂向两侧伸展。 向前迈出一步，保持手臂稍微弯曲。 肘部稍微弯曲，双手并拢放在胸前。 暂停片刻，然后慢慢将手臂放回起始位置。 重复所需的重复次数。",
+    "hi": "केबल पुली को छाती की ऊंचाई तक समायोजित करें। केबल मशीन के केंद्र में एक पैर दूसरे के सामने रखकर खड़े हो जाएं। अपनी हथेलियों को नीचे की ओर रखते हुए और अपनी बाहों को बगल की ओर फैलाकर हैंडल को पकड़ें। अपनी बाहों को थोड़ा झुकाते हुए एक कदम आगे बढ़ाएं। अपनी कोहनियों को थोड़ा मोड़ते हुए, अपने हाथों को अपनी छाती के सामने एक साथ लाएँ। एक पल के लिए रुकें, फिर धीरे-धीरे अपनी भुजाओं को प्रारंभिक स्थिति में वापस लौटाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Ustaw bloczki wyciągu na wysokości klatki piersiowej. Stań na środku wyciągu, z jedną stopą przed drugą. Chwyć uchwyty dłońmi skierowanymi w dół, a ramionami wyprostowanymi na boki. Zrób krok do przodu, trzymając ramiona lekko ugięte. Z lekkim zgięciem w łokciach, przybliż dłonie do siebie przed klatką piersiową. Zatrzymaj się na chwilę, a następnie powoli wróć ramionami do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "케이블 풀리를 가슴 높이로 조정합니다. 케이블 머신 중앙에 서서 한쪽 발을 다른 발 앞으로 놓습니다. 손바닥이 아래를 향하도록 핸들을 잡고 팔을 옆으로 펼칩니다. 앞으로 한 발 나아가되 팔을 약간 구부린 상태를 유지합니다. 팔꿈치를 약간 구부린 상태에서 두 손을 가슴 앞으로 모아 가져옵니다. 잠깐 멈추었다가 팔을 천천히 시작 위치로 돌아갑니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Règle les poulies du câble à hauteur de la poitrine. Tiens-toi au centre de la machine à câble, un pied devant l'autre. Saisis les poignées avec les paumes tournées vers le bas et les bras étendus sur les côtés. Fais un pas en avant, en gardant les bras légèrement fléchis. Avec une légère flexion dans tes coudes, ramène tes mains l'une contre l'autre devant ta poitrine. Marque une pause, puis ramène lentement tes bras à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the cable pulleys to chest height.",
+      "Stand in the center of the cable machine with one foot in front of the other.",
+      "Grasp the handles with your palms facing down and your arms extended out to the sides.",
+      "Take a step forward, keeping your arms slightly bent.",
+      "With a slight bend in your elbows, bring your hands together in front of your chest.",
+      "Pause for a moment, then slowly return your arms back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Regola le carrucole a cavo all'altezza del petto.",
+      "Stai al centro della macchina per cavi con un piede davanti all'altro.",
+      "Afferra le maniglie con i palmi rivolti verso il basso e le braccia estese ai lati.",
+      "Fai un passo avanti, tenendo le braccia leggermente piegate.",
+      "Con una leggera piega dei gomiti, unisci le mani davanti al petto.",
+      "Fermati un attimo, poi lentamente riporta le braccia alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Kablo makaralarını göğüs yüksekliğine ayarlayın.",
+      "Bir ayağınız diğerinin önünde olacak şekilde kablo makinesinin ortasında durun.",
+      "Avuçlarınız aşağıya bakacak ve kollarınız yanlara doğru uzatılacak şekilde tutamaçları kavrayın.",
+      "Kollarınızı hafifçe bükerek ileri doğru bir adım atın.",
+      "Dirseklerinizi hafif bükerek ellerinizi göğsünüzün önünde birleştirin.",
+      "Bir an duraklayın, ardından kollarınızı yavaşça başlangıç ​​pozisyonuna geri getirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta las poleas del cable a la altura del pecho.",
+      "Ponte de pie en el centro de la máquina de cable con un pie delante del otro.",
+      "Sujeta las agarraderas con las palmas hacia abajo y los brazos extendidos hacia los lados.",
+      "Da un paso hacia adelante, manteniendo los brazos ligeramente flexionados.",
+      "Con una ligera flexión en los codos, junta las manos frente al pecho.",
+      "Haz una pausa breve, luego vuelve lentamente los brazos a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Отрегулируйте шкивы троса на высоту груди.",
+      "Встаньте в центр канатной машины, поставив одну ногу перед другой.",
+      "Возьмитесь за ручки ладонями вниз и вытяните руки в стороны.",
+      "Сделайте шаг вперед, держа руки слегка согнутыми.",
+      "Слегка согнув локти, соедините руки перед грудью.",
+      "Сделайте паузу на мгновение, затем медленно верните руки в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将电缆滑轮调整至胸部高度。",
+      "站在电缆机的中央，一只脚在另一只脚前面。",
+      "手掌朝下抓住手柄，手臂向两侧伸展。",
+      "向前迈出一步，保持手臂稍微弯曲。",
+      "肘部稍微弯曲，双手并拢放在胸前。",
+      "暂停片刻，然后慢慢将手臂放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "केबल पुली को छाती की ऊंचाई तक समायोजित करें।",
+      "केबल मशीन के केंद्र में एक पैर दूसरे के सामने रखकर खड़े हो जाएं।",
+      "अपनी हथेलियों को नीचे की ओर रखते हुए और अपनी बाहों को बगल की ओर फैलाकर हैंडल को पकड़ें।",
+      "अपनी बाहों को थोड़ा झुकाते हुए एक कदम आगे बढ़ाएं।",
+      "अपनी कोहनियों को थोड़ा मोड़ते हुए, अपने हाथों को अपनी छाती के सामने एक साथ लाएँ।",
+      "एक पल के लिए रुकें, फिर धीरे-धीरे अपनी भुजाओं को प्रारंभिक स्थिति में वापस लौटाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Ustaw bloczki wyciągu na wysokości klatki piersiowej.",
+      "Stań na środku wyciągu, z jedną stopą przed drugą.",
+      "Chwyć uchwyty dłońmi skierowanymi w dół, a ramionami wyprostowanymi na boki.",
+      "Zrób krok do przodu, trzymając ramiona lekko ugięte.",
+      "Z lekkim zgięciem w łokciach, przybliż dłonie do siebie przed klatką piersiową.",
+      "Zatrzymaj się na chwilę, a następnie powoli wróć ramionami do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "케이블 풀리를 가슴 높이로 조정합니다.",
+      "케이블 머신 중앙에 서서 한쪽 발을 다른 발 앞으로 놓습니다.",
+      "손바닥이 아래를 향하도록 핸들을 잡고 팔을 옆으로 펼칩니다.",
+      "앞으로 한 발 나아가되 팔을 약간 구부린 상태를 유지합니다.",
+      "팔꿈치를 약간 구부린 상태에서 두 손을 가슴 앞으로 모아 가져옵니다.",
+      "잠깐 멈추었다가 팔을 천천히 시작 위치로 돌아갑니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Règle les poulies du câble à hauteur de la poitrine.",
+      "Tiens-toi au centre de la machine à câble, un pied devant l'autre.",
+      "Saisis les poignées avec les paumes tournées vers le bas et les bras étendus sur les côtés.",
+      "Fais un pas en avant, en gardant les bras légèrement fléchis.",
+      "Avec une légère flexion dans tes coudes, ramène tes mains l'une contre l'autre devant ta poitrine.",
+      "Marque une pause, puis ramène lentement tes bras à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "deltoids",
+  "secondary_muscles": [
+    "deltoids",
+    "triceps"
+  ],
+  "target": "pectorals",
+  "image": "images/0155-0CXGHya.jpg",
+  "gif_url": "videos/0155-0CXGHya.gif",
+  "media_id": "0CXGHya",
+  "created_at": "2026-03-18T12:31:32.874282+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

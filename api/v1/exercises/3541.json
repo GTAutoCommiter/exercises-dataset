@@ -1,0 +1,102 @@
+{
+  "id": "3541",
+  "name": "dumbbell incline y-raise",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Set an incline bench to a 45-degree angle and sit on it with a dumbbell in each hand, palms facing inwards. Lean forward slightly and let your arms hang straight down, keeping a slight bend in your elbows. Raise your arms out to the sides and up in a Y shape until they are parallel to the ground. Pause for a moment at the top, then slowly lower your arms back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Imposta una panca inclinata a 45 gradi e siediti sopra con un manubrio in ciascuna mano, palmi rivolti verso l'interno. Inclinati leggermente in avanti e lascia che le braccia pendano dritte verso il basso, mantenendo una leggera piega dei gomiti. Alza le braccia ai lati e verso l'alto a forma di Y finché non sono parallele al suolo. Fermati un attimo in cima, poi abbassa lentamente le braccia fino alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Eğimli bir bench’i 45 derecelik bir açıya ayarlayın ve her iki elinizde birer dambıl olacak şekilde, avuç içleriniz içe bakacak şekilde üzerine oturun. Hafifçe öne doğru eğilin ve kollarınızın düz bir şekilde aşağı sarkmasına izin verin, dirseklerinizi hafif bir şekilde bükün. Kollarınızı yere paralel olana kadar Y şeklinde yanlara ve yukarıya doğru kaldırın. Tepe noktasında bir an duraklayın, ardından kollarınızı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta un banco inclinado a un ángulo de 45 grados y siéntate en él con una mancuerna en cada mano, con las palmas hacia adentro. Inclínate ligeramente hacia adelante y deja que los brazos cuelguen rectos hacia abajo, manteniendo una ligera flexión en los codos. Levanta los brazos hacia los lados y hacia arriba formando una Y hasta que queden paralelos al suelo. Haz una pausa por un momento en la parte superior, luego baja lentamente los brazos de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Установите наклонную скамью под углом 45 градусов и сядьте на нее, взяв в каждую руку по гантели ладонями внутрь. Слегка наклонитесь вперед и позвольте рукам свисать прямо вниз, сохраняя небольшой изгиб в локтях. Поднимите руки в стороны и вверх в форме буквы Y, пока они не станут параллельны земле. Задержитесь на мгновение в верхней точке, затем медленно опустите руки обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "将上斜凳摆成 45 度角，坐在上面，双手各握一个哑铃，掌心向内。 稍微向前倾，让手臂伸直垂下，肘部保持轻微弯曲。 将手臂向两侧抬起并呈 Y 形，直到与地面平行。 在顶部暂停片刻，然后慢慢将手臂放回起始位置。 重复所需的重复次数。",
+    "hi": "एक झुकी हुई बेंच को 45 डिग्री के कोण पर सेट करें और उस पर दोनों हाथों में डंबल लेकर बैठें, हथेलियाँ अंदर की ओर हों। थोड़ा आगे झुकें और अपनी कोहनियों को हल्का सा मोड़ते हुए अपनी भुजाओं को सीधा नीचे लटका दें। अपनी भुजाओं को Y आकार में बगल की ओर और ऊपर उठाएं जब तक कि वे जमीन के समानांतर न हो जाएं। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपनी भुजाओं को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Ustaw ławkę skośną pod kątem 45 stopni i usiądź na niej, trzymając hantle w obu rękach, dłonie skierowane do wewnątrz. Pochyl się lekko do przodu i pozwól ramionom zwisać prosto w dół, utrzymując lekkie ugięcie w łokciach. Unieś ramiona na boki i w górę, tworząc kształt litery „Y”, aż będą równoległe do podłogi. Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść ramiona do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "인클라인 벤치를 45도 각도로 설정하고 앉아 양손에 덤벨을 들고 손바닥이 안쪽을 향하도록 합니다. 몸을 약간 앞으로 기울여 팔을 쭉 펴서 내리되 팔꿈치에 약간의 굴곡을 유지합니다. 팔을 옆으로 들어올려 Y자 형태를 이루도록 올립니다. 팔이 지면과 평행해질 때까지 올립니다. 최상단에서 잠시 멈춘 후 천천히 팔을 시작 위치로 내립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Règle un banc incliné à un angle de 45 degrés et assieds-toi dessus avec un haltère dans chaque main, paumes tournées vers l'intérieur. Penche-toi légèrement en avant et laisse tes bras pendre droit vers le bas, en gardant une légère flexion dans les coudes. Lève tes bras sur les côtés et vers le haut en formant un Y jusqu'à ce qu'ils soient parallèles au sol. Marque une pause en haut, puis abaisse lentement tes bras pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Set an incline bench to a 45-degree angle and sit on it with a dumbbell in each hand, palms facing inwards.",
+      "Lean forward slightly and let your arms hang straight down, keeping a slight bend in your elbows.",
+      "Raise your arms out to the sides and up in a Y shape until they are parallel to the ground.",
+      "Pause for a moment at the top, then slowly lower your arms back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Imposta una panca inclinata a 45 gradi e siediti sopra con un manubrio in ciascuna mano, palmi rivolti verso l'interno.",
+      "Inclinati leggermente in avanti e lascia che le braccia pendano dritte verso il basso, mantenendo una leggera piega dei gomiti.",
+      "Alza le braccia ai lati e verso l'alto a forma di Y finché non sono parallele al suolo.",
+      "Fermati un attimo in cima, poi abbassa lentamente le braccia fino alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Eğimli bir bench’i 45 derecelik bir açıya ayarlayın ve her iki elinizde birer dambıl olacak şekilde, avuç içleriniz içe bakacak şekilde üzerine oturun.",
+      "Hafifçe öne doğru eğilin ve kollarınızın düz bir şekilde aşağı sarkmasına izin verin, dirseklerinizi hafif bir şekilde bükün.",
+      "Kollarınızı yere paralel olana kadar Y şeklinde yanlara ve yukarıya doğru kaldırın.",
+      "Tepe noktasında bir an duraklayın, ardından kollarınızı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta un banco inclinado a un ángulo de 45 grados y siéntate en él con una mancuerna en cada mano, con las palmas hacia adentro.",
+      "Inclínate ligeramente hacia adelante y deja que los brazos cuelguen rectos hacia abajo, manteniendo una ligera flexión en los codos.",
+      "Levanta los brazos hacia los lados y hacia arriba formando una Y hasta que queden paralelos al suelo.",
+      "Haz una pausa por un momento en la parte superior, luego baja lentamente los brazos de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Установите наклонную скамью под углом 45 градусов и сядьте на нее, взяв в каждую руку по гантели ладонями внутрь.",
+      "Слегка наклонитесь вперед и позвольте рукам свисать прямо вниз, сохраняя небольшой изгиб в локтях.",
+      "Поднимите руки в стороны и вверх в форме буквы Y, пока они не станут параллельны земле.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите руки обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将上斜凳摆成 45 度角，坐在上面，双手各握一个哑铃，掌心向内。",
+      "稍微向前倾，让手臂伸直垂下，肘部保持轻微弯曲。",
+      "将手臂向两侧抬起并呈 Y 形，直到与地面平行。",
+      "在顶部暂停片刻，然后慢慢将手臂放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "एक झुकी हुई बेंच को 45 डिग्री के कोण पर सेट करें और उस पर दोनों हाथों में डंबल लेकर बैठें, हथेलियाँ अंदर की ओर हों।",
+      "थोड़ा आगे झुकें और अपनी कोहनियों को हल्का सा मोड़ते हुए अपनी भुजाओं को सीधा नीचे लटका दें।",
+      "अपनी भुजाओं को Y आकार में बगल की ओर और ऊपर उठाएं जब तक कि वे जमीन के समानांतर न हो जाएं।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपनी भुजाओं को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Ustaw ławkę skośną pod kątem 45 stopni i usiądź na niej, trzymając hantle w obu rękach, dłonie skierowane do wewnątrz.",
+      "Pochyl się lekko do przodu i pozwól ramionom zwisać prosto w dół, utrzymując lekkie ugięcie w łokciach.",
+      "Unieś ramiona na boki i w górę, tworząc kształt litery „Y”, aż będą równoległe do podłogi.",
+      "Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść ramiona do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "인클라인 벤치를 45도 각도로 설정하고 앉아 양손에 덤벨을 들고 손바닥이 안쪽을 향하도록 합니다.",
+      "몸을 약간 앞으로 기울여 팔을 쭉 펴서 내리되 팔꿈치에 약간의 굴곡을 유지합니다.",
+      "팔을 옆으로 들어올려 Y자 형태를 이루도록 올립니다.",
+      "최상단에서 잠시 멈춘 후 천천히 팔을 시작 위치로 내립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Règle un banc incliné à un angle de 45 degrés et assieds-toi dessus avec un haltère dans chaque main, paumes tournées vers l'intérieur.",
+      "Penche-toi légèrement en avant et laisse tes bras pendre droit vers le bas, en gardant une légère flexion dans les coudes.",
+      "Lève tes bras sur les côtés et vers le haut en formant un Y jusqu'à ce qu'ils soient parallèles au sol.",
+      "Marque une pause en haut, puis abaisse lentement tes bras pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "rear deltoids"
+  ],
+  "target": "upper back",
+  "image": "images/3541-PbzNu7c.jpg",
+  "gif_url": "videos/3541-PbzNu7c.gif",
+  "media_id": "PbzNu7c",
+  "created_at": "2026-03-18T12:31:32.879046+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,102 @@
+{
+  "id": "2398",
+  "name": "close-grip push-up (on knees)",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Start by getting on your hands and knees, with your hands shoulder-width apart and your knees hip-width apart. Lower your upper body towards the ground by bending your elbows, keeping them close to your sides. Pause for a moment when your chest is just above the ground. Push through your palms to straighten your arms and return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Inizia mettendosi a quattro zampe, con le mani larghe alle spalle e le ginocchia larghe ai fianchi. Abbassa la parte superiore del corpo verso terra piegando i gomiti, tenendoli vicini ai fianchi. Fermati un attimo quando il petto è appena sopra il suolo. Spingi attraverso i palmi per raddrizzare le braccia e tornare alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Elleriniz omuz genişliğinde ve dizleriniz kalça genişliğinde olacak şekilde ellerinizin ve dizlerinizin üzerine çökerek başlayın. Dirseklerinizi bükerek, yanlarınıza yakın tutarak üst vücudunuzu yere doğru indirin. Göğsünüz yerden hemen yukarıda olduğunda bir an duraklayın. Kollarınızı düzleştirmek ve başlangıç ​​pozisyonuna dönmek için avuçlarınızı itin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Comienza apoyándote sobre las manos y las rodillas, con las manos separadas a la altura de los hombros y las rodillas separadas a la altura de las caderas. Baja la parte superior del cuerpo hacia el suelo flexionando los codos, manteniéndolos cerca de los costados. Haz una pausa breve cuando tu pecho esté justo por encima del suelo. Empuja con las palmas para estirar los brazos y regresar a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Начните с того, что встаньте на четвереньки, поставив руки на ширине плеч и колени на ширине бедер. Опустите верхнюю часть тела к земле, сгибая локти и держа их близко к бокам. Сделайте паузу на мгновение, когда ваша грудь окажется чуть выше земли. Оттолкнитесь ладонями, чтобы выпрямить руки и вернуться в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "首先双手和膝盖着地，双手与肩同宽，膝盖与臀部同宽。 弯曲肘部，将上身压向地面，使其靠近身体两侧。 当你的胸部刚好高于地面时，暂停片刻。 推动手掌以伸直手臂并返回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने हाथों और घुटनों के बल खड़े होकर शुरुआत करें, अपने हाथों को कंधे की चौड़ाई पर और घुटनों को कूल्हे की चौड़ाई पर अलग रखें। अपनी कोहनियों को मोड़कर, उन्हें अपनी भुजाओं के पास रखते हुए, अपने ऊपरी शरीर को ज़मीन की ओर नीचे लाएँ। जब आपकी छाती ज़मीन से ठीक ऊपर हो तो एक पल के लिए रुकें। अपनी भुजाओं को सीधा करने के लिए अपनी हथेलियों से धक्का दें और प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Ustaw się na dłoniach i kolanach, dłonie na szerokość barków, kolana na szerokość bioder. Opuść górną część ciała w kierunku podłogi, zginając łokcie, trzymając je blisko tułowia. Zatrzymaj się na chwilę, gdy klatka piersiowa znajdzie się tuż nad podłogą. Wypchnij się przez dłonie, prostując ramiona, aby wrócić do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "손을 어깨 너비로 놓고 무릎을 엉덩이 너비로 떨어뜨려서 손과 무릎으로 시작 자세를 잡습니다. 팔꿈치를 구부려서 지면을 향해 상체를 내려놓되 팔꿈치를 몸에 가깝게 유지합니다. 가슴이 지면에 거의 닿을 때 잠깐 멈춥니다. 손가락 끝으로 밀어서 팔을 펴고 시작 위치로 돌아갑니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Commence à quatre pattes, les mains écartées à la largeur des épaules et les genoux écartés à la largeur des hanches. Abaisse le haut de ton corps vers le sol en fléchissant les coudes, en les gardant près de tes flancs. Marque une pause lorsque ta poitrine est juste au-dessus du sol. Pousse à travers tes paumes pour tendre tes bras et revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start by getting on your hands and knees, with your hands shoulder-width apart and your knees hip-width apart.",
+      "Lower your upper body towards the ground by bending your elbows, keeping them close to your sides.",
+      "Pause for a moment when your chest is just above the ground.",
+      "Push through your palms to straighten your arms and return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia mettendosi a quattro zampe, con le mani larghe alle spalle e le ginocchia larghe ai fianchi.",
+      "Abbassa la parte superiore del corpo verso terra piegando i gomiti, tenendoli vicini ai fianchi.",
+      "Fermati un attimo quando il petto è appena sopra il suolo.",
+      "Spingi attraverso i palmi per raddrizzare le braccia e tornare alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Elleriniz omuz genişliğinde ve dizleriniz kalça genişliğinde olacak şekilde ellerinizin ve dizlerinizin üzerine çökerek başlayın.",
+      "Dirseklerinizi bükerek, yanlarınıza yakın tutarak üst vücudunuzu yere doğru indirin.",
+      "Göğsünüz yerden hemen yukarıda olduğunda bir an duraklayın.",
+      "Kollarınızı düzleştirmek ve başlangıç ​​pozisyonuna dönmek için avuçlarınızı itin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Comienza apoyándote sobre las manos y las rodillas, con las manos separadas a la altura de los hombros y las rodillas separadas a la altura de las caderas.",
+      "Baja la parte superior del cuerpo hacia el suelo flexionando los codos, manteniéndolos cerca de los costados.",
+      "Haz una pausa breve cuando tu pecho esté justo por encima del suelo.",
+      "Empuja con las palmas para estirar los brazos y regresar a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с того, что встаньте на четвереньки, поставив руки на ширине плеч и колени на ширине бедер.",
+      "Опустите верхнюю часть тела к земле, сгибая локти и держа их близко к бокам.",
+      "Сделайте паузу на мгновение, когда ваша грудь окажется чуть выше земли.",
+      "Оттолкнитесь ладонями, чтобы выпрямить руки и вернуться в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "首先双手和膝盖着地，双手与肩同宽，膝盖与臀部同宽。",
+      "弯曲肘部，将上身压向地面，使其靠近身体两侧。",
+      "当你的胸部刚好高于地面时，暂停片刻。",
+      "推动手掌以伸直手臂并返回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने हाथों और घुटनों के बल खड़े होकर शुरुआत करें, अपने हाथों को कंधे की चौड़ाई पर और घुटनों को कूल्हे की चौड़ाई पर अलग रखें।",
+      "अपनी कोहनियों को मोड़कर, उन्हें अपनी भुजाओं के पास रखते हुए, अपने ऊपरी शरीर को ज़मीन की ओर नीचे लाएँ।",
+      "जब आपकी छाती ज़मीन से ठीक ऊपर हो तो एक पल के लिए रुकें।",
+      "अपनी भुजाओं को सीधा करने के लिए अपनी हथेलियों से धक्का दें और प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Ustaw się na dłoniach i kolanach, dłonie na szerokość barków, kolana na szerokość bioder.",
+      "Opuść górną część ciała w kierunku podłogi, zginając łokcie, trzymając je blisko tułowia.",
+      "Zatrzymaj się na chwilę, gdy klatka piersiowa znajdzie się tuż nad podłogą.",
+      "Wypchnij się przez dłonie, prostując ramiona, aby wrócić do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "손을 어깨 너비로 놓고 무릎을 엉덩이 너비로 떨어뜨려서 손과 무릎으로 시작 자세를 잡습니다.",
+      "팔꿈치를 구부려서 지면을 향해 상체를 내려놓되 팔꿈치를 몸에 가깝게 유지합니다.",
+      "가슴이 지면에 거의 닿을 때 잠깐 멈춥니다.",
+      "손가락 끝으로 밀어서 팔을 펴고 시작 위치로 돌아갑니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Commence à quatre pattes, les mains écartées à la largeur des épaules et les genoux écartés à la largeur des hanches.",
+      "Abaisse le haut de ton corps vers le sol en fléchissant les coudes, en les gardant près de tes flancs.",
+      "Marque une pause lorsque ta poitrine est juste au-dessus du sol.",
+      "Pousse à travers tes paumes pour tendre tes bras et revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "chest",
+  "secondary_muscles": [
+    "chest",
+    "shoulders"
+  ],
+  "target": "triceps",
+  "image": "images/2398-v3vLFW0.jpg",
+  "gif_url": "videos/2398-v3vLFW0.gif",
+  "media_id": "v3vLFW0",
+  "created_at": "2026-03-18T12:31:32.877171+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

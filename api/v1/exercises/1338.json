@@ -1,0 +1,112 @@
+{
+  "id": "1338",
+  "name": "exercise ball hug",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "stability ball",
+  "instructions": {
+    "en": "Sit on the stability ball with your feet flat on the ground and your back straight. Hold the stability ball with both hands, hugging it close to your chest. Engage your core muscles and slowly lean back, keeping your back straight and your feet planted on the ground. Continue leaning back until you feel a stretch in your back muscles. Hold the position for a few seconds, then slowly return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Siediti sulla palla di stabilità con i piedi appoggiati a terra e la schiena dritta. Tieni la palla di stabilità con entrambe le mani, abbracciandola vicino al petto. Coinvolgi i muscoli centrali e inclinati lentamente all'indietro, mantenendo la schiena dritta e i piedi ben piantati a terra. Continua ad inclinarti all'indietro finché non senti un allungamento nei muscoli della schiena. Mantieni la posizione per qualche secondo, poi torna lentamente alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız yere düz basacak ve sırtınız düz olacak şekilde stabilite topunun üzerine oturun. Denge topunu iki elinizle tutun ve göğsünüze yakın bir şekilde sarın. Çekirdek kaslarınızı çalıştırın ve yavaşça geriye yaslanın, sırtınızı düz tutun ve ayaklarınızı yere koyun. Sırt kaslarınızda bir gerginlik hissedene kadar geriye yaslanmaya devam edin. Birkaç saniye bu pozisyonda kalın, ardından yavaşça başlangıç ​​pozisyonuna dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Siéntate en el balón de estabilidad con los pies planos en el suelo y la espalda recta. Sujeta el balón de estabilidad con ambas manos, abrazándolo cerca del pecho. Activa los músculos del core y reclínate lentamente hacia atrás, manteniendo la espalda recta y los pies apoyados en el suelo. Continúa reclinándote hacia atrás hasta sentir un estiramiento en los músculos de la espalda. Mantén la posición durante unos segundos, luego vuelve lentamente a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Сядьте на мяч, поставив ноги на землю и выпрямив спину. Держите мяч обеими руками, прижав его к груди. Задействуйте мышцы корпуса и медленно откиньтесь назад, держа спину прямо, а ноги на земле. Продолжайте откидываться назад, пока не почувствуете растяжение мышц спины. Удерживайте положение несколько секунд, затем медленно вернитесь в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "坐在稳定球上，双脚平放在地面上，背部挺直。 用双手握住稳定球，将其抱在靠近胸部的位置。 启动你的核心肌肉，慢慢向后倾斜，保持背部挺直，双脚踩在地上。 继续向后倾斜，直到感觉到背部肌肉伸展。 保持该姿势几秒钟，然后慢慢回到起始位置。 重复所需的重复次数。",
+    "hi": "स्टेबिलिटी बॉल पर अपने पैरों को ज़मीन पर सपाट और अपनी पीठ को सीधा करके बैठें। स्टेबिलिटी बॉल को दोनों हाथों से पकड़ें, इसे अपनी छाती से सटाएं। अपनी मुख्य मांसपेशियों को शामिल करें और धीरे-धीरे पीछे झुकें, अपनी पीठ सीधी रखें और अपने पैर ज़मीन पर रखें। जब तक आप अपनी पीठ की मांसपेशियों में खिंचाव महसूस न करें तब तक पीछे झुकते रहें। कुछ सेकंड के लिए इस स्थिति में रहें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Usiądź na piłce gimnastycznej, oprzyj stopy płasko na podłodze i trzymaj plecy proste. Trzymaj piłkę gimnastyczną obiema rękami, przytulając ją blisko klatki piersiowej. Napnij mięśnie brzucha i powoli odchyl się do tyłu, trzymając plecy proste, a stopy oparte na podłodze. Kontynuuj odchylanie się, aż poczujesz rozciąganie mięśni pleców. Utrzymaj pozycję przez kilka sekund, a następnie powoli wróć do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "짐볼 위에 앉아 발을 바닥에 평평하게 놓고 등을 곧게 세우십시오. 양손으로 짐볼을 안고 가슴에 가깝게 안으십시오. 코어 근육을 조이고 천천히 뒤로 몸을 기울이되 등을 곧게 유지하고 발을 바닥에 붙여두십시오. 등 근육에 스트레칭이 느껴질 때까지 계속 뒤로 기울이십시오. 몇 초간 자세를 유지한 후 천천히 시작 위치로 돌아오십시오. 원하는 반복 횟수만큼 반복하십시오.",
+    "fr": "Assieds-toi sur le ballon de stabilité, les pieds à plat sur le sol et le dos droit. Tiens le ballon de stabilité des deux mains, en le serrant contre ta poitrine. Gaine tes muscles abdominaux et penche-toi lentement en arrière, en gardant le dos droit et les pieds bien ancrés au sol. Continue à te pencher vers l'arrière jusqu'à ce que tu sentes un étirement dans les muscles de ton dos. Maintiens la position pendant quelques secondes, puis reviens lentement à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on the stability ball with your feet flat on the ground and your back straight.",
+      "Hold the stability ball with both hands, hugging it close to your chest.",
+      "Engage your core muscles and slowly lean back, keeping your back straight and your feet planted on the ground.",
+      "Continue leaning back until you feel a stretch in your back muscles.",
+      "Hold the position for a few seconds, then slowly return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Siediti sulla palla di stabilità con i piedi appoggiati a terra e la schiena dritta.",
+      "Tieni la palla di stabilità con entrambe le mani, abbracciandola vicino al petto.",
+      "Coinvolgi i muscoli centrali e inclinati lentamente all'indietro, mantenendo la schiena dritta e i piedi ben piantati a terra.",
+      "Continua ad inclinarti all'indietro finché non senti un allungamento nei muscoli della schiena.",
+      "Mantieni la posizione per qualche secondo, poi torna lentamente alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız yere düz basacak ve sırtınız düz olacak şekilde stabilite topunun üzerine oturun.",
+      "Denge topunu iki elinizle tutun ve göğsünüze yakın bir şekilde sarın.",
+      "Çekirdek kaslarınızı çalıştırın ve yavaşça geriye yaslanın, sırtınızı düz tutun ve ayaklarınızı yere basın.",
+      "Sırt kaslarınızda bir gerginlik hissedene kadar geriye yaslanmaya devam edin.",
+      "Birkaç saniye bu pozisyonda kalın, ardından yavaşça başlangıç ​​pozisyonuna dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Siéntate en el balón de estabilidad con los pies planos en el suelo y la espalda recta.",
+      "Sujeta el balón de estabilidad con ambas manos, abrazándolo cerca del pecho.",
+      "Activa los músculos del core y reclínate lentamente hacia atrás, manteniendo la espalda recta y los pies apoyados en el suelo.",
+      "Continúa reclinándote hacia atrás hasta sentir un estiramiento en los músculos de la espalda.",
+      "Mantén la posición durante unos segundos, luego vuelve lentamente a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на мяч, поставив ноги на землю и выпрямив спину.",
+      "Держите мяч обеими руками, прижимая его к груди.",
+      "Задействуйте мышцы корпуса и медленно откиньтесь назад, держа спину прямо, а ноги на земле.",
+      "Продолжайте откидываться назад, пока не почувствуете растяжение мышц спины.",
+      "Удерживайте положение несколько секунд, затем медленно вернитесь в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "坐在稳定球上，双脚平放在地面上，背部挺直。",
+      "用双手握住稳定球，将其抱在靠近胸部的位置。",
+      "启动你的核心肌肉，慢慢向后倾斜，保持背部挺直，双脚踩在地上。",
+      "继续向后倾斜，直到感觉到背部肌肉伸展。",
+      "保持该姿势几秒钟，然后慢慢回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "स्टेबिलिटी बॉल पर अपने पैरों को ज़मीन पर सपाट और अपनी पीठ को सीधा करके बैठें।",
+      "स्टेबिलिटी बॉल को दोनों हाथों से पकड़ें, इसे अपनी छाती से सटाएं।",
+      "अपनी मुख्य मांसपेशियों को शामिल करें और धीरे-धीरे पीछे झुकें, अपनी पीठ सीधी रखें और अपने पैर ज़मीन पर रखें।",
+      "जब तक आप अपनी पीठ की मांसपेशियों में खिंचाव महसूस न करें तब तक पीछे झुकते रहें।",
+      "कुछ सेकंड के लिए इस स्थिति में रहें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Usiądź na piłce gimnastycznej, oprzyj stopy płasko na podłodze i trzymaj plecy proste.",
+      "Trzymaj piłkę gimnastyczną obiema rękami, przytulając ją blisko klatki piersiowej.",
+      "Napnij mięśnie brzucha i powoli odchyl się do tyłu, trzymając plecy proste, a stopy oparte na podłodze.",
+      "Kontynuuj odchylanie się, aż poczujesz rozciąganie mięśni pleców.",
+      "Utrzymaj pozycję przez kilka sekund, a następnie powoli wróć do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "짐볼 위에 앉아 발을 바닥에 평평하게 놓고 등을 곧게 세우십시오.",
+      "양손으로 짐볼을 안고 가슴에 가깝게 안으십시오.",
+      "코어 근육을 조이고 천천히 뒤로 몸을 기울이되 등을 곧게 유지하고 발을 바닥에 붙여두십시오.",
+      "등 근육에 스트레칭이 느껴질 때까지 계속 뒤로 기울이십시오.",
+      "몇 초간 자세를 유지한 후 천천히 시작 위치로 돌아오십시오.",
+      "원하는 반복 횟수만큼 반복하십시오."
+    ],
+    "fr": [
+      "Assieds-toi sur le ballon de stabilité, les pieds à plat sur le sol et le dos droit.",
+      "Tiens le ballon de stabilité des deux mains, en le serrant contre ta poitrine.",
+      "Gaine tes muscles abdominaux et penche-toi lentement en arrière, en gardant le dos droit et les pieds bien ancrés au sol.",
+      "Continue à te pencher vers l'arrière jusqu'à ce que tu sentes un étirement dans les muscles de ton dos.",
+      "Maintiens la position pendant quelques secondes, puis reviens lentement à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "chest"
+  ],
+  "target": "spine",
+  "image": "images/1338-d7z1Y7V.jpg",
+  "gif_url": "videos/1338-d7z1Y7V.gif",
+  "media_id": "d7z1Y7V",
+  "created_at": "2026-03-18T12:31:32.88277+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

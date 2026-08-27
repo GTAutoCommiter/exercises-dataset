@@ -1,0 +1,92 @@
+{
+  "id": "0332",
+  "name": "dumbbell iron cross",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand at your sides. Raise your arms out to the sides until they are parallel to the ground, forming a T shape with your body. Pause for a moment, then slowly lower your arms back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi a larghezza delle spalle, tenendo un manubrio in ogni mano ai lati. Alza le braccia ai lati finché non sono parallele al suolo, formando una forma a T con il corpo. Fermati un attimo, poi abbassa lentamente le braccia fino alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız omuz genişliğinde açık, her iki elinizde de birer dambıl tutarak ayakta durun. Kollarınızı yere paralel olacak şekilde yanlara doğru kaldırın ve vücudunuzla bir T şekli oluşturun. Bir an duraklayın, ardından kollarınızı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros, sosteniendo una mancuerna en cada mano a los costados. Levanta los brazos hacia los lados hasta que queden paralelos al suelo, formando una T con el cuerpo. Haz una pausa por un momento, luego baja lentamente los brazos de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, держа по гантели в каждой руке по бокам. Поднимите руки в стороны, пока они не станут параллельны земле, образуя с телом Т-образную форму. Сделайте паузу на мгновение, затем медленно опустите руки обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，双手各握一个哑铃放在身体两侧。 将双臂向两侧举起，直至与地面平行，与身体形成T字形。 暂停片刻，然后慢慢将手臂放回起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, दोनों हाथों में एक-एक डंबल पकड़ लें। अपनी भुजाओं को बगल की ओर तब तक उठाएं जब तक कि वे जमीन के समानांतर न हो जाएं, जिससे आपके शरीर का टी आकार बन जाए। एक पल के लिए रुकें, फिर धीरे-धीरे अपनी भुजाओं को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań w rozkroku na szerokość barków, trzymając hantle w obu rękach po bokach ciała. Unieś ramiona na boki, aż będą równoległe do podłogi, tworząc kształt litery „T” z ciałem. Zatrzymaj się na chwilę, a następnie powoli opuść ramiona do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "발을 어깨 넓이로 벌리고 서서 양손에 덤벨을 들고 몸의 양옆에 내립니다. 팔을 옆으로 들어올려 지면과 평행해질 때까지 올립니다. 몸과 T자 형태를 이루게 합니다. 잠시 멈춘 후 천천히 팔을 시작 위치로 내립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un haltère dans chaque main le long du corps. Lève tes bras sur les côtés jusqu'à ce qu'ils soient parallèles au sol, en formant un T avec ton corps. Marque une pause, puis abaisse lentement tes bras jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart, holding a dumbbell in each hand at your sides.",
+      "Raise your arms out to the sides until they are parallel to the ground, forming a T shape with your body.",
+      "Pause for a moment, then slowly lower your arms back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi a larghezza delle spalle, tenendo un manubrio in ogni mano ai lati.",
+      "Alza le braccia ai lati finché non sono parallele al suolo, formando una forma a T con il corpo.",
+      "Fermati un attimo, poi abbassa lentamente le braccia fino alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durun, her iki elinizde de birer dambıl tutun.",
+      "Kollarınızı yere paralel olacak şekilde yanlara doğru kaldırın ve vücudunuzla bir T şekli oluşturun.",
+      "Bir an duraklayın, ardından kollarınızı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros, sosteniendo una mancuerna en cada mano a los costados.",
+      "Levanta los brazos hacia los lados hasta que queden paralelos al suelo, formando una T con el cuerpo.",
+      "Haz una pausa por un momento, luego baja lentamente los brazos de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, держа по гантели в каждой руке по бокам.",
+      "Поднимите руки в стороны, пока они не станут параллельны земле, образуя с телом Т-образную форму.",
+      "Сделайте паузу на мгновение, затем медленно опустите руки обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，双手各握一个哑铃放在身体两侧。",
+      "将双臂向两侧举起，直至与地面平行，与身体形成T字形。",
+      "暂停片刻，然后慢慢将手臂放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, दोनों हाथों में एक-एक डंबल पकड़ लें।",
+      "अपनी भुजाओं को बगल की ओर तब तक उठाएं जब तक कि वे जमीन के समानांतर न हो जाएं, जिससे आपके शरीर का टी आकार बन जाए।",
+      "एक पल के लिए रुकें, फिर धीरे-धीरे अपनी भुजाओं को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków, trzymając hantle w obu rękach po bokach ciała.",
+      "Unieś ramiona na boki, aż będą równoległe do podłogi, tworząc kształt litery „T” z ciałem.",
+      "Zatrzymaj się na chwilę, a następnie powoli opuść ramiona do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 넓이로 벌리고 서서 양손에 덤벨을 들고 몸의 양옆에 내립니다.",
+      "팔을 옆으로 들어올려 지면과 평행해질 때까지 올립니다.",
+      "잠시 멈춘 후 천천히 팔을 시작 위치로 내립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un haltère dans chaque main le long du corps.",
+      "Lève tes bras sur les côtés jusqu'à ce qu'ils soient parallèles au sol, en formant un T avec ton corps.",
+      "Marque une pause, puis abaisse lentement tes bras jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "chest"
+  ],
+  "target": "delts",
+  "image": "images/0332-cALkHHX.jpg",
+  "gif_url": "videos/0332-cALkHHX.gif",
+  "media_id": "cALkHHX",
+  "created_at": "2026-03-18T12:31:32.879064+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

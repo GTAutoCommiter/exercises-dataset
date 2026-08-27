@@ -1,0 +1,111 @@
+{
+  "id": "1628",
+  "name": "ez barbell spider curl",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "ez barbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and hold the ez barbell with an underhand grip, palms facing up. Rest your upper arms on a preacher bench or stability ball, allowing your elbows to hang down. Keeping your upper arms stationary, exhale and curl the barbell up towards your shoulders. Pause for a moment at the top, squeezing your biceps. Inhale and slowly lower the barbell back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stare con i piedi alla larghezza delle spalle e tenere il bilanciere ez con una presa subdola, con i palmi rivolti verso l'alto. Appoggia la parte superiore delle braccia su una panca da predicatore o su una palla stabilizzata, lasciando che i gomiti penzolino. Mantenendo ferma la parte superiore delle braccia, espira e porta il bilanciere verso le spalle. Fermati un attimo in alto, contraendo i bicipiti. Inspira e abbassa lentamente il bilanciere nella posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınızı omuz genişliğinde açın ve ez halterini avuç içleriniz yukarı bakacak şekilde alttan kavrayarak tutun. Üst kollarınızı bir vaiz sehpasına veya denge topuna dayayın ve dirseklerinizin aşağı sarkmasına izin verin. Üst kollarınızı sabit tutarak nefes verin ve halteri omuzlarınıza doğru kıvırın. Bicepslerinizi sıkarak tepede bir an duraklayın. Nefes alın ve halteri yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y sostén la barra EZ con agarre supino, palmas hacia arriba. Apoya los brazos superiores en un banco scott o en un balón de estabilidad, dejando que los codos cuelguen hacia abajo. Manteniendo los brazos superiores fijos, exhala y levanta la barra hacia los hombros. Haz una pausa breve en la parte alta, apretando los bíceps. Inhala y baja lentamente la barra de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, возьмите штангу обратным хватом ладонями вверх. Положите плечи на скамью проповедника или мяч для стабилизации, позволяя локтям свисать вниз. Удерживая плечи неподвижно, выдохните и поднимите штангу к плечам. Задержитесь на мгновение в верхней точке, напрягая бицепсы. Вдохните и медленно опустите штангу обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，反手握住杠铃，手掌朝上。 将上臂放在牧师凳或稳定球上，让肘部下垂。 保持上臂静止，呼气并将杠铃向上弯向肩膀。 在顶部暂停片刻，挤压你的二头肌。 吸气并慢慢将杠铃放回起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और हथेलियों को ऊपर की ओर रखते हुए ईज़ बारबेल को हाथ से पकड़ें। अपनी ऊपरी भुजाओं को प्रीचर बेंच या स्टेबिलिटी बॉल पर रखें, जिससे आपकी कोहनियाँ नीचे लटक जाएँ। अपनी ऊपरी बांहों को स्थिर रखते हुए सांस छोड़ें और बारबेल को अपने कंधों की ओर मोड़ें। अपने बाइसेप्स को निचोड़ते हुए शीर्ष पर एक पल के लिए रुकें। श्वास लें और धीरे-धीरे बारबेल को प्रारंभिक स्थिति में वापस लाएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań ze stopami na szerokość barków i chwyć gryf EZ podchwytem, dłonie skierowane do góry. Oprzyj górną część ramion na ławce modlitewnej lub piłce stabilizacyjnej, pozwalając łokciom swobodnie zwisać. Trzymając górną część ramion nieruchomo, wydychając powietrze, unieś sztangę w stronę barków. Zatrzymaj się na chwilę na górze, ściskając mięśnie dwugłowe. Wdychając powietrze, powoli opuść sztangę z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę razy.",
+    "ko": "발을 어깨 너비만큼 벌리고 손가락이 위를 향하도록 역그립으로 EZ바벨을 잡아 섭니다. 위팔을 프리처 벤치나 안정성 볼 위에 올리고 팔꿈치를 아래로 내려놓습니다. 위팔을 고정한 채 숨을 내쉬면서 바벨을 어깨 쪽으로 말아 올립니다. 맨 위에서 잠깐 멈춰 이두근을 조여줍니다. 숨을 들이쉬면서 바벨을 천천히 시작 위치로 내립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens la barre EZ en prise supination, paumes tournées vers le haut. Pose le haut de tes bras sur un banc à prêcher ou un ballon de stabilité, en laissant tes coudes pendre vers le bas. En gardant le haut des bras immobile, expire et fléchis la barre vers tes épaules. Marque une pause en haut, en contractant tes biceps. Inspire et abaisse lentement la barre jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and hold the ez barbell with an underhand grip, palms facing up.",
+      "Rest your upper arms on a preacher bench or stability ball, allowing your elbows to hang down.",
+      "Keeping your upper arms stationary, exhale and curl the barbell up towards your shoulders.",
+      "Pause for a moment at the top, squeezing your biceps.",
+      "Inhale and slowly lower the barbell back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stare con i piedi alla larghezza delle spalle e tenere il bilanciere ez con una presa subdola, con i palmi rivolti verso l'alto.",
+      "Appoggia la parte superiore delle braccia su una panca da predicatore o su una palla stabilizzata, lasciando che i gomiti penzolino.",
+      "Mantenendo ferma la parte superiore delle braccia, espira e porta il bilanciere verso le spalle.",
+      "Fermati un attimo in alto, contraendo i bicipiti.",
+      "Inspira e abbassa lentamente il bilanciere nella posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınızı omuz genişliğinde açın ve ez halterini avuç içleriniz yukarı bakacak şekilde alttan kavrayarak tutun.",
+      "Üst kollarınızı bir vaiz sehpasına veya denge topuna dayayın ve dirseklerinizin aşağı sarkmasına izin verin.",
+      "Üst kollarınızı sabit tutarak nefes verin ve halteri omuzlarınıza doğru kıvırın.",
+      "Bicepslerinizi sıkarak tepede bir an duraklayın.",
+      "Nefes alın ve halteri yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y sostén la barra EZ con agarre supino, palmas hacia arriba.",
+      "Apoya los brazos superiores en un banco scott o en un balón de estabilidad, dejando que los codos cuelguen hacia abajo.",
+      "Manteniendo los brazos superiores fijos, exhala y levanta la barra hacia los hombros.",
+      "Haz una pausa breve en la parte alta, apretando los bíceps.",
+      "Inhala y baja lentamente la barra de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, возьмите штангу обратным хватом ладонями вверх.",
+      "Положите плечи на скамью проповедника или мяч для стабилизации, позволяя локтям свисать вниз.",
+      "Удерживая плечи неподвижно, выдохните и поднимите штангу к плечам.",
+      "Задержитесь на мгновение в верхней точке, напрягая бицепсы.",
+      "Вдохните и медленно опустите штангу обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，反手握住杠铃，手掌朝上。",
+      "将上臂放在牧师凳或稳定球上，让肘部下垂。",
+      "保持上臂静止，呼气并将杠铃向上弯向肩膀。",
+      "在顶部暂停片刻，挤压你的二头肌。",
+      "吸气并慢慢将杠铃放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और हथेलियों को ऊपर की ओर रखते हुए ईज़ बारबेल को हाथ से पकड़ें।",
+      "अपनी ऊपरी भुजाओं को प्रीचर बेंच या स्टेबिलिटी बॉल पर रखें, जिससे आपकी कोहनियाँ नीचे लटक जाएँ।",
+      "अपनी ऊपरी बांहों को स्थिर रखते हुए सांस छोड़ें और बारबेल को अपने कंधों की ओर मोड़ें।",
+      "अपने बाइसेप्स को निचोड़ते हुए शीर्ष पर एक पल के लिए रुकें।",
+      "श्वास लें और धीरे-धीरे बारबेल को प्रारंभिक स्थिति में वापस लाएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań ze stopami na szerokość barków i chwyć gryf EZ podchwytem, dłonie skierowane do góry.",
+      "Oprzyj górną część ramion na ławce modlitewnej lub piłce stabilizacyjnej, pozwalając łokciom swobodnie zwisać.",
+      "Trzymając górną część ramion nieruchomo, wydychając powietrze, unieś sztangę w stronę barków.",
+      "Zatrzymaj się na chwilę na górze, ściskając mięśnie dwugłowe.",
+      "Wdychając powietrze, powoli opuść sztangę z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "발을 어깨 너비만큼 벌리고 손가락이 위를 향하도록 역그립으로 EZ바벨을 잡아 섭니다.",
+      "위팔을 프리처 벤치나 안정성 볼 위에 올리고 팔꿈치를 아래로 내려놓습니다.",
+      "위팔을 고정한 채 숨을 내쉬면서 바벨을 어깨 쪽으로 말아 올립니다.",
+      "맨 위에서 잠깐 멈춰 이두근을 조여줍니다.",
+      "숨을 들이쉬면서 바벨을 천천히 시작 위치로 내립니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens la barre EZ en prise supination, paumes tournées vers le haut.",
+      "Pose le haut de tes bras sur un banc à prêcher ou un ballon de stabilité, en laissant tes coudes pendre vers le bas.",
+      "En gardant le haut des bras immobile, expire et fléchis la barre vers tes épaules.",
+      "Marque une pause en haut, en contractant tes biceps.",
+      "Inspire et abaisse lentement la barre jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "forearms",
+  "secondary_muscles": [
+    "forearms"
+  ],
+  "target": "biceps",
+  "image": "images/1628-2kattbR.jpg",
+  "gif_url": "videos/1628-2kattbR.gif",
+  "media_id": "2kattbR",
+  "created_at": "2026-03-18T12:31:32.883456+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

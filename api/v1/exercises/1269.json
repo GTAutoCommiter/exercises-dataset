@@ -1,0 +1,102 @@
+{
+  "id": "1269",
+  "name": "cable standing up straight crossovers",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Stand in the middle of a cable machine with your feet shoulder-width apart. Hold the handles of the cables with your palms facing down and your arms extended straight out to the sides. Keeping your arms straight, bring your hands together in front of your body, crossing them over each other. Pause for a moment, then slowly return to the starting position, keeping your arms extended. Repeat for the desired number of repetitions.",
+    "it": "Mettiti al centro di una macchina per cavi con i piedi a largo spalla. Tieni le maniglie dei cavi con i palmi rivolti verso il basso e le braccia estese ai lati. Tieni le braccia dritte, unisci le mani davanti al corpo, incrociandole una sopra l'altra. Fermati un attimo, poi torna lentamente alla posizione iniziale, tenendo le braccia distese. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde bir kablo makinesinin ortasında durun. Avuçlarınız aşağıya bakacak ve kollarınız yanlara doğru uzatılacak şekilde kabloların tutamaçlarını tutun. Kollarınızı düz tutarak ellerinizi vücudunuzun önünde birleştirin ve üst üste getirin. Bir an duraklayın, ardından kollarınızı uzatarak yavaşça başlangıç ​​pozisyonuna dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie en el medio de una máquina de cable con los pies separados a la altura de los hombros. Sujeta los mangos de los cables con las palmas hacia abajo y los brazos extendidos hacia los lados. Manteniendo los brazos rectos, junta las manos frente a tu cuerpo, cruzándolas una sobre la otra. Haz una pausa breve, luego regresa lentamente a la posición inicial, manteniendo los brazos extendidos. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте в центр канатной машины, поставив ноги на ширине плеч. Держите ручки тросов ладонями вниз и вытяните руки в стороны. Держа руки прямыми, сведите ладони перед собой, скрестив их друг с другом. Сделайте паузу на мгновение, затем медленно вернитесь в исходное положение, держа руки вытянутыми. Повторите необходимое количество повторений.",
+    "zh": "站在缆绳机中间，双脚分开与肩同宽。 手掌朝下握住电缆手柄，手臂伸直至两侧。 保持双臂伸直，将双手放在身体前面，相互交叉。 暂停片刻，然后慢慢回到起始位置，保持双臂伸展。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए केबल मशीन के बीच में खड़े हो जाएं। अपनी हथेलियों को नीचे की ओर रखते हुए और अपनी बाहों को बगल की ओर सीधा फैलाकर केबल के हैंडल को पकड़ें। अपनी भुजाओं को सीधा रखते हुए, अपने हाथों को अपने शरीर के सामने एक साथ लाएँ, उन्हें एक-दूसरे के ऊपर से पार करते हुए। एक पल के लिए रुकें, फिर अपनी बाहों को फैलाए रखते हुए धीरे-धीरे प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań pośrodku wyciągu, ustawiając stopy na szerokość barków. Trzymaj uchwyty lin dłońmi skierowanymi w dół, ramiona wyciągnięte prosto na boki. Trzymając ramiona proste, złącz dłonie przed ciałem, krzyżując je nawzajem. Zatrzymaj się na chwilę, a następnie powoli wróć do pozycji wyjściowej, utrzymując ramiona wyprostowane. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "케이블 머신의 중앙에 서서 어깨너비만큼 발을 벌립니다. 케이블 핸들을 잡고 손바닥이 아래를 향하게 하며 팔을 옆으로 곧게 뻗습니다. 팔을 곧게 유지하면서 손을 몸 앞으로 가져가 서로 교차시킵니다. 잠시 멈춘 후 천천히 처음 위치로 돌아가 팔을 뻗은 상태로 유지합니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi au milieu d'une machine à câble, les pieds écartés à la largeur des épaules. Tiens les poignées des câbles, les paumes tournées vers le bas et les bras étendus droit vers les côtés. En gardant les bras tendus, rapproche tes mains devant ton corps, en les croisant l'une sur l'autre. Marque une pause, puis reviens lentement à la position de départ, en gardant tes bras tendus. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand in the middle of a cable machine with your feet shoulder-width apart.",
+      "Hold the handles of the cables with your palms facing down and your arms extended straight out to the sides.",
+      "Keeping your arms straight, bring your hands together in front of your body, crossing them over each other.",
+      "Pause for a moment, then slowly return to the starting position, keeping your arms extended.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Mettiti al centro di una macchina per cavi con i piedi a largo spalla.",
+      "Tieni le maniglie dei cavi con i palmi rivolti verso il basso e le braccia estese ai lati.",
+      "Tieni le braccia dritte, unisci le mani davanti al corpo, incrociandole una sopra l'altra.",
+      "Fermati un attimo, poi torna lentamente alla posizione iniziale, tenendo le braccia distese.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde bir kablo makinesinin ortasında durun.",
+      "Avuçlarınız aşağıya bakacak ve kollarınız yanlara doğru uzatılacak şekilde kabloların tutamaçlarını tutun.",
+      "Kollarınızı düz tutarak ellerinizi vücudunuzun önünde birleştirin ve üst üste getirin.",
+      "Bir an duraklayın, ardından kollarınızı uzatarak yavaşça başlangıç ​​pozisyonuna dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie en el medio de una máquina de cable con los pies separados a la altura de los hombros.",
+      "Sujeta los mangos de los cables con las palmas hacia abajo y los brazos extendidos hacia los lados.",
+      "Manteniendo los brazos rectos, junta las manos frente a tu cuerpo, cruzándolas una sobre la otra.",
+      "Haz una pausa breve, luego regresa lentamente a la posición inicial, manteniendo los brazos extendidos.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте в центр канатной машины, поставив ноги на ширине плеч.",
+      "Держите ручки тросов ладонями вниз и вытяните руки в стороны.",
+      "Держа руки прямыми, сведите ладони перед собой, скрестив их друг с другом.",
+      "Сделайте паузу на мгновение, затем медленно вернитесь в исходное положение, держа руки вытянутыми.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "站在缆绳机中间，双脚分开与肩同宽。",
+      "手掌朝下握住电缆手柄，手臂伸直至两侧。",
+      "保持双臂伸直，将双手放在身体前面，相互交叉。",
+      "暂停片刻，然后慢慢回到起始位置，保持双臂伸展。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए केबल मशीन के बीच में खड़े हो जाएं।",
+      "अपनी हथेलियों को नीचे की ओर रखते हुए और अपनी बाहों को बगल की ओर सीधा फैलाकर केबल के हैंडल को पकड़ें।",
+      "अपनी भुजाओं को सीधा रखते हुए, अपने हाथों को अपने शरीर के सामने एक साथ लाएँ, उन्हें एक-दूसरे के ऊपर से पार करते हुए।",
+      "एक पल के लिए रुकें, फिर अपनी बाहों को फैलाए रखते हुए धीरे-धीरे प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań pośrodku wyciągu, ustawiając stopy na szerokość barków.",
+      "Trzymaj uchwyty lin dłońmi skierowanymi w dół, ramiona wyciągnięte prosto na boki.",
+      "Trzymając ramiona proste, złącz dłonie przed ciałem, krzyżując je nawzajem.",
+      "Zatrzymaj się na chwilę, a następnie powoli wróć do pozycji wyjściowej, utrzymując ramiona wyprostowane.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "케이블 머신의 중앙에 서서 어깨너비만큼 발을 벌립니다.",
+      "케이블 핸들을 잡고 손바닥이 아래를 향하게 하며 팔을 옆으로 곧게 뻗습니다.",
+      "팔을 곧게 유지하면서 손을 몸 앞으로 가져가 서로 교차시킵니다.",
+      "잠시 멈춘 후 천천히 처음 위치로 돌아가 팔을 뻗은 상태로 유지합니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi au milieu d'une machine à câble, les pieds écartés à la largeur des épaules.",
+      "Tiens les poignées des câbles, les paumes tournées vers le bas et les bras étendus droit vers les côtés.",
+      "En gardant les bras tendus, rapproche tes mains devant ton corps, en les croisant l'une sur l'autre.",
+      "Marque une pause, puis reviens lentement à la position de départ, en gardant tes bras tendus.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "deltoids",
+  "secondary_muscles": [
+    "deltoids",
+    "triceps"
+  ],
+  "target": "pectorals",
+  "image": "images/1269-UKWTJWR.jpg",
+  "gif_url": "videos/1269-UKWTJWR.gif",
+  "media_id": "UKWTJWR",
+  "created_at": "2026-03-18T12:31:32.876483+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

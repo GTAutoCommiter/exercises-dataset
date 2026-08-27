@@ -1,0 +1,102 @@
+{
+  "id": "0033",
+  "name": "barbell decline bench press",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Lie on a decline bench with your feet secured and your head lower than your hips. Grasp the barbell with an overhand grip slightly wider than shoulder-width apart. Unrack the barbell and lower it slowly towards your chest, keeping your elbows tucked in. Pause for a moment at the bottom, then push the barbell back up to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Sdraiati su una panca declinata con i piedi fissati e la testa più in basso rispetto ai fianchi. Afferrare il bilanciere con una presa prona leggermente più larga della larghezza delle spalle. Togli il bilanciere e abbassalo lentamente verso il petto, tenendo i gomiti piegati. Fai una pausa per un momento in basso, quindi riporta il bilanciere nella posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız sabitlenmiş ve başınız kalçalarınızdan aşağıda olacak şekilde bir iniş bankına uzanın. Halteri omuz genişliğinden biraz daha geniş olacak şekilde üstten kavrayın. Halterin askısını açın ve dirseklerinizi içeride tutarak yavaşça göğsünüze doğru indirin. Altta bir an duraklayın, ardından halteri başlangıç ​​pozisyonuna geri itin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Túmbate en un banco declinado con los pies sujetos y la cabeza más baja que las caderas. Agarra la barra con un agarre pronado un poco más ancho que la separación de los hombros. Saca la barra del soporte y bájala lentamente hacia el pecho, manteniendo los codos pegados al cuerpo. Haz una pausa breve en la parte baja y luego empuja la barra de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Лягте на наклонную скамью, зафиксировав ноги и опустив голову ниже бедер. Возьмите штангу хватом сверху на расстоянии чуть шире плеч. Освободите штангу и медленно опустите ее к груди, держа локти прижатыми. Сделайте паузу в нижней точке, затем поднимите штангу обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "躺在倾斜的长凳上，双脚固定，头部低于臀部。 正手握住杠铃，握距略宽于肩宽。 松开杠铃，慢慢将其降低到胸部，保持肘部内收。 在底部停顿片刻，然后将杠铃推回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को सुरक्षित रखते हुए और अपने सिर को अपने कूल्हों से नीचे करके एक डिक्लाइन बेंच पर लेटें। बारबेल को कंधे की चौड़ाई से थोड़ी अधिक चौड़ी पकड़ के साथ पकड़ें। बारबेल को खोलें और अपनी कोहनियों को अंदर की ओर रखते हुए इसे धीरे-धीरे अपनी छाती की ओर नीचे करें। नीचे एक पल के लिए रुकें, फिर बारबेल को वापस प्रारंभिक स्थिति में धकेलें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Połóż się na ławce skośnej ujemnej, zabezpieczając stopy, tak aby głowa znajdowała się niżej niż biodra. Chwyć sztangę chwytem nachwytem, nieco szerszym niż szerokość barków. Zdejmij sztangę ze stojaka i powoli opuszczaj ją w kierunku klatki piersiowej, trzymając łokcie przy ciele. Zatrzymaj się na chwilę na dole, a następnie wypchnij sztangę z powrotem do pozycji wyjściowej. Powtórz odpowiednią liczbę razy.",
+    "ko": "발을 고정한 하강 벤치에 누운 상태로 머리가 허리보다 아래에 위치하도록 합니다. 손가락이 앞을 향하도록 어깨넓이보다 약간 넓게 바벨을 잡습니다. 바벨을 받쳐주는 거치대에서 내려놓은 후 천천히 가슴 쪽으로 내립니다. 팔꿈치를 안쪽으로 유지합니다. 맨 아래에서 잠시 멈춘 후 바벨을 시작 위치로 올립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Allonge-toi sur un banc décliné, les pieds bloqués et la tête plus basse que les hanches. Saisis la barre avec une prise en pronation un peu plus large que la largeur des épaules. Sors la barre du support et abaisse-la lentement vers ta poitrine, en gardant les coudes rentrés. Marque une pause en bas, puis pousse la barre vers le haut jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Lie on a decline bench with your feet secured and your head lower than your hips.",
+      "Grasp the barbell with an overhand grip slightly wider than shoulder-width apart.",
+      "Unrack the barbell and lower it slowly towards your chest, keeping your elbows tucked in.",
+      "Pause for a moment at the bottom, then push the barbell back up to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Sdraiati su una panca declinata con i piedi fissati e la testa più in basso rispetto ai fianchi.",
+      "Afferrare il bilanciere con una presa prona leggermente più larga della larghezza delle spalle.",
+      "Togli il bilanciere e abbassalo lentamente verso il petto, mantenendo i gomiti piegati.",
+      "Fermati per un momento in basso, quindi riporta il bilanciere nella posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız sabitlenmiş ve başınız kalçalarınızdan aşağıda olacak şekilde bir iniş bankına uzanın.",
+      "Halteri omuz genişliğinden biraz daha geniş olacak şekilde üstten kavrayın.",
+      "Halterin askısını açın ve dirseklerinizi içeride tutarak yavaşça göğsünüze doğru indirin.",
+      "Altta bir an duraklayın, ardından halteri başlangıç ​​pozisyonuna geri itin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Túmbate en un banco declinado con los pies sujetos y la cabeza más baja que las caderas.",
+      "Agarra la barra con un agarre pronado un poco más ancho que la separación de los hombros.",
+      "Saca la barra del soporte y bájala lentamente hacia el pecho, manteniendo los codos pegados al cuerpo.",
+      "Haz una pausa breve en la parte baja y luego empuja la barra de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Лягте на наклонную скамью, зафиксировав ноги и опустив голову ниже бедер.",
+      "Возьмите штангу хватом сверху на расстоянии чуть шире плеч.",
+      "Ослабьте штангу и медленно опустите ее к груди, держа локти прижатыми.",
+      "Сделайте небольшую паузу в нижней точке, затем верните штангу в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "躺在倾斜的长凳上，双脚固定，头部低于臀部。",
+      "正手握住杠铃，握距略宽于肩宽。",
+      "松开杠铃，慢慢将其降低到胸部，保持肘部内收。",
+      "在底部停顿片刻，然后将杠铃推回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को सुरक्षित रखते हुए और अपने सिर को अपने कूल्हों से नीचे करके एक डिक्लाइन बेंच पर लेटें।",
+      "बारबेल को कंधे की चौड़ाई से थोड़ी अधिक चौड़ी पकड़ के साथ पकड़ें।",
+      "बारबेल को खोलें और अपनी कोहनियों को अंदर की ओर रखते हुए इसे धीरे-धीरे अपनी छाती की ओर नीचे करें।",
+      "नीचे एक क्षण के लिए रुकें, फिर बारबेल को वापस प्रारंभिक स्थिति में धकेलें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Połóż się na ławce skośnej ujemnej, zabezpieczając stopy, tak aby głowa znajdowała się niżej niż biodra.",
+      "Chwyć sztangę chwytem nachwytem, nieco szerszym niż szerokość barków.",
+      "Zdejmij sztangę ze stojaka i powoli opuszczaj ją w kierunku klatki piersiowej, trzymając łokcie przy ciele.",
+      "Zatrzymaj się na chwilę na dole, a następnie wypchnij sztangę z powrotem do pozycji wyjściowej.",
+      "Powtórz odpowiednią liczbę razy."
+    ],
+    "ko": [
+      "발을 고정한 하강 벤치에 누운 상태로 머리가 허리보다 아래에 위치하도록 합니다.",
+      "손가락이 앞을 향하도록 어깨넓이보다 약간 넓게 바벨을 잡습니다.",
+      "바벨을 받쳐주는 거치대에서 내려놓은 후 천천히 가슴 쪽으로 내립니다. 팔꿈치를 안쪽으로 유지합니다.",
+      "맨 아래에서 잠시 멈춘 후 바벨을 시작 위치로 올립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Allonge-toi sur un banc décliné, les pieds bloqués et la tête plus basse que les hanches.",
+      "Saisis la barre avec une prise en pronation un peu plus large que la largeur des épaules.",
+      "Sors la barre du support et abaisse-la lentement vers ta poitrine, en gardant les coudes rentrés.",
+      "Marque une pause en bas, puis pousse la barre vers le haut jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "target": "pectorals",
+  "image": "images/0033-GrO65fd.jpg",
+  "gif_url": "videos/0033-GrO65fd.gif",
+  "media_id": "GrO65fd",
+  "created_at": "2026-03-18T12:31:32.870444+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

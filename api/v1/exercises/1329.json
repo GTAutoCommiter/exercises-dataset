@@ -1,0 +1,132 @@
+{
+  "id": "1329",
+  "name": "dumbbell palm rotational bent over row",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand with an overhand grip. Bend forward at the hips, keeping your back straight and your knees slightly bent. Let your arms hang straight down, palms facing your body. Engage your core and pull the dumbbells up towards your chest, keeping your elbows close to your body. As you pull the dumbbells up, rotate your palms so they face away from your body. Squeeze your shoulder blades together at the top of the movement. Slowly lower the dumbbells back down to the starting position, rotating your palms back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi a larghezza delle spalle, tenendo un manubrio in ogni mano con una presa sopra la testa. Piegati in avanti ai fianchi, tenendo la schiena dritta e le ginocchia leggermente piegate. Lascia che le braccia pendano dritte verso il basso, i palmi rivolti verso il corpo. Attiva il core e tira i manubri verso il petto, tenendo i gomiti vicini al corpo. Mentre tiri verso l'alto i manubri, ruota i palmi in modo che siano rivolti lontano dal corpo. Stringi le scapole insieme nella parte alta del movimento. Abbassa lentamente i manubri fino alla posizione iniziale, ruotando i palmi di nuovo alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınızı omuz genişliğinde açın, her iki elinizde de birer dambıl tutun ve üstten kavrayın. Kalçalarınızı öne doğru eğin, sırtınızı düz tutun ve dizlerinizi hafifçe bükün. Kollarınızı düz bir şekilde aşağı sarkıtın, avuçlarınız vücudunuza baksın. Merkez bölgenizi devreye sokun ve dirseklerinizi vücudunuza yakın tutarak dambılları göğsünüze doğru çekin. Dambılları yukarı çekerken avuç içlerinizi vücudunuzdan uzağa bakacak şekilde çevirin. Hareketin üst noktasında kürek kemiklerinizi birbirine doğru sıkın. Avuç içlerinizi başlangıç ​​pozisyonuna döndürerek dambılları yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros, sujetando una mancuerna en cada mano con un agarre prono. Inclínate hacia adelante desde las caderas, manteniendo la espalda recta y las rodillas ligeramente flexionadas. Deja que los brazos cuelguen rectos hacia abajo, con las palmas hacia tu cuerpo. Activa el core y tira de las mancuernas hacia tu pecho, manteniendo los codos cerca del cuerpo. Mientras subes las mancuernas, gira las palmas para que queden mirando hacia afuera, alejadas de tu cuerpo. Junta los omóplatos en la parte superior del movimiento. Baja lentamente las mancuernas hasta la posición inicial, girando las palmas de vuelta a su posición original. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, держите по гантели в каждой руке хватом сверху. Наклонитесь вперед в бедрах, сохраняя спину прямой и слегка согнутыми в коленях. Пусть ваши руки свисают прямо вниз, ладони обращены к телу. Напрягите корпус и подтяните гантели к груди, держа локти близко к телу. Подтягивая гантели вверх, поверните ладони так, чтобы они были направлены от тела. В верхней точке движения сведите лопатки вместе. Медленно опустите гантели обратно в исходное положение, поворачивая ладони обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，双手各握一个哑铃，正握。 臀部向前弯曲，保持背部挺直，膝盖稍微弯曲。 让你的手臂笔直下垂，手掌朝向身体。 收紧核心肌群，将哑铃拉向胸部，保持肘部靠近身体。 当你向上拉哑铃时，旋转手掌，使其背向身体。 在动作的最高点将肩胛骨挤压在一起。 慢慢地将哑铃放回起始位置，将手掌旋转回起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, प्रत्येक हाथ में डंबल को ओवरहैंड पकड़ के साथ पकड़ें। अपनी पीठ को सीधा रखते हुए और अपने घुटनों को थोड़ा मोड़ते हुए, कूल्हों के बल आगे की ओर झुकें। अपनी भुजाओं को सीधा नीचे लटका दें, हथेलियाँ आपके शरीर की ओर हों। अपने कोर को संलग्न करें और अपनी कोहनियों को अपने शरीर के करीब रखते हुए डम्बल को अपनी छाती की ओर खींचें। जैसे ही आप डम्बल को ऊपर खींचते हैं, अपनी हथेलियों को घुमाएँ ताकि वे आपके शरीर से दूर रहें। आंदोलन के शीर्ष पर अपने कंधे के ब्लेड को एक साथ निचोड़ें। अपनी हथेलियों को घुमाते हुए धीरे-धीरे डम्बल को प्रारंभिक स्थिति में वापस लाएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań w rozkroku na szerokość barków, trzymając w każdej dłoni hantlę chwytem nachwytem. Pochyl tułów w biodrach, utrzymując proste plecy i lekko ugięte kolana. Pozwól rękom zwisać prosto w dół, dłońmi skierowanymi w stronę ciała. Napnij brzuch i podciągnij hantle w stronę klatki piersiowej, trzymając łokcie blisko ciała. Podczas podciągania hantli obróć dłonie tak, aby były skierowane w przeciwną stronę od ciała. Ściśnij łopatki na górze ruchu. Powoli opuść hantle z powrotem do pozycji wyjściowej, obracając dłonie z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "발을 어깨 너비로 벌리고 서서 양쪽 팔에 덤벨을 오버핸드 그립으로 잡으세요. 엉덩이에서 몸을 앞으로 기울이고 등을 펴며 무릎을 약간 구부리세요. 팔을 일직선으로 내리고 손바닥이 몸을 향하도록 하세요. 코어를 단단히 하고 덤벨을 가슴 쪽으로 위로 당기며 팔꿈치를 몸에 가깝게 유지하세요. 덤벨을 위로 당기면서 손바닥이 몸을 향하게 회전시키세요. 동작의 위쪽에서 어깨 뼈를 함께 조이세요. 천천히 덤벨을 시작 위치로 내리며 손바닥을 시작 위치로 다시 회전시키세요. 원하는 횟수만큼 반복하세요.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un haltère dans chaque main en prise pronation. Penche-toi vers l'avant au niveau des hanches en gardant ton dos droit et tes genoux légèrement fléchis. Laisse tes bras pendre droit vers le bas, les paumes tournées vers ton corps. Gaine ta sangle abdominale et tire les haltères vers ta poitrine, en gardant tes coudes près de ton corps. En tirant les haltères vers le haut, tourne tes paumes pour qu'elles soient tournées vers l'extérieur de ton corps. Contracte tes omoplates l'une vers l'autre en haut du mouvement. Abaisse lentement les haltères vers la position de départ, en tournant tes paumes vers la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart, holding a dumbbell in each hand with an overhand grip.",
+      "Bend forward at the hips, keeping your back straight and your knees slightly bent.",
+      "Let your arms hang straight down, palms facing your body.",
+      "Engage your core and pull the dumbbells up towards your chest, keeping your elbows close to your body.",
+      "As you pull the dumbbells up, rotate your palms so they face away from your body.",
+      "Squeeze your shoulder blades together at the top of the movement.",
+      "Slowly lower the dumbbells back down to the starting position, rotating your palms back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi a larghezza delle spalle, tenendo un manubrio in ogni mano con una presa sopra la testa.",
+      "Piegati in avanti ai fianchi, tenendo la schiena dritta e le ginocchia leggermente piegate.",
+      "Lascia che le braccia pendano dritte verso il basso, i palmi rivolti verso il corpo.",
+      "Attiva il core e tira i manubri verso il petto, tenendo i gomiti vicini al corpo.",
+      "Mentre tiri verso l'alto i manubri, ruota i palmi in modo che siano rivolti lontano dal corpo.",
+      "Stringi le scapole insieme nella parte alta del movimento.",
+      "Abbassa lentamente i manubri fino alla posizione iniziale, ruotando i palmi di nuovo alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınızı omuz genişliğinde açın, her iki elinizde de birer dambıl tutun ve üstten kavrayın.",
+      "Kalçalarınızı öne doğru eğin, sırtınızı düz tutun ve dizlerinizi hafifçe bükün.",
+      "Kollarınızı düz bir şekilde aşağı sarkıtın, avuçlarınız vücudunuza baksın.",
+      "Merkez bölgenizi devreye sokun ve dirseklerinizi vücudunuza yakın tutarak dambılları göğsünüze doğru çekin.",
+      "Dambılları yukarı çekerken avuç içlerinizi vücudunuzdan uzağa bakacak şekilde çevirin.",
+      "Hareketin üst noktasında kürek kemiklerinizi birbirine doğru sıkın.",
+      "Avuç içlerinizi başlangıç ​​pozisyonuna döndürerek dambılları yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros, sujetando una mancuerna en cada mano con un agarre prono.",
+      "Inclínate hacia adelante desde las caderas, manteniendo la espalda recta y las rodillas ligeramente flexionadas.",
+      "Deja que los brazos cuelguen rectos hacia abajo, con las palmas hacia tu cuerpo.",
+      "Activa el core y tira de las mancuernas hacia tu pecho, manteniendo los codos cerca del cuerpo.",
+      "Mientras subes las mancuernas, gira las palmas para que queden mirando hacia afuera, alejadas de tu cuerpo.",
+      "Junta los omóplatos en la parte superior del movimiento.",
+      "Baja lentamente las mancuernas hasta la posición inicial, girando las palmas de vuelta a su posición original.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, держите по гантели в каждой руке хватом сверху.",
+      "Наклонитесь вперед в бедрах, сохраняя спину прямой и слегка согнутыми в коленях.",
+      "Пусть ваши руки свисают прямо вниз, ладони обращены к телу.",
+      "Напрягите корпус и подтяните гантели к груди, держа локти близко к телу.",
+      "Подтягивая гантели вверх, поверните ладони так, чтобы они были направлены от тела.",
+      "В верхней точке движения сведите лопатки вместе.",
+      "Медленно опустите гантели обратно в исходное положение, поворачивая ладони обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，双手各握一个哑铃，正握。",
+      "臀部向前弯曲，保持背部挺直，膝盖稍微弯曲。",
+      "让你的手臂笔直下垂，手掌朝向身体。",
+      "收紧核心肌群，将哑铃拉向胸部，保持肘部靠近身体。",
+      "当你向上拉哑铃时，旋转手掌，使其背向身体。",
+      "在动作的最高点将肩胛骨挤压在一起。",
+      "慢慢地将哑铃放回起始位置，将手掌旋转回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, प्रत्येक हाथ में डंबल को ओवरहैंड पकड़ के साथ पकड़ें।",
+      "अपनी पीठ को सीधा रखते हुए और अपने घुटनों को थोड़ा मोड़ते हुए, कूल्हों के बल आगे की ओर झुकें।",
+      "अपनी भुजाओं को सीधा नीचे लटका दें, हथेलियाँ आपके शरीर की ओर हों।",
+      "अपने कोर को संलग्न करें और अपनी कोहनियों को अपने शरीर के करीब रखते हुए डम्बल को अपनी छाती की ओर खींचें।",
+      "जैसे ही आप डम्बल को ऊपर खींचते हैं, अपनी हथेलियों को घुमाएँ ताकि वे आपके शरीर से दूर रहें।",
+      "आंदोलन के शीर्ष पर अपने कंधे के ब्लेड को एक साथ निचोड़ें।",
+      "अपनी हथेलियों को घुमाते हुए धीरे-धीरे डम्बल को प्रारंभिक स्थिति में वापस लाएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków, trzymając w każdej dłoni hantlę chwytem nachwytem.",
+      "Pochyl tułów w biodrach, utrzymując proste plecy i lekko ugięte kolana.",
+      "Pozwól rękom zwisać prosto w dół, dłońmi skierowanymi w stronę ciała.",
+      "Napnij brzuch i podciągnij hantle w stronę klatki piersiowej, trzymając łokcie blisko ciała.",
+      "Podczas podciągania hantli obróć dłonie tak, aby były skierowane w przeciwną stronę od ciała.",
+      "Ściśnij łopatki na górze ruchu.",
+      "Powoli opuść hantle z powrotem do pozycji wyjściowej, obracając dłonie z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 너비로 벌리고 서서 양쪽 팔에 덤벨을 오버핸드 그립으로 잡으세요.",
+      "엉덩이에서 몸을 앞으로 기울이고 등을 펴며 무릎을 약간 구부리세요.",
+      "팔을 일직선으로 내리고 손바닥이 몸을 향하도록 하세요.",
+      "코어를 단단히 하고 덤벨을 가슴 쪽으로 위로 당기며 팔꿈치를 몸에 가깝게 유지하세요.",
+      "덤벨을 위로 당기면서 손바닥이 몸을 향하게 회전시키세요.",
+      "동작의 위쪽에서 어깨 뼈를 함께 조이세요.",
+      "천천히 덤벨을 시작 위치로 내리며 손바닥을 시작 위치로 다시 회전시키세요.",
+      "원하는 횟수만큼 반복하세요."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un haltère dans chaque main en prise pronation.",
+      "Penche-toi vers l'avant au niveau des hanches en gardant ton dos droit et tes genoux légèrement fléchis.",
+      "Laisse tes bras pendre droit vers le bas, les paumes tournées vers ton corps.",
+      "Gaine ta sangle abdominale et tire les haltères vers ta poitrine, en gardant tes coudes près de ton corps.",
+      "En tirant les haltères vers le haut, tourne tes paumes pour qu'elles soient tournées vers l'extérieur de ton corps.",
+      "Contracte tes omoplates l'une vers l'autre en haut du mouvement.",
+      "Abaisse lentement les haltères vers la position de départ, en tournant tes paumes vers la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "forearms"
+  ],
+  "target": "upper back",
+  "image": "images/1329-wt6rwjk.jpg",
+  "gif_url": "videos/1329-wt6rwjk.gif",
+  "media_id": "wt6rwjk",
+  "created_at": "2026-03-18T12:31:32.880416+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,113 @@
+{
+  "id": "0336",
+  "name": "dumbbell lunge",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand. Take a step forward with your right foot, lowering your body into a lunge position. Keep your back straight and your chest up as you lower your body. Push through your right heel to return to the starting position. Repeat with your left leg. Alternate legs for the desired number of repetitions.",
+    "it": "Stai con i piedi a larghezza delle spalle, tenendo un manubrio in ciascuna mano. Fai un passo avanti con il piede destro, abbassando il corpo in posizione di affondamento. Tieni la schiena dritta e il petto sollevato mentre abbassi il corpo. Spingi attraverso il tallone destro per tornare alla posizione di partenza. Ripeti con la gamba sinistra. Alterna le gambe per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız omuz genişliğinde açık, her iki elinizde de birer dambıl tutarak ayakta durun. Sağ ayağınızla öne doğru bir adım atın ve vücudunuzu hamle pozisyonuna indirin. Vücudunuzu indirirken sırtınızı düz ve göğsünüzü yukarıda tutun. Başlangıç ​​pozisyonuna dönmek için sağ topuğunuzu itin. Sol bacağınızla tekrarlayın. İstenilen tekrar sayısı için alternatif bacaklar.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros, sujetando una mancuerna en cada mano. Da un paso adelante con el pie derecho, bajando el cuerpo hasta una posición de zancada. Mantén la espalda recta y el pecho erguido mientras bajas el cuerpo. Empuja con el talón derecho para regresar a la posición inicial. Repite con la pierna izquierda. Alterna las piernas el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, держа в каждой руке по гантели. Сделайте шаг вперед правой ногой, опуская тело в положение выпада. При опускании тела держите спину прямо и грудь вверх. Оттолкнитесь правой пяткой, чтобы вернуться в исходное положение. Повторите с левой ногой. Чередуйте ноги необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，每只手各握一个哑铃。 右脚向前迈出一步，将身体降低至弓步位置。 降低身体时保持背部挺直、挺胸。 推动右脚跟回到起始位置。 左腿重复上述动作。 交替腿进行所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, प्रत्येक हाथ में डम्बल पकड़ें। अपने दाहिने पैर से एक कदम आगे बढ़ाएं, अपने शरीर को नीचे झुकाकर स्थिति में लाएं। अपने शरीर को नीचे करते समय अपनी पीठ सीधी और अपनी छाती ऊपर रखें। प्रारंभिक स्थिति में लौटने के लिए अपनी दाहिनी एड़ी को धक्का दें। अपने बाएँ पैर से दोहराएँ। दोहराव की वांछित संख्या के लिए पैरों को वैकल्पिक करें।",
+    "pl": "Stań w rozkroku na szerokość barków, trzymając hantle w obu rękach. Zrób krok w przód prawą nogą, opuszczając ciało do pozycji wypadu. Trzymaj proste plecy i uniesioną klatkę piersiową, opuszczając ciało. Odepchnij się prawą piętą, aby wrócić do pozycji wyjściowej. Powtórz z lewą nogą. Wykonuj naprzemiennie na obie nogi przez zalecaną liczbę powtórzeń.",
+    "ko": "어깨 너비만큼 발을 벌리고 각 손에 덤벨을 들어 시작합니다. 오른발을 앞으로 내딛으며 런지 자세로 몸을 낮춥니다. 등을 쭉 펴고 가슴을 펴면서 몸을 낮춥니다. 오른발 뒤꿈치를 통해 힘을 주어 시작 위치로 돌아옵니다. 왼발로 반복합니다. 양쪽 다리를 번갈아가며 원하는 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un haltère dans chaque main. Fais un pas en avant avec le pied droit, en abaissant ton corps en position de fente. Garde le dos droit et la poitrine relevée pendant que tu abaisses ton corps. Pousse à travers ton talon droit pour revenir à la position de départ. Répète avec ta jambe gauche. Alterne les jambes pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart, holding a dumbbell in each hand.",
+      "Take a step forward with your right foot, lowering your body into a lunge position.",
+      "Keep your back straight and your chest up as you lower your body.",
+      "Push through your right heel to return to the starting position.",
+      "Repeat with your left leg.",
+      "Alternate legs for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi a larghezza delle spalle, tenendo un manubrio in ciascuna mano.",
+      "Fai un passo avanti con il piede destro, abbassando il corpo in posizione di affondamento.",
+      "Tieni la schiena dritta e il petto sollevato mentre abbassi il corpo.",
+      "Spingi attraverso il tallone destro per tornare alla posizione di partenza.",
+      "Ripeti con la gamba sinistra.",
+      "Alterna le gambe per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık, her iki elinizde de birer dambıl tutarak ayakta durun.",
+      "Sağ ayağınızla öne doğru bir adım atın ve vücudunuzu hamle pozisyonuna indirin.",
+      "Vücudunuzu indirirken sırtınızı düz ve göğsünüzü yukarıda tutun.",
+      "Başlangıç ​​pozisyonuna dönmek için sağ topuğunuzu itin.",
+      "Sol bacağınızla tekrarlayın.",
+      "İstenilen tekrar sayısı için alternatif bacaklar."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros, sujetando una mancuerna en cada mano.",
+      "Da un paso adelante con el pie derecho, bajando el cuerpo hasta una posición de zancada.",
+      "Mantén la espalda recta y el pecho erguido mientras bajas el cuerpo.",
+      "Empuja con el talón derecho para regresar a la posición inicial.",
+      "Repite con la pierna izquierda.",
+      "Alterna las piernas el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, держа в каждой руке по гантели.",
+      "Сделайте шаг вперед правой ногой, опуская тело в положение выпада.",
+      "При опускании тела держите спину прямо и грудь вверх.",
+      "Оттолкнитесь правой пяткой, чтобы вернуться в исходное положение.",
+      "Повторите с левой ногой.",
+      "Чередуйте ноги необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，每只手各握一个哑铃。",
+      "右脚向前迈出一步，将身体降低至弓步位置。",
+      "降低身体时保持背部挺直、挺胸。",
+      "推动右脚跟回到起始位置。",
+      "左腿重复上述动作。",
+      "交替腿进行所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, प्रत्येक हाथ में डम्बल पकड़ें।",
+      "अपने दाहिने पैर से एक कदम आगे बढ़ाएं, अपने शरीर को नीचे झुकाकर स्थिति में लाएं।",
+      "अपने शरीर को नीचे करते समय अपनी पीठ सीधी और अपनी छाती ऊपर रखें।",
+      "प्रारंभिक स्थिति में लौटने के लिए अपनी दाहिनी एड़ी को धक्का दें।",
+      "अपने बाएँ पैर से दोहराएँ।",
+      "दोहराव की वांछित संख्या के लिए पैरों को वैकल्पिक करें।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków, trzymając hantle w obu rękach.",
+      "Zrób krok w przód prawą nogą, opuszczając ciało do pozycji wypadu.",
+      "Trzymaj proste plecy i uniesioną klatkę piersiową, opuszczając ciało.",
+      "Odepchnij się prawą piętą, aby wrócić do pozycji wyjściowej.",
+      "Powtórz z lewą nogą.",
+      "Wykonuj naprzemiennie na obie nogi przez zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "어깨 너비만큼 발을 벌리고 각 손에 덤벨을 들어 시작합니다.",
+      "오른발을 앞으로 내딛으며 런지 자세로 몸을 낮춥니다.",
+      "등을 쭉 펴고 가슴을 펴면서 몸을 낮춥니다.",
+      "오른발 뒤꿈치를 통해 힘을 주어 시작 위치로 돌아옵니다.",
+      "왼발로 반복합니다.",
+      "양쪽 다리를 번갈아가며 원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un haltère dans chaque main.",
+      "Fais un pas en avant avec le pied droit, en abaissant ton corps en position de fente.",
+      "Garde le dos droit et la poitrine relevée pendant que tu abaisses ton corps.",
+      "Pousse à travers ton talon droit pour revenir à la position de départ.",
+      "Répète avec ta jambe gauche.",
+      "Alterne les jambes pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "glutes",
+  "image": "images/0336-RRWFUcw.jpg",
+  "gif_url": "videos/0336-RRWFUcw.gif",
+  "media_id": "RRWFUcw",
+  "created_at": "2026-03-18T12:31:32.879172+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

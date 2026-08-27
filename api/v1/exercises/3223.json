@@ -1,0 +1,103 @@
+{
+  "id": "3223",
+  "name": "star jump (male)",
+  "category": "cardio",
+  "body_part": "cardio",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and your arms by your sides. Bend your knees slightly and jump up explosively. As you jump, spread your legs and extend your arms out to the sides, forming a star shape with your body. Land softly on the balls of your feet with your knees slightly bent. Repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi alla larghezza delle spalle e le braccia lungo i fianchi. Piega leggermente le ginocchia e salta in modo esplosivo. Mentre salti, allarga le gambe ed estendi le braccia ai lati, formando una forma a stella con il tuo corpo. Atterra dolcemente sulle punte dei piedi con le ginocchia leggermente piegate. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız omuz genişliğinde açık ve kollarınız yanlarınızda olacak şekilde ayakta durun. Dizlerinizi hafifçe bükün ve patlayıcı bir şekilde zıplayın. Zıplarken bacaklarınızı açın ve kollarınızı yanlara doğru uzatarak vücudunuzla bir yıldız şekli oluşturun. Dizleriniz hafifçe bükülmüş halde ayak parmaklarınızın üzerine yumuşak bir şekilde inin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y los brazos a los costados. Flexiona ligeramente las rodillas y salta hacia arriba de forma explosiva. Mientras saltas, separa las piernas y extiende los brazos hacia los lados, formando una figura de estrella con tu cuerpo. Aterriza suavemente sobre la punta de los pies con las rodillas ligeramente flexionadas. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, руки по бокам. Слегка согните колени и резко подпрыгните вверх. Во время прыжка раздвиньте ноги и вытяните руки в стороны, образуя своим телом звездообразную форму. Мягко приземлитесь на подушечки стоп, слегка согнув колени. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，双臂放在身体两侧。 稍微弯曲膝盖并爆发性地跳起来。 跳跃时，张开双腿，将手臂向两侧伸展，与身体形成星形。 膝盖轻轻弯曲，脚掌轻轻着地。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर और अपनी बांहों को बगल में रखकर खड़े हो जाएं। अपने घुटनों को थोड़ा मोड़ें और विस्फोटक तरीके से ऊपर कूदें। जैसे ही आप कूदते हैं, अपने पैरों को फैलाएं और अपनी भुजाओं को बगल की ओर फैलाएं, जिससे आपके शरीर के साथ एक तारे का आकार बन जाए। अपने घुटनों को थोड़ा मोड़कर अपने पैरों के पंजों पर धीरे से लैंड करें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań ze stopami rozstawionymi na szerokość barków i rękami wzdłuż ciała. Ugnij lekko kolana i wykonaj eksplozywny wyskok w górę. W trakcie skoku rozłóż nogi i wyciągnij ramiona na boki, tworząc ciałem kształt gwiazdy. Wyląduj miękko na palcach stóp z lekko ugiętymi kolanami. Powtórz zgodnie z żądaną liczbą powtórzeń.",
+    "ko": "발을 어깨너비로 벌리고 팔을 옆으로 내린 상태로 서 있습니다. 무릎을 약간 구부리고 폭발적으로 뛰어올립니다. 뛸 때 다리를 벌리고 팔을 옆으로 펼쳐 별 모양을 만듭니다. 발가락 공에 소리 없이 착지하며 무릎을 약간 구부린 상태로 내려옵니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et les bras le long du corps. Fléchis légèrement les genoux et saute vers le haut de façon explosive. En sautant, écarte tes jambes et étends tes bras sur les côtés, formant une étoile avec ton corps. Atterris en douceur sur la pointe des pieds, les genoux légèrement fléchis. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and your arms by your sides.",
+      "Bend your knees slightly and jump up explosively.",
+      "As you jump, spread your legs and extend your arms out to the sides, forming a star shape with your body.",
+      "Land softly on the balls of your feet with your knees slightly bent.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle e le braccia lungo i fianchi.",
+      "Piega leggermente le ginocchia e salta in modo esplosivo.",
+      "Mentre salti, allarga le gambe ed estendi le braccia ai lati, formando una forma a stella con il tuo corpo.",
+      "Atterra dolcemente sulle punte dei piedi con le ginocchia leggermente piegate.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık ve kollarınız yanlarınızda olacak şekilde ayakta durun.",
+      "Dizlerinizi hafifçe bükün ve patlayıcı bir şekilde zıplayın.",
+      "Zıplarken bacaklarınızı açın ve kollarınızı yanlara doğru uzatarak vücudunuzla bir yıldız şekli oluşturun.",
+      "Dizleriniz hafifçe bükülmüş halde ayak parmaklarınızın üzerine yumuşak bir şekilde inin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y los brazos a los costados.",
+      "Flexiona ligeramente las rodillas y salta hacia arriba de forma explosiva.",
+      "Mientras saltas, separa las piernas y extiende los brazos hacia los lados, formando una figura de estrella con tu cuerpo.",
+      "Aterriza suavemente sobre la punta de los pies con las rodillas ligeramente flexionadas.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, руки по бокам.",
+      "Слегка согните колени и резко подпрыгните вверх.",
+      "Во время прыжка раздвиньте ноги и вытяните руки в стороны, образуя своим телом звездообразную форму.",
+      "Мягко приземлитесь на подушечки стоп, слегка согнув колени.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，双臂放在身体两侧。",
+      "稍微弯曲膝盖并爆发性地跳起来。",
+      "跳跃时，张开双腿，将手臂向两侧伸展，与身体形成星形。",
+      "膝盖轻轻弯曲，脚掌轻轻着地。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर और अपनी बांहों को बगल में रखकर खड़े हो जाएं।",
+      "अपने घुटनों को थोड़ा मोड़ें और विस्फोटक तरीके से ऊपर कूदें।",
+      "जैसे ही आप कूदते हैं, अपने पैरों को फैलाएं और अपनी भुजाओं को बगल की ओर फैलाएं, जिससे आपके शरीर के साथ एक तारे का आकार बन जाए।",
+      "अपने घुटनों को थोड़ा मोड़कर अपने पैरों के पंजों पर धीरे से लैंड करें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań ze stopami rozstawionymi na szerokość barków i rękami wzdłuż ciała.",
+      "Ugnij lekko kolana i wykonaj eksplozywny wyskok w górę.",
+      "W trakcie skoku rozłóż nogi i wyciągnij ramiona na boki, tworząc ciałem kształt gwiazdy.",
+      "Wyląduj miękko na palcach stóp z lekko ugiętymi kolanami.",
+      "Powtórz zgodnie z żądaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨너비로 벌리고 팔을 옆으로 내린 상태로 서 있습니다.",
+      "무릎을 약간 구부리고 폭발적으로 뛰어올립니다.",
+      "뛸 때 다리를 벌리고 팔을 옆으로 펼쳐 별 모양을 만듭니다.",
+      "발가락 공에 소리 없이 착지하며 무릎을 약간 구부린 상태로 내려옵니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et les bras le long du corps.",
+      "Fléchis légèrement les genoux et saute vers le haut de façon explosive.",
+      "En sautant, écarte tes jambes et étends tes bras sur les côtés, formant une étoile avec ton corps.",
+      "Atterris en douceur sur la pointe des pieds, les genoux légèrement fléchis.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "cardiovascular system",
+  "image": "images/3223-HtfCpfi.jpg",
+  "gif_url": "videos/3223-HtfCpfi.gif",
+  "media_id": "HtfCpfi",
+  "created_at": "2026-03-18T12:31:32.891692+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

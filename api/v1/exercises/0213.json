@@ -1,0 +1,113 @@
+{
+  "id": "0213",
+  "name": "cable seated high row (v-bar)",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Sit on the cable machine with your feet flat on the floor and your knees slightly bent. Grasp the v-bar attachment with an overhand grip, palms facing each other, and your hands shoulder-width apart. Keep your back straight and lean slightly forward from the hips. Pull the v-bar towards your torso by retracting your shoulder blades and squeezing your back muscles. Pause for a moment at the peak of the contraction, then slowly release the tension and return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Siediti sulla macchina a cavo con i piedi piatti sul pavimento e le ginocchia leggermente piegate. Afferra l'attacco V-bar con una presa sopra la mano, palmi rivolti uno verso l'altro e mani alla larghezza delle spalle. Mantieni la schiena dritta e inclinati leggermente in avanti rispetto ai fianchi. Tira la V-bar verso il busto ritraendo le scapole e stringendo i muscoli della schiena. Fermati un attimo al picco della contrazione, poi rilassa lentamente la tensione e torna alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız yere düz basacak ve dizleriniz hafifçe bükülü olacak şekilde kablo makinesinin üzerine oturun. V-bar aparatını üstten kavrayarak, avuçlarınız birbirine bakacak şekilde ve elleriniz omuz genişliğinde açık olacak şekilde kavrayın. Sırtınızı düz tutun ve kalçanızdan hafifçe öne doğru eğilin. Kürek kemiklerinizi geri çekerek ve sırt kaslarınızı sıkarak v-bar'ı gövdenize doğru çekin. Kasılmanın zirvesinde bir an duraklayın, ardından yavaş yavaş gerilimi bırakın ve başlangıç ​​pozisyonuna dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Siéntate en la máquina de cable con los pies apoyados planos en el suelo y las rodillas ligeramente flexionadas. Sujeta el accesorio en V con un agarre prono, con las palmas una frente a la otra y las manos separadas a la altura de los hombros. Mantén la espalda recta e inclínate ligeramente hacia adelante desde las caderas. Jala el accesorio en V hacia el torso retrayendo los omóplatos y apretando los músculos de la espalda. Haz una pausa por un momento en el punto más alto de la contracción, luego libera lentamente la tensión y regresa a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Сядьте на канатный тренажер, поставьте ступни на пол и слегка согните колени. Возьмитесь за насадку V-образной перекладины хватом сверху, ладони обращены друг к другу, руки на ширине плеч. Держите спину прямо и слегка наклонитесь вперед от бедер. Потяните V-образную планку к туловищу, сводя лопатки и напрягая мышцы спины. Сделайте паузу на мгновение на пике сокращения, затем медленно ослабьте напряжение и вернитесь в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "坐在缆绳机上，双脚平放在地板上，膝盖稍微弯曲。 正手握住 V 形杆附件，手掌相对，双手与肩同宽。 保持背部挺直，并从臀部稍微向前倾斜。 通过收缩肩胛骨并挤压背部肌肉，将 V 形杆拉向躯干。 在收缩的顶峰停顿片刻，然后慢慢释放张力，回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को फर्श पर सपाट करके और अपने घुटनों को थोड़ा मोड़कर केबल मशीन पर बैठें। वी-बार अटैचमेंट को ओवरहैंड ग्रिप से पकड़ें, हथेलियाँ एक-दूसरे के सामने हों और आपके हाथ कंधे की चौड़ाई से अलग हों। अपनी पीठ सीधी रखें और कूल्हों से थोड़ा आगे की ओर झुकें। अपने कंधे के ब्लेड को पीछे खींचकर और अपनी पीठ की मांसपेशियों को निचोड़कर वी-बार को अपने धड़ की ओर खींचें। संकुचन के चरम पर एक पल के लिए रुकें, फिर धीरे-धीरे तनाव छोड़ें और प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Usiądź przy wyciągu, stopy płasko na podłodze, kolana lekko ugięte. Chwyć uchwyt w kształcie litery V nachwytem, dłonie zwrócone do siebie, rozstawione na szerokość barków. Trzymaj proste plecy i pochyl się lekko do przodu z bioder. Przyciągnij uchwyt do tułowia, cofając łopatki i napinając mięśnie pleców. Zatrzymaj się na moment w szczytowym punkcie napięcia, a następnie powoli zwolnij napięcie i wróć do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "케이블 머신에 앉아 발을 바닥에 평평하게 놓고 무릎을 약간 구부립니다. V바 어태치먼트를 오버그립으로 잡고 손가락이 서로를 향하며 손은 어깨너비만큼 벌립니다. 등을 곧게 펴고 엉덩이에서 약간 앞으로 기울입니다. V바를 몸통을 향해 당기면서 어깨 뼈를 뒤로 당기고 등 근육을 짜줍니다. 수축의 최고점에서 잠시 멈춘 후 천천히 긴장을 풀고 시작 위치로 돌아옵니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Assieds-toi sur la machine à câble, les pieds à plat sur le sol et les genoux légèrement fléchis. Saisis la poignée en V avec une prise en pronation, les paumes tournées l'une vers l'autre, et les mains écartées à la largeur des épaules. Garde le dos droit et penche-toi légèrement vers l'avant à partir des hanches. Tire la barre en V vers ton torse en rétractant tes omoplates et en contractant les muscles de ton dos. Marque une pause au sommet de la contraction, puis relâche lentement la tension et reviens à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on the cable machine with your feet flat on the floor and your knees slightly bent.",
+      "Grasp the v-bar attachment with an overhand grip, palms facing each other, and your hands shoulder-width apart.",
+      "Keep your back straight and lean slightly forward from the hips.",
+      "Pull the v-bar towards your torso by retracting your shoulder blades and squeezing your back muscles.",
+      "Pause for a moment at the peak of the contraction, then slowly release the tension and return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Siediti sulla macchina a cavo con i piedi piatti sul pavimento e le ginocchia leggermente piegate.",
+      "Afferra l'attacco V-bar con una presa sopra la mano, palmi rivolti uno verso l'altro e mani alla larghezza delle spalle.",
+      "Mantieni la schiena dritta e inclinati leggermente in avanti rispetto ai fianchi.",
+      "Tira la V-bar verso il busto ritraendo le scapole e stringendo i muscoli della schiena.",
+      "Fermati un attimo al picco della contrazione, poi rilassa lentamente la tensione e torna alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız yere düz basacak ve dizleriniz hafifçe bükülü olacak şekilde kablo makinesinin üzerine oturun.",
+      "V-bar aparatını üstten kavrayarak, avuçlarınız birbirine bakacak şekilde ve elleriniz omuz genişliğinde açık olacak şekilde kavrayın.",
+      "Sırtınızı düz tutun ve kalçanızdan hafifçe öne doğru eğilin.",
+      "Kürek kemiklerinizi geri çekerek ve sırt kaslarınızı sıkarak v-bar'ı gövdenize doğru çekin.",
+      "Kasılmanın zirvesinde bir an duraklayın, ardından yavaş yavaş gerilimi bırakın ve başlangıç ​​pozisyonuna dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Siéntate en la máquina de cable con los pies apoyados planos en el suelo y las rodillas ligeramente flexionadas.",
+      "Sujeta el accesorio en V con un agarre prono, con las palmas una frente a la otra y las manos separadas a la altura de los hombros.",
+      "Mantén la espalda recta e inclínate ligeramente hacia adelante desde las caderas.",
+      "Jala el accesorio en V hacia el torso retrayendo los omóplatos y apretando los músculos de la espalda.",
+      "Haz una pausa por un momento en el punto más alto de la contracción, luego libera lentamente la tensión y regresa a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на канатный тренажер, поставьте ступни на пол и слегка согните колени.",
+      "Возьмитесь за насадку V-образной перекладины хватом сверху, ладони обращены друг к другу, руки на ширине плеч.",
+      "Держите спину прямо и слегка наклонитесь вперед от бедер.",
+      "Потяните V-образную планку к туловищу, сводя лопатки и напрягая мышцы спины.",
+      "Сделайте паузу на мгновение на пике сокращения, затем медленно ослабьте напряжение и вернитесь в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "坐在缆绳机上，双脚平放在地板上，膝盖稍微弯曲。",
+      "正手握住 V 形杆附件，手掌相对，双手与肩同宽。",
+      "保持背部挺直，并从臀部稍微向前倾斜。",
+      "通过收缩肩胛骨并挤压背部肌肉，将 V 形杆拉向躯干。",
+      "在收缩的顶峰停顿片刻，然后慢慢释放张力，回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को फर्श पर सपाट करके और अपने घुटनों को थोड़ा मोड़कर केबल मशीन पर बैठें।",
+      "वी-बार अटैचमेंट को ओवरहैंड ग्रिप से पकड़ें, हथेलियाँ एक-दूसरे के सामने हों और आपके हाथ कंधे की चौड़ाई से अलग हों।",
+      "अपनी पीठ सीधी रखें और कूल्हों से थोड़ा आगे की ओर झुकें।",
+      "अपने कंधे के ब्लेड को पीछे खींचकर और अपनी पीठ की मांसपेशियों को निचोड़कर वी-बार को अपने धड़ की ओर खींचें।",
+      "संकुचन के चरम पर एक पल के लिए रुकें, फिर धीरे-धीरे तनाव छोड़ें और प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Usiądź przy wyciągu, stopy płasko na podłodze, kolana lekko ugięte.",
+      "Chwyć uchwyt w kształcie litery V nachwytem, dłonie zwrócone do siebie, rozstawione na szerokość barków.",
+      "Trzymaj proste plecy i pochyl się lekko do przodu z bioder.",
+      "Przyciągnij uchwyt do tułowia, cofając łopatki i napinając mięśnie pleców.",
+      "Zatrzymaj się na moment w szczytowym punkcie napięcia, a następnie powoli zwolnij napięcie i wróć do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "케이블 머신에 앉아 발을 바닥에 평평하게 놓고 무릎을 약간 구부립니다.",
+      "V바 어태치먼트를 오버그립으로 잡고 손가락이 서로를 향하며 손은 어깨너비만큼 벌립니다.",
+      "등을 곧게 펴고 엉덩이에서 약간 앞으로 기울입니다.",
+      "V바를 몸통을 향해 당기면서 어깨 뼈를 뒤로 당기고 등 근육을 짜줍니다.",
+      "수축의 최고점에서 잠시 멈춘 후 천천히 긴장을 풀고 시작 위치로 돌아옵니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Assieds-toi sur la machine à câble, les pieds à plat sur le sol et les genoux légèrement fléchis.",
+      "Saisis la poignée en V avec une prise en pronation, les paumes tournées l'une vers l'autre, et les mains écartées à la largeur des épaules.",
+      "Garde le dos droit et penche-toi légèrement vers l'avant à partir des hanches.",
+      "Tire la barre en V vers ton torse en rétractant tes omoplates et en contractant les muscles de ton dos.",
+      "Marque une pause au sommet de la contraction, puis relâche lentement la tension et reviens à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "rhomboids",
+    "rear deltoids"
+  ],
+  "target": "lats",
+  "image": "images/0213-pwt0pnM.jpg",
+  "gif_url": "videos/0213-pwt0pnM.gif",
+  "media_id": "pwt0pnM",
+  "created_at": "2026-03-18T12:31:32.875904+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

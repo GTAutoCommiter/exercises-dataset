@@ -1,0 +1,103 @@
+{
+  "id": "0068",
+  "name": "barbell one leg squat",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and hold a barbell across your upper back. Lift one foot off the ground and extend it forward, keeping it parallel to the ground. Bend your standing leg and lower your body down as if sitting back into a chair, keeping your chest up and your back straight. Lower yourself until your thigh is parallel to the ground, then push through your heel to return to the starting position. Repeat for the desired number of repetitions, then switch legs and repeat.",
+    "it": "Stai con i piedi alla larghezza delle spalle e tieni un bilanciere sulla parte superiore della schiena. Sollevare un piede da terra ed estenderlo in avanti, mantenendolo parallelo al suolo. Piega la gamba in piedi e abbassa il corpo come se fossi seduto su una sedia, mantenendo il petto sollevato e la schiena dritta. Abbassati finché la coscia non è parallela al suolo, quindi spingi il tallone per tornare alla posizione di partenza. Ripeti per il numero di ripetizioni desiderato, quindi cambia gamba e ripeti.",
+    "tr": "Ayaklarınızı omuz genişliğinde açın ve halteri sırtınızın üst kısmına doğru tutun. Bir ayağınızı yerden kaldırın ve yere paralel tutarak ileri doğru uzatın. Ayakta duran bacağınızı bükün ve sanki bir sandalyeye oturuyormuş gibi vücudunuzu aşağıya doğru indirin, göğsünüzü yukarıda ve sırtınızı dik tutun. Uyluğunuz yere paralel oluncaya kadar kendinizi indirin, ardından başlangıç ​​pozisyonuna dönmek için topuğunuzu itin. İstenilen tekrar sayısı kadar tekrarlayın, ardından bacak değiştirin ve tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y sujeta una barra sobre la parte superior de la espalda. Levanta un pie del suelo y extiéndelo hacia delante, manteniéndolo paralelo al suelo. Flexiona la pierna de apoyo y baja el cuerpo como si te sentaras en una silla, manteniendo el pecho elevado y la espalda recta. Baja hasta que el muslo quede paralelo al suelo, luego empuja con el talón para volver a la posición inicial. Repite el número de repeticiones deseado y luego cambia de pierna y repite.",
+    "ru": "Встаньте, ноги на ширине плеч, держите штангу на верхней части спины. Поднимите одну ногу от земли и вытяните ее вперед, удерживая параллельно земле. Согните стоящую ногу и опустите тело вниз, как будто садитесь на стул, держа грудь поднятой, а спину прямой. Опускайтесь до тех пор, пока бедро не станет параллельно земле, затем оттолкнитесь пяткой, чтобы вернуться в исходное положение. Повторите необходимое количество повторений, затем поменяйте ногу и повторите.",
+    "zh": "双脚分开与肩同宽站立，将杠铃放在上背部。 将一只脚抬离地面并向前伸展，保持与地面平行。 弯曲站立的腿，放低身体，就像坐回椅子上一样，保持挺胸、背部挺直。 降低身体直到大腿与地面平行，然后通过脚后跟推回到起始位置。 重复所需的重复次数，然后换腿并重复。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और अपनी पीठ के ऊपरी हिस्से पर एक बारबेल पकड़ें। एक पैर को जमीन से ऊपर उठाएं और इसे जमीन के समानांतर रखते हुए आगे की ओर फैलाएं। अपने खड़े पैर को मोड़ें और अपने शरीर को नीचे नीचे करें जैसे कि आप कुर्सी पर बैठे हों, अपनी छाती को ऊपर और अपनी पीठ को सीधा रखें। जब तक आपकी जांघ जमीन के समानांतर न हो जाए, तब तक अपने आप को नीचे रखें, फिर प्रारंभिक स्थिति में लौटने के लिए अपनी एड़ी से धक्का दें। दोहराव की वांछित संख्या के लिए दोहराएं, फिर पैर बदलें और दोहराएं।",
+    "pl": "Stań w rozkroku na szerokość barków, trzymając sztangę na górnej części pleców. Unieś jedną stopę z podłogi i wyciągnij ją do przodu, utrzymując równolegle do podłoża. Ugnij nogę podporową i opuść ciało, jakbyś siadał na krześle, utrzymując uniesioną klatkę piersiową i proste plecy. Opuszczaj się, aż udo będzie równoległe do podłoża, a następnie odepchnij się przez piętę, wracając do pozycji wyjściowej. Powtórz odpowiednią liczbę razy, a następnie zmień nogę i powtórz.",
+    "ko": "어깨너비로 발을 벌리고 바벨을 상부 등에 걸칩니다. 한발을 들어올려 지면과 평행하게 앞으로 펼칩니다. 서 있는 다리를 구부려 의자에 앉는 것처럼 몸을 내리되, 가슴은 위로 향하게 하고 등은 곧게 펴고 유지합니다. 허벅지가 지면과 평행할 때까지 내린 후 발뒤꿈치로 밀어 시작 위치로 돌아옵니다. 원하는 반복 횟수만큼 반복한 후 다리를 바꿉니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens une barre en travers du haut de ton dos. Décolle un pied du sol et étends-le vers l'avant, en le gardant parallèle au sol. Fléchis ta jambe d'appui et abaisse ton corps comme si tu t'asseyais sur une chaise, en gardant la poitrine relevée et le dos droit. Descends jusqu'à ce que ta cuisse soit parallèle au sol, puis pousse sur ton talon pour revenir à la position de départ. Répète le nombre de répétitions souhaité, puis change de jambe et recommence."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and hold a barbell across your upper back.",
+      "Lift one foot off the ground and extend it forward, keeping it parallel to the ground.",
+      "Bend your standing leg and lower your body down as if sitting back into a chair, keeping your chest up and your back straight.",
+      "Lower yourself until your thigh is parallel to the ground, then push through your heel to return to the starting position.",
+      "Repeat for the desired number of repetitions, then switch legs and repeat."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle e tieni un bilanciere sulla parte superiore della schiena.",
+      "Sollevare un piede da terra ed estenderlo in avanti, mantenendolo parallelo al suolo.",
+      "Piega la gamba in piedi e abbassa il corpo come se fossi seduto su una sedia, mantenendo il petto sollevato e la schiena dritta.",
+      "Abbassati finché la coscia non è parallela al suolo, quindi spingi il tallone per tornare alla posizione di partenza.",
+      "Ripeti per il numero di ripetizioni desiderato, quindi cambia gamba e ripeti."
+    ],
+    "tr": [
+      "Ayaklarınızı omuz genişliğinde açın ve halteri sırtınızın üst kısmına doğru tutun.",
+      "Bir ayağınızı yerden kaldırın ve yere paralel tutarak ileri doğru uzatın.",
+      "Ayakta duran bacağınızı bükün ve sanki bir sandalyeye oturuyormuş gibi vücudunuzu aşağıya doğru indirin, göğsünüzü yukarıda ve sırtınızı dik tutun.",
+      "Uyluğunuz yere paralel oluncaya kadar kendinizi indirin, ardından başlangıç ​​pozisyonuna dönmek için topuğunuzu itin.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından bacak değiştirin ve tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y sujeta una barra sobre la parte superior de la espalda.",
+      "Levanta un pie del suelo y extiéndelo hacia delante, manteniéndolo paralelo al suelo.",
+      "Flexiona la pierna de apoyo y baja el cuerpo como si te sentaras en una silla, manteniendo el pecho elevado y la espalda recta.",
+      "Baja hasta que el muslo quede paralelo al suelo, luego empuja con el talón para volver a la posición inicial.",
+      "Repite el número de repeticiones deseado y luego cambia de pierna y repite."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, держите штангу на верхней части спины.",
+      "Поднимите одну ногу от земли и вытяните ее вперед, удерживая параллельно земле.",
+      "Согните стоящую ногу и опустите тело вниз, как будто садитесь на стул, держа грудь поднятой, а спину прямой.",
+      "Опускайтесь до тех пор, пока бедро не станет параллельно земле, затем оттолкнитесь пяткой, чтобы вернуться в исходное положение.",
+      "Повторите необходимое количество повторений, затем поменяйте ногу и повторите."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，将杠铃放在上背部。",
+      "将一只脚抬离地面并向前伸展，保持与地面平行。",
+      "弯曲站立的腿，放低身体，就像坐回椅子上一样，保持挺胸、背部挺直。",
+      "降低身体直到大腿与地面平行，然后通过脚后跟推回到起始位置。",
+      "重复所需的重复次数，然后换腿并重复。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और अपनी पीठ के ऊपरी हिस्से पर एक बारबेल पकड़ें।",
+      "एक पैर को जमीन से ऊपर उठाएं और इसे जमीन के समानांतर रखते हुए आगे की ओर फैलाएं।",
+      "अपने खड़े पैर को मोड़ें और अपने शरीर को नीचे नीचे करें जैसे कि आप कुर्सी पर बैठे हों, अपनी छाती को ऊपर और अपनी पीठ को सीधा रखें।",
+      "जब तक आपकी जांघ जमीन के समानांतर न हो जाए, तब तक अपने आप को नीचे रखें, फिर प्रारंभिक स्थिति में लौटने के लिए अपनी एड़ी से धक्का दें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर पैर बदलें और दोहराएं।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków, trzymając sztangę na górnej części pleców.",
+      "Unieś jedną stopę z podłogi i wyciągnij ją do przodu, utrzymując równolegle do podłoża.",
+      "Ugnij nogę podporową i opuść ciało, jakbyś siadał na krześle, utrzymując uniesioną klatkę piersiową i proste plecy.",
+      "Opuszczaj się, aż udo będzie równoległe do podłoża, a następnie odepchnij się przez piętę, wracając do pozycji wyjściowej.",
+      "Powtórz odpowiednią liczbę razy, a następnie zmień nogę i powtórz."
+    ],
+    "ko": [
+      "어깨너비로 발을 벌리고 바벨을 상부 등에 걸칩니다.",
+      "한발을 들어올려 지면과 평행하게 앞으로 펼칩니다.",
+      "서 있는 다리를 구부려 의자에 앉는 것처럼 몸을 내리되, 가슴은 위로 향하게 하고 등은 곧게 펴고 유지합니다.",
+      "허벅지가 지면과 평행할 때까지 내린 후 발뒤꿈치로 밀어 시작 위치로 돌아옵니다.",
+      "원하는 반복 횟수만큼 반복한 후 다리를 바꿉니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens une barre en travers du haut de ton dos.",
+      "Décolle un pied du sol et étends-le vers l'avant, en le gardant parallèle au sol.",
+      "Fléchis ta jambe d'appui et abaisse ton corps comme si tu t'asseyais sur une chaise, en gardant la poitrine relevée et le dos droit.",
+      "Descends jusqu'à ce que ta cuisse soit parallèle au sol, puis pousse sur ton talon pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis change de jambe et recommence."
+    ]
+  },
+  "muscle_group": "glutes",
+  "secondary_muscles": [
+    "glutes",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "quads",
+  "image": "images/0068-uKyN64F.jpg",
+  "gif_url": "videos/0068-uKyN64F.gif",
+  "media_id": "uKyN64F",
+  "created_at": "2026-03-18T12:31:32.872129+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

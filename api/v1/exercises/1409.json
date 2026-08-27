@@ -1,0 +1,112 @@
+{
+  "id": "1409",
+  "name": "barbell glute bridge",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Start by lying flat on your back on the ground with your knees bent and feet flat on the floor. Place a barbell across your hips, holding it securely with both hands. Engage your glutes and core muscles, then lift your hips off the ground until your body forms a straight line from your knees to your shoulders. Pause for a moment at the top, squeezing your glutes. Slowly lower your hips back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Inizia sdraiandoti sulla schiena a terra con le ginocchia piegate e i piedi appoggiati sul pavimento. Posiziona un bilanciere sui fianchi, tenendolo saldamente con entrambe le mani. Coinvolgi i glutei e i muscoli centrali, quindi solleva i fianchi da terra finché il tuo corpo non forma una linea retta dalle ginocchia alle spalle. Fermati un attimo in alto, contraendo i glutei. Abbassa lentamente i fianchi fino alla posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Dizleriniz bükülmüş ve ayaklarınız yere düz basacak şekilde yere sırt üstü uzanarak başlayın. Kalçalarınızın üzerine bir halter yerleştirin ve iki elinizle güvenli bir şekilde tutun. Kalça kaslarınızı ve göbek kaslarınızı çalıştırın, ardından vücudunuz dizlerinizden omuzlarınıza kadar düz bir çizgi oluşturana kadar kalçalarınızı yerden kaldırın. Kalça kaslarınızı sıkarak tepede bir an duraklayın. Kalçalarınızı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Empieza tumbado boca arriba en el suelo con las rodillas flexionadas y los pies planos sobre el suelo. Coloca una barra sobre las caderas, sujetándola con firmeza con ambas manos. Activa los glúteos y el core, luego levanta las caderas del suelo hasta que el cuerpo forme una línea recta desde las rodillas hasta los hombros. Haz una pausa breve en la parte alta, apretando los glúteos. Baja lentamente las caderas de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Начните с того, что лягте на спину на землю, согните колени и поставьте ступни на пол. Положите штангу на бедра, крепко удерживая ее обеими руками. Задействуйте ягодицы и мышцы корпуса, затем поднимите бедра от земли, пока ваше тело не образует прямую линию от колен до плеч. Задержитесь на мгновение в верхней точке, напрягая ягодицы. Медленно опустите бедра обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "首先平躺在地上，膝盖弯曲，双脚平放在地板上。 将杠铃放在臀部上，用双手牢牢握住它。 锻炼臀部和核心肌肉，然后将臀部抬离地面，直到身体从膝盖到肩膀形成一条直线。 在顶部暂停片刻，挤压臀部。 慢慢地将臀部放回起始位置。 重复所需的重复次数。",
+    "hi": "अपने घुटनों को मोड़कर और पैरों को फर्श पर सपाट रखते हुए, अपनी पीठ के बल जमीन पर लेटकर शुरुआत करें। अपने कूल्हों पर एक बारबेल रखें, इसे दोनों हाथों से सुरक्षित रूप से पकड़ें। अपने ग्लूट्स और कोर की मांसपेशियों को शामिल करें, फिर अपने कूल्हों को ज़मीन से ऊपर उठाएं जब तक कि आपका शरीर आपके घुटनों से आपके कंधों तक एक सीधी रेखा न बना ले। शीर्ष पर एक पल के लिए रुकें, अपने ग्लूट्स को निचोड़ें। धीरे-धीरे अपने कूल्हों को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Połóż się płasko na plecach na podłodze, kolana ugięte, a stopy oparte płasko na podłodze. Umieść sztangę na biodrach, trzymając ją pewnie obiema rękami. Napnij pośladki i mięśnie tułowia, a następnie unieś biodra z podłogi, aż ciało utworzy prostą linię od kolan do barków. Zatrzymaj się na chwilę na górze, ściskając pośladki. Powoli opuść biodra z powrotem do pozycji wyjściowej. Powtórz odpowiednią liczbę razy.",
+    "ko": "바닥에 누워 무릎을 구부리고 발을 바닥에 디딤니다. 바벨을 허리에 걸쳐놓고 양손으로 안정적으로 잡습니다. 둔근과 복부에 힘을 주고 바닥에서 허리를 들어올려 몸이 무릎부터 어깨까지 일직선을 이루도록 합니다. 맨 위에서 잠시 멈춘 후 둔근을 꽉 조입니다. 천천히 허리를 바닥으로 내립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Commence allongé sur le dos sur le sol, les genoux fléchis et les pieds à plat sur le sol. Place une barre sur tes hanches, en la tenant fermement des deux mains. Contracte tes fessiers et tes muscles abdominaux, puis soulève tes hanches du sol jusqu'à ce que ton corps forme une ligne droite de tes genoux à tes épaules. Marque une pause en haut, en contractant tes fessiers. Abaisse lentement tes hanches vers la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start by lying flat on your back on the ground with your knees bent and feet flat on the floor.",
+      "Place a barbell across your hips, holding it securely with both hands.",
+      "Engage your glutes and core muscles, then lift your hips off the ground until your body forms a straight line from your knees to your shoulders.",
+      "Pause for a moment at the top, squeezing your glutes.",
+      "Slowly lower your hips back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia sdraiandoti sulla schiena a terra con le ginocchia piegate e i piedi appoggiati sul pavimento.",
+      "Posiziona un bilanciere sui fianchi, tenendolo saldamente con entrambe le mani.",
+      "Coinvolgi i glutei e i muscoli centrali, quindi solleva i fianchi da terra finché il tuo corpo non forma una linea retta dalle ginocchia alle spalle.",
+      "Fermati un attimo in alto, contraendo i glutei.",
+      "Abbassa lentamente i fianchi fino alla posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Dizleriniz bükülmüş ve ayaklarınız yere düz basacak şekilde yere sırt üstü uzanarak başlayın.",
+      "Kalçalarınızın üzerine bir halter yerleştirin ve iki elinizle güvenli bir şekilde tutun.",
+      "Kalça kaslarınızı ve göbek kaslarınızı çalıştırın, ardından vücudunuz dizlerinizden omuzlarınıza kadar düz bir çizgi oluşturana kadar kalçalarınızı yerden kaldırın.",
+      "Kalça kaslarınızı sıkarak tepede bir an duraklayın.",
+      "Kalçalarınızı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Empieza tumbado boca arriba en el suelo con las rodillas flexionadas y los pies planos sobre el suelo.",
+      "Coloca una barra sobre las caderas, sujetándola con firmeza con ambas manos.",
+      "Activa los glúteos y el core, luego levanta las caderas del suelo hasta que el cuerpo forme una línea recta desde las rodillas hasta los hombros.",
+      "Haz una pausa breve en la parte alta, apretando los glúteos.",
+      "Baja lentamente las caderas de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с того, что лягте на спину на землю, согните колени и поставьте ступни на пол.",
+      "Положите штангу на бедра, крепко удерживая ее обеими руками.",
+      "Задействуйте ягодицы и мышцы корпуса, затем поднимите бедра от земли, пока ваше тело не образует прямую линию от колен до плеч.",
+      "Задержитесь на мгновение в верхней точке, напрягая ягодицы.",
+      "Медленно опустите бедра обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "首先平躺在地上，膝盖弯曲，双脚平放在地板上。",
+      "将杠铃放在臀部上，用双手牢牢握住它。",
+      "锻炼臀部和核心肌肉，然后将臀部抬离地面，直到身体从膝盖到肩膀形成一条直线。",
+      "在顶部暂停片刻，挤压臀部。",
+      "慢慢地将臀部放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने घुटनों को मोड़कर और पैरों को फर्श पर सपाट रखते हुए, अपनी पीठ के बल जमीन पर लेटकर शुरुआत करें।",
+      "अपने कूल्हों पर एक बारबेल रखें, इसे दोनों हाथों से सुरक्षित रूप से पकड़ें।",
+      "अपने ग्लूट्स और कोर की मांसपेशियों को शामिल करें, फिर अपने कूल्हों को ज़मीन से ऊपर उठाएं जब तक कि आपका शरीर आपके घुटनों से आपके कंधों तक एक सीधी रेखा न बना ले।",
+      "शीर्ष पर एक पल के लिए रुकें, अपने ग्लूट्स को निचोड़ें।",
+      "धीरे-धीरे अपने कूल्हों को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Połóż się płasko na plecach na podłodze, kolana ugięte, a stopy oparte płasko na podłodze.",
+      "Umieść sztangę na biodrach, trzymając ją pewnie obiema rękami.",
+      "Napnij pośladki i mięśnie tułowia, a następnie unieś biodra z podłogi, aż ciało utworzy prostą linię od kolan do barków.",
+      "Zatrzymaj się na chwilę na górze, ściskając pośladki.",
+      "Powoli opuść biodra z powrotem do pozycji wyjściowej.",
+      "Powtórz odpowiednią liczbę razy."
+    ],
+    "ko": [
+      "바닥에 누워 무릎을 구부리고 발을 바닥에 디딤니다.",
+      "바벨을 허리에 걸쳐놓고 양손으로 안정적으로 잡습니다.",
+      "둔근과 복부에 힘을 주고 바닥에서 허리를 들어올려 몸이 무릎부터 어깨까지 일직선을 이루도록 합니다.",
+      "맨 위에서 잠시 멈춘 후 둔근을 꽉 조입니다.",
+      "천천히 허리를 바닥으로 내립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Commence allongé sur le dos sur le sol, les genoux fléchis et les pieds à plat sur le sol.",
+      "Place une barre sur tes hanches, en la tenant fermement des deux mains.",
+      "Contracte tes fessiers et tes muscles abdominaux, puis soulève tes hanches du sol jusqu'à ce que ton corps forme une ligne droite de tes genoux à tes épaules.",
+      "Marque une pause en haut, en contractant tes fessiers.",
+      "Abaisse lentement tes hanches vers la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings",
+    "lower back"
+  ],
+  "target": "glutes",
+  "image": "images/1409-qKBpF7I.jpg",
+  "gif_url": "videos/1409-qKBpF7I.gif",
+  "media_id": "qKBpF7I",
+  "created_at": "2026-03-18T12:31:32.871614+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

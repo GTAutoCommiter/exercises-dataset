@@ -1,0 +1,102 @@
+{
+  "id": "1281",
+  "name": "dumbbell incline one arm press",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Sit on an incline bench with a dumbbell in one hand, resting on your thigh. Lie back on the bench and position the dumbbell at shoulder level, palm facing forward. Press the dumbbell upward and slightly inward, extending your arm fully. Pause for a moment at the top, then slowly lower the dumbbell back to the starting position. Repeat for the desired number of repetitions, then switch to the other arm.",
+    "it": "Siediti su una panchina inclinata con un manubrio in una mano, appoggiato sulla coscia. Sdraiati sulla panca e posiziona il manubrio all'altezza delle spalle, palmo rivolto in avanti. Premi il manubrio verso l'alto e leggermente verso l'interno, estendendo completamente il braccio. Fermati un attimo in cima, poi abbassa lentamente il manubrio alla posizione di partenza. Ripeti per il numero desiderato di ripetizioni, poi passa all'altro braccio.",
+    "tr": "Bir elinizde bir dambıl olacak şekilde eğimli bir bankta oturun ve uyluğunuzun üzerine yaslanın. Bankta arkanıza yaslanın ve dambılı omuz hizasında, avuç içi öne bakacak şekilde konumlandırın. Kolunuzu tamamen uzatarak dambılı yukarı ve hafifçe içe doğru bastırın. Tepe noktasında bir süre duraklayın, ardından dambılı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen tekrar sayısı kadar tekrarlayın, ardından diğer kola geçin.",
+    "es": "Siéntate en un banco inclinado con una mancuerna en una mano, apoyada sobre el muslo. Recuéstate en el banco y coloca la mancuerna a la altura del hombro, con la palma hacia adelante. Empuja la mancuerna hacia arriba y ligeramente hacia adentro, extendiendo completamente el brazo. Haz una pausa breve en la parte más alta, luego baja lentamente la mancuerna de vuelta a la posición inicial. Repite el número de repeticiones deseado, luego cambia al otro brazo.",
+    "ru": "Сядьте на наклонную скамью с гантелью в одной руке, положив ее на бедро. Лягте на скамью и расположите гантель на уровне плеч ладонью вперед. Нажмите гантель вверх и слегка внутрь, полностью выпрямляя руку. Задержитесь на мгновение в верхней точке, затем медленно опустите гантель обратно в исходное положение. Повторите желаемое количество повторений, затем переключитесь на другую руку.",
+    "zh": "坐在上斜凳上，一只手拿着哑铃，放在大腿上。 仰卧在长凳上，将哑铃置于与肩同高的位置，手掌朝前。 将哑铃向上并稍微向内推，充分伸展手臂。 在最高点暂停片刻，然后慢慢将哑铃放回起始位置。 重复所需的重复次数，然后换到另一只手臂。",
+    "hi": "एक हाथ में डम्बल लेकर अपनी जांघ पर आराम करते हुए एक झुकी हुई बेंच पर बैठें। बेंच पर पीठ के बल लेट जाएं और डंबल को कंधे के स्तर पर रखें, हथेली आगे की ओर हो। अपनी बांह को पूरी तरह फैलाते हुए डंबल को ऊपर और थोड़ा अंदर की ओर दबाएं। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे डम्बल को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएं, फिर दूसरे हाथ पर स्विच करें।",
+    "pl": "Usiądź na ławce skośnej, trzymając hantlę w jednej ręce opartą na udzie. Połóż się na ławce i ustaw hantlę na wysokości barku, dłoń skierowana do przodu. Wypchnij hantlę w górę i lekko do wewnątrz, w pełni prostując ramię. Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść hantlę do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń, następnie zmień ramię.",
+    "ko": "인클라인 벤치에 앉아 한손에 덤벨을 들고 허벅지에 얹습니다. 벤치에 누워 덤벨을 어깨 높이에 위치시키고 손바닥이 앞을 향하도록 합니다. 덤벨을 위로 약간 안쪽으로 눌러 팔을 완전히 펵니다. 최상단에서 잠시 멈춘 후 천천히 덤벨을 시작 위치로 내립니다. 원하는 반복 횟수만큼 반복한 후 다른 팔로 바꿉니다.",
+    "fr": "Assieds-toi sur un banc incliné avec un haltère dans une main, posé sur ta cuisse. Allonge-toi sur le dos sur le banc et positionne l'haltère à hauteur d'épaule, paume tournée vers l'avant. Pousse l'haltère vers le haut et légèrement vers l'intérieur, en tendant complètement ton bras. Marque une pause en haut, puis abaisse lentement l'haltère pour revenir à la position de départ. Répète le nombre de répétitions souhaité, puis passe à l'autre bras."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on an incline bench with a dumbbell in one hand, resting on your thigh.",
+      "Lie back on the bench and position the dumbbell at shoulder level, palm facing forward.",
+      "Press the dumbbell upward and slightly inward, extending your arm fully.",
+      "Pause for a moment at the top, then slowly lower the dumbbell back to the starting position.",
+      "Repeat for the desired number of repetitions, then switch to the other arm."
+    ],
+    "it": [
+      "Siediti su una panchina inclinata con un manubrio in una mano, appoggiato sulla coscia.",
+      "Sdraiati sulla panca e posiziona il manubrio all'altezza delle spalle, palmo rivolto in avanti.",
+      "Premi il manubrio verso l'alto e leggermente verso l'interno, estendendo completamente il braccio.",
+      "Fermati un attimo in cima, poi abbassa lentamente il manubrio alla posizione di partenza.",
+      "Ripeti per il numero desiderato di ripetizioni, poi passa all'altro braccio."
+    ],
+    "tr": [
+      "Bir elinizde bir dambıl olacak şekilde eğimli bir bankta oturun ve uyluğunuzun üzerine yaslanın.",
+      "Bankta arkanıza yaslanın ve dambılı omuz hizasında, avuç içi öne bakacak şekilde konumlandırın.",
+      "Kolunuzu tamamen uzatarak dambılı yukarı ve hafifçe içe doğru bastırın.",
+      "Tepe noktasında bir süre duraklayın, ardından dambılı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından diğer kola geçin."
+    ],
+    "es": [
+      "Siéntate en un banco inclinado con una mancuerna en una mano, apoyada sobre el muslo.",
+      "Recuéstate en el banco y coloca la mancuerna a la altura del hombro, con la palma hacia adelante.",
+      "Empuja la mancuerna hacia arriba y ligeramente hacia adentro, extendiendo completamente el brazo.",
+      "Haz una pausa breve en la parte más alta, luego baja lentamente la mancuerna de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado, luego cambia al otro brazo."
+    ],
+    "ru": [
+      "Сядьте на наклонную скамью с гантелью в одной руке, положив ее на бедро.",
+      "Лягте на скамью и расположите гантель на уровне плеч ладонью вперед.",
+      "Нажмите гантель вверх и слегка внутрь, полностью выпрямляя руку.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите гантель обратно в исходное положение.",
+      "Повторите желаемое количество повторений, затем переключитесь на другую руку."
+    ],
+    "zh": [
+      "坐在上斜凳上，一只手拿着哑铃，放在大腿上。",
+      "仰卧在长凳上，将哑铃置于与肩同高的位置，手掌朝前。",
+      "将哑铃向上并稍微向内推，充分伸展手臂。",
+      "在最高点暂停片刻，然后慢慢将哑铃放回起始位置。",
+      "重复所需的重复次数，然后换到另一只手臂。"
+    ],
+    "hi": [
+      "एक हाथ में डम्बल लेकर अपनी जांघ पर आराम करते हुए एक झुकी हुई बेंच पर बैठें।",
+      "बेंच पर पीठ के बल लेट जाएं और डंबल को कंधे के स्तर पर रखें, हथेली आगे की ओर हो।",
+      "अपनी बांह को पूरी तरह फैलाते हुए डंबल को ऊपर और थोड़ा अंदर की ओर दबाएं।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे डम्बल को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर दूसरे हाथ पर स्विच करें।"
+    ],
+    "pl": [
+      "Usiądź na ławce skośnej, trzymając hantlę w jednej ręce opartą na udzie.",
+      "Połóż się na ławce i ustaw hantlę na wysokości barku, dłoń skierowana do przodu.",
+      "Wypchnij hantlę w górę i lekko do wewnątrz, w pełni prostując ramię.",
+      "Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść hantlę do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń, następnie zmień ramię."
+    ],
+    "ko": [
+      "인클라인 벤치에 앉아 한손에 덤벨을 들고 허벅지에 얹습니다.",
+      "벤치에 누워 덤벨을 어깨 높이에 위치시키고 손바닥이 앞을 향하도록 합니다.",
+      "덤벨을 위로 약간 안쪽으로 눌러 팔을 완전히 펵니다.",
+      "최상단에서 잠시 멈춘 후 천천히 덤벨을 시작 위치로 내립니다.",
+      "원하는 반복 횟수만큼 반복한 후 다른 팔로 바꿉니다."
+    ],
+    "fr": [
+      "Assieds-toi sur un banc incliné avec un haltère dans une main, posé sur ta cuisse.",
+      "Allonge-toi sur le dos sur le banc et positionne l'haltère à hauteur d'épaule, paume tournée vers l'avant.",
+      "Pousse l'haltère vers le haut et légèrement vers l'intérieur, en tendant complètement ton bras.",
+      "Marque une pause en haut, puis abaisse lentement l'haltère pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis passe à l'autre bras."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "target": "pectorals",
+  "image": "images/1281-rDAiRf9.jpg",
+  "gif_url": "videos/1281-rDAiRf9.gif",
+  "media_id": "rDAiRf9",
+  "created_at": "2026-03-18T12:31:32.878806+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

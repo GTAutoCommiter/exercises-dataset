@@ -1,0 +1,102 @@
+{
+  "id": "3315",
+  "name": "full maltese",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Start by standing with your feet shoulder-width apart and your arms extended straight out to the sides. Slowly lean forward, keeping your arms straight, until your upper body is parallel to the ground. Engage your core and hold this position for a few seconds. Return to the starting position by pushing through your feet and standing back up. Repeat for the desired number of repetitions.",
+    "it": "Inizia stando in piedi con i piedi alla larghezza delle spalle e le braccia distese verso i lati. Piegati lentamente in avanti, mantenendo le braccia tese, finché la parte superiore del corpo non sarà parallela al suolo. Coinvolgi il tuo core e mantieni questa posizione per alcuni secondi. Ritorna alla posizione di partenza spingendo con i piedi e rialzandoti. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız omuz genişliğinde açık ve kollarınız yanlara doğru uzatılmış şekilde ayakta durmaya başlayın. Üst vücudunuz yere paralel oluncaya kadar kollarınızı düz tutarak yavaşça öne doğru eğin. Merkez bölgenizi devreye sokun ve bu pozisyonu birkaç saniye basılı tutun. Ayaklarınızı iterek ve ayağa kalkarak başlangıç ​​pozisyonuna dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Comienza de pie con los pies separados a la altura de los hombros y los brazos extendidos rectos hacia los lados. Inclínate lentamente hacia adelante, manteniendo los brazos rectos, hasta que la parte superior del cuerpo quede paralela al suelo. Activa el core y mantén esta posición durante unos segundos. Regresa a la posición inicial empujando con los pies y volviendo a ponerte de pie. Repite el número de repeticiones deseado.",
+    "ru": "Начните с того, что встаньте, поставив ноги на ширине плеч и вытянув руки в стороны. Медленно наклонитесь вперед, держа руки прямыми, пока верхняя часть тела не станет параллельна земле. Напрягите корпус и удерживайте это положение в течение нескольких секунд. Вернитесь в исходное положение, оттолкнувшись ногами и снова встав. Повторите необходимое количество повторений.",
+    "zh": "首先站立，双脚分开与肩同宽，双臂伸直至两侧。 慢慢向前倾斜，保持手臂伸直，直到上半身与地面平行。 启动你的核心并保持这个姿势几秒钟。 通过双脚推动并站起来，回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर और अपनी बाहों को बगल की ओर सीधा फैलाकर खड़े होकर शुरुआत करें। अपनी भुजाओं को सीधा रखते हुए धीरे-धीरे आगे की ओर झुकें, जब तक कि आपका ऊपरी शरीर ज़मीन के समानांतर न हो जाए। अपने कोर को संलग्न करें और कुछ सेकंड के लिए इस स्थिति में रहें। अपने पैरों से धक्का देकर और वापस खड़े होकर प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Zacznij, stojąc ze stopami na szerokość barków, a ramiona wyciągnięte prosto na boki. Powoli pochylaj się do przodu, trzymając ramiona proste, aż górna część ciała będzie równoległa do podłogi. Napnij mięśnie brzucha i przytrzymaj tę pozycję przez kilka sekund. Wróć do pozycji wyjściowej, odpychając się stopami i wracając do pozycji stojącej. Powtórz zalecaną liczbę razy.",
+    "ko": "발을 어깨너비로 벌리고 팔을 양옆으로 쭉 펼쳐 서서 시작합니다. 팔을 펴고 상체가 바닥과 평행이 될 때까지 천천히 앞으로 기울입니다. 복부를 조여 이 자세를 몇 초간 유지합니다. 발로 밀어 일어나 시작 위치로 돌아갑니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Commence debout, les pieds écartés à la largeur des épaules et les bras tendus droit sur les côtés. Penche-toi lentement vers l'avant, en gardant tes bras tendus, jusqu'à ce que le haut de ton corps soit parallèle au sol. Gaine ta sangle abdominale et maintiens cette position pendant quelques secondes. Reviens à la position de départ en poussant sur tes pieds et en te relevant. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start by standing with your feet shoulder-width apart and your arms extended straight out to the sides.",
+      "Slowly lean forward, keeping your arms straight, until your upper body is parallel to the ground.",
+      "Engage your core and hold this position for a few seconds.",
+      "Return to the starting position by pushing through your feet and standing back up.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia stando in piedi con i piedi alla larghezza delle spalle e le braccia distese verso i lati.",
+      "Piegati lentamente in avanti, mantenendo le braccia tese, finché la parte superiore del corpo non sarà parallela al suolo.",
+      "Coinvolgi il tuo core e mantieni questa posizione per alcuni secondi.",
+      "Ritorna alla posizione di partenza spingendo con i piedi e rialzandoti.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık ve kollarınız yanlara doğru uzatılmış şekilde ayakta durmaya başlayın.",
+      "Üst vücudunuz yere paralel oluncaya kadar kollarınızı düz tutarak yavaşça öne doğru eğin.",
+      "Merkez bölgenizi devreye sokun ve bu pozisyonu birkaç saniye basılı tutun.",
+      "Ayaklarınızı iterek ve ayağa kalkarak başlangıç ​​pozisyonuna dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Comienza de pie con los pies separados a la altura de los hombros y los brazos extendidos rectos hacia los lados.",
+      "Inclínate lentamente hacia adelante, manteniendo los brazos rectos, hasta que la parte superior del cuerpo quede paralela al suelo.",
+      "Activa el core y mantén esta posición durante unos segundos.",
+      "Regresa a la posición inicial empujando con los pies y volviendo a ponerte de pie.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с того, что встаньте, поставив ноги на ширине плеч и вытянув руки в стороны.",
+      "Медленно наклонитесь вперед, держа руки прямыми, пока верхняя часть тела не станет параллельна земле.",
+      "Напрягите корпус и удерживайте это положение в течение нескольких секунд.",
+      "Вернитесь в исходное положение, оттолкнувшись ногами и снова встав.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "首先站立，双脚分开与肩同宽，双臂伸直至两侧。",
+      "慢慢向前倾斜，保持手臂伸直，直到上半身与地面平行。",
+      "启动你的核心并保持这个姿势几秒钟。",
+      "通过双脚推动并站起来，回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर और अपनी बाहों को बगल की ओर सीधा फैलाकर खड़े होकर शुरुआत करें।",
+      "अपनी भुजाओं को सीधा रखते हुए धीरे-धीरे आगे की ओर झुकें, जब तक कि आपका ऊपरी शरीर ज़मीन के समानांतर न हो जाए।",
+      "अपने कोर को संलग्न करें और कुछ सेकंड के लिए इस स्थिति में रहें।",
+      "अपने पैरों से धक्का देकर और वापस खड़े होकर प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Zacznij, stojąc ze stopami na szerokość barków, a ramiona wyciągnięte prosto na boki.",
+      "Powoli pochylaj się do przodu, trzymając ramiona proste, aż górna część ciała będzie równoległa do podłogi.",
+      "Napnij mięśnie brzucha i przytrzymaj tę pozycję przez kilka sekund.",
+      "Wróć do pozycji wyjściowej, odpychając się stopami i wracając do pozycji stojącej.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "발을 어깨너비로 벌리고 팔을 양옆으로 쭉 펼쳐 서서 시작합니다.",
+      "팔을 펴고 상체가 바닥과 평행이 될 때까지 천천히 앞으로 기울입니다.",
+      "복부를 조여 이 자세를 몇 초간 유지합니다.",
+      "발로 밀어 일어나 시작 위치로 돌아갑니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Commence debout, les pieds écartés à la largeur des épaules et les bras tendus droit sur les côtés.",
+      "Penche-toi lentement vers l'avant, en gardant tes bras tendus, jusqu'à ce que le haut de ton corps soit parallèle au sol.",
+      "Gaine ta sangle abdominale et maintiens cette position pendant quelques secondes.",
+      "Reviens à la position de départ en poussant sur tes pieds et en te relevant.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "chest"
+  ],
+  "target": "abs",
+  "image": "images/3315-YRaCa5Y.jpg",
+  "gif_url": "videos/3315-YRaCa5Y.gif",
+  "media_id": "YRaCa5Y",
+  "created_at": "2026-03-18T12:31:32.883815+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

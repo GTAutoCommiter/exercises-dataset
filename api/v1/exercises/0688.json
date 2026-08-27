@@ -1,0 +1,103 @@
+{
+  "id": "0688",
+  "name": "scapular pull-up",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Start by hanging from a pull-up bar with your palms facing away from you and your arms fully extended. Retract your shoulder blades by pulling them down and back. Engage your back muscles and pull your body up towards the bar, focusing on squeezing your shoulder blades together. Pause for a moment at the top of the movement, then slowly lower your body back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Inizia appendendoti a una barra per trazioni con i palmi delle mani rivolti lontano da te e le braccia completamente distese. Ritira le scapole tirandole verso il basso e all'indietro. Coinvolgi i muscoli della schiena e solleva il corpo verso la barra, concentrandoti sulla contrazione delle scapole. Fai una pausa per un momento nella parte superiore del movimento, quindi abbassa lentamente il corpo fino alla posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Avuç içleriniz sizden uzağa bakacak şekilde ve kollarınız tamamen uzatılmış halde bir barfiks çubuğuna asılarak başlayın. Kürek kemiklerinizi aşağı ve geriye doğru çekerek geri çekin. Sırt kaslarınızı devreye sokun ve kürek kemiklerinizi birbirine sıkıştırmaya odaklanarak vücudunuzu bara doğru yukarı çekin. Hareketin en üst noktasında bir süre duraklayın, ardından vücudunuzu yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Comienza colgándote de una barra de dominadas con las palmas hacia afuera y los brazos completamente extendidos. Retrae las escápulas llevándolas hacia abajo y atrás. Activa los músculos de la espalda y tira de tu cuerpo hacia la barra, enfocándote en juntar las escápulas. Haz una pausa breve en la parte superior del movimiento, luego baja lentamente el cuerpo de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Начните с подвешивания на перекладине, повернув ладони от себя и полностью вытянув руки. Втяните лопатки, потянув их вниз и назад. Напрягите мышцы спины и подтяните тело к перекладине, стараясь свести лопатки вместе. Сделайте паузу на мгновение в верхней точке движения, затем медленно опустите тело обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "首先悬挂在引体向上杆上，手掌背向自己，手臂完全伸展。 通过向下拉和向后拉动肩胛骨来缩回肩胛骨。 启动背部肌肉，将身体拉向杠铃杆，重点是将肩胛骨挤压在一起。 在动作的最高点停顿片刻，然后慢慢降低身体回到起始位置。 重复所需的重复次数。",
+    "hi": "अपनी हथेलियों को आपसे दूर की ओर रखते हुए और अपनी बाहों को पूरी तरह फैलाकर एक पुल-अप बार से लटककर शुरुआत करें। अपने कंधे के ब्लेडों को नीचे और पीछे खींचकर पीछे खींचें। अपनी पीठ की मांसपेशियों को संलग्न करें और अपने शरीर को बार की ओर ऊपर खींचें, अपने कंधे के ब्लेड को एक साथ निचोड़ने पर ध्यान केंद्रित करें। गति के शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने शरीर को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Rozpocznij, zwisając na drążku do podciągania, dłońmi skierowanymi od siebie i rękami w pełni wyprostowanymi. Cofnij łopatki, ściągając je w dół i do tyłu. Napnij mięśnie pleców i podciągnij ciało w kierunku drążka, skupiając się na ściśnięciu łopatek. Zatrzymaj się na chwilę na szczycie ruchu, a następnie powoli opuść ciało z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę razy.",
+    "ko": "풀업 바에 매달려 손바닥이 몸을 향하게 하고 팔을 완전히 펼칩니다. 어깨 견갑골을 아래로 그리고 뒤로 당겨서 수축시킵니다. 등 근육을 수축시키고 몸을 바를 향해 올려가며 견갑골을 함께 짜내는 데 집중합니다. 동작의 최상단에서 잠시 멈춘 후 천천히 몸을 시작 위치로 내려갑니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Commence suspendu à une barre de traction, les paumes tournées vers l'extérieur et les bras complètement tendus. Rétracte tes omoplates en les tirant vers le bas et vers l'arrière. Sollicite les muscles de ton dos et tire ton corps vers la barre, en te concentrant sur le rapprochement de tes omoplates. Marque une pause en haut du mouvement, puis abaisse lentement ton corps pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start by hanging from a pull-up bar with your palms facing away from you and your arms fully extended.",
+      "Retract your shoulder blades by pulling them down and back.",
+      "Engage your back muscles and pull your body up towards the bar, focusing on squeezing your shoulder blades together.",
+      "Pause for a moment at the top of the movement, then slowly lower your body back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia appendendoti a una barra per trazioni con i palmi delle mani rivolti lontano da te e le braccia completamente distese.",
+      "Ritira le scapole tirandole verso il basso e all'indietro.",
+      "Coinvolgi i muscoli della schiena e solleva il corpo verso la barra, concentrandoti sulla contrazione delle scapole.",
+      "Fai una pausa per un momento nella parte superiore del movimento, quindi abbassa lentamente il corpo fino alla posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Avuç içleriniz sizden uzağa bakacak şekilde ve kollarınız tamamen uzatılmış halde bir barfiks çubuğuna asılarak başlayın.",
+      "Kürek kemiklerinizi aşağı ve geriye doğru çekerek geri çekin.",
+      "Sırt kaslarınızı devreye sokun ve kürek kemiklerinizi birbirine sıkıştırmaya odaklanarak vücudunuzu bara doğru yukarı çekin.",
+      "Hareketin en üst noktasında bir süre duraklayın, ardından vücudunuzu yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Comienza colgándote de una barra de dominadas con las palmas hacia afuera y los brazos completamente extendidos.",
+      "Retrae las escápulas llevándolas hacia abajo y atrás.",
+      "Activa los músculos de la espalda y tira de tu cuerpo hacia la barra, enfocándote en juntar las escápulas.",
+      "Haz una pausa breve en la parte superior del movimiento, luego baja lentamente el cuerpo de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с подвешивания на перекладине, повернув ладони от себя и полностью вытянув руки.",
+      "Втяните лопатки, потянув их вниз и назад.",
+      "Напрягите мышцы спины и подтяните тело к перекладине, стараясь свести лопатки вместе.",
+      "Сделайте паузу на мгновение в верхней точке движения, затем медленно опустите тело обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "首先悬挂在引体向上杆上，手掌背向自己，手臂完全伸展。",
+      "通过向下拉和向后拉动肩胛骨来缩回肩胛骨。",
+      "启动背部肌肉，将身体拉向杠铃杆，重点是将肩胛骨挤压在一起。",
+      "在动作的最高点停顿片刻，然后慢慢降低身体回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपनी हथेलियों को आपसे दूर की ओर रखते हुए और अपनी बाहों को पूरी तरह फैलाकर एक पुल-अप बार से लटककर शुरुआत करें।",
+      "अपने कंधे के ब्लेडों को नीचे और पीछे खींचकर पीछे खींचें।",
+      "अपनी पीठ की मांसपेशियों को संलग्न करें और अपने शरीर को बार की ओर ऊपर खींचें, अपने कंधे के ब्लेड को एक साथ निचोड़ने पर ध्यान केंद्रित करें।",
+      "गति के शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने शरीर को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Rozpocznij, zwisając na drążku do podciągania, dłońmi skierowanymi od siebie i rękami w pełni wyprostowanymi.",
+      "Cofnij łopatki, ściągając je w dół i do tyłu.",
+      "Napnij mięśnie pleców i podciągnij ciało w kierunku drążka, skupiając się na ściśnięciu łopatek.",
+      "Zatrzymaj się na chwilę na szczycie ruchu, a następnie powoli opuść ciało z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "풀업 바에 매달려 손바닥이 몸을 향하게 하고 팔을 완전히 펼칩니다.",
+      "어깨 견갑골을 아래로 그리고 뒤로 당겨서 수축시킵니다.",
+      "등 근육을 수축시키고 몸을 바를 향해 올려가며 견갑골을 함께 짜내는 데 집중합니다.",
+      "동작의 최상단에서 잠시 멈춘 후 천천히 몸을 시작 위치로 내려갑니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Commence suspendu à une barre de traction, les paumes tournées vers l'extérieur et les bras complètement tendus.",
+      "Rétracte tes omoplates en les tirant vers le bas et vers l'arrière.",
+      "Sollicite les muscles de ton dos et tire ton corps vers la barre, en te concentrant sur le rapprochement de tes omoplates.",
+      "Marque une pause en haut du mouvement, puis abaisse lentement ton corps pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "rhomboids",
+    "rear deltoids"
+  ],
+  "target": "traps",
+  "image": "images/0688-uTBt1HV.jpg",
+  "gif_url": "videos/0688-uTBt1HV.gif",
+  "media_id": "uTBt1HV",
+  "created_at": "2026-03-18T12:31:32.8894+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

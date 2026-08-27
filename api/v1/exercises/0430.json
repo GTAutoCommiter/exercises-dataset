@@ -1,0 +1,101 @@
+{
+  "id": "0430",
+  "name": "dumbbell standing triceps extension",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and hold a dumbbell in one hand. Raise the dumbbell overhead, keeping your arm straight. Bend your elbow and lower the dumbbell behind your head, keeping your upper arm stationary. Extend your arm back up to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi a larghezza delle spalle e tieni un manubrio con una mano. Alza il manubrio sopra la testa, tenendo il braccio dritto. Piega il gomito e abbassa il manubrio dietro la testa, mantenendo fermo il braccio superiore. Allunga il braccio fino alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınızı omuz genişliğinde açın ve bir elinizde bir dambıl tutun. Kolunuzu düz tutarak dambılı başınızın üstüne kaldırın. Dirseğinizi bükün ve üst kolunuzu sabit tutarak dambılı başınızın arkasına indirin. Kolunuzu başlangıç ​​pozisyonuna kadar geriye doğru uzatın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y sujeta una mancuerna con una mano. Levanta la mancuerna por encima de la cabeza, manteniendo el brazo recto. Flexiona el codo y baja la mancuerna detrás de la cabeza, manteniendo fija la parte superior del brazo. Extiende el brazo de vuelta hacia arriba, hasta la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, в одной руке возьмите гантель. Поднимите гантель над головой, держа руку прямо. Согните локоть и опустите гантель за голову, сохраняя плечо неподвижным. Вытяните руку обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，一只手握住哑铃。 将哑铃举过头顶，保持手臂伸直。 弯曲肘部，将哑铃放到脑后，保持上臂静止。 将手臂向后伸展至起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और एक हाथ में डंबल पकड़ लें। अपनी बांह सीधी रखते हुए डम्बल को ऊपर उठाएं। अपनी कोहनी मोड़ें और अपने ऊपरी बांह को स्थिर रखते हुए डंबल को अपने सिर के पीछे नीचे करें। अपने हाथ को वापस प्रारंभिक स्थिति तक फैलाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań w rozkroku na szerokość barków i trzymaj hantlę w jednej dłoni. Unieś hantlę nad głowę, trzymając ramię proste. Zegnij łokieć i opuść hantlę za głowę, trzymając ramię nieruchomo. Wyprostuj ramię z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "어깨 너비로 발을 벌리고 한손에 덤벨을 들고 섭니다. 덤벨을 머리 위로 올려 팔을 곧게 펍니다. 팔꿈치를 구부려 덤벨을 머리 뒤로 내리면서 위팔은 고정합니다. 팔을 시작 자세로 다시 펼칩니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens un haltère d'une main. Lève l'haltère au-dessus de ta tête en gardant ton bras tendu. Plie ton coude et abaisse l'haltère derrière ta tête en gardant le haut de ton bras immobile. Étends ton bras pour revenir vers le haut en position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and hold a dumbbell in one hand.",
+      "Raise the dumbbell overhead, keeping your arm straight.",
+      "Bend your elbow and lower the dumbbell behind your head, keeping your upper arm stationary.",
+      "Extend your arm back up to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi a larghezza delle spalle e tieni un manubrio con una mano.",
+      "Alza il manubrio sopra la testa, tenendo il braccio dritto.",
+      "Piega il gomito e abbassa il manubrio dietro la testa, mantenendo fermo il braccio superiore.",
+      "Allunga il braccio fino alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınızı omuz genişliğinde açın ve bir elinizde bir dambıl tutun.",
+      "Kolunuzu düz tutarak dambılı başınızın üstüne kaldırın.",
+      "Dirseğinizi bükün ve üst kolunuzu sabit tutarak dambılı başınızın arkasına indirin.",
+      "Kolunuzu başlangıç ​​pozisyonuna kadar geriye doğru uzatın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y sujeta una mancuerna con una mano.",
+      "Levanta la mancuerna por encima de la cabeza, manteniendo el brazo recto.",
+      "Flexiona el codo y baja la mancuerna detrás de la cabeza, manteniendo fija la parte superior del brazo.",
+      "Extiende el brazo de vuelta hacia arriba, hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, в одной руке возьмите гантель.",
+      "Поднимите гантель над головой, держа руку прямо.",
+      "Согните локоть и опустите гантель за голову, сохраняя плечо неподвижным.",
+      "Вытяните руку обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，一只手握住哑铃。",
+      "将哑铃举过头顶，保持手臂伸直。",
+      "弯曲肘部，将哑铃放到脑后，保持上臂静止。",
+      "将手臂向后伸展至起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और एक हाथ में डंबल पकड़ लें।",
+      "अपनी बांह सीधी रखते हुए डम्बल को ऊपर उठाएं।",
+      "अपनी कोहनी मोड़ें और अपने ऊपरी बांह को स्थिर रखते हुए डंबल को अपने सिर के पीछे नीचे करें।",
+      "अपने हाथ को वापस प्रारंभिक स्थिति तक फैलाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków i trzymaj hantlę w jednej dłoni.",
+      "Unieś hantlę nad głowę, trzymając ramię proste.",
+      "Zegnij łokieć i opuść hantlę za głowę, trzymając ramię nieruchomo.",
+      "Wyprostuj ramię z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "어깨 너비로 발을 벌리고 한손에 덤벨을 들고 섭니다.",
+      "덤벨을 머리 위로 올려 팔을 곧게 펍니다.",
+      "팔꿈치를 구부려 덤벨을 머리 뒤로 내리면서 위팔은 고정합니다.",
+      "팔을 시작 자세로 다시 펼칩니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens un haltère d'une main.",
+      "Lève l'haltère au-dessus de ta tête en gardant ton bras tendu.",
+      "Plie ton coude et abaisse l'haltère derrière ta tête en gardant le haut de ton bras immobile.",
+      "Étends ton bras pour revenir vers le haut en position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders"
+  ],
+  "target": "triceps",
+  "image": "images/0430-PdmaD0N.jpg",
+  "gif_url": "videos/0430-PdmaD0N.gif",
+  "media_id": "PdmaD0N",
+  "created_at": "2026-03-18T12:31:32.882176+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

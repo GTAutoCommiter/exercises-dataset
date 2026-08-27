@@ -1,0 +1,113 @@
+{
+  "id": "1325",
+  "name": "cable wide grip rear pulldown behind neck",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Adjust the cable machine so that the pulldown bar is at a height above your head. Sit down on the seat and grab the pulldown bar with a wide overhand grip. Keep your back straight and your chest up as you lean back slightly. Pull the bar down towards your upper chest, squeezing your shoulder blades together. Pause for a moment at the bottom of the movement, then slowly release the bar back up to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Regola la macchina a cavo in modo che la barra di trazione sia a un'altezza sopra la tua testa. Siediti sul sedile e afferra la barra di trazione con una presa larga sopra la mano. Tieni la schiena dritta e il petto sollevato mentre ti appoggii leggermente all'indietro. Tira la barra verso il torace superiore, stringendo le scapole insieme. Fermati un attimo in fondo al movimento, poi rilasci lentamente la barra fino alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Kablo makinesini, çekme çubuğu başınızın üzerinde olacak şekilde ayarlayın. Koltuğa oturun ve çekme çubuğunu geniş bir üst kavrama ile kavrayın. Hafifçe geriye yaslanırken sırtınızı düz ve göğsünüzü yukarıda tutun. Omuz bıçaklarınızı birbirine sıkıştırarak çubuğu göğsünüzün üst kısmına doğru çekin. Hareketin alt noktasında bir süre duraklayın, ardından çubuğu yavaşça başlangıç ​​pozisyonuna kadar bırakın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta la máquina de cable de modo que la barra de jalón quede a una altura por encima de tu cabeza. Siéntate y agarra la barra de jalón con un agarre prono amplio. Mantén la espalda recta y el pecho elevado mientras te reclinas ligeramente hacia atrás. Jala la barra hacia la parte superior del pecho, apretando los omóplatos entre sí. Haz una pausa por un momento en la parte baja del movimiento y luego suelta lentamente la barra de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Отрегулируйте канатную машину так, чтобы тяговая перекладина находилась на высоте над вашей головой. Сядьте на сиденье и возьмитесь за перекладину широким хватом сверху. Держите спину прямо и грудь вверх, слегка отклоняясь назад. Потяните штангу вниз к верхней части груди, сжимая лопатки вместе. Сделайте паузу на мгновение в нижней части движения, затем медленно отпустите штангу обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "调整缆绳机，使下拉杆位于您头部上方的高度。 坐在座椅上，用宽的正手握法抓住下拉杆。 稍微向后倾斜时，保持背部挺直，挺胸。 将杠铃向下拉至上胸部，将肩胛骨挤压在一起。 在动作底部暂停片刻，然后慢慢将杠铃释放回起始位置。 重复所需的重复次数。",
+    "hi": "केबल मशीन को इस प्रकार समायोजित करें कि पुलडाउन बार आपके सिर से ऊंचाई पर हो। सीट पर बैठ जाएं और पुलडाउन बार को चौड़ी पकड़ से पकड़ें। थोड़ा पीछे झुकते समय अपनी पीठ सीधी रखें और अपनी छाती ऊपर रखें। अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए, बार को अपनी ऊपरी छाती की ओर नीचे खींचें। गति के निचले भाग पर एक क्षण के लिए रुकें, फिर धीरे-धीरे बार को प्रारंभिक स्थिति में वापस छोड़ें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Wyreguluj wyciąg tak, aby drążek do ściągania znajdował się na wysokości powyżej głowy. Usiądź na siedzisku i chwyć drążek szerokim chwytem nachwytem. Trzymaj plecy proste, a klatkę piersiową uniesioną, pochylając się lekko do tyłu. Przyciągnij drążek w dół w kierunku górnej części klatki piersiowej, ściągając łopatki. Zatrzymaj się na chwilę w dolnej fazie ruchu, a następnie powoli zwolnij drążek z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "케이블 머신의 풀다운 바가 머리 위 높이에 오도록 조정합니다. 의자에 앉아 와이드 오버그립으로 풀다운 바를 잡습니다. 등을 곧게 펴고 가슴을 들어올린 상태로 약간 뒤로 기울입니다. 바를 상부 가슴 쪽으로 당기면서 견갑골을 모읍니다. 동작의 최하단에서 잠시 멈춘 후 천천히 바를 처음 위치로 돌려놓습니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Règle la machine à câble de sorte que la barre de tirage soit à une hauteur au-dessus de ta tête. Assieds-toi sur le siège et saisis la barre de tirage avec une large prise en pronation. Garde le dos droit et la poitrine relevée pendant que tu te penches légèrement vers l'arrière. Tire la barre vers le haut de ta poitrine, en contractant tes omoplates. Marque une pause en bas du mouvement, puis relâche lentement la barre jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the cable machine so that the pulldown bar is at a height above your head.",
+      "Sit down on the seat and grab the pulldown bar with a wide overhand grip.",
+      "Keep your back straight and your chest up as you lean back slightly.",
+      "Pull the bar down towards your upper chest, squeezing your shoulder blades together.",
+      "Pause for a moment at the bottom of the movement, then slowly release the bar back up to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Regola la macchina a cavo in modo che la barra di trazione sia a un'altezza sopra la tua testa.",
+      "Siediti sul sedile e afferra la barra di trazione con una presa larga sopra la mano.",
+      "Tieni la schiena dritta e il petto sollevato mentre ti appoggii leggermente all'indietro.",
+      "Tira la barra verso il torace superiore, stringendo le scapole insieme.",
+      "Fermati un attimo in fondo al movimento, poi rilasci lentamente la barra fino alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Kablo makinesini, çekme çubuğu başınızın üzerinde olacak şekilde ayarlayın.",
+      "Koltuğa oturun ve çekme çubuğunu geniş bir üst kavrama ile kavrayın.",
+      "Hafifçe geriye yaslanırken sırtınızı düz ve göğsünüzü yukarıda tutun.",
+      "Omuz bıçaklarınızı birbirine sıkıştırarak çubuğu göğsünüzün üst kısmına doğru çekin.",
+      "Hareketin alt noktasında bir süre duraklayın, ardından çubuğu yavaşça başlangıç ​​pozisyonuna kadar bırakın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta la máquina de cable de modo que la barra de jalón quede a una altura por encima de tu cabeza.",
+      "Siéntate y agarra la barra de jalón con un agarre prono amplio.",
+      "Mantén la espalda recta y el pecho elevado mientras te reclinas ligeramente hacia atrás.",
+      "Jala la barra hacia la parte superior del pecho, apretando los omóplatos entre sí.",
+      "Haz una pausa por un momento en la parte baja del movimiento y luego suelta lentamente la barra de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Отрегулируйте канатную машину так, чтобы тяговая перекладина находилась на высоте над вашей головой.",
+      "Сядьте на сиденье и возьмитесь за перекладину широким хватом сверху.",
+      "Держите спину прямо и грудь вверх, слегка отклоняясь назад.",
+      "Потяните штангу вниз к верхней части груди, сжимая лопатки вместе.",
+      "Сделайте паузу на мгновение в нижней части движения, затем медленно отпустите штангу обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "调整缆绳机，使下拉杆位于您头部上方的高度。",
+      "坐在座椅上，用宽的正手握法抓住下拉杆。",
+      "稍微向后倾斜时，保持背部挺直，挺胸。",
+      "将杠铃向下拉至上胸部，将肩胛骨挤压在一起。",
+      "在动作底部暂停片刻，然后慢慢将杠铃释放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "केबल मशीन को इस प्रकार समायोजित करें कि पुलडाउन बार आपके सिर से ऊंचाई पर हो।",
+      "सीट पर बैठ जाएं और पुलडाउन बार को चौड़ी पकड़ से पकड़ें।",
+      "थोड़ा पीछे झुकते समय अपनी पीठ सीधी रखें और अपनी छाती ऊपर रखें।",
+      "अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए, बार को अपनी ऊपरी छाती की ओर नीचे खींचें।",
+      "गति के निचले भाग पर एक क्षण के लिए रुकें, फिर धीरे-धीरे बार को प्रारंभिक स्थिति में वापस छोड़ें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Wyreguluj wyciąg tak, aby drążek do ściągania znajdował się na wysokości powyżej głowy.",
+      "Usiądź na siedzisku i chwyć drążek szerokim chwytem nachwytem.",
+      "Trzymaj plecy proste, a klatkę piersiową uniesioną, pochylając się lekko do tyłu.",
+      "Przyciągnij drążek w dół w kierunku górnej części klatki piersiowej, ściągając łopatki.",
+      "Zatrzymaj się na chwilę w dolnej fazie ruchu, a następnie powoli zwolnij drążek z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "케이블 머신의 풀다운 바가 머리 위 높이에 오도록 조정합니다.",
+      "의자에 앉아 와이드 오버그립으로 풀다운 바를 잡습니다.",
+      "등을 곧게 펴고 가슴을 들어올린 상태로 약간 뒤로 기울입니다.",
+      "바를 상부 가슴 쪽으로 당기면서 견갑골을 모읍니다.",
+      "동작의 최하단에서 잠시 멈춘 후 천천히 바를 처음 위치로 돌려놓습니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Règle la machine à câble de sorte que la barre de tirage soit à une hauteur au-dessus de ta tête.",
+      "Assieds-toi sur le siège et saisis la barre de tirage avec une large prise en pronation.",
+      "Garde le dos droit et la poitrine relevée pendant que tu te penches légèrement vers l'arrière.",
+      "Tire la barre vers le haut de ta poitrine, en contractant tes omoplates.",
+      "Marque une pause en bas du mouvement, puis relâche lentement la barre jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "rhomboids",
+    "rear deltoids"
+  ],
+  "target": "lats",
+  "image": "images/1325-CmEr4pM.jpg",
+  "gif_url": "videos/1325-CmEr4pM.gif",
+  "media_id": "CmEr4pM",
+  "created_at": "2026-03-18T12:31:32.876793+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

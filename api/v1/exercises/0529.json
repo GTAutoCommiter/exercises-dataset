@@ -1,0 +1,103 @@
+{
+  "id": "0529",
+  "name": "kettlebell double snatch",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "kettlebell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart, holding a kettlebell in each hand at arm's length in front of your thighs. Bend your knees slightly and hinge forward at the hips, keeping your back flat and chest up. In one explosive motion, extend your hips, knees, and ankles, and simultaneously pull the kettlebells up towards your shoulders. As the kettlebells reach shoulder level, rotate your wrists and punch the kettlebells overhead, fully extending your arms. Lower the kettlebells back down to the starting position and repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi alla larghezza delle spalle, tenendo un kettlebell in ciascuna mano a distanza di un braccio davanti alle cosce. Piega leggermente le ginocchia e fai perno in avanti sui fianchi, mantenendo la schiena piatta e il petto in alto. Con un movimento esplosivo, estendi i fianchi, le ginocchia e le caviglie e contemporaneamente tira i kettlebell verso le spalle. Quando i kettlebell raggiungono l'altezza delle spalle, ruota i polsi e colpisci i kettlebell sopra la testa, estendendo completamente le braccia. Abbassare nuovamente i kettlebell nella posizione iniziale e ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınızı omuz genişliğinde açın, her iki elinizde birer kettlebell'i uyluklarınızın önünde kol uzunluğunda tutun. Dizlerinizi hafifçe bükün ve kalçalarınızdan öne doğru eğilin, sırtınızı düz ve göğsünüzü yukarıda tutun. Tek bir patlayıcı hareketle kalçalarınızı, dizlerinizi ve ayak bileklerinizi uzatın ve aynı anda kettlebell'leri omuzlarınıza doğru çekin. Kettlebell'ler omuz hizasına ulaştığında bileklerinizi döndürün ve kettlebell'leri başınızın üstüne vurarak kollarınızı tamamen uzatın. Kettlebell'leri başlangıç ​​pozisyonuna indirin ve istenilen sayıda tekrar yapın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros, sujetando una pesa rusa en cada mano con el brazo extendido frente a los muslos. Flexiona ligeramente las rodillas e inclínate hacia adelante desde las caderas, manteniendo la espalda recta y el pecho elevado. En un solo movimiento explosivo, extiende las caderas, las rodillas y los tobillos, y al mismo tiempo tira de las pesas rusas hacia los hombros. Cuando las pesas rusas lleguen a la altura del hombro, rota las muñecas y lanza las pesas rusas por encima de la cabeza, extendiendo los brazos por completo. Baja las pesas rusas de vuelta a la posición inicial y repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, держа гирю в каждой руке на расстоянии вытянутой руки перед бедрами. Слегка согните колени и наклонитесь вперед в бедрах, сохраняя спину ровной и грудь поднятой. Одним взрывным движением вытяните бедра, колени и лодыжки и одновременно подтяните гири к плечам. Когда гири достигнут уровня плеч, поверните запястья и ударьте гирями над головой, полностью выпрямляя руки. Опустите гири обратно в исходное положение и повторите желаемое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，每只手各握一个壶铃，放在大腿前面，与手臂保持一定距离。 稍微弯曲膝盖，臀部向前转动，保持背部平坦，挺胸。 以一种爆发力动作，伸展臀部、膝盖和脚踝，同时将壶铃拉向肩膀。 当壶铃达到肩膀水平时，旋转手腕并将壶铃击过头顶，充分伸展手臂。 将壶铃放回起始位置，然后重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, प्रत्येक हाथ में अपनी जांघों के सामने एक हाथ की दूरी पर केटलबेल पकड़ें। अपने घुटनों को थोड़ा मोड़ें और कूल्हों पर आगे की ओर झुकें, अपनी पीठ को सपाट और छाती को ऊपर रखें। एक विस्फोटक गति में, अपने कूल्हों, घुटनों और टखनों को फैलाएँ, और साथ ही केटलबेल्स को अपने कंधों की ओर खींचें। जैसे ही केटलबेल कंधे के स्तर पर पहुंचें, अपनी कलाइयों को घुमाएं और अपनी बाहों को पूरी तरह फैलाते हुए केटलबेल को ऊपर की ओर मुक्का मारें। केटलबेल्स को वापस प्रारंभिक स्थिति में लाएँ और वांछित संख्या में दोहराव के लिए दोहराएँ।",
+    "pl": "Stań ze stopami rozstawionymi na szerokość barków, trzymając kettlebell w każdej dłoni na wyciągnięcie ramion przed udami. Ugnij lekko kolana i wykonaj skłon w biodrach, utrzymując plecy proste i klatkę piersiową uniesioną. Jednym eksplozywnym ruchem wyprostuj biodra, kolana i stawy skokowe, jednocześnie podciągając kettlebelle w stronę barków. Gdy kettlebelle osiągną wysokość barków, obróć nadgarstki i wypchnij kettlebelle nad głowę, w pełni prostując ramiona. Opuść kettlebelle z powrotem do pozycji wyjściowej i powtórz zgodnie z zaplanowaną liczbą powtórzeń.",
+    "ko": "다리를 어깨 너비로 벌리고 양손으로 허벅지 앞에 팔을 쭉 펼친 상태로 케틀벨을 잡습니다. 무릎을 살짝 구부리고 허리에서 구부리면서 등을 곧게 펴고 가슴을 들어올립니다. 한 번의 폭발적인 동작으로 엉덩이, 무릎, 발목을 펼치면서 동시에 케틀벨을 어깨 쪽으로 당깁니다. 케틀벨이 어깨 높이에 도달하면 손목을 회전하고 팔을 완전히 펴면서 케틀벨을 머리 위로 밀어냅니다. 케틀벨을 처음 위치로 낮추고 원하는 반복 횟수까지 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un kettlebell dans chaque main, bras tendus devant tes cuisses. Fléchis légèrement les genoux et bascule vers l'avant au niveau des hanches en gardant le dos plat et la poitrine relevée. En un seul mouvement explosif, étends tes hanches, tes genoux et tes chevilles, et tire simultanément les kettlebells vers tes épaules. Lorsque les kettlebells atteignent la hauteur des épaules, fais pivoter tes poignets et propulse les kettlebells au-dessus de la tête en étendant complètement tes bras. Abaisse les kettlebells jusqu'à la position de départ et répète pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart, holding a kettlebell in each hand at arm's length in front of your thighs.",
+      "Bend your knees slightly and hinge forward at the hips, keeping your back flat and chest up.",
+      "In one explosive motion, extend your hips, knees, and ankles, and simultaneously pull the kettlebells up towards your shoulders.",
+      "As the kettlebells reach shoulder level, rotate your wrists and punch the kettlebells overhead, fully extending your arms.",
+      "Lower the kettlebells back down to the starting position and repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle, tenendo un kettlebell in ciascuna mano a distanza di un braccio davanti alle cosce.",
+      "Piega leggermente le ginocchia e fai perno in avanti sui fianchi, mantenendo la schiena piatta e il petto in alto.",
+      "Con un movimento esplosivo, estendi i fianchi, le ginocchia e le caviglie e contemporaneamente tira i kettlebell verso le spalle.",
+      "Quando i kettlebell raggiungono l'altezza delle spalle, ruota i polsi e colpisci i kettlebell sopra la testa, estendendo completamente le braccia.",
+      "Abbassare nuovamente i kettlebell nella posizione iniziale e ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınızı omuz genişliğinde açın, her iki elinizde birer kettlebell'i uyluklarınızın önünde kol uzunluğunda tutun.",
+      "Dizlerinizi hafifçe bükün ve kalçalarınızdan öne doğru eğilin, sırtınızı düz ve göğsünüzü yukarıda tutun.",
+      "Tek bir patlayıcı hareketle kalçalarınızı, dizlerinizi ve ayak bileklerinizi uzatın ve aynı anda kettlebell'leri omuzlarınıza doğru çekin.",
+      "Kettlebell'ler omuz hizasına ulaştığında bileklerinizi döndürün ve kettlebell'leri başınızın üstüne vurarak kollarınızı tamamen uzatın.",
+      "Kettlebell'leri başlangıç ​​pozisyonuna indirin ve istenilen sayıda tekrar yapın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros, sujetando una pesa rusa en cada mano con el brazo extendido frente a los muslos.",
+      "Flexiona ligeramente las rodillas e inclínate hacia adelante desde las caderas, manteniendo la espalda recta y el pecho elevado.",
+      "En un solo movimiento explosivo, extiende las caderas, las rodillas y los tobillos, y al mismo tiempo tira de las pesas rusas hacia los hombros.",
+      "Cuando las pesas rusas lleguen a la altura del hombro, rota las muñecas y lanza las pesas rusas por encima de la cabeza, extendiendo los brazos por completo.",
+      "Baja las pesas rusas de vuelta a la posición inicial y repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, держа гирю в каждой руке на расстоянии вытянутой руки перед бедрами.",
+      "Слегка согните колени и наклонитесь вперед в бедрах, сохраняя спину ровной и грудь поднятой.",
+      "Одним взрывным движением вытяните бедра, колени и лодыжки и одновременно подтяните гири к плечам.",
+      "Когда гири достигнут уровня плеч, поверните запястья и ударьте гирями над головой, полностью выпрямляя руки.",
+      "Опустите гири обратно в исходное положение и повторите желаемое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，每只手各握一个壶铃，放在大腿前面，与手臂保持一定距离。",
+      "稍微弯曲膝盖，臀部向前转动，保持背部平坦，挺胸。",
+      "以一种爆发力动作，伸展臀部、膝盖和脚踝，同时将壶铃拉向肩膀。",
+      "当壶铃达到肩膀水平时，旋转手腕并将壶铃击过头顶，充分伸展手臂。",
+      "将壶铃放回起始位置，然后重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, प्रत्येक हाथ में अपनी जांघों के सामने एक हाथ की दूरी पर केटलबेल पकड़ें।",
+      "अपने घुटनों को थोड़ा मोड़ें और कूल्हों पर आगे की ओर झुकें, अपनी पीठ को सपाट और छाती को ऊपर रखें।",
+      "एक विस्फोटक गति में, अपने कूल्हों, घुटनों और टखनों को फैलाएँ, और साथ ही केटलबेल्स को अपने कंधों की ओर खींचें।",
+      "जैसे ही केटलबेल कंधे के स्तर पर पहुंचें, अपनी कलाइयों को घुमाएं और अपनी बाहों को पूरी तरह फैलाते हुए केटलबेल को ऊपर की ओर मुक्का मारें।",
+      "केटलबेल्स को वापस प्रारंभिक स्थिति में लाएँ और वांछित संख्या में दोहराव के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań ze stopami rozstawionymi na szerokość barków, trzymając kettlebell w każdej dłoni na wyciągnięcie ramion przed udami.",
+      "Ugnij lekko kolana i wykonaj skłon w biodrach, utrzymując plecy proste i klatkę piersiową uniesioną.",
+      "Jednym eksplozywnym ruchem wyprostuj biodra, kolana i stawy skokowe, jednocześnie podciągając kettlebelle w stronę barków.",
+      "Gdy kettlebelle osiągną wysokość barków, obróć nadgarstki i wypchnij kettlebelle nad głowę, w pełni prostując ramiona.",
+      "Opuść kettlebelle z powrotem do pozycji wyjściowej i powtórz zgodnie z zaplanowaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "다리를 어깨 너비로 벌리고 양손으로 허벅지 앞에 팔을 쭉 펼친 상태로 케틀벨을 잡습니다.",
+      "무릎을 살짝 구부리고 허리에서 구부리면서 등을 곧게 펴고 가슴을 들어올립니다.",
+      "한 번의 폭발적인 동작으로 엉덩이, 무릎, 발목을 펼치면서 동시에 케틀벨을 어깨 쪽으로 당깁니다.",
+      "케틀벨이 어깨 높이에 도달하면 손목을 회전하고 팔을 완전히 펴면서 케틀벨을 머리 위로 밀어냅니다.",
+      "케틀벨을 처음 위치로 낮추고 원하는 반복 횟수까지 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un kettlebell dans chaque main, bras tendus devant tes cuisses.",
+      "Fléchis légèrement les genoux et bascule vers l'avant au niveau des hanches en gardant le dos plat et la poitrine relevée.",
+      "En un seul mouvement explosif, étends tes hanches, tes genoux et tes chevilles, et tire simultanément les kettlebells vers tes épaules.",
+      "Lorsque les kettlebells atteignent la hauteur des épaules, fais pivoter tes poignets et propulse les kettlebells au-dessus de la tête en étendant complètement tes bras.",
+      "Abaisse les kettlebells jusqu'à la position de départ et répète pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "trapezius",
+  "secondary_muscles": [
+    "trapezius",
+    "forearms",
+    "core"
+  ],
+  "target": "delts",
+  "image": "images/0529-M74kdvm.jpg",
+  "gif_url": "videos/0529-M74kdvm.gif",
+  "media_id": "M74kdvm",
+  "created_at": "2026-03-18T12:31:32.885142+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

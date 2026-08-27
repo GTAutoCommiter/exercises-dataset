@@ -1,0 +1,102 @@
+{
+  "id": "0490",
+  "name": "incline close-grip push-up",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Place your hands on an elevated surface, such as a bench or step, slightly wider than shoulder-width apart. Extend your legs behind you, resting on the balls of your feet, with your body forming a straight line from head to heels. Lower your chest towards the elevated surface by bending your elbows, keeping them close to your sides. Pause for a moment at the bottom, then push yourself back up to the starting position by straightening your arms. Repeat for the desired number of repetitions.",
+    "it": "Metti le mani su una superficie rialzata, come una panca o un gradino, leggermente più larga della larghezza delle spalle. Estendi le gambe dietro di te, appoggiandole sulle punte dei piedi, con il corpo che forma una linea retta dalla testa ai talloni. Abbassa il petto verso la superficie rialzata piegando i gomiti, tenendoli vicini ai fianchi. Fai una pausa per un momento in basso, quindi ritorna alla posizione di partenza raddrizzando le braccia. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ellerinizi omuz genişliğinden biraz daha geniş, bank veya basamak gibi yüksek bir yüzeye yerleştirin. Vücudunuz baştan topuklarınıza kadar düz bir çizgi oluşturacak şekilde bacaklarınızı arkanıza doğru uzatın, ayak parmaklarınızın ucuna yaslanın. Dirseklerinizi bükerek, yanlarınıza yakın tutarak göğsünüzü yükseltilmiş yüzeye doğru indirin. Altta bir an duraklayın, ardından kollarınızı düzleştirerek kendinizi başlangıç ​​pozisyonuna doğru itin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Coloca las manos sobre una superficie elevada, como un banco o un escalón, ligeramente más separadas que la altura de los hombros. Extiende las piernas detrás de ti, apoyándote en la punta de los pies, con el cuerpo formando una línea recta desde la cabeza hasta los talones. Baja el pecho hacia la superficie elevada doblando los codos, manteniéndolos cerca de los costados. Haz una pausa breve en la parte baja, luego empújate de nuevo hacia arriba a la posición inicial estirando los brazos. Repite el número de repeticiones deseado.",
+    "ru": "Положите руки на возвышенную поверхность, например на скамью или ступеньку, на расстоянии чуть шире ширины плеч. Вытяните ноги позади себя, опираясь на подушечки стоп, при этом тело образует прямую линию от головы до пяток. Опустите грудь к возвышенной поверхности, согнув локти и держа их близко к бокам. Задержитесь на мгновение в нижней точке, затем вернитесь в исходное положение, выпрямляя руки. Повторите необходимое количество повторений.",
+    "zh": "将双手放在较高的表面上，例如长凳或台阶上，双手之间的距离略宽于肩宽。 将双腿伸到身后，放在脚掌上，身体从头到脚跟形成一条直线。 弯曲肘部，使肘部靠近身体两侧，将胸部降低到升高的表面。 在底部暂停片刻，然后伸直手臂将自己推回起始位置。 重复所需的重复次数。",
+    "hi": "अपने हाथों को किसी ऊंची सतह, जैसे बेंच या सीढ़ी, पर कंधे की चौड़ाई से थोड़ी अधिक दूरी पर रखें। अपने पैरों को अपने पीछे फैलाएं, अपने पैरों की उंगलियों पर आराम करते हुए, अपने शरीर को सिर से एड़ी तक एक सीधी रेखा बनाते हुए। अपनी कोहनियों को मोड़कर, उन्हें अपनी भुजाओं के पास रखते हुए, अपनी छाती को ऊँची सतह की ओर नीचे लाएँ। नीचे एक पल के लिए रुकें, फिर अपनी बाहों को सीधा करके खुद को शुरुआती स्थिति में वापस धकेलें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Umieść dłonie na podwyższonej powierzchni, takiej jak ławka lub stopień, nieco szerzej niż na szerokość barków. Wyprostuj nogi za sobą, opierając się na palcach stóp, tworząc prostą linię od głowy do pięt. Opuść klatkę piersiową w stronę podwyższonej powierzchni, zginając łokcie i trzymając je blisko boków. Zatrzymaj się na chwilę na dole, a następnie odepchnij się z powrotem do pozycji wyjściowej, prostując ramiona. Powtórz zalecaną liczbę razy.",
+    "ko": "벤치나 스텝 같은 높인 표면에 손을 어깨 너비보다 약간 넓게 얹습니다. 발을 뒤로 펼쳐 발 앞쪽으로 지탱하며 머리부터 발까지 일직선이 되도록 합니다. 팔꿈치를 구부려 가슴을 높인 표면 쪽으로 내립니다. 팔꿈치는 몸 옆에 붙입니다. 아래에서 잠시 멈춘 후 팔을 펴서 시작 위치로 올라옵니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Place tes mains sur une surface surélevée, comme un banc ou une marche, légèrement plus écartées que la largeur des épaules. Étends tes jambes derrière toi, en appui sur la pointe des pieds, ton corps formant une ligne droite de la tête aux talons. Abaisse ta poitrine vers la surface surélevée en fléchissant les coudes, en les gardant près de tes flancs. Marque une pause en bas, puis pousse-toi vers le haut jusqu'à la position de départ en tendant tes bras. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Place your hands on an elevated surface, such as a bench or step, slightly wider than shoulder-width apart.",
+      "Extend your legs behind you, resting on the balls of your feet, with your body forming a straight line from head to heels.",
+      "Lower your chest towards the elevated surface by bending your elbows, keeping them close to your sides.",
+      "Pause for a moment at the bottom, then push yourself back up to the starting position by straightening your arms.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Metti le mani su una superficie rialzata, come una panca o un gradino, leggermente più larga della larghezza delle spalle.",
+      "Estendi le gambe dietro di te, appoggiandole sulle punte dei piedi, con il corpo che forma una linea retta dalla testa ai talloni.",
+      "Abbassa il petto verso la superficie rialzata piegando i gomiti, tenendoli vicini ai fianchi.",
+      "Fai una pausa per un momento in basso, quindi ritorna alla posizione di partenza raddrizzando le braccia.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ellerinizi omuz genişliğinden biraz daha geniş, bank veya basamak gibi yüksek bir yüzeye yerleştirin.",
+      "Vücudunuz baştan topuklarınıza kadar düz bir çizgi oluşturacak şekilde bacaklarınızı arkanıza doğru uzatın, ayak parmaklarınızın ucuna yaslanın.",
+      "Dirseklerinizi bükerek, yanlarınıza yakın tutarak göğsünüzü yükseltilmiş yüzeye doğru indirin.",
+      "Altta bir an duraklayın, ardından kollarınızı düzleştirerek kendinizi başlangıç ​​pozisyonuna doğru itin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Coloca las manos sobre una superficie elevada, como un banco o un escalón, ligeramente más separadas que la altura de los hombros.",
+      "Extiende las piernas detrás de ti, apoyándote en la punta de los pies, con el cuerpo formando una línea recta desde la cabeza hasta los talones.",
+      "Baja el pecho hacia la superficie elevada doblando los codos, manteniéndolos cerca de los costados.",
+      "Haz una pausa breve en la parte baja, luego empújate de nuevo hacia arriba a la posición inicial estirando los brazos.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Положите руки на возвышенную поверхность, например на скамью или ступеньку, на расстоянии чуть шире ширины плеч.",
+      "Вытяните ноги позади себя, опираясь на подушечки стоп, при этом тело образует прямую линию от головы до пяток.",
+      "Опустите грудь к возвышенной поверхности, согнув локти и держа их близко к бокам.",
+      "Задержитесь на мгновение в нижней точке, затем вернитесь в исходное положение, выпрямляя руки.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将双手放在较高的表面上，例如长凳或台阶上，双手之间的距离略宽于肩宽。",
+      "将双腿伸到身后，放在脚掌上，身体从头到脚跟形成一条直线。",
+      "弯曲肘部，使肘部靠近身体两侧，将胸部降低到升高的表面。",
+      "在底部暂停片刻，然后伸直手臂将自己推回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने हाथों को किसी ऊंची सतह, जैसे बेंच या सीढ़ी, पर कंधे की चौड़ाई से थोड़ी अधिक दूरी पर रखें।",
+      "अपने पैरों को अपने पीछे फैलाएं, अपने पैरों की उंगलियों पर आराम करते हुए, अपने शरीर को सिर से एड़ी तक एक सीधी रेखा बनाते हुए।",
+      "अपनी कोहनियों को मोड़कर, उन्हें अपनी भुजाओं के पास रखते हुए, अपनी छाती को ऊँची सतह की ओर नीचे लाएँ।",
+      "नीचे एक पल के लिए रुकें, फिर अपनी बाहों को सीधा करके खुद को शुरुआती स्थिति में वापस धकेलें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Umieść dłonie na podwyższonej powierzchni, takiej jak ławka lub stopień, nieco szerzej niż na szerokość barków.",
+      "Wyprostuj nogi za sobą, opierając się na palcach stóp, tworząc prostą linię od głowy do pięt.",
+      "Opuść klatkę piersiową w stronę podwyższonej powierzchni, zginając łokcie i trzymając je blisko boków.",
+      "Zatrzymaj się na chwilę na dole, a następnie odepchnij się z powrotem do pozycji wyjściowej, prostując ramiona.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "벤치나 스텝 같은 높인 표면에 손을 어깨 너비보다 약간 넓게 얹습니다.",
+      "발을 뒤로 펼쳐 발 앞쪽으로 지탱하며 머리부터 발까지 일직선이 되도록 합니다.",
+      "팔꿈치를 구부려 가슴을 높인 표면 쪽으로 내립니다.",
+      "팔꿈치는 몸 옆에 붙입니다.",
+      "아래에서 잠시 멈춘 후 팔을 펴서 시작 위치로 올라옵니다."
+    ],
+    "fr": [
+      "Place tes mains sur une surface surélevée, comme un banc ou une marche, légèrement plus écartées que la largeur des épaules.",
+      "Étends tes jambes derrière toi, en appui sur la pointe des pieds, ton corps formant une ligne droite de la tête aux talons.",
+      "Abaisse ta poitrine vers la surface surélevée en fléchissant les coudes, en les gardant près de tes flancs.",
+      "Marque une pause en bas, puis pousse-toi vers le haut jusqu'à la position de départ en tendant tes bras.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "chest",
+  "secondary_muscles": [
+    "chest",
+    "shoulders"
+  ],
+  "target": "triceps",
+  "image": "images/0490-1YB40kg.jpg",
+  "gif_url": "videos/0490-1YB40kg.gif",
+  "media_id": "1YB40kg",
+  "created_at": "2026-03-18T12:31:32.884423+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

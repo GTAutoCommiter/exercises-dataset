@@ -1,0 +1,122 @@
+{
+  "id": "0179",
+  "name": "cable low fly",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Attach the handles to the low pulleys of a cable machine and select an appropriate weight. Stand in the middle of the machine with your feet shoulder-width apart and a slight bend in your knees. Grasp the handles with an overhand grip and extend your arms out to the sides, keeping a slight bend in your elbows. Maintaining control, slowly bring your arms forward in a sweeping motion, crossing them in front of your body. Pause for a moment at the peak of the movement, feeling the stretch in your chest muscles. Reverse the motion and slowly return your arms to the starting position, keeping tension on your chest muscles throughout. Repeat for the desired number of repetitions.",
+    "it": "Attacca le manici alle carrucole basse di una macchina a cavo e scegli un peso appropriato. Stai al centro della macchina con i piedi larghi alle spalle e con una leggera piega delle ginocchia. Afferra le maniglie con una presa sopra la mano e estendi le braccia ai lati, mantenendo una leggera piega dei gomiti. Mantenendo il controllo, porta lentamente le braccia in avanti in un movimento ampio, incrociandole davanti al corpo. Fermati un attimo al culmine del movimento, sentendo l'allungamento nei muscoli del petto. Inverti il movimento e riporta lentamente le braccia alla posizione iniziale, mantenendo la tensione sui muscoli del petto per tutto il tempo. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Tutamaçları kablo makinesinin alçak makaralarına takın ve uygun bir ağırlık seçin. Ayaklarınız omuz genişliğinde açık ve dizleriniz hafif bükülü olacak şekilde makinenin ortasında durun. Tutma yerlerini üstten kavrayın ve dirseklerinizi hafif bükerek kollarınızı yanlara doğru uzatın. Kontrolü koruyarak, kollarınızı geniş bir hareketle yavaşça öne doğru getirin ve onları vücudunuzun önünde çaprazlayın. Hareketin zirvesinde bir an duraklayın ve göğüs kaslarınızın gerginliğini hissedin. Hareketi tersine çevirin ve kollarınızı yavaşça başlangıç ​​pozisyonuna getirin, göğüs kaslarınızın gerginliğini koruyun. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Sujeta las agarraderas a las poleas bajas de una máquina de cable y selecciona un peso adecuado. Ponte de pie en el centro de la máquina con los pies separados a la altura de los hombros y una ligera flexión en las rodillas. Sujeta las agarraderas con un agarre prono y extiende los brazos hacia los lados, manteniendo una ligera flexión en los codos. Manteniendo el control, lleva lentamente los brazos hacia adelante con un movimiento amplio, cruzándolos frente al cuerpo. Haz una pausa por un momento en el punto más alto del movimiento, sintiendo el estiramiento en los músculos del pecho. Invierte el movimiento y regresa lentamente los brazos a la posición inicial, manteniendo la tensión en los músculos del pecho durante todo el recorrido. Repite el número de repeticiones deseado.",
+    "ru": "Прикрепите ручки к низким шкивам канатной машины и выберите подходящий вес. Встаньте посередине тренажера, поставив ноги на ширине плеч и слегка согнув колени. Возьмитесь за рукоятки хватом сверху и вытяните руки в стороны, сохраняя небольшой изгиб в локтях. Сохраняя контроль, медленно выведите руки вперед и скрестите их перед телом. Задержитесь на мгновение на пике движения, чувствуя растяжение мышц груди. Сделайте обратное движение и медленно верните руки в исходное положение, сохраняя напряжение мышц груди. Повторите необходимое количество повторений.",
+    "zh": "将手柄连接到缆绳机的低滑轮上，并选择合适的重量。 站在机器中间，双脚分开与肩同宽，膝盖稍微弯曲。 正手握住手柄，将手臂向两侧伸展，肘部保持轻微弯曲。 保持控制，以扫过的动作缓慢地将手臂向前伸，交叉在身体前面。 在运动的最高点暂停片刻，感受胸部肌肉的拉伸。 反转动作，慢慢将手臂恢复到起始位置，始终保持胸部肌肉紧张。 重复所需的重复次数。",
+    "hi": "केबल मशीन की निचली पुली में हैंडल जोड़ें और उचित वजन चुनें। अपने पैरों को कंधे की चौड़ाई पर फैलाकर और घुटनों को थोड़ा मोड़कर मशीन के बीच में खड़े हो जाएं। हैंडल को ओवरहैंड ग्रिप से पकड़ें और अपनी कोहनियों को हल्का सा मोड़ते हुए अपनी भुजाओं को बगल की ओर फैलाएँ। नियंत्रण बनाए रखते हुए, धीरे-धीरे अपनी भुजाओं को व्यापक गति में आगे लाएं, उन्हें अपने शरीर के सामने से पार करें। गति के चरम पर अपनी छाती की मांसपेशियों में खिंचाव महसूस करते हुए एक पल के लिए रुकें। गति को उल्टा करें और धीरे-धीरे अपनी छाती की मांसपेशियों पर तनाव बनाए रखते हुए अपनी भुजाओं को प्रारंभिक स्थिति में लौटाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Podłącz uchwyty do dolnych bloczków wyciągu i wybierz odpowiedni ciężar. Stań pośrodku maszyny, stopy rozstawione na szerokość barków, kolana lekko ugięte. Chwyć uchwyty nachwytem i rozłóż ramiona na boki, zachowując lekkie ugięcie w łokciach. Zachowując kontrolę, powoli przesuwaj ramiona do przodu w ruchu zataczającym, krzyżując je przed ciałem. Zatrzymaj się na moment w szczytowym punkcie ruchu, odczuwając rozciąganie mięśni klatki piersiowej. Odwróć ruch i powoli wróć ramionami do pozycji wyjściowej, utrzymując napięcie w klatce piersiowej przez cały czas. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "케이블 머신의 낮은 풀리에 손잡이를 부착하고 적절한 무게를 선택합니다. 머신 중앙에 서서 발을 어깨너비로 벌리고 무릎을 약간 구부립니다. 손잡이를 오버핸드 그립으로 잡고 팔을 옆으로 펼쳐 팔꿈치에 약간의 굽곡을 유지합니다. 조절하면서 팔을 앞으로 쓸어 몸 앞에서 교차시킵니다. 동작의 절정에서 잠깐 멈추고 가슴 근육의 스트레칭을 느낍니다. 동작을 역으로 하여 팔을 시작 위치로 천천히 돌려놓고 전체 동작에서 가슴 근육에 긴장을 유지합니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Fixe les poignées aux poulies basses d'une machine à câble et sélectionne un poids approprié. Tiens-toi au milieu de la machine, les pieds écartés à la largeur des épaules et les genoux légèrement fléchis. Saisis les poignées avec une prise en pronation et étends les bras sur les côtés, en gardant une légère flexion dans les coudes. Tout en contrôlant le mouvement, ramène lentement tes bras vers l'avant dans un geste ample, en les croisant devant ton corps. Marque une pause au sommet du mouvement, en sentant l'étirement dans les muscles de ta poitrine. Inverse le mouvement et ramène lentement tes bras à la position de départ, en gardant la tension sur les muscles de ta poitrine tout du long. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Attach the handles to the low pulleys of a cable machine and select an appropriate weight.",
+      "Stand in the middle of the machine with your feet shoulder-width apart and a slight bend in your knees.",
+      "Grasp the handles with an overhand grip and extend your arms out to the sides, keeping a slight bend in your elbows.",
+      "Maintaining control, slowly bring your arms forward in a sweeping motion, crossing them in front of your body.",
+      "Pause for a moment at the peak of the movement, feeling the stretch in your chest muscles.",
+      "Reverse the motion and slowly return your arms to the starting position, keeping tension on your chest muscles throughout.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Attacca le manici alle carrucole basse di una macchina a cavo e scegli un peso appropriato.",
+      "Stai al centro della macchina con i piedi larghi alle spalle e con una leggera piega delle ginocchia.",
+      "Afferra le maniglie con una presa sopra la mano e estendi le braccia ai lati, mantenendo una leggera piega dei gomiti.",
+      "Mantenendo il controllo, porta lentamente le braccia in avanti in un movimento ampio, incrociandole davanti al corpo.",
+      "Fermati un attimo al culmine del movimento, sentendo l'allungamento nei muscoli del petto.",
+      "Inverti il movimento e riporta lentamente le braccia alla posizione iniziale, mantenendo la tensione sui muscoli del petto per tutto il tempo.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Tutamaçları kablo makinesinin alçak makaralarına takın ve uygun bir ağırlık seçin.",
+      "Ayaklarınız omuz genişliğinde açık ve dizleriniz hafif bükülü olacak şekilde makinenin ortasında durun.",
+      "Tutma yerlerini üstten kavrayın ve dirseklerinizi hafif bükerek kollarınızı yanlara doğru uzatın.",
+      "Kontrolü koruyarak, kollarınızı geniş bir hareketle yavaşça öne doğru getirin ve onları vücudunuzun önünde çaprazlayın.",
+      "Hareketin zirvesinde bir an duraklayın ve göğüs kaslarınızın gerginliğini hissedin.",
+      "Hareketi tersine çevirin ve kollarınızı yavaşça başlangıç ​​pozisyonuna getirin, göğüs kaslarınızın gerginliğini koruyun.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Sujeta las agarraderas a las poleas bajas de una máquina de cable y selecciona un peso adecuado.",
+      "Ponte de pie en el centro de la máquina con los pies separados a la altura de los hombros y una ligera flexión en las rodillas.",
+      "Sujeta las agarraderas con un agarre prono y extiende los brazos hacia los lados, manteniendo una ligera flexión en los codos.",
+      "Manteniendo el control, lleva lentamente los brazos hacia adelante con un movimiento amplio, cruzándolos frente al cuerpo.",
+      "Haz una pausa por un momento en el punto más alto del movimiento, sintiendo el estiramiento en los músculos del pecho.",
+      "Invierte el movimiento y regresa lentamente los brazos a la posición inicial, manteniendo la tensión en los músculos del pecho durante todo el recorrido.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Прикрепите ручки к низким шкивам канатной машины и выберите подходящий вес.",
+      "Встаньте посередине тренажера, поставив ноги на ширине плеч и слегка согнув колени.",
+      "Возьмитесь за рукоятки хватом сверху и вытяните руки в стороны, сохраняя небольшой изгиб в локтях.",
+      "Сохраняя контроль, медленно выведите руки вперед и скрестите их перед телом.",
+      "Задержитесь на мгновение на пике движения, чувствуя растяжение мышц груди.",
+      "Сделайте обратное движение и медленно верните руки в исходное положение, сохраняя напряжение мышц груди.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将手柄连接到缆绳机的低滑轮上，并选择合适的重量。",
+      "站在机器中间，双脚分开与肩同宽，膝盖稍微弯曲。",
+      "正手握住手柄，将手臂向两侧伸展，肘部保持轻微弯曲。",
+      "保持控制，以扫过的动作缓慢地将手臂向前伸，交叉在身体前面。",
+      "在运动的最高点暂停片刻，感受胸部肌肉的拉伸。",
+      "反转动作，慢慢将手臂恢复到起始位置，始终保持胸部肌肉紧张。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "केबल मशीन की निचली पुली में हैंडल जोड़ें और उचित वजन चुनें।",
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर और घुटनों को थोड़ा मोड़कर मशीन के बीच में खड़े हो जाएं।",
+      "हैंडल को ओवरहैंड ग्रिप से पकड़ें और अपनी कोहनियों को हल्का सा मोड़ते हुए अपनी भुजाओं को बगल की ओर फैलाएँ।",
+      "नियंत्रण बनाए रखते हुए, धीरे-धीरे अपनी भुजाओं को व्यापक गति में आगे लाएं, उन्हें अपने शरीर के सामने से पार करें।",
+      "गति के चरम पर अपनी छाती की मांसपेशियों में खिंचाव महसूस करते हुए एक पल के लिए रुकें।",
+      "गति को उल्टा करें और धीरे-धीरे अपनी छाती की मांसपेशियों पर तनाव बनाए रखते हुए अपनी भुजाओं को प्रारंभिक स्थिति में लौटाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Podłącz uchwyty do dolnych bloczków wyciągu i wybierz odpowiedni ciężar.",
+      "Stań pośrodku maszyny, stopy rozstawione na szerokość barków, kolana lekko ugięte.",
+      "Chwyć uchwyty nachwytem i rozłóż ramiona na boki, zachowując lekkie ugięcie w łokciach.",
+      "Zachowując kontrolę, powoli przesuwaj ramiona do przodu w ruchu zataczającym, krzyżując je przed ciałem.",
+      "Zatrzymaj się na moment w szczytowym punkcie ruchu, odczuwając rozciąganie mięśni klatki piersiowej.",
+      "Odwróć ruch i powoli wróć ramionami do pozycji wyjściowej, utrzymując napięcie w klatce piersiowej przez cały czas.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "케이블 머신의 낮은 풀리에 손잡이를 부착하고 적절한 무게를 선택합니다.",
+      "머신 중앙에 서서 발을 어깨너비로 벌리고 무릎을 약간 구부립니다.",
+      "손잡이를 오버핸드 그립으로 잡고 팔을 옆으로 펼쳐 팔꿈치에 약간의 굽곡을 유지합니다.",
+      "조절하면서 팔을 앞으로 쓸어 몸 앞에서 교차시킵니다.",
+      "동작의 절정에서 잠깐 멈추고 가슴 근육의 스트레칭을 느낍니다.",
+      "동작을 역으로 하여 팔을 시작 위치로 천천히 돌려놓고 전체 동작에서 가슴 근육에 긴장을 유지합니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Fixe les poignées aux poulies basses d'une machine à câble et sélectionne un poids approprié.",
+      "Tiens-toi au milieu de la machine, les pieds écartés à la largeur des épaules et les genoux légèrement fléchis.",
+      "Saisis les poignées avec une prise en pronation et étends les bras sur les côtés, en gardant une légère flexion dans les coudes.",
+      "Tout en contrôlant le mouvement, ramène lentement tes bras vers l'avant dans un geste ample, en les croisant devant ton corps.",
+      "Marque une pause au sommet du mouvement, en sentant l'étirement dans les muscles de ta poitrine.",
+      "Inverse le mouvement et ramène lentement tes bras à la position de départ, en gardant la tension sur les muscles de ta poitrine tout du long.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "deltoids",
+  "secondary_muscles": [
+    "deltoids",
+    "triceps"
+  ],
+  "target": "pectorals",
+  "image": "images/0179-FVmZVhk.jpg",
+  "gif_url": "videos/0179-FVmZVhk.gif",
+  "media_id": "FVmZVhk",
+  "created_at": "2026-03-18T12:31:32.874842+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

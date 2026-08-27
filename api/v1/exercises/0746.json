@@ -1,0 +1,111 @@
+{
+  "id": "0746",
+  "name": "smith back shrug",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "smith machine",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and your knees slightly bent. Grasp the barbell with an overhand grip, hands slightly wider than shoulder-width apart. Keep your arms straight and allow the barbell to hang in front of your thighs. Lift your shoulders straight up towards your ears, squeezing your traps at the top. Hold for a moment, then lower your shoulders back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi alla larghezza delle spalle e le ginocchia leggermente piegate. Afferrare il bilanciere con una presa prona, con le mani leggermente più larghe della larghezza delle spalle. Tieni le braccia tese e lascia che il bilanciere penda davanti alle cosce. Solleva le spalle verso le orecchie, stringendo le trappole in alto. Mantieni la posizione per un momento, quindi abbassa le spalle nella posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız omuz genişliğinde açık ve dizleriniz hafifçe bükülü şekilde ayakta durun. Halteri üstten kavrayarak, eller omuz genişliğinden biraz daha geniş olacak şekilde kavrayın. Kollarınızı düz tutun ve halterin uyluklarınızın önünde asılı kalmasına izin verin. Omuzlarınızı doğrudan kulaklarınıza doğru kaldırın, tuzaklarınızı üst kısımda sıkıştırın. Bir süre bekleyin, ardından omuzlarınızı başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y las rodillas ligeramente flexionadas. Agarra la barra con un agarre pronado, con las manos un poco más separadas que el ancho de los hombros. Mantén los brazos rectos y deja que la barra cuelgue frente a los muslos. Levanta los hombros directamente hacia las orejas, contrayendo los trapecios en la parte alta. Mantén la posición por un momento, luego baja los hombros de nuevo a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, поставив ноги на ширине плеч и слегка согнув колени. Возьмите штангу хватом сверху, руки на расстоянии чуть шире плеч. Держите руки прямо и позвольте штанге висеть перед бедрами. Поднимите плечи прямо вверх к ушам, сжимая трапеции вверху. Задержитесь на мгновение, затем опустите плечи обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，膝盖稍微弯曲。 正手握住杠铃，双手间距略宽于肩宽。 保持手臂伸直，让杠铃挂在大腿前面。 将肩膀向耳朵方向伸直，挤压斜方肌顶部。 保持一会儿，然后将肩膀放回起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और आपके घुटने थोड़े मुड़े हुए हों। बारबेल को ओवरहैंड ग्रिप से पकड़ें, हाथों को कंधे की चौड़ाई से थोड़ा चौड़ा रखें। अपनी बाहों को सीधा रखें और बारबेल को अपनी जांघों के सामने लटकने दें। अपने कंधों को सीधे अपने कानों की ओर उठाएं, अपने जालों को शीर्ष पर दबाएं। एक क्षण के लिए रुकें, फिर अपने कंधों को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań w rozkroku na szerokość barków z lekko ugiętymi kolanami. Chwyć sztangę nachwytem, dłońmi ustawionymi nieco szerzej niż szerokość barków. Trzymaj ręce proste i pozwól sztandze zwisać przed udami. Unieś barki prosto w górę w kierunku uszu, ściskając mięśnie czworoboczne na górze ruchu. Przytrzymaj przez chwilę, a następnie opuść barki z powrotem do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "발을 어깨 너비만큼 벌려서 서고 무릎을 약간 구부리세요. 바벨을 오버핸드 그립으로 잡되 손을 어깨 너비보다 약간 넓게 벌리세요. 팔을 펴서 바벨을 허벅지 앞에 매달리게 하세요. 어깨를 귀 쪽으로 쭉 올려 등 근육을 수축시키세요. 잠깐 멈춘 후 어깨를 시작 자세로 내려놓으세요. 원하는 반복 횟수만큼 반복하세요.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et les genoux légèrement fléchis. Saisis la barre avec une prise en pronation, les mains un peu plus larges que la largeur des épaules. Garde tes bras tendus et laisse la barre pendre devant tes cuisses. Monte tes épaules tout droit vers tes oreilles, en contractant tes trapèzes en haut. Maintiens un moment, puis abaisse tes épaules jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and your knees slightly bent.",
+      "Grasp the barbell with an overhand grip, hands slightly wider than shoulder-width apart.",
+      "Keep your arms straight and allow the barbell to hang in front of your thighs.",
+      "Lift your shoulders straight up towards your ears, squeezing your traps at the top.",
+      "Hold for a moment, then lower your shoulders back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle e le ginocchia leggermente piegate.",
+      "Afferrare il bilanciere con una presa prona, con le mani leggermente più larghe della larghezza delle spalle.",
+      "Tieni le braccia tese e lascia che il bilanciere penda davanti alle cosce.",
+      "Solleva le spalle verso le orecchie, stringendo le trappole in alto.",
+      "Mantieni la posizione per un momento, quindi abbassa le spalle nella posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık ve dizleriniz hafifçe bükülü şekilde ayakta durun.",
+      "Halteri üstten kavrayarak, eller omuz genişliğinden biraz daha geniş olacak şekilde kavrayın.",
+      "Kollarınızı düz tutun ve halterin uyluklarınızın önünde asılı kalmasına izin verin.",
+      "Omuzlarınızı doğrudan kulaklarınıza doğru kaldırın, tuzaklarınızı üst kısımda sıkıştırın.",
+      "Bir süre bekleyin, ardından omuzlarınızı başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y las rodillas ligeramente flexionadas.",
+      "Agarra la barra con un agarre pronado, con las manos un poco más separadas que el ancho de los hombros.",
+      "Mantén los brazos rectos y deja que la barra cuelgue frente a los muslos.",
+      "Levanta los hombros directamente hacia las orejas, contrayendo los trapecios en la parte alta.",
+      "Mantén la posición por un momento, luego baja los hombros de nuevo a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, поставив ноги на ширине плеч и слегка согнув колени.",
+      "Возьмите штангу хватом сверху, руки на расстоянии чуть шире плеч.",
+      "Держите руки прямо и позвольте штанге висеть перед бедрами.",
+      "Поднимите плечи прямо вверх к ушам, сжимая трапеции вверху.",
+      "Задержитесь на мгновение, затем опустите плечи обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，膝盖稍微弯曲。",
+      "正手握住杠铃，双手间距略宽于肩宽。",
+      "保持手臂伸直，让杠铃挂在大腿前面。",
+      "将肩膀向耳朵方向伸直，挤压斜方肌顶部。",
+      "保持一会儿，然后将肩膀放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और आपके घुटने थोड़े मुड़े हुए हों।",
+      "बारबेल को ओवरहैंड ग्रिप से पकड़ें, हाथों को कंधे की चौड़ाई से थोड़ा चौड़ा रखें।",
+      "अपनी बाहों को सीधा रखें और बारबेल को अपनी जांघों के सामने लटकने दें।",
+      "अपने कंधों को सीधे अपने कानों की ओर उठाएं, अपने जालों को शीर्ष पर दबाएं।",
+      "एक क्षण के लिए रुकें, फिर अपने कंधों को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków z lekko ugiętymi kolanami.",
+      "Chwyć sztangę nachwytem, dłońmi ustawionymi nieco szerzej niż szerokość barków.",
+      "Trzymaj ręce proste i pozwól sztandze zwisać przed udami.",
+      "Unieś barki prosto w górę w kierunku uszu, ściskając mięśnie czworoboczne na górze ruchu.",
+      "Przytrzymaj przez chwilę, a następnie opuść barki z powrotem do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 너비만큼 벌려서 서고 무릎을 약간 구부리세요.",
+      "바벨을 오버핸드 그립으로 잡되 손을 어깨 너비보다 약간 넓게 벌리세요.",
+      "팔을 펴서 바벨을 허벅지 앞에 매달리게 하세요.",
+      "어깨를 귀 쪽으로 쭉 올려 등 근육을 수축시키세요.",
+      "잠깐 멈춘 후 어깨를 시작 자세로 내려놓으세요.",
+      "원하는 반복 횟수만큼 반복하세요."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et les genoux légèrement fléchis.",
+      "Saisis la barre avec une prise en pronation, les mains un peu plus larges que la largeur des épaules.",
+      "Garde tes bras tendus et laisse la barre pendre devant tes cuisses.",
+      "Monte tes épaules tout droit vers tes oreilles, en contractant tes trapèzes en haut.",
+      "Maintiens un moment, puis abaisse tes épaules jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders"
+  ],
+  "target": "traps",
+  "image": "images/0746-MzNnwx9.jpg",
+  "gif_url": "videos/0746-MzNnwx9.gif",
+  "media_id": "MzNnwx9",
+  "created_at": "2026-03-18T12:31:32.890379+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

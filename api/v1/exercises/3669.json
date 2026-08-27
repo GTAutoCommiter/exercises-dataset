@@ -1,0 +1,123 @@
+{
+  "id": "3669",
+  "name": "standing archer",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and your knees slightly bent. Extend your arms straight out in front of you at shoulder height, parallel to the ground. Rotate your torso to the right, keeping your arms extended and your back straight. As you rotate, extend your right arm forward and your left arm back, mimicking the motion of drawing a bowstring. Hold the position for a moment, then return to the starting position. Repeat the motion, this time rotating your torso to the left and extending your left arm forward and your right arm back. Continue alternating sides for the desired number of repetitions.",
+    "it": "Stai con i piedi alla larghezza delle spalle e le ginocchia leggermente piegate. Estendi le braccia davanti a te all'altezza delle spalle, parallele al suolo. Ruota il busto verso destra, mantenendo le braccia tese e la schiena dritta. Mentre ruoti, estendi il braccio destro in avanti e il braccio sinistro indietro, imitando il movimento di tendere una corda dell'arco. Mantieni la posizione per un momento, quindi torna alla posizione di partenza. Ripeti il ​​movimento, questa volta ruotando il busto verso sinistra ed estendendo il braccio sinistro in avanti e il braccio destro indietro. Continua ad alternare i lati per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız omuz genişliğinde açık ve dizleriniz hafifçe bükülü şekilde ayakta durun. Kollarınızı omuz yüksekliğinde, yere paralel olarak önünüze doğru uzatın. Kollarınızı uzatarak ve sırtınızı düz tutarak gövdenizi sağa döndürün. Döndüğünüzde, kiriş çekme hareketini taklit ederek sağ kolunuzu öne ve sol kolunuzu geriye doğru uzatın. Bir süre bu pozisyonda kalın, ardından başlangıç ​​pozisyonuna dönün. Bu sefer gövdenizi sola döndürerek ve sol kolunuzu öne, sağ kolunuzu geriye doğru uzatarak hareketi tekrarlayın. İstenilen tekrar sayısı için alternatif taraflara devam edin.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y las rodillas ligeramente flexionadas. Extiende los brazos rectos hacia adelante a la altura de los hombros, paralelos al suelo. Gira el torso hacia la derecha, manteniendo los brazos extendidos y la espalda recta. Mientras giras, extiende el brazo derecho hacia adelante y el brazo izquierdo hacia atrás, imitando el movimiento de tensar un arco. Mantén la posición por un momento y luego vuelve a la posición inicial. Repite el movimiento, esta vez girando el torso hacia la izquierda y extendiendo el brazo izquierdo hacia adelante y el brazo derecho hacia atrás. Continúa alternando lados durante el número de repeticiones deseado.",
+    "ru": "Встаньте, поставив ноги на ширине плеч и слегка согнув колени. Вытяните руки прямо перед собой на уровне плеч, параллельно земле. Поверните туловище вправо, держа руки вытянутыми и спину прямой. Во время вращения вытяните правую руку вперед, а левую назад, имитируя движение натягивания тетивы. Удерживайте положение на мгновение, затем вернитесь в исходное положение. Повторите движение, на этот раз повернув туловище влево и вытянув левую руку вперед, а правую назад. Продолжайте чередовать стороны желаемое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，膝盖稍微弯曲。 将双臂伸直至前方，与肩同高，与地面平行。 将躯干向右旋转，保持双臂伸展，背部挺直。 旋转时，向前伸展右臂，向后伸展左臂，模仿拉弓弦的动作。 保持该姿势片刻，然后回到起始位置。 重复该动作，这次将躯干向左旋转，左臂向前伸展，右臂向后伸展。 继续交替进行所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और आपके घुटने थोड़े मुड़े हुए हों। अपनी भुजाओं को ज़मीन के समानांतर कंधे की ऊंचाई पर अपने सामने सीधा फैलाएं। अपने धड़ को दाईं ओर घुमाएं, अपनी बाहों को फैलाएं और अपनी पीठ को सीधा रखें। जैसे ही आप घूमते हैं, धनुष की डोरी खींचने की गति की नकल करते हुए अपने दाहिने हाथ को आगे की ओर और अपने बाएं हाथ को पीछे की ओर फैलाएं। एक क्षण के लिए इस स्थिति में रहें, फिर प्रारंभिक स्थिति में लौट आएं। गति को दोहराएं, इस बार अपने धड़ को बाईं ओर घुमाएं और अपने बाएं हाथ को आगे और अपने दाहिने हाथ को पीछे की ओर फैलाएं। दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।",
+    "pl": "Stań w rozkroku na szerokość barków z lekko ugiętymi kolanami. Wyciągnij ręce prosto przed sobą na wysokości barków, równolegle do podłogi. Obróć tułów w prawo, trzymając ręce wyciągnięte, a plecy proste. Podczas obrotu wyciągnij prawą rękę do przodu, a lewą do tyłu, naśladując ruch naciągania cięciwy łuku. Przytrzymaj pozycję przez chwilę, a następnie wróć do pozycji wyjściowej. Powtórz ruch, tym razem obracając tułów w lewo i wyciągając lewą rękę do przodu, a prawą do tyłu. Kontynuuj naprzemienną zmianę stron przez zadaną liczbę powtórzeń.",
+    "ko": "발을 어깨너비로 벌리고 무릎을 약간 구부린 상태로 서 있습니다. 팔을 어깨 높이에 앞으로 펴 땅과 평행하게 합니다. 팔을 펼친 상태를 유지하고 등을 곧게 하면서 몸통을 오른쪽으로 돌립니다. 돌리면서 오른팔을 앞으로, 왼팔을 뒤로 펴 활을 그으려는 동작을 흉내냅니다. 잠깐 자세를 유지한 후 시작 자세로 돌아옵니다. 이번에는 몸통을 왼쪽으로 돌리면서 왼팔을 앞으로, 오른팔을 뒤로 펴는 동작을 반복합니다. 원하는 횟수만큼 양쪽을 번갈아가며 계속합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et les genoux légèrement fléchis. Étends les bras droit devant toi à hauteur d'épaules, parallèles au sol. Fais pivoter ton torse vers la droite, en gardant tes bras étendus et ton dos droit. En pivotant, étends ton bras droit vers l'avant et ton bras gauche vers l'arrière, imitant le geste de tirer sur la corde d'un arc. Maintiens la position un moment, puis reviens à la position de départ. Répète le mouvement, cette fois en faisant pivoter ton torse vers la gauche et en étendant ton bras gauche vers l'avant et ton bras droit vers l'arrière. Continue à alterner les côtés pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and your knees slightly bent.",
+      "Extend your arms straight out in front of you at shoulder height, parallel to the ground.",
+      "Rotate your torso to the right, keeping your arms extended and your back straight.",
+      "As you rotate, extend your right arm forward and your left arm back, mimicking the motion of drawing a bowstring.",
+      "Hold the position for a moment, then return to the starting position.",
+      "Repeat the motion, this time rotating your torso to the left and extending your left arm forward and your right arm back.",
+      "Continue alternating sides for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle e le ginocchia leggermente piegate.",
+      "Estendi le braccia davanti a te all'altezza delle spalle, parallele al suolo.",
+      "Ruota il busto verso destra, mantenendo le braccia tese e la schiena dritta.",
+      "Mentre ruoti, estendi il braccio destro in avanti e il braccio sinistro indietro, imitando il movimento di tendere una corda dell'arco.",
+      "Mantieni la posizione per un momento, quindi torna alla posizione di partenza.",
+      "Ripeti il ​​movimento, questa volta ruotando il busto verso sinistra ed estendendo il braccio sinistro in avanti e il braccio destro indietro.",
+      "Continua ad alternare i lati per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık ve dizleriniz hafifçe bükülü şekilde ayakta durun.",
+      "Kollarınızı omuz yüksekliğinde, yere paralel olarak önünüze doğru uzatın.",
+      "Kollarınızı uzatarak ve sırtınızı düz tutarak gövdenizi sağa döndürün.",
+      "Döndüğünüzde, kiriş çekme hareketini taklit ederek sağ kolunuzu öne ve sol kolunuzu geriye doğru uzatın.",
+      "Bir süre bu pozisyonda kalın, ardından başlangıç ​​pozisyonuna dönün.",
+      "Bu sefer gövdenizi sola döndürerek ve sol kolunuzu öne, sağ kolunuzu geriye doğru uzatarak hareketi tekrarlayın.",
+      "İstenilen tekrar sayısı için alternatif taraflara devam edin."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y las rodillas ligeramente flexionadas.",
+      "Extiende los brazos rectos hacia adelante a la altura de los hombros, paralelos al suelo.",
+      "Gira el torso hacia la derecha, manteniendo los brazos extendidos y la espalda recta.",
+      "Mientras giras, extiende el brazo derecho hacia adelante y el brazo izquierdo hacia atrás, imitando el movimiento de tensar un arco.",
+      "Mantén la posición por un momento y luego vuelve a la posición inicial.",
+      "Repite el movimiento, esta vez girando el torso hacia la izquierda y extendiendo el brazo izquierdo hacia adelante y el brazo derecho hacia atrás.",
+      "Continúa alternando lados durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, поставив ноги на ширине плеч и слегка согнув колени.",
+      "Вытяните руки прямо перед собой на уровне плеч, параллельно земле.",
+      "Поверните туловище вправо, держа руки вытянутыми и спину прямой.",
+      "Во время вращения вытяните правую руку вперед, а левую назад, имитируя движение натягивания тетивы.",
+      "Удерживайте положение на мгновение, затем вернитесь в исходное положение.",
+      "Повторите движение, на этот раз повернув туловище влево и вытянув левую руку вперед, а правую назад.",
+      "Продолжайте чередовать стороны желаемое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，膝盖稍微弯曲。",
+      "将双臂伸直至前方，与肩同高，与地面平行。",
+      "将躯干向右旋转，保持双臂伸展，背部挺直。",
+      "旋转时，向前伸展右臂，向后伸展左臂，模仿拉弓弦的动作。",
+      "保持该姿势片刻，然后回到起始位置。",
+      "重复该动作，这次将躯干向左旋转，左臂向前伸展，右臂向后伸展。",
+      "继续交替进行所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और आपके घुटने थोड़े मुड़े हुए हों।",
+      "अपनी भुजाओं को ज़मीन के समानांतर कंधे की ऊंचाई पर अपने सामने सीधा फैलाएं।",
+      "अपने धड़ को दाईं ओर घुमाएं, अपनी बाहों को फैलाएं और अपनी पीठ को सीधा रखें।",
+      "जैसे ही आप घूमते हैं, धनुष की डोरी खींचने की गति की नकल करते हुए अपने दाहिने हाथ को आगे की ओर और अपने बाएं हाथ को पीछे की ओर फैलाएं।",
+      "एक क्षण के लिए इस स्थिति में रहें, फिर प्रारंभिक स्थिति में लौट आएं।",
+      "गति को दोहराएं, इस बार अपने धड़ को बाईं ओर घुमाएं और अपने बाएं हाथ को आगे और अपने दाहिने हाथ को पीछे की ओर फैलाएं।",
+      "दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków z lekko ugiętymi kolanami.",
+      "Wyciągnij ręce prosto przed sobą na wysokości barków, równolegle do podłogi.",
+      "Obróć tułów w prawo, trzymając ręce wyciągnięte, a plecy proste.",
+      "Podczas obrotu wyciągnij prawą rękę do przodu, a lewą do tyłu, naśladując ruch naciągania cięciwy łuku.",
+      "Przytrzymaj pozycję przez chwilę, a następnie wróć do pozycji wyjściowej.",
+      "Powtórz ruch, tym razem obracając tułów w lewo i wyciągając lewą rękę do przodu, a prawą do tyłu.",
+      "Kontynuuj naprzemienną zmianę stron przez zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨너비로 벌리고 무릎을 약간 구부린 상태로 서 있습니다.",
+      "팔을 어깨 높이에 앞으로 펴 땅과 평행하게 합니다.",
+      "팔을 펼친 상태를 유지하고 등을 곧게 하면서 몸통을 오른쪽으로 돌립니다.",
+      "돌리면서 오른팔을 앞으로, 왼팔을 뒤로 펴 활을 그으려는 동작을 흉내냅니다.",
+      "잠깐 자세를 유지한 후 시작 자세로 돌아옵니다.",
+      "이번에는 몸통을 왼쪽으로 돌리면서 왼팔을 앞으로, 오른팔을 뒤로 펴는 동작을 반복합니다.",
+      "원하는 횟수만큼 양쪽을 번갈아가며 계속합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et les genoux légèrement fléchis.",
+      "Étends les bras droit devant toi à hauteur d'épaules, parallèles au sol.",
+      "Fais pivoter ton torse vers la droite, en gardant tes bras étendus et ton dos droit.",
+      "En pivotant, étends ton bras droit vers l'avant et ton bras gauche vers l'arrière, imitant le geste de tirer sur la corde d'un arc.",
+      "Maintiens la position un moment, puis reviens à la position de départ.",
+      "Répète le mouvement, cette fois en faisant pivoter ton torse vers la gauche et en étendant ton bras gauche vers l'avant et ton bras droit vers l'arrière.",
+      "Continue à alterner les côtés pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "biceps",
+    "forearms"
+  ],
+  "target": "upper back",
+  "image": "images/3669-JF8AkMX.jpg",
+  "gif_url": "videos/3669-JF8AkMX.gif",
+  "media_id": "JF8AkMX",
+  "created_at": "2026-03-18T12:31:32.891514+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

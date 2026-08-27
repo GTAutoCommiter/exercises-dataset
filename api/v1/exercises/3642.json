@@ -1,0 +1,113 @@
+{
+  "id": "3642",
+  "name": "weighted stretch lunge",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "weighted",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart. Take a step forward with your right foot, keeping your back straight. Lower your body by bending your knees until your right thigh is parallel to the ground. Push through your right heel to return to the starting position. Repeat with your left leg. Continue alternating legs for the desired number of repetitions.",
+    "it": "Stai con i piedi alla larghezza delle spalle. Fai un passo avanti con il piede destro, mantenendo la schiena dritta. Abbassa il corpo piegando le ginocchia finché la coscia destra non è parallela al suolo. Spingi attraverso il tallone destro per tornare alla posizione di partenza. Ripeti con la gamba sinistra. Continua ad alternare le gambe per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durun. Sağ ayağınızla öne doğru bir adım atın, sırtınızı düz tutun. Sağ uyluğunuz yere paralel oluncaya kadar dizlerinizi bükerek vücudunuzu indirin. Başlangıç ​​pozisyonuna dönmek için sağ topuğunuzu itin. Sol bacağınızla tekrarlayın. İstenilen sayıda tekrar için bacakları değiştirerek devam edin.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros. Da un paso adelante con el pie derecho, manteniendo la espalda recta. Baja el cuerpo flexionando las rodillas hasta que el muslo derecho quede paralelo al suelo. Empuja con el talón derecho para regresar a la posición inicial. Repite con la pierna izquierda. Continúa alternando las piernas durante el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч. Сделайте шаг вперед правой ногой, держа спину прямо. Опустите тело, сгибая колени, пока правое бедро не станет параллельно земле. Оттолкнитесь правой пяткой, чтобы вернуться в исходное положение. Повторите с левой ногой. Продолжайте чередовать ноги желаемое количество повторений.",
+    "zh": "双脚分开与肩同宽站立。 右脚向前迈出一步，保持背部挺直。 弯曲膝盖降低身体，直到右大腿与地面平行。 推动右脚跟回到起始位置。 左腿重复上述动作。 继续交替双腿达到所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई की दूरी पर रखकर खड़े हो जाएं। अपनी पीठ सीधी रखते हुए अपने दाहिने पैर से एक कदम आगे बढ़ाएं। अपने घुटनों को मोड़कर अपने शरीर को तब तक नीचे करें जब तक कि आपकी दाहिनी जांघ जमीन के समानांतर न हो जाए। प्रारंभिक स्थिति में लौटने के लिए अपनी दाहिनी एड़ी को धक्का दें। अपने बाएँ पैर से दोहराएँ। पुनरावृत्ति की वांछित संख्या के लिए पैरों को बारी-बारी से जारी रखें।",
+    "pl": "Stań ze stopami rozstawionymi na szerokość barków. Zrób krok do przodu prawą stopą, trzymając plecy proste. Opuść ciało, uginając kolana, aż prawe udo będzie równoległe do podłoża. Wypchnij się prawą piętą, aby wrócić do pozycji wyjściowej. Powtórz lewą nogą. Kontynuuj naprzemienne nogi przez żądaną liczbę powtórzeń.",
+    "ko": "발을 어깨 너비만큼 떨어뜨리고 서 있습니다. 오른발을 앞으로 내딛고 등을 곧게 유지합니다. 무릎을 구부려 오른쪽 넓적다리가 바닥과 평행할 때까지 몸을 내립니다. 오른쪽 발꿈치를 통해 밀어 시작 위치로 돌아갑니다. 왼발로 반복합니다. 원하는 반복 횟수만큼 다리를 계속 교대로 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules. Fais un pas en avant avec le pied droit, en gardant le dos droit. Abaisse ton corps en fléchissant tes genoux jusqu'à ce que ta cuisse droite soit parallèle au sol. Pousse à travers ton talon droit pour revenir à la position de départ. Répète avec ta jambe gauche. Continue à alterner les jambes pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart.",
+      "Take a step forward with your right foot, keeping your back straight.",
+      "Lower your body by bending your knees until your right thigh is parallel to the ground.",
+      "Push through your right heel to return to the starting position.",
+      "Repeat with your left leg.",
+      "Continue alternating legs for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle.",
+      "Fai un passo avanti con il piede destro, mantenendo la schiena dritta.",
+      "Abbassa il corpo piegando le ginocchia finché la coscia destra non è parallela al suolo.",
+      "Spingi attraverso il tallone destro per tornare alla posizione di partenza.",
+      "Ripeti con la gamba sinistra.",
+      "Continua ad alternare le gambe per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durun.",
+      "Sağ ayağınızla öne doğru bir adım atın, sırtınızı düz tutun.",
+      "Sağ uyluğunuz yere paralel oluncaya kadar dizlerinizi bükerek vücudunuzu indirin.",
+      "Başlangıç ​​pozisyonuna dönmek için sağ topuğunuzu itin.",
+      "Sol bacağınızla tekrarlayın.",
+      "İstenilen sayıda tekrar için bacakları değiştirerek devam edin."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros.",
+      "Da un paso adelante con el pie derecho, manteniendo la espalda recta.",
+      "Baja el cuerpo flexionando las rodillas hasta que el muslo derecho quede paralelo al suelo.",
+      "Empuja con el talón derecho para regresar a la posición inicial.",
+      "Repite con la pierna izquierda.",
+      "Continúa alternando las piernas durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч.",
+      "Сделайте шаг вперед правой ногой, держа спину прямо.",
+      "Опустите тело, сгибая колени, пока правое бедро не станет параллельно земле.",
+      "Оттолкнитесь правой пяткой, чтобы вернуться в исходное положение.",
+      "Повторите с левой ногой.",
+      "Продолжайте чередовать ноги желаемое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立。",
+      "右脚向前迈出一步，保持背部挺直。",
+      "弯曲膝盖降低身体，直到右大腿与地面平行。",
+      "推动右脚跟回到起始位置。",
+      "左腿重复上述动作。",
+      "继续交替双腿达到所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई की दूरी पर रखकर खड़े हो जाएं।",
+      "अपनी पीठ सीधी रखते हुए अपने दाहिने पैर से एक कदम आगे बढ़ाएं।",
+      "अपने घुटनों को मोड़कर अपने शरीर को तब तक नीचे करें जब तक कि आपकी दाहिनी जांघ जमीन के समानांतर न हो जाए।",
+      "प्रारंभिक स्थिति में लौटने के लिए अपनी दाहिनी एड़ी को धक्का दें।",
+      "अपने बाएँ पैर से दोहराएँ।",
+      "पुनरावृत्ति की वांछित संख्या के लिए पैरों को बारी-बारी से जारी रखें।"
+    ],
+    "pl": [
+      "Stań ze stopami rozstawionymi na szerokość barków.",
+      "Zrób krok do przodu prawą stopą, trzymając plecy proste.",
+      "Opuść ciało, uginając kolana, aż prawe udo będzie równoległe do podłoża.",
+      "Wypchnij się prawą piętą, aby wrócić do pozycji wyjściowej.",
+      "Powtórz lewą nogą.",
+      "Kontynuuj naprzemienne nogi przez żądaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 너비만큼 떨어뜨리고 서 있습니다.",
+      "오른발을 앞으로 내딛고 등을 곧게 유지합니다.",
+      "무릎을 구부려 오른쪽 넓적다리가 바닥과 평행할 때까지 몸을 내립니다.",
+      "오른쪽 발꿈치를 통해 밀어 시작 위치로 돌아갑니다.",
+      "왼발로 반복합니다.",
+      "원하는 반복 횟수만큼 다리를 계속 교대로 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules.",
+      "Fais un pas en avant avec le pied droit, en gardant le dos droit.",
+      "Abaisse ton corps en fléchissant tes genoux jusqu'à ce que ta cuisse droite soit parallèle au sol.",
+      "Pousse à travers ton talon droit pour revenir à la position de départ.",
+      "Répète avec ta jambe gauche.",
+      "Continue à alterner les jambes pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "glutes",
+  "image": "images/3642-13VW2VO.jpg",
+  "gif_url": "videos/3642-13VW2VO.gif",
+  "media_id": "13VW2VO",
+  "created_at": "2026-03-18T12:31:32.906342+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

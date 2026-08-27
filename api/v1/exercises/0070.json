@@ -1,0 +1,111 @@
+{
+  "id": "0070",
+  "name": "barbell preacher curl",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Sit on a preacher bench with your upper arms resting on the pad and your chest against the support. Grasp the barbell with an underhand grip, slightly wider than shoulder-width apart. Keeping your upper arms stationary, exhale and curl the barbell up towards your shoulders. Pause for a moment at the top, squeezing your biceps. Inhale and slowly lower the barbell back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Siediti su una panca da predicatore con la parte superiore delle braccia appoggiata sul cuscino e il petto contro il supporto. Afferrare il bilanciere con una presa subdola, leggermente più larga della larghezza delle spalle. Mantenendo ferma la parte superiore delle braccia, espira e porta il bilanciere verso le spalle. Fermati un attimo in alto, contraendo i bicipiti. Inspira e abbassa lentamente il bilanciere nella posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Üst kollarınız yastığa ve göğsünüz desteğe dayanacak şekilde bir vaiz bankına oturun. Halteri omuz genişliğinden biraz daha geniş olacak şekilde alttan kavrayın. Üst kollarınızı sabit tutarak nefes verin ve halteri omuzlarınıza doğru kıvırın. Bicepslerinizi sıkarak tepede bir an duraklayın. Nefes alın ve halteri yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Siéntate en un banco predicador con los brazos superiores apoyados en el cojín y el pecho contra el soporte. Agarra la barra con un agarre supino, un poco más ancho que la separación de los hombros. Manteniendo los brazos superiores fijos, exhala y levanta la barra hacia los hombros. Haz una pausa breve en la parte alta, apretando los bíceps. Inhala y baja lentamente la barra de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Сядьте на скамью для проповедника, положив плечи на подушку и грудь на опору. Возьмите штангу хватом снизу, на расстоянии чуть шире ширины плеч. Удерживая плечи неподвижно, выдохните и поднимите штангу к плечам. Задержитесь на мгновение в верхней точке, напрягая бицепсы. Вдохните и медленно опустите штангу обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "坐在牧师凳上，上臂放在垫子上，胸部靠在支撑物上。 反手握住杠铃，握距略宽于肩宽。 保持上臂静止，呼气并将杠铃向上弯向肩膀。 在顶部暂停片刻，挤压你的二头肌。 吸气并慢慢将杠铃放回起始位置。 重复所需的重复次数。",
+    "hi": "अपनी ऊपरी बांहों को पैड पर और अपनी छाती को सहारे पर टिकाकर एक उपदेशक बेंच पर बैठें। बारबेल को कंधे की चौड़ाई से थोड़ा अधिक चौड़े हाथ से पकड़ें। अपनी ऊपरी बांहों को स्थिर रखते हुए सांस छोड़ें और बारबेल को अपने कंधों की ओर मोड़ें। अपने बाइसेप्स को निचोड़ते हुए शीर्ष पर एक पल के लिए रुकें। श्वास लें और धीरे-धीरे बारबेल को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Usiądź na ławce Scotta, opierając ramiona na poduszce, a klatkę piersiową o podparcie. Chwyć sztangę chwytem podchwytem, nieco szerszym niż szerokość barków. Utrzymując ramiona nieruchomo, wydychaj powietrze, uginając sztangę w kierunku barków. Zatrzymaj się na chwilę na górze, mocno napinając biceps. Wdychaj powietrze, powoli opuszczając sztangę z powrotem do pozycji wyjściowej. Powtórz odpowiednią liczbę razy.",
+    "ko": "프리처 벤치에 앉아 상완이 패드에 올려지고 가슴이 지지대에 닿도록 합니다. 언더그립으로 바벨을 잡되, 손은 어깨너비보다 약간 넓게 벌립니다. 상완을 움직이지 않게 고정하고 숨을 내쉬면서 바벨을 어깨 방향으로 구부립니다. 위에서 잠깐 멈춘 후 이두근을 짜냅니다. 숨을 들이쉬면서 바벨을 천천히 시작 위치로 내립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Assieds-toi sur un banc à prêcheur, le haut de tes bras posé sur le coussin et ta poitrine contre le support. Saisis la barre avec une prise en supination, un peu plus large que la largeur des épaules. En gardant le haut des bras immobile, expire et fléchis la barre vers tes épaules. Marque une pause en haut, en contractant tes biceps. Inspire et abaisse lentement la barre jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on a preacher bench with your upper arms resting on the pad and your chest against the support.",
+      "Grasp the barbell with an underhand grip, slightly wider than shoulder-width apart.",
+      "Keeping your upper arms stationary, exhale and curl the barbell up towards your shoulders.",
+      "Pause for a moment at the top, squeezing your biceps.",
+      "Inhale and slowly lower the barbell back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Siediti su una panca da predicatore con la parte superiore delle braccia appoggiata sul cuscino e il petto contro il supporto.",
+      "Afferrare il bilanciere con una presa subdola, leggermente più larga della larghezza delle spalle.",
+      "Mantenendo ferma la parte superiore delle braccia, espira e porta il bilanciere verso le spalle.",
+      "Fermati un attimo in alto, contraendo i bicipiti.",
+      "Inspira e abbassa lentamente il bilanciere nella posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Üst kollarınız yastığa ve göğsünüz desteğe dayanacak şekilde bir vaiz bankına oturun.",
+      "Halteri omuz genişliğinden biraz daha geniş olacak şekilde alttan kavrayın.",
+      "Üst kollarınızı sabit tutarak nefes verin ve halteri omuzlarınıza doğru kıvırın.",
+      "Bicepslerinizi sıkarak tepede bir an duraklayın.",
+      "Nefes alın ve halteri yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Siéntate en un banco predicador con los brazos superiores apoyados en el cojín y el pecho contra el soporte.",
+      "Agarra la barra con un agarre supino, un poco más ancho que la separación de los hombros.",
+      "Manteniendo los brazos superiores fijos, exhala y levanta la barra hacia los hombros.",
+      "Haz una pausa breve en la parte alta, apretando los bíceps.",
+      "Inhala y baja lentamente la barra de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на скамью для проповедника, положив плечи на подушку и грудь на опору.",
+      "Возьмите штангу хватом снизу, на расстоянии чуть шире ширины плеч.",
+      "Удерживая плечи неподвижно, выдохните и поднимите штангу к плечам.",
+      "Задержитесь на мгновение в верхней точке, напрягая бицепсы.",
+      "Вдохните и медленно опустите штангу обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "坐在牧师凳上，上臂放在垫子上，胸部靠在支撑物上。",
+      "反手握住杠铃，握距略宽于肩宽。",
+      "保持上臂静止，呼气并将杠铃向上弯向肩膀。",
+      "在顶部暂停片刻，挤压你的二头肌。",
+      "吸气并慢慢将杠铃放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपनी ऊपरी बांहों को पैड पर और अपनी छाती को सहारे पर टिकाकर एक उपदेशक बेंच पर बैठें।",
+      "बारबेल को कंधे की चौड़ाई से थोड़ा अधिक चौड़े हाथ से पकड़ें।",
+      "अपनी ऊपरी बांहों को स्थिर रखते हुए सांस छोड़ें और बारबेल को अपने कंधों की ओर मोड़ें।",
+      "अपने बाइसेप्स को निचोड़ते हुए शीर्ष पर एक पल के लिए रुकें।",
+      "श्वास लें और धीरे-धीरे बारबेल को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Usiądź na ławce Scotta, opierając ramiona na poduszce, a klatkę piersiową o podparcie.",
+      "Chwyć sztangę chwytem podchwytem, nieco szerszym niż szerokość barków.",
+      "Utrzymując ramiona nieruchomo, wydychaj powietrze, uginając sztangę w kierunku barków.",
+      "Zatrzymaj się na chwilę na górze, mocno napinając biceps.",
+      "Wdychaj powietrze, powoli opuszczając sztangę z powrotem do pozycji wyjściowej.",
+      "Powtórz odpowiednią liczbę razy."
+    ],
+    "ko": [
+      "프리처 벤치에 앉아 상완이 패드에 올려지고 가슴이 지지대에 닿도록 합니다.",
+      "언더그립으로 바벨을 잡되, 손은 어깨너비보다 약간 넓게 벌립니다.",
+      "상완을 움직이지 않게 고정하고 숨을 내쉬면서 바벨을 어깨 방향으로 구부립니다.",
+      "위에서 잠깐 멈춘 후 이두근을 짜냅니다.",
+      "숨을 들이쉬면서 바벨을 천천히 시작 위치로 내립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Assieds-toi sur un banc à prêcheur, le haut de tes bras posé sur le coussin et ta poitrine contre le support.",
+      "Saisis la barre avec une prise en supination, un peu plus large que la largeur des épaules.",
+      "En gardant le haut des bras immobile, expire et fléchis la barre vers tes épaules.",
+      "Marque une pause en haut, en contractant tes biceps.",
+      "Inspire et abaisse lentement la barre jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "forearms",
+  "secondary_muscles": [
+    "forearms"
+  ],
+  "target": "biceps",
+  "image": "images/0070-qOgPVf6.jpg",
+  "gif_url": "videos/0070-qOgPVf6.gif",
+  "media_id": "qOgPVf6",
+  "created_at": "2026-03-18T12:31:32.87223+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

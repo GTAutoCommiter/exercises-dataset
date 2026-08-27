@@ -1,0 +1,91 @@
+{
+  "id": "0407",
+  "name": "dumbbell side bend",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Stand up straight with your feet shoulder-width apart and hold a dumbbell in one hand, letting it hang down by your side. Keeping your back straight and your core engaged, slowly bend sideways at the waist towards the opposite side of the dumbbell, lowering the weight as far as you comfortably can. Pause for a moment, then slowly return to the starting position. Repeat for the desired number of repetitions, then switch sides and repeat.",
+    "it": "Stai dritto con i piedi alla larghezza delle spalle e tieni un manubrio in una mano, lasciandolo pendere lungo il fianco. Tenendo la schiena dritta e il core attivo, piegati lentamente lateralmente in vita verso il lato opposto del manubrio, abbassando il peso il più comodamente possibile. Fermati un attimo, poi torna lentamente alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni, poi cambia lato e ripeti.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde dik durun ve bir elinizde bir dambıl tutun, yanınıza sarkmasına izin verin. Sırtınızı düz ve merkez bölgenizi meşgul tutarak, yavaşça dambılın karşı tarafına doğru belinizi yanlara doğru bükün ve ağırlığı rahatça yapabildiğiniz kadar indirin. Bir an duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün. İstenilen tekrar sayısı kadar tekrarlayın, ardından taraf değiştirin ve tekrarlayın.",
+    "es": "Ponte de pie con la espalda recta y los pies separados a la altura de los hombros, sujetando una mancuerna con una mano y dejando que cuelgue a tu costado. Manteniendo la espalda recta y el core activado, inclínate lentamente hacia el lado opuesto de la mancuerna, bajando el peso tanto como te sea posible con comodidad. Haz una pausa por un momento, luego regresa lentamente a la posición inicial. Repite el número de repeticiones deseado, luego cambia de lado y repite.",
+    "ru": "Встаньте прямо, ноги на ширине плеч, возьмите в одну руку гантель и позвольте ей свисать сбоку. Удерживая спину прямой и напрягая корпус, медленно согнитесь в талии в сторону противоположной стороны гантели, опуская вес настолько, насколько вам удобно. Сделайте паузу на мгновение, затем медленно вернитесь в исходное положение. Повторите необходимое количество повторений, затем поменяйте сторону и повторите.",
+    "zh": "站直，双脚分开与肩同宽，一手握住哑铃，让它垂在身侧。 保持背部挺直，核心肌群参与，慢慢地将腰部向哑铃的另一侧侧弯，在舒适的范围内尽可能降低重量。 暂停片刻，然后慢慢回到起始位置。 重复所需的重复次数，然后换边重复。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई की दूरी पर रखकर सीधे खड़े हो जाएं और एक हाथ में डंबल पकड़ लें, जिससे वह आपकी बगल में लटक जाए। अपनी पीठ को सीधा रखते हुए और अपने कोर को व्यस्त रखते हुए, धीरे-धीरे कमर को डंबल के विपरीत दिशा की ओर झुकाएं, जितना आप आराम से कर सकते हैं उतना वजन कम करें। एक पल के लिए रुकें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएं, फिर पक्ष बदलें और दोहराएं।",
+    "pl": "Stań prosto w rozkroku na szerokość barków i trzymaj hantlę w jednej dłoni, pozwalając jej swobodnie zwisać z boku ciała. Trzymając plecy proste, a mięśnie brzucha napięte, powoli pochyl tułów w bok, w stronę przeciwną do hantli, opuszczając ciężar tak nisko, jak to komfortowe. Zatrzymaj się na chwilę, a następnie powoli wróć do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń, a następnie zmień stronę i powtórz.",
+    "ko": "발을 어깨 너비로 벌리고 곧게 서서 한 손에 덤벨을 들어 옆에 내린 상태로 유지합니다. 등을 곧게 펴고 코어에 힘을 주면서 덤벨의 반대쪽으로 허리에서 천천히 옆으로 구부려 편안한 범위까지 무게를 내립니다. 잠깐 멈추었다가 천천히 처음 위치로 돌아옵니다. 원하는 반복 횟수만큼 반복한 후 반대쪽으로 반복합니다.",
+    "fr": "Tiens-toi bien droit, les pieds écartés à la largeur des épaules, et tiens un haltère dans une main, en le laissant pendre le long de ton côté. En gardant le dos droit et ta sangle abdominale gainée, penche-toi lentement sur le côté au niveau de la taille vers le côté opposé de l'haltère, en abaissant le poids aussi loin que tu peux confortablement. Marque une pause, puis reviens lentement à la position de départ. Répète le nombre de répétitions souhaité, puis change de côté et recommence."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand up straight with your feet shoulder-width apart and hold a dumbbell in one hand, letting it hang down by your side.",
+      "Keeping your back straight and your core engaged, slowly bend sideways at the waist towards the opposite side of the dumbbell, lowering the weight as far as you comfortably can.",
+      "Pause for a moment, then slowly return to the starting position.",
+      "Repeat for the desired number of repetitions, then switch sides and repeat."
+    ],
+    "it": [
+      "Stai dritto con i piedi alla larghezza delle spalle e tieni un manubrio in una mano, lasciandolo pendere lungo il fianco.",
+      "Tenendo la schiena dritta e il core attivo, piegati lentamente lateralmente in vita verso il lato opposto del manubrio, abbassando il peso il più comodamente possibile.",
+      "Fermati un attimo, poi torna lentamente alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni, poi cambia lato e ripeti."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde dik durun ve bir elinizde bir dambıl tutun, yanınıza sarkmasına izin verin.",
+      "Sırtınızı düz ve merkez bölgenizi meşgul tutarak, yavaşça dambılın karşı tarafına doğru belinizi yanlara doğru bükün ve ağırlığı rahatça yapabildiğiniz kadar indirin.",
+      "Bir an duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından taraf değiştirin ve tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con la espalda recta y los pies separados a la altura de los hombros, sujetando una mancuerna con una mano y dejando que cuelgue a tu costado.",
+      "Manteniendo la espalda recta y el core activado, inclínate lentamente hacia el lado opuesto de la mancuerna, bajando el peso tanto como te sea posible con comodidad.",
+      "Haz una pausa por un momento, luego regresa lentamente a la posición inicial.",
+      "Repite el número de repeticiones deseado, luego cambia de lado y repite."
+    ],
+    "ru": [
+      "Встаньте прямо, ноги на ширине плеч, возьмите в одну руку гантель и позвольте ей свисать сбоку.",
+      "Удерживая спину прямой и напрягая корпус, медленно согнитесь в талии в сторону противоположной стороны гантели, опуская вес настолько, насколько вам удобно.",
+      "Сделайте паузу на мгновение, затем медленно вернитесь в исходное положение.",
+      "Повторите необходимое количество повторений, затем поменяйте сторону и повторите."
+    ],
+    "zh": [
+      "站直，双脚分开与肩同宽，一手握住哑铃，让它垂在身侧。",
+      "保持背部挺直，核心肌群参与，慢慢地将腰部向哑铃的另一侧侧弯，在舒适的范围内尽可能降低重量。",
+      "暂停片刻，然后慢慢回到起始位置。",
+      "重复所需的重复次数，然后换边重复。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई की दूरी पर रखकर सीधे खड़े हो जाएं और एक हाथ में डंबल पकड़ लें, जिससे वह आपकी बगल में लटक जाए।",
+      "अपनी पीठ को सीधा रखते हुए और अपने कोर को व्यस्त रखते हुए, धीरे-धीरे कमर को डंबल के विपरीत दिशा की ओर झुकाएं, जितना आप आराम से कर सकते हैं उतना वजन कम करें।",
+      "एक पल के लिए रुकें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर पक्ष बदलें और दोहराएं।"
+    ],
+    "pl": [
+      "Stań prosto w rozkroku na szerokość barków i trzymaj hantlę w jednej dłoni, pozwalając jej swobodnie zwisać z boku ciała.",
+      "Trzymając plecy proste, a mięśnie brzucha napięte, powoli pochyl tułów w bok, w stronę przeciwną do hantli, opuszczając ciężar tak nisko, jak to komfortowe.",
+      "Zatrzymaj się na chwilę, a następnie powoli wróć do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń, a następnie zmień stronę i powtórz."
+    ],
+    "ko": [
+      "발을 어깨 너비로 벌리고 곧게 서서 한 손에 덤벨을 들어 옆에 내린 상태로 유지합니다.",
+      "등을 곧게 펴고 코어에 힘을 주면서 덤벨의 반대쪽으로 허리에서 천천히 옆으로 구부려 편안한 범위까지 무게를 내립니다.",
+      "잠깐 멈추었다가 천천히 처음 위치로 돌아옵니다.",
+      "원하는 반복 횟수만큼 반복한 후 반대쪽으로 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi bien droit, les pieds écartés à la largeur des épaules, et tiens un haltère dans une main, en le laissant pendre le long de ton côté.",
+      "En gardant le dos droit et ta sangle abdominale gainée, penche-toi lentement sur le côté au niveau de la taille vers le côté opposé de l'haltère, en abaissant le poids aussi loin que tu peux confortablement.",
+      "Marque une pause, puis reviens lentement à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis change de côté et recommence."
+    ]
+  },
+  "muscle_group": "obliques",
+  "secondary_muscles": [
+    "obliques"
+  ],
+  "target": "abs",
+  "image": "images/0407-IpONWYv.jpg",
+  "gif_url": "videos/0407-IpONWYv.gif",
+  "media_id": "IpONWYv",
+  "created_at": "2026-03-18T12:31:32.881599+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

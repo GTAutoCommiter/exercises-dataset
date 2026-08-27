@@ -1,0 +1,102 @@
+{
+  "id": "0341",
+  "name": "dumbbell lying one arm deltoid rear",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Lie face down on a flat bench with a dumbbell in one hand, palm facing inwards. Extend your arm straight down towards the floor, keeping it close to your body. Raise your arm up and back, squeezing your shoulder blade towards your spine. Pause for a moment at the top, then slowly lower your arm back down to the starting position. Repeat for the desired number of repetitions, then switch arms.",
+    "it": "Sdraiati a faccia in giù su una panca piatta con un manubrio in una mano, il palmo rivolto verso l'interno. Allunga il braccio verso il basso verso il pavimento, tenendolo vicino al corpo. Alza il braccio verso l'indietro, stringendo la scapola verso la colonna vertebrale. Fermati un attimo in cima, poi abbassa lentamente il braccio fino alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni, poi cambia braccio.",
+    "tr": "Bir elinizde bir dambıl, avuç içi içe bakacak şekilde düz bir bankta yüzüstü uzanın. Kolunuzu vücudunuza yakın tutarak yere doğru düz bir şekilde uzatın. Kolunuzu yukarı ve geriye doğru kaldırın, kürek kemiğinizi omurganıza doğru sıkıştırın. Tepe noktasında bir an duraklayın, ardından kolunuzu yavaşça başlangıç ​​pozisyonuna indirin. İstenilen tekrar sayısı kadar tekrarlayın, ardından kolları değiştirin.",
+    "es": "Túmbate boca abajo en un banco plano con una mancuerna en una mano, con la palma hacia adentro. Extiende el brazo recto hacia el suelo, manteniéndolo cerca del cuerpo. Levanta el brazo hacia arriba y hacia atrás, acercando el omóplato hacia la columna. Haz una pausa breve en la parte más alta, luego baja lentamente el brazo de vuelta a la posición inicial. Repite el número de repeticiones deseado, luego cambia de brazo.",
+    "ru": "Лягте лицом вниз на плоскую скамью с гантелью в одной руке ладонью внутрь. Вытяните руку прямо вниз к полу, держа ее близко к телу. Поднимите руку вверх и назад, прижимая лопатку к позвоночнику. Задержитесь на мгновение в верхней точке, затем медленно опустите руку обратно в исходное положение. Повторите желаемое количество повторений, затем поменяйте руки.",
+    "zh": "脸朝下躺在平坦的长凳上，一只手握住哑铃，手掌朝内。 将手臂笔直向下伸向地板，保持靠近身体。 向上和向后举起手臂，将肩胛骨挤压向脊柱。 在顶部暂停片刻，然后慢慢将手臂放回起始位置。 重复所需的重复次数，然后换臂。",
+    "hi": "एक सपाट बेंच पर मुंह के बल लेट जाएं और एक हाथ में डंबल लें, हथेली अंदर की ओर रखें। अपने हाथ को अपने शरीर के करीब रखते हुए सीधे नीचे फर्श की ओर फैलाएँ। अपने हाथ को ऊपर और पीछे उठाएं, अपने कंधे के ब्लेड को अपनी रीढ़ की ओर दबाएं। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने हाथ को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएं, फिर हथियार बदल लें।",
+    "pl": "Połóż się twarzą w dół na płaskiej ławce, trzymając hantlę w jednej ręce, dłoń skierowana do wewnątrz. Wyprostuj ramię prosto w dół w kierunku podłogi, trzymając je blisko ciała. Unieś ramię w górę i do tyłu, ściągając łopatkę w kierunku kręgosłupa. Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść ramię do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń, następnie zmień ramię.",
+    "ko": "평평한 벤치에 엎드려 한 손에 덤벨을 들되 손가락이 안쪽을 향합니다. 팔을 바닥 방향으로 쭉 펴고 몸 옆에 가깝게 유지합니다. 팔을 위쪽으로 들어올리면서 등쪽을 뒤로 당기며 어깨 견갑골을 척추 쪽으로 모읍니다. 정상에서 잠시 멈추었다가 팔을 천천히 시작 위치로 내립니다. 원하는 횟수만큼 반복한 후 반대쪽 팔로 전환합니다.",
+    "fr": "Allonge-toi face vers le bas sur un banc plat avec un haltère dans une main, paume tournée vers l'intérieur. Étends ton bras droit vers le bas en direction du sol, en le gardant près de ton corps. Lève ton bras vers le haut et vers l'arrière en contractant ton omoplate vers ta colonne vertébrale. Marque une pause en haut, puis abaisse lentement ton bras pour revenir à la position de départ. Répète le nombre de répétitions souhaité, puis change de bras."
+  },
+  "instruction_steps": {
+    "en": [
+      "Lie face down on a flat bench with a dumbbell in one hand, palm facing inwards.",
+      "Extend your arm straight down towards the floor, keeping it close to your body.",
+      "Raise your arm up and back, squeezing your shoulder blade towards your spine.",
+      "Pause for a moment at the top, then slowly lower your arm back down to the starting position.",
+      "Repeat for the desired number of repetitions, then switch arms."
+    ],
+    "it": [
+      "Sdraiati a faccia in giù su una panca piatta con un manubrio in una mano, il palmo rivolto verso l'interno.",
+      "Allunga il braccio verso il basso verso il pavimento, tenendolo vicino al corpo.",
+      "Alza il braccio verso l'indietro, stringendo la scapola verso la colonna vertebrale.",
+      "Fermati un attimo in cima, poi abbassa lentamente il braccio fino alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni, poi cambia braccio."
+    ],
+    "tr": [
+      "Bir elinizde bir dambıl, avuç içi içe bakacak şekilde düz bir bankta yüzüstü uzanın.",
+      "Kolunuzu vücudunuza yakın tutarak yere doğru düz bir şekilde uzatın.",
+      "Kolunuzu yukarı ve geriye doğru kaldırın, kürek kemiğinizi omurganıza doğru sıkıştırın.",
+      "Tepe noktasında bir an duraklayın, ardından kolunuzu yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından kolları değiştirin."
+    ],
+    "es": [
+      "Túmbate boca abajo en un banco plano con una mancuerna en una mano, con la palma hacia adentro.",
+      "Extiende el brazo recto hacia el suelo, manteniéndolo cerca del cuerpo.",
+      "Levanta el brazo hacia arriba y hacia atrás, acercando el omóplato hacia la columna.",
+      "Haz una pausa breve en la parte más alta, luego baja lentamente el brazo de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado, luego cambia de brazo."
+    ],
+    "ru": [
+      "Лягте лицом вниз на плоскую скамью с гантелью в одной руке ладонью внутрь.",
+      "Вытяните руку прямо вниз к полу, держа ее близко к телу.",
+      "Поднимите руку вверх и назад, прижимая лопатку к позвоночнику.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите руку обратно в исходное положение.",
+      "Повторите желаемое количество повторений, затем поменяйте руки."
+    ],
+    "zh": [
+      "脸朝下躺在平坦的长凳上，一只手握住哑铃，手掌朝内。",
+      "将手臂笔直向下伸向地板，保持靠近身体。",
+      "向上和向后举起手臂，将肩胛骨挤压向脊柱。",
+      "在顶部暂停片刻，然后慢慢将手臂放回起始位置。",
+      "重复所需的重复次数，然后换臂。"
+    ],
+    "hi": [
+      "एक सपाट बेंच पर मुंह के बल लेट जाएं और एक हाथ में डंबल लें, हथेली अंदर की ओर रखें।",
+      "अपने हाथ को अपने शरीर के करीब रखते हुए सीधे नीचे फर्श की ओर फैलाएँ।",
+      "अपने हाथ को ऊपर और पीछे उठाएं, अपने कंधे के ब्लेड को अपनी रीढ़ की ओर दबाएं।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने हाथ को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर हथियार बदल लें।"
+    ],
+    "pl": [
+      "Połóż się twarzą w dół na płaskiej ławce, trzymając hantlę w jednej ręce, dłoń skierowana do wewnątrz.",
+      "Wyprostuj ramię prosto w dół w kierunku podłogi, trzymając je blisko ciała.",
+      "Unieś ramię w górę i do tyłu, ściągając łopatkę w kierunku kręgosłupa.",
+      "Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść ramię do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń, następnie zmień ramię."
+    ],
+    "ko": [
+      "평평한 벤치에 엎드려 한 손에 덤벨을 들되 손가락이 안쪽을 향합니다.",
+      "팔을 바닥 방향으로 쭉 펴고 몸 옆에 가깝게 유지합니다.",
+      "팔을 위쪽으로 들어올리면서 등쪽을 뒤로 당기며 어깨 견갑골을 척추 쪽으로 모읍니다.",
+      "정상에서 잠시 멈추었다가 팔을 천천히 시작 위치로 내립니다.",
+      "원하는 횟수만큼 반복한 후 반대쪽 팔로 전환합니다."
+    ],
+    "fr": [
+      "Allonge-toi face vers le bas sur un banc plat avec un haltère dans une main, paume tournée vers l'intérieur.",
+      "Étends ton bras droit vers le bas en direction du sol, en le gardant près de ton corps.",
+      "Lève ton bras vers le haut et vers l'arrière en contractant ton omoplate vers ta colonne vertébrale.",
+      "Marque une pause en haut, puis abaisse lentement ton bras pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis change de bras."
+    ]
+  },
+  "muscle_group": "trapezius",
+  "secondary_muscles": [
+    "trapezius",
+    "rhomboids"
+  ],
+  "target": "delts",
+  "image": "images/0341-gSw59a4.jpg",
+  "gif_url": "videos/0341-gSw59a4.gif",
+  "media_id": "gSw59a4",
+  "created_at": "2026-03-18T12:31:32.879338+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

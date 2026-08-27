@@ -1,0 +1,114 @@
+{
+  "id": "3672",
+  "name": "back and forth step",
+  "category": "cardio",
+  "body_part": "cardio",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart. Step forward with your right foot, bending your knee and lowering your body into a lunge position. Push off with your right foot and step back to the starting position. Repeat the movement with your left foot, alternating legs with each step. Continue stepping back and forth, maintaining a steady pace. Repeat for the desired duration or number of repetitions.",
+    "it": "Stai con i piedi alla larghezza delle spalle. Fai un passo avanti con il piede destro, piegando il ginocchio e abbassando il corpo in una posizione di affondo. Spingi con il piede destro e torna alla posizione di partenza. Ripeti il ​​movimento con il piede sinistro, alternando le gambe ad ogni passo. Continua a fare passi avanti e indietro, mantenendo un ritmo costante. Ripetere per la durata o il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durun. Sağ ayağınızla öne doğru bir adım atın, dizinizi bükün ve vücudunuzu hamle pozisyonuna indirin. Sağ ayağınızla itin ve başlangıç ​​pozisyonuna geri dönün. Hareketi her adımda bacak değiştirerek sol ayağınızla tekrarlayın. Sabit bir tempoyu koruyarak ileri geri adım atmaya devam edin. İstenilen süre veya tekrar sayısı kadar tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros. Da un paso adelante con el pie derecho, flexionando la rodilla y bajando el cuerpo hacia una posición de zancada. Empuja con el pie derecho y da un paso atrás para regresar a la posición inicial. Repite el movimiento con el pie izquierdo, alternando las piernas en cada paso. Continúa dando pasos hacia adelante y hacia atrás, manteniendo un ritmo constante. Repite durante la duración o el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч. Сделайте шаг вперед правой ногой, согнув колено и опустив тело в положение выпада. Оттолкнитесь правой ногой и вернитесь в исходное положение. Повторите движение левой ногой, чередуя ноги при каждом шаге. Продолжайте шагать вперед и назад, сохраняя устойчивый темп. Повторяйте желаемую продолжительность или количество повторений.",
+    "zh": "双脚分开与肩同宽站立。 右脚向前迈出一步，弯曲膝盖，将身体降低到弓步位置。 用右脚蹬地，然后回到起始位置。 用左脚重复该动作，每一步交替双腿。 继续来回走动，保持稳定的步伐。 重复所需的持续时间或重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई की दूरी पर रखकर खड़े हो जाएं। अपने दाहिने पैर के साथ आगे बढ़ें, अपने घुटने को मोड़ें और अपने शरीर को एक लंज स्थिति में नीचे लाएँ। अपने दाहिने पैर से धक्का दें और प्रारंभिक स्थिति में वापस आ जाएँ। प्रत्येक चरण के साथ पैरों को बारी-बारी से अपने बाएं पैर से दोहराएं। स्थिर गति बनाए रखते हुए आगे-पीछे कदम बढ़ाते रहें। वांछित अवधि या दोहराव की संख्या के लिए दोहराएँ।",
+    "pl": "Stań w rozkroku na szerokość barków. Zrób krok do przodu prawą stopą, uginając kolano i opuszczając ciało do pozycji wykroku. Odepchnij się prawą stopą i wróć krokiem do pozycji wyjściowej. Powtórz ruch lewą stopą, zmieniając nogi przy każdym kroku. Kontynuuj wykonywanie kroków do przodu i do tyłu, utrzymując stałe tempo. Powtórz przez zalecany czas lub liczbę powtórzeń.",
+    "ko": "발을 어깨너비로 벌리고 섭니다. 오른쪽 발을 앞으로 내딛고 무릎을 구부려 런지 자세로 내려갑니다. 오른쪽 발로 밀어내 시작 위치로 돌아옵니다. 왼쪽 발로 같은 동작을 반복하면서 다리를 번갈아가며 스텝합니다. 꾸준한 속도를 유지하며 앞뒤로 스텝을 계속합니다. 원하는 시간 또는 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules. Avance le pied droit, en fléchissant le genou et en abaissant ton corps en position de fente. Pousse sur ton pied droit et recule vers la position de départ. Répète le mouvement avec ton pied gauche, en alternant les jambes à chaque pas. Continue à faire des pas d'avant en arrière, en maintenant un rythme régulier. Répète pendant la durée souhaitée ou le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart.",
+      "Step forward with your right foot, bending your knee and lowering your body into a lunge position.",
+      "Push off with your right foot and step back to the starting position.",
+      "Repeat the movement with your left foot, alternating legs with each step.",
+      "Continue stepping back and forth, maintaining a steady pace.",
+      "Repeat for the desired duration or number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle.",
+      "Fai un passo avanti con il piede destro, piegando il ginocchio e abbassando il corpo in una posizione di affondo.",
+      "Spingi con il piede destro e torna alla posizione di partenza.",
+      "Ripeti il ​​movimento con il piede sinistro, alternando le gambe ad ogni passo.",
+      "Continua a fare passi avanti e indietro, mantenendo un ritmo costante.",
+      "Ripetere per la durata o il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durun.",
+      "Sağ ayağınızla öne doğru bir adım atın, dizinizi bükün ve vücudunuzu hamle pozisyonuna indirin.",
+      "Sağ ayağınızla itin ve başlangıç ​​pozisyonuna geri dönün.",
+      "Hareketi her adımda bacak değiştirerek sol ayağınızla tekrarlayın.",
+      "Sabit bir tempoyu koruyarak ileri geri adım atmaya devam edin.",
+      "İstenilen süre veya tekrar sayısı kadar tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros.",
+      "Da un paso adelante con el pie derecho, flexionando la rodilla y bajando el cuerpo hacia una posición de zancada.",
+      "Empuja con el pie derecho y da un paso atrás para regresar a la posición inicial.",
+      "Repite el movimiento con el pie izquierdo, alternando las piernas en cada paso.",
+      "Continúa dando pasos hacia adelante y hacia atrás, manteniendo un ritmo constante.",
+      "Repite durante la duración o el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч.",
+      "Сделайте шаг вперед правой ногой, согнув колено и опустив тело в положение выпада.",
+      "Оттолкнитесь правой ногой и вернитесь в исходное положение.",
+      "Повторите движение левой ногой, чередуя ноги при каждом шаге.",
+      "Продолжайте шагать вперед и назад, сохраняя устойчивый темп.",
+      "Повторяйте желаемую продолжительность или количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立。",
+      "右脚向前迈出一步，弯曲膝盖，将身体降低到弓步位置。",
+      "用右脚蹬地，然后回到起始位置。",
+      "用左脚重复该动作，每一步交替双腿。",
+      "继续来回走动，保持稳定的步伐。",
+      "重复所需的持续时间或重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई की दूरी पर रखकर खड़े हो जाएं।",
+      "अपने दाहिने पैर के साथ आगे बढ़ें, अपने घुटने को मोड़ें और अपने शरीर को एक लंज स्थिति में नीचे लाएँ।",
+      "अपने दाहिने पैर से धक्का दें और प्रारंभिक स्थिति में वापस आ जाएँ।",
+      "प्रत्येक चरण के साथ पैरों को बारी-बारी से अपने बाएं पैर से दोहराएं।",
+      "स्थिर गति बनाए रखते हुए आगे-पीछे कदम बढ़ाते रहें।",
+      "वांछित अवधि या दोहराव की संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków.",
+      "Zrób krok do przodu prawą stopą, uginając kolano i opuszczając ciało do pozycji wykroku.",
+      "Odepchnij się prawą stopą i wróć krokiem do pozycji wyjściowej.",
+      "Powtórz ruch lewą stopą, zmieniając nogi przy każdym kroku.",
+      "Kontynuuj wykonywanie kroków do przodu i do tyłu, utrzymując stałe tempo.",
+      "Powtórz przez zalecany czas lub liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨너비로 벌리고 섭니다.",
+      "오른쪽 발을 앞으로 내딛고 무릎을 구부려 런지 자세로 내려갑니다.",
+      "오른쪽 발로 밀어내 시작 위치로 돌아옵니다.",
+      "왼쪽 발로 같은 동작을 반복하면서 다리를 번갈아가며 스텝합니다.",
+      "꾸준한 속도를 유지하며 앞뒤로 스텝을 계속합니다.",
+      "원하는 시간 또는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules.",
+      "Avance le pied droit, en fléchissant le genou et en abaissant ton corps en position de fente.",
+      "Pousse sur ton pied droit et recule vers la position de départ.",
+      "Répète le mouvement avec ton pied gauche, en alternant les jambes à chaque pas.",
+      "Continue à faire des pas d'avant en arrière, en maintenant un rythme régulier.",
+      "Répète pendant la durée souhaitée ou le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "glutes",
+    "calves"
+  ],
+  "target": "cardiovascular system",
+  "image": "images/3672-fNGumX0.jpg",
+  "gif_url": "videos/3672-fNGumX0.gif",
+  "media_id": "fNGumX0",
+  "created_at": "2026-03-18T12:31:32.855618+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

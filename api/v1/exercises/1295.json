@@ -1,0 +1,92 @@
+{
+  "id": "1295",
+  "name": "dumbbell pullover on exercise ball",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Sit on an exercise ball and hold a dumbbell with both hands above your chest, arms extended. Slowly lower the dumbbell behind your head while keeping your arms straight. Pause for a moment, then raise the dumbbell back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Siediti su una palla da ginnastica e tieni un manubrio con entrambe le mani sopra il petto, le braccia distese. Abbassa lentamente il manubrio dietro la testa mantenendo le braccia dritte. Fermati un attimo, poi solleva il manubrio di nuovo alla posizione di partenza. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Bir egzersiz topunun üzerine oturun ve iki elinizle dambılı göğsünüzün üzerinde, kollarınız uzatılmış şekilde tutun. Kollarınızı düz tutarak dambılı başınızın arkasına yavaşça indirin. Bir an duraklayın ve dambılı tekrar başlangıç ​​pozisyonuna kaldırın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Siéntate sobre un balón de estabilidad y sujeta una mancuerna con ambas manos por encima del pecho, con los brazos extendidos. Baja lentamente la mancuerna detrás de la cabeza manteniendo los brazos rectos. Haz una pausa por un momento, luego levanta la mancuerna de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Сядьте на гимнастический мяч и держите гантель обеими руками над грудью, вытянув руки. Медленно опустите гантель за голову, сохраняя руки прямыми. Сделайте паузу на мгновение, затем поднимите гантель обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "坐在健身球上，双手握住哑铃，置于胸前，双臂伸展。 慢慢地将哑铃放到脑后，同时保持手臂伸直。 暂停片刻，然后将哑铃举回到起始位置。 重复所需的重复次数。",
+    "hi": "एक व्यायाम बॉल पर बैठें और दोनों हाथों को अपनी छाती के ऊपर, बाहें फैलाकर डम्बल पकड़ें। अपनी भुजाओं को सीधा रखते हुए धीरे-धीरे डम्बल को अपने सिर के पीछे नीचे लाएँ। एक पल के लिए रुकें, फिर डम्बल को वापस प्रारंभिक स्थिति में उठाएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Usiądź na piłce gimnastycznej i trzymaj hantlę obiema rękami nad klatką piersiową, ręce wyprostowane. Powoli opuszczaj hantlę za głowę, utrzymując wyprostowane ręce. Zatrzymaj się na chwilę, a następnie unieś hantlę z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "운동공 위에 앉아 가슴 위에 양손으로 덤벨을 잡고 팔을 펼칩니다. 천천히 덤벨을 머리 뒤로 내리면서 팔을 곧게 유지합니다. 잠시 멈춘 후 덤벨을 시작 위치로 올립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Assieds-toi sur un ballon d'exercice et tiens un haltère à deux mains au-dessus de ta poitrine, bras tendus. Abaisse lentement l'haltère derrière ta tête tout en gardant tes bras tendus. Marque une pause, puis ramène l'haltère à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on an exercise ball and hold a dumbbell with both hands above your chest, arms extended.",
+      "Slowly lower the dumbbell behind your head while keeping your arms straight.",
+      "Pause for a moment, then raise the dumbbell back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Siediti su una palla da ginnastica e tieni un manubrio con entrambe le mani sopra il petto, le braccia distese.",
+      "Abbassa lentamente il manubrio dietro la testa mantenendo le braccia dritte.",
+      "Fermati un attimo, poi solleva il manubrio di nuovo alla posizione di partenza.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Bir egzersiz topunun üzerine oturun ve iki elinizle dambılı göğsünüzün üzerinde, kollarınız uzatılmış şekilde tutun.",
+      "Kollarınızı düz tutarak dambılı başınızın arkasına yavaşça indirin.",
+      "Bir an duraklayın ve dambılı tekrar başlangıç ​​pozisyonuna kaldırın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Siéntate sobre un balón de estabilidad y sujeta una mancuerna con ambas manos por encima del pecho, con los brazos extendidos.",
+      "Baja lentamente la mancuerna detrás de la cabeza manteniendo los brazos rectos.",
+      "Haz una pausa por un momento, luego levanta la mancuerna de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на гимнастический мяч и держите гантель обеими руками над грудью, вытянув руки.",
+      "Медленно опустите гантель за голову, сохраняя руки прямыми.",
+      "Сделайте паузу на мгновение, затем поднимите гантель обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "坐在健身球上，双手握住哑铃，置于胸前，双臂伸展。",
+      "慢慢地将哑铃放到脑后，同时保持手臂伸直。",
+      "暂停片刻，然后将哑铃举回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "एक व्यायाम बॉल पर बैठें और दोनों हाथों को अपनी छाती के ऊपर, बाहें फैलाकर डम्बल पकड़ें।",
+      "अपनी भुजाओं को सीधा रखते हुए धीरे-धीरे डम्बल को अपने सिर के पीछे नीचे लाएँ।",
+      "एक पल के लिए रुकें, फिर डम्बल को वापस प्रारंभिक स्थिति में उठाएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Usiądź na piłce gimnastycznej i trzymaj hantlę obiema rękami nad klatką piersiową, ręce wyprostowane.",
+      "Powoli opuszczaj hantlę za głowę, utrzymując wyprostowane ręce.",
+      "Zatrzymaj się na chwilę, a następnie unieś hantlę z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "운동공 위에 앉아 가슴 위에 양손으로 덤벨을 잡고 팔을 펼칩니다.",
+      "천천히 덤벨을 머리 뒤로 내리면서 팔을 곧게 유지합니다.",
+      "잠시 멈춘 후 덤벨을 시작 위치로 올립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Assieds-toi sur un ballon d'exercice et tiens un haltère à deux mains au-dessus de ta poitrine, bras tendus.",
+      "Abaisse lentement l'haltère derrière ta tête tout en gardant tes bras tendus.",
+      "Marque une pause, puis ramène l'haltère à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "latissimus dorsi"
+  ],
+  "target": "pectorals",
+  "image": "images/1295-FSD6PGL.jpg",
+  "gif_url": "videos/1295-FSD6PGL.gif",
+  "media_id": "FSD6PGL",
+  "created_at": "2026-03-18T12:31:32.880642+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

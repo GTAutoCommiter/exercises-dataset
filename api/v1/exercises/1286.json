@@ -1,0 +1,122 @@
+{
+  "id": "1286",
+  "name": "dumbbell one arm chest fly on exercise ball",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Sit on an exercise ball with a dumbbell in one hand and your feet flat on the ground. Walk your feet forward, rolling the ball until your upper back is supported on the ball and your head, neck, and shoulders are off the ball. Extend your arm with the dumbbell straight up above your chest, palm facing inward. Slowly lower the dumbbell out to the side, keeping a slight bend in your elbow. Pause for a moment when your arm is parallel to the ground. Engage your chest muscles to bring the dumbbell back up to the starting position. Repeat for the desired number of repetitions, then switch arms.",
+    "it": "Siediti su una palla da ginnastica con un manubrio in una mano e i piedi piantati a terra. Muovi i piedi in avanti, facendo rotolare la palla finché la parte superiore della schiena non è sostenuta sulla palla e testa, collo e spalle non sono più dalla palla. Allunga il braccio con il manubrio dritto sopra il petto, palmo rivolto verso l'interno. Abbassa lentamente il manubrio di lato, mantenendo una leggera piega del gomito. Fermati un attimo quando il braccio è parallelo al suolo. Attiva i muscoli del petto per riportare il manubrio alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni, poi cambia braccio.",
+    "tr": "Bir elinizde bir dambıl ve ayaklarınız yere düz basacak şekilde bir egzersiz topunun üzerine oturun. Ayaklarınızı ileri doğru yürütün, üst sırtınız top üzerinde desteklenene ve başınız, boynunuz ve omuzlarınız topun dışında kalana kadar topu yuvarlayın. Kolunuzu dambılı göğsünüzün üzerinde, avuç içi içe bakacak şekilde uzatın. Dirseğinizi hafifçe bükerek dambılı yavaşça yana doğru indirin. Kolunuz yere paralel olduğunda bir an duraklayın. Dambılı başlangıç ​​pozisyonuna geri getirmek için göğüs kaslarınızı çalıştırın. İstenilen tekrar sayısı kadar tekrarlayın, ardından kolları değiştirin.",
+    "es": "Siéntate sobre un balón de estabilidad con una mancuerna en una mano y los pies apoyados en el suelo. Camina con los pies hacia adelante, haciendo rodar el balón hasta que la parte superior de la espalda quede apoyada en el balón y la cabeza, el cuello y los hombros queden fuera de él. Extiende el brazo con la mancuerna recto hacia arriba sobre el pecho, con la palma hacia adentro. Baja lentamente la mancuerna hacia el lado, manteniendo una ligera flexión en el codo. Haz una pausa por un momento cuando el brazo esté paralelo al suelo. Activa los músculos del pecho para llevar la mancuerna de nuevo hacia arriba hasta la posición inicial. Repite el número de repeticiones deseado, luego cambia de brazo.",
+    "ru": "Сядьте на мяч для упражнений, возьмите в одну руку гантель, поставьте ноги на землю. Идите ногами вперед, катя мяч до тех пор, пока верхняя часть спины не окажется на мяче, а голова, шея и плечи не оторвутся от мяча. Вытяните руку с гантелью прямо над грудью, ладонью внутрь. Медленно опустите гантель в сторону, сохраняя небольшой изгиб в локте. Сделайте паузу на мгновение, когда ваша рука будет параллельна земле. Задействуйте мышцы груди, чтобы вернуть гантель в исходное положение. Повторите желаемое количество повторений, затем поменяйте руки.",
+    "zh": "坐在健身球上，一只手拿着哑铃，双脚平放在地上。 双脚向前走，滚动球，直到你的上背部受到球的支撑，并且你的头、脖子和肩膀离开球。 将手臂伸直，将哑铃举至胸部上方，手掌朝内。 慢慢地将哑铃向一侧放低，保持肘部轻微弯曲。 当手臂与地面平行时暂停片刻。 启动胸部肌肉，将哑铃拉回到起始位置。 重复所需的重复次数，然后换臂。",
+    "hi": "एक हाथ में डम्बल लेकर व्यायाम बॉल पर बैठें और आपके पैर ज़मीन पर सपाट हों। अपने पैरों को आगे की ओर घुमाएँ, गेंद को तब तक घुमाएँ जब तक कि आपकी ऊपरी पीठ को गेंद पर सहारा न मिल जाए और आपका सिर, गर्दन और कंधे गेंद से दूर न हो जाएँ। अपनी बांह को डंबल के साथ सीधे अपनी छाती के ऊपर फैलाएं, हथेली अंदर की ओर हो। अपनी कोहनी को थोड़ा मोड़ते हुए धीरे-धीरे डम्बल को बगल की ओर नीचे करें। जब आपकी बांह ज़मीन के समानांतर हो तो एक क्षण रुकें। डम्बल को शुरुआती स्थिति में वापस लाने के लिए अपनी छाती की मांसपेशियों को शामिल करें। दोहराव की वांछित संख्या के लिए दोहराएं, फिर हथियार बदल लें।",
+    "pl": "Usiądź na piłce gimnastycznej, trzymając hantlę w jednej ręce, stopy oprzyj płasko na podłodze. Przejdź stopami do przodu, przetaczając piłkę, aż górna część pleców będzie na niej oparta, a głowa, szyja i barki znajdą się poza piłką. Wyprostuj rękę z hantlą prosto nad klatką piersiową, dłonią skierowaną do wewnątrz. Powoli opuszczaj hantlę na bok, utrzymując lekkie ugięcie w łokciu. Zatrzymaj się na chwilę, gdy ramię będzie równoległe do podłogi. Zaangażuj mięśnie klatki piersiowej, aby wrócić hantlą do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń, a następnie zmień rękę.",
+    "ko": "익서사이즈 볼에 앉아 한쪽 손에 덤벨을 들고 발을 땅에 고정합니다. 발을 앞으로 걷으며 볼을 굴려 등 위쪽이 볼에 지지되고 머리, 목, 어깨는 볼에서 떨어지게 합니다. 덤벨을 들은 팔을 가슴 위로 펼친 후 손가락이 안쪽을 향하도록 합니다. 팔꿈치에 약간의 구부러짐을 유지한 채 덤벨을 옆으로 천천히 내립니다. 팔이 땅과 평행할 때 잠시 멈춥니다. 가슴 근육에 힘을 주어 덤벨을 처음 위치로 올립니다. 원하는 횟수만큼 반복한 후 반대쪽 팔로 바꿔 진행합니다.",
+    "fr": "Assieds-toi sur un ballon d'exercice avec un haltère dans une main et les pieds à plat sur le sol. Avance les pieds en faisant rouler le ballon jusqu'à ce que le haut de ton dos soit soutenu sur le ballon et que ta tête, ta nuque et tes épaules soient dégagées du ballon. Étends ton bras avec l'haltère droit au-dessus de ta poitrine, paume tournée vers l'intérieur. Abaisse lentement l'haltère vers le côté, en gardant une légère flexion dans ton coude. Marque une pause lorsque ton bras est parallèle au sol. Sollicite les muscles de ta poitrine pour ramener l'haltère jusqu'à la position de départ. Répète le nombre de répétitions souhaité, puis change de bras."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on an exercise ball with a dumbbell in one hand and your feet flat on the ground.",
+      "Walk your feet forward, rolling the ball until your upper back is supported on the ball and your head, neck, and shoulders are off the ball.",
+      "Extend your arm with the dumbbell straight up above your chest, palm facing inward.",
+      "Slowly lower the dumbbell out to the side, keeping a slight bend in your elbow.",
+      "Pause for a moment when your arm is parallel to the ground.",
+      "Engage your chest muscles to bring the dumbbell back up to the starting position.",
+      "Repeat for the desired number of repetitions, then switch arms."
+    ],
+    "it": [
+      "Siediti su una palla da ginnastica con un manubrio in una mano e i piedi piantati a terra.",
+      "Muovi i piedi in avanti, facendo rotolare la palla finché la parte superiore della schiena non è sostenuta sulla palla e testa, collo e spalle non sono più dalla palla.",
+      "Allunga il braccio con il manubrio dritto sopra il petto, palmo rivolto verso l'interno.",
+      "Abbassa lentamente il manubrio di lato, mantenendo una leggera piega del gomito.",
+      "Fermati un attimo quando il braccio è parallelo al suolo.",
+      "Attiva i muscoli del petto per riportare il manubrio alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni, poi cambia braccio."
+    ],
+    "tr": [
+      "Bir elinizde bir dambıl ve ayaklarınız yere düz basacak şekilde bir egzersiz topunun üzerine oturun.",
+      "Ayaklarınızı ileri doğru yürütün, üst sırtınız top üzerinde desteklenene ve başınız, boynunuz ve omuzlarınız topun dışında kalana kadar topu yuvarlayın.",
+      "Kolunuzu dambılı göğsünüzün üzerinde, avuç içi içe bakacak şekilde uzatın.",
+      "Dirseğinizi hafifçe bükerek dambılı yavaşça yana doğru indirin.",
+      "Kolunuz yere paralel olduğunda bir an duraklayın.",
+      "Dambılı başlangıç ​​pozisyonuna geri getirmek için göğüs kaslarınızı çalıştırın.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından kolları değiştirin."
+    ],
+    "es": [
+      "Siéntate sobre un balón de estabilidad con una mancuerna en una mano y los pies apoyados en el suelo.",
+      "Camina con los pies hacia adelante, haciendo rodar el balón hasta que la parte superior de la espalda quede apoyada en el balón y la cabeza, el cuello y los hombros queden fuera de él.",
+      "Extiende el brazo con la mancuerna recto hacia arriba sobre el pecho, con la palma hacia adentro.",
+      "Baja lentamente la mancuerna hacia el lado, manteniendo una ligera flexión en el codo.",
+      "Haz una pausa por un momento cuando el brazo esté paralelo al suelo.",
+      "Activa los músculos del pecho para llevar la mancuerna de nuevo hacia arriba hasta la posición inicial.",
+      "Repite el número de repeticiones deseado, luego cambia de brazo."
+    ],
+    "ru": [
+      "Сядьте на мяч для упражнений, возьмите в одну руку гантель, поставьте ноги на землю.",
+      "Идите ногами вперед, катя мяч до тех пор, пока верхняя часть спины не окажется на мяче, а голова, шея и плечи не оторвутся от мяча.",
+      "Вытяните руку с гантелью прямо над грудью, ладонью внутрь.",
+      "Медленно опустите гантель в сторону, сохраняя небольшой изгиб в локте.",
+      "Сделайте паузу на мгновение, когда ваша рука будет параллельна земле.",
+      "Задействуйте мышцы груди, чтобы вернуть гантель в исходное положение.",
+      "Повторите желаемое количество повторений, затем поменяйте руки."
+    ],
+    "zh": [
+      "坐在健身球上，一只手拿着哑铃，双脚平放在地上。",
+      "双脚向前走，滚动球，直到你的上背部受到球的支撑，并且你的头、脖子和肩膀离开球。",
+      "将手臂伸直，将哑铃举至胸部上方，手掌朝内。",
+      "慢慢地将哑铃向一侧放低，保持肘部轻微弯曲。",
+      "当手臂与地面平行时暂停片刻。",
+      "启动胸部肌肉，将哑铃拉回到起始位置。",
+      "重复所需的重复次数，然后换臂。"
+    ],
+    "hi": [
+      "एक हाथ में डम्बल लेकर व्यायाम बॉल पर बैठें और आपके पैर ज़मीन पर सपाट हों।",
+      "अपने पैरों को आगे की ओर घुमाएँ, गेंद को तब तक घुमाएँ जब तक कि आपकी ऊपरी पीठ को गेंद पर सहारा न मिल जाए और आपका सिर, गर्दन और कंधे गेंद से दूर न हो जाएँ।",
+      "अपनी बांह को डंबल के साथ सीधे अपनी छाती के ऊपर फैलाएं, हथेली अंदर की ओर हो।",
+      "अपनी कोहनी को थोड़ा मोड़ते हुए धीरे-धीरे डम्बल को बगल की ओर नीचे करें।",
+      "जब आपकी बांह ज़मीन के समानांतर हो तो एक क्षण रुकें।",
+      "डम्बल को शुरुआती स्थिति में वापस लाने के लिए अपनी छाती की मांसपेशियों को शामिल करें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर हथियार बदल लें।"
+    ],
+    "pl": [
+      "Usiądź na piłce gimnastycznej, trzymając hantlę w jednej ręce, stopy oprzyj płasko na podłodze.",
+      "Przejdź stopami do przodu, przetaczając piłkę, aż górna część pleców będzie na niej oparta, a głowa, szyja i barki znajdą się poza piłką.",
+      "Wyprostuj rękę z hantlą prosto nad klatką piersiową, dłonią skierowaną do wewnątrz.",
+      "Powoli opuszczaj hantlę na bok, utrzymując lekkie ugięcie w łokciu.",
+      "Zatrzymaj się na chwilę, gdy ramię będzie równoległe do podłogi.",
+      "Zaangażuj mięśnie klatki piersiowej, aby wrócić hantlą do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń, a następnie zmień rękę."
+    ],
+    "ko": [
+      "익서사이즈 볼에 앉아 한쪽 손에 덤벨을 들고 발을 땅에 고정합니다.",
+      "발을 앞으로 걷으며 볼을 굴려 등 위쪽이 볼에 지지되고 머리, 목, 어깨는 볼에서 떨어지게 합니다.",
+      "덤벨을 들은 팔을 가슴 위로 펼친 후 손가락이 안쪽을 향하도록 합니다.",
+      "팔꿈치에 약간의 구부러짐을 유지한 채 덤벨을 옆으로 천천히 내립니다.",
+      "팔이 땅과 평행할 때 잠시 멈춥니다.",
+      "가슴 근육에 힘을 주어 덤벨을 처음 위치로 올립니다.",
+      "원하는 횟수만큼 반복한 후 반대쪽 팔로 바꿔 진행합니다."
+    ],
+    "fr": [
+      "Assieds-toi sur un ballon d'exercice avec un haltère dans une main et les pieds à plat sur le sol.",
+      "Avance les pieds en faisant rouler le ballon jusqu'à ce que le haut de ton dos soit soutenu sur le ballon et que ta tête, ta nuque et tes épaules soient dégagées du ballon.",
+      "Étends ton bras avec l'haltère droit au-dessus de ta poitrine, paume tournée vers l'intérieur.",
+      "Abaisse lentement l'haltère vers le côté, en gardant une légère flexion dans ton coude.",
+      "Marque une pause lorsque ton bras est parallèle au sol.",
+      "Sollicite les muscles de ta poitrine pour ramener l'haltère jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis change de bras."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "target": "pectorals",
+  "image": "images/1286-Bpkf41o.jpg",
+  "gif_url": "videos/1286-Bpkf41o.gif",
+  "media_id": "Bpkf41o",
+  "created_at": "2026-03-18T12:31:32.879726+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

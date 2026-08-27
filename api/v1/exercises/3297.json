@@ -1,0 +1,113 @@
+{
+  "id": "3297",
+  "name": "back lever",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Start by hanging from a pull-up bar with an overhand grip, hands slightly wider than shoulder-width apart. Engage your core and pull your shoulder blades down and back. Bend your knees and tuck them towards your chest. Slowly lift your legs up, keeping them straight, until your body is parallel to the ground. Hold this position for a few seconds, then slowly lower your legs back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Inizia appendendoti a una barra per trazioni con una presa prona, con le mani leggermente più larghe della larghezza delle spalle. Coinvolgi il tuo core e tira le scapole verso il basso e all'indietro. Piega le ginocchia e portale verso il petto. Solleva lentamente le gambe, mantenendole dritte, finché il tuo corpo non è parallelo al suolo. Mantieni questa posizione per alcuni secondi, quindi abbassa lentamente le gambe fino alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Eller omuz genişliğinden biraz daha geniş olacak şekilde, üstten tutuşla bir barfiks barına asılarak başlayın. Merkez bölgenizi devreye sokun ve kürek kemiklerinizi aşağı ve geriye doğru çekin. Dizlerinizi bükün ve göğsünüze doğru çekin. Vücudunuz yere paralel oluncaya kadar bacaklarınızı düz tutarak yavaşça yukarı kaldırın. Bu pozisyonu birkaç saniye basılı tutun, ardından bacaklarınızı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Comienza colgándote de una barra de dominadas con un agarre prono, con las manos un poco más separadas que el ancho de los hombros. Activa el core y lleva los omóplatos hacia abajo y atrás. Flexiona las rodillas y llévalas hacia el pecho. Levanta lentamente las piernas, manteniéndolas rectas, hasta que el cuerpo quede paralelo al suelo. Mantén esta posición durante unos segundos, luego baja lentamente las piernas de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Начните с подвешивания на перекладине хватом сверху, руки чуть шире плеч. Напрягите корпус и потяните лопатки вниз и назад. Согните колени и подтяните их к груди. Медленно поднимите ноги вверх, удерживая их прямыми, пока тело не станет параллельно земле. Удерживайте это положение несколько секунд, затем медленно опустите ноги обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "首先，用正手握法悬挂在引体向上杆上，双手分开的距离略大于肩宽。 启动你的核心并将肩胛骨向下拉和向后拉。 弯曲膝盖并将其向胸部靠拢。 慢慢抬起双腿，保持伸直，直到身体与地面平行。 保持这个姿势几秒钟，然后慢慢地将双腿放回起始位置。 重复所需的重复次数。",
+    "hi": "ओवरहैंड पकड़ के साथ पुल-अप बार से लटकने से शुरुआत करें, हाथों को कंधे की चौड़ाई से थोड़ा चौड़ा रखें। अपने कोर को संलग्न करें और अपने कंधे के ब्लेड को नीचे और पीछे खींचें। अपने घुटनों को मोड़ें और उन्हें अपनी छाती की ओर मोड़ें। धीरे-धीरे अपने पैरों को ऊपर उठाएं, उन्हें सीधा रखें, जब तक कि आपका शरीर जमीन के समानांतर न हो जाए। कुछ सेकंड के लिए इस स्थिति में रहें, फिर धीरे-धीरे अपने पैरों को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Zacznij, zwisając na drążku do podciągania nachwytem, dłonie nieco szerzej niż na szerokość barków. Napnij mięśnie brzucha i ściągnij łopatki w dół i do tyłu. Ugnij kolana i przyciągnij je w kierunku klatki piersiowej. Powoli unieś nogi, utrzymując je proste, aż ciało znajdzie się równolegle do podłogi. Utrzymaj tę pozycję przez kilka sekund, a następnie powoli opuść nogi z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę razy.",
+    "ko": "풀업 바에 손바닥이 앞을 향하도록 매달리되 손을 어깨너비보다 약간 넓게 잡습니다. 코어를 활성화하고 어깨뼈를 아래로 당기며 뒤로 젖힙니다. 무릎을 구부려 가슴 쪽으로 당깁니다. 다리를 곧게 펼친 상태로 천천히 들어올려 몸이 바닥과 평행이 될 때까지 올립니다. 몇 초 동안 이 자세를 유지한 후 다리를 천천히 시작 위치로 내려갑니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Commence suspendu à une barre de traction en prise pronation, les mains légèrement plus écartées que la largeur des épaules. Gaine ta sangle abdominale et tire tes omoplates vers le bas et l'arrière. Fléchis les genoux et ramène-les vers ta poitrine. Soulève lentement tes jambes, en les gardant tendues, jusqu'à ce que ton corps soit parallèle au sol. Maintiens cette position pendant quelques secondes, puis abaisse lentement tes jambes jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start by hanging from a pull-up bar with an overhand grip, hands slightly wider than shoulder-width apart.",
+      "Engage your core and pull your shoulder blades down and back.",
+      "Bend your knees and tuck them towards your chest.",
+      "Slowly lift your legs up, keeping them straight, until your body is parallel to the ground.",
+      "Hold this position for a few seconds, then slowly lower your legs back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia appendendoti a una barra per trazioni con una presa prona, con le mani leggermente più larghe della larghezza delle spalle.",
+      "Coinvolgi il tuo core e tira le scapole verso il basso e all'indietro.",
+      "Piega le ginocchia e portale verso il petto.",
+      "Solleva lentamente le gambe, mantenendole dritte, finché il tuo corpo non è parallelo al suolo.",
+      "Mantieni questa posizione per alcuni secondi, quindi abbassa lentamente le gambe fino alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Eller omuz genişliğinden biraz daha geniş olacak şekilde, üstten tutuşla bir barfiks barına asılarak başlayın.",
+      "Merkez bölgenizi devreye sokun ve kürek kemiklerinizi aşağı ve geriye doğru çekin.",
+      "Dizlerinizi bükün ve göğsünüze doğru çekin.",
+      "Vücudunuz yere paralel oluncaya kadar bacaklarınızı düz tutarak yavaşça yukarı kaldırın.",
+      "Bu pozisyonu birkaç saniye basılı tutun, ardından bacaklarınızı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Comienza colgándote de una barra de dominadas con un agarre prono, con las manos un poco más separadas que el ancho de los hombros.",
+      "Activa el core y lleva los omóplatos hacia abajo y atrás.",
+      "Flexiona las rodillas y llévalas hacia el pecho.",
+      "Levanta lentamente las piernas, manteniéndolas rectas, hasta que el cuerpo quede paralelo al suelo.",
+      "Mantén esta posición durante unos segundos, luego baja lentamente las piernas de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с подвешивания на перекладине хватом сверху, руки чуть шире плеч.",
+      "Напрягите корпус и потяните лопатки вниз и назад.",
+      "Согните колени и подтяните их к груди.",
+      "Медленно поднимите ноги вверх, удерживая их прямыми, пока тело не станет параллельно земле.",
+      "Удерживайте это положение несколько секунд, затем медленно опустите ноги обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "首先，用正手握法悬挂在引体向上杆上，双手分开的距离略大于肩宽。",
+      "启动你的核心并将肩胛骨向下拉和向后拉。",
+      "弯曲膝盖并将其向胸部靠拢。",
+      "慢慢抬起双腿，保持伸直，直到身体与地面平行。",
+      "保持这个姿势几秒钟，然后慢慢地将双腿放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "ओवरहैंड पकड़ के साथ पुल-अप बार से लटकने से शुरुआत करें, हाथों को कंधे की चौड़ाई से थोड़ा चौड़ा रखें।",
+      "अपने कोर को संलग्न करें और अपने कंधे के ब्लेड को नीचे और पीछे खींचें।",
+      "अपने घुटनों को मोड़ें और उन्हें अपनी छाती की ओर मोड़ें।",
+      "धीरे-धीरे अपने पैरों को ऊपर उठाएं, उन्हें सीधा रखें, जब तक कि आपका शरीर जमीन के समानांतर न हो जाए।",
+      "कुछ सेकंड के लिए इस स्थिति में रहें, फिर धीरे-धीरे अपने पैरों को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Zacznij, zwisając na drążku do podciągania nachwytem, dłonie nieco szerzej niż na szerokość barków.",
+      "Napnij mięśnie brzucha i ściągnij łopatki w dół i do tyłu.",
+      "Ugnij kolana i przyciągnij je w kierunku klatki piersiowej.",
+      "Powoli unieś nogi, utrzymując je proste, aż ciało znajdzie się równolegle do podłogi.",
+      "Utrzymaj tę pozycję przez kilka sekund, a następnie powoli opuść nogi z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "풀업 바에 손바닥이 앞을 향하도록 매달리되 손을 어깨너비보다 약간 넓게 잡습니다.",
+      "코어를 활성화하고 어깨뼈를 아래로 당기며 뒤로 젖힙니다.",
+      "무릎을 구부려 가슴 쪽으로 당깁니다.",
+      "다리를 곧게 펼친 상태로 천천히 들어올려 몸이 바닥과 평행이 될 때까지 올립니다.",
+      "몇 초 동안 이 자세를 유지한 후 다리를 천천히 시작 위치로 내려갑니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Commence suspendu à une barre de traction en prise pronation, les mains légèrement plus écartées que la largeur des épaules.",
+      "Gaine ta sangle abdominale et tire tes omoplates vers le bas et l'arrière.",
+      "Fléchis les genoux et ramène-les vers ta poitrine.",
+      "Soulève lentement tes jambes, en les gardant tendues, jusqu'à ce que ton corps soit parallèle au sol.",
+      "Maintiens cette position pendant quelques secondes, puis abaisse lentement tes jambes jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "forearms",
+    "core"
+  ],
+  "target": "upper back",
+  "image": "images/3297-GaSzzuh.jpg",
+  "gif_url": "videos/3297-GaSzzuh.gif",
+  "media_id": "GaSzzuh",
+  "created_at": "2026-03-18T12:31:32.855652+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

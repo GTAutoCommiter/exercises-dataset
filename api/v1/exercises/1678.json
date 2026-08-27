@@ -1,0 +1,111 @@
+{
+  "id": "1678",
+  "name": "dumbbell seated hammer curl",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Sit on a bench with a dumbbell in each hand, palms facing your torso and arms extended straight down. Keeping your upper arms stationary, exhale and curl the weights while contracting your biceps. Continue to raise the dumbbells until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a brief pause as you squeeze your biceps. Inhale and slowly begin to lower the dumbbells back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Siediti su una panchina con un manubrio in ogni mano, i palmi rivolti verso il busto e le braccia distese verso il basso. Mantenendo ferme le braccia superiori, espira e arriccia i pesi mentre contrahi i bicipiti. Continua ad alzare i manubri finché i bicipiti non sono completamente contratti e i manubri non sono all'altezza delle spalle. Mantieni la posizione contratta per una breve pausa mentre stringi i bicipiti. Inspira e inizia lentamente ad abbassare i manubri fino alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Her iki elinizde de birer dambıl olacak şekilde bir bankta oturun, avuçlarınız gövdenize dönük ve kollarınız düz bir şekilde aşağıya doğru uzatılmış olsun. Üst kollarınızı sabit tutarak, bicepslerinizi kasarken ağırlıkları nefes verin ve kıvırın. Bisepsleriniz tamamen kasılana ve dambıllar omuz hizasına gelene kadar dambılları kaldırmaya devam edin. Bicepslerinizi sıkarken kasılmış pozisyonu kısa bir süre koruyun. Nefes alın ve dambılları yavaşça başlangıç ​​pozisyonuna indirmeye başlayın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Siéntate en un banco con una mancuerna en cada mano, con las palmas hacia tu torso y los brazos extendidos rectos hacia abajo. Manteniendo los brazos superiores fijos, exhala y levanta el peso mientras contraes los bíceps. Continúa levantando las mancuernas hasta que los bíceps estén completamente contraídos y las mancuernas estén a la altura de los hombros. Mantén la posición contraída durante una breve pausa mientras aprietas los bíceps. Inhala y comienza a bajar lentamente las mancuernas de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Сядьте на скамью, взяв в каждую руку по гантели, ладони обращены к туловищу, руки вытянуты прямо вниз. Удерживая плечи неподвижно, выдохните и согните гантели, одновременно сокращая бицепсы. Продолжайте поднимать гантели до тех пор, пока ваши бицепсы полностью не сократятся и гантели не окажутся на уровне плеч. Задержитесь в сокращенном положении на короткую паузу, одновременно сжимая бицепсы. Вдохните и медленно начните опускать гантели обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "坐在长凳上，双手各握一个哑铃，手掌朝向躯干，手臂伸直向下。 保持上臂静止，呼气并弯举哑铃，同时收缩二头肌。 继续举起哑铃，直到二头肌完全收缩并且哑铃与肩部齐平。 挤压二头肌时，保持收缩位置短暂停顿。 吸气并慢慢开始将哑铃放回起始位置。 重复所需的重复次数。",
+    "hi": "प्रत्येक हाथ में डम्बल लेकर एक बेंच पर बैठें, हथेलियाँ आपके धड़ की ओर हों और भुजाएँ सीधी नीचे की ओर फैली हुई हों। अपनी ऊपरी बांहों को स्थिर रखते हुए, सांस छोड़ें और अपने बाइसेप्स को सिकोड़ते हुए वजन को मोड़ें। डम्बल को तब तक उठाना जारी रखें जब तक कि आपके बाइसेप्स पूरी तरह से सिकुड़ न जाएं और डम्बल कंधे के स्तर पर न आ जाएं। जब आप अपने बाइसेप्स को निचोड़ते हैं तो थोड़ी देर के लिए अनुबंधित स्थिति में रहें। श्वास लें और धीरे-धीरे डम्बल को वापस प्रारंभिक स्थिति में लाना शुरू करें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Usiądź na ławce, trzymając hantle w obu dłoniach, dłonie skierowane w stronę tułowia, ramiona wyprostowane wzdłuż ciała. Utrzymując ramiona nieruchomo, wykonaj wydech i zegnij ręce, napinając bicepsy. Unoś hantle, aż bicepsy będą całkowicie napięte, a hantle znajdą się na wysokości barków. Zatrzymaj napięcie na chwilę, mocno napinając bicepsy. Wykonaj wdech i powoli zacznij opuszczać hantle do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "벤치에 앉아 양손에 덤벨을 들되 손바닥이 몸을 향하고 팔을 곧게 아래로 펼친다. 위팔을 고정한 채 숨을 내쉬면서 이두근을 수축시켜 무게를 올린다. 이두근이 완전히 수축되고 덤벨이 어깨 높이에 올 때까지 계속 올린다. 수축된 위치에서 잠깐 멈추면서 이두근을 조인다. 숨을 들이쉬면서 천천히 덤벨을 시작 위치로 내린다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Assieds-toi sur un banc avec un haltère dans chaque main, paumes tournées vers ton torse et bras tendus droit vers le bas. En gardant le haut des bras immobile, expire et fléchis les poids en contractant tes biceps. Continue à lever les haltères jusqu'à ce que tes biceps soient complètement contractés et que les haltères soient à hauteur d'épaule. Maintiens la position contractée pendant une brève pause en contractant tes biceps. Inspire et commence lentement à abaisser les haltères jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on a bench with a dumbbell in each hand, palms facing your torso and arms extended straight down.",
+      "Keeping your upper arms stationary, exhale and curl the weights while contracting your biceps.",
+      "Continue to raise the dumbbells until your biceps are fully contracted and the dumbbells are at shoulder level.",
+      "Hold the contracted position for a brief pause as you squeeze your biceps.",
+      "Inhale and slowly begin to lower the dumbbells back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Siediti su una panchina con un manubrio in ogni mano, i palmi rivolti verso il busto e le braccia distese verso il basso.",
+      "Mantenendo ferme le braccia superiori, espira e arriccia i pesi mentre contrahi i bicipiti.",
+      "Continua ad alzare i manubri finché i bicipiti non sono completamente contratti e i manubri non sono all'altezza delle spalle.",
+      "Mantieni la posizione contratta per una breve pausa mentre stringi i bicipiti.",
+      "Inspira e inizia lentamente ad abbassare i manubri fino alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Her iki elinizde de birer dambıl olacak şekilde bir bankta oturun, avuçlarınız gövdenize dönük ve kollarınız düz bir şekilde aşağıya doğru uzatılmış olsun.",
+      "Üst kollarınızı sabit tutarak, bicepslerinizi kasarken ağırlıkları nefes verin ve kıvırın.",
+      "Bisepsleriniz tamamen kasılana ve dambıllar omuz hizasına gelene kadar dambılları kaldırmaya devam edin.",
+      "Bicepslerinizi sıkarken kasılmış pozisyonu kısa bir süre koruyun.",
+      "Nefes alın ve dambılları yavaşça başlangıç ​​pozisyonuna indirmeye başlayın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Siéntate en un banco con una mancuerna en cada mano, con las palmas hacia tu torso y los brazos extendidos rectos hacia abajo.",
+      "Manteniendo los brazos superiores fijos, exhala y levanta el peso mientras contraes los bíceps.",
+      "Continúa levantando las mancuernas hasta que los bíceps estén completamente contraídos y las mancuernas estén a la altura de los hombros.",
+      "Mantén la posición contraída durante una breve pausa mientras aprietas los bíceps.",
+      "Inhala y comienza a bajar lentamente las mancuernas de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на скамью, взяв в каждую руку по гантели, ладони обращены к туловищу, руки вытянуты прямо вниз.",
+      "Удерживая плечи неподвижно, выдохните и согните гантели, одновременно сокращая бицепсы.",
+      "Продолжайте поднимать гантели до тех пор, пока ваши бицепсы полностью не сократятся и гантели не окажутся на уровне плеч.",
+      "Задержитесь в сокращенном положении на короткую паузу, одновременно сжимая бицепсы.",
+      "Вдохните и медленно начните опускать гантели обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "坐在长凳上，双手各握一个哑铃，手掌朝向躯干，手臂伸直向下。",
+      "保持上臂静止，呼气并弯举哑铃，同时收缩二头肌。",
+      "继续举起哑铃，直到二头肌完全收缩并且哑铃与肩部齐平。",
+      "挤压二头肌时，保持收缩位置短暂停顿。",
+      "吸气并慢慢开始将哑铃放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "प्रत्येक हाथ में डम्बल लेकर एक बेंच पर बैठें, हथेलियाँ आपके धड़ की ओर हों और भुजाएँ सीधी नीचे की ओर फैली हुई हों।",
+      "अपनी ऊपरी बांहों को स्थिर रखते हुए, सांस छोड़ें और अपने बाइसेप्स को सिकोड़ते हुए वजन को मोड़ें।",
+      "डम्बल को तब तक उठाना जारी रखें जब तक कि आपके बाइसेप्स पूरी तरह से सिकुड़ न जाएं और डम्बल कंधे के स्तर पर न आ जाएं।",
+      "जब आप अपने बाइसेप्स को निचोड़ते हैं तो थोड़ी देर के लिए अनुबंधित स्थिति में रहें।",
+      "श्वास लें और धीरे-धीरे डम्बल को वापस प्रारंभिक स्थिति में लाना शुरू करें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Usiądź na ławce, trzymając hantle w obu dłoniach, dłonie skierowane w stronę tułowia, ramiona wyprostowane wzdłuż ciała.",
+      "Utrzymując ramiona nieruchomo, wykonaj wydech i zegnij ręce, napinając bicepsy.",
+      "Unoś hantle, aż bicepsy będą całkowicie napięte, a hantle znajdą się na wysokości barków.",
+      "Zatrzymaj napięcie na chwilę, mocno napinając bicepsy.",
+      "Wykonaj wdech i powoli zacznij opuszczać hantle do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "벤치에 앉아 양손에 덤벨을 들되 손바닥이 몸을 향하고 팔을 곧게 아래로 펼친다.",
+      "위팔을 고정한 채 숨을 내쉬면서 이두근을 수축시켜 무게를 올린다.",
+      "이두근이 완전히 수축되고 덤벨이 어깨 높이에 올 때까지 계속 올린다.",
+      "수축된 위치에서 잠깐 멈추면서 이두근을 조인다.",
+      "숨을 들이쉬면서 천천히 덤벨을 시작 위치로 내린다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Assieds-toi sur un banc avec un haltère dans chaque main, paumes tournées vers ton torse et bras tendus droit vers le bas.",
+      "En gardant le haut des bras immobile, expire et fléchis les poids en contractant tes biceps.",
+      "Continue à lever les haltères jusqu'à ce que tes biceps soient complètement contractés et que les haltères soient à hauteur d'épaule.",
+      "Maintiens la position contractée pendant une brève pause en contractant tes biceps.",
+      "Inspire et commence lentement à abaisser les haltères jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "forearms",
+  "secondary_muscles": [
+    "forearms"
+  ],
+  "target": "biceps",
+  "image": "images/1678-IGtBdNT.jpg",
+  "gif_url": "videos/1678-IGtBdNT.gif",
+  "media_id": "IGtBdNT",
+  "created_at": "2026-03-18T12:31:32.881256+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

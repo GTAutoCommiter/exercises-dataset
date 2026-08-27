@@ -1,0 +1,102 @@
+{
+  "id": "1496",
+  "name": "sledge hammer",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "hammer",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and hold the sledge hammer with both hands. Engage your core and keep your back straight. Swing the sledge hammer down towards the ground, using your core and upper body strength. As you swing down, pivot your hips and transfer the force to the hammer. Repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi alla larghezza delle spalle e tieni la mazza con entrambe le mani. Coinvolgi il tuo core e mantieni la schiena dritta. Fai oscillare la mazza verso il suolo, usando la forza del core e della parte superiore del corpo. Mentre ti abbassi, ruota i fianchi e trasferisci la forza sul martello. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınızı omuz genişliğinde açın ve balyozu iki elinizle tutun. Merkez bölgenizi devreye sokun ve sırtınızı düz tutun. Merkez bölgenizi ve üst vücut gücünüzü kullanarak balyozu yere doğru sallayın. Aşağı doğru sallanırken kalçalarınızı döndürün ve kuvveti çekice aktarın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y sujeta el mazo con ambas manos. Activa el core y mantén la espalda recta. Balancea el mazo hacia el suelo, usando la fuerza del core y de la parte superior del cuerpo. Mientras balanceas hacia abajo, gira las caderas y transfiere la fuerza al mazo. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, расставив ноги на ширине плеч, и возьмите кувалду обеими руками. Напрягите корпус и держите спину прямо. Поверните кувалду вниз к земле, используя силу корпуса и верхней части тела. Делая мах вниз, разверните бедра и перенесите силу на молот. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，双手握住大锤。 启动你的核心并保持背部挺直。 使用核心和上半身的力量，将大锤向下挥向地面。 当你向下挥杆时，转动臀部并将力量传递到锤子上。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और दोनों हाथों से स्लेज हैमर को पकड़ लें। अपने कोर को व्यस्त रखें और अपनी पीठ सीधी रखें। अपने मूल और ऊपरी शरीर की ताकत का उपयोग करके स्लेज हथौड़े को नीचे जमीन की ओर घुमाएं। जैसे ही आप नीचे झूलते हैं, अपने कूल्हों को मोड़ें और बल को हथौड़े पर स्थानांतरित करें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań w rozkroku na szerokość barków i trzymaj młot kowalski oburącz. Napnij mięśnie brzucha i trzymaj plecy proste. Zamachnij się młotem w dół w kierunku podłogi, wykorzystując siłę mięśni brzucha i górnej części ciała. Podczas zamachu w dół obróć biodra i przenieś siłę na młot. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "발을 어깨 너비만큼 벌려서 서서 양손으로 슬릿지 해머를 잡으세요. 복부에 힘을 주고 등을 펴세요. 슬릿지 해머를 땅 쪽으로 내려 치되 핵심과 상체 힘을 사용하세요. 내려칠 때 엉덩이를 회전시켜 힘을 해머에 전달하세요. 원하는 반복 횟수만큼 반복하세요.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens la masse à deux mains. Gaine ta sangle abdominale et garde ton dos droit. Abats le marteau vers le sol, en utilisant la force de ta sangle abdominale et du haut du corps. En abaissant le marteau, pivote tes hanches et transfère la force au marteau. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and hold the sledge hammer with both hands.",
+      "Engage your core and keep your back straight.",
+      "Swing the sledge hammer down towards the ground, using your core and upper body strength.",
+      "As you swing down, pivot your hips and transfer the force to the hammer.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle e tieni la mazza con entrambe le mani.",
+      "Coinvolgi il tuo core e mantieni la schiena dritta.",
+      "Fai oscillare la mazza verso il suolo, usando la forza del core e della parte superiore del corpo.",
+      "Mentre ti abbassi, ruota i fianchi e trasferisci la forza sul martello.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınızı omuz genişliğinde açın ve balyozu iki elinizle tutun.",
+      "Merkez bölgenizi devreye sokun ve sırtınızı düz tutun.",
+      "Merkez bölgenizi ve üst vücut gücünüzü kullanarak balyozu yere doğru sallayın.",
+      "Aşağı doğru sallanırken kalçalarınızı döndürün ve kuvveti çekice aktarın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y sujeta el mazo con ambas manos.",
+      "Activa el core y mantén la espalda recta.",
+      "Balancea el mazo hacia el suelo, usando la fuerza del core y de la parte superior del cuerpo.",
+      "Mientras balanceas hacia abajo, gira las caderas y transfiere la fuerza al mazo.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, расставив ноги на ширине плеч, и возьмите кувалду обеими руками.",
+      "Напрягите корпус и держите спину прямо.",
+      "Поверните кувалду вниз к земле, используя силу корпуса и верхней части тела.",
+      "Делая мах вниз, разверните бедра и перенесите силу на молот.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，双手握住大锤。",
+      "启动你的核心并保持背部挺直。",
+      "使用核心和上半身的力量，将大锤向下挥向地面。",
+      "当你向下挥杆时，转动臀部并将力量传递到锤子上。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और दोनों हाथों से स्लेज हैमर को पकड़ लें।",
+      "अपने कोर को व्यस्त रखें और अपनी पीठ सीधी रखें।",
+      "अपने मूल और ऊपरी शरीर की ताकत का उपयोग करके स्लेज हथौड़े को नीचे जमीन की ओर घुमाएं।",
+      "जैसे ही आप नीचे झूलते हैं, अपने कूल्हों को मोड़ें और बल को हथौड़े पर स्थानांतरित करें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków i trzymaj młot kowalski oburącz.",
+      "Napnij mięśnie brzucha i trzymaj plecy proste.",
+      "Zamachnij się młotem w dół w kierunku podłogi, wykorzystując siłę mięśni brzucha i górnej części ciała.",
+      "Podczas zamachu w dół obróć biodra i przenieś siłę na młot.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 너비만큼 벌려서 서서 양손으로 슬릿지 해머를 잡으세요.",
+      "복부에 힘을 주고 등을 펴세요.",
+      "슬릿지 해머를 땅 쪽으로 내려 치되 핵심과 상체 힘을 사용하세요.",
+      "내려칠 때 엉덩이를 회전시켜 힘을 해머에 전달하세요.",
+      "원하는 반복 횟수만큼 반복하세요."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens la masse à deux mains.",
+      "Gaine ta sangle abdominale et garde ton dos droit.",
+      "Abats le marteau vers le sol, en utilisant la force de ta sangle abdominale et du haut du corps.",
+      "En abaissant le marteau, pivote tes hanches et transfère la force au marteau.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "forearms",
+  "secondary_muscles": [
+    "forearms",
+    "shoulders"
+  ],
+  "target": "abs",
+  "image": "images/1496-REXmfVC.jpg",
+  "gif_url": "videos/1496-REXmfVC.gif",
+  "media_id": "REXmfVC",
+  "created_at": "2026-03-18T12:31:32.890361+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

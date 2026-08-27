@@ -1,0 +1,112 @@
+{
+  "id": "1366",
+  "name": "upward facing dog",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Lie face down on the floor with your legs extended behind you. Place your hands on the floor next to your lower ribs, fingers pointing forward. Press your hands firmly into the floor and straighten your arms, lifting your torso and thighs off the ground. Roll your shoulders back and down, opening your chest and lifting your gaze towards the ceiling. Hold this position for a few breaths, then slowly lower your body back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Sdraiati a faccia in giù sul pavimento con le gambe distese dietro di te. Metti le mani sul pavimento vicino alle costole inferiori, con le dita rivolte in avanti. Premi saldamente le mani sul pavimento e raddrizza le braccia, sollevando il busto e le cosce da terra. Ruota le spalle indietro e in basso, aprendo il petto e sollevando lo sguardo verso il soffitto. Mantieni questa posizione per alcuni respiri, quindi abbassa lentamente il corpo fino alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Bacaklarınız arkanızda uzatılmış halde yüz üstü yere yatın. Ellerinizi alt kaburgalarınızın yanına, parmaklarınız ileriyi gösterecek şekilde yere koyun. Ellerinizi yere sıkıca bastırın ve kollarınızı düzleştirerek gövdenizi ve uyluklarınızı yerden kaldırın. Omuzlarınızı geriye ve aşağı yuvarlayın, göğsünüzü açın ve bakışlarınızı tavana doğru kaldırın. Birkaç nefes bu pozisyonda kalın, ardından vücudunuzu yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Túmbate boca abajo en el suelo con las piernas extendidas detrás de ti. Coloca las manos en el suelo junto a las costillas inferiores, con los dedos apuntando hacia adelante. Presiona las manos firmemente contra el suelo y estira los brazos, levantando el torso y los muslos del suelo. Lleva los hombros hacia atrás y hacia abajo, abriendo el pecho y elevando la mirada hacia el techo. Mantén esta posición durante unas cuantas respiraciones, luego baja lentamente el cuerpo de nuevo a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Лягте на пол лицом вниз, вытянув ноги позади себя. Положите руки на пол рядом с нижними ребрами, пальцы направлены вперед. Плотно прижмите руки к полу и выпрямите руки, отрывая туловище и бедра от земли. Поверните плечи назад и вниз, раскрывая грудь и подняв взгляд к потолку. Задержитесь в этом положении на несколько вдохов, затем медленно опустите тело обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "脸朝下躺在地板上，双腿伸到身后。 将双手放在下肋骨旁边的地板上，手指指向前方。 双手用力按在地板上，伸直手臂，将躯干和大腿抬离地面。 向后和向下转动肩膀，打开胸部，将目光转向天花板。 保持这个姿势几次呼吸，然后慢慢将身体放回起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को अपने पीछे फैलाकर फर्श पर मुंह करके लेट जाएं। अपने हाथों को अपनी निचली पसलियों के बगल में फर्श पर रखें, उंगलियां आगे की ओर हों। अपने हाथों को फर्श पर मजबूती से दबाएं और अपनी बाहों को सीधा करें, अपने धड़ और जांघों को जमीन से ऊपर उठाएं। अपने कंधों को पीछे और नीचे घुमाएँ, अपनी छाती खोलें और अपनी निगाहें छत की ओर उठाएँ। कुछ सांसों के लिए इस स्थिति में रहें, फिर धीरे-धीरे अपने शरीर को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Połóż się na podłodze przodem do niej, z nogami wyprostowanymi za sobą. Umieść dłonie na podłodze obok dolnych żeber, palcami skierowanymi do przodu. Naciśnij mocno dłońmi na podłogę i wyprostuj ramiona, unosząc tułów i uda nad podłogę. Cofnij i opuść barki, otwierając klatkę piersiową i unosząc wzrok w stronę sufitu. Przytrzymaj tę pozycję przez kilka oddechów, a następnie powoli opuść ciało z powrotem do pozycji wyjściowej. Powtórz zgodnie z żądaną liczbą powtórzeń.",
+    "ko": "엎드려 누워 다리를 뒤로 쭉 펼칩니다. 손을 갈비뼈 아래 옆에 놓고 손가락은 앞을 향하게 합니다. 손을 땅에 세게 누르면서 팔을 펴서 상체와 다리를 땅에서 들어올립니다. 어깨를 뒤로 굴려 가슴을 열고 시선을 천장을 향합니다. 몇 번의 호흡 동안 이 자세를 유지한 후 천천히 몸을 시작 위치로 내립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Allonge-toi face vers le bas au sol, les jambes tendues derrière toi. Place tes mains au sol à côté du bas de tes côtes, les doigts pointés vers l'avant. Presse fermement tes mains dans le sol et redresse tes bras, en soulevant ton torse et tes cuisses du sol. Roule tes épaules vers l'arrière et vers le bas, en ouvrant ta poitrine et en levant ton regard vers le plafond. Maintiens cette position pendant quelques respirations, puis abaisse lentement ton corps jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Lie face down on the floor with your legs extended behind you.",
+      "Place your hands on the floor next to your lower ribs, fingers pointing forward.",
+      "Press your hands firmly into the floor and straighten your arms, lifting your torso and thighs off the ground.",
+      "Roll your shoulders back and down, opening your chest and lifting your gaze towards the ceiling.",
+      "Hold this position for a few breaths, then slowly lower your body back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Sdraiati a faccia in giù sul pavimento con le gambe distese dietro di te.",
+      "Metti le mani sul pavimento vicino alle costole inferiori, con le dita rivolte in avanti.",
+      "Premi saldamente le mani sul pavimento e raddrizza le braccia, sollevando il busto e le cosce da terra.",
+      "Ruota le spalle indietro e in basso, aprendo il petto e sollevando lo sguardo verso il soffitto.",
+      "Mantieni questa posizione per alcuni respiri, quindi abbassa lentamente il corpo fino alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Bacaklarınız arkanızda uzatılmış halde yüz üstü yere yatın.",
+      "Ellerinizi alt kaburgalarınızın yanına, parmaklarınız ileriyi gösterecek şekilde yere koyun.",
+      "Ellerinizi yere sıkıca bastırın ve kollarınızı düzleştirerek gövdenizi ve uyluklarınızı yerden kaldırın.",
+      "Omuzlarınızı geriye ve aşağı yuvarlayın, göğsünüzü açın ve bakışlarınızı tavana doğru kaldırın.",
+      "Birkaç nefes bu pozisyonda kalın, ardından vücudunuzu yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Túmbate boca abajo en el suelo con las piernas extendidas detrás de ti.",
+      "Coloca las manos en el suelo junto a las costillas inferiores, con los dedos apuntando hacia adelante.",
+      "Presiona las manos firmemente contra el suelo y estira los brazos, levantando el torso y los muslos del suelo.",
+      "Lleva los hombros hacia atrás y hacia abajo, abriendo el pecho y elevando la mirada hacia el techo.",
+      "Mantén esta posición durante unas cuantas respiraciones, luego baja lentamente el cuerpo de nuevo a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Лягте на пол лицом вниз, вытянув ноги позади себя.",
+      "Положите руки на пол рядом с нижними ребрами, пальцы направлены вперед.",
+      "Плотно прижмите руки к полу и выпрямите руки, отрывая туловище и бедра от земли.",
+      "Поверните плечи назад и вниз, раскрывая грудь и подняв взгляд к потолку.",
+      "Задержитесь в этом положении на несколько вдохов, затем медленно опустите тело обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "脸朝下躺在地板上，双腿伸到身后。",
+      "将双手放在下肋骨旁边的地板上，手指指向前方。",
+      "双手用力按在地板上，伸直手臂，将躯干和大腿抬离地面。",
+      "向后和向下转动肩膀，打开胸部，将目光转向天花板。",
+      "保持这个姿势几次呼吸，然后慢慢将身体放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को अपने पीछे फैलाकर फर्श पर मुंह करके लेट जाएं।",
+      "अपने हाथों को अपनी निचली पसलियों के बगल में फर्श पर रखें, उंगलियां आगे की ओर हों।",
+      "अपने हाथों को फर्श पर मजबूती से दबाएं और अपनी बाहों को सीधा करें, अपने धड़ और जांघों को जमीन से ऊपर उठाएं।",
+      "अपने कंधों को पीछे और नीचे घुमाएँ, अपनी छाती खोलें और अपनी निगाहें छत की ओर उठाएँ।",
+      "कुछ सांसों के लिए इस स्थिति में रहें, फिर धीरे-धीरे अपने शरीर को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Połóż się na podłodze przodem do niej, z nogami wyprostowanymi za sobą.",
+      "Umieść dłonie na podłodze obok dolnych żeber, palcami skierowanymi do przodu.",
+      "Naciśnij mocno dłońmi na podłogę i wyprostuj ramiona, unosząc tułów i uda nad podłogę.",
+      "Cofnij i opuść barki, otwierając klatkę piersiową i unosząc wzrok w stronę sufitu.",
+      "Przytrzymaj tę pozycję przez kilka oddechów, a następnie powoli opuść ciało z powrotem do pozycji wyjściowej.",
+      "Powtórz zgodnie z żądaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "엎드려 누워 다리를 뒤로 쭉 펼칩니다.",
+      "손을 갈비뼈 아래 옆에 놓고 손가락은 앞을 향하게 합니다.",
+      "손을 땅에 세게 누르면서 팔을 펴서 상체와 다리를 땅에서 들어올립니다.",
+      "어깨를 뒤로 굴려 가슴을 열고 시선을 천장을 향합니다.",
+      "몇 번의 호흡 동안 이 자세를 유지한 후 천천히 몸을 시작 위치로 내립니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Allonge-toi face vers le bas au sol, les jambes tendues derrière toi.",
+      "Place tes mains au sol à côté du bas de tes côtes, les doigts pointés vers l'avant.",
+      "Presse fermement tes mains dans le sol et redresse tes bras, en soulevant ton torse et tes cuisses du sol.",
+      "Roule tes épaules vers l'arrière et vers le bas, en ouvrant ta poitrine et en levant ton regard vers le plafond.",
+      "Maintiens cette position pendant quelques respirations, puis abaisse lentement ton corps jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "chest"
+  ],
+  "target": "spine",
+  "image": "images/1366-01qpYSe.jpg",
+  "gif_url": "videos/1366-01qpYSe.gif",
+  "media_id": "01qpYSe",
+  "created_at": "2026-03-18T12:31:32.905556+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "0636",
+    "name": "olympic barbell hammer curl",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "olympic barbell",
+    "target": "biceps",
+    "image": "images/0636-o1ntciW.jpg",
+    "gif_url": "videos/0636-o1ntciW.gif"
+  },
+  {
+    "id": "0637",
+    "name": "olympic barbell triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "olympic barbell",
+    "target": "triceps",
+    "image": "images/0637-wu5LXwz.jpg",
+    "gif_url": "videos/0637-wu5LXwz.gif"
+  }
+]

@@ -1,0 +1,112 @@
+{
+  "id": "0115",
+  "name": "barbell stiff leg good morning",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and your knees slightly bent. Hold the barbell across your upper back, resting it on your traps. Keeping your back straight, hinge forward at the hips, pushing your glutes back. Lower your torso until it is parallel to the ground, feeling a stretch in your hamstrings. Engage your glutes and hamstrings to return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stai in piedi con i piedi a larghezza delle spalle e le ginocchia leggermente piegate. Tieni il bilanciere sopra la parte alta della schiena, appoggiandolo sui trapezi. Tieni la schiena dritta, piega in avanti ai fianchi, spinge indietro i glutei. Abbassa il busto finché non è parallelo al suolo, sentendo uno stiramento nei muscoli posteriori femorale. Attiva glutei e muscoli femorale per tornare alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız omuz genişliğinde açık ve dizleriniz hafifçe bükülü şekilde ayakta durun. Halteri sırtınızın üst kısmında tutun ve trapezlerinize dayayın. Sırtınızı düz tutarak, kalçalarınızı öne doğru çekerek kalça kaslarınızı geriye doğru itin. Diz arkası kirişlerinizde bir gerginlik hissederek gövdenizi yere paralel hale gelinceye kadar indirin. Başlangıç ​​pozisyonuna dönmek için kalça kaslarınızı ve diz arkası kaslarınızı devreye sokun. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y las rodillas ligeramente flexionadas. Sujeta la barra sobre la parte superior de la espalda, apoyándola en los trapecios. Manteniendo la espalda recta, inclínate hacia adelante desde las caderas, empujando los glúteos hacia atrás. Baja el torso hasta que quede paralelo al suelo, sintiendo un estiramiento en los isquiotibiales. Activa los glúteos y los isquiotibiales para volver a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, поставив ноги на ширине плеч и слегка согнув колени. Держите штангу на верхней части спины, положив ее на трапеции. Сохраняя спину прямой, наклонитесь вперед в бедрах, отводя ягодицы назад. Опускайте туловище до тех пор, пока оно не станет параллельно земле, чувствуя растяжение подколенных сухожилий. Задействуйте ягодицы и мышцы задней поверхности бедра, чтобы вернуться в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，膝盖稍微弯曲。 将杠铃放在上背部，将其放在斜方肌上。 保持背部挺直，臀部向前转动，将臀部向后推。 降低躯干直到与地面平行，感觉腿筋被拉伸。 启动臀肌和腿筋以返回起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और आपके घुटने थोड़े मुड़े हुए हों। बारबेल को अपनी ऊपरी पीठ पर पकड़ें, इसे अपने जाल पर टिकाएं। अपनी पीठ को सीधा रखते हुए, कूल्हों पर आगे की ओर झुकें, अपने ग्लूट्स को पीछे धकेलें। अपने धड़ को तब तक नीचे करें जब तक वह ज़मीन के समानांतर न हो जाए, अपनी हैमस्ट्रिंग में खिंचाव महसूस करें। प्रारंभिक स्थिति में लौटने के लिए अपने ग्लूट्स और हैमस्ट्रिंग को संलग्न करें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań ze stopami na szerokość barków, a kolana lekko ugięte. Trzymaj sztangę na górnej części pleców, opierając ją na mięśniach czworobocznych. Trzymając plecy proste, pochyl tułów do przodu w biodrach, cofając pośladki. Opuść tułów, aż będzie równoległy do podłoża, czując rozciąganie mięśni dwugłowych uda. Napnij pośladki i mięśnie dwugłowe uda, wracając do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "발을 어깨 너비로 벌리고 무릎을 약간 구부린 상태에서 섭니다. 바벨을 상체 위쪽에 올려 등 위에 올려 사다리근에 얹습니다. 등을 펴서 유지하면서 골반에서 몸을 굽혀 엉덩이를 뒤로 밀어냅니다. 몸이 지면과 평행할 때까지 내려 종아리에 스트레칭을 느낍니다. 엉덩이와 종아리를 사용하여 시작 위치로 돌아옵니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et les genoux légèrement fléchis. Tiens la barre en travers du haut de ton dos, en la faisant reposer sur tes trapèzes. En gardant le dos droit, bascule vers l'avant au niveau des hanches, en poussant tes fessiers vers l'arrière. Abaisse ton torse jusqu'à ce qu'il soit parallèle au sol, en ressentant un étirement dans tes ischio-jambiers. Contracte tes fessiers et tes ischio-jambiers pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and your knees slightly bent.",
+      "Hold the barbell across your upper back, resting it on your traps.",
+      "Keeping your back straight, hinge forward at the hips, pushing your glutes back.",
+      "Lower your torso until it is parallel to the ground, feeling a stretch in your hamstrings.",
+      "Engage your glutes and hamstrings to return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai in piedi con i piedi a larghezza delle spalle e le ginocchia leggermente piegate.",
+      "Tieni il bilanciere sopra la parte alta della schiena, appoggiandolo sui trapezi.",
+      "Tieni la schiena dritta, piega in avanti ai fianchi, spinge indietro i glutei.",
+      "Abbassa il busto finché non è parallelo al suolo, sentendo uno stiramento nei muscoli posteriori femorale.",
+      "Attiva glutei e muscoli femorale per tornare alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık ve dizleriniz hafifçe bükülü şekilde ayakta durun.",
+      "Halteri sırtınızın üst kısmında tutun ve trapezlerinize dayayın.",
+      "Sırtınızı düz tutarak, kalçalarınızı öne doğru çekerek kalça kaslarınızı geriye doğru itin.",
+      "Diz arkası kirişlerinizde bir gerginlik hissederek gövdenizi yere paralel hale gelinceye kadar indirin.",
+      "Başlangıç ​​pozisyonuna dönmek için kalça kaslarınızı ve diz arkası kaslarınızı devreye sokun.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y las rodillas ligeramente flexionadas.",
+      "Sujeta la barra sobre la parte superior de la espalda, apoyándola en los trapecios.",
+      "Manteniendo la espalda recta, inclínate hacia adelante desde las caderas, empujando los glúteos hacia atrás.",
+      "Baja el torso hasta que quede paralelo al suelo, sintiendo un estiramiento en los isquiotibiales.",
+      "Activa los glúteos y los isquiotibiales para volver a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, поставив ноги на ширине плеч и слегка согнув колени.",
+      "Держите штангу на верхней части спины, положив ее на трапеции.",
+      "Сохраняя спину прямой, наклонитесь вперед в бедрах, отводя ягодицы назад.",
+      "Опускайте туловище до тех пор, пока оно не станет параллельно земле, чувствуя растяжение подколенных сухожилий.",
+      "Задействуйте ягодицы и мышцы задней поверхности бедра, чтобы вернуться в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，膝盖稍微弯曲。",
+      "将杠铃放在上背部，将其放在斜方肌上。",
+      "保持背部挺直，臀部向前转动，将臀部向后推。",
+      "降低躯干直到与地面平行，感觉腿筋被拉伸。",
+      "启动臀肌和腿筋以返回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और आपके घुटने थोड़े मुड़े हुए हों।",
+      "बारबेल को अपनी ऊपरी पीठ पर पकड़ें, इसे अपने जाल पर टिकाएं।",
+      "अपनी पीठ को सीधा रखते हुए, कूल्हों पर आगे की ओर झुकें, अपने ग्लूट्स को पीछे धकेलें।",
+      "अपने धड़ को तब तक नीचे करें जब तक वह ज़मीन के समानांतर न हो जाए, अपनी हैमस्ट्रिंग में खिंचाव महसूस करें।",
+      "प्रारंभिक स्थिति में लौटने के लिए अपने ग्लूट्स और हैमस्ट्रिंग को संलग्न करें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań ze stopami na szerokość barków, a kolana lekko ugięte.",
+      "Trzymaj sztangę na górnej części pleców, opierając ją na mięśniach czworobocznych.",
+      "Trzymając plecy proste, pochyl tułów do przodu w biodrach, cofając pośladki.",
+      "Opuść tułów, aż będzie równoległy do podłoża, czując rozciąganie mięśni dwugłowych uda.",
+      "Napnij pośladki i mięśnie dwugłowe uda, wracając do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 너비로 벌리고 무릎을 약간 구부린 상태에서 섭니다.",
+      "바벨을 상체 위쪽에 올려 등 위에 올려 사다리근에 얹습니다.",
+      "등을 펴서 유지하면서 골반에서 몸을 굽혀 엉덩이를 뒤로 밀어냅니다.",
+      "몸이 지면과 평행할 때까지 내려 종아리에 스트레칭을 느낍니다.",
+      "엉덩이와 종아리를 사용하여 시작 위치로 돌아옵니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et les genoux légèrement fléchis.",
+      "Tiens la barre en travers du haut de ton dos, en la faisant reposer sur tes trapèzes.",
+      "En gardant le dos droit, bascule vers l'avant au niveau des hanches, en poussant tes fessiers vers l'arrière.",
+      "Abaisse ton torse jusqu'à ce qu'il soit parallèle au sol, en ressentant un étirement dans tes ischio-jambiers.",
+      "Contracte tes fessiers et tes ischio-jambiers pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings",
+    "lower back"
+  ],
+  "target": "glutes",
+  "image": "images/0115-JrOHAZc.jpg",
+  "gif_url": "videos/0115-JrOHAZc.gif",
+  "media_id": "JrOHAZc",
+  "created_at": "2026-03-18T12:31:32.873312+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

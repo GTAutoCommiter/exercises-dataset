@@ -1,0 +1,92 @@
+{
+  "id": "1701",
+  "name": "medicine ball close grip push up",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "medicine ball",
+  "instructions": {
+    "en": "Start in a high plank position with your hands on the medicine ball, shoulder-width apart. Lower your body towards the ground by bending your elbows, keeping them close to your sides. Push back up to the starting position, fully extending your arms. Repeat for the desired number of repetitions.",
+    "it": "Inizia in una posizione di plancia alta con le mani sulla palla medica, alla larghezza delle spalle. Abbassa il corpo verso terra piegando i gomiti, tenendoli vicini ai fianchi. Spingiti indietro fino alla posizione di partenza, estendendo completamente le braccia. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Elleriniz sağlık topunun üzerinde, omuz genişliğinde açık olacak şekilde yüksek plank pozisyonunda başlayın. Dirseklerinizi bükerek vücudunuzu yanlarınıza yakın tutarak yere doğru indirin. Kollarınızı tamamen uzatarak başlangıç ​​pozisyonuna geri itin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Comienza en una posición de plancha alta con las manos sobre el balón medicinal, separadas a la altura de los hombros. Baja el cuerpo hacia el suelo flexionando los codos, manteniéndolos cerca de los costados. Empuja de vuelta hasta la posición inicial, extendiendo completamente los brazos. Repite el número de repeticiones deseado.",
+    "ru": "Начните с позиции высокой планки, положив руки на медицинский мяч на ширине плеч. Опустите тело к земле, согнув локти и держа их близко к бокам. Вернитесь в исходное положение, полностью выпрямив руки. Повторите необходимое количество повторений.",
+    "zh": "从高平板支撑位置开始，双手放在健身球上，距离与肩同宽。 弯曲肘部，使肘部靠近身体两侧，将身体降低到地面。 推回起始位置，完全伸展双臂。 重复所需的重复次数。",
+    "hi": "अपने हाथों को मेडिसिन बॉल पर कंधे-चौड़ाई की दूरी पर रखकर ऊंची तख़्त स्थिति में शुरुआत करें। अपनी कोहनियों को मोड़कर, उन्हें अपनी भुजाओं के पास रखते हुए, अपने शरीर को ज़मीन की ओर नीचे लाएँ। अपनी भुजाओं को पूरी तरह फैलाते हुए वापस प्रारंभिक स्थिति में आएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Zacznij w wysokiej pozycji deski, dłonie oparte na piłce lekarskiej, na szerokość barków. Opuść ciało w kierunku podłogi, uginając łokcie i trzymając je blisko boków. Wypchnij ciało z powrotem do pozycji wyjściowej, w pełni prostując ramiona. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "양손을 메디신볼 위에 어깨 너비로 놓고 높은 플랭크 자세를 취합니다. 팘을 몸에 붙이고 팘을 구부려 가슴을 땅을 향해 낮춥니다. 양손으로 밀어 팔을 완전히 펴서 처음 위치로 돌아옵니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Commence en position de planche haute, les mains sur le médecine-ball, écartées à la largeur des épaules. Abaisse ton corps vers le sol en fléchissant les coudes, en les gardant près de tes flancs. Repousse-toi vers la position de départ en tendant complètement tes bras. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start in a high plank position with your hands on the medicine ball, shoulder-width apart.",
+      "Lower your body towards the ground by bending your elbows, keeping them close to your sides.",
+      "Push back up to the starting position, fully extending your arms.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia in una posizione di plancia alta con le mani sulla palla medica, alla larghezza delle spalle.",
+      "Abbassa il corpo verso terra piegando i gomiti, tenendoli vicini ai fianchi.",
+      "Spingiti indietro fino alla posizione di partenza, estendendo completamente le braccia.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Elleriniz sağlık topunun üzerinde, omuz genişliğinde açık olacak şekilde yüksek plank pozisyonunda başlayın.",
+      "Dirseklerinizi bükerek vücudunuzu yanlarınıza yakın tutarak yere doğru indirin.",
+      "Kollarınızı tamamen uzatarak başlangıç ​​pozisyonuna geri itin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Comienza en una posición de plancha alta con las manos sobre el balón medicinal, separadas a la altura de los hombros.",
+      "Baja el cuerpo hacia el suelo flexionando los codos, manteniéndolos cerca de los costados.",
+      "Empuja de vuelta hasta la posición inicial, extendiendo completamente los brazos.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с позиции высокой планки, положив руки на медицинский мяч на ширине плеч.",
+      "Опустите тело к земле, согнув локти и держа их близко к бокам.",
+      "Вернитесь в исходное положение, полностью выпрямив руки.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "从高平板支撑位置开始，双手放在健身球上，距离与肩同宽。",
+      "弯曲肘部，使肘部靠近身体两侧，将身体降低到地面。",
+      "推回起始位置，完全伸展双臂。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने हाथों को मेडिसिन बॉल पर कंधे-चौड़ाई की दूरी पर रखकर ऊंची तख़्त स्थिति में शुरुआत करें।",
+      "अपनी कोहनियों को मोड़कर, उन्हें अपनी भुजाओं के पास रखते हुए, अपने शरीर को ज़मीन की ओर नीचे लाएँ।",
+      "अपनी भुजाओं को पूरी तरह फैलाते हुए वापस प्रारंभिक स्थिति में आएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Zacznij w wysokiej pozycji deski, dłonie oparte na piłce lekarskiej, na szerokość barków.",
+      "Opuść ciało w kierunku podłogi, uginając łokcie i trzymając je blisko boków.",
+      "Wypchnij ciało z powrotem do pozycji wyjściowej, w pełni prostując ramiona.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "양손을 메디신볼 위에 어깨 너비로 놓고 높은 플랭크 자세를 취합니다.",
+      "팘을 몸에 붙이고 팘을 구부려 가슴을 땅을 향해 낮춥니다.",
+      "양손으로 밀어 팔을 완전히 펴서 처음 위치로 돌아옵니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Commence en position de planche haute, les mains sur le médecine-ball, écartées à la largeur des épaules.",
+      "Abaisse ton corps vers le sol en fléchissant les coudes, en les gardant près de tes flancs.",
+      "Repousse-toi vers la position de départ en tendant complètement tes bras.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "chest",
+  "secondary_muscles": [
+    "chest",
+    "shoulders"
+  ],
+  "target": "triceps",
+  "image": "images/1701-8K7m2SS.jpg",
+  "gif_url": "videos/1701-8K7m2SS.gif",
+  "media_id": "8K7m2SS",
+  "created_at": "2026-03-18T12:31:32.887651+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

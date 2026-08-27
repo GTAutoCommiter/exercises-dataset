@@ -1,0 +1,112 @@
+{
+  "id": "0594",
+  "name": "lever seated calf raise",
+  "category": "lower legs",
+  "body_part": "lower legs",
+  "equipment": "leverage machine",
+  "instructions": {
+    "en": "Adjust the seat height so that your knees are slightly bent and your feet are flat on the footplate. Place your toes on the footplate with your heels hanging off the edge. Grasp the handles or the sides of the seat for stability. Push through the balls of your feet to raise your heels as high as possible. Pause for a moment at the top, then slowly lower your heels back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Regolare l'altezza del sedile in modo che le ginocchia siano leggermente piegate e i piedi siano appoggiati sulla pedana. Posiziona le dita dei piedi sulla pedana con i talloni che pendono dal bordo. Afferrare le maniglie o i lati del sedile per stabilità. Spingi attraverso le punte dei piedi per sollevare i talloni il più in alto possibile. Fai una pausa per un momento in alto, quindi abbassa lentamente i talloni nella posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Koltuk yüksekliğini, dizleriniz hafifçe bükülü ve ayaklarınız taban plakası üzerinde düz olacak şekilde ayarlayın. Topuklarınız kenardan sarkacak şekilde ayak parmaklarınızı taban plakasının üzerine yerleştirin. Denge için koltuğun kollarını veya yanlarını tutun. Topuklarınızı mümkün olduğunca yükseğe kaldırmak için ayak parmak uçlarınızı itin. Tepe noktasında bir an duraklayın, ardından topuklarınızı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta la altura del asiento de modo que las rodillas queden ligeramente flexionadas y los pies queden planos sobre la placa para los pies. Coloca los dedos de los pies sobre la placa para los pies, con los talones colgando fuera del borde. Sujeta las asas o los lados del asiento para mayor estabilidad. Empuja con la parte delantera de los pies para elevar los talones tan alto como sea posible. Haz una pausa breve en la parte alta y luego baja lentamente los talones de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Отрегулируйте высоту сиденья так, чтобы ваши колени были слегка согнуты, а ступни лежали на подножке. Поместите пальцы ног на подножку так, чтобы пятки свисали с края. Возьмитесь за ручки или боковые стороны сиденья для устойчивости. Оттолкнитесь подушечками стоп, чтобы поднять пятки как можно выше. Задержитесь на мгновение в верхней точке, затем медленно опустите пятки обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "调整座椅高度，使膝盖稍微弯曲，双脚平放在踏板上。 将脚趾放在踏板上，脚跟悬在踏板边缘。 抓住把手或座椅侧面以保持稳定性。 推动脚掌，将脚后跟尽可能抬高。 在顶部停顿片刻，然后慢慢降低脚后跟回到起始位置。 重复所需的重复次数。",
+    "hi": "सीट की ऊँचाई को समायोजित करें ताकि आपके घुटने थोड़े मुड़े हुए हों और आपके पैर फ़ुटप्लेट पर सपाट हों। अपने पैर की उंगलियों को फ़ुटप्लेट पर रखें और आपकी एड़ियाँ किनारे से लटकी हुई हों। स्थिरता के लिए सीट के हैंडल या किनारों को पकड़ें। अपनी एड़ियों को जितना संभव हो उतना ऊपर उठाने के लिए अपने पैरों की उंगलियों से धक्का दें। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपनी एड़ियों को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Wyreguluj wysokość siedziska tak, aby kolana były lekko ugięte, a stopy płasko na podpórce. Umieść palce stóp na podpórce, tak aby pięty zwisały poza krawędzią. Chwyć uchwyty lub boki siedziska dla stabilizacji. Wypchnij się przez palce stóp, aby unieść pięty jak najwyżej. Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść pięty do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "시트 높이를 조정하여 무릎이 약간 굽혀지고 발이 풋플레이트에 평평하게 놓이도록 합니다. 발가락을 풋플레이트에 올리고 발뒤꿈치를 가장자리 바깥으로 내밉니다. 안정성을 위해 시트의 핸들이나 옆면을 잡습니다. 발의 공 부분을 통해 눌러서 발뒤꿈치를 가능한 높이 올립니다. 상단에서 잠깐 멈춘 후, 발뒤꿈치를 천천히 처음 위치로 낮춥니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Règle la hauteur du siège de sorte que tes genoux soient légèrement fléchis et que tes pieds soient à plat sur le repose-pieds. Place tes orteils sur le repose-pieds, les talons dans le vide. Saisis les poignées ou les côtés du siège pour te stabiliser. Pousse sur la plante de tes pieds pour lever tes talons aussi haut que possible. Marque une pause en haut, puis abaisse lentement tes talons pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the seat height so that your knees are slightly bent and your feet are flat on the footplate.",
+      "Place your toes on the footplate with your heels hanging off the edge.",
+      "Grasp the handles or the sides of the seat for stability.",
+      "Push through the balls of your feet to raise your heels as high as possible.",
+      "Pause for a moment at the top, then slowly lower your heels back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Regolare l'altezza del sedile in modo che le ginocchia siano leggermente piegate e i piedi siano appoggiati sulla pedana.",
+      "Posiziona le dita dei piedi sulla pedana con i talloni che pendono dal bordo.",
+      "Afferrare le maniglie o i lati del sedile per stabilità.",
+      "Spingi attraverso le punte dei piedi per sollevare i talloni il più in alto possibile.",
+      "Fai una pausa per un momento in alto, quindi abbassa lentamente i talloni nella posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Koltuk yüksekliğini, dizleriniz hafifçe bükülü ve ayaklarınız taban plakası üzerinde düz olacak şekilde ayarlayın.",
+      "Topuklarınız kenardan sarkacak şekilde ayak parmaklarınızı taban plakasının üzerine yerleştirin.",
+      "Denge için koltuğun kollarını veya yanlarını tutun.",
+      "Topuklarınızı mümkün olduğunca yükseğe kaldırmak için ayak parmak uçlarınızı itin.",
+      "Tepe noktasında bir an duraklayın, ardından topuklarınızı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta la altura del asiento de modo que las rodillas queden ligeramente flexionadas y los pies queden planos sobre la placa para los pies.",
+      "Coloca los dedos de los pies sobre la placa para los pies, con los talones colgando fuera del borde.",
+      "Sujeta las asas o los lados del asiento para mayor estabilidad.",
+      "Empuja con la parte delantera de los pies para elevar los talones tan alto como sea posible.",
+      "Haz una pausa breve en la parte alta y luego baja lentamente los talones de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Отрегулируйте высоту сиденья так, чтобы ваши колени были слегка согнуты, а ступни лежали на подножке.",
+      "Поместите пальцы ног на подножку так, чтобы пятки свисали с края.",
+      "Возьмитесь за ручки или боковые стороны сиденья для устойчивости.",
+      "Оттолкнитесь подушечками стоп, чтобы поднять пятки как можно выше.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите пятки обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "调整座椅高度，使膝盖稍微弯曲，双脚平放在踏板上。",
+      "将脚趾放在踏板上，脚跟悬在踏板边缘。",
+      "抓住把手或座椅侧面以保持稳定性。",
+      "推动脚掌，将脚后跟尽可能抬高。",
+      "在顶部停顿片刻，然后慢慢降低脚后跟回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "सीट की ऊँचाई को समायोजित करें ताकि आपके घुटने थोड़े मुड़े हुए हों और आपके पैर फ़ुटप्लेट पर सपाट हों।",
+      "अपने पैर की उंगलियों को फ़ुटप्लेट पर रखें और आपकी एड़ियाँ किनारे से लटकी हुई हों।",
+      "स्थिरता के लिए सीट के हैंडल या किनारों को पकड़ें।",
+      "अपनी एड़ियों को जितना संभव हो उतना ऊपर उठाने के लिए अपने पैरों की उंगलियों से धक्का दें।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपनी एड़ियों को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Wyreguluj wysokość siedziska tak, aby kolana były lekko ugięte, a stopy płasko na podpórce.",
+      "Umieść palce stóp na podpórce, tak aby pięty zwisały poza krawędzią.",
+      "Chwyć uchwyty lub boki siedziska dla stabilizacji.",
+      "Wypchnij się przez palce stóp, aby unieść pięty jak najwyżej.",
+      "Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść pięty do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "시트 높이를 조정하여 무릎이 약간 굽혀지고 발이 풋플레이트에 평평하게 놓이도록 합니다.",
+      "발가락을 풋플레이트에 올리고 발뒤꿈치를 가장자리 바깥으로 내밉니다.",
+      "안정성을 위해 시트의 핸들이나 옆면을 잡습니다.",
+      "발의 공 부분을 통해 눌러서 발뒤꿈치를 가능한 높이 올립니다.",
+      "상단에서 잠깐 멈춘 후, 발뒤꿈치를 천천히 처음 위치로 낮춥니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Règle la hauteur du siège de sorte que tes genoux soient légèrement fléchis et que tes pieds soient à plat sur le repose-pieds.",
+      "Place tes orteils sur le repose-pieds, les talons dans le vide.",
+      "Saisis les poignées ou les côtés du siège pour te stabiliser.",
+      "Pousse sur la plante de tes pieds pour lever tes talons aussi haut que possible.",
+      "Marque une pause en haut, puis abaisse lentement tes talons pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "soleus",
+  "secondary_muscles": [
+    "soleus",
+    "ankle stabilizers"
+  ],
+  "target": "calves",
+  "image": "images/0594-bOOdeyc.jpg",
+  "gif_url": "videos/0594-bOOdeyc.gif",
+  "media_id": "bOOdeyc",
+  "created_at": "2026-03-18T12:31:32.886903+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

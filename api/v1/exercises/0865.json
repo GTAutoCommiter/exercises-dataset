@@ -1,0 +1,101 @@
+{
+  "id": "0865",
+  "name": "lying leg-hip raise",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Lie flat on your back with your legs extended and your arms by your sides. Place your hands under your glutes for support. Engage your core and lift your legs off the ground, raising them towards the ceiling. Pause for a moment at the top, then slowly lower your legs back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Sdraiati sulla schiena con le gambe distese e le braccia lungo i fianchi. Metti le mani sotto i glutei per supporto. Coinvolgi il tuo core e solleva le gambe da terra, sollevandole verso il soffitto. Fai una pausa per un momento in alto, quindi abbassa lentamente le gambe fino alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Bacaklarınız uzatılmış ve kollarınız yanlarınızda olacak şekilde sırt üstü yatın. Destek için ellerinizi kalça kaslarınızın altına yerleştirin. Merkez bölgenizi devreye sokun ve bacaklarınızı yerden kaldırarak tavana doğru kaldırın. Tepe noktasında bir an duraklayın, ardından bacaklarınızı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Túmbate sobre tu espalda con las piernas extendidas y los brazos a los lados. Coloca las manos debajo de los glúteos como apoyo. Activa el core y levanta las piernas del suelo, elevándolas hacia el techo. Haz una pausa por un momento en la parte superior, luego baja lentamente las piernas de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Лягте на спину, вытянув ноги и положив руки по бокам. Положите руки под ягодицы для поддержки. Напрягите корпус и поднимите ноги от земли, поднимая их к потолку. Задержитесь на мгновение в верхней точке, затем медленно опустите ноги обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "平躺，双腿伸展，双臂放在身体两侧。 将双手放在臀部下方以获得支撑。 启动你的核心并将双腿抬离地面，将它们抬向天花板。 在顶部暂停片刻，然后慢慢将双腿放回起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को फैलाकर और अपनी भुजाओं को बगल में रखकर अपनी पीठ के बल सीधे लेट जाएँ। समर्थन के लिए अपने हाथों को अपने ग्लूट्स के नीचे रखें। अपने कोर को संलग्न करें और अपने पैरों को जमीन से ऊपर उठाएं, उन्हें छत की ओर उठाएं। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने पैरों को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Połóż się płasko na plecach, wyprostuj nogi, a ramiona ułóż wzdłuż tułowia. Umieść dłonie pod pośladkami dla podparcia. Napnij mięśnie brzucha i unieś nogi nad podłogę, kierując je w stronę sufitu. Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść nogi do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "등을 바닥에 대고 누워 다리를 쭉 펴고 양팔을 옆에 놓습니다. 글루트 아래에 양손을 놓고 지지합니다. 코어에 힘을 주고 다리를 땅에서 들어올려 천장을 향해 올립니다. 맨 위에서 잠깐 멈춘 후 천천히 다리를 처음 위치로 내립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Allonge-toi sur le dos, les jambes tendues et les bras le long du corps. Place tes mains sous tes fessiers pour te soutenir. Gaine ta sangle abdominale et lève tes jambes du sol, en les levant vers le plafond. Marque une pause en haut, puis abaisse lentement tes jambes pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Lie flat on your back with your legs extended and your arms by your sides.",
+      "Place your hands under your glutes for support.",
+      "Engage your core and lift your legs off the ground, raising them towards the ceiling.",
+      "Pause for a moment at the top, then slowly lower your legs back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Sdraiati sulla schiena con le gambe distese e le braccia lungo i fianchi.",
+      "Metti le mani sotto i glutei per supporto.",
+      "Coinvolgi il tuo core e solleva le gambe da terra, sollevandole verso il soffitto.",
+      "Fai una pausa per un momento in alto, quindi abbassa lentamente le gambe fino alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Bacaklarınız uzatılmış ve kollarınız yanlarınızda olacak şekilde sırt üstü yatın.",
+      "Destek için ellerinizi kalça kaslarınızın altına yerleştirin.",
+      "Merkez bölgenizi devreye sokun ve bacaklarınızı yerden kaldırarak tavana doğru kaldırın.",
+      "Tepe noktasında bir an duraklayın, ardından bacaklarınızı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Túmbate sobre tu espalda con las piernas extendidas y los brazos a los lados.",
+      "Coloca las manos debajo de los glúteos como apoyo.",
+      "Activa el core y levanta las piernas del suelo, elevándolas hacia el techo.",
+      "Haz una pausa por un momento en la parte superior, luego baja lentamente las piernas de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Лягте на спину, вытянув ноги и положив руки по бокам.",
+      "Положите руки под ягодицы для поддержки.",
+      "Напрягите корпус и поднимите ноги от земли, поднимая их к потолку.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите ноги обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "平躺，双腿伸展，双臂放在身体两侧。",
+      "将双手放在臀部下方以获得支撑。",
+      "启动你的核心并将双腿抬离地面，将它们抬向天花板。",
+      "在顶部暂停片刻，然后慢慢将双腿放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को फैलाकर और अपनी भुजाओं को बगल में रखकर अपनी पीठ के बल सीधे लेट जाएँ।",
+      "समर्थन के लिए अपने हाथों को अपने ग्लूट्स के नीचे रखें।",
+      "अपने कोर को संलग्न करें और अपने पैरों को जमीन से ऊपर उठाएं, उन्हें छत की ओर उठाएं।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने पैरों को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Połóż się płasko na plecach, wyprostuj nogi, a ramiona ułóż wzdłuż tułowia.",
+      "Umieść dłonie pod pośladkami dla podparcia.",
+      "Napnij mięśnie brzucha i unieś nogi nad podłogę, kierując je w stronę sufitu.",
+      "Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść nogi do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "등을 바닥에 대고 누워 다리를 쭉 펴고 양팔을 옆에 놓습니다.",
+      "글루트 아래에 양손을 놓고 지지합니다.",
+      "코어에 힘을 주고 다리를 땅에서 들어올려 천장을 향해 올립니다.",
+      "맨 위에서 잠깐 멈춘 후 천천히 다리를 처음 위치로 내립니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Allonge-toi sur le dos, les jambes tendues et les bras le long du corps.",
+      "Place tes mains sous tes fessiers pour te soutenir.",
+      "Gaine ta sangle abdominale et lève tes jambes du sol, en les levant vers le plafond.",
+      "Marque une pause en haut, puis abaisse lentement tes jambes pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hip flexors",
+  "secondary_muscles": [
+    "hip flexors"
+  ],
+  "target": "abs",
+  "image": "images/0865-9IxJdtC.jpg",
+  "gif_url": "videos/0865-9IxJdtC.gif",
+  "media_id": "9IxJdtC",
+  "created_at": "2026-03-18T12:31:32.887488+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

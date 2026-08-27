@@ -1,0 +1,101 @@
+{
+  "id": "0795",
+  "name": "standing single leg curl",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand with your feet hip-width apart and your hands on your hips. Shift your weight onto your left leg and lift your right foot off the ground, bending your knee. Slowly curl your right heel towards your glutes, squeezing your hamstring. Pause for a moment at the top, then slowly lower your right foot back down to the starting position. Repeat for the desired number of repetitions, then switch legs.",
+    "it": "Stai in piedi con i piedi alla larghezza dei fianchi e le mani sui fianchi. Sposta il peso sulla gamba sinistra e solleva il piede destro da terra, piegando il ginocchio. Piega lentamente il tallone destro verso i glutei, contraendo i tendini del ginocchio. Fai una pausa per un momento in alto, quindi abbassa lentamente il piede destro fino alla posizione iniziale. Ripeti per il numero di ripetizioni desiderato, quindi cambia gamba.",
+    "tr": "Ayaklarınız kalça genişliğinde açık ve elleriniz kalçalarınızın üzerinde olacak şekilde ayakta durun. Ağırlığınızı sol bacağınıza verin ve sağ ayağınızı yerden kaldırarak dizinizi bükün. Sağ topuğunuzu yavaşça kalçalarınıza doğru kıvırın ve hamstringinizi sıkın. Tepede bir an duraklayın, ardından sağ ayağınızı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen tekrar sayısı kadar tekrarlayın, ardından bacakları değiştirin.",
+    "es": "Ponte de pie con los pies separados a la altura de las caderas y las manos en las caderas. Traslada tu peso a la pierna izquierda y levanta el pie derecho del suelo, flexionando la rodilla. Curva lentamente el talón derecho hacia los glúteos, contrayendo el isquiotibial. Haz una pausa de un momento en la parte superior y luego baja lentamente el pie derecho de nuevo a la posición inicial. Repite el número de repeticiones deseado, luego cambia de pierna.",
+    "ru": "Встаньте, ноги на ширине плеч, руки на бедрах. Перенесите вес тела на левую ногу и поднимите правую ногу от земли, согнув колено. Медленно подогните правую пятку к ягодицам, сжимая подколенное сухожилие. Задержитесь на мгновение в верхней точке, затем медленно опустите правую ногу обратно в исходное положение. Повторите необходимое количество повторений, затем поменяйте ногу.",
+    "zh": "站立，双脚分开与臀部同宽，双手放在臀部。 将体重转移到左腿上，将右脚抬离地面，弯曲膝盖。 慢慢地将右脚跟卷向臀部，挤压腿筋。 在顶部暂停片刻，然后慢慢将右脚放回起始位置。 重复所需的重复次数，然后换腿。",
+    "hi": "अपने पैरों को कूल्हे की चौड़ाई पर फैलाकर और अपने हाथों को अपने कूल्हों पर रखकर खड़े हो जाएं। अपना वजन अपने बाएं पैर पर डालें और अपने दाहिने पैर को घुटने मोड़ते हुए जमीन से ऊपर उठाएं। अपनी हैमस्ट्रिंग को निचोड़ते हुए धीरे-धीरे अपनी दाहिनी एड़ी को अपने ग्लूट्स की ओर मोड़ें। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने दाहिने पैर को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएं, फिर पैर बदल लें।",
+    "pl": "Stań ze stopami rozstawionymi na szerokość bioder i dłońmi na biodrach. Przenieś ciężar ciała na lewą nogę i unieś prawą stopę nad podłogę, uginając kolano. Powoli podciągnij prawą piętę w stronę pośladków, napinając mięśnie kulszowo-goleniowe. Zatrzymaj się na chwilę na górze, a następnie powoli opuść prawą stopę z powrotem do pozycji wyjściowej. Powtórz zgodnie z żądaną liczbą powtórzeń, a następnie zmień nogę.",
+    "ko": "발을 엉덩이 너비로 벌리고 손을 엉덩이에 놓고 서 있습니다. 왼쪽 다리로 체중을 옮기고 오른발을 땅에서 떠올려 무릎을 구부립니다. 오른발 뒤꿈치를 엉덩이 쪽으로 천천히 구부리며 햄스트링을 쥡니다. 맨 위에서 잠깐 멈춘 후 오른발을 천천히 시작 자세로 내립니다. 원하는 횟수만큼 반복한 후 다리를 바꿉니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des hanches et les mains sur les hanches. Reporte ton poids sur ta jambe gauche et soulève ton pied droit du sol, en fléchissant ton genou. Enroule lentement ton talon droit vers tes fessiers, en contractant ton ischio-jambier. Marque une pause en haut, puis abaisse lentement ton pied droit pour revenir à la position de départ. Répète le nombre de répétitions souhaité, puis change de jambe."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet hip-width apart and your hands on your hips.",
+      "Shift your weight onto your left leg and lift your right foot off the ground, bending your knee.",
+      "Slowly curl your right heel towards your glutes, squeezing your hamstring.",
+      "Pause for a moment at the top, then slowly lower your right foot back down to the starting position.",
+      "Repeat for the desired number of repetitions, then switch legs."
+    ],
+    "it": [
+      "Stai in piedi con i piedi alla larghezza dei fianchi e le mani sui fianchi.",
+      "Sposta il peso sulla gamba sinistra e solleva il piede destro da terra, piegando il ginocchio.",
+      "Piega lentamente il tallone destro verso i glutei, contraendo i tendini del ginocchio.",
+      "Fai una pausa per un momento in alto, quindi abbassa lentamente il piede destro fino alla posizione iniziale.",
+      "Ripeti per il numero di ripetizioni desiderato, quindi cambia gamba."
+    ],
+    "tr": [
+      "Ayaklarınız kalça genişliğinde açık ve elleriniz kalçalarınızın üzerinde olacak şekilde ayakta durun.",
+      "Ağırlığınızı sol bacağınıza verin ve sağ ayağınızı yerden kaldırarak dizinizi bükün.",
+      "Sağ topuğunuzu yavaşça kalçalarınıza doğru kıvırın ve hamstringinizi sıkın.",
+      "Tepede bir an duraklayın, ardından sağ ayağınızı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından bacakları değiştirin."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de las caderas y las manos en las caderas.",
+      "Traslada tu peso a la pierna izquierda y levanta el pie derecho del suelo, flexionando la rodilla.",
+      "Curva lentamente el talón derecho hacia los glúteos, contrayendo el isquiotibial.",
+      "Haz una pausa de un momento en la parte superior y luego baja lentamente el pie derecho de nuevo a la posición inicial.",
+      "Repite el número de repeticiones deseado, luego cambia de pierna."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, руки на бедрах.",
+      "Перенесите вес тела на левую ногу и поднимите правую ногу от земли, согнув колено.",
+      "Медленно подогните правую пятку к ягодицам, сжимая подколенное сухожилие.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите правую ногу обратно в исходное положение.",
+      "Повторите необходимое количество повторений, затем поменяйте ногу."
+    ],
+    "zh": [
+      "站立，双脚分开与臀部同宽，双手放在臀部。",
+      "将体重转移到左腿上，将右脚抬离地面，弯曲膝盖。",
+      "慢慢地将右脚跟卷向臀部，挤压腿筋。",
+      "在顶部暂停片刻，然后慢慢将右脚放回起始位置。",
+      "重复所需的重复次数，然后换腿。"
+    ],
+    "hi": [
+      "अपने पैरों को कूल्हे की चौड़ाई पर फैलाकर और अपने हाथों को अपने कूल्हों पर रखकर खड़े हो जाएं।",
+      "अपना वजन अपने बाएं पैर पर डालें और अपने दाहिने पैर को घुटने मोड़ते हुए जमीन से ऊपर उठाएं।",
+      "अपनी हैमस्ट्रिंग को निचोड़ते हुए धीरे-धीरे अपनी दाहिनी एड़ी को अपने ग्लूट्स की ओर मोड़ें।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने दाहिने पैर को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर पैर बदल लें।"
+    ],
+    "pl": [
+      "Stań ze stopami rozstawionymi na szerokość bioder i dłońmi na biodrach.",
+      "Przenieś ciężar ciała na lewą nogę i unieś prawą stopę nad podłogę, uginając kolano.",
+      "Powoli podciągnij prawą piętę w stronę pośladków, napinając mięśnie kulszowo-goleniowe.",
+      "Zatrzymaj się na chwilę na górze, a następnie powoli opuść prawą stopę z powrotem do pozycji wyjściowej.",
+      "Powtórz zgodnie z żądaną liczbą powtórzeń, a następnie zmień nogę."
+    ],
+    "ko": [
+      "발을 엉덩이 너비로 벌리고 손을 엉덩이에 놓고 서 있습니다.",
+      "왼쪽 다리로 체중을 옮기고 오른발을 땅에서 떠올려 무릎을 구부립니다.",
+      "오른발 뒤꿈치를 엉덩이 쪽으로 천천히 구부리며 햄스트링을 쥡니다.",
+      "맨 위에서 잠깐 멈춘 후 오른발을 천천히 시작 자세로 내립니다.",
+      "원하는 횟수만큼 반복한 후 다리를 바꿉니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des hanches et les mains sur les hanches.",
+      "Reporte ton poids sur ta jambe gauche et soulève ton pied droit du sol, en fléchissant ton genou.",
+      "Enroule lentement ton talon droit vers tes fessiers, en contractant ton ischio-jambier.",
+      "Marque une pause en haut, puis abaisse lentement ton pied droit pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis change de jambe."
+    ]
+  },
+  "muscle_group": "glutes",
+  "secondary_muscles": [
+    "glutes"
+  ],
+  "target": "hamstrings",
+  "image": "images/0795-C5jncD2.jpg",
+  "gif_url": "videos/0795-C5jncD2.gif",
+  "media_id": "C5jncD2",
+  "created_at": "2026-03-18T12:31:32.891656+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

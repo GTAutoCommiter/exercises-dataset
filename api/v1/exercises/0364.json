@@ -1,0 +1,102 @@
+{
+  "id": "0364",
+  "name": "dumbbell one arm wrist curl",
+  "category": "lower arms",
+  "body_part": "lower arms",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Sit on a bench or chair with your feet flat on the ground. Hold a dumbbell in one hand with an underhand grip, resting your forearm on your thigh. Allow your wrist to extend, letting the dumbbell roll down towards your fingers. Slowly curl your wrist back up, bringing the dumbbell towards your forearm. Repeat for the desired number of repetitions, then switch to the other hand.",
+    "it": "Siediti su una panca o una sedia con i piedi piatti a terra. Tieni un manubrio in una mano con una presa sotto, appoggiando l'avambraccio sulla coscia. Lascia che il polso si estenda, lasciando che il manubrio rotoli verso le dita. Ripiega lentamente il polso verso l'alto, portando il manubrio verso l'avambraccio. Ripeti per il numero desiderato di ripetizioni, poi passa all'altra mano.",
+    "tr": "Ayaklarınız yere düz basacak şekilde bir bankta veya sandalyede oturun. Bir elinizde bir dambılı alttan kavrayarak tutun, ön kolunuzu uyluğunuzun üzerine yaslayın. Bileğinizin uzamasına izin vererek dambılın parmaklarınıza doğru yuvarlanmasına izin verin. Bileğinizi yavaşça yukarı doğru kıvırın ve dambılı ön kolunuza doğru getirin. İstenilen tekrar sayısı kadar tekrarlayın, ardından diğer elinize geçin.",
+    "es": "Siéntate en un banco o silla con los pies apoyados en el suelo. Sostén una mancuerna en una mano con agarre supino, apoyando el antebrazo sobre el muslo. Permite que la muñeca se extienda, dejando que la mancuerna ruede hacia los dedos. Flexiona lentamente la muñeca hacia arriba, acercando la mancuerna hacia el antebrazo. Repite el número de repeticiones deseado, luego cambia a la otra mano.",
+    "ru": "Сядьте на скамью или стул, поставив ноги на землю. Возьмите гантель в одну руку обратным хватом, положив предплечье на бедро. Позвольте запястью выпрямиться, позволяя гантеле скатиться вниз к вашим пальцам. Медленно согните запястье вверх, поднося гантель к предплечью. Повторите необходимое количество повторений, затем переключитесь на другую руку.",
+    "zh": "坐在长凳或椅子上，双脚平放在地面上。 一只手握住哑铃，反握，将前臂放在大腿上。 让你的手腕伸展，让哑铃向你的手指方向滚动。 慢慢地向后弯曲手腕，将哑铃拉向前臂。 重复所需的重复次数，然后换另一只手。",
+    "hi": "अपने पैरों को ज़मीन पर सपाट करके किसी बेंच या कुर्सी पर बैठें। एक हाथ में डम्बल पकड़ें, अपने अग्रबाहु को अपनी जाँघ पर टिकाएँ। अपनी कलाई को फैलने दें, डम्बल को अपनी उंगलियों की ओर लुढ़कने दें। धीरे-धीरे अपनी कलाई को पीछे की ओर मोड़ें, डम्बल को अपनी बांह की ओर लाएं। दोहराव की वांछित संख्या के लिए दोहराएं, फिर दूसरी ओर स्विच करें।",
+    "pl": "Usiądź na ławce lub krześle, stopy oprzyj płasko na podłodze. Trzymaj hantlę w jednej ręce chwytem podchwytem, opierając przedramię na udzie. Pozwól nadgarstkowi się wyprostować, tak aby hantla toczyła się w stronę palców. Powoli zegnij nadgarstek z powrotem, przyciągając hantlę w stronę przedramienia. Powtórz zalecaną liczbę powtórzeń, a następnie zmień na drugą rękę.",
+    "ko": "벤치나 의자에 앉아 발을 바닥에 평평하게 놓으세요. 한쪽 팔에 언더핸드 그립으로 덤벨을 잡고 전완을 넓적다리에 얹으세요. 손목을 펴서 덤벨을 손가락 쪽으로 천천히 굴리세요. 천천히 손목을 다시 말아올려 덤벨을 전완 쪽으로 가져오세요. 원하는 횟수만큼 반복한 후 다른 손으로 전환하세요.",
+    "fr": "Assieds-toi sur un banc ou une chaise, les pieds à plat sur le sol. Tiens un haltère dans une main avec une prise en supination, en posant ton avant-bras sur ta cuisse. Laisse ton poignet s'étendre en laissant l'haltère rouler vers tes doigts. Enroule lentement ton poignet vers le haut, en ramenant l'haltère vers ton avant-bras. Répète le nombre de répétitions souhaité, puis passe à l'autre main."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on a bench or chair with your feet flat on the ground.",
+      "Hold a dumbbell in one hand with an underhand grip, resting your forearm on your thigh.",
+      "Allow your wrist to extend, letting the dumbbell roll down towards your fingers.",
+      "Slowly curl your wrist back up, bringing the dumbbell towards your forearm.",
+      "Repeat for the desired number of repetitions, then switch to the other hand."
+    ],
+    "it": [
+      "Siediti su una panca o una sedia con i piedi piatti a terra.",
+      "Tieni un manubrio in una mano con una presa sotto, appoggiando l'avambraccio sulla coscia.",
+      "Lascia che il polso si estenda, lasciando che il manubrio rotoli verso le dita.",
+      "Ripiega lentamente il polso verso l'alto, portando il manubrio verso l'avambraccio.",
+      "Ripeti per il numero desiderato di ripetizioni, poi passa all'altra mano."
+    ],
+    "tr": [
+      "Ayaklarınız yere düz basacak şekilde bir bankta veya sandalyede oturun.",
+      "Bir elinizde bir dambılı alttan kavrayarak tutun, ön kolunuzu uyluğunuzun üzerine yaslayın.",
+      "Bileğinizin uzamasına izin vererek dambılın parmaklarınıza doğru yuvarlanmasına izin verin.",
+      "Bileğinizi yavaşça yukarı doğru kıvırın ve dambılı ön kolunuza doğru getirin.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından diğer elinize geçin."
+    ],
+    "es": [
+      "Siéntate en un banco o silla con los pies apoyados en el suelo.",
+      "Sostén una mancuerna en una mano con agarre supino, apoyando el antebrazo sobre el muslo.",
+      "Permite que la muñeca se extienda, dejando que la mancuerna ruede hacia los dedos.",
+      "Flexiona lentamente la muñeca hacia arriba, acercando la mancuerna hacia el antebrazo.",
+      "Repite el número de repeticiones deseado, luego cambia a la otra mano."
+    ],
+    "ru": [
+      "Сядьте на скамью или стул, поставив ноги на землю.",
+      "Возьмите гантель в одну руку обратным хватом, положив предплечье на бедро.",
+      "Позвольте запястью выпрямиться, позволив гантеле скатиться вниз к вашим пальцам.",
+      "Медленно согните запястье вверх, поднося гантель к предплечью.",
+      "Повторите необходимое количество повторений, затем переключитесь на другую руку."
+    ],
+    "zh": [
+      "坐在长凳或椅子上，双脚平放在地面上。",
+      "一只手握住哑铃，反握，将前臂放在大腿上。",
+      "让你的手腕伸展，让哑铃向你的手指方向滚动。",
+      "慢慢地向后弯曲手腕，将哑铃拉向前臂。",
+      "重复所需的重复次数，然后换另一只手。"
+    ],
+    "hi": [
+      "अपने पैरों को ज़मीन पर सपाट करके किसी बेंच या कुर्सी पर बैठें।",
+      "एक हाथ में डम्बल पकड़ें, अपने अग्रबाहु को अपनी जाँघ पर टिकाएँ।",
+      "अपनी कलाई को फैलने दें, डम्बल को अपनी उंगलियों की ओर लुढ़कने दें।",
+      "धीरे-धीरे अपनी कलाई को पीछे की ओर मोड़ें, डम्बल को अपनी बांह की ओर लाएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर दूसरी ओर स्विच करें।"
+    ],
+    "pl": [
+      "Usiądź na ławce lub krześle, stopy oprzyj płasko na podłodze.",
+      "Trzymaj hantlę w jednej ręce chwytem podchwytem, opierając przedramię na udzie.",
+      "Pozwól nadgarstkowi się wyprostować, tak aby hantla toczyła się w stronę palców.",
+      "Powoli zegnij nadgarstek z powrotem, przyciągając hantlę w stronę przedramienia.",
+      "Powtórz zalecaną liczbę powtórzeń, a następnie zmień na drugą rękę."
+    ],
+    "ko": [
+      "벤치나 의자에 앉아 발을 바닥에 평평하게 놓으세요.",
+      "한쪽 팔에 언더핸드 그립으로 덤벨을 잡고 전완을 넓적다리에 얹으세요.",
+      "손목을 펴서 덤벨을 손가락 쪽으로 천천히 굴리세요.",
+      "천천히 손목을 다시 말아올려 덤벨을 전완 쪽으로 가져오세요.",
+      "원하는 횟수만큼 반복한 후 다른 손으로 전환하세요."
+    ],
+    "fr": [
+      "Assieds-toi sur un banc ou une chaise, les pieds à plat sur le sol.",
+      "Tiens un haltère dans une main avec une prise en supination, en posant ton avant-bras sur ta cuisse.",
+      "Laisse ton poignet s'étendre en laissant l'haltère rouler vers tes doigts.",
+      "Enroule lentement ton poignet vers le haut, en ramenant l'haltère vers ton avant-bras.",
+      "Répète le nombre de répétitions souhaité, puis passe à l'autre main."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "brachialis"
+  ],
+  "target": "forearms",
+  "image": "images/0364-q8aHNoF.jpg",
+  "gif_url": "videos/0364-q8aHNoF.gif",
+  "media_id": "q8aHNoF",
+  "created_at": "2026-03-18T12:31:32.880264+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

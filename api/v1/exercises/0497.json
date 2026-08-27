@@ -1,0 +1,112 @@
+{
+  "id": "0497",
+  "name": "inverted row v. 2",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Set up a bar at waist height on a Smith machine or use a suspension trainer. Stand facing the bar or suspension trainer and grab it with an overhand grip, hands shoulder-width apart. Walk your feet forward, leaning back until your body is at a slight angle. Keep your body straight and pull your chest up towards the bar or handles, squeezing your shoulder blades together. Pause for a moment at the top, then slowly lower yourself back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Installa una barra all'altezza della vita su una macchina Smith o usa un trainer per sospensioni. Mettiti di fronte alla barra o al trainer in sospensione e afferralo con una presa prona, con le mani alla larghezza delle spalle. Cammina con i piedi in avanti, inclinandoti all'indietro finché il tuo corpo non forma una leggera angolazione. Mantieni il corpo dritto e solleva il petto verso la barra o le maniglie, stringendo insieme le scapole. Fermati per un momento in alto, quindi abbassati lentamente fino alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Smith makinesinde bel yüksekliğinde bir bar kurun veya bir süspansiyon antrenörü kullanın. Çubuğa veya süspansiyonlu antrenöre dönük durun ve ellerinizi omuz genişliğinde açarak üstten kavrayarak kavrayın. Vücudunuz hafif bir açıya gelene kadar geriye yaslanarak ayaklarınızı ileri doğru yürütün. Vücudunuzu düz tutun ve kürek kemiklerinizi birbirine sıkıştırarak göğsünüzü bara veya tutamaklara doğru yukarı çekin. Tepe noktasında bir an duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Coloca una barra a la altura de la cintura en una máquina Smith o usa un entrenador de suspensión. Ponte de pie frente a la barra o al entrenador de suspensión y agárrala con agarre prono, manos separadas a la altura de los hombros. Camina con los pies hacia adelante, inclinándote hacia atrás hasta que el cuerpo quede en un ligero ángulo. Mantén el cuerpo recto y tira del pecho hacia la barra o las asas, apretando los omóplatos entre sí. Haz una pausa breve en la parte más alta, luego baja lentamente de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Установите штангу на уровне талии на тренажере Смита или используйте тренажер с подвеской. Встаньте лицом к штанге или тренажеру для отягощения и возьмитесь за нее хватом сверху, руки на ширине плеч. Пройдите ногами вперед, отклоняясь назад, пока ваше тело не окажется под небольшим углом. Держите тело прямо и подтяните грудь к перекладине или ручкам, сжимая лопатки вместе. Задержитесь на мгновение в верхней точке, затем медленно опуститесь обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "在史密斯机上在腰部高度设置一根杠铃或使用悬挂训练器。 面向杠铃或悬吊训练器站立，用正手握法抓住它，双手与肩同宽。 双脚向前走，向后倾斜，直到身体呈轻微角度。 保持身体挺直，将胸部向上拉向杠铃或手柄，将肩胛骨挤压在一起。 在最高点暂停片刻，然后慢慢降低回到起始位置。 重复所需的重复次数。",
+    "hi": "स्मिथ मशीन पर कमर की ऊंचाई पर बार स्थापित करें या सस्पेंशन ट्रेनर का उपयोग करें। बार या सस्पेंशन ट्रेनर की ओर मुंह करके खड़े हो जाएं और हाथों को कंधे की चौड़ाई से अलग रखते हुए इसे ओवरहैंड ग्रिप से पकड़ें। अपने पैरों को आगे की ओर झुकाते हुए आगे बढ़ें, जब तक कि आपका शरीर थोड़ा सा कोण पर न आ जाए। अपने शरीर को सीधा रखें और अपनी छाती को बार या हैंडल की ओर ऊपर खींचें, अपने कंधे के ब्लेड को एक साथ दबाएं। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने आप को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Ustaw drążek na wysokości bioder w maszynie Smitha lub użyj trenera TRX. Stań przodem do drążka lub trenera TRX i chwyć go nachwytem, dłonie na szerokość barków. Przesuń stopy do przodu, odchylając się do tyłu, aż ciało znajdzie się pod niewielkim kątem. Utrzymując proste ciało, podciągnij klatkę piersiową w stronę drążka lub uchwytów, ściskając łopatki. Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli wróć do pozycji wyjściowej. Powtórz zgodnie z zaplanowaną liczbą powtórzeń.",
+    "ko": "스미스 머신에서 막대를 허리 높이에 설정하거나 서스펜션 트레이너를 사용합니다. 막대나 서스펜션 트레이너 앞에 서서 손아등그립으로 어깨너비로 잡습니다. 발을 앞으로 걸으면서 몸이 약간 각도를 이루도록 뒤로 기울입니다. 몸을 곧게 유지하고 가슴을 막대나 손잡이 쪽으로 당기면서 어깨뼈를 함께 조입니다. 위쪽에서 잠시 멈춘 후 천천히 시작 자세로 내려옵니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Installe une barre à hauteur de taille sur une machine Smith ou utilise un entraîneur en suspension. Tiens-toi face à la barre ou au sangle de suspension et attrape-la en prise pronation, les mains écartées à la largeur des épaules. Avance les pieds en te penchant en arrière jusqu'à ce que ton corps forme un léger angle. Garde ton corps droit et tire ta poitrine vers la barre ou les poignées, en resserrant tes omoplates. Marque une pause en haut, puis abaisse-toi lentement pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Set up a bar at waist height on a Smith machine or use a suspension trainer.",
+      "Stand facing the bar or suspension trainer and grab it with an overhand grip, hands shoulder-width apart.",
+      "Walk your feet forward, leaning back until your body is at a slight angle.",
+      "Keep your body straight and pull your chest up towards the bar or handles, squeezing your shoulder blades together.",
+      "Pause for a moment at the top, then slowly lower yourself back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Installa una barra all'altezza della vita su una macchina Smith o usa un trainer per sospensioni.",
+      "Mettiti di fronte alla barra o al trainer in sospensione e afferralo con una presa prona, con le mani alla larghezza delle spalle.",
+      "Cammina con i piedi in avanti, inclinandoti all'indietro finché il tuo corpo non forma una leggera angolazione.",
+      "Mantieni il corpo dritto e solleva il petto verso la barra o le maniglie, stringendo insieme le scapole.",
+      "Fermati per un momento in alto, quindi abbassati lentamente fino alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Smith makinesinde bel yüksekliğinde bir bar kurun veya bir süspansiyon antrenörü kullanın.",
+      "Çubuğa veya süspansiyonlu antrenöre dönük durun ve ellerinizi omuz genişliğinde açarak üstten kavrayarak kavrayın.",
+      "Vücudunuz hafif bir açıya gelene kadar geriye yaslanarak ayaklarınızı ileri doğru yürütün.",
+      "Vücudunuzu düz tutun ve kürek kemiklerinizi birbirine sıkıştırarak göğsünüzü bara veya tutamaklara doğru yukarı çekin.",
+      "Tepe noktasında bir an duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Coloca una barra a la altura de la cintura en una máquina Smith o usa un entrenador de suspensión.",
+      "Ponte de pie frente a la barra o al entrenador de suspensión y agárrala con agarre prono, manos separadas a la altura de los hombros.",
+      "Camina con los pies hacia adelante, inclinándote hacia atrás hasta que el cuerpo quede en un ligero ángulo.",
+      "Mantén el cuerpo recto y tira del pecho hacia la barra o las asas, apretando los omóplatos entre sí.",
+      "Haz una pausa breve en la parte más alta, luego baja lentamente de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Установите штангу на уровне талии на тренажере Смита или используйте тренажер с подвеской.",
+      "Встаньте лицом к штанге или тренажеру для отягощения и возьмитесь за нее хватом сверху, руки на ширине плеч.",
+      "Пройдите ногами вперед, отклоняясь назад, пока ваше тело не окажется под небольшим углом.",
+      "Держите тело прямо и подтяните грудь к перекладине или ручкам, сжимая лопатки вместе.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опуститесь обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "在史密斯机上在腰部高度设置一根杠铃或使用悬挂训练器。",
+      "面向杠铃或悬吊训练器站立，用正手握法抓住它，双手与肩同宽。",
+      "双脚向前走，向后倾斜，直到身体呈轻微角度。",
+      "保持身体挺直，将胸部向上拉向杠铃或手柄，将肩胛骨挤压在一起。",
+      "在最高点暂停片刻，然后慢慢降低回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "स्मिथ मशीन पर कमर की ऊंचाई पर बार स्थापित करें या सस्पेंशन ट्रेनर का उपयोग करें।",
+      "बार या सस्पेंशन ट्रेनर की ओर मुंह करके खड़े हो जाएं और हाथों को कंधे की चौड़ाई से अलग रखते हुए इसे ओवरहैंड ग्रिप से पकड़ें।",
+      "अपने पैरों को आगे की ओर झुकाते हुए आगे बढ़ें, जब तक कि आपका शरीर थोड़ा सा कोण पर न आ जाए।",
+      "अपने शरीर को सीधा रखें और अपनी छाती को बार या हैंडल की ओर ऊपर खींचें, अपने कंधे के ब्लेड को एक साथ दबाएं।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने आप को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Ustaw drążek na wysokości bioder w maszynie Smitha lub użyj trenera TRX.",
+      "Stań przodem do drążka lub trenera TRX i chwyć go nachwytem, dłonie na szerokość barków.",
+      "Przesuń stopy do przodu, odchylając się do tyłu, aż ciało znajdzie się pod niewielkim kątem.",
+      "Utrzymując proste ciało, podciągnij klatkę piersiową w stronę drążka lub uchwytów, ściskając łopatki.",
+      "Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli wróć do pozycji wyjściowej.",
+      "Powtórz zgodnie z zaplanowaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "스미스 머신에서 막대를 허리 높이에 설정하거나 서스펜션 트레이너를 사용합니다.",
+      "막대나 서스펜션 트레이너 앞에 서서 손아등그립으로 어깨너비로 잡습니다.",
+      "발을 앞으로 걸으면서 몸이 약간 각도를 이루도록 뒤로 기울입니다.",
+      "몸을 곧게 유지하고 가슴을 막대나 손잡이 쪽으로 당기면서 어깨뼈를 함께 조입니다.",
+      "위쪽에서 잠시 멈춘 후 천천히 시작 자세로 내려옵니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Installe une barre à hauteur de taille sur une machine Smith ou utilise un entraîneur en suspension.",
+      "Tiens-toi face à la barre ou au sangle de suspension et attrape-la en prise pronation, les mains écartées à la largeur des épaules.",
+      "Avance les pieds en te penchant en arrière jusqu'à ce que ton corps forme un léger angle.",
+      "Garde ton corps droit et tire ta poitrine vers la barre ou les poignées, en resserrant tes omoplates.",
+      "Marque une pause en haut, puis abaisse-toi lentement pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "forearms"
+  ],
+  "target": "upper back",
+  "image": "images/0497-uX3sUBz.jpg",
+  "gif_url": "videos/0497-uX3sUBz.gif",
+  "media_id": "uX3sUBz",
+  "created_at": "2026-03-18T12:31:32.884681+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

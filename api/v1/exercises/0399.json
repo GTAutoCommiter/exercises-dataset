@@ -1,0 +1,102 @@
+{
+  "id": "0399",
+  "name": "dumbbell seated one arm rotate",
+  "category": "lower arms",
+  "body_part": "lower arms",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Sit on a bench with your back straight and hold a dumbbell in one hand, resting it on your thigh. Raise the dumbbell up to shoulder height, keeping your elbow close to your body. Rotate your forearm outward, away from your body, while keeping your upper arm stationary. Pause for a moment at the top, then slowly rotate your forearm back to the starting position. Repeat for the desired number of repetitions, then switch to the other arm.",
+    "it": "Siediti su una panca con la schiena dritta e tieni un manubrio in una mano, appoggiandolo sulla coscia. Alza il manubrio all'altezza delle spalle, tenendo il gomito vicino al corpo. Ruota l'avambraccio verso l'esterno, lontano dal corpo, mantenendo fermo la parte superiore del braccio. Fermati un attimo in cima, poi ruota lentamente l'avambraccio di nuovo alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni, poi passa all'altro braccio.",
+    "tr": "Sırtınız dik olacak şekilde bir bankta oturun ve bir elinizde bir dambılı tutarak uyluğunuzun üzerine koyun. Dirseğinizi vücudunuza yakın tutarak dambılı omuz yüksekliğine kadar kaldırın. Üst kolunuzu sabit tutarken ön kolunuzu vücudunuzdan uzağa doğru dışarı doğru döndürün. Tepe noktasında bir an duraklayın, ardından ön kolunuzu yavaşça başlangıç ​​pozisyonuna döndürün. İstenilen tekrar sayısı kadar tekrarlayın, ardından diğer kola geçin.",
+    "es": "Siéntate en un banco con la espalda recta y sujeta una mancuerna con una mano, apoyándola sobre el muslo. Sube la mancuerna hasta la altura del hombro, manteniendo el codo cerca de tu cuerpo. Gira el antebrazo hacia afuera, alejándolo de tu cuerpo, mientras mantienes fija la parte superior del brazo. Haz una pausa por un momento en la parte superior, luego gira lentamente el antebrazo de vuelta a la posición inicial. Repite el número de repeticiones deseado, luego cambia al otro brazo.",
+    "ru": "Сядьте на скамью с прямой спиной и возьмите в одну руку гантель, положив ее на бедро. Поднимите гантель до уровня плеч, держа локоть близко к телу. Поверните предплечье наружу, от тела, сохраняя при этом плечо неподвижным. Задержитесь на мгновение в верхней точке, затем медленно поверните предплечье обратно в исходное положение. Повторите желаемое количество повторений, затем переключитесь на другую руку.",
+    "zh": "坐在长凳上，背部挺直，一只手握住哑铃，将其放在大腿上。 将哑铃举至肩膀高度，保持肘部靠近身体。 向外旋转前臂，远离身体，同时保持上臂静止。 在顶部停顿片刻，然后慢慢旋转前臂回到起始位置。 重复所需的重复次数，然后换到另一只手臂。",
+    "hi": "अपनी पीठ सीधी करके एक बेंच पर बैठें और एक हाथ में डम्बल पकड़ें, इसे अपनी जांघ पर रखें। अपनी कोहनी को अपने शरीर के करीब रखते हुए डंबल को कंधे की ऊंचाई तक उठाएं। अपनी ऊपरी भुजा को स्थिर रखते हुए, अपने अग्रबाहु को अपने शरीर से दूर बाहर की ओर घुमाएँ। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने अग्रबाहु को वापस प्रारंभिक स्थिति में घुमाएँ। दोहराव की वांछित संख्या के लिए दोहराएं, फिर दूसरे हाथ पर स्विच करें।",
+    "pl": "Usiądź na ławce z prostymi plecami i trzymaj hantlę w jednej dłoni, opierając ją na udzie. Unieś hantlę do wysokości barku, trzymając łokieć blisko ciała. Obróć przedramię na zewnątrz, z dala od ciała, utrzymując ramię nieruchomo. Zatrzymaj się na chwilę na górze, a następnie powoli obróć przedramię z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń, a następnie zmień rękę.",
+    "ko": "벤치에 앉아 등을 곧게 펴고 한 손에 덤벨을 들어 허벅지에 올립니다. 팔꿈치를 몸 가까이 붙인 채 덤벨을 어깨 높이까지 올립니다. 상완을 고정시킨 상태에서 전완을 몸 바깥쪽으로 회전시킵니다. 꼭대기에서 잠깐 멈추었다가 전완을 처음 위치로 천천히 회전시킵니다. 원하는 반복 횟수만큼 반복한 후 다른 팔로 바꿉니다.",
+    "fr": "Assieds-toi sur un banc, le dos droit, et tiens un haltère dans une main, posé sur ta cuisse. Lève l'haltère vers le haut à hauteur des épaules en gardant ton coude près de ton corps. Fais tourner ton avant-bras vers l'extérieur, loin de ton corps, tout en gardant le haut de ton bras immobile. Marque une pause en haut, puis tourne lentement ton avant-bras pour revenir à la position de départ. Répète le nombre de répétitions souhaité, puis passe à l'autre bras."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on a bench with your back straight and hold a dumbbell in one hand, resting it on your thigh.",
+      "Raise the dumbbell up to shoulder height, keeping your elbow close to your body.",
+      "Rotate your forearm outward, away from your body, while keeping your upper arm stationary.",
+      "Pause for a moment at the top, then slowly rotate your forearm back to the starting position.",
+      "Repeat for the desired number of repetitions, then switch to the other arm."
+    ],
+    "it": [
+      "Siediti su una panca con la schiena dritta e tieni un manubrio in una mano, appoggiandolo sulla coscia.",
+      "Alza il manubrio all'altezza delle spalle, tenendo il gomito vicino al corpo.",
+      "Ruota l'avambraccio verso l'esterno, lontano dal corpo, mantenendo fermo la parte superiore del braccio.",
+      "Fermati un attimo in cima, poi ruota lentamente l'avambraccio di nuovo alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni, poi passa all'altro braccio."
+    ],
+    "tr": [
+      "Sırtınız dik olacak şekilde bir bankta oturun ve bir elinizde bir dambılı tutarak uyluğunuzun üzerine koyun.",
+      "Dirseğinizi vücudunuza yakın tutarak dambılı omuz yüksekliğine kadar kaldırın.",
+      "Üst kolunuzu sabit tutarken ön kolunuzu vücudunuzdan uzağa doğru dışarı doğru döndürün.",
+      "Tepe noktasında bir an duraklayın, ardından ön kolunuzu yavaşça başlangıç ​​pozisyonuna döndürün.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından diğer kola geçin."
+    ],
+    "es": [
+      "Siéntate en un banco con la espalda recta y sujeta una mancuerna con una mano, apoyándola sobre el muslo.",
+      "Sube la mancuerna hasta la altura del hombro, manteniendo el codo cerca de tu cuerpo.",
+      "Gira el antebrazo hacia afuera, alejándolo de tu cuerpo, mientras mantienes fija la parte superior del brazo.",
+      "Haz una pausa por un momento en la parte superior, luego gira lentamente el antebrazo de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado, luego cambia al otro brazo."
+    ],
+    "ru": [
+      "Сядьте на скамью с прямой спиной и возьмите в одну руку гантель, положив ее на бедро.",
+      "Поднимите гантель до уровня плеч, держа локоть близко к телу.",
+      "Поверните предплечье наружу, от тела, сохраняя при этом плечо неподвижным.",
+      "Задержитесь на мгновение в верхней точке, затем медленно поверните предплечье обратно в исходное положение.",
+      "Повторите желаемое количество повторений, затем переключитесь на другую руку."
+    ],
+    "zh": [
+      "坐在长凳上，背部挺直，一只手握住哑铃，将其放在大腿上。",
+      "将哑铃举至肩膀高度，保持肘部靠近身体。",
+      "向外旋转前臂，远离身体，同时保持上臂静止。",
+      "在顶部停顿片刻，然后慢慢旋转前臂回到起始位置。",
+      "重复所需的重复次数，然后换到另一只手臂。"
+    ],
+    "hi": [
+      "अपनी पीठ सीधी करके एक बेंच पर बैठें और एक हाथ में डम्बल पकड़ें, इसे अपनी जांघ पर रखें।",
+      "अपनी कोहनी को अपने शरीर के करीब रखते हुए डंबल को कंधे की ऊंचाई तक उठाएं।",
+      "अपनी ऊपरी भुजा को स्थिर रखते हुए, अपने अग्रबाहु को अपने शरीर से दूर बाहर की ओर घुमाएँ।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने अग्रबाहु को वापस प्रारंभिक स्थिति में घुमाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर दूसरे हाथ पर स्विच करें।"
+    ],
+    "pl": [
+      "Usiądź na ławce z prostymi plecami i trzymaj hantlę w jednej dłoni, opierając ją na udzie.",
+      "Unieś hantlę do wysokości barku, trzymając łokieć blisko ciała.",
+      "Obróć przedramię na zewnątrz, z dala od ciała, utrzymując ramię nieruchomo.",
+      "Zatrzymaj się na chwilę na górze, a następnie powoli obróć przedramię z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń, a następnie zmień rękę."
+    ],
+    "ko": [
+      "벤치에 앉아 등을 곧게 펴고 한 손에 덤벨을 들어 허벅지에 올립니다.",
+      "팔꿈치를 몸 가까이 붙인 채 덤벨을 어깨 높이까지 올립니다.",
+      "상완을 고정시킨 상태에서 전완을 몸 바깥쪽으로 회전시킵니다.",
+      "꼭대기에서 잠깐 멈추었다가 전완을 처음 위치로 천천히 회전시킵니다.",
+      "원하는 반복 횟수만큼 반복한 후 다른 팔로 바꿉니다."
+    ],
+    "fr": [
+      "Assieds-toi sur un banc, le dos droit, et tiens un haltère dans une main, posé sur ta cuisse.",
+      "Lève l'haltère vers le haut à hauteur des épaules en gardant ton coude près de ton corps.",
+      "Fais tourner ton avant-bras vers l'extérieur, loin de ton corps, tout en gardant le haut de ton bras immobile.",
+      "Marque une pause en haut, puis tourne lentement ton avant-bras pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis passe à l'autre bras."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "biceps"
+  ],
+  "target": "forearms",
+  "image": "images/0399-7f2jsqP.jpg",
+  "gif_url": "videos/0399-7f2jsqP.gif",
+  "media_id": "7f2jsqP",
+  "created_at": "2026-03-18T12:31:32.88139+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

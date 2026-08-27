@@ -1,0 +1,102 @@
+{
+  "id": "3239",
+  "name": "kneeling plank tap shoulder (male)",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Start in a kneeling position with your hands on the ground, shoulder-width apart. Extend your legs behind you, resting on your toes, and lift your body into a plank position. Keeping your core engaged and your hips stable, lift one hand off the ground and tap the opposite shoulder. Return the hand to the ground and repeat with the other hand. Continue alternating sides for the desired number of repetitions.",
+    "it": "Inizia in posizione inginocchiata con le mani a terra, alla larghezza delle spalle. Estendi le gambe dietro di te, appoggiandoti sulle punte dei piedi e solleva il corpo in una posizione di plancia. Mantenendo il core impegnato e i fianchi stabili, solleva una mano da terra e tocca la spalla opposta. Riporta la mano a terra e ripeti con l'altra mano. Continua ad alternare i lati per il numero di ripetizioni desiderato.",
+    "tr": "Elleriniz yerde, omuz genişliğinde açık olacak şekilde diz çökme pozisyonunda başlayın. Bacaklarınızı arkanıza doğru uzatın, ayak parmaklarınızın üzerinde durun ve vücudunuzu tahta pozisyonuna kaldırın. Merkez bölgenizi meşgul ve kalçalarınızı sabit tutarak bir elinizi yerden kaldırın ve karşı omzunuza hafifçe vurun. Elinizi yere koyun ve diğer elinizle tekrarlayın. İstenilen tekrar sayısı için alternatif taraflara devam edin.",
+    "es": "Comienza en posición de rodillas con las manos en el suelo, separadas a la altura de los hombros. Extiende las piernas hacia atrás, apoyándote en los dedos de los pies, y levanta el cuerpo a una posición de plancha. Manteniendo el core activado y las caderas estables, levanta una mano del suelo y toca el hombro opuesto. Devuelve la mano al suelo y repite con la otra mano. Continúa alternando lados durante el número de repeticiones deseado.",
+    "ru": "Начните в положении стоя на коленях, положив руки на землю на ширине плеч. Вытяните ноги позади себя, опираясь на носки, и поднимите тело в положение планки. Сохраняя корпус напряженным, а бедра устойчивыми, поднимите одну руку от земли и коснитесь противоположного плеча. Верните руку на землю и повторите то же самое с другой рукой. Продолжайте чередовать стороны желаемое количество повторений.",
+    "zh": "从跪姿开始，双手放在地上，与肩同宽。 将双腿伸到身后，用脚趾支撑，将身体抬起成平板支撑姿势。 保持核心参与并保持臀部稳定，将一只手抬离地面并拍打另一侧的肩膀。 将手放回地面并用另一只手重复此操作。 继续交替进行所需的重复次数。",
+    "hi": "अपने हाथों को कंधे की चौड़ाई के बराबर दूरी पर ज़मीन पर रखते हुए घुटनों के बल बैठ कर शुरुआत करें। अपने पैरों को अपने पीछे फैलाएं, अपने पैर की उंगलियों पर आराम करें और अपने शरीर को तख़्त स्थिति में उठाएं। अपने कोर को व्यस्त रखते हुए और अपने कूल्हों को स्थिर रखते हुए, एक हाथ को जमीन से ऊपर उठाएं और विपरीत कंधे को थपथपाएं। हाथ को ज़मीन पर लौटाएँ और दूसरे हाथ से दोहराएँ। दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।",
+    "pl": "Zacznij w pozycji klęczącej z dłońmi opartymi na podłodze, rozstawionymi na szerokość barków. Wyprostuj nogi za sobą, opierając się na palcach stóp, i unieś ciało do pozycji deski. Utrzymując napięte mięśnie brzucha i stabilne biodra, unieś jedną dłoń znad podłogi i dotknij przeciwnego barku. Wróć dłonią do podłogi i powtórz drugą dłonią. Kontynuuj naprzemienne wykonywanie ruchu zgodnie z zaplanowaną liczbą powtórzeń.",
+    "ko": "무릎을 꿇은 자세에서 손을 땅에 어깨너비로 벌려 시작합니다. 다리를 뒤로 펼쳐 발가락으로 받친 상태에서 몸을 플랭크 자세로 들어올립니다. 코어에 힘을 주고 엉덩이를 안정적으로 유지하면서 한쪽 손을 땅에서 들어올려 반대쪽 어깨를 탭합니다. 손을 땅에 다시 놓고 다른 손으로 반복합니다. 원하는 횟수만큼 양쪽을 교대로 계속합니다.",
+    "fr": "Commence à genoux, les mains sur le sol, écartées à la largeur des épaules. Étends tes jambes derrière toi, en appui sur les orteils, et soulève ton corps en position de planche. En gardant ta sangle abdominale gainée et tes hanches stables, soulève une main du sol et tape l'épaule opposée. Ramène la main au sol et répète avec l'autre main. Continue à alterner les côtés pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start in a kneeling position with your hands on the ground, shoulder-width apart.",
+      "Extend your legs behind you, resting on your toes, and lift your body into a plank position.",
+      "Keeping your core engaged and your hips stable, lift one hand off the ground and tap the opposite shoulder.",
+      "Return the hand to the ground and repeat with the other hand.",
+      "Continue alternating sides for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia in posizione inginocchiata con le mani a terra, alla larghezza delle spalle.",
+      "Estendi le gambe dietro di te, appoggiandoti sulle punte dei piedi e solleva il corpo in una posizione di plancia.",
+      "Mantenendo il core impegnato e i fianchi stabili, solleva una mano da terra e tocca la spalla opposta.",
+      "Riporta la mano a terra e ripeti con l'altra mano.",
+      "Continua ad alternare i lati per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Elleriniz yerde, omuz genişliğinde açık olacak şekilde diz çökme pozisyonunda başlayın.",
+      "Bacaklarınızı arkanıza doğru uzatın, ayak parmaklarınızın üzerinde durun ve vücudunuzu tahta pozisyonuna kaldırın.",
+      "Merkez bölgenizi meşgul ve kalçalarınızı sabit tutarak bir elinizi yerden kaldırın ve karşı omzunuza hafifçe vurun.",
+      "Elinizi yere koyun ve diğer elinizle tekrarlayın.",
+      "İstenilen tekrar sayısı için alternatif taraflara devam edin."
+    ],
+    "es": [
+      "Comienza en posición de rodillas con las manos en el suelo, separadas a la altura de los hombros.",
+      "Extiende las piernas hacia atrás, apoyándote en los dedos de los pies, y levanta el cuerpo a una posición de plancha.",
+      "Manteniendo el core activado y las caderas estables, levanta una mano del suelo y toca el hombro opuesto.",
+      "Devuelve la mano al suelo y repite con la otra mano.",
+      "Continúa alternando lados durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните в положении стоя на коленях, положив руки на землю на ширине плеч.",
+      "Вытяните ноги позади себя, опираясь на носки, и поднимите тело в положение планки.",
+      "Сохраняя корпус напряженным, а бедра устойчивыми, поднимите одну руку от земли и коснитесь противоположного плеча.",
+      "Верните руку на землю и повторите то же самое с другой рукой.",
+      "Продолжайте чередовать стороны желаемое количество повторений."
+    ],
+    "zh": [
+      "从跪姿开始，双手放在地上，与肩同宽。",
+      "将双腿伸到身后，用脚趾支撑，将身体抬起成平板支撑姿势。",
+      "保持核心参与并保持臀部稳定，将一只手抬离地面并拍打另一侧的肩膀。",
+      "将手放回地面并用另一只手重复此操作。",
+      "继续交替进行所需的重复次数。"
+    ],
+    "hi": [
+      "अपने हाथों को कंधे की चौड़ाई के बराबर दूरी पर ज़मीन पर रखते हुए घुटनों के बल बैठ कर शुरुआत करें।",
+      "अपने पैरों को अपने पीछे फैलाएं, अपने पैर की उंगलियों पर आराम करें और अपने शरीर को तख़्त स्थिति में उठाएं।",
+      "अपने कोर को व्यस्त रखते हुए और अपने कूल्हों को स्थिर रखते हुए, एक हाथ को जमीन से ऊपर उठाएं और विपरीत कंधे को थपथपाएं।",
+      "हाथ को ज़मीन पर लौटाएँ और दूसरे हाथ से दोहराएँ।",
+      "दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।"
+    ],
+    "pl": [
+      "Zacznij w pozycji klęczącej z dłońmi opartymi na podłodze, rozstawionymi na szerokość barków.",
+      "Wyprostuj nogi za sobą, opierając się na palcach stóp, i unieś ciało do pozycji deski.",
+      "Utrzymując napięte mięśnie brzucha i stabilne biodra, unieś jedną dłoń znad podłogi i dotknij przeciwnego barku.",
+      "Wróć dłonią do podłogi i powtórz drugą dłonią.",
+      "Kontynuuj naprzemienne wykonywanie ruchu zgodnie z zaplanowaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "무릎을 꿇은 자세에서 손을 땅에 어깨너비로 벌려 시작합니다.",
+      "다리를 뒤로 펼쳐 발가락으로 받친 상태에서 몸을 플랭크 자세로 들어올립니다.",
+      "코어에 힘을 주고 엉덩이를 안정적으로 유지하면서 한쪽 손을 땅에서 들어올려 반대쪽 어깨를 탭합니다.",
+      "손을 땅에 다시 놓고 다른 손으로 반복합니다.",
+      "원하는 횟수만큼 양쪽을 교대로 계속합니다."
+    ],
+    "fr": [
+      "Commence à genoux, les mains sur le sol, écartées à la largeur des épaules.",
+      "Étends tes jambes derrière toi, en appui sur les orteils, et soulève ton corps en position de planche.",
+      "En gardant ta sangle abdominale gainée et tes hanches stables, soulève une main du sol et tape l'épaule opposée.",
+      "Ramène la main au sol et répète avec l'autre main.",
+      "Continue à alterner les côtés pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "target": "abs",
+  "image": "images/3239-h1ezqSu.jpg",
+  "gif_url": "videos/3239-h1ezqSu.gif",
+  "media_id": "h1ezqSu",
+  "created_at": "2026-03-18T12:31:32.885812+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

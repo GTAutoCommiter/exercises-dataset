@@ -1,0 +1,102 @@
+{
+  "id": "0850",
+  "name": "weighted side bend (on stability ball)",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "weighted",
+  "instructions": {
+    "en": "Sit on a stability ball with your feet shoulder-width apart and flat on the ground. Hold a weight in one hand and place your other hand on your hip. Engage your core and slowly bend sideways towards the weighted side, keeping your back straight. Pause for a moment at the bottom, then slowly return to the starting position. Repeat for the desired number of repetitions, then switch sides.",
+    "it": "Siediti su una palla stabilizzante con i piedi alla larghezza delle spalle e appoggiati a terra. Tieni un peso in una mano e metti l'altra mano sul fianco. Coinvolgi il core e piegati lentamente lateralmente verso il lato appesantito, mantenendo la schiena dritta. Fermati per un momento in basso, quindi torna lentamente alla posizione di partenza. Ripeti per il numero di ripetizioni desiderato, quindi cambia lato.",
+    "tr": "Ayaklarınız omuz genişliğinde açık ve yere düz basacak şekilde bir stabilite topunun üzerine oturun. Bir elinizde ağırlığı tutun ve diğer elinizi kalçanızın üzerine koyun. Merkez bölgenizi devreye sokun ve sırtınızı düz tutarak yavaşça ağırlıklı tarafa doğru yana doğru eğin. Altta bir an duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün. İstenilen tekrar sayısı kadar tekrarlayın, ardından taraf değiştirin.",
+    "es": "Siéntate sobre un balón de estabilidad con los pies separados a la altura de los hombros y planos sobre el suelo. Sostén un peso en una mano y coloca la otra mano sobre la cadera. Activa el core e inclínate lentamente hacia el lado del peso, manteniendo la espalda recta. Haz una pausa por un momento en la parte inferior, luego regresa lentamente a la posición inicial. Repite el número de repeticiones deseado, luego cambia de lado.",
+    "ru": "Сядьте на мяч, поставив ноги на ширине плеч и прижавшись к земле. Возьмите гирю в одну руку, а другую руку положите на бедро. Напрягите корпус и медленно наклонитесь в сторону отягощенной стороны, сохраняя спину прямой. Задержитесь на мгновение в нижней точке, затем медленно вернитесь в исходное положение. Повторите желаемое количество повторений, затем поменяйте сторону.",
+    "zh": "坐在稳定球上，双脚分开与肩同宽，平放在地面上。 一只手握住重物，另一只手放在臀部上。 启动你的核心，慢慢向受重侧侧弯，保持背部挺直。 在底部停顿片刻，然后慢慢回到起始位置。 重复所需的重复次数，然后换边。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई से अलग और जमीन पर सपाट रखकर एक स्टेबिलिटी बॉल पर बैठें। एक हाथ में वजन पकड़ें और दूसरे हाथ को अपने कूल्हे पर रखें। अपने कोर को संलग्न करें और अपनी पीठ को सीधा रखते हुए धीरे-धीरे भार वाले हिस्से की ओर झुकें। नीचे एक पल के लिए रुकें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएं, फिर पक्ष बदलें।",
+    "pl": "Usiądź na piłce stabilizacyjnej ze stopami rozstawionymi na szerokość barków i płasko na podłodze. Trzymaj obciążenie w jednej dłoni, a drugą umieść na biodrze. Napnij mięśnie brzucha i powoli pochyl się na bok w stronę obciążonej ręki, trzymając plecy proste. Zatrzymaj się na chwilę na dole, a następnie powoli wróć do pozycji wyjściowej. Powtórz zgodnie z żądaną liczbą powtórzeń, a następnie zmień stronę.",
+    "ko": "안정화 공에 앉아 발을 어깨 너비만큼 떨어뜨리고 땅에 평평하게 놓습니다. 한손에 웨이트를 들고 다른 손은 엉덩이에 놓습니다. 복부를 활성화하고 등을 곧게 유지하면서 웨이트가 있는 쪽으로 천천히 옆으로 구부립니다. 아래에서 잠깐 멈춘 후 천천히 시작 위치로 돌아갑니다. 원하는 반복 횟수만큼 반복한 후 반대쪽으로 바꿉니다.",
+    "fr": "Assieds-toi sur un ballon de stabilité, les pieds écartés à la largeur des épaules et à plat sur le sol. Tiens un poids dans une main et place ton autre main sur ta hanche. Gaine ta sangle abdominale et penche-toi lentement sur le côté vers le côté lesté, en gardant ton dos droit. Marque une pause en bas, puis reviens lentement à la position de départ. Répète le nombre de répétitions souhaité, puis change de côté."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on a stability ball with your feet shoulder-width apart and flat on the ground.",
+      "Hold a weight in one hand and place your other hand on your hip.",
+      "Engage your core and slowly bend sideways towards the weighted side, keeping your back straight.",
+      "Pause for a moment at the bottom, then slowly return to the starting position.",
+      "Repeat for the desired number of repetitions, then switch sides."
+    ],
+    "it": [
+      "Siediti su una palla stabilizzante con i piedi alla larghezza delle spalle e appoggiati a terra.",
+      "Tieni un peso in una mano e metti l'altra mano sul fianco.",
+      "Coinvolgi il core e piegati lentamente lateralmente verso il lato appesantito, mantenendo la schiena dritta.",
+      "Fermati per un momento in basso, quindi torna lentamente alla posizione di partenza.",
+      "Ripeti per il numero di ripetizioni desiderato, quindi cambia lato."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık ve yere düz basacak şekilde bir stabilite topunun üzerine oturun.",
+      "Bir elinizde ağırlığı tutun ve diğer elinizi kalçanızın üzerine koyun.",
+      "Merkez bölgenizi devreye sokun ve sırtınızı düz tutarak yavaşça ağırlıklı tarafa doğru yana doğru eğin.",
+      "Altta bir an duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından taraf değiştirin."
+    ],
+    "es": [
+      "Siéntate sobre un balón de estabilidad con los pies separados a la altura de los hombros y planos sobre el suelo.",
+      "Sostén un peso en una mano y coloca la otra mano sobre la cadera.",
+      "Activa el core e inclínate lentamente hacia el lado del peso, manteniendo la espalda recta.",
+      "Haz una pausa por un momento en la parte inferior, luego regresa lentamente a la posición inicial.",
+      "Repite el número de repeticiones deseado, luego cambia de lado."
+    ],
+    "ru": [
+      "Сядьте на мяч, поставив ноги на ширине плеч и прижавшись к земле.",
+      "Возьмите гирю в одну руку, а другую руку положите на бедро.",
+      "Напрягите корпус и медленно наклонитесь в сторону отягощенной стороны, сохраняя спину прямой.",
+      "Задержитесь на мгновение в нижней точке, затем медленно вернитесь в исходное положение.",
+      "Повторите желаемое количество повторений, затем поменяйте сторону."
+    ],
+    "zh": [
+      "坐在稳定球上，双脚分开与肩同宽，平放在地面上。",
+      "一只手握住重物，另一只手放在臀部上。",
+      "启动你的核心，慢慢向受重侧侧弯，保持背部挺直。",
+      "在底部停顿片刻，然后慢慢回到起始位置。",
+      "重复所需的重复次数，然后换边。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई से अलग और जमीन पर सपाट रखकर एक स्टेबिलिटी बॉल पर बैठें।",
+      "एक हाथ में वजन पकड़ें और दूसरे हाथ को अपने कूल्हे पर रखें।",
+      "अपने कोर को संलग्न करें और अपनी पीठ को सीधा रखते हुए धीरे-धीरे भार वाले हिस्से की ओर झुकें।",
+      "नीचे एक पल के लिए रुकें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर पक्ष बदलें।"
+    ],
+    "pl": [
+      "Usiądź na piłce stabilizacyjnej ze stopami rozstawionymi na szerokość barków i płasko na podłodze.",
+      "Trzymaj obciążenie w jednej dłoni, a drugą umieść na biodrze.",
+      "Napnij mięśnie brzucha i powoli pochyl się na bok w stronę obciążonej ręki, trzymając plecy proste.",
+      "Zatrzymaj się na chwilę na dole, a następnie powoli wróć do pozycji wyjściowej.",
+      "Powtórz zgodnie z żądaną liczbą powtórzeń, a następnie zmień stronę."
+    ],
+    "ko": [
+      "안정화 공에 앉아 발을 어깨 너비만큼 떨어뜨리고 땅에 평평하게 놓습니다.",
+      "한손에 웨이트를 들고 다른 손은 엉덩이에 놓습니다.",
+      "복부를 활성화하고 등을 곧게 유지하면서 웨이트가 있는 쪽으로 천천히 옆으로 구부립니다.",
+      "아래에서 잠깐 멈춘 후 천천히 시작 위치로 돌아갑니다.",
+      "원하는 반복 횟수만큼 반복한 후 반대쪽으로 바꿉니다."
+    ],
+    "fr": [
+      "Assieds-toi sur un ballon de stabilité, les pieds écartés à la largeur des épaules et à plat sur le sol.",
+      "Tiens un poids dans une main et place ton autre main sur ta hanche.",
+      "Gaine ta sangle abdominale et penche-toi lentement sur le côté vers le côté lesté, en gardant ton dos droit.",
+      "Marque une pause en bas, puis reviens lentement à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis change de côté."
+    ]
+  },
+  "muscle_group": "obliques",
+  "secondary_muscles": [
+    "obliques",
+    "lower back"
+  ],
+  "target": "abs",
+  "image": "images/0850-6bOA1Oi.jpg",
+  "gif_url": "videos/0850-6bOA1Oi.gif",
+  "media_id": "6bOA1Oi",
+  "created_at": "2026-03-18T12:31:32.906219+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

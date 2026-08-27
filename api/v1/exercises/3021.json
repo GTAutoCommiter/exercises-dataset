@@ -1,0 +1,102 @@
+{
+  "id": "3021",
+  "name": "scapula push-up",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Start in a high plank position with your hands directly under your shoulders and your body in a straight line. Lower your chest towards the ground, keeping your elbows close to your body. As you lower, squeeze your shoulder blades together and push your chest forward. Pause for a moment at the bottom, then push back up to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Inizia in una posizione di plancia alta con le mani direttamente sotto le spalle e il corpo in linea retta. Abbassa il petto verso terra, mantenendo i gomiti vicini al corpo. Mentre ti abbassi, stringi le scapole e spingi il petto in avanti. Fai una pausa per un momento in basso, quindi torna alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Elleriniz doğrudan omuzlarınızın altında ve vücudunuz düz bir çizgide olacak şekilde yüksek bir plank pozisyonuyla başlayın. Dirseklerinizi vücudunuza yakın tutarak göğsünüzü yere doğru indirin. Aşağı inerken kürek kemiklerinizi birbirine doğru sıkıştırın ve göğsünüzü ileri doğru itin. Altta bir an duraklayın, ardından başlangıç ​​pozisyonuna geri dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Comienza en una posición de plancha alta con las manos justo debajo de los hombros y el cuerpo en línea recta. Baja el pecho hacia el suelo, manteniendo los codos cerca del cuerpo. A medida que bajas, junta las escápulas y empuja el pecho hacia delante. Haz una pausa por un momento en la posición baja, luego empuja de nuevo hacia arriba hasta la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Начните с позиции высокой планки, положив руки прямо под плечи, а тело образуя прямую линию. Опустите грудь к земле, держа локти близко к телу. Опускаясь, сведите лопатки вместе и выдвиньте грудь вперед. Задержитесь на мгновение в нижней точке, затем вернитесь в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "从高平板支撑位置开始，双手直接放在肩膀下方，身体呈一条直线。 将胸部压向地面，保持肘部靠近身体。 当你下降时，将肩胛骨挤压在一起并将胸部向前推。 在底部停顿片刻，然后推回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने हाथों को सीधे अपने कंधों के नीचे और अपने शरीर को एक सीधी रेखा में रखते हुए एक उच्च तख़्त स्थिति में शुरुआत करें। अपनी कोहनियों को अपने शरीर के पास रखते हुए, अपनी छाती को ज़मीन की ओर झुकाएँ। जैसे ही आप नीचे आते हैं, अपने कंधे के ब्लेड को एक साथ दबाएं और अपनी छाती को आगे की ओर धकेलें। नीचे एक पल के लिए रुकें, फिर वापस प्रारंभिक स्थिति में आ जाएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Rozpocznij w wysokiej pozycji deski z dłońmi dokładnie pod barkami i ciałem w linii prostej. Opuść klatkę piersiową w kierunku podłogi, trzymając łokcie blisko tułowia. Podczas opuszczania ściśnij łopatki i wypchnij klatkę piersiową do przodu. Zatrzymaj się na chwilę na dole, a następnie odepchnij się z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę razy.",
+    "ko": "양 손이 어깨 바로 아래에 위치하고 몸이 일직선을 이루는 높은 플랭크 자세로 시작합니다. 가슴을 땅으로 내려가되 팔꿈치는 몸 가까이 유지합니다. 내려가면서 어깨 견갑골을 모아 수축시키고 가슴을 앞으로 밀어냅니다. 최하단에서 잠시 멈춘 후 시작 위치로 올라갑니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Commence en position de planche haute, les mains directement sous les épaules et le corps bien aligné. Abaisse ta poitrine vers le sol, en gardant les coudes près de ton corps. En descendant, contracte tes omoplates l'une vers l'autre et pousse ta poitrine vers l'avant. Marque une pause en bas, puis pousse pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start in a high plank position with your hands directly under your shoulders and your body in a straight line.",
+      "Lower your chest towards the ground, keeping your elbows close to your body.",
+      "As you lower, squeeze your shoulder blades together and push your chest forward.",
+      "Pause for a moment at the bottom, then push back up to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia in una posizione di plancia alta con le mani direttamente sotto le spalle e il corpo in linea retta.",
+      "Abbassa il petto verso terra, mantenendo i gomiti vicini al corpo.",
+      "Mentre ti abbassi, stringi le scapole e spingi il petto in avanti.",
+      "Fai una pausa per un momento in basso, quindi torna alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Elleriniz doğrudan omuzlarınızın altında ve vücudunuz düz bir çizgide olacak şekilde yüksek bir plank pozisyonuyla başlayın.",
+      "Dirseklerinizi vücudunuza yakın tutarak göğsünüzü yere doğru indirin.",
+      "Aşağı inerken kürek kemiklerinizi birbirine doğru sıkıştırın ve göğsünüzü ileri doğru itin.",
+      "Altta bir an duraklayın, ardından başlangıç ​​pozisyonuna geri dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Comienza en una posición de plancha alta con las manos justo debajo de los hombros y el cuerpo en línea recta.",
+      "Baja el pecho hacia el suelo, manteniendo los codos cerca del cuerpo.",
+      "A medida que bajas, junta las escápulas y empuja el pecho hacia delante.",
+      "Haz una pausa por un momento en la posición baja, luego empuja de nuevo hacia arriba hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с позиции высокой планки, положив руки прямо под плечи, а тело образуя прямую линию.",
+      "Опустите грудь к земле, держа локти близко к телу.",
+      "Опускаясь, сведите лопатки вместе и выдвиньте грудь вперед.",
+      "Задержитесь на мгновение в нижней точке, затем вернитесь в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "从高平板支撑位置开始，双手直接放在肩膀下方，身体呈一条直线。",
+      "将胸部压向地面，保持肘部靠近身体。",
+      "当你下降时，将肩胛骨挤压在一起并将胸部向前推。",
+      "在底部停顿片刻，然后推回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने हाथों को सीधे अपने कंधों के नीचे और अपने शरीर को एक सीधी रेखा में रखते हुए एक उच्च तख़्त स्थिति में शुरुआत करें।",
+      "अपनी कोहनियों को अपने शरीर के पास रखते हुए, अपनी छाती को ज़मीन की ओर झुकाएँ।",
+      "जैसे ही आप नीचे आते हैं, अपने कंधे के ब्लेड को एक साथ दबाएं और अपनी छाती को आगे की ओर धकेलें।",
+      "नीचे एक पल के लिए रुकें, फिर वापस प्रारंभिक स्थिति में आ जाएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Rozpocznij w wysokiej pozycji deski z dłońmi dokładnie pod barkami i ciałem w linii prostej.",
+      "Opuść klatkę piersiową w kierunku podłogi, trzymając łokcie blisko tułowia.",
+      "Podczas opuszczania ściśnij łopatki i wypchnij klatkę piersiową do przodu.",
+      "Zatrzymaj się na chwilę na dole, a następnie odepchnij się z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "양 손이 어깨 바로 아래에 위치하고 몸이 일직선을 이루는 높은 플랭크 자세로 시작합니다.",
+      "가슴을 땅으로 내려가되 팔꿈치는 몸 가까이 유지합니다.",
+      "내려가면서 어깨 견갑골을 모아 수축시키고 가슴을 앞으로 밀어냅니다.",
+      "최하단에서 잠시 멈춘 후 시작 위치로 올라갑니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Commence en position de planche haute, les mains directement sous les épaules et le corps bien aligné.",
+      "Abaisse ta poitrine vers le sol, en gardant les coudes près de ton corps.",
+      "En descendant, contracte tes omoplates l'une vers l'autre et pousse ta poitrine vers l'avant.",
+      "Marque une pause en bas, puis pousse pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "target": "serratus anterior",
+  "image": "images/3021-jV65tKx.jpg",
+  "gif_url": "videos/3021-jV65tKx.gif",
+  "media_id": "jV65tKx",
+  "created_at": "2026-03-18T12:31:32.889382+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

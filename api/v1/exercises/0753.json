@@ -1,0 +1,112 @@
+{
+  "id": "0753",
+  "name": "smith decline bench press",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "smith machine",
+  "instructions": {
+    "en": "Adjust the decline bench to the desired angle. Lie down on the bench with your feet secured under the foot pads. Grasp the barbell with an overhand grip slightly wider than shoulder-width apart. Unrack the barbell and lower it slowly towards your chest, keeping your elbows tucked in. Pause for a moment at the bottom, then push the barbell back up to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Regolare la panca declinata all'angolazione desiderata. Sdraiati sulla panca con i piedi fissati sotto i poggiapiedi. Afferrare il bilanciere con una presa prona leggermente più larga della larghezza delle spalle. Togli il bilanciere e abbassalo lentamente verso il petto, tenendo i gomiti piegati. Fai una pausa per un momento in basso, quindi riporta il bilanciere nella posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Düşme tezgahını istenilen açıya ayarlayın. Ayaklarınız ayak pedlerinin altına sabitlenmiş halde bankın üzerine uzanın. Halteri omuz genişliğinden biraz daha geniş olacak şekilde üstten kavrayın. Halterin askısını açın ve dirseklerinizi içeride tutarak yavaşça göğsünüze doğru indirin. Altta bir an duraklayın, ardından halteri başlangıç ​​pozisyonuna geri itin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta el banco declinado al ángulo deseado. Túmbate en el banco con los pies asegurados bajo las almohadillas para los pies. Agarra la barra con un agarre pronado un poco más ancho que la separación de los hombros. Saca la barra del soporte y bájala lentamente hacia el pecho, manteniendo los codos pegados al cuerpo. Haz una pausa breve en la parte baja y luego empuja la barra de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Отрегулируйте наклонную скамью под желаемым углом. Лягте на скамью, зафиксировав ноги под подушечками для ног. Возьмите штангу хватом сверху на расстоянии чуть шире плеч. Освободите штангу и медленно опустите ее к груди, держа локти прижатыми. Сделайте паузу в нижней точке, затем поднимите штангу обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "将下斜凳调整至所需角度。 躺在长凳上，双脚固定在脚垫下。 正手握住杠铃，握距略宽于肩宽。 松开杠铃，慢慢将其降低到胸部，保持肘部内收。 在底部停顿片刻，然后将杠铃推回到起始位置。 重复所需的重复次数。",
+    "hi": "डिक्लाइन बेंच को वांछित कोण पर समायोजित करें। अपने पैरों को फुट पैड के नीचे सुरक्षित रखते हुए बेंच पर लेट जाएँ। बारबेल को कंधे की चौड़ाई से थोड़ी अधिक चौड़ी पकड़ के साथ पकड़ें। बारबेल को खोलें और अपनी कोहनियों को अंदर की ओर रखते हुए इसे धीरे-धीरे अपनी छाती की ओर नीचे करें। नीचे एक पल के लिए रुकें, फिर बारबेल को वापस प्रारंभिक स्थिति में धकेलें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Ustaw ławkę skośną pod żądanym kątem. Połóż się na ławce, ze stopami zabezpieczonymi pod podkładkami. Chwyć sztangę nachwytem nieco szerszym niż szerokość barków. Zdejmij sztangę ze stojaka i powoli opuść ją w kierunku klatki piersiowej, trzymając łokcie blisko ciała. Zatrzymaj się na chwilę na dole, a następnie wypchnij sztangę z powrotem do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "디클라인 벤치를 원하는 각도로 조정합니다. 벤치에 누워 발을 풋 패드 아래에 고정합니다. 어깨너비보다 약간 넓게 오버그립으로 바벨을 잡습니다. 바벨을 위치에서 풀고 가슴 쪽으로 천천히 내리면서 팔꿈치를 옆에 붙입니다. 맨 아래에서 잠깐 멈춘 후 바벨을 시작 위치로 밀어 올립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Règle le banc décliné à l'angle souhaité. Allonge-toi sur le banc, les pieds bloqués sous les cale-pieds. Saisis la barre avec une prise en pronation un peu plus large que la largeur des épaules. Sors la barre du support et abaisse-la lentement vers ta poitrine, en gardant les coudes rentrés. Marque une pause en bas, puis pousse la barre vers le haut jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the decline bench to the desired angle.",
+      "Lie down on the bench with your feet secured under the foot pads.",
+      "Grasp the barbell with an overhand grip slightly wider than shoulder-width apart.",
+      "Unrack the barbell and lower it slowly towards your chest, keeping your elbows tucked in.",
+      "Pause for a moment at the bottom, then push the barbell back up to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Regolare la panca declinata all'angolazione desiderata.",
+      "Sdraiati sulla panca con i piedi fissati sotto i poggiapiedi.",
+      "Afferrare il bilanciere con una presa prona leggermente più larga della larghezza delle spalle.",
+      "Togli il bilanciere e abbassalo lentamente verso il petto, mantenendo i gomiti piegati.",
+      "Fermati per un momento in basso, quindi riporta il bilanciere nella posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Düşme tezgahını istenilen açıya ayarlayın.",
+      "Ayaklarınız ayak pedlerinin altına sabitlenmiş halde bankın üzerine uzanın.",
+      "Halteri omuz genişliğinden biraz daha geniş olacak şekilde üstten kavrayın.",
+      "Halterin askısını açın ve dirseklerinizi içeride tutarak yavaşça göğsünüze doğru indirin.",
+      "Altta bir an duraklayın, ardından halteri başlangıç ​​pozisyonuna geri itin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta el banco declinado al ángulo deseado.",
+      "Túmbate en el banco con los pies asegurados bajo las almohadillas para los pies.",
+      "Agarra la barra con un agarre pronado un poco más ancho que la separación de los hombros.",
+      "Saca la barra del soporte y bájala lentamente hacia el pecho, manteniendo los codos pegados al cuerpo.",
+      "Haz una pausa breve en la parte baja y luego empuja la barra de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Отрегулируйте наклонную скамью под желаемым углом.",
+      "Лягте на скамью, зафиксировав ноги под подушечками для ног.",
+      "Возьмите штангу хватом сверху на расстоянии чуть шире плеч.",
+      "Ослабьте штангу и медленно опустите ее к груди, держа локти прижатыми.",
+      "Сделайте небольшую паузу в нижней точке, затем верните штангу в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将下斜凳调整至所需角度。",
+      "躺在长凳上，双脚固定在脚垫下。",
+      "正手握住杠铃，握距略宽于肩宽。",
+      "松开杠铃，慢慢将其降低到胸部，保持肘部内收。",
+      "在底部停顿片刻，然后将杠铃推回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "डिक्लाइन बेंच को वांछित कोण पर समायोजित करें।",
+      "अपने पैरों को फुट पैड के नीचे सुरक्षित रखते हुए बेंच पर लेट जाएँ।",
+      "बारबेल को कंधे की चौड़ाई से थोड़ी अधिक चौड़ी पकड़ के साथ पकड़ें।",
+      "बारबेल को खोलें और अपनी कोहनियों को अंदर की ओर रखते हुए इसे धीरे-धीरे अपनी छाती की ओर नीचे करें।",
+      "नीचे एक क्षण के लिए रुकें, फिर बारबेल को वापस प्रारंभिक स्थिति में धकेलें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Ustaw ławkę skośną pod żądanym kątem.",
+      "Połóż się na ławce, ze stopami zabezpieczonymi pod podkładkami.",
+      "Chwyć sztangę nachwytem nieco szerszym niż szerokość barków.",
+      "Zdejmij sztangę ze stojaka i powoli opuść ją w kierunku klatki piersiowej, trzymając łokcie blisko ciała.",
+      "Zatrzymaj się na chwilę na dole, a następnie wypchnij sztangę z powrotem do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "디클라인 벤치를 원하는 각도로 조정합니다.",
+      "벤치에 누워 발을 풋 패드 아래에 고정합니다.",
+      "어깨너비보다 약간 넓게 오버그립으로 바벨을 잡습니다.",
+      "바벨을 위치에서 풀고 가슴 쪽으로 천천히 내리면서 팔꿈치를 옆에 붙입니다.",
+      "맨 아래에서 잠깐 멈춘 후 바벨을 시작 위치로 밀어 올립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Règle le banc décliné à l'angle souhaité.",
+      "Allonge-toi sur le banc, les pieds bloqués sous les cale-pieds.",
+      "Saisis la barre avec une prise en pronation un peu plus large que la largeur des épaules.",
+      "Sors la barre du support et abaisse-la lentement vers ta poitrine, en gardant les coudes rentrés.",
+      "Marque une pause en bas, puis pousse la barre vers le haut jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "target": "pectorals",
+  "image": "images/0753-ETZfAbZ.jpg",
+  "gif_url": "videos/0753-ETZfAbZ.gif",
+  "media_id": "ETZfAbZ",
+  "created_at": "2026-03-18T12:31:32.890524+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

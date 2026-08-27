@@ -1,0 +1,91 @@
+{
+  "id": "1014",
+  "name": "band v-up",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "band",
+  "instructions": {
+    "en": "Lie flat on your back with your legs straight and your arms extended overhead, holding the band. Engaging your abs, lift your legs and upper body off the ground simultaneously, reaching your hands towards your toes. Pause for a moment at the top, then slowly lower your legs and upper body back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Sdraiati sulla schiena con le gambe dritte e le braccia distese sopra la testa, tenendo la fascia. Coinvolgendo gli addominali, solleva contemporaneamente le gambe e la parte superiore del corpo da terra, portando le mani verso le dita dei piedi. Fermati per un momento in alto, quindi abbassa lentamente le gambe e la parte superiore del corpo fino alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Bandı tutarak bacaklarınız düz ve kollarınız yukarı doğru uzatılmış şekilde sırt üstü uzanın. Karın kaslarınızı devreye sokarak bacaklarınızı ve vücudunuzun üst kısmını aynı anda yerden kaldırın, ellerinizi ayak parmaklarınıza doğru uzatın. Tepe noktasında bir an duraklayın, ardından bacaklarınızı ve üst vücudunuzu yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Túmbate sobre tu espalda con las piernas rectas y los brazos extendidos por encima de la cabeza, sosteniendo la banda. Activando el abdomen, levanta las piernas y la parte superior del cuerpo del suelo al mismo tiempo, llevando las manos hacia los dedos de los pies. Haz una pausa por un momento en la parte superior, luego baja lentamente las piernas y la parte superior del cuerpo de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Лягте на спину, выпрямите ноги и вытяните руки над головой, удерживая ленту. Включив пресс, одновременно поднимите ноги и верхнюю часть тела от земли, потянув руки к пальцам ног. Задержитесь на мгновение в верхней точке, затем медленно опустите ноги и верхнюю часть тела обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "平躺，双腿伸直，手臂伸过头顶，握住弹力带。 收紧腹肌，同时将双腿和上半身抬离地面，双手伸向脚趾。 在顶部停顿片刻，然后慢慢放下双腿和上半身回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को सीधा करके और अपनी बाहों को ऊपर की ओर फैलाकर, बैंड को पकड़कर अपनी पीठ के बल लेट जाएँ। अपने पेट को शामिल करते हुए, अपने पैरों और शरीर के ऊपरी हिस्से को एक साथ जमीन से ऊपर उठाएं, अपने हाथों को अपने पैर की उंगलियों तक पहुंचाएं। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने पैरों और शरीर के ऊपरी हिस्से को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Połóż się płasko na plecach z prostymi nogami i ramionami wyciągniętymi nad głową, trzymając taśmę. Angażując mięśnie brzucha, unieś nogi oraz górną część ciała jednocześnie, sięgając dłońmi w kierunku palców stóp. Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść nogi i górną część ciała z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę razy.",
+    "ko": "등을 대고 눕되 다리를 곧게 펴고 팔을 머리 위로 쭉 뻗은 상태에서 밴드를 잡습니다. 복근을 활성화하여 다리와 상체를 동시에 지면에서 들어 올려 손으로 발가락을 향합니다. 맨 위에서 잠시 멈춘 후, 천천히 다리와 상체를 원래 위치로 내립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Allonge-toi sur le dos, les jambes tendues et les bras tendus au-dessus de la tête, en tenant l'élastique. En gainant tes abdominaux, soulève simultanément tes jambes et le haut de ton corps du sol, en tendant tes mains vers tes orteils. Marque une pause en haut, puis abaisse lentement tes jambes et le haut de ton corps pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Lie flat on your back with your legs straight and your arms extended overhead, holding the band.",
+      "Engaging your abs, lift your legs and upper body off the ground simultaneously, reaching your hands towards your toes.",
+      "Pause for a moment at the top, then slowly lower your legs and upper body back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Sdraiati sulla schiena con le gambe dritte e le braccia distese sopra la testa, tenendo la fascia.",
+      "Coinvolgendo gli addominali, solleva contemporaneamente le gambe e la parte superiore del corpo da terra, portando le mani verso le dita dei piedi.",
+      "Fermati per un momento in alto, quindi abbassa lentamente le gambe e la parte superiore del corpo fino alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Bandı tutarak bacaklarınız düz ve kollarınız yukarı doğru uzatılmış şekilde sırt üstü uzanın.",
+      "Karın kaslarınızı devreye sokarak bacaklarınızı ve vücudunuzun üst kısmını aynı anda yerden kaldırın, ellerinizi ayak parmaklarınıza doğru uzatın.",
+      "Tepe noktasında bir an duraklayın, ardından bacaklarınızı ve üst vücudunuzu yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Túmbate sobre tu espalda con las piernas rectas y los brazos extendidos por encima de la cabeza, sosteniendo la banda.",
+      "Activando el abdomen, levanta las piernas y la parte superior del cuerpo del suelo al mismo tiempo, llevando las manos hacia los dedos de los pies.",
+      "Haz una pausa por un momento en la parte superior, luego baja lentamente las piernas y la parte superior del cuerpo de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Лягте на спину, выпрямите ноги и вытяните руки над головой, удерживая ленту.",
+      "Включив пресс, одновременно поднимите ноги и верхнюю часть тела от земли, потянув руки к пальцам ног.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите ноги и верхнюю часть тела обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "平躺，双腿伸直，手臂伸过头顶，握住弹力带。",
+      "收紧腹肌，同时将双腿和上半身抬离地面，双手伸向脚趾。",
+      "在顶部停顿片刻，然后慢慢放下双腿和上半身回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को सीधा करके और अपनी बाहों को ऊपर की ओर फैलाकर, बैंड को पकड़कर अपनी पीठ के बल लेट जाएँ।",
+      "अपने पेट को शामिल करते हुए, अपने पैरों और शरीर के ऊपरी हिस्से को एक साथ जमीन से ऊपर उठाएं, अपने हाथों को अपने पैर की उंगलियों तक पहुंचाएं।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने पैरों और शरीर के ऊपरी हिस्से को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Połóż się płasko na plecach z prostymi nogami i ramionami wyciągniętymi nad głową, trzymając taśmę.",
+      "Angażując mięśnie brzucha, unieś nogi oraz górną część ciała jednocześnie, sięgając dłońmi w kierunku palców stóp.",
+      "Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść nogi i górną część ciała z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "등을 대고 눕되 다리를 곧게 펴고 팔을 머리 위로 쭉 뻗은 상태에서 밴드를 잡습니다.",
+      "복근을 활성화하여 다리와 상체를 동시에 지면에서 들어 올려 손으로 발가락을 향합니다.",
+      "맨 위에서 잠시 멈춘 후, 천천히 다리와 상체를 원래 위치로 내립니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Allonge-toi sur le dos, les jambes tendues et les bras tendus au-dessus de la tête, en tenant l'élastique.",
+      "En gainant tes abdominaux, soulève simultanément tes jambes et le haut de ton corps du sol, en tendant tes mains vers tes orteils.",
+      "Marque une pause en haut, puis abaisse lentement tes jambes et le haut de ton corps pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hip flexors",
+  "secondary_muscles": [
+    "hip flexors"
+  ],
+  "target": "abs",
+  "image": "images/1014-H6ETwO9.jpg",
+  "gif_url": "videos/1014-H6ETwO9.gif",
+  "media_id": "H6ETwO9",
+  "created_at": "2026-03-18T12:31:32.870132+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

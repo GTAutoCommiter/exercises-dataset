@@ -1,0 +1,102 @@
+{
+  "id": "0196",
+  "name": "cable pull through (with rope)",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Stand facing away from the cable machine with your feet shoulder-width apart. Grab the rope attachment with both hands and step forward, creating tension in the cable. Bend at the hips and lower your upper body until it is parallel to the ground, keeping your back straight. Engage your glutes and hamstrings to pull your body back up to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stai rivolto di spalle alla macchina a cavo con i piedi alla larghezza delle spalle. Afferra l'attacco della corda con entrambe le mani e fai un passo avanti, creando tensione nel cavo. Piega i fianchi e abbassa la parte superiore del corpo finché non è parallela al suolo, mantenendo la schiena dritta. Attiva glutei e muscoli femorale per riportare il corpo sulla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde, yüzünüz kablo makinesinden uzakta durun. Halat bağlantı parçasını iki elinizle tutun ve ileri doğru bir adım atarak kabloda gerginlik yaratın. Kalçalarınızı bükün ve sırtınızı düz tutarak üst vücudunuzu yere paralel hale gelinceye kadar indirin. Vücudunuzu başlangıç ​​pozisyonuna geri çekmek için kalça kaslarınızı ve hamstringlerinizi devreye sokun. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie de espaldas a la máquina de cable con los pies separados a la altura de los hombros. Agarra el accesorio de cuerda con ambas manos y da un paso hacia adelante, creando tensión en el cable. Flexiona las caderas y baja la parte superior del cuerpo hasta que quede paralela al suelo, manteniendo la espalda recta. Activa los glúteos y los isquiotibiales para llevar el cuerpo de vuelta hacia arriba, a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте лицом от блочного тренажера, поставив ноги на ширине плеч. Возьмите веревку обеими руками и сделайте шаг вперед, создавая натяжение троса. Согнитесь в бедрах и опустите верхнюю часть тела до тех пор, пока она не станет параллельной земле, сохраняя спину прямой. Задействуйте ягодицы и мышцы задней поверхности бедра, чтобы вернуть тело в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "背对缆绳机站立，双脚与肩同宽。 双手抓住绳索附件并向前迈一步，在绳索中产生张力。 弯曲臀部并降低上身直至与地面平行，保持背部挺直。 启动臀肌和腿筋，将身体拉回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए केबल मशीन से दूर की ओर मुंह करके खड़े हो जाएं। रस्सी के लगाव को दोनों हाथों से पकड़ें और आगे बढ़ें, जिससे केबल में तनाव पैदा हो। कूल्हों पर झुकें और अपने ऊपरी शरीर को तब तक नीचे करें जब तक कि वह जमीन के समानांतर न हो जाए, अपनी पीठ को सीधा रखें। अपने शरीर को शुरुआती स्थिति में वापस खींचने के लिए अपने ग्लूट्स और हैमस्ट्रिंग को शामिल करें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań tyłem do wyciągu, stopy rozstawione na szerokość barków. Chwyć uchwyt z liną obiema rękami i zrób krok do przodu, napinając linę. Zegnij się w biodrach i opuść górną część ciała, aż będzie równoległa do podłogi, utrzymując proste plecy. Napnij pośladki i mięśnie dwugłowe uda, aby podciągnąć ciało z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "케이블 머신을 등지고 어깨 너비로 발을 벌리고 섭니다. 양손으로 로프 어태치먼트를 잡고 앞으로 나아가 케이블에 긴장을 만듭니다. 허리에서 구부려 등을 곧게 유지한 채 상체를 땅과 평행할 때까지 내립니다. 둔근과 햄스트링을 사용하여 몸을 다시 시작 위치로 끌어올립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi dos à la machine à câble, les pieds écartés à la largeur des épaules. Saisis la corde avec les deux mains et avance d'un pas, en créant de la tension dans le câble. Fléchis les hanches et abaisse le haut de ton corps jusqu'à ce qu'il soit parallèle au sol, en gardant ton dos droit. Contracte tes fessiers et tes ischio-jambiers pour ramener ton corps vers le haut en position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand facing away from the cable machine with your feet shoulder-width apart.",
+      "Grab the rope attachment with both hands and step forward, creating tension in the cable.",
+      "Bend at the hips and lower your upper body until it is parallel to the ground, keeping your back straight.",
+      "Engage your glutes and hamstrings to pull your body back up to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai rivolto di spalle alla macchina a cavo con i piedi alla larghezza delle spalle.",
+      "Afferra l'attacco della corda con entrambe le mani e fai un passo avanti, creando tensione nel cavo.",
+      "Piega i fianchi e abbassa la parte superiore del corpo finché non è parallela al suolo, mantenendo la schiena dritta.",
+      "Attiva glutei e muscoli femorale per riportare il corpo sulla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde, yüzünüz kablo makinesinden uzakta durun.",
+      "Halat bağlantı parçasını iki elinizle tutun ve ileri doğru bir adım atarak kabloda gerginlik yaratın.",
+      "Kalçalarınızı bükün ve sırtınızı düz tutarak üst vücudunuzu yere paralel hale gelinceye kadar indirin.",
+      "Vücudunuzu başlangıç ​​pozisyonuna geri çekmek için kalça kaslarınızı ve hamstringlerinizi devreye sokun.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie de espaldas a la máquina de cable con los pies separados a la altura de los hombros.",
+      "Agarra el accesorio de cuerda con ambas manos y da un paso hacia adelante, creando tensión en el cable.",
+      "Flexiona las caderas y baja la parte superior del cuerpo hasta que quede paralela al suelo, manteniendo la espalda recta.",
+      "Activa los glúteos y los isquiotibiales para llevar el cuerpo de vuelta hacia arriba, a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте лицом от блочного тренажера, поставив ноги на ширине плеч.",
+      "Возьмите веревку обеими руками и сделайте шаг вперед, создавая натяжение троса.",
+      "Согнитесь в бедрах и опустите верхнюю часть тела до тех пор, пока она не станет параллельной земле, сохраняя спину прямой.",
+      "Задействуйте ягодицы и мышцы задней поверхности бедра, чтобы вернуть тело в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "背对缆绳机站立，双脚与肩同宽。",
+      "双手抓住绳索附件并向前迈一步，在绳索中产生张力。",
+      "弯曲臀部并降低上身直至与地面平行，保持背部挺直。",
+      "启动臀肌和腿筋，将身体拉回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए केबल मशीन से दूर की ओर मुंह करके खड़े हो जाएं।",
+      "रस्सी के लगाव को दोनों हाथों से पकड़ें और आगे बढ़ें, जिससे केबल में तनाव पैदा हो।",
+      "कूल्हों पर झुकें और अपने ऊपरी शरीर को तब तक नीचे करें जब तक कि वह जमीन के समानांतर न हो जाए, अपनी पीठ को सीधा रखें।",
+      "अपने शरीर को शुरुआती स्थिति में वापस खींचने के लिए अपने ग्लूट्स और हैमस्ट्रिंग को शामिल करें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań tyłem do wyciągu, stopy rozstawione na szerokość barków.",
+      "Chwyć uchwyt z liną obiema rękami i zrób krok do przodu, napinając linę.",
+      "Zegnij się w biodrach i opuść górną część ciała, aż będzie równoległa do podłogi, utrzymując proste plecy.",
+      "Napnij pośladki i mięśnie dwugłowe uda, aby podciągnąć ciało z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "케이블 머신을 등지고 어깨 너비로 발을 벌리고 섭니다.",
+      "양손으로 로프 어태치먼트를 잡고 앞으로 나아가 케이블에 긴장을 만듭니다.",
+      "허리에서 구부려 등을 곧게 유지한 채 상체를 땅과 평행할 때까지 내립니다.",
+      "둔근과 햄스트링을 사용하여 몸을 다시 시작 위치로 끌어올립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi dos à la machine à câble, les pieds écartés à la largeur des épaules.",
+      "Saisis la corde avec les deux mains et avance d'un pas, en créant de la tension dans le câble.",
+      "Fléchis les hanches et abaisse le haut de ton corps jusqu'à ce qu'il soit parallèle au sol, en gardant ton dos droit.",
+      "Contracte tes fessiers et tes ischio-jambiers pour ramener ton corps vers le haut en position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings",
+    "lower back"
+  ],
+  "target": "glutes",
+  "image": "images/0196-OM46QHm.jpg",
+  "gif_url": "videos/0196-OM46QHm.gif",
+  "media_id": "OM46QHm",
+  "created_at": "2026-03-18T12:31:32.875368+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

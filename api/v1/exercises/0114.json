@@ -1,0 +1,113 @@
+{
+  "id": "0114",
+  "name": "barbell step-up",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Stand in front of a bench or step with a barbell resting on your upper back. Place one foot on the bench or step, ensuring your entire foot is in contact with the surface. Push through your heel and step up onto the bench or step, fully extending your hip and knee. Pause briefly at the top, then lower yourself back down to the starting position. Repeat with the opposite leg. Continue alternating legs for the desired number of repetitions.",
+    "it": "Mettiti davanti a una panca o metti un passo con un bilanciere appoggiato sulla parte superiore della schiena. Appoggia un piede sulla panca o sul gradino, assicurandoti che tutto il piede sia a contatto con la superficie. Spingi attraverso il tallone e sali sulla panca o sul gradino, estendendo completamente anche e ginocchio. Fermati brevemente in cima, poi scendi di nuovo alla posizione di partenza. Ripeti con la gamba opposta. Continua ad alternare le gambe per il numero desiderato di ripetizioni.",
+    "tr": "Bir bankın önünde durun veya üst sırtınızın üzerinde bir halter olacak şekilde bir adım atın. Bir ayağınızı bankın veya basamağın üzerine koyun, tüm ayağınızın yüzeyle temas ettiğinden emin olun. Topuğunuzu itin ve kalçanızı ve dizinizi tamamen uzatarak bankın veya basamağın üzerine çıkın. Tepe noktasında kısa bir süre duraklayın, ardından kendinizi başlangıç ​​pozisyonuna indirin. Karşı bacakla tekrarlayın. İstenilen sayıda tekrar için bacakları değiştirerek devam edin.",
+    "es": "Ponte de pie frente a un banco o escalón con una barra apoyada en la parte superior de la espalda. Coloca un pie sobre el banco o escalón, asegurándote de que todo el pie esté en contacto con la superficie. Empuja con el talón y sube al banco o escalón, extendiendo completamente la cadera y la rodilla. Haz una pausa breve en la parte más alta, luego baja de vuelta a la posición inicial. Repite con la pierna contraria. Continúa alternando las piernas durante el número de repeticiones deseado.",
+    "ru": "Встаньте перед скамьей или сделайте шаг, положив штангу на верхнюю часть спины. Поставьте одну ногу на скамью или ступеньку так, чтобы вся стопа соприкасалась с поверхностью. Надавите пяткой и встаньте на скамью или ступеньку, полностью выпрямляя бедро и колено. Сделайте короткую паузу в верхней точке, затем опуститесь обратно в исходное положение. Повторите с противоположной ногой. Продолжайте чередовать ноги желаемое количество повторений.",
+    "zh": "站在长凳或台阶前，将杠铃放在上背部。 将一只脚放在长凳或台阶上，确保整个脚与表面接触。 穿过你的脚后跟，走上长凳或台阶，充分伸展你的臀部和膝盖。 在顶部短暂停顿，然后放低自己回到起始位置。 用另一条腿重复上述步骤。 继续交替双腿达到所需的重复次数。",
+    "hi": "अपनी पीठ के ऊपरी हिस्से पर बारबेल को टिकाकर किसी बेंच या स्टेप के सामने खड़े हो जाएं। एक पैर को बेंच या सीढ़ी पर रखें, यह सुनिश्चित करते हुए कि आपका पूरा पैर सतह के संपर्क में है। अपनी एड़ी के माध्यम से धक्का दें और अपने कूल्हे और घुटने को पूरी तरह से फैलाते हुए बेंच या सीढ़ी पर चढ़ें। शीर्ष पर कुछ देर रुकें, फिर अपने आप को वापस प्रारंभिक स्थिति में ले आएं। विपरीत पैर से दोहराएँ. पुनरावृत्ति की वांछित संख्या के लिए पैरों को बारी-बारी से जारी रखें।",
+    "pl": "Stań przed ławką lub stopniem, ze sztangą opartą na górnej części pleców. Postaw jedną stopę na ławce lub stopniu, upewniając się, że cała stopa jest w kontakcie z powierzchnią. Wypchnij się przez piętę i wejdź na ławkę lub stopień, w pełni prostując biodro i kolano. Zatrzymaj się na chwilę w górnej pozycji, a następnie opuść się z powrotem do pozycji wyjściowej. Powtórz przeciwną nogą. Kontynuuj naprzemienne nogi przez zadaną liczbę powtórzeń.",
+    "ko": "벤치나 스텝 앞에 서서 바벨을 상체 위쪽에 올려 등 위에 올려놓습니다. 한쪽 발을 벤치나 스텝 위에 올려 발 전체가 표면과 접하도록 합니다. 발꿈치를 통해 밀어올려 벤치나 스텝 위로 올라가면서 엉덩이와 무릎을 완전히 펼칩니다. 가장 높은 지점에서 잠시 멈춘 후 시작 위치로 내려옵니다. 반대쪽 다리로 반복합니다. 원하는 반복 횟수만큼 다리를 교대로 계속합니다.",
+    "fr": "Tiens-toi devant un banc ou une marche avec une barre posée sur le haut de ton dos. Place un pied sur le banc ou la marche, en veillant à ce que tout ton pied soit en contact avec la surface. Pousse à travers ton talon et monte sur le banc ou la marche en étendant complètement ta hanche et ton genou. Marque une brève pause en haut, puis redescends jusqu'à la position de départ. Répète avec la jambe opposée. Continue à alterner les jambes pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand in front of a bench or step with a barbell resting on your upper back.",
+      "Place one foot on the bench or step, ensuring your entire foot is in contact with the surface.",
+      "Push through your heel and step up onto the bench or step, fully extending your hip and knee.",
+      "Pause briefly at the top, then lower yourself back down to the starting position.",
+      "Repeat with the opposite leg.",
+      "Continue alternating legs for the desired number of repetitions."
+    ],
+    "it": [
+      "Mettiti davanti a una panca o metti un passo con un bilanciere appoggiato sulla parte superiore della schiena.",
+      "Appoggia un piede sulla panca o sul gradino, assicurandoti che tutto il piede sia a contatto con la superficie.",
+      "Spingi attraverso il tallone e sali sulla panca o sul gradino, estendendo completamente anche e ginocchio.",
+      "Fermati brevemente in cima, poi scendi di nuovo alla posizione di partenza.",
+      "Ripeti con la gamba opposta.",
+      "Continua ad alternare le gambe per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Bir bankın önünde durun veya üst sırtınızın üzerinde bir halter olacak şekilde bir adım atın.",
+      "Bir ayağınızı bankın veya basamağın üzerine koyun, tüm ayağınızın yüzeyle temas ettiğinden emin olun.",
+      "Topuğunuzu itin ve kalçanızı ve dizinizi tamamen uzatarak bankın veya basamağın üzerine çıkın.",
+      "Tepe noktasında kısa bir süre duraklayın, ardından kendinizi başlangıç ​​pozisyonuna indirin.",
+      "Karşı bacakla tekrarlayın.",
+      "İstenilen sayıda tekrar için bacakları değiştirerek devam edin."
+    ],
+    "es": [
+      "Ponte de pie frente a un banco o escalón con una barra apoyada en la parte superior de la espalda.",
+      "Coloca un pie sobre el banco o escalón, asegurándote de que todo el pie esté en contacto con la superficie.",
+      "Empuja con el talón y sube al banco o escalón, extendiendo completamente la cadera y la rodilla.",
+      "Haz una pausa breve en la parte más alta, luego baja de vuelta a la posición inicial.",
+      "Repite con la pierna contraria.",
+      "Continúa alternando las piernas durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте перед скамьей или сделайте шаг, положив штангу на верхнюю часть спины.",
+      "Поставьте одну ногу на скамью или ступеньку так, чтобы вся стопа соприкасалась с поверхностью.",
+      "Надавите пяткой и встаньте на скамью или ступеньку, полностью выпрямляя бедро и колено.",
+      "Сделайте короткую паузу в верхней точке, затем опуститесь обратно в исходное положение.",
+      "Повторите с противоположной ногой.",
+      "Продолжайте чередовать ноги желаемое количество повторений."
+    ],
+    "zh": [
+      "站在长凳或台阶前，将杠铃放在上背部。",
+      "将一只脚放在长凳或台阶上，确保整个脚与表面接触。",
+      "穿过你的脚后跟，走上长凳或台阶，充分伸展你的臀部和膝盖。",
+      "在顶部短暂停顿，然后放低自己回到起始位置。",
+      "用另一条腿重复上述步骤。",
+      "继续交替双腿达到所需的重复次数。"
+    ],
+    "hi": [
+      "अपनी पीठ के ऊपरी हिस्से पर बारबेल को टिकाकर किसी बेंच या स्टेप के सामने खड़े हो जाएं।",
+      "एक पैर को बेंच या सीढ़ी पर रखें, यह सुनिश्चित करते हुए कि आपका पूरा पैर सतह के संपर्क में है।",
+      "अपनी एड़ी के माध्यम से धक्का दें और अपने कूल्हे और घुटने को पूरी तरह से फैलाते हुए बेंच या सीढ़ी पर चढ़ें।",
+      "शीर्ष पर कुछ देर रुकें, फिर अपने आप को वापस प्रारंभिक स्थिति में ले आएं।",
+      "विपरीत पैर से दोहराएँ.",
+      "पुनरावृत्ति की वांछित संख्या के लिए पैरों को बारी-बारी से जारी रखें।"
+    ],
+    "pl": [
+      "Stań przed ławką lub stopniem, ze sztangą opartą na górnej części pleców.",
+      "Postaw jedną stopę na ławce lub stopniu, upewniając się, że cała stopa jest w kontakcie z powierzchnią.",
+      "Wypchnij się przez piętę i wejdź na ławkę lub stopień, w pełni prostując biodro i kolano.",
+      "Zatrzymaj się na chwilę w górnej pozycji, a następnie opuść się z powrotem do pozycji wyjściowej.",
+      "Powtórz przeciwną nogą.",
+      "Kontynuuj naprzemienne nogi przez zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "벤치나 스텝 앞에 서서 바벨을 상체 위쪽에 올려 등 위에 올려놓습니다.",
+      "한쪽 발을 벤치나 스텝 위에 올려 발 전체가 표면과 접하도록 합니다.",
+      "발꿈치를 통해 밀어올려 벤치나 스텝 위로 올라가면서 엉덩이와 무릎을 완전히 펼칩니다.",
+      "가장 높은 지점에서 잠시 멈춘 후 시작 위치로 내려옵니다.",
+      "반대쪽 다리로 반복합니다.",
+      "원하는 반복 횟수만큼 다리를 교대로 계속합니다."
+    ],
+    "fr": [
+      "Tiens-toi devant un banc ou une marche avec une barre posée sur le haut de ton dos.",
+      "Place un pied sur le banc ou la marche, en veillant à ce que tout ton pied soit en contact avec la surface.",
+      "Pousse à travers ton talon et monte sur le banc ou la marche en étendant complètement ta hanche et ton genou.",
+      "Marque une brève pause en haut, puis redescends jusqu'à la position de départ.",
+      "Répète avec la jambe opposée.",
+      "Continue à alterner les jambes pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "glutes",
+  "image": "images/0114-Kxquu2E.jpg",
+  "gif_url": "videos/0114-Kxquu2E.gif",
+  "media_id": "Kxquu2E",
+  "created_at": "2026-03-18T12:31:32.873295+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

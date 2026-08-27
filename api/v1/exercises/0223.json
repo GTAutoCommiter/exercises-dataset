@@ -1,0 +1,111 @@
+{
+  "id": "0223",
+  "name": "cable side crunch",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Attach a cable handle to a low pulley and stand sideways to the machine. Grasp the handle with the hand furthest from the machine and place your other hand on your hip. Keep your feet shoulder-width apart and your knees slightly bent. With your abs engaged, bend sideways at the waist, bringing your elbow down towards your hip. Pause for a moment at the bottom, then slowly return to the starting position. Repeat for the desired number of repetitions, then switch sides.",
+    "it": "Attacca una maniglia del cavo a una carrucola bassa e mettiti di lato rispetto alla macchina. Afferra il manico con la mano più lontana dalla macchina e appoggia l'altra mano sul fianco. Tieni i piedi alla larghezza delle spalle e le ginocchia leggermente piegate. Con gli addominali impegnati, piegati di lato in vita, portando il gomito verso il fianco. Fermati un attimo in fondo, poi torna lentamente alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni, poi cambia lato.",
+    "tr": "Alçak makaraya bir kablo tutacağı takın ve makinenin yanında durun. Makineden en uzak olan elinizle kolu kavrayın ve diğer elinizi kalçanıza yerleştirin. Ayaklarınızı omuz genişliğinde açın ve dizlerinizi hafifçe bükün. Karın kaslarınız devreye girdiğinde belinizi yana doğru bükün ve dirseğinizi kalçanıza doğru indirin. Altta bir an duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün. İstenilen tekrar sayısı kadar tekrarlayın, ardından taraf değiştirin.",
+    "es": "Coloca un mango de cable en una polea baja y ponte de pie de lado a la máquina. Agarra el mango con la mano más alejada de la máquina y coloca la otra mano en tu cadera. Coloca los pies separados a la altura de los hombros y flexiona ligeramente las rodillas. Con el abdomen activado, flexiona la cintura hacia el lado, bajando el codo hacia la cadera. Haz una pausa por un momento en la parte inferior, luego regresa lentamente a la posición inicial. Repite el número de repeticiones deseado, luego cambia de lado.",
+    "ru": "Прикрепите тросовую рукоятку к низкому шкиву и встаньте боком к машине. Возьмитесь за рукоятку рукой, которая находится дальше всего от тренажера, а другую руку положите на бедро. Держите ноги на ширине плеч, а колени слегка согнуты. Задействовав пресс, согнитесь в талии в сторону, опустив локоть к бедру. Задержитесь на мгновение внизу, затем медленно вернитесь в исходное положение. Повторите желаемое количество повторений, затем поменяйте сторону.",
+    "zh": "将电缆手柄连接到低滑轮上并站在机器旁边。 用距离机器最远的手抓住手柄，并将另一只手放在臀部上。 双脚分开与肩同宽，膝盖稍微弯曲。 收紧腹肌，腰部向侧面弯曲，将肘部向下拉向臀部。 在底部停顿片刻，然后慢慢回到起始位置。 重复所需的重复次数，然后换边。",
+    "hi": "एक केबल हैंडल को निचली चरखी से जोड़ें और मशीन के किनारे खड़े हो जाएं। मशीन से सबसे दूर वाले हाथ से हैंडल को पकड़ें और अपने दूसरे हाथ को अपने कूल्हे पर रखें। अपने पैरों को कंधे की चौड़ाई से अलग रखें और आपके घुटने थोड़े मुड़े हुए हों। अपने पेट को व्यस्त रखते हुए, कमर के बल बग़ल में झुकें, अपनी कोहनी को अपने कूल्हे की ओर नीचे लाएँ। नीचे एक पल के लिए रुकें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएं, फिर पक्ष बदलें।",
+    "pl": "Podłącz uchwyt do dolnego bloku wyciągu i stań bokiem do maszyny. Chwyć uchwyt ręką dalszą od maszyny, a drugą rękę połóż na biodrze. Ustaw stopy na szerokość barków, kolana lekko ugięte. Napinając mięśnie brzucha, pochyl tułów w bok, opuszczając łokieć w kierunku biodra. Zatrzymaj się na chwilę w dolnej pozycji, a następnie powoli wróć do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń, a następnie zmień stronę.",
+    "ko": "낮은 풀리에 케이블 핸들을 부착하고 머신 옆으로 서 있습니다. 머신에서 가장 먼 손으로 핸들을 잡고 다른 손은 엉덩이에 올립니다. 발을 어깨 너비만큼 벌려 무릎을 약간 구부립니다. 복부에 힘을 주고 허리에서 옆으로 구부려 팔꿈치를 엉덩이 쪽으로 내립니다. 아래쪽에서 잠시 멈춘 후 천천히 처음 위치로 돌아옵니다. 원하는 반복 횟수만큼 반복한 후 양쪽을 바꾸어 같은 방식으로 반복합니다.",
+    "fr": "Fixe une poignée de câble à une poulie basse et tiens-toi de côté par rapport à la machine. Saisis la poignée avec la main la plus éloignée de la machine et place ton autre main sur ta hanche. Garde tes pieds écartés à la largeur des épaules et tes genoux légèrement fléchis. En gardant tes abdominaux gainés, penche-toi sur le côté au niveau de la taille en abaissant ton coude vers ta hanche. Marque une pause en bas, puis reviens lentement à la position de départ. Répète le nombre de répétitions souhaité, puis change de côté."
+  },
+  "instruction_steps": {
+    "en": [
+      "Attach a cable handle to a low pulley and stand sideways to the machine.",
+      "Grasp the handle with the hand furthest from the machine and place your other hand on your hip.",
+      "Keep your feet shoulder-width apart and your knees slightly bent.",
+      "With your abs engaged, bend sideways at the waist, bringing your elbow down towards your hip.",
+      "Pause for a moment at the bottom, then slowly return to the starting position.",
+      "Repeat for the desired number of repetitions, then switch sides."
+    ],
+    "it": [
+      "Attacca una maniglia del cavo a una carrucola bassa e mettiti di lato rispetto alla macchina.",
+      "Afferra il manico con la mano più lontana dalla macchina e appoggia l'altra mano sul fianco.",
+      "Tieni i piedi alla larghezza delle spalle e le ginocchia leggermente piegate.",
+      "Con gli addominali impegnati, piegati di lato in vita, portando il gomito verso il fianco.",
+      "Fermati un attimo in fondo, poi torna lentamente alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni, poi cambia lato."
+    ],
+    "tr": [
+      "Alçak makaraya bir kablo tutacağı takın ve makinenin yanında durun.",
+      "Makineden en uzak olan elinizle kolu kavrayın ve diğer elinizi kalçanıza yerleştirin.",
+      "Ayaklarınızı omuz genişliğinde açın ve dizlerinizi hafifçe bükün.",
+      "Karın kaslarınız devreye girdiğinde belinizi yana doğru bükün ve dirseğinizi kalçanıza doğru indirin.",
+      "Altta bir an duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından taraf değiştirin."
+    ],
+    "es": [
+      "Coloca un mango de cable en una polea baja y ponte de pie de lado a la máquina.",
+      "Agarra el mango con la mano más alejada de la máquina y coloca la otra mano en tu cadera.",
+      "Coloca los pies separados a la altura de los hombros y flexiona ligeramente las rodillas.",
+      "Con el abdomen activado, flexiona la cintura hacia el lado, bajando el codo hacia la cadera.",
+      "Haz una pausa por un momento en la parte inferior, luego regresa lentamente a la posición inicial.",
+      "Repite el número de repeticiones deseado, luego cambia de lado."
+    ],
+    "ru": [
+      "Прикрепите тросовую рукоятку к низкому шкиву и встаньте боком к машине.",
+      "Возьмитесь за рукоятку рукой, которая находится дальше всего от тренажера, а другую руку положите на бедро.",
+      "Держите ноги на ширине плеч, а колени слегка согнуты.",
+      "Задействовав пресс, согнитесь в талии в сторону, опустив локоть к бедру.",
+      "Задержитесь на мгновение внизу, затем медленно вернитесь в исходное положение.",
+      "Повторите желаемое количество повторений, затем поменяйте сторону."
+    ],
+    "zh": [
+      "将电缆手柄连接到低滑轮上并站在机器旁边。",
+      "用距离机器最远的手抓住手柄，并将另一只手放在臀部上。",
+      "双脚分开与肩同宽，膝盖稍微弯曲。",
+      "收紧腹肌，腰部向侧面弯曲，将肘部向下拉向臀部。",
+      "在底部停顿片刻，然后慢慢回到起始位置。",
+      "重复所需的重复次数，然后换边。"
+    ],
+    "hi": [
+      "एक केबल हैंडल को निचली चरखी से जोड़ें और मशीन के किनारे खड़े हो जाएं।",
+      "मशीन से सबसे दूर वाले हाथ से हैंडल को पकड़ें और अपने दूसरे हाथ को अपने कूल्हे पर रखें।",
+      "अपने पैरों को कंधे की चौड़ाई से अलग रखें और आपके घुटने थोड़े मुड़े हुए हों।",
+      "अपने पेट को व्यस्त रखते हुए, कमर के बल बग़ल में झुकें, अपनी कोहनी को अपने कूल्हे की ओर नीचे लाएँ।",
+      "नीचे एक पल के लिए रुकें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर पक्ष बदलें।"
+    ],
+    "pl": [
+      "Podłącz uchwyt do dolnego bloku wyciągu i stań bokiem do maszyny.",
+      "Chwyć uchwyt ręką dalszą od maszyny, a drugą rękę połóż na biodrze.",
+      "Ustaw stopy na szerokość barków, kolana lekko ugięte.",
+      "Napinając mięśnie brzucha, pochyl tułów w bok, opuszczając łokieć w kierunku biodra.",
+      "Zatrzymaj się na chwilę w dolnej pozycji, a następnie powoli wróć do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń, a następnie zmień stronę."
+    ],
+    "ko": [
+      "낮은 풀리에 케이블 핸들을 부착하고 머신 옆으로 서 있습니다.",
+      "머신에서 가장 먼 손으로 핸들을 잡고 다른 손은 엉덩이에 올립니다.",
+      "발을 어깨 너비만큼 벌려 무릎을 약간 구부립니다.",
+      "복부에 힘을 주고 허리에서 옆으로 구부려 팔꿈치를 엉덩이 쪽으로 내립니다.",
+      "아래쪽에서 잠시 멈춘 후 천천히 처음 위치로 돌아옵니다.",
+      "원하는 반복 횟수만큼 반복한 후 양쪽을 바꾸어 같은 방식으로 반복합니다."
+    ],
+    "fr": [
+      "Fixe une poignée de câble à une poulie basse et tiens-toi de côté par rapport à la machine.",
+      "Saisis la poignée avec la main la plus éloignée de la machine et place ton autre main sur ta hanche.",
+      "Garde tes pieds écartés à la largeur des épaules et tes genoux légèrement fléchis.",
+      "En gardant tes abdominaux gainés, penche-toi sur le côté au niveau de la taille en abaissant ton coude vers ta hanche.",
+      "Marque une pause en bas, puis reviens lentement à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis change de côté."
+    ]
+  },
+  "muscle_group": "obliques",
+  "secondary_muscles": [
+    "obliques"
+  ],
+  "target": "abs",
+  "image": "images/0223-q2ADGqV.jpg",
+  "gif_url": "videos/0223-q2ADGqV.gif",
+  "media_id": "q2ADGqV",
+  "created_at": "2026-03-18T12:31:32.876139+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

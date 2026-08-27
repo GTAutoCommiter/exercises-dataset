@@ -1,0 +1,122 @@
+{
+  "id": "0148",
+  "name": "cable alternate shoulder press",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and grasp the handles of the cable machine with an overhand grip. Position your hands at shoulder height, with your palms facing forward. Keep your core engaged and your back straight. Press one handle up and forward until your arm is fully extended. Pause for a moment at the top, then slowly lower the handle back to the starting position. Repeat with the other arm. Alternate between arms for the desired number of repetitions.",
+    "it": "Stai con i piedi a larghezza delle spalle e afferra le maniglie della macchina a cavo con una presa sopra la mano. Posiziona le mani all'altezza delle spalle, con i palmi rivolti in avanti. Mantieni il core impegnato e la schiena dritta. Premi una maniglia verso l'alto e in avanti finché il braccio non è completamente esteso. Fermati un attimo in cima, poi abbassa lentamente la maniglia fino alla posizione iniziale. Ripeti con l'altro braccio. Alternare tra le armi per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınızı omuz genişliğinde açın ve kablo makinesinin saplarını üstten kavrayın. Ellerinizi omuz hizasında, avuçlarınız öne bakacak şekilde konumlandırın. Merkez bölgenizi meşgul ve sırtınızı düz tutun. Kolunuz tamamen uzatılıncaya kadar bir kolu yukarı ve ileri doğru bastırın. Tepede bir an duraklayın, ardından kolu yavaşça başlangıç ​​pozisyonuna indirin. Diğer kolla tekrarlayın. İstenilen sayıda tekrar için kollar arasında geçiş yapın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y sujeta las agarraderas de la máquina de cable con agarre prono. Coloca las manos a la altura de los hombros, con las palmas mirando hacia adelante. Mantén el core activado y la espalda recta. Empuja una agarradera hacia arriba y hacia adelante hasta que el brazo quede completamente extendido. Haz una pausa breve en la parte más alta, luego baja lentamente la agarradera de vuelta a la posición inicial. Repite con el otro brazo. Alterna entre los brazos el número de repeticiones deseado.",
+    "ru": "Встаньте, расставив ноги на ширине плеч, и возьмитесь за рукоятки канатного тренажера верхним хватом. Расположите руки на уровне плеч, ладонями вперед. Держите корпус напряженным, а спину прямой. Нажмите одну ручку вверх и вперед, пока рука полностью не выпрямится. Задержитесь на мгновение в верхней точке, затем медленно опустите рукоятку обратно в исходное положение. Повторите с другой рукой. Чередуйте руки, выполняя желаемое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，并用正手握住绳索机的手柄。 将双手放在与肩同高的位置，手掌朝前。 保持核心参与并保持背部挺直。 向上并向前按下一个手柄，直到您的手臂完全伸展。 在最高点暂停片刻，然后慢慢将手柄放回起始位置。 用另一只手臂重复上述步骤。 双臂交替进行所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और केबल मशीन के हैंडल को ओवरहैंड ग्रिप से पकड़ लें। अपने हाथों को कंधे की ऊंचाई पर रखें, आपकी हथेलियाँ आगे की ओर हों। अपने कोर को व्यस्त रखें और अपनी पीठ को सीधा रखें। एक हैंडल को ऊपर और आगे की ओर दबाएं जब तक कि आपकी बांह पूरी तरह से विस्तारित न हो जाए। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे हैंडल को वापस प्रारंभिक स्थिति में ले आएं। दूसरे हाथ से दोहराएँ. दोहराव की वांछित संख्या के लिए भुजाओं के बीच वैकल्पिक करें।",
+    "pl": "Stań ze stopami na szerokość barków i chwyć uchwyty wyciągu chwytem nachwytem. Ustaw dłonie na wysokości barków, dłońmi skierowanymi do przodu. Trzymaj mięśnie brzucha napięte, a plecy proste. Wypchnij jeden uchwyt w górę i do przodu, aż ramię będzie w pełni wyprostowane. Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść uchwyt z powrotem do pozycji wyjściowej. Powtórz drugą ręką. Kontynuuj naprzemienne ramiona przez zadaną liczbę powtórzeń.",
+    "ko": "발을 어깨 너비만큼 벌리고 서서 케이블 머신의 핸들을 손등이 앞을 향하는 오버핸드 그립으로 잡습니다. 손을 어깨 높이에 위치시키고 손바닥이 앞을 향하도록 합니다. 코어를 engaged 하고 허리를 곧게 펴 있습니다. 한쪽 핸들을 위로 앞쪽으로 밀어 올려 팔을 완전히 펼칩니다. 맨 위에서 잠시 멈춘 후 천천히 핸들을 시작 자세로 내립니다. 다른 팔로 반복합니다. 원하는 반복 횟수만큼 양쪽을 번갈아 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et saisis les poignées de la machine à câble en prise pronation. Positionne tes mains à hauteur des épaules, les paumes tournées vers l'avant. Garde ta sangle abdominale gainée et le dos droit. Pousse une poignée vers le haut et vers l'avant jusqu'à ce que ton bras soit complètement tendu. Marque une pause en haut, puis abaisse lentement la poignée pour revenir à la position de départ. Répète avec l'autre bras. Alterne les bras pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and grasp the handles of the cable machine with an overhand grip.",
+      "Position your hands at shoulder height, with your palms facing forward.",
+      "Keep your core engaged and your back straight.",
+      "Press one handle up and forward until your arm is fully extended.",
+      "Pause for a moment at the top, then slowly lower the handle back to the starting position.",
+      "Repeat with the other arm.",
+      "Alternate between arms for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi a larghezza delle spalle e afferra le maniglie della macchina a cavo con una presa sopra la mano.",
+      "Posiziona le mani all'altezza delle spalle, con i palmi rivolti in avanti.",
+      "Mantieni il core impegnato e la schiena dritta.",
+      "Premi una maniglia verso l'alto e in avanti finché il braccio non è completamente esteso.",
+      "Fermati un attimo in cima, poi abbassa lentamente la maniglia fino alla posizione iniziale.",
+      "Ripeti con l'altro braccio.",
+      "Alternare tra le armi per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınızı omuz genişliğinde açın ve kablo makinesinin saplarını üstten kavrayın.",
+      "Ellerinizi omuz hizasında, avuçlarınız öne bakacak şekilde konumlandırın.",
+      "Merkez bölgenizi meşgul ve sırtınızı düz tutun.",
+      "Kolunuz tamamen uzatılıncaya kadar bir kolu yukarı ve ileri doğru bastırın.",
+      "Tepede bir an duraklayın, ardından kolu yavaşça başlangıç ​​pozisyonuna indirin.",
+      "Diğer kolla tekrarlayın.",
+      "İstenilen sayıda tekrar için kollar arasında geçiş yapın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y sujeta las agarraderas de la máquina de cable con agarre prono.",
+      "Coloca las manos a la altura de los hombros, con las palmas mirando hacia adelante.",
+      "Mantén el core activado y la espalda recta.",
+      "Empuja una agarradera hacia arriba y hacia adelante hasta que el brazo quede completamente extendido.",
+      "Haz una pausa breve en la parte más alta, luego baja lentamente la agarradera de vuelta a la posición inicial.",
+      "Repite con el otro brazo.",
+      "Alterna entre los brazos el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, расставив ноги на ширине плеч, и возьмитесь за рукоятки канатного тренажера верхним хватом.",
+      "Расположите руки на уровне плеч, ладонями вперед.",
+      "Держите корпус напряженным, а спину прямой.",
+      "Нажмите одну ручку вверх и вперед, пока рука полностью не выпрямится.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите рукоятку обратно в исходное положение.",
+      "Повторите с другой рукой.",
+      "Чередуйте руки, выполняя желаемое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，并用正手握住绳索机的手柄。",
+      "将双手放在与肩同高的位置，手掌朝前。",
+      "保持核心参与并保持背部挺直。",
+      "向上并向前按下一个手柄，直到您的手臂完全伸展。",
+      "在最高点暂停片刻，然后慢慢将手柄放回起始位置。",
+      "用另一只手臂重复上述步骤。",
+      "双臂交替进行所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और केबल मशीन के हैंडल को ओवरहैंड ग्रिप से पकड़ लें।",
+      "अपने हाथों को कंधे की ऊंचाई पर रखें, आपकी हथेलियाँ आगे की ओर हों।",
+      "अपने कोर को व्यस्त रखें और अपनी पीठ को सीधा रखें।",
+      "एक हैंडल को ऊपर और आगे की ओर दबाएं जब तक कि आपकी बांह पूरी तरह से विस्तारित न हो जाए।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे हैंडल को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दूसरे हाथ से दोहराएँ.",
+      "दोहराव की वांछित संख्या के लिए भुजाओं के बीच वैकल्पिक करें।"
+    ],
+    "pl": [
+      "Stań ze stopami na szerokość barków i chwyć uchwyty wyciągu chwytem nachwytem.",
+      "Ustaw dłonie na wysokości barków, dłońmi skierowanymi do przodu.",
+      "Trzymaj mięśnie brzucha napięte, a plecy proste.",
+      "Wypchnij jeden uchwyt w górę i do przodu, aż ramię będzie w pełni wyprostowane.",
+      "Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść uchwyt z powrotem do pozycji wyjściowej.",
+      "Powtórz drugą ręką.",
+      "Kontynuuj naprzemienne ramiona przez zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 너비만큼 벌리고 서서 케이블 머신의 핸들을 손등이 앞을 향하는 오버핸드 그립으로 잡습니다.",
+      "손을 어깨 높이에 위치시키고 손바닥이 앞을 향하도록 합니다.",
+      "코어를 engaged 하고 허리를 곧게 펴 있습니다.",
+      "한쪽 핸들을 위로 앞쪽으로 밀어 올려 팔을 완전히 펼칩니다.",
+      "맨 위에서 잠시 멈춘 후 천천히 핸들을 시작 자세로 내립니다.",
+      "다른 팔로 반복합니다.",
+      "원하는 반복 횟수만큼 양쪽을 번갈아 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et saisis les poignées de la machine à câble en prise pronation.",
+      "Positionne tes mains à hauteur des épaules, les paumes tournées vers l'avant.",
+      "Garde ta sangle abdominale gainée et le dos droit.",
+      "Pousse une poignée vers le haut et vers l'avant jusqu'à ce que ton bras soit complètement tendu.",
+      "Marque une pause en haut, puis abaisse lentement la poignée pour revenir à la position de départ.",
+      "Répète avec l'autre bras.",
+      "Alterne les bras pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "upper back"
+  ],
+  "target": "delts",
+  "image": "images/0148-KHPZL0b.jpg",
+  "gif_url": "videos/0148-KHPZL0b.gif",
+  "media_id": "KHPZL0b",
+  "created_at": "2026-03-18T12:31:32.874106+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

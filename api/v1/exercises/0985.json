@@ -1,0 +1,111 @@
+{
+  "id": "0985",
+  "name": "band kneeling twisting crunch",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "band",
+  "instructions": {
+    "en": "Attach the band to a sturdy anchor point at waist height. Kneel down facing away from the anchor point and hold the band with both hands, keeping your elbows bent and close to your sides. Engage your abs and slowly twist your torso to one side, bringing your hands towards your opposite hip. Pause for a moment, then slowly return to the starting position. Repeat on the other side. Continue alternating sides for the desired number of repetitions.",
+    "it": "Attacca la fascia a un punto di ancoraggio robusto all'altezza della vita. Inginocchiati con la faccia opposta al punto di ancoraggio e tieni la fascia con entrambe le mani, mantenendo i gomiti piegati e vicini ai fianchi. Coinvolgi gli addominali e ruota lentamente il busto da un lato, portando le mani verso il fianco opposto. Fai una pausa per un momento, quindi torna lentamente alla posizione di partenza. Ripeti dall'altra parte. Continua ad alternare i lati per il numero di ripetizioni desiderato.",
+    "tr": "Bandı bel yüksekliğinde sağlam bir bağlantı noktasına takın. Bağlantı noktasından uzağa bakacak şekilde diz çökün ve bandı iki elinizle tutun, dirseklerinizi bükülü ve yanlarınıza yakın tutun. Karın kaslarınızı devreye sokun ve gövdenizi yavaşça bir tarafa doğru çevirin, ellerinizi karşı kalçanıza doğru getirin. Bir an duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün. Diğer tarafta tekrarlayın. İstenilen tekrar sayısı için alternatif taraflara devam edin.",
+    "es": "Sujeta la banda a un punto de anclaje resistente a la altura de la cintura. Arrodíllate de espaldas al punto de anclaje y sostén la banda con ambas manos, manteniendo los codos flexionados y cerca de los costados. Activa el abdomen y gira lentamente el torso hacia un lado, llevando las manos hacia la cadera opuesta. Haz una pausa por un momento, luego regresa lentamente a la posición inicial. Repite del otro lado. Continúa alternando lados durante el número de repeticiones deseado.",
+    "ru": "Прикрепите ремешок к прочной точке крепления на высоте талии. Встаньте на колени лицом от точки крепления и возьмитесь за ленту обеими руками, держа локти согнутыми и прижатыми к бокам. Напрягите пресс и медленно поверните туловище в одну сторону, приближая руки к противоположному бедру. Сделайте паузу на мгновение, затем медленно вернитесь в исходное положение. Повторите с другой стороны. Продолжайте чередовать стороны желаемое количество повторений.",
+    "zh": "将带子固定在腰部高度的坚固锚点上。 面向远离锚点的方向跪下，用双手握住弹力带，保持肘部弯曲并靠近身体两侧。 收紧腹肌，慢慢地将躯干扭向一侧，将双手移向另一侧的臀部。 暂停片刻，然后慢慢回到起始位置。 在另一侧重复。 继续交替进行所需的重复次数。",
+    "hi": "बैंड को कमर की ऊंचाई पर एक मजबूत एंकर पॉइंट से जोड़ें। एंकर बिंदु से दूर की ओर मुंह करके घुटने टेकें और दोनों हाथों से बैंड को पकड़ें, अपनी कोहनियों को मोड़कर अपनी भुजाओं के करीब रखें। अपने पेट को संलग्न करें और धीरे-धीरे अपने धड़ को एक तरफ मोड़ें, अपने हाथों को अपने विपरीत कूल्हे की ओर लाएं। एक पल के लिए रुकें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं। दूसरी तरफ दोहराएं। दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।",
+    "pl": "Przymocuj taśmę do stabilnego punktu zaczepienia na wysokości talii. Uklęknij tyłem do punktu zaczepienia i trzymaj taśmę obiema rękami, utrzymując łokcie ugięte i blisko boków ciała. Napnij mięśnie brzucha i powoli skręć tułów w jedną stronę, przyciągając dłonie w kierunku przeciwległego biodra. Zatrzymaj się na chwilę, a następnie powoli wróć do pozycji wyjściowej. Powtórz po drugiej stronie. Kontynuuj naprzemienne wykonywanie ruchu na obie strony przez zalecaną liczbę powtórzeń.",
+    "ko": "밴드를 허리 높이의 견고한 고정점에 부착합니다. 고정점을 등지고 무릎을 꿇되 양손으로 밴드를 잡고 팔꿈치를 구부려 몸 옆에 가깝게 유지합니다. 복부에 힘을 주고 천천히 상체를 한쪽으로 비틀며 손을 반대쪽 엉덩이 쪽으로 가져옵니다. 잠깐 멈춘 후 천천히 시작 자세로 돌아갑니다. 반대쪽으로 반복합니다. 계속 양쪽을 번갈아 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Fixe l'élastique à un point d'ancrage solide à hauteur de la taille. Mets-toi à genoux dos au point d'ancrage et tiens l'élastique des deux mains, en gardant les coudes fléchis et proches de tes flancs. Gaine tes abdominaux et fais lentement pivoter ton torse d'un côté, en amenant tes mains vers la hanche opposée. Marque une pause, puis reviens lentement à la position de départ. Répète de l'autre côté. Continue à alterner les côtés pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Attach the band to a sturdy anchor point at waist height.",
+      "Kneel down facing away from the anchor point and hold the band with both hands, keeping your elbows bent and close to your sides.",
+      "Engage your abs and slowly twist your torso to one side, bringing your hands towards your opposite hip.",
+      "Pause for a moment, then slowly return to the starting position.",
+      "Repeat on the other side.",
+      "Continue alternating sides for the desired number of repetitions."
+    ],
+    "it": [
+      "Attacca la fascia a un punto di ancoraggio robusto all'altezza della vita.",
+      "Inginocchiati con la faccia opposta al punto di ancoraggio e tieni la fascia con entrambe le mani, mantenendo i gomiti piegati e vicini ai fianchi.",
+      "Coinvolgi gli addominali e ruota lentamente il busto da un lato, portando le mani verso il fianco opposto.",
+      "Fai una pausa per un momento, quindi torna lentamente alla posizione di partenza.",
+      "Ripeti dall'altra parte.",
+      "Continua ad alternare i lati per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Bandı bel yüksekliğinde sağlam bir bağlantı noktasına takın.",
+      "Bağlantı noktasından uzağa bakacak şekilde diz çökün ve bandı iki elinizle tutun, dirseklerinizi bükülü ve yanlarınıza yakın tutun.",
+      "Karın kaslarınızı devreye sokun ve gövdenizi yavaşça bir tarafa doğru çevirin, ellerinizi karşı kalçanıza doğru getirin.",
+      "Bir an duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün.",
+      "Diğer tarafta tekrarlayın.",
+      "İstenilen tekrar sayısı için alternatif taraflara devam edin."
+    ],
+    "es": [
+      "Sujeta la banda a un punto de anclaje resistente a la altura de la cintura.",
+      "Arrodíllate de espaldas al punto de anclaje y sostén la banda con ambas manos, manteniendo los codos flexionados y cerca de los costados.",
+      "Activa el abdomen y gira lentamente el torso hacia un lado, llevando las manos hacia la cadera opuesta.",
+      "Haz una pausa por un momento, luego regresa lentamente a la posición inicial.",
+      "Repite del otro lado.",
+      "Continúa alternando lados durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Прикрепите ремешок к прочной точке крепления на высоте талии.",
+      "Встаньте на колени лицом от точки крепления и возьмитесь за ленту обеими руками, держа локти согнутыми и прижатыми к бокам.",
+      "Напрягите пресс и медленно поверните туловище в одну сторону, приближая руки к противоположному бедру.",
+      "Сделайте паузу на мгновение, затем медленно вернитесь в исходное положение.",
+      "Повторите с другой стороны.",
+      "Продолжайте чередовать стороны желаемое количество повторений."
+    ],
+    "zh": [
+      "将带子固定在腰部高度的坚固锚点上。",
+      "面向远离锚点的方向跪下，用双手握住弹力带，保持肘部弯曲并靠近身体两侧。",
+      "收紧腹肌，慢慢地将躯干扭向一侧，将双手移向另一侧的臀部。",
+      "暂停片刻，然后慢慢回到起始位置。",
+      "在另一侧重复。",
+      "继续交替进行所需的重复次数。"
+    ],
+    "hi": [
+      "बैंड को कमर की ऊंचाई पर एक मजबूत एंकर पॉइंट से जोड़ें।",
+      "एंकर बिंदु से दूर की ओर मुंह करके घुटने टेकें और दोनों हाथों से बैंड को पकड़ें, अपनी कोहनियों को मोड़कर अपनी भुजाओं के करीब रखें।",
+      "अपने पेट को संलग्न करें और धीरे-धीरे अपने धड़ को एक तरफ मोड़ें, अपने हाथों को अपने विपरीत कूल्हे की ओर लाएं।",
+      "एक पल के लिए रुकें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं।",
+      "दूसरी तरफ दोहराएं।",
+      "दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।"
+    ],
+    "pl": [
+      "Przymocuj taśmę do stabilnego punktu zaczepienia na wysokości talii.",
+      "Uklęknij tyłem do punktu zaczepienia i trzymaj taśmę obiema rękami, utrzymując łokcie ugięte i blisko boków ciała.",
+      "Napnij mięśnie brzucha i powoli skręć tułów w jedną stronę, przyciągając dłonie w kierunku przeciwległego biodra.",
+      "Zatrzymaj się na chwilę, a następnie powoli wróć do pozycji wyjściowej.",
+      "Powtórz po drugiej stronie.",
+      "Kontynuuj naprzemienne wykonywanie ruchu na obie strony przez zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "밴드를 허리 높이의 견고한 고정점에 부착합니다.",
+      "고정점을 등지고 무릎을 꿇되 양손으로 밴드를 잡고 팔꿈치를 구부려 몸 옆에 가깝게 유지합니다.",
+      "복부에 힘을 주고 천천히 상체를 한쪽으로 비틀며 손을 반대쪽 엉덩이 쪽으로 가져옵니다.",
+      "잠깐 멈춘 후 천천히 시작 자세로 돌아갑니다.",
+      "반대쪽으로 반복합니다.",
+      "계속 양쪽을 번갈아 원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Fixe l'élastique à un point d'ancrage solide à hauteur de la taille.",
+      "Mets-toi à genoux dos au point d'ancrage et tiens l'élastique des deux mains, en gardant les coudes fléchis et proches de tes flancs.",
+      "Gaine tes abdominaux et fais lentement pivoter ton torse d'un côté, en amenant tes mains vers la hanche opposée.",
+      "Marque une pause, puis reviens lentement à la position de départ.",
+      "Répète de l'autre côté.",
+      "Continue à alterner les côtés pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "obliques",
+  "secondary_muscles": [
+    "obliques"
+  ],
+  "target": "abs",
+  "image": "images/0985-225x2Vd.jpg",
+  "gif_url": "videos/0985-225x2Vd.gif",
+  "media_id": "225x2Vd",
+  "created_at": "2026-03-18T12:31:32.856034+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,482 @@
+[
+  {
+    "id": "0746",
+    "name": "smith back shrug",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "smith machine",
+    "target": "traps",
+    "image": "images/0746-MzNnwx9.jpg",
+    "gif_url": "videos/0746-MzNnwx9.gif"
+  },
+  {
+    "id": "0747",
+    "name": "smith behind neck press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "smith machine",
+    "target": "delts",
+    "image": "images/0747-Gpn4ADc.jpg",
+    "gif_url": "videos/0747-Gpn4ADc.gif"
+  },
+  {
+    "id": "0748",
+    "name": "smith bench press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "smith machine",
+    "target": "pectorals",
+    "image": "images/0748-trqKQv2.jpg",
+    "gif_url": "videos/0748-trqKQv2.gif"
+  },
+  {
+    "id": "0749",
+    "name": "smith bent knee good morning",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "smith machine",
+    "target": "glutes",
+    "image": "images/0749-1bQkKZK.jpg",
+    "gif_url": "videos/0749-1bQkKZK.gif"
+  },
+  {
+    "id": "1359",
+    "name": "smith bent over row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "smith machine",
+    "target": "upper back",
+    "image": "images/1359-ZX9UZmj.jpg",
+    "gif_url": "videos/1359-ZX9UZmj.gif"
+  },
+  {
+    "id": "0750",
+    "name": "smith chair squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "smith machine",
+    "target": "quads",
+    "image": "images/0750-Gu2rNJd.jpg",
+    "gif_url": "videos/0750-Gu2rNJd.gif"
+  },
+  {
+    "id": "0751",
+    "name": "smith close-grip bench press",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "smith machine",
+    "target": "triceps",
+    "image": "images/0751-WcHl7ru.jpg",
+    "gif_url": "videos/0751-WcHl7ru.gif"
+  },
+  {
+    "id": "0752",
+    "name": "smith deadlift",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "smith machine",
+    "target": "glutes",
+    "image": "images/0752-UfePqpx.jpg",
+    "gif_url": "videos/0752-UfePqpx.gif"
+  },
+  {
+    "id": "0753",
+    "name": "smith decline bench press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "smith machine",
+    "target": "pectorals",
+    "image": "images/0753-ETZfAbZ.jpg",
+    "gif_url": "videos/0753-ETZfAbZ.gif"
+  },
+  {
+    "id": "0754",
+    "name": "smith decline reverse-grip press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "smith machine",
+    "target": "pectorals",
+    "image": "images/0754-MY9P1WA.jpg",
+    "gif_url": "videos/0754-MY9P1WA.gif"
+  },
+  {
+    "id": "1433",
+    "name": "smith front squat (clean grip)",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "smith machine",
+    "target": "glutes",
+    "image": "images/1433-lFhb2Rw.jpg",
+    "gif_url": "videos/1433-lFhb2Rw.gif"
+  },
+  {
+    "id": "3281",
+    "name": "smith full squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "smith machine",
+    "target": "glutes",
+    "image": "images/3281-NNoHCEA.jpg",
+    "gif_url": "videos/3281-NNoHCEA.gif"
+  },
+  {
+    "id": "0755",
+    "name": "smith hack squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "smith machine",
+    "target": "glutes",
+    "image": "images/0755-ZuPXtCK.jpg",
+    "gif_url": "videos/0755-ZuPXtCK.gif"
+  },
+  {
+    "id": "0756",
+    "name": "smith hip raise",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "smith machine",
+    "target": "abs",
+    "image": "images/0756-CqhoytW.jpg",
+    "gif_url": "videos/0756-CqhoytW.gif"
+  },
+  {
+    "id": "0757",
+    "name": "smith incline bench press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "smith machine",
+    "target": "pectorals",
+    "image": "images/0757-5v7KYld.jpg",
+    "gif_url": "videos/0757-5v7KYld.gif"
+  },
+  {
+    "id": "0758",
+    "name": "smith incline reverse-grip press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "smith machine",
+    "target": "pectorals",
+    "image": "images/0758-78VqWQK.jpg",
+    "gif_url": "videos/0758-78VqWQK.gif"
+  },
+  {
+    "id": "0759",
+    "name": "smith incline shoulder raises",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "smith machine",
+    "target": "serratus anterior",
+    "image": "images/0759-ayAHcEm.jpg",
+    "gif_url": "videos/0759-ayAHcEm.gif"
+  },
+  {
+    "id": "0760",
+    "name": "smith leg press",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "smith machine",
+    "target": "glutes",
+    "image": "images/0760-7zdxRTl.jpg",
+    "gif_url": "videos/0760-7zdxRTl.gif"
+  },
+  {
+    "id": "1434",
+    "name": "smith low bar squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "smith machine",
+    "target": "glutes",
+    "image": "images/1434-RGLscZM.jpg",
+    "gif_url": "videos/1434-RGLscZM.gif"
+  },
+  {
+    "id": "1683",
+    "name": "smith machine bicep curl",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "smith machine",
+    "target": "biceps",
+    "image": "images/1683-zILLZ98.jpg",
+    "gif_url": "videos/1683-zILLZ98.gif"
+  },
+  {
+    "id": "1625",
+    "name": "smith machine decline close grip bench press",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "smith machine",
+    "target": "triceps",
+    "image": "images/1625-yB9SvIF.jpg",
+    "gif_url": "videos/1625-yB9SvIF.gif"
+  },
+  {
+    "id": "1752",
+    "name": "smith machine incline tricep extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "smith machine",
+    "target": "triceps",
+    "image": "images/1752-o8aOcrz.jpg",
+    "gif_url": "videos/1752-o8aOcrz.gif"
+  },
+  {
+    "id": "1626",
+    "name": "smith machine reverse decline close grip bench press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "smith machine",
+    "target": "pectorals",
+    "image": "images/1626-QyO6Uma.jpg",
+    "gif_url": "videos/1626-QyO6Uma.gif"
+  },
+  {
+    "id": "0761",
+    "name": "smith narrow row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "smith machine",
+    "target": "upper back",
+    "image": "images/0761-JGKowMS.jpg",
+    "gif_url": "videos/0761-JGKowMS.gif"
+  },
+  {
+    "id": "1360",
+    "name": "smith one arm row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "smith machine",
+    "target": "upper back",
+    "image": "images/1360-Q4DSJPC.jpg",
+    "gif_url": "videos/1360-Q4DSJPC.gif"
+  },
+  {
+    "id": "1393",
+    "name": "smith one leg floor calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "smith machine",
+    "target": "calves",
+    "image": "images/1393-9GXrTE6.jpg",
+    "gif_url": "videos/1393-9GXrTE6.gif"
+  },
+  {
+    "id": "0762",
+    "name": "smith rear delt row",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "smith machine",
+    "target": "delts",
+    "image": "images/0762-nFUwqG6.jpg",
+    "gif_url": "videos/0762-nFUwqG6.gif"
+  },
+  {
+    "id": "0763",
+    "name": "smith reverse calf raises",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "smith machine",
+    "target": "calves",
+    "image": "images/0763-ywaNfuh.jpg",
+    "gif_url": "videos/0763-ywaNfuh.gif"
+  },
+  {
+    "id": "1394",
+    "name": "smith reverse calf raises",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "smith machine",
+    "target": "calves",
+    "image": "images/1394-Lsqrgh4.jpg",
+    "gif_url": "videos/1394-Lsqrgh4.gif"
+  },
+  {
+    "id": "1361",
+    "name": "smith reverse grip bent over row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "smith machine",
+    "target": "upper back",
+    "image": "images/1361-aaxA3cm.jpg",
+    "gif_url": "videos/1361-aaxA3cm.gif"
+  },
+  {
+    "id": "0764",
+    "name": "smith reverse-grip press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "smith machine",
+    "target": "pectorals",
+    "image": "images/0764-zK8Fu1W.jpg",
+    "gif_url": "videos/0764-zK8Fu1W.gif"
+  },
+  {
+    "id": "1395",
+    "name": "smith seated one leg calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "smith machine",
+    "target": "calves",
+    "image": "images/1395-0S75mYG.jpg",
+    "gif_url": "videos/1395-0S75mYG.gif"
+  },
+  {
+    "id": "0765",
+    "name": "smith seated shoulder press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "smith machine",
+    "target": "delts",
+    "image": "images/0765-xUwnBMT.jpg",
+    "gif_url": "videos/0765-xUwnBMT.gif"
+  },
+  {
+    "id": "1426",
+    "name": "smith seated wrist curl",
+    "category": "lower arms",
+    "body_part": "lower arms",
+    "equipment": "smith machine",
+    "target": "forearms",
+    "image": "images/1426-B6dAO1t.jpg",
+    "gif_url": "videos/1426-B6dAO1t.gif"
+  },
+  {
+    "id": "0766",
+    "name": "smith shoulder press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "smith machine",
+    "target": "delts",
+    "image": "images/0766-903mzG8.jpg",
+    "gif_url": "videos/0766-903mzG8.gif"
+  },
+  {
+    "id": "0767",
+    "name": "smith shrug",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "smith machine",
+    "target": "traps",
+    "image": "images/0767-OUQ0ZyW.jpg",
+    "gif_url": "videos/0767-OUQ0ZyW.gif"
+  },
+  {
+    "id": "0768",
+    "name": "smith single leg split squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "smith machine",
+    "target": "quads",
+    "image": "images/0768-wWFspEi.jpg",
+    "gif_url": "videos/0768-wWFspEi.gif"
+  },
+  {
+    "id": "0769",
+    "name": "smith sprint lunge",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "smith machine",
+    "target": "glutes",
+    "image": "images/0769-HsjbB1z.jpg",
+    "gif_url": "videos/0769-HsjbB1z.gif"
+  },
+  {
+    "id": "0770",
+    "name": "smith squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "smith machine",
+    "target": "glutes",
+    "image": "images/0770-jFtipLl.jpg",
+    "gif_url": "videos/0770-jFtipLl.gif"
+  },
+  {
+    "id": "0771",
+    "name": "smith standing back wrist curl",
+    "category": "lower arms",
+    "body_part": "lower arms",
+    "equipment": "smith machine",
+    "target": "forearms",
+    "image": "images/0771-hfmQ0Tz.jpg",
+    "gif_url": "videos/0771-hfmQ0Tz.gif"
+  },
+  {
+    "id": "0772",
+    "name": "smith standing behind head military press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "smith machine",
+    "target": "delts",
+    "image": "images/0772-ht8xDrP.jpg",
+    "gif_url": "videos/0772-ht8xDrP.gif"
+  },
+  {
+    "id": "0773",
+    "name": "smith standing leg calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "smith machine",
+    "target": "calves",
+    "image": "images/0773-6MaEjVA.jpg",
+    "gif_url": "videos/0773-6MaEjVA.gif"
+  },
+  {
+    "id": "0774",
+    "name": "smith standing military press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "smith machine",
+    "target": "delts",
+    "image": "images/0774-jjUPrze.jpg",
+    "gif_url": "videos/0774-jjUPrze.gif"
+  },
+  {
+    "id": "3142",
+    "name": "smith sumo squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "smith machine",
+    "target": "glutes",
+    "image": "images/3142-dzz6BiV.jpg",
+    "gif_url": "videos/3142-dzz6BiV.gif"
+  },
+  {
+    "id": "1396",
+    "name": "smith toe raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "smith machine",
+    "target": "calves",
+    "image": "images/1396-Y4QlY8z.jpg",
+    "gif_url": "videos/1396-Y4QlY8z.gif"
+  },
+  {
+    "id": "0775",
+    "name": "smith upright row",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "smith machine",
+    "target": "delts",
+    "image": "images/0775-1DN3iz4.jpg",
+    "gif_url": "videos/0775-1DN3iz4.gif"
+  },
+  {
+    "id": "1308",
+    "name": "smith wide grip bench press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "smith machine",
+    "target": "pectorals",
+    "image": "images/1308-zoOvPcx.jpg",
+    "gif_url": "videos/1308-zoOvPcx.gif"
+  },
+  {
+    "id": "1309",
+    "name": "smith wide grip decline bench press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "smith machine",
+    "target": "pectorals",
+    "image": "images/1309-wi2H9QX.jpg",
+    "gif_url": "videos/1309-wi2H9QX.gif"
+  }
+]

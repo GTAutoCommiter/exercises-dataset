@@ -1,0 +1,122 @@
+{
+  "id": "3302",
+  "name": "handstand",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Find an open space with enough room to perform a handstand. Place your hands on the ground shoulder-width apart, fingers pointing forward. Kick your legs up towards the wall, using your core and shoulders to maintain balance. Once in a handstand position, engage your triceps to support your body weight. Hold the handstand for as long as you can maintain balance. To come down, slowly lower your legs back to the ground. Repeat for the desired number of repetitions.",
+    "it": "Trova uno spazio aperto con spazio sufficiente per eseguire una verticale. Appoggia le mani a terra alla larghezza delle spalle, con le dita rivolte in avanti. Calcia le gambe verso il muro, usando il core e le spalle per mantenere l'equilibrio. Una volta in posizione verticale, coinvolgi i tricipiti per sostenere il peso corporeo. Mantieni la verticale finché riesci a mantenere l'equilibrio. Per scendere, abbassa lentamente le gambe a terra. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Amuda kalkmak için yeterli alana sahip açık bir alan bulun. Ellerinizi omuz genişliğinde, parmaklarınız ileriyi gösterecek şekilde yere koyun. Dengeyi korumak için gövdenizi ve omuzlarınızı kullanarak bacaklarınızı duvara doğru kaldırın. Amuda kalktığınızda, vücut ağırlığınızı desteklemek için trisepslerinizi kullanın. Dengeyi koruyabildiğiniz sürece amuda tutun. Aşağı inmek için bacaklarınızı yavaşça yere indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Busca un espacio abierto con suficiente espacio para hacer un pino. Coloca las manos en el suelo separadas a la altura de los hombros, con los dedos apuntando hacia adelante. Lanza las piernas hacia la pared, usando el core y los hombros para mantener el equilibrio. Una vez en posición de pino, activa los tríceps para sostener el peso corporal. Mantén el pino el mayor tiempo posible mientras conserves el equilibrio. Para bajar, lleva lentamente las piernas de vuelta al suelo. Repite el número de repeticiones deseado.",
+    "ru": "Найдите открытое пространство, в котором достаточно места для стойки на руках. Положите руки на пол на ширине плеч, пальцы направлены вперед. Поднимите ноги к стене, используя корпус и плечи для поддержания равновесия. В стойке на руках задействуйте трицепсы, чтобы поддерживать вес тела. Удерживайте стойку на руках столько, сколько сможете сохранить равновесие. Чтобы опуститься, медленно опустите ноги обратно на землю. Повторите необходимое количество повторений.",
+    "zh": "找到一个有足够空间的空地来进行倒立。 将双手放在地上，与肩同宽，手指指向前方。 将双腿向上踢向墙壁，用核心和肩膀保持平衡。 处于倒立位置后，用三头肌来支撑体重。 只要能保持平衡，就保持倒立。 下降时，慢慢将双腿放回地面。 重复所需的重复次数。",
+    "hi": "हाथ के बल खड़े होने के लिए पर्याप्त जगह वाली खुली जगह ढूंढें। अपने हाथों को कंधे की चौड़ाई पर जमीन पर रखें, उंगलियां आगे की ओर हों। संतुलन बनाए रखने के लिए अपने कोर और कंधों का उपयोग करते हुए, अपने पैरों को दीवार की ओर उठाएं। एक बार हाथ के बल खड़े होने की स्थिति में, अपने शरीर के वजन को सहारा देने के लिए अपने ट्राइसेप्स को संलग्न करें। जब तक आप संतुलन बनाए रख सकते हैं तब तक हैंडस्टैंड को पकड़कर रखें। नीचे आने के लिए धीरे-धीरे अपने पैरों को वापस ज़मीन पर टिकाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Znajdź otwartą przestrzeń z wystarczającą ilością miejsca na wykonanie stania na rękach. Umieść dłonie na podłodze na szerokość barków, palce skierowane do przodu. Wykop nogami w stronę ściany, wykorzystując mięśnie brzucha i barków do utrzymania równowagi. Po osiągnięciu pozycji stania na rękach, napnij tricepsy, aby utrzymać ciężar ciała. Przytrzymaj stanie na rękach tak długo, jak potrafisz utrzymać równowagę. Aby zejść, powoli opuść nogi z powrotem na podłogę. Powtórz zalecaną liczbę razy.",
+    "ko": "핸드스탠드를 할 충분한 공간을 찾습니다. 손을 지면에 어깨 너비만큼 벌려 놓고 손가락이 앞을 향하도록 합니다. 다리를 위로 찬 후 복부와 어깨를 사용하여 균형을 유지합니다. 핸드스탠드 위치에서 삼두근에 힘을 주어 체중을 지탱합니다. 균형을 유지할 수 있는 한 오래 핸드스탠드를 유지합니다. 내려올 때는 다리를 천천히 지면으로 내립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Trouve un espace dégagé avec assez de place pour effectuer un poirier. Place tes mains au sol écartées à la largeur des épaules, les doigts pointés vers l'avant. Lance tes jambes vers le mur, en utilisant ta sangle abdominale et tes épaules pour maintenir l'équilibre. Une fois en position de poirier, gaine tes triceps pour soutenir le poids de ton corps. Maintiens l'appui tendu renversé aussi longtemps que tu peux garder l'équilibre. Pour redescendre, abaisse lentement tes jambes vers le sol. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Find an open space with enough room to perform a handstand.",
+      "Place your hands on the ground shoulder-width apart, fingers pointing forward.",
+      "Kick your legs up towards the wall, using your core and shoulders to maintain balance.",
+      "Once in a handstand position, engage your triceps to support your body weight.",
+      "Hold the handstand for as long as you can maintain balance.",
+      "To come down, slowly lower your legs back to the ground.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Trova uno spazio aperto con spazio sufficiente per eseguire una verticale.",
+      "Appoggia le mani a terra alla larghezza delle spalle, con le dita rivolte in avanti.",
+      "Calcia le gambe verso il muro, usando il core e le spalle per mantenere l'equilibrio.",
+      "Una volta in posizione verticale, coinvolgi i tricipiti per sostenere il peso corporeo.",
+      "Mantieni la verticale finché riesci a mantenere l'equilibrio.",
+      "Per scendere, abbassa lentamente le gambe a terra.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Amuda kalkmak için yeterli alana sahip açık bir alan bulun.",
+      "Ellerinizi omuz genişliğinde, parmaklarınız ileriyi gösterecek şekilde yere koyun.",
+      "Dengeyi korumak için gövdenizi ve omuzlarınızı kullanarak bacaklarınızı duvara doğru kaldırın.",
+      "Amuda kalktığınızda, vücut ağırlığınızı desteklemek için trisepslerinizi kullanın.",
+      "Dengeyi koruyabildiğiniz sürece amuda tutun.",
+      "Aşağı inmek için bacaklarınızı yavaşça yere indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Busca un espacio abierto con suficiente espacio para hacer un pino.",
+      "Coloca las manos en el suelo separadas a la altura de los hombros, con los dedos apuntando hacia adelante.",
+      "Lanza las piernas hacia la pared, usando el core y los hombros para mantener el equilibrio.",
+      "Una vez en posición de pino, activa los tríceps para sostener el peso corporal.",
+      "Mantén el pino el mayor tiempo posible mientras conserves el equilibrio.",
+      "Para bajar, lleva lentamente las piernas de vuelta al suelo.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Найдите открытое пространство, в котором достаточно места для стойки на руках.",
+      "Положите руки на пол на ширине плеч, пальцы направлены вперед.",
+      "Поднимите ноги к стене, используя корпус и плечи для поддержания равновесия.",
+      "В стойке на руках задействуйте трицепсы, чтобы поддерживать вес тела.",
+      "Удерживайте стойку на руках столько, сколько сможете сохранить равновесие.",
+      "Чтобы опуститься, медленно опустите ноги обратно на землю.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "找到一个有足够空间的空地来进行倒立。",
+      "将双手放在地上，与肩同宽，手指指向前方。",
+      "将双腿向上踢向墙壁，用核心和肩膀保持平衡。",
+      "处于倒立位置后，用三头肌来支撑体重。",
+      "只要能保持平衡，就保持倒立。",
+      "下降时，慢慢将双腿放回地面。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "हाथ के बल खड़े होने के लिए पर्याप्त जगह वाली खुली जगह ढूंढें।",
+      "अपने हाथों को कंधे की चौड़ाई पर जमीन पर रखें, उंगलियां आगे की ओर हों।",
+      "संतुलन बनाए रखने के लिए अपने कोर और कंधों का उपयोग करते हुए, अपने पैरों को दीवार की ओर उठाएं।",
+      "एक बार हाथ के बल खड़े होने की स्थिति में, अपने शरीर के वजन को सहारा देने के लिए अपने ट्राइसेप्स को संलग्न करें।",
+      "जब तक आप संतुलन बनाए रख सकते हैं तब तक हैंडस्टैंड को पकड़कर रखें।",
+      "नीचे आने के लिए धीरे-धीरे अपने पैरों को वापस ज़मीन पर टिकाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Znajdź otwartą przestrzeń z wystarczającą ilością miejsca na wykonanie stania na rękach.",
+      "Umieść dłonie na podłodze na szerokość barków, palce skierowane do przodu.",
+      "Wykop nogami w stronę ściany, wykorzystując mięśnie brzucha i barków do utrzymania równowagi.",
+      "Po osiągnięciu pozycji stania na rękach, napnij tricepsy, aby utrzymać ciężar ciała.",
+      "Przytrzymaj stanie na rękach tak długo, jak potrafisz utrzymać równowagę.",
+      "Aby zejść, powoli opuść nogi z powrotem na podłogę.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "핸드스탠드를 할 충분한 공간을 찾습니다.",
+      "손을 지면에 어깨 너비만큼 벌려 놓고 손가락이 앞을 향하도록 합니다.",
+      "다리를 위로 찬 후 복부와 어깨를 사용하여 균형을 유지합니다.",
+      "핸드스탠드 위치에서 삼두근에 힘을 주어 체중을 지탱합니다.",
+      "균형을 유지할 수 있는 한 오래 핸드스탠드를 유지합니다.",
+      "내려올 때는 다리를 천천히 지면으로 내립니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Trouve un espace dégagé avec assez de place pour effectuer un poirier.",
+      "Place tes mains au sol écartées à la largeur des épaules, les doigts pointés vers l'avant.",
+      "Lance tes jambes vers le mur, en utilisant ta sangle abdominale et tes épaules pour maintenir l'équilibre.",
+      "Une fois en position de poirier, gaine tes triceps pour soutenir le poids de ton corps.",
+      "Maintiens l'appui tendu renversé aussi longtemps que tu peux garder l'équilibre.",
+      "Pour redescendre, abaisse lentement tes jambes vers le sol.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "core"
+  ],
+  "target": "triceps",
+  "image": "images/3302-XooAdhl.jpg",
+  "gif_url": "videos/3302-XooAdhl.gif",
+  "media_id": "XooAdhl",
+  "created_at": "2026-03-18T12:31:32.88411+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

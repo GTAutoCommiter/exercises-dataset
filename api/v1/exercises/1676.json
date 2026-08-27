@@ -1,0 +1,131 @@
+{
+  "id": "1676",
+  "name": "dumbbell seated alternate hammer curl on exercise ball",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Sit on an exercise ball with your feet flat on the ground and your back straight. Hold a dumbbell in each hand with your palms facing your body and your arms fully extended. Keeping your upper arms stationary, exhale and curl one dumbbell up towards your shoulder while keeping your palm facing your body. Continue to raise the dumbbell until your biceps are fully contracted and the dumbbell is at shoulder level. Hold the contracted position for a brief pause as you squeeze your biceps. Inhale and slowly lower the dumbbell back to the starting position. Repeat the movement with the opposite arm. Continue alternating arms for the desired number of repetitions.",
+    "it": "Siediti su una palla da ginnastica con i piedi piatti a terra e la schiena dritta. Tieni un manubrio in ogni mano con i palmi rivolti verso il corpo e le braccia completamente estese. Tenendo ferme le braccia superiori, espira e arriccia un manubrio verso la spalla mantenendo il palmo rivolto verso il corpo. Continua ad alzare il manubrio finché i bicipiti non sono completamente contratti e il manubrio non è all'altezza delle spalle. Mantieni la posizione contratta per una breve pausa mentre stringi i bicipiti. Inspira e abbassa lentamente il manubrio alla posizione iniziale. Ripeti il movimento con il braccio opposto. Continuare ad alternare le braccia per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız yere düz basacak ve sırtınız düz olacak şekilde bir egzersiz topunun üzerine oturun. Avuç içleriniz vücudunuza bakacak ve kollarınız tamamen uzatılmış şekilde her elinizde bir dambıl tutun. Üst kollarınızı sabit tutarak nefes verin ve bir dambılı omzunuza doğru kıvırırken avucunuzu vücudunuza doğru tutun. Bisepsleriniz tamamen kasılana ve dambıl omuz hizasına gelene kadar dambılı kaldırmaya devam edin. Bicepslerinizi sıkarken kasılmış pozisyonu kısa bir süre koruyun. Nefes alın ve dambılı yavaşça başlangıç ​​pozisyonuna indirin. Hareketi karşı kolla tekrarlayın. İstenilen sayıda tekrar için kolları değiştirerek devam edin.",
+    "es": "Siéntate sobre un balón de ejercicio con los pies apoyados planos en el suelo y la espalda recta. Sostén una mancuerna en cada mano con las palmas hacia el cuerpo y los brazos completamente extendidos. Manteniendo la parte superior de los brazos fija, exhala y flexiona una mancuerna hacia el hombro mientras mantienes la palma hacia tu cuerpo. Continúa levantando la mancuerna hasta que el bíceps esté completamente contraído y la mancuerna esté a la altura del hombro. Mantén la posición contraída durante una breve pausa mientras aprietas los bíceps. Inhala y baja lentamente la mancuerna de vuelta a la posición inicial. Repite el movimiento con el brazo contrario. Continúa alternando los brazos durante el número de repeticiones deseado.",
+    "ru": "Сядьте на гимнастический мяч, поставив ноги на землю и выпрямив спину. Возьмите по гантели в каждую руку ладонями к телу и полностью выпрямленными руками. Удерживая плечи неподвижно, выдохните и согните одну гантель к плечу, держа ладонь к телу. Продолжайте поднимать гантель до тех пор, пока ваши бицепсы полностью не сократятся и гантель не окажется на уровне плеч. Задержитесь в сокращенном положении на короткую паузу, одновременно сжимая бицепсы. Вдохните и медленно опустите гантель обратно в исходное положение. Повторите движение противоположной рукой. Продолжайте чередовать руки желаемое количество повторений.",
+    "zh": "坐在健身球上，双脚平放在地上，背部挺直。 每只手握住一个哑铃，手掌朝向身体，双臂完全伸展。 保持上臂静止，呼气并将一只哑铃向上弯向肩膀，同时保持手掌朝向身体。 继续举起哑铃，直到二头肌完全收缩并且哑铃与肩部齐平。 挤压二头肌时，保持收缩位置短暂停顿。 吸气，慢慢将哑铃放回起始位置。 用另一只手臂重复该动作。 继续交替手臂进行所需的重复次数。",
+    "hi": "अपने पैरों को ज़मीन पर सपाट और अपनी पीठ को सीधा रखते हुए एक व्यायाम बॉल पर बैठें। अपनी हथेलियों को अपने शरीर की ओर रखते हुए और अपनी बाहों को पूरी तरह फैलाकर प्रत्येक हाथ में एक डम्बल पकड़ें। अपनी ऊपरी भुजाओं को स्थिर रखते हुए, सांस छोड़ें और अपनी हथेली को अपने शरीर की ओर रखते हुए एक डम्बल को अपने कंधे की ओर मोड़ें। डंबल को तब तक उठाना जारी रखें जब तक कि आपके बाइसेप्स पूरी तरह से सिकुड़ न जाएं और डंबल कंधे के स्तर पर न आ जाए। जब आप अपने बाइसेप्स को निचोड़ते हैं तो थोड़ी देर के लिए अनुबंधित स्थिति में रहें। श्वास लें और धीरे-धीरे डम्बल को प्रारंभिक स्थिति में वापस लाएँ। विपरीत भुजा से भी यही क्रिया दोहराएँ। दोहराव की वांछित संख्या के लिए भुजाओं को बारी-बारी से जारी रखें।",
+    "pl": "Usiądź na piłce gimnastycznej, stopy oprzyj płasko na podłodze, a plecy trzymaj proste. Trzymaj w każdej dłoni hantlę, dłonie skierowane w stronę ciała, ręce w pełni wyprostowane. Utrzymując nieruchome ramiona, wykonaj wydech i unieś jedną hantlę w stronę barku, trzymając dłoń skierowaną w stronę ciała. Unoś hantlę, aż biceps będzie maksymalnie napięty, a hantla znajdzie się na wysokości barku. Zatrzymaj się na chwilę w napiętej pozycji, ściskając biceps. Wykonaj wdech i powoli opuść hantlę z powrotem do pozycji wyjściowej. Powtórz ruch przeciwną ręką. Kontynuuj naprzemienne wykonywanie ćwiczenia przez zalecaną liczbę powtórzeń.",
+    "ko": "운동공에 앉아 발을 땅에 댄 채 등을 곧게 펼친다. 양손에 덤벨을 들되 손바닥이 몸을 향하고 팔을 완전히 펼친다. 위팔을 고정한 채 숨을 내쉬면서 한쪽 덤벨을 어깨 쪽으로 위로 올리되 손바닥이 몸을 향하도록 유지한다. 이두근이 완전히 수축되고 덤벨이 어깨 높이에 올 때까지 계속 올린다. 수축된 위치에서 잠깐 멈추면서 이두근을 조인다. 숨을 들이쉬면서 천천히 덤벨을 시작 위치로 낮춘다. 반대쪽 팔로 같은 동작을 반복한다. 양팔을 교대로 반복하며 원하는 반복 횟수만큼 계속 수행합니다.",
+    "fr": "Assieds-toi sur un ballon d'exercice, les pieds à plat sur le sol et le dos droit. Tiens un haltère dans chaque main, les paumes tournées vers ton corps et les bras complètement étendus. En gardant le haut des bras immobile, expire et fléchis un haltère vers ton épaule en gardant ta paume tournée vers ton corps. Continue à lever l'haltère jusqu'à ce que ton biceps soit complètement contracté et que l'haltère soit à hauteur d'épaule. Maintiens la position contractée pendant une brève pause en contractant tes biceps. Inspire et abaisse lentement l'haltère jusqu'à la position de départ. Répète le mouvement avec le bras opposé. Continue à alterner les bras pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on an exercise ball with your feet flat on the ground and your back straight.",
+      "Hold a dumbbell in each hand with your palms facing your body and your arms fully extended.",
+      "Keeping your upper arms stationary, exhale and curl one dumbbell up towards your shoulder while keeping your palm facing your body.",
+      "Continue to raise the dumbbell until your biceps are fully contracted and the dumbbell is at shoulder level.",
+      "Hold the contracted position for a brief pause as you squeeze your biceps.",
+      "Inhale and slowly lower the dumbbell back to the starting position.",
+      "Repeat the movement with the opposite arm.",
+      "Continue alternating arms for the desired number of repetitions."
+    ],
+    "it": [
+      "Siediti su una palla da ginnastica con i piedi piatti a terra e la schiena dritta.",
+      "Tieni un manubrio in ogni mano con i palmi rivolti verso il corpo e le braccia completamente estese.",
+      "Tenendo ferme le braccia superiori, espira e arriccia un manubrio verso la spalla mantenendo il palmo rivolto verso il corpo.",
+      "Continua ad alzare il manubrio finché i bicipiti non sono completamente contratti e il manubrio non è all'altezza delle spalle.",
+      "Mantieni la posizione contratta per una breve pausa mentre stringi i bicipiti.",
+      "Inspira e abbassa lentamente il manubrio alla posizione iniziale.",
+      "Ripeti il movimento con il braccio opposto.",
+      "Continuare ad alternare le braccia per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız yere düz basacak ve sırtınız düz olacak şekilde bir egzersiz topunun üzerine oturun.",
+      "Avuç içleriniz vücudunuza bakacak ve kollarınız tamamen uzatılmış şekilde her elinizde bir dambıl tutun.",
+      "Üst kollarınızı sabit tutarak nefes verin ve bir dambılı omzunuza doğru kıvırırken avucunuzu vücudunuza doğru tutun.",
+      "Bisepsleriniz tamamen kasılana ve dambıl omuz hizasına gelene kadar dambılı kaldırmaya devam edin.",
+      "Bicepslerinizi sıkarken kasılmış pozisyonu kısa bir süre koruyun.",
+      "Nefes alın ve dambılı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "Hareketi karşı kolla tekrarlayın.",
+      "İstenilen sayıda tekrar için kolları değiştirerek devam edin."
+    ],
+    "es": [
+      "Siéntate sobre un balón de ejercicio con los pies apoyados planos en el suelo y la espalda recta.",
+      "Sostén una mancuerna en cada mano con las palmas hacia el cuerpo y los brazos completamente extendidos.",
+      "Manteniendo la parte superior de los brazos fija, exhala y flexiona una mancuerna hacia el hombro mientras mantienes la palma hacia tu cuerpo.",
+      "Continúa levantando la mancuerna hasta que el bíceps esté completamente contraído y la mancuerna esté a la altura del hombro.",
+      "Mantén la posición contraída durante una breve pausa mientras aprietas los bíceps.",
+      "Inhala y baja lentamente la mancuerna de vuelta a la posición inicial.",
+      "Repite el movimiento con el brazo contrario.",
+      "Continúa alternando los brazos durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на гимнастический мяч, поставив ноги на землю и выпрямив спину.",
+      "Возьмите по гантели в каждую руку ладонями к телу и полностью выпрямленными руками.",
+      "Удерживая плечи неподвижно, выдохните и согните одну гантель к плечу, держа ладонь к телу.",
+      "Продолжайте поднимать гантель до тех пор, пока ваши бицепсы полностью не сократятся и гантель не окажется на уровне плеч.",
+      "Задержитесь в сокращенном положении на короткую паузу, одновременно сжимая бицепсы.",
+      "Вдохните и медленно опустите гантель обратно в исходное положение.",
+      "Повторите движение противоположной рукой.",
+      "Продолжайте чередовать руки желаемое количество повторений."
+    ],
+    "zh": [
+      "坐在健身球上，双脚平放在地上，背部挺直。",
+      "每只手握住一个哑铃，手掌朝向身体，双臂完全伸展。",
+      "保持上臂静止，呼气并将一只哑铃向上弯向肩膀，同时保持手掌朝向身体。",
+      "继续举起哑铃，直到二头肌完全收缩并且哑铃与肩部齐平。",
+      "挤压二头肌时，保持收缩位置短暂停顿。",
+      "吸气，慢慢将哑铃放回起始位置。",
+      "用另一只手臂重复该动作。",
+      "继续交替手臂进行所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को ज़मीन पर सपाट और अपनी पीठ को सीधा रखते हुए एक व्यायाम बॉल पर बैठें।",
+      "अपनी हथेलियों को अपने शरीर की ओर रखते हुए और अपनी बाहों को पूरी तरह फैलाकर प्रत्येक हाथ में एक डम्बल पकड़ें।",
+      "अपनी ऊपरी भुजाओं को स्थिर रखते हुए, सांस छोड़ें और अपनी हथेली को अपने शरीर की ओर रखते हुए एक डम्बल को अपने कंधे की ओर मोड़ें।",
+      "डंबल को तब तक उठाना जारी रखें जब तक कि आपके बाइसेप्स पूरी तरह से सिकुड़ न जाएं और डंबल कंधे के स्तर पर न आ जाए।",
+      "जब आप अपने बाइसेप्स को निचोड़ते हैं तो थोड़ी देर के लिए अनुबंधित स्थिति में रहें।",
+      "श्वास लें और धीरे-धीरे डम्बल को प्रारंभिक स्थिति में वापस लाएँ।",
+      "विपरीत भुजा से भी यही क्रिया दोहराएँ।",
+      "दोहराव की वांछित संख्या के लिए भुजाओं को बारी-बारी से जारी रखें।"
+    ],
+    "pl": [
+      "Usiądź na piłce gimnastycznej, stopy oprzyj płasko na podłodze, a plecy trzymaj proste.",
+      "Trzymaj w każdej dłoni hantlę, dłonie skierowane w stronę ciała, ręce w pełni wyprostowane.",
+      "Utrzymując nieruchome ramiona, wykonaj wydech i unieś jedną hantlę w stronę barku, trzymając dłoń skierowaną w stronę ciała.",
+      "Unoś hantlę, aż biceps będzie maksymalnie napięty, a hantla znajdzie się na wysokości barku.",
+      "Zatrzymaj się na chwilę w napiętej pozycji, ściskając biceps.",
+      "Wykonaj wdech i powoli opuść hantlę z powrotem do pozycji wyjściowej.",
+      "Powtórz ruch przeciwną ręką.",
+      "Kontynuuj naprzemienne wykonywanie ćwiczenia przez zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "운동공에 앉아 발을 땅에 댄 채 등을 곧게 펼친다.",
+      "양손에 덤벨을 들되 손바닥이 몸을 향하고 팔을 완전히 펼친다.",
+      "위팔을 고정한 채 숨을 내쉬면서 한쪽 덤벨을 어깨 쪽으로 위로 올리되 손바닥이 몸을 향하도록 유지한다.",
+      "이두근이 완전히 수축되고 덤벨이 어깨 높이에 올 때까지 계속 올린다.",
+      "수축된 위치에서 잠깐 멈추면서 이두근을 조인다.",
+      "숨을 들이쉬면서 천천히 덤벨을 시작 위치로 낮춘다.",
+      "반대쪽 팔로 같은 동작을 반복한다.",
+      "양팔을 교대로 반복하며 원하는 반복 횟수만큼 계속 수행합니다."
+    ],
+    "fr": [
+      "Assieds-toi sur un ballon d'exercice, les pieds à plat sur le sol et le dos droit.",
+      "Tiens un haltère dans chaque main, les paumes tournées vers ton corps et les bras complètement étendus.",
+      "En gardant le haut des bras immobile, expire et fléchis un haltère vers ton épaule en gardant ta paume tournée vers ton corps.",
+      "Continue à lever l'haltère jusqu'à ce que ton biceps soit complètement contracté et que l'haltère soit à hauteur d'épaule.",
+      "Maintiens la position contractée pendant une brève pause en contractant tes biceps.",
+      "Inspire et abaisse lentement l'haltère jusqu'à la position de départ.",
+      "Répète le mouvement avec le bras opposé.",
+      "Continue à alterner les bras pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "forearms",
+  "secondary_muscles": [
+    "forearms"
+  ],
+  "target": "biceps",
+  "image": "images/1676-QLRmNeT.jpg",
+  "gif_url": "videos/1676-QLRmNeT.gif",
+  "media_id": "QLRmNeT",
+  "created_at": "2026-03-18T12:31:32.881026+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,1692 @@
+[
+  {
+    "id": "0001",
+    "name": "3/4 sit-up",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0001-2gPfomN.jpg",
+    "gif_url": "videos/0001-2gPfomN.gif"
+  },
+  {
+    "id": "0002",
+    "name": "45° side bend",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0002-Hy9D21L.jpg",
+    "gif_url": "videos/0002-Hy9D21L.gif"
+  },
+  {
+    "id": "0003",
+    "name": "air bike",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0003-1ZFqTDN.jpg",
+    "gif_url": "videos/0003-1ZFqTDN.gif"
+  },
+  {
+    "id": "0006",
+    "name": "alternate heel touchers",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0006-qaZVsGk.jpg",
+    "gif_url": "videos/0006-qaZVsGk.gif"
+  },
+  {
+    "id": "2355",
+    "name": "arm slingers hanging bent knee legs",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/2355-uWpxD4v.jpg",
+    "gif_url": "videos/2355-uWpxD4v.gif"
+  },
+  {
+    "id": "2333",
+    "name": "arm slingers hanging straight legs",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/2333-PXTIwgu.jpg",
+    "gif_url": "videos/2333-PXTIwgu.gif"
+  },
+  {
+    "id": "3204",
+    "name": "arms overhead full sit-up (male)",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/3204-NAkmgdx.jpg",
+    "gif_url": "videos/3204-NAkmgdx.gif"
+  },
+  {
+    "id": "0011",
+    "name": "assisted hanging knee raise",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "assisted",
+    "target": "abs",
+    "image": "images/0011-03lzqwk.jpg",
+    "gif_url": "videos/0011-03lzqwk.gif"
+  },
+  {
+    "id": "0010",
+    "name": "assisted hanging knee raise with throw down",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "assisted",
+    "target": "abs",
+    "image": "images/0010-8K0w2yA.jpg",
+    "gif_url": "videos/0010-8K0w2yA.gif"
+  },
+  {
+    "id": "0012",
+    "name": "assisted lying leg raise with lateral throw down",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "assisted",
+    "target": "abs",
+    "image": "images/0012-UGhRD1A.jpg",
+    "gif_url": "videos/0012-UGhRD1A.gif"
+  },
+  {
+    "id": "0013",
+    "name": "assisted lying leg raise with throw down",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "assisted",
+    "target": "abs",
+    "image": "images/0013-VX5YKR5.jpg",
+    "gif_url": "videos/0013-VX5YKR5.gif"
+  },
+  {
+    "id": "0014",
+    "name": "assisted motion russian twist",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "medicine ball",
+    "target": "abs",
+    "image": "images/0014-r7cT9YD.jpg",
+    "gif_url": "videos/0014-r7cT9YD.gif"
+  },
+  {
+    "id": "1714",
+    "name": "assisted prone rectus femoris stretch",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "assisted",
+    "target": "abs",
+    "image": "images/1714-2Ryn564.jpg",
+    "gif_url": "videos/1714-2Ryn564.gif"
+  },
+  {
+    "id": "1758",
+    "name": "assisted sit-up",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "assisted",
+    "target": "abs",
+    "image": "images/1758-aumB2IV.jpg",
+    "gif_url": "videos/1758-aumB2IV.gif"
+  },
+  {
+    "id": "0969",
+    "name": "band alternating v-up",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "band",
+    "target": "abs",
+    "image": "images/0969-ztAa1RK.jpg",
+    "gif_url": "videos/0969-ztAa1RK.gif"
+  },
+  {
+    "id": "0971",
+    "name": "band assisted wheel rollerout",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "band",
+    "target": "abs",
+    "image": "images/0971-zhF9lW4.jpg",
+    "gif_url": "videos/0971-zhF9lW4.gif"
+  },
+  {
+    "id": "0972",
+    "name": "band bicycle crunch",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "band",
+    "target": "abs",
+    "image": "images/0972-tZkGYZ9.jpg",
+    "gif_url": "videos/0972-tZkGYZ9.gif"
+  },
+  {
+    "id": "0979",
+    "name": "band horizontal pallof press",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "band",
+    "target": "abs",
+    "image": "images/0979-9pa4H5m.jpg",
+    "gif_url": "videos/0979-9pa4H5m.gif"
+  },
+  {
+    "id": "0981",
+    "name": "band jack knife sit-up",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "band",
+    "target": "abs",
+    "image": "images/0981-KCBKjma.jpg",
+    "gif_url": "videos/0981-KCBKjma.gif"
+  },
+  {
+    "id": "0985",
+    "name": "band kneeling twisting crunch",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "band",
+    "target": "abs",
+    "image": "images/0985-225x2Vd.jpg",
+    "gif_url": "videos/0985-225x2Vd.gif"
+  },
+  {
+    "id": "1002",
+    "name": "band lying straight leg raise",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "band",
+    "target": "abs",
+    "image": "images/1002-bbLR7fB.jpg",
+    "gif_url": "videos/1002-bbLR7fB.gif"
+  },
+  {
+    "id": "0992",
+    "name": "band push sit-up",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "band",
+    "target": "abs",
+    "image": "images/0992-zFzbBfL.jpg",
+    "gif_url": "videos/0992-zFzbBfL.gif"
+  },
+  {
+    "id": "1011",
+    "name": "band seated twist",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "band",
+    "target": "abs",
+    "image": "images/1011-S1JXDAG.jpg",
+    "gif_url": "videos/1011-S1JXDAG.gif"
+  },
+  {
+    "id": "1005",
+    "name": "band standing crunch",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "band",
+    "target": "abs",
+    "image": "images/1005-Kzg30R7.jpg",
+    "gif_url": "videos/1005-Kzg30R7.gif"
+  },
+  {
+    "id": "1007",
+    "name": "band standing twisting crunch",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "band",
+    "target": "abs",
+    "image": "images/1007-euq4pwp.jpg",
+    "gif_url": "videos/1007-euq4pwp.gif"
+  },
+  {
+    "id": "1014",
+    "name": "band v-up",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "band",
+    "target": "abs",
+    "image": "images/1014-H6ETwO9.jpg",
+    "gif_url": "videos/1014-H6ETwO9.gif"
+  },
+  {
+    "id": "1015",
+    "name": "band vertical pallof press",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "band",
+    "target": "abs",
+    "image": "images/1015-G7PXMlT.jpg",
+    "gif_url": "videos/1015-G7PXMlT.gif"
+  },
+  {
+    "id": "0071",
+    "name": "barbell press sit-up",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "barbell",
+    "target": "abs",
+    "image": "images/0071-wnEscH8.jpg",
+    "gif_url": "videos/0071-wnEscH8.gif"
+  },
+  {
+    "id": "0084",
+    "name": "barbell rollerout",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "barbell",
+    "target": "abs",
+    "image": "images/0084-7M66AVi.jpg",
+    "gif_url": "videos/0084-7M66AVi.gif"
+  },
+  {
+    "id": "0083",
+    "name": "barbell rollerout from bench",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "barbell",
+    "target": "abs",
+    "image": "images/0083-Gxg9lDc.jpg",
+    "gif_url": "videos/0083-Gxg9lDc.gif"
+  },
+  {
+    "id": "0094",
+    "name": "barbell seated twist",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "barbell",
+    "target": "abs",
+    "image": "images/0094-dFSNDOA.jpg",
+    "gif_url": "videos/0094-dFSNDOA.gif"
+  },
+  {
+    "id": "0096",
+    "name": "barbell side bent v. 2",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "barbell",
+    "target": "abs",
+    "image": "images/0096-i4JkUaL.jpg",
+    "gif_url": "videos/0096-i4JkUaL.gif"
+  },
+  {
+    "id": "2799",
+    "name": "barbell sitted alternate leg raise",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "barbell",
+    "target": "abs",
+    "image": "images/2799-G7xoEzr.jpg",
+    "gif_url": "videos/2799-G7xoEzr.gif"
+  },
+  {
+    "id": "2800",
+    "name": "barbell sitted alternate leg raise (female)",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "barbell",
+    "target": "abs",
+    "image": "images/2800-BCs0G2F.jpg",
+    "gif_url": "videos/2800-BCs0G2F.gif"
+  },
+  {
+    "id": "0103",
+    "name": "barbell standing ab rollerout",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "barbell",
+    "target": "abs",
+    "image": "images/0103-xnInPfE.jpg",
+    "gif_url": "videos/0103-xnInPfE.gif"
+  },
+  {
+    "id": "0112",
+    "name": "barbell standing twist",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "barbell",
+    "target": "abs",
+    "image": "images/0112-yQe5HpE.jpg",
+    "gif_url": "videos/0112-yQe5HpE.gif"
+  },
+  {
+    "id": "3544",
+    "name": "bodyweight incline side plank",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/3544-5VXmnV5.jpg",
+    "gif_url": "videos/3544-5VXmnV5.gif"
+  },
+  {
+    "id": "0138",
+    "name": "bottoms-up",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0138-CI6baTY.jpg",
+    "gif_url": "videos/0138-CI6baTY.gif"
+  },
+  {
+    "id": "2466",
+    "name": "bridge - mountain climber (cross body)",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/2466-9c6T1YX.jpg",
+    "gif_url": "videos/2466-9c6T1YX.gif"
+  },
+  {
+    "id": "0870",
+    "name": "butt-ups",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0870-qcNN2FN.jpg",
+    "gif_url": "videos/0870-qcNN2FN.gif"
+  },
+  {
+    "id": "0174",
+    "name": "cable judo flip",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "cable",
+    "target": "abs",
+    "image": "images/0174-MvQPqVW.jpg",
+    "gif_url": "videos/0174-MvQPqVW.gif"
+  },
+  {
+    "id": "0175",
+    "name": "cable kneeling crunch",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "cable",
+    "target": "abs",
+    "image": "images/0175-WW95auq.jpg",
+    "gif_url": "videos/0175-WW95auq.gif"
+  },
+  {
+    "id": "0873",
+    "name": "cable reverse crunch",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "cable",
+    "target": "abs",
+    "image": "images/0873-RqOtqD7.jpg",
+    "gif_url": "videos/0873-RqOtqD7.gif"
+  },
+  {
+    "id": "0211",
+    "name": "cable russian twists (on stability ball)",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "cable",
+    "target": "abs",
+    "image": "images/0211-d9Xaxq6.jpg",
+    "gif_url": "videos/0211-d9Xaxq6.gif"
+  },
+  {
+    "id": "0212",
+    "name": "cable seated crunch",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "cable",
+    "target": "abs",
+    "image": "images/0212-8xUv4J7.jpg",
+    "gif_url": "videos/0212-8xUv4J7.gif"
+  },
+  {
+    "id": "2399",
+    "name": "cable seated twist",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "cable",
+    "target": "abs",
+    "image": "images/2399-UEjSrKI.jpg",
+    "gif_url": "videos/2399-UEjSrKI.gif"
+  },
+  {
+    "id": "0222",
+    "name": "cable side bend",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "cable",
+    "target": "abs",
+    "image": "images/0222-wPypxFY.jpg",
+    "gif_url": "videos/0222-wPypxFY.gif"
+  },
+  {
+    "id": "0221",
+    "name": "cable side bend crunch (bosu ball)",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "cable",
+    "target": "abs",
+    "image": "images/0221-qatbkEd.jpg",
+    "gif_url": "videos/0221-qatbkEd.gif"
+  },
+  {
+    "id": "0223",
+    "name": "cable side crunch",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "cable",
+    "target": "abs",
+    "image": "images/0223-q2ADGqV.jpg",
+    "gif_url": "videos/0223-q2ADGqV.gif"
+  },
+  {
+    "id": "0226",
+    "name": "cable standing crunch",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "cable",
+    "target": "abs",
+    "image": "images/0226-jpgqxiS.jpg",
+    "gif_url": "videos/0226-jpgqxiS.gif"
+  },
+  {
+    "id": "0874",
+    "name": "cable standing crunch (with rope attachment)",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "cable",
+    "target": "abs",
+    "image": "images/0874-XU3ePuv.jpg",
+    "gif_url": "videos/0874-XU3ePuv.gif"
+  },
+  {
+    "id": "0230",
+    "name": "cable standing lift",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "cable",
+    "target": "abs",
+    "image": "images/0230-qFpAkpP.jpg",
+    "gif_url": "videos/0230-qFpAkpP.gif"
+  },
+  {
+    "id": "0242",
+    "name": "cable tuck reverse crunch",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "cable",
+    "target": "abs",
+    "image": "images/0242-TXtXc84.jpg",
+    "gif_url": "videos/0242-TXtXc84.gif"
+  },
+  {
+    "id": "0243",
+    "name": "cable twist",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "cable",
+    "target": "abs",
+    "image": "images/0243-aVs3BR3.jpg",
+    "gif_url": "videos/0243-aVs3BR3.gif"
+  },
+  {
+    "id": "0862",
+    "name": "cable twist (up-down)",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "cable",
+    "target": "abs",
+    "image": "images/0862-fhZQPlV.jpg",
+    "gif_url": "videos/0862-fhZQPlV.gif"
+  },
+  {
+    "id": "2963",
+    "name": "captains chair straight leg raise",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/2963-weoDEpH.jpg",
+    "gif_url": "videos/2963-weoDEpH.gif"
+  },
+  {
+    "id": "0260",
+    "name": "cocoons",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0260-SLKj2pX.jpg",
+    "gif_url": "videos/0260-SLKj2pX.gif"
+  },
+  {
+    "id": "1468",
+    "name": "crab twist toe touch",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/1468-xgsGFVM.jpg",
+    "gif_url": "videos/1468-xgsGFVM.gif"
+  },
+  {
+    "id": "0262",
+    "name": "cross body crunch",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0262-rbu5UUb.jpg",
+    "gif_url": "videos/0262-rbu5UUb.gif"
+  },
+  {
+    "id": "0267",
+    "name": "crunch (hands overhead)",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0267-kjJ3VoQ.jpg",
+    "gif_url": "videos/0267-kjJ3VoQ.gif"
+  },
+  {
+    "id": "0271",
+    "name": "crunch (on stability ball)",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "stability ball",
+    "target": "abs",
+    "image": "images/0271-MCUhf1F.jpg",
+    "gif_url": "videos/0271-MCUhf1F.gif"
+  },
+  {
+    "id": "0272",
+    "name": "crunch (on stability ball, arms straight)",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "stability ball",
+    "target": "abs",
+    "image": "images/0272-Sn8wxAI.jpg",
+    "gif_url": "videos/0272-Sn8wxAI.gif"
+  },
+  {
+    "id": "0274",
+    "name": "crunch floor",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0274-TFqbd8t.jpg",
+    "gif_url": "videos/0274-TFqbd8t.gif"
+  },
+  {
+    "id": "3016",
+    "name": "curl-up",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/3016-g2oKspu.jpg",
+    "gif_url": "videos/3016-g2oKspu.gif"
+  },
+  {
+    "id": "0276",
+    "name": "dead bug",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0276-iny3m5y.jpg",
+    "gif_url": "videos/0276-iny3m5y.gif"
+  },
+  {
+    "id": "0277",
+    "name": "decline crunch",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0277-9Ap7miY.jpg",
+    "gif_url": "videos/0277-9Ap7miY.gif"
+  },
+  {
+    "id": "0282",
+    "name": "decline sit-up",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0282-QLL2gdc.jpg",
+    "gif_url": "videos/0282-QLL2gdc.gif"
+  },
+  {
+    "id": "0407",
+    "name": "dumbbell side bend",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "dumbbell",
+    "target": "abs",
+    "image": "images/0407-IpONWYv.jpg",
+    "gif_url": "videos/0407-IpONWYv.gif"
+  },
+  {
+    "id": "0443",
+    "name": "elbow-to-knee",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0443-jvp6DiD.jpg",
+    "gif_url": "videos/0443-jvp6DiD.gif"
+  },
+  {
+    "id": "3303",
+    "name": "flag",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/3303-pQ0Mx1Z.jpg",
+    "gif_url": "videos/3303-pQ0Mx1Z.gif"
+  },
+  {
+    "id": "0456",
+    "name": "flexion leg sit up (bent knee)",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0456-AR0ig3o.jpg",
+    "gif_url": "videos/0456-AR0ig3o.gif"
+  },
+  {
+    "id": "0457",
+    "name": "flexion leg sit up (straight arm)",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0457-KZn52RC.jpg",
+    "gif_url": "videos/0457-KZn52RC.gif"
+  },
+  {
+    "id": "2429",
+    "name": "frog crunch",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/2429-FFRP97T.jpg",
+    "gif_url": "videos/2429-FFRP97T.gif"
+  },
+  {
+    "id": "3301",
+    "name": "frog planche",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/3301-rQhGcin.jpg",
+    "gif_url": "videos/3301-rQhGcin.gif"
+  },
+  {
+    "id": "3296",
+    "name": "front lever",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/3296-PkCN2lv.jpg",
+    "gif_url": "videos/3296-PkCN2lv.gif"
+  },
+  {
+    "id": "0464",
+    "name": "front plank with twist",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0464-CosupLu.jpg",
+    "gif_url": "videos/0464-CosupLu.gif"
+  },
+  {
+    "id": "3315",
+    "name": "full maltese",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/3315-YRaCa5Y.jpg",
+    "gif_url": "videos/3315-YRaCa5Y.gif"
+  },
+  {
+    "id": "3299",
+    "name": "full planche",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/3299-YZ4961r.jpg",
+    "gif_url": "videos/3299-YZ4961r.gif"
+  },
+  {
+    "id": "0467",
+    "name": "gorilla chin",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0467-bmwlYvD.jpg",
+    "gif_url": "videos/0467-bmwlYvD.gif"
+  },
+  {
+    "id": "0469",
+    "name": "groin crunch",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0469-mWppALS.jpg",
+    "gif_url": "videos/0469-mWppALS.gif"
+  },
+  {
+    "id": "3202",
+    "name": "half sit-up (male)",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/3202-iQ241UP.jpg",
+    "gif_url": "videos/3202-iQ241UP.gif"
+  },
+  {
+    "id": "1764",
+    "name": "hanging leg hip raise",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/1764-VEcJRo2.jpg",
+    "gif_url": "videos/1764-VEcJRo2.gif"
+  },
+  {
+    "id": "0472",
+    "name": "hanging leg raise",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0472-I3tsCnC.jpg",
+    "gif_url": "videos/0472-I3tsCnC.gif"
+  },
+  {
+    "id": "1761",
+    "name": "hanging oblique knee raise",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/1761-BaE7O6U.jpg",
+    "gif_url": "videos/1761-BaE7O6U.gif"
+  },
+  {
+    "id": "0473",
+    "name": "hanging pike",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0473-nuBF9MO.jpg",
+    "gif_url": "videos/0473-nuBF9MO.gif"
+  },
+  {
+    "id": "0474",
+    "name": "hanging straight leg hip raise",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0474-pj0X0tF.jpg",
+    "gif_url": "videos/0474-pj0X0tF.gif"
+  },
+  {
+    "id": "0475",
+    "name": "hanging straight leg raise",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0475-4Ml7QFO.jpg",
+    "gif_url": "videos/0475-4Ml7QFO.gif"
+  },
+  {
+    "id": "0476",
+    "name": "hanging straight twisting leg hip raise",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0476-Q6bvyen.jpg",
+    "gif_url": "videos/0476-Q6bvyen.gif"
+  },
+  {
+    "id": "0484",
+    "name": "hip raise (bent knee)",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0484-196HJGw.jpg",
+    "gif_url": "videos/0484-196HJGw.gif"
+  },
+  {
+    "id": "1471",
+    "name": "inchworm",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/1471-ZgsNQ6d.jpg",
+    "gif_url": "videos/1471-ZgsNQ6d.gif"
+  },
+  {
+    "id": "3698",
+    "name": "inchworm v. 2",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/3698-TV87DNB.jpg",
+    "gif_url": "videos/3698-TV87DNB.gif"
+  },
+  {
+    "id": "0491",
+    "name": "incline leg hip raise (leg straight)",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0491-eVxAzgz.jpg",
+    "gif_url": "videos/0491-eVxAzgz.gif"
+  },
+  {
+    "id": "0495",
+    "name": "incline twisting sit-up",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0495-9ZGZuOD.jpg",
+    "gif_url": "videos/0495-9ZGZuOD.gif"
+  },
+  {
+    "id": "0507",
+    "name": "jackknife sit-up",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0507-mbkgB44.jpg",
+    "gif_url": "videos/0507-mbkgB44.gif"
+  },
+  {
+    "id": "0508",
+    "name": "janda sit-up",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0508-1GPHRyK.jpg",
+    "gif_url": "videos/0508-1GPHRyK.gif"
+  },
+  {
+    "id": "0517",
+    "name": "kettlebell advanced windmill",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "kettlebell",
+    "target": "abs",
+    "image": "images/0517-Kal9cQQ.jpg",
+    "gif_url": "videos/0517-Kal9cQQ.gif"
+  },
+  {
+    "id": "0524",
+    "name": "kettlebell bent press",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "kettlebell",
+    "target": "abs",
+    "image": "images/0524-kjE55n5.jpg",
+    "gif_url": "videos/0524-kjE55n5.gif"
+  },
+  {
+    "id": "0530",
+    "name": "kettlebell double windmill",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "kettlebell",
+    "target": "abs",
+    "image": "images/0530-OaE7CpD.jpg",
+    "gif_url": "videos/0530-OaE7CpD.gif"
+  },
+  {
+    "id": "0532",
+    "name": "kettlebell figure 8",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "kettlebell",
+    "target": "abs",
+    "image": "images/0532-L4ay0PW.jpg",
+    "gif_url": "videos/0532-L4ay0PW.gif"
+  },
+  {
+    "id": "0554",
+    "name": "kettlebell windmill",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "kettlebell",
+    "target": "abs",
+    "image": "images/0554-9Tkqa9O.jpg",
+    "gif_url": "videos/0554-9Tkqa9O.gif"
+  },
+  {
+    "id": "3640",
+    "name": "knee touch crunch",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/3640-dTg95eZ.jpg",
+    "gif_url": "videos/3640-dTg95eZ.gif"
+  },
+  {
+    "id": "3239",
+    "name": "kneeling plank tap shoulder (male)",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/3239-h1ezqSu.jpg",
+    "gif_url": "videos/3239-h1ezqSu.gif"
+  },
+  {
+    "id": "3419",
+    "name": "l-sit on floor",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/3419-UpWmA5E.jpg",
+    "gif_url": "videos/3419-UpWmA5E.gif"
+  },
+  {
+    "id": "0562",
+    "name": "landmine 180",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "barbell",
+    "target": "abs",
+    "image": "images/0562-QYysSLV.jpg",
+    "gif_url": "videos/0562-QYysSLV.gif"
+  },
+  {
+    "id": "3300",
+    "name": "lean planche",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/3300-LYJodFS.jpg",
+    "gif_url": "videos/3300-LYJodFS.gif"
+  },
+  {
+    "id": "0570",
+    "name": "leg pull in flat bench",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0570-OyoZ3Pu.jpg",
+    "gif_url": "videos/0570-OyoZ3Pu.gif"
+  },
+  {
+    "id": "0583",
+    "name": "lever kneeling twist",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "leverage machine",
+    "target": "abs",
+    "image": "images/0583-sZOR9EV.jpg",
+    "gif_url": "videos/0583-sZOR9EV.gif"
+  },
+  {
+    "id": "1452",
+    "name": "lever seated crunch",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "leverage machine",
+    "target": "abs",
+    "image": "images/1452-Wgaz7pm.jpg",
+    "gif_url": "videos/1452-Wgaz7pm.gif"
+  },
+  {
+    "id": "0595",
+    "name": "lever seated crunch (chest pad)",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "leverage machine",
+    "target": "abs",
+    "image": "images/0595-ZnJHhMk.jpg",
+    "gif_url": "videos/0595-ZnJHhMk.gif"
+  },
+  {
+    "id": "3760",
+    "name": "lever seated crunch v. 2",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "leverage machine",
+    "target": "abs",
+    "image": "images/3760-eXFXCY0.jpg",
+    "gif_url": "videos/3760-eXFXCY0.gif"
+  },
+  {
+    "id": "0600",
+    "name": "lever seated leg raise crunch",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "leverage machine",
+    "target": "abs",
+    "image": "images/0600-PQ2AtC3.jpg",
+    "gif_url": "videos/0600-PQ2AtC3.gif"
+  },
+  {
+    "id": "1688",
+    "name": "lunge with twist",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/1688-K9VL0Jq.jpg",
+    "gif_url": "videos/1688-K9VL0Jq.gif"
+  },
+  {
+    "id": "2312",
+    "name": "lying elbow to knee",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/2312-AQIhRjM.jpg",
+    "gif_url": "videos/2312-AQIhRjM.gif"
+  },
+  {
+    "id": "0620",
+    "name": "lying leg raise flat bench",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0620-WhuFnR7.jpg",
+    "gif_url": "videos/0620-WhuFnR7.gif"
+  },
+  {
+    "id": "0865",
+    "name": "lying leg-hip raise",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0865-9IxJdtC.jpg",
+    "gif_url": "videos/0865-9IxJdtC.gif"
+  },
+  {
+    "id": "0634",
+    "name": "negative crunch",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0634-szIn2UK.jpg",
+    "gif_url": "videos/0634-szIn2UK.gif"
+  },
+  {
+    "id": "1495",
+    "name": "oblique crunch v. 2",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/1495-cJgSTmh.jpg",
+    "gif_url": "videos/1495-cJgSTmh.gif"
+  },
+  {
+    "id": "0635",
+    "name": "oblique crunches floor",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0635-QUDd8WS.jpg",
+    "gif_url": "videos/0635-QUDd8WS.gif"
+  },
+  {
+    "id": "0640",
+    "name": "one arm slam (with medicine ball)",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "medicine ball",
+    "target": "abs",
+    "image": "images/0640-jCrtE9b.jpg",
+    "gif_url": "videos/0640-jCrtE9b.gif"
+  },
+  {
+    "id": "0641",
+    "name": "otis up",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "weighted",
+    "target": "abs",
+    "image": "images/0641-UVL20oz.jpg",
+    "gif_url": "videos/0641-UVL20oz.gif"
+  },
+  {
+    "id": "3147",
+    "name": "pelvic tilt",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/3147-NKJ8o6x.jpg",
+    "gif_url": "videos/3147-NKJ8o6x.gif"
+  },
+  {
+    "id": "1687",
+    "name": "posterior step to overhead reach",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/1687-ErqK3UL.jpg",
+    "gif_url": "videos/1687-ErqK3UL.gif"
+  },
+  {
+    "id": "3119",
+    "name": "potty squat",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/3119-75Bgtjy.jpg",
+    "gif_url": "videos/3119-75Bgtjy.gif"
+  },
+  {
+    "id": "3665",
+    "name": "power point plank",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/3665-hCjGsRQ.jpg",
+    "gif_url": "videos/3665-hCjGsRQ.gif"
+  },
+  {
+    "id": "3203",
+    "name": "prisoner half sit-up (male)",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/3203-mgejmGP.jpg",
+    "gif_url": "videos/3203-mgejmGP.gif"
+  },
+  {
+    "id": "1707",
+    "name": "prone twist on stability ball",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "stability ball",
+    "target": "abs",
+    "image": "images/1707-1IG6gVF.jpg",
+    "gif_url": "videos/1707-1IG6gVF.gif"
+  },
+  {
+    "id": "0650",
+    "name": "pull-in (on stability ball)",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "stability ball",
+    "target": "abs",
+    "image": "images/0650-UQr48Oi.jpg",
+    "gif_url": "videos/0650-UQr48Oi.gif"
+  },
+  {
+    "id": "0664",
+    "name": "push-up to side plank",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0664-KhHJ338.jpg",
+    "gif_url": "videos/0664-KhHJ338.gif"
+  },
+  {
+    "id": "3201",
+    "name": "quarter sit-up",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/3201-enxnJcM.jpg",
+    "gif_url": "videos/3201-enxnJcM.gif"
+  },
+  {
+    "id": "0872",
+    "name": "reverse crunch",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0872-nCU1Ekp.jpg",
+    "gif_url": "videos/0872-nCU1Ekp.gif"
+  },
+  {
+    "id": "3663",
+    "name": "reverse plank with leg lift",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/3663-tFToB7l.jpg",
+    "gif_url": "videos/3663-tFToB7l.gif"
+  },
+  {
+    "id": "2204",
+    "name": "roller body saw",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "roller",
+    "target": "abs",
+    "image": "images/2204-XeMvLgE.jpg",
+    "gif_url": "videos/2204-XeMvLgE.gif"
+  },
+  {
+    "id": "2206",
+    "name": "roller reverse crunch",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "roller",
+    "target": "abs",
+    "image": "images/2206-SKXQAx3.jpg",
+    "gif_url": "videos/2206-SKXQAx3.gif"
+  },
+  {
+    "id": "0687",
+    "name": "russian twist",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0687-XVDdcoj.jpg",
+    "gif_url": "videos/0687-XVDdcoj.gif"
+  },
+  {
+    "id": "0689",
+    "name": "seated leg raise",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0689-Hgs6Nl1.jpg",
+    "gif_url": "videos/0689-Hgs6Nl1.gif"
+  },
+  {
+    "id": "0691",
+    "name": "seated side crunch (wall)",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0691-Y9hNPcN.jpg",
+    "gif_url": "videos/0691-Y9hNPcN.gif"
+  },
+  {
+    "id": "3699",
+    "name": "shoulder tap",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/3699-yRpV5TC.jpg",
+    "gif_url": "videos/3699-yRpV5TC.gif"
+  },
+  {
+    "id": "0705",
+    "name": "side bridge v. 2",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0705-RKjH6Lt.jpg",
+    "gif_url": "videos/0705-RKjH6Lt.gif"
+  },
+  {
+    "id": "0709",
+    "name": "side hip (on parallel bars)",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0709-jTkSc6o.jpg",
+    "gif_url": "videos/0709-jTkSc6o.gif"
+  },
+  {
+    "id": "3213",
+    "name": "side-to-side toe touch (male)",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/3213-WCAvOfC.jpg",
+    "gif_url": "videos/3213-WCAvOfC.gif"
+  },
+  {
+    "id": "0735",
+    "name": "sit-up v. 2",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0735-Bn6TXyO.jpg",
+    "gif_url": "videos/0735-Bn6TXyO.gif"
+  },
+  {
+    "id": "3679",
+    "name": "sit-up with arms on chest",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/3679-6ZCiYWQ.jpg",
+    "gif_url": "videos/3679-6ZCiYWQ.gif"
+  },
+  {
+    "id": "1496",
+    "name": "sledge hammer",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "hammer",
+    "target": "abs",
+    "image": "images/1496-REXmfVC.jpg",
+    "gif_url": "videos/1496-REXmfVC.gif"
+  },
+  {
+    "id": "0756",
+    "name": "smith hip raise",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "smith machine",
+    "target": "abs",
+    "image": "images/0756-CqhoytW.jpg",
+    "gif_url": "videos/0756-CqhoytW.gif"
+  },
+  {
+    "id": "0777",
+    "name": "spell caster",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "dumbbell",
+    "target": "abs",
+    "image": "images/0777-p9cCe2r.jpg",
+    "gif_url": "videos/0777-p9cCe2r.gif"
+  },
+  {
+    "id": "2329",
+    "name": "spine twist",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/2329-2jl9K55.jpg",
+    "gif_url": "videos/2329-2jl9K55.gif"
+  },
+  {
+    "id": "2297",
+    "name": "stability ball crunch (full range hands behind head)",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "stability ball",
+    "target": "abs",
+    "image": "images/2297-Gn5FwYT.jpg",
+    "gif_url": "videos/2297-Gn5FwYT.gif"
+  },
+  {
+    "id": "0796",
+    "name": "standing wheel rollerout",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "wheel roller",
+    "target": "abs",
+    "image": "images/0796-KtRomty.jpg",
+    "gif_url": "videos/0796-KtRomty.gif"
+  },
+  {
+    "id": "3314",
+    "name": "straddle maltese",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/3314-HfqciZF.jpg",
+    "gif_url": "videos/3314-HfqciZF.gif"
+  },
+  {
+    "id": "3298",
+    "name": "straddle planche",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/3298-BL3GHeY.jpg",
+    "gif_url": "videos/3298-BL3GHeY.gif"
+  },
+  {
+    "id": "0805",
+    "name": "suspended abdominal fallout",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0805-X3TCNEU.jpg",
+    "gif_url": "videos/0805-X3TCNEU.gif"
+  },
+  {
+    "id": "0807",
+    "name": "suspended reverse crunch",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0807-R1WYG5D.jpg",
+    "gif_url": "videos/0807-R1WYG5D.gif"
+  },
+  {
+    "id": "0871",
+    "name": "tuck crunch",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0871-BMMolZ3.jpg",
+    "gif_url": "videos/0871-BMMolZ3.gif"
+  },
+  {
+    "id": "2802",
+    "name": "twisted leg raise",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/2802-C0eCeEt.jpg",
+    "gif_url": "videos/2802-C0eCeEt.gif"
+  },
+  {
+    "id": "2801",
+    "name": "twisted leg raise (female)",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/2801-yT9tk17.jpg",
+    "gif_url": "videos/2801-yT9tk17.gif"
+  },
+  {
+    "id": "3420",
+    "name": "v-sit on floor",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/3420-ZuXu4Eq.jpg",
+    "gif_url": "videos/3420-ZuXu4Eq.gif"
+  },
+  {
+    "id": "0826",
+    "name": "vertical leg raise (on parallel bars)",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0826-ZNgOYQU.jpg",
+    "gif_url": "videos/0826-ZNgOYQU.gif"
+  },
+  {
+    "id": "0832",
+    "name": "weighted crunch",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "weighted",
+    "target": "abs",
+    "image": "images/0832-s8nrDXF.jpg",
+    "gif_url": "videos/0832-s8nrDXF.gif"
+  },
+  {
+    "id": "3670",
+    "name": "weighted decline sit-up",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "weighted",
+    "target": "abs",
+    "image": "images/3670-EZeDVzO.jpg",
+    "gif_url": "videos/3670-EZeDVzO.gif"
+  },
+  {
+    "id": "2135",
+    "name": "weighted front plank",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "weighted",
+    "target": "abs",
+    "image": "images/2135-VBAWRPG.jpg",
+    "gif_url": "videos/2135-VBAWRPG.gif"
+  },
+  {
+    "id": "0866",
+    "name": "weighted hanging leg-hip raise",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "weighted",
+    "target": "abs",
+    "image": "images/0866-QOA0FD0.jpg",
+    "gif_url": "videos/0866-QOA0FD0.gif"
+  },
+  {
+    "id": "0840",
+    "name": "weighted overhead crunch (on stability ball)",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "weighted",
+    "target": "abs",
+    "image": "images/0840-xmM75XG.jpg",
+    "gif_url": "videos/0840-xmM75XG.gif"
+  },
+  {
+    "id": "0846",
+    "name": "weighted russian twist",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "weighted",
+    "target": "abs",
+    "image": "images/0846-fZFZ704.jpg",
+    "gif_url": "videos/0846-fZFZ704.gif"
+  },
+  {
+    "id": "0845",
+    "name": "weighted russian twist (legs up)",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "weighted",
+    "target": "abs",
+    "image": "images/0845-WU9BLIs.jpg",
+    "gif_url": "videos/0845-WU9BLIs.gif"
+  },
+  {
+    "id": "2371",
+    "name": "weighted russian twist v. 2",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "weighted",
+    "target": "abs",
+    "image": "images/2371-YIUAtYf.jpg",
+    "gif_url": "videos/2371-YIUAtYf.gif"
+  },
+  {
+    "id": "0849",
+    "name": "weighted seated twist (on stability ball)",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "weighted",
+    "target": "abs",
+    "image": "images/0849-s34Y4LR.jpg",
+    "gif_url": "videos/0849-s34Y4LR.gif"
+  },
+  {
+    "id": "0850",
+    "name": "weighted side bend (on stability ball)",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "weighted",
+    "target": "abs",
+    "image": "images/0850-6bOA1Oi.jpg",
+    "gif_url": "videos/0850-6bOA1Oi.gif"
+  },
+  {
+    "id": "0857",
+    "name": "wheel rollerout",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "wheel roller",
+    "target": "abs",
+    "image": "images/0857-NAgVB3t.jpg",
+    "gif_url": "videos/0857-NAgVB3t.gif"
+  },
+  {
+    "id": "0858",
+    "name": "wind sprints",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "body weight",
+    "target": "abs",
+    "image": "images/0858-Qoujh3Q.jpg",
+    "gif_url": "videos/0858-Qoujh3Q.gif"
+  }
+]

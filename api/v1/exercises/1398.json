@@ -1,0 +1,122 @@
+{
+  "id": "1398",
+  "name": "standing calves calf stretch",
+  "category": "lower legs",
+  "body_part": "lower legs",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand facing a wall or sturdy object, about an arm's length away. Place your hands on the wall or object at shoulder height. Step back with one foot, keeping your heel flat on the ground. Bend your front knee slightly and lean forward, keeping your back leg straight. You should feel a stretch in your calf muscle. Hold the stretch for 20-30 seconds. Repeat on the other leg.",
+    "it": "Mettiti di fronte a un muro o a un oggetto robusto, a circa un braccio di distanza. Appoggia le mani sul muro o sull'oggetto all'altezza delle spalle. Fai un passo indietro con un piede, mantenendo il tallone appoggiato a terra. Piega leggermente il ginocchio anteriore e piegati in avanti, mantenendo la gamba posteriore dritta. Dovresti sentire un allungamento nel muscolo del polpaccio. Mantieni l'allungamento per 20-30 secondi. Ripeti sull'altra gamba.",
+    "tr": "Yaklaşık bir kol uzunluğu uzakta, bir duvara veya sağlam bir nesneye dönük olarak ayakta durun. Ellerinizi omuz yüksekliğinde duvara veya nesneye yerleştirin. Topuğunuzu yerde düz tutarak bir ayağınızla geriye adım atın. Öndeki dizinizi hafifçe bükün ve arka bacağınızı düz tutarak öne doğru eğin. Baldır kaslarınızda bir gerginlik hissetmelisiniz. Uzatmayı 20-30 saniye kadar tutun. Diğer bacakta da tekrarlayın.",
+    "es": "Ponte de pie frente a una pared u objeto firme, a una distancia aproximada de un brazo. Coloca las manos sobre la pared o el objeto a la altura de los hombros. Da un paso hacia atrás con un pie, manteniendo el talón plano sobre el suelo. Flexiona ligeramente la rodilla delantera e inclínate hacia adelante, manteniendo la pierna trasera recta. Deberías sentir un estiramiento en el músculo de la pantorrilla. Mantén el estiramiento durante 20-30 segundos. Repite con la otra pierna.",
+    "ru": "Встаньте лицом к стене или прочному предмету на расстоянии вытянутой руки. Place your hands on the wall or object at shoulder height. Сделайте шаг назад одной ногой, удерживая пятку на земле. Bend your front knee slightly and lean forward, keeping your back leg straight. Вы должны почувствовать растяжение икроножной мышцы. Удерживайте растяжку 20–30 секунд. Повторите на другой ноге.",
+    "zh": "面朝墙壁或坚固物体站立，距离大约一臂远。 将手放在与肩同高的墙壁或物体上。 一只脚向后退一步，保持脚跟平放在地面上。 稍微弯曲前膝盖并向前倾斜，保持后腿伸直。 您应该感觉到小腿肌肉有拉伸感。 保持拉伸 20-30 秒。 在另一条腿上重复。",
+    "hi": "लगभग एक हाथ की दूरी पर किसी दीवार या मजबूत वस्तु की ओर मुंह करके खड़े हो जाएं। अपने हाथों को कंधे की ऊंचाई पर दीवार या वस्तु पर रखें। अपनी एड़ी को ज़मीन पर सपाट रखते हुए एक पैर से पीछे हटें। अपने सामने के घुटने को थोड़ा मोड़ें और अपने पिछले पैर को सीधा रखते हुए आगे की ओर झुकें। आपको अपनी पिंडली की मांसपेशियों में खिंचाव महसूस होना चाहिए। 20-30 सेकंड तक खिंचाव बनाए रखें। दूसरे पैर पर दोहराएँ.",
+    "pl": "Stań przodem do ściany lub stabilnego przedmiotu, w odległości mniej więcej długości ramienia. Oprzyj dłonie na ścianie lub przedmiocie na wysokości barków. Cofnij jedną nogę, trzymając piętę płasko na podłodze. Ugnij lekko przednie kolano i pochyl się do przodu, utrzymując tylną nogę wyprostowaną. Powinieneś poczuć rozciąganie mięśnia łydki. Przytrzymaj rozciąganie przez 20-30 sekund. Powtórz na drugą nogę.",
+    "ko": "팔 길이 정도 떨어진 곳에서 벽이나 튼튼한 물체를 향해 서 있습니다. 어깨 높이에서 벽이나 물체에 손을 놓습니다. 한 발을 뒤로 물러서며 뒤꿈치를 땅에 붙입니다. 앞무릎을 약간 구부리고 앞으로 몸을 기울이며 뒷다리를 곧게 유지합니다. 종아리 근육이 늘어나는 느낌이 들어야 합니다. 20-30초 스트레치를 유지합니다. 다른 다리에서 반복합니다.",
+    "fr": "Tiens-toi face à un mur ou un objet solide, à environ une longueur de bras. Place tes mains sur le mur ou l'objet à hauteur des épaules. Recule un pied, en gardant le talon à plat sur le sol. Fléchis légèrement ton genou avant et penche-toi en avant en gardant ta jambe arrière tendue. Tu devrais sentir un étirement dans le muscle de ton mollet. Maintiens l'étirement pendant 20 à 30 secondes. Répète avec l'autre jambe."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand facing a wall or sturdy object, about an arm's length away.",
+      "Place your hands on the wall or object at shoulder height.",
+      "Step back with one foot, keeping your heel flat on the ground.",
+      "Bend your front knee slightly and lean forward, keeping your back leg straight.",
+      "You should feel a stretch in your calf muscle.",
+      "Hold the stretch for 20-30 seconds.",
+      "Repeat on the other leg."
+    ],
+    "it": [
+      "Mettiti di fronte a un muro o a un oggetto robusto, a circa un braccio di distanza.",
+      "Appoggia le mani sul muro o sull'oggetto all'altezza delle spalle.",
+      "Fai un passo indietro con un piede, mantenendo il tallone appoggiato a terra.",
+      "Piega leggermente il ginocchio anteriore e piegati in avanti, mantenendo la gamba posteriore dritta.",
+      "Dovresti sentire un allungamento nel muscolo del polpaccio.",
+      "Mantieni l'allungamento per 20-30 secondi.",
+      "Ripeti sull'altra gamba."
+    ],
+    "tr": [
+      "Yaklaşık bir kol uzunluğu uzakta, bir duvara veya sağlam bir nesneye dönük olarak ayakta durun.",
+      "Ellerinizi omuz yüksekliğinde duvara veya nesneye yerleştirin.",
+      "Topuğunuzu yerde düz tutarak bir ayağınızla geriye adım atın.",
+      "Öndeki dizinizi hafifçe bükün ve arka bacağınızı düz tutarak öne doğru eğin.",
+      "Baldır kaslarınızda bir gerginlik hissetmelisiniz.",
+      "Uzatmayı 20-30 saniye kadar tutun.",
+      "Diğer bacakta da tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie frente a una pared u objeto firme, a una distancia aproximada de un brazo.",
+      "Coloca las manos sobre la pared o el objeto a la altura de los hombros.",
+      "Da un paso hacia atrás con un pie, manteniendo el talón plano sobre el suelo.",
+      "Flexiona ligeramente la rodilla delantera e inclínate hacia adelante, manteniendo la pierna trasera recta.",
+      "Deberías sentir un estiramiento en el músculo de la pantorrilla.",
+      "Mantén el estiramiento durante 20-30 segundos.",
+      "Repite con la otra pierna."
+    ],
+    "ru": [
+      "Встаньте лицом к стене или прочному предмету на расстоянии вытянутой руки.",
+      "Положите руки на стену или предмет на уровне плеч.",
+      "Сделайте шаг назад одной ногой, удерживая пятку на земле.",
+      "Слегка согните переднее колено и наклонитесь вперед, сохраняя заднюю ногу прямой.",
+      "Вы должны почувствовать растяжение икроножной мышцы.",
+      "Удерживайте растяжку 20–30 секунд.",
+      "Повторите на другой ноге."
+    ],
+    "zh": [
+      "面朝墙壁或坚固物体站立，距离大约一臂远。",
+      "将手放在与肩同高的墙壁或物体上。",
+      "一只脚向后退一步，保持脚跟平放在地面上。",
+      "稍微弯曲前膝盖并向前倾斜，保持后腿伸直。",
+      "您应该感觉到小腿肌肉有拉伸感。",
+      "保持拉伸 20-30 秒。",
+      "在另一条腿上重复。"
+    ],
+    "hi": [
+      "लगभग एक हाथ की दूरी पर किसी दीवार या मजबूत वस्तु की ओर मुंह करके खड़े हो जाएं।",
+      "अपने हाथों को कंधे की ऊंचाई पर दीवार या वस्तु पर रखें।",
+      "अपनी एड़ी को ज़मीन पर सपाट रखते हुए एक पैर से पीछे हटें।",
+      "अपने सामने के घुटने को थोड़ा मोड़ें और अपने पिछले पैर को सीधा रखते हुए आगे की ओर झुकें।",
+      "आपको अपनी पिंडली की मांसपेशियों में खिंचाव महसूस होना चाहिए।",
+      "20-30 सेकंड तक खिंचाव बनाए रखें।",
+      "दूसरे पैर पर दोहराएँ."
+    ],
+    "pl": [
+      "Stań przodem do ściany lub stabilnego przedmiotu, w odległości mniej więcej długości ramienia.",
+      "Oprzyj dłonie na ścianie lub przedmiocie na wysokości barków.",
+      "Cofnij jedną nogę, trzymając piętę płasko na podłodze.",
+      "Ugnij lekko przednie kolano i pochyl się do przodu, utrzymując tylną nogę wyprostowaną.",
+      "Powinieneś poczuć rozciąganie mięśnia łydki.",
+      "Przytrzymaj rozciąganie przez 20-30 sekund.",
+      "Powtórz na drugą nogę."
+    ],
+    "ko": [
+      "팔 길이 정도 떨어진 곳에서 벽이나 튼튼한 물체를 향해 서 있습니다.",
+      "어깨 높이에서 벽이나 물체에 손을 놓습니다.",
+      "한 발을 뒤로 물러서며 뒤꿈치를 땅에 붙입니다.",
+      "앞무릎을 약간 구부리고 앞으로 몸을 기울이며 뒷다리를 곧게 유지합니다.",
+      "종아리 근육이 늘어나는 느낌이 들어야 합니다.",
+      "20-30초 스트레치를 유지합니다.",
+      "다른 다리에서 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi face à un mur ou un objet solide, à environ une longueur de bras.",
+      "Place tes mains sur le mur ou l'objet à hauteur des épaules.",
+      "Recule un pied, en gardant le talon à plat sur le sol.",
+      "Fléchis légèrement ton genou avant et penche-toi en avant en gardant ta jambe arrière tendue.",
+      "Tu devrais sentir un étirement dans le muscle de ton mollet.",
+      "Maintiens l'étirement pendant 20 à 30 secondes.",
+      "Répète avec l'autre jambe."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings",
+    "glutes"
+  ],
+  "target": "calves",
+  "image": "images/1398-qOKcgVP.jpg",
+  "gif_url": "videos/1398-qOKcgVP.gif",
+  "media_id": "qOKcgVP",
+  "created_at": "2026-03-18T12:31:32.891585+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

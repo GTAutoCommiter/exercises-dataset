@@ -1,0 +1,102 @@
+{
+  "id": "2706",
+  "name": "dumbbell lying supination on floor",
+  "category": "lower arms",
+  "body_part": "lower arms",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Lie flat on your back on the floor with your legs extended and your arms by your sides, holding a dumbbell in each hand. Rotate your palms to face up, keeping your elbows close to your sides. Slowly curl the dumbbells towards your shoulders, squeezing your forearms. Pause for a moment at the top, then slowly lower the dumbbells back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Sdraiati sulla schiena sul pavimento con le gambe distese e le braccia lungo i fianchi, tenendo un manubrio in ogni mano. Ruota i palmi verso l'alto, tenendo i gomiti vicini ai fianchi. Arrotola lentamente i manubri verso le spalle, stringendo gli avambracci. Fermati un attimo in cima, poi abbassa lentamente i manubri fino alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Bacaklarınız uzatılmış ve kollarınız yanlarınızda olacak şekilde yere sırtüstü yatın, her iki elinizde birer dambıl tutun. Dirseklerinizi yanlarınıza yakın tutarak avuç içlerinizi yukarı bakacak şekilde çevirin. Dambılları yavaşça omuzlarınıza doğru kıvırın ve önkollarınızı sıkın. Tepe noktasında bir süre duraklayın, ardından dambılları yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Túmbate boca arriba en el suelo con las piernas extendidas y los brazos a los costados, sosteniendo una mancuerna en cada mano. Gira las palmas hacia arriba, manteniendo los codos cerca de los costados. Flexiona lentamente las mancuernas hacia los hombros, contrayendo los antebrazos. Haz una pausa breve en la parte alta, luego baja lentamente las mancuernas de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Лягте на спину на пол, вытянув ноги и положив руки по бокам, держа в каждой руке по гантели. Поверните ладони вверх, держа локти близко к бокам. Медленно поднимите гантели к плечам, сжимая предплечья. Задержитесь на мгновение в верхней точке, затем медленно опустите гантели обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "仰卧在地板上，双腿伸直，双臂放在身体两侧，每只手各握一个哑铃。 将手掌旋转至向上，保持肘部靠近身体两侧。 慢慢地将哑铃向肩膀弯曲，挤压前臂。 在顶部停顿片刻，然后慢慢将哑铃放回起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को फैलाकर और अपनी भुजाओं को बगल में रखकर फर्श पर अपनी पीठ के बल लेट जाएँ, प्रत्येक हाथ में एक डम्बल पकड़ें। अपनी हथेलियों को ऊपर की ओर घुमाएँ, अपनी कोहनियों को अपनी भुजाओं के पास रखें। धीरे-धीरे डम्बल को अपने कंधों की ओर मोड़ें, अपने अग्रबाहुओं को सिकोड़ें। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे डम्बल को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Połóż się na plecach na podłodze, z wyprostowanymi nogami i rękami wzdłuż ciała, trzymając w każdej dłoni hantlę. Obróć dłonie tak, aby były skierowane do góry, trzymając łokcie blisko boków ciała. Powoli unieś hantle w stronę barków, napinając przedramiona. Zatrzymaj się na chwilę na górze, a następnie powoli opuść hantle z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "바닥에 누워 다리를 펼치고 양옆에 팔을 위치한 후 각 손에 덤벨을 듭니다. 손가락이 위를 향하도록 손을 회전시키며 팔꿈치는 몸 가까이 유지합니다. 천천히 덤벨을 어깨 방향으로 말아올리며 전완근을 수축합니다. 위에서 잠시 멈춘 후 천천히 덤벨을 처음 위치로 내립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Allonge-toi sur le dos au sol, les jambes tendues et les bras le long du corps, en tenant un haltère dans chaque main. Fais tourner tes paumes pour qu'elles soient tournées vers le haut, en gardant tes coudes près de tes flancs. Enroule lentement les haltères vers tes épaules, en contractant tes avant-bras. Marque une pause en haut, puis abaisse lentement les haltères pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Lie flat on your back on the floor with your legs extended and your arms by your sides, holding a dumbbell in each hand.",
+      "Rotate your palms to face up, keeping your elbows close to your sides.",
+      "Slowly curl the dumbbells towards your shoulders, squeezing your forearms.",
+      "Pause for a moment at the top, then slowly lower the dumbbells back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Sdraiati sulla schiena sul pavimento con le gambe distese e le braccia lungo i fianchi, tenendo un manubrio in ogni mano.",
+      "Ruota i palmi verso l'alto, tenendo i gomiti vicini ai fianchi.",
+      "Arrotola lentamente i manubri verso le spalle, stringendo gli avambracci.",
+      "Fermati un attimo in cima, poi abbassa lentamente i manubri fino alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Bacaklarınız uzatılmış ve kollarınız yanlarınızda olacak şekilde yere sırtüstü yatın, her iki elinizde birer dambıl tutun.",
+      "Dirseklerinizi yanlarınıza yakın tutarak avuç içlerinizi yukarı bakacak şekilde çevirin.",
+      "Dambılları yavaşça omuzlarınıza doğru kıvırın ve önkollarınızı sıkın.",
+      "Tepe noktasında bir süre duraklayın, ardından dambılları yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Túmbate boca arriba en el suelo con las piernas extendidas y los brazos a los costados, sosteniendo una mancuerna en cada mano.",
+      "Gira las palmas hacia arriba, manteniendo los codos cerca de los costados.",
+      "Flexiona lentamente las mancuernas hacia los hombros, contrayendo los antebrazos.",
+      "Haz una pausa breve en la parte alta, luego baja lentamente las mancuernas de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Лягте на спину на пол, вытянув ноги и положив руки по бокам, держа в каждой руке по гантели.",
+      "Поверните ладони вверх, держа локти близко к бокам.",
+      "Медленно поднимите гантели к плечам, сжимая предплечья.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите гантели обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "仰卧在地板上，双腿伸直，双臂放在身体两侧，每只手各握一个哑铃。",
+      "将手掌旋转至向上，保持肘部靠近身体两侧。",
+      "慢慢地将哑铃向肩膀弯曲，挤压前臂。",
+      "在顶部停顿片刻，然后慢慢将哑铃放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को फैलाकर और अपनी भुजाओं को बगल में रखकर फर्श पर अपनी पीठ के बल लेट जाएँ, प्रत्येक हाथ में एक डम्बल पकड़ें।",
+      "अपनी हथेलियों को ऊपर की ओर घुमाएँ, अपनी कोहनियों को अपनी भुजाओं के पास रखें।",
+      "धीरे-धीरे डम्बल को अपने कंधों की ओर मोड़ें, अपने अग्रबाहुओं को सिकोड़ें।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे डम्बल को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Połóż się na plecach na podłodze, z wyprostowanymi nogami i rękami wzdłuż ciała, trzymając w każdej dłoni hantlę.",
+      "Obróć dłonie tak, aby były skierowane do góry, trzymając łokcie blisko boków ciała.",
+      "Powoli unieś hantle w stronę barków, napinając przedramiona.",
+      "Zatrzymaj się na chwilę na górze, a następnie powoli opuść hantle z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "바닥에 누워 다리를 펼치고 양옆에 팔을 위치한 후 각 손에 덤벨을 듭니다.",
+      "손가락이 위를 향하도록 손을 회전시키며 팔꿈치는 몸 가까이 유지합니다.",
+      "천천히 덤벨을 어깨 방향으로 말아올리며 전완근을 수축합니다.",
+      "위에서 잠시 멈춘 후 천천히 덤벨을 처음 위치로 내립니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Allonge-toi sur le dos au sol, les jambes tendues et les bras le long du corps, en tenant un haltère dans chaque main.",
+      "Fais tourner tes paumes pour qu'elles soient tournées vers le haut, en gardant tes coudes près de tes flancs.",
+      "Enroule lentement les haltères vers tes épaules, en contractant tes avant-bras.",
+      "Marque une pause en haut, puis abaisse lentement les haltères pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "shoulders"
+  ],
+  "target": "forearms",
+  "image": "images/2706-rEhi2o5.jpg",
+  "gif_url": "videos/2706-rEhi2o5.gif",
+  "media_id": "rEhi2o5",
+  "created_at": "2026-03-18T12:31:32.879583+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

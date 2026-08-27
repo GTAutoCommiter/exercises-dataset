@@ -1,0 +1,102 @@
+{
+  "id": "0866",
+  "name": "weighted hanging leg-hip raise",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "weighted",
+  "instructions": {
+    "en": "Hang from a pull-up bar with your arms fully extended and your palms facing away from you. Engage your core and lift your legs up in front of you, keeping them straight. Continue lifting until your legs are parallel to the ground or slightly higher. Pause for a moment at the top, then slowly lower your legs back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Appendi a una barra per trazioni con le braccia completamente distese e i palmi rivolti lontano da te. Coinvolgi il tuo core e solleva le gambe davanti a te, mantenendole dritte. Continua a sollevare finché le gambe non sono parallele al suolo o leggermente più alte. Fai una pausa per un momento in alto, quindi abbassa lentamente le gambe fino alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Kollarınız tamamen uzatılmış ve avuçlarınız sizden uzağa bakacak şekilde barfiks barına asın. Merkez bölgenizi devreye sokun ve bacaklarınızı düz tutarak önünüze kaldırın. Bacaklarınız yere paralel veya biraz daha yükseğe çıkana kadar kaldırmaya devam edin. Tepe noktasında bir an duraklayın, ardından bacaklarınızı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Cuélgate de una barra de dominadas con los brazos completamente extendidos y las palmas mirando hacia afuera. Activa el core y levanta las piernas frente a ti, manteniéndolas rectas. Continúa levantando hasta que las piernas queden paralelas al suelo o un poco más arriba. Haz una pausa por un momento en la parte superior, luego baja lentamente las piernas de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Повисните на перекладине, полностью вытянув руки и повернув ладони от себя. Напрягите корпус и поднимите ноги перед собой, сохраняя их прямыми. Продолжайте поднимать, пока ваши ноги не станут параллельны земле или немного выше. Задержитесь на мгновение в верхней точке, затем медленно опустите ноги обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "悬挂在引体向上杆上，双臂完全伸展，手掌背向自己。 启动你的核心并将双腿抬起到你面前，保持伸直。 继续抬起，直到双腿与地面平行或稍高。 在顶部暂停片刻，然后慢慢将双腿放回起始位置。 重复所需的重复次数。",
+    "hi": "अपनी बाहों को पूरी तरह फैलाकर और अपनी हथेलियों को आपसे दूर की ओर रखते हुए पुल-अप बार से लटकें। अपने कोर को संलग्न करें और अपने पैरों को अपने सामने ऊपर उठाएं, उन्हें सीधा रखें। तब तक उठाना जारी रखें जब तक कि आपके पैर जमीन के समानांतर या थोड़ा ऊंचे न हो जाएं। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने पैरों को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Zwiśnij z drążka do podciągania z w pełni wyprostowanymi ramionami i dłońmi skierowanymi od siebie. Napnij mięśnie brzucha i unieś nogi przed siebie, trzymając je proste. Kontynuuj unoszenie, aż nogi będą równoległe do podłoża lub nieco wyżej. Zatrzymaj się na chwilę na górze, a następnie powoli opuść nogi z powrotem do pozycji wyjściowej. Powtórz zgodnie z żądaną liczbą powtórzeń.",
+    "ko": "풀업 바에 달려 팔을 완전히 펴고 손바닥이 몸에서 멀어지도록 합니다. 코어에 힘을 주고 다리를 앞쪽으로 들어올리되 다리를 펴진 상태로 유지합니다. 다리가 바닥과 평행하거나 약간 높을 때까지 계속 들어올립니다. 위쪽에서 잠시 멈춘 후 다리를 천천히 처음 위치로 내려갑니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Suspends-toi à une barre de traction, les bras complètement étendus et les paumes tournées vers l'extérieur. Gaine ta sangle abdominale et lève tes jambes devant toi, en les gardant droites. Continue à soulever jusqu'à ce que tes jambes soient parallèles au sol ou légèrement plus haut. Marque une pause en haut, puis abaisse lentement tes jambes pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Hang from a pull-up bar with your arms fully extended and your palms facing away from you.",
+      "Engage your core and lift your legs up in front of you, keeping them straight.",
+      "Continue lifting until your legs are parallel to the ground or slightly higher.",
+      "Pause for a moment at the top, then slowly lower your legs back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Appendi a una barra per trazioni con le braccia completamente distese e i palmi rivolti lontano da te.",
+      "Coinvolgi il tuo core e solleva le gambe davanti a te, mantenendole dritte.",
+      "Continua a sollevare finché le gambe non sono parallele al suolo o leggermente più alte.",
+      "Fai una pausa per un momento in alto, quindi abbassa lentamente le gambe fino alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Kollarınız tamamen uzatılmış ve avuçlarınız sizden uzağa bakacak şekilde barfiks barına asın.",
+      "Merkez bölgenizi devreye sokun ve bacaklarınızı düz tutarak önünüze kaldırın.",
+      "Bacaklarınız yere paralel veya biraz daha yükseğe çıkana kadar kaldırmaya devam edin.",
+      "Tepe noktasında bir an duraklayın, ardından bacaklarınızı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Cuélgate de una barra de dominadas con los brazos completamente extendidos y las palmas mirando hacia afuera.",
+      "Activa el core y levanta las piernas frente a ti, manteniéndolas rectas.",
+      "Continúa levantando hasta que las piernas queden paralelas al suelo o un poco más arriba.",
+      "Haz una pausa por un momento en la parte superior, luego baja lentamente las piernas de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Повисните на перекладине, полностью вытянув руки и повернув ладони от себя.",
+      "Напрягите корпус и поднимите ноги перед собой, сохраняя их прямыми.",
+      "Продолжайте поднимать, пока ваши ноги не станут параллельны земле или немного выше.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите ноги обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "悬挂在引体向上杆上，双臂完全伸展，手掌背向自己。",
+      "启动你的核心并将双腿抬起到你面前，保持伸直。",
+      "继续抬起，直到双腿与地面平行或稍高。",
+      "在顶部暂停片刻，然后慢慢将双腿放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपनी बाहों को पूरी तरह फैलाकर और अपनी हथेलियों को आपसे दूर की ओर रखते हुए पुल-अप बार से लटकें।",
+      "अपने कोर को संलग्न करें और अपने पैरों को अपने सामने ऊपर उठाएं, उन्हें सीधा रखें।",
+      "तब तक उठाना जारी रखें जब तक कि आपके पैर जमीन के समानांतर या थोड़ा ऊंचे न हो जाएं।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने पैरों को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Zwiśnij z drążka do podciągania z w pełni wyprostowanymi ramionami i dłońmi skierowanymi od siebie.",
+      "Napnij mięśnie brzucha i unieś nogi przed siebie, trzymając je proste.",
+      "Kontynuuj unoszenie, aż nogi będą równoległe do podłoża lub nieco wyżej.",
+      "Zatrzymaj się na chwilę na górze, a następnie powoli opuść nogi z powrotem do pozycji wyjściowej.",
+      "Powtórz zgodnie z żądaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "풀업 바에 달려 팔을 완전히 펴고 손바닥이 몸에서 멀어지도록 합니다.",
+      "코어에 힘을 주고 다리를 앞쪽으로 들어올리되 다리를 펴진 상태로 유지합니다.",
+      "다리가 바닥과 평행하거나 약간 높을 때까지 계속 들어올립니다.",
+      "위쪽에서 잠시 멈춘 후 다리를 천천히 처음 위치로 내려갑니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Suspends-toi à une barre de traction, les bras complètement étendus et les paumes tournées vers l'extérieur.",
+      "Gaine ta sangle abdominale et lève tes jambes devant toi, en les gardant droites.",
+      "Continue à soulever jusqu'à ce que tes jambes soient parallèles au sol ou légèrement plus haut.",
+      "Marque une pause en haut, puis abaisse lentement tes jambes pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hip flexors",
+  "secondary_muscles": [
+    "hip flexors",
+    "lower back"
+  ],
+  "target": "abs",
+  "image": "images/0866-QOA0FD0.jpg",
+  "gif_url": "videos/0866-QOA0FD0.gif",
+  "media_id": "QOA0FD0",
+  "created_at": "2026-03-18T12:31:32.90591+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

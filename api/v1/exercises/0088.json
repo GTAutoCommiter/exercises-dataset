@@ -1,0 +1,112 @@
+{
+  "id": "0088",
+  "name": "barbell seated calf raise",
+  "category": "lower legs",
+  "body_part": "lower legs",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Sit on a bench with your feet flat on the floor and a barbell resting on your thighs. Place the balls of your feet on a raised platform, such as a block or step. Position the barbell across your thighs and hold it securely with your hands. Keeping your back straight and your core engaged, lift your heels off the ground by extending your ankles. Pause for a moment at the top, then slowly lower your heels back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Siediti su una panca con i piedi appoggiati sul pavimento e un bilanciere appoggiato sulle cosce. Posiziona le punte dei piedi su una piattaforma rialzata, come un blocco o un gradino. Posiziona il bilanciere sulle cosce e tienilo saldamente con le mani. Tenendo la schiena dritta e il core impegnato, solleva i talloni da terra estendendo le caviglie. Fai una pausa per un momento in alto, quindi abbassa lentamente i talloni nella posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız yere düz basacak ve halter kalçalarınızın üzerinde olacak şekilde bir bankta oturun. Ayak parmaklarınızın toplarını blok veya basamak gibi yükseltilmiş bir platform üzerine yerleştirin. Halteri uyluklarınızın üzerine konumlandırın ve ellerinizle güvenli bir şekilde tutun. Sırtınızı düz ve merkez bölgenizi meşgul tutarak, ayak bileklerinizi uzatarak topuklarınızı yerden kaldırın. Tepe noktasında bir an duraklayın, ardından topuklarınızı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Siéntate en un banco con los pies planos sobre el suelo y una barra apoyada sobre los muslos. Coloca la parte delantera de los pies sobre una plataforma elevada, como un bloque o un escalón. Coloca la barra sobre los muslos y sujétala con firmeza con las manos. Manteniendo la espalda recta y el core activado, levanta los talones del suelo extendiendo los tobillos. Haz una pausa breve en la parte alta y luego baja lentamente los talones de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Сядьте на скамью, поставьте ступни на пол и положите штангу на бедра. Поставьте подушечки стоп на приподнятую платформу, например, на блок или ступеньку. Расположите штангу на бедрах и надежно удерживайте ее руками. Удерживая спину прямой и напрягая корпус, поднимите пятки от земли, вытянув лодыжки. Задержитесь на мгновение в верхней точке, затем медленно опустите пятки обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "坐在长凳上，双脚平放在地板上，杠铃放在大腿上。 将脚掌放在升高的平台上，例如木块或台阶。 将杠铃放在大腿上，并用手牢牢握住它。 保持背部挺直，核心收紧，伸展脚踝，将脚后跟抬离地面。 在顶部停顿片刻，然后慢慢降低脚后跟回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को फर्श पर सपाट करके और एक बारबेल को अपनी जांघों पर टिकाकर एक बेंच पर बैठें। अपने पैरों की उंगलियों को किसी ऊंचे मंच पर रखें, जैसे ब्लॉक या सीढ़ी। बारबेल को अपनी जांघों पर रखें और इसे अपने हाथों से सुरक्षित रूप से पकड़ें। अपनी पीठ सीधी और अपने कोर को व्यस्त रखते हुए, अपनी एड़ियों को फैलाकर अपनी एड़ियों को जमीन से ऊपर उठाएं। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपनी एड़ियों को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Usiądź na ławce, stopy oprzyj płasko na podłodze, a sztangę oprzyj na udach. Ustaw palce stóp na podwyższonej platformie, na przykład klocku lub stopniu. Umieść sztangę na udach i trzymaj ją pewnie rękami. Utrzymując proste plecy i napięte mięśnie tułowia, unieś pięty z podłogi, prostując kostki. Zatrzymaj się na chwilę na górze, a następnie powoli opuść pięty z powrotem do pozycji wyjściowej. Powtórz odpowiednią liczbę razy.",
+    "ko": "벤치에 앉아 발은 바닥에 놓고 바벨을 허벅지 위에 올립니다. 발의 앞부분(발가락 부분)을 블록이나 스텝과 같은 높은 플랫폼에 올립니다. 바벨을 허벅지 위에 가로질러 놓고 양손으로 단단히 잡습니다. 등을 곧게 펴고 코어에 힘을 줍니다. 발뒤꿈치를 들어 올리며 발목을 펼쳐 확장합니다. 상단에서 잠시 멈춘 후 천천히 발뒤꿈치를 시작 위치로 내립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Assieds-toi sur un banc, les pieds à plat sur le sol et une barre posée sur tes cuisses. Place l'avant de tes pieds sur une plateforme surélevée, comme un bloc ou une marche. Positionne la barre en travers de tes cuisses et tiens-la fermement avec tes mains. En gardant le dos droit et ta sangle abdominale gainée, soulève tes talons du sol en étendant tes chevilles. Marque une pause en haut, puis abaisse lentement tes talons pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on a bench with your feet flat on the floor and a barbell resting on your thighs.",
+      "Place the balls of your feet on a raised platform, such as a block or step.",
+      "Position the barbell across your thighs and hold it securely with your hands.",
+      "Keeping your back straight and your core engaged, lift your heels off the ground by extending your ankles.",
+      "Pause for a moment at the top, then slowly lower your heels back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Siediti su una panca con i piedi appoggiati sul pavimento e un bilanciere appoggiato sulle cosce.",
+      "Posiziona le punte dei piedi su una piattaforma rialzata, come un blocco o un gradino.",
+      "Posiziona il bilanciere sulle cosce e tienilo saldamente con le mani.",
+      "Tenendo la schiena dritta e il core impegnato, solleva i talloni da terra estendendo le caviglie.",
+      "Fai una pausa per un momento in alto, quindi abbassa lentamente i talloni nella posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız yere düz basacak ve halter kalçalarınızın üzerinde olacak şekilde bir bankta oturun.",
+      "Ayak parmaklarınızın toplarını blok veya basamak gibi yükseltilmiş bir platform üzerine yerleştirin.",
+      "Halteri uyluklarınızın üzerine konumlandırın ve ellerinizle güvenli bir şekilde tutun.",
+      "Sırtınızı düz ve merkez bölgenizi meşgul tutarak, ayak bileklerinizi uzatarak topuklarınızı yerden kaldırın.",
+      "Tepe noktasında bir an duraklayın, ardından topuklarınızı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Siéntate en un banco con los pies planos sobre el suelo y una barra apoyada sobre los muslos.",
+      "Coloca la parte delantera de los pies sobre una plataforma elevada, como un bloque o un escalón.",
+      "Coloca la barra sobre los muslos y sujétala con firmeza con las manos.",
+      "Manteniendo la espalda recta y el core activado, levanta los talones del suelo extendiendo los tobillos.",
+      "Haz una pausa breve en la parte alta y luego baja lentamente los talones de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на скамью, поставьте ступни на пол и положите штангу на бедра.",
+      "Поставьте подушечки стоп на приподнятую платформу, например, на блок или ступеньку.",
+      "Расположите штангу на бедрах и надежно удерживайте ее руками.",
+      "Удерживая спину прямой и напрягая корпус, поднимите пятки от земли, вытянув лодыжки.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите пятки обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "坐在长凳上，双脚平放在地板上，杠铃放在大腿上。",
+      "将脚掌放在升高的平台上，例如木块或台阶。",
+      "将杠铃放在大腿上，并用手牢牢握住它。",
+      "保持背部挺直，核心收紧，伸展脚踝，将脚后跟抬离地面。",
+      "在顶部停顿片刻，然后慢慢降低脚后跟回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को फर्श पर सपाट करके और एक बारबेल को अपनी जांघों पर टिकाकर एक बेंच पर बैठें।",
+      "अपने पैरों की उंगलियों को किसी ऊंचे मंच पर रखें, जैसे ब्लॉक या सीढ़ी।",
+      "बारबेल को अपनी जांघों पर रखें और इसे अपने हाथों से सुरक्षित रूप से पकड़ें।",
+      "अपनी पीठ सीधी और अपने कोर को व्यस्त रखते हुए, अपनी एड़ियों को फैलाकर अपनी एड़ियों को जमीन से ऊपर उठाएं।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपनी एड़ियों को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Usiądź na ławce, stopy oprzyj płasko na podłodze, a sztangę oprzyj na udach.",
+      "Ustaw palce stóp na podwyższonej platformie, na przykład klocku lub stopniu.",
+      "Umieść sztangę na udach i trzymaj ją pewnie rękami.",
+      "Utrzymując proste plecy i napięte mięśnie tułowia, unieś pięty z podłogi, prostując kostki.",
+      "Zatrzymaj się na chwilę na górze, a następnie powoli opuść pięty z powrotem do pozycji wyjściowej.",
+      "Powtórz odpowiednią liczbę razy."
+    ],
+    "ko": [
+      "벤치에 앉아 발은 바닥에 놓고 바벨을 허벅지 위에 올립니다.",
+      "발의 앞부분(발가락 부분)을 블록이나 스텝과 같은 높은 플랫폼에 올립니다.",
+      "바벨을 허벅지 위에 가로질러 놓고 양손으로 단단히 잡습니다.",
+      "등을 곧게 펴고 코어에 힘을 줍니다.",
+      "발뒤꿈치를 들어 올리며 발목을 펼쳐 확장합니다.",
+      "상단에서 잠시 멈춘 후 천천히 발뒤꿈치를 시작 위치로 내립니다."
+    ],
+    "fr": [
+      "Assieds-toi sur un banc, les pieds à plat sur le sol et une barre posée sur tes cuisses.",
+      "Place l'avant de tes pieds sur une plateforme surélevée, comme un bloc ou une marche.",
+      "Positionne la barre en travers de tes cuisses et tiens-la fermement avec tes mains.",
+      "En gardant le dos droit et ta sangle abdominale gainée, soulève tes talons du sol en étendant tes chevilles.",
+      "Marque une pause en haut, puis abaisse lentement tes talons pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings",
+    "quadriceps"
+  ],
+  "target": "calves",
+  "image": "images/0088-ktsFQAZ.jpg",
+  "gif_url": "videos/0088-ktsFQAZ.gif",
+  "media_id": "ktsFQAZ",
+  "created_at": "2026-03-18T12:31:32.872658+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

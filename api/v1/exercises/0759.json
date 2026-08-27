@@ -1,0 +1,122 @@
+{
+  "id": "0759",
+  "name": "smith incline shoulder raises",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "smith machine",
+  "instructions": {
+    "en": "Adjust the smith machine to an incline position. Stand facing the machine with your feet shoulder-width apart. Grasp the bar with an overhand grip, slightly wider than shoulder-width apart. Keep your back straight and core engaged. Raise the barbell up towards the ceiling, leading with your elbows. Pause for a moment at the top, then slowly lower the barbell back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Regola la macchina da fabbro in una posizione inclinata. Mettiti di fronte alla macchina con i piedi alla larghezza delle spalle. Afferrare la barra con una presa prona, leggermente più larga della larghezza delle spalle. Tieni la schiena dritta e il core impegnato. Sollevare il bilanciere verso il soffitto, guidandolo con i gomiti. Fermati per un momento in alto, quindi abbassa lentamente il bilanciere nella posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Demirci makinesini eğimli konuma ayarlayın. Ayaklarınız omuz genişliğinde açık olacak şekilde makineye dönük durun. Çubuğu omuz genişliğinden biraz daha geniş olacak şekilde üstten kavrayın. Sırtınızı düz ve merkez bölgenizi meşgul tutun. Halterinizi dirseklerinizle birlikte tavana doğru kaldırın. Tepe noktasında bir süre duraklayın, ardından halteri yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta la máquina Smith a una posición inclinada. Ponte de pie frente a la máquina con los pies separados a la altura de los hombros. Sujeta la barra con agarre prono, un poco más separado que el ancho de los hombros. Mantén la espalda recta y el core activado. Eleva la barra hacia el techo, guiando el movimiento con los codos. Haz una pausa breve en la parte alta y luego baja lentamente la barra de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Установите машину Смита в наклонное положение. Встаньте лицом к тренажеру, поставив ноги на ширине плеч. Возьмите штангу хватом сверху, на расстоянии чуть шире ширины плеч. Держите спину прямо и напрягите корпус. Поднимите штангу вверх к потолку, ведя локтями. Задержитесь на мгновение в верхней точке, затем медленно опустите штангу обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "将史密斯机调整至倾斜位置。 面向机器站立，双脚分开与肩同宽。 正手握住杠铃，握距略宽于肩宽。 保持背部挺直，核心参与。 将杠铃举向天花板，用肘部引导。 在顶部停顿片刻，然后慢慢将杠铃放回起始位置。 重复所需的重复次数。",
+    "hi": "स्मिथ मशीन को झुकी हुई स्थिति में समायोजित करें। अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए मशीन की ओर मुंह करके खड़े हो जाएं। बार को ओवरहैंड पकड़ से पकड़ें, कंधे की चौड़ाई से थोड़ा अधिक चौड़ा। अपनी पीठ सीधी और कोर व्यस्त रखें। अपनी कोहनियों की मदद से बारबेल को छत की ओर ऊपर उठाएं। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे बारबेल को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Ustaw suwnicę Smitha w pozycji skośnej. Stań przodem do maszyny, ze stopami rozstawionymi na szerokość barków. Chwyć sztangę nachwytem, nieco szerzej niż szerokość barków. Trzymaj plecy proste, a mięśnie brzucha napięte. Unieś sztangę w kierunku sufitu, prowadząc ruch łokciami. Zatrzymaj się na chwilę na górze, a następnie powoli opuść sztangę z powrotem do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "스미스 머신을 인클라인 위치로 조정합니다. 머신을 마주보고 발을 어깨너비로 벌려서 서십시오. 어깨너비보다 약간 넓게 오버그립으로 바를 잡습니다. 등을 곧게 펴고 복부를 조여줍니다. 팔꿈치를 앞으로 하여 바벨을 천장 쪽으로 들어올립니다. 맨 위에서 잠깐 멈춘 후 바벨을 천천히 시작 위치로 내립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Règle la machine Smith en position inclinée. Tiens-toi face à la machine, les pieds écartés à la largeur des épaules. Saisis la barre avec une prise en pronation, un peu plus large que la largeur des épaules. Garde le dos droit et ta sangle abdominale gainée. Lève la barre vers le plafond en menant avec tes coudes. Marque une pause en haut, puis abaisse lentement la barre pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the smith machine to an incline position.",
+      "Stand facing the machine with your feet shoulder-width apart.",
+      "Grasp the bar with an overhand grip, slightly wider than shoulder-width apart.",
+      "Keep your back straight and core engaged.",
+      "Raise the barbell up towards the ceiling, leading with your elbows.",
+      "Pause for a moment at the top, then slowly lower the barbell back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Regola la macchina da fabbro in una posizione inclinata.",
+      "Mettiti di fronte alla macchina con i piedi alla larghezza delle spalle.",
+      "Afferrare la barra con una presa prona, leggermente più larga della larghezza delle spalle.",
+      "Tieni la schiena dritta e il core impegnato.",
+      "Sollevare il bilanciere verso il soffitto, guidandolo con i gomiti.",
+      "Fermati per un momento in alto, quindi abbassa lentamente il bilanciere nella posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Demirci makinesini eğimli konuma ayarlayın.",
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde makineye dönük durun.",
+      "Çubuğu omuz genişliğinden biraz daha geniş olacak şekilde üstten kavrayın.",
+      "Sırtınızı düz ve merkez bölgenizi meşgul tutun.",
+      "Halterinizi dirseklerinizle birlikte tavana doğru kaldırın.",
+      "Tepe noktasında bir süre duraklayın, ardından halteri yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta la máquina Smith a una posición inclinada.",
+      "Ponte de pie frente a la máquina con los pies separados a la altura de los hombros.",
+      "Sujeta la barra con agarre prono, un poco más separado que el ancho de los hombros.",
+      "Mantén la espalda recta y el core activado.",
+      "Eleva la barra hacia el techo, guiando el movimiento con los codos.",
+      "Haz una pausa breve en la parte alta y luego baja lentamente la barra de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Установите машину Смита в наклонное положение.",
+      "Встаньте лицом к тренажеру, поставив ноги на ширине плеч.",
+      "Возьмите штангу хватом сверху, на расстоянии чуть шире ширины плеч.",
+      "Держите спину прямо и напрягите корпус.",
+      "Поднимите штангу вверх к потолку, ведя локтями.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите штангу обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将史密斯机调整至倾斜位置。",
+      "面向机器站立，双脚分开与肩同宽。",
+      "正手握住杠铃，握距略宽于肩宽。",
+      "保持背部挺直，核心参与。",
+      "将杠铃举向天花板，用肘部引导。",
+      "在顶部停顿片刻，然后慢慢将杠铃放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "स्मिथ मशीन को झुकी हुई स्थिति में समायोजित करें।",
+      "अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए मशीन की ओर मुंह करके खड़े हो जाएं।",
+      "बार को ओवरहैंड पकड़ से पकड़ें, कंधे की चौड़ाई से थोड़ा अधिक चौड़ा।",
+      "अपनी पीठ सीधी और कोर व्यस्त रखें।",
+      "अपनी कोहनियों की मदद से बारबेल को छत की ओर ऊपर उठाएं।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे बारबेल को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Ustaw suwnicę Smitha w pozycji skośnej.",
+      "Stań przodem do maszyny, ze stopami rozstawionymi na szerokość barków.",
+      "Chwyć sztangę nachwytem, nieco szerzej niż szerokość barków.",
+      "Trzymaj plecy proste, a mięśnie brzucha napięte.",
+      "Unieś sztangę w kierunku sufitu, prowadząc ruch łokciami.",
+      "Zatrzymaj się na chwilę na górze, a następnie powoli opuść sztangę z powrotem do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "스미스 머신을 인클라인 위치로 조정합니다.",
+      "머신을 마주보고 발을 어깨너비로 벌려서 서십시오.",
+      "어깨너비보다 약간 넓게 오버그립으로 바를 잡습니다.",
+      "등을 곧게 펴고 복부를 조여줍니다.",
+      "팔꿈치를 앞으로 하여 바벨을 천장 쪽으로 들어올립니다.",
+      "맨 위에서 잠깐 멈춘 후 바벨을 천천히 시작 위치로 내립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Règle la machine Smith en position inclinée.",
+      "Tiens-toi face à la machine, les pieds écartés à la largeur des épaules.",
+      "Saisis la barre avec une prise en pronation, un peu plus large que la largeur des épaules.",
+      "Garde le dos droit et ta sangle abdominale gainée.",
+      "Lève la barre vers le plafond en menant avec tes coudes.",
+      "Marque une pause en haut, puis abaisse lentement la barre pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "deltoids",
+  "secondary_muscles": [
+    "deltoids",
+    "trapezius"
+  ],
+  "target": "serratus anterior",
+  "image": "images/0759-ayAHcEm.jpg",
+  "gif_url": "videos/0759-ayAHcEm.gif",
+  "media_id": "ayAHcEm",
+  "created_at": "2026-03-18T12:31:32.89067+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

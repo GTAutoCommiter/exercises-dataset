@@ -1,0 +1,812 @@
+[
+  {
+    "id": "0009",
+    "name": "assisted chest dip (kneeling)",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "leverage machine",
+    "target": "pectorals",
+    "image": "images/0009-PAgTVaK.jpg",
+    "gif_url": "videos/0009-PAgTVaK.gif"
+  },
+  {
+    "id": "0015",
+    "name": "assisted parallel close grip pull-up",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "lats",
+    "image": "images/0015-vrhHa6D.jpg",
+    "gif_url": "videos/0015-vrhHa6D.gif"
+  },
+  {
+    "id": "0017",
+    "name": "assisted pull-up",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "lats",
+    "image": "images/0017-kiJ4Z2K.jpg",
+    "gif_url": "videos/0017-kiJ4Z2K.gif"
+  },
+  {
+    "id": "1431",
+    "name": "assisted standing chin-up",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "lats",
+    "image": "images/1431-7OeHptV.jpg",
+    "gif_url": "videos/1431-7OeHptV.gif"
+  },
+  {
+    "id": "1432",
+    "name": "assisted standing pull-up",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "lats",
+    "image": "images/1432-f4xtKBj.jpg",
+    "gif_url": "videos/1432-f4xtKBj.gif"
+  },
+  {
+    "id": "0019",
+    "name": "assisted triceps dip (kneeling)",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "leverage machine",
+    "target": "triceps",
+    "image": "images/0019-J60bN17.jpg",
+    "gif_url": "videos/0019-J60bN17.gif"
+  },
+  {
+    "id": "2364",
+    "name": "assisted wide-grip chest dip (kneeling)",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "leverage machine",
+    "target": "pectorals",
+    "image": "images/2364-PnZJIrk.jpg",
+    "gif_url": "videos/2364-PnZJIrk.gif"
+  },
+  {
+    "id": "2331",
+    "name": "cycle cross trainer",
+    "category": "cardio",
+    "body_part": "cardio",
+    "equipment": "leverage machine",
+    "target": "cardiovascular system",
+    "image": "images/2331-XSCHmiI.jpg",
+    "gif_url": "videos/2331-XSCHmiI.gif"
+  },
+  {
+    "id": "2287",
+    "name": "lever alternate leg press",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "leverage machine",
+    "target": "quads",
+    "image": "images/2287-V07qpXy.jpg",
+    "gif_url": "videos/2287-V07qpXy.gif"
+  },
+  {
+    "id": "0571",
+    "name": "lever alternating narrow grip seated row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "upper back",
+    "image": "images/0571-w2oRpuH.jpg",
+    "gif_url": "videos/0571-w2oRpuH.gif"
+  },
+  {
+    "id": "0572",
+    "name": "lever assisted chin-up",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "lats",
+    "image": "images/0572-MaMuGH6.jpg",
+    "gif_url": "videos/0572-MaMuGH6.gif"
+  },
+  {
+    "id": "0573",
+    "name": "lever back extension",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "spine",
+    "image": "images/0573-rUXfn3R.jpg",
+    "gif_url": "videos/0573-rUXfn3R.gif"
+  },
+  {
+    "id": "3200",
+    "name": "lever bent-over row with v-bar",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "upper back",
+    "image": "images/3200-LuBEORI.jpg",
+    "gif_url": "videos/3200-LuBEORI.gif"
+  },
+  {
+    "id": "0575",
+    "name": "lever bicep curl",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "leverage machine",
+    "target": "biceps",
+    "image": "images/0575-q6y3OhV.jpg",
+    "gif_url": "videos/0575-q6y3OhV.gif"
+  },
+  {
+    "id": "2289",
+    "name": "lever calf press",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "leverage machine",
+    "target": "calves",
+    "image": "images/2289-7B4F5nZ.jpg",
+    "gif_url": "videos/2289-7B4F5nZ.gif"
+  },
+  {
+    "id": "0577",
+    "name": "lever chest press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "leverage machine",
+    "target": "pectorals",
+    "image": "images/0577-T0yTjgW.jpg",
+    "gif_url": "videos/0577-T0yTjgW.gif"
+  },
+  {
+    "id": "0576",
+    "name": "lever chest press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "leverage machine",
+    "target": "pectorals",
+    "image": "images/0576-DOoWcnA.jpg",
+    "gif_url": "videos/0576-DOoWcnA.gif"
+  },
+  {
+    "id": "0578",
+    "name": "lever deadlift",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "leverage machine",
+    "target": "glutes",
+    "image": "images/0578-GUT8I22.jpg",
+    "gif_url": "videos/0578-GUT8I22.gif"
+  },
+  {
+    "id": "1300",
+    "name": "lever decline chest press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "leverage machine",
+    "target": "pectorals",
+    "image": "images/1300-vsVoPHt.jpg",
+    "gif_url": "videos/1300-vsVoPHt.gif"
+  },
+  {
+    "id": "1253",
+    "name": "lever donkey calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "leverage machine",
+    "target": "calves",
+    "image": "images/1253-C9LuR4A.jpg",
+    "gif_url": "videos/1253-C9LuR4A.gif"
+  },
+  {
+    "id": "0579",
+    "name": "lever front pulldown",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "lats",
+    "image": "images/0579-7F1DVzn.jpg",
+    "gif_url": "videos/0579-7F1DVzn.gif"
+  },
+  {
+    "id": "0580",
+    "name": "lever gripless shrug",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "traps",
+    "image": "images/0580-f91FwXG.jpg",
+    "gif_url": "videos/0580-f91FwXG.gif"
+  },
+  {
+    "id": "1439",
+    "name": "lever gripless shrug v. 2",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "traps",
+    "image": "images/1439-cbuFJrn.jpg",
+    "gif_url": "videos/1439-cbuFJrn.gif"
+  },
+  {
+    "id": "2288",
+    "name": "lever gripper hands",
+    "category": "lower arms",
+    "body_part": "lower arms",
+    "equipment": "leverage machine",
+    "target": "forearms",
+    "image": "images/2288-mKwcrHn.jpg",
+    "gif_url": "videos/2288-mKwcrHn.gif"
+  },
+  {
+    "id": "1615",
+    "name": "lever hammer grip preacher curl",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "leverage machine",
+    "target": "biceps",
+    "image": "images/1615-OAguZoG.jpg",
+    "gif_url": "videos/1615-OAguZoG.gif"
+  },
+  {
+    "id": "0581",
+    "name": "lever high row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "upper back",
+    "image": "images/0581-nZZZy9m.jpg",
+    "gif_url": "videos/0581-nZZZy9m.gif"
+  },
+  {
+    "id": "2286",
+    "name": "lever hip extension v. 2",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "leverage machine",
+    "target": "glutes",
+    "image": "images/2286-OPqShYN.jpg",
+    "gif_url": "videos/2286-OPqShYN.gif"
+  },
+  {
+    "id": "2611",
+    "name": "lever horizontal one leg press",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "leverage machine",
+    "target": "glutes",
+    "image": "images/2611-9KU9TYF.jpg",
+    "gif_url": "videos/2611-9KU9TYF.gif"
+  },
+  {
+    "id": "1299",
+    "name": "lever incline chest press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "leverage machine",
+    "target": "pectorals",
+    "image": "images/1299-jHAnWmT.jpg",
+    "gif_url": "videos/1299-jHAnWmT.gif"
+  },
+  {
+    "id": "1479",
+    "name": "lever incline chest press v. 2",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "leverage machine",
+    "target": "pectorals",
+    "image": "images/1479-o17Jfkt.jpg",
+    "gif_url": "videos/1479-o17Jfkt.gif"
+  },
+  {
+    "id": "0582",
+    "name": "lever kneeling leg curl",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "leverage machine",
+    "target": "hamstrings",
+    "image": "images/0582-nnmCTLN.jpg",
+    "gif_url": "videos/0582-nnmCTLN.gif"
+  },
+  {
+    "id": "0583",
+    "name": "lever kneeling twist",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "leverage machine",
+    "target": "abs",
+    "image": "images/0583-sZOR9EV.jpg",
+    "gif_url": "videos/0583-sZOR9EV.gif"
+  },
+  {
+    "id": "0584",
+    "name": "lever lateral raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "leverage machine",
+    "target": "delts",
+    "image": "images/0584-dRTfGZT.jpg",
+    "gif_url": "videos/0584-dRTfGZT.gif"
+  },
+  {
+    "id": "0585",
+    "name": "lever leg extension",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "leverage machine",
+    "target": "quads",
+    "image": "images/0585-my33uHU.jpg",
+    "gif_url": "videos/0585-my33uHU.gif"
+  },
+  {
+    "id": "0586",
+    "name": "lever lying leg curl",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "leverage machine",
+    "target": "hamstrings",
+    "image": "images/0586-17lJ1kr.jpg",
+    "gif_url": "videos/0586-17lJ1kr.gif"
+  },
+  {
+    "id": "3195",
+    "name": "lever lying two-one leg curl",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "leverage machine",
+    "target": "hamstrings",
+    "image": "images/3195-UXpKJoq.jpg",
+    "gif_url": "videos/3195-UXpKJoq.gif"
+  },
+  {
+    "id": "0587",
+    "name": "lever military press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "leverage machine",
+    "target": "delts",
+    "image": "images/0587-CggQhII.jpg",
+    "gif_url": "videos/0587-CggQhII.gif"
+  },
+  {
+    "id": "0588",
+    "name": "lever narrow grip seated row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "upper back",
+    "image": "images/0588-IGjKj1v.jpg",
+    "gif_url": "videos/0588-IGjKj1v.gif"
+  },
+  {
+    "id": "1356",
+    "name": "lever one arm lateral high row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "upper back",
+    "image": "images/1356-OIFMAp1.jpg",
+    "gif_url": "videos/1356-OIFMAp1.gif"
+  },
+  {
+    "id": "1347",
+    "name": "lever one arm lateral wide pulldown",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "lats",
+    "image": "images/1347-tTuZSDT.jpg",
+    "gif_url": "videos/1347-tTuZSDT.gif"
+  },
+  {
+    "id": "0590",
+    "name": "lever one arm shoulder press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "leverage machine",
+    "target": "delts",
+    "image": "images/0590-2KGnL6M.jpg",
+    "gif_url": "videos/0590-2KGnL6M.gif"
+  },
+  {
+    "id": "0591",
+    "name": "lever overhand triceps dip",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "leverage machine",
+    "target": "triceps",
+    "image": "images/0591-D5yqP2p.jpg",
+    "gif_url": "videos/0591-D5yqP2p.gif"
+  },
+  {
+    "id": "0592",
+    "name": "lever preacher curl",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "leverage machine",
+    "target": "biceps",
+    "image": "images/0592-b6hQYMb.jpg",
+    "gif_url": "videos/0592-b6hQYMb.gif"
+  },
+  {
+    "id": "1614",
+    "name": "lever preacher curl v. 2",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "leverage machine",
+    "target": "biceps",
+    "image": "images/1614-ye84CTU.jpg",
+    "gif_url": "videos/1614-ye84CTU.gif"
+  },
+  {
+    "id": "2285",
+    "name": "lever pullover",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "lats",
+    "image": "images/2285-4U7iLb5.jpg",
+    "gif_url": "videos/2285-4U7iLb5.gif"
+  },
+  {
+    "id": "2736",
+    "name": "lever reverse grip lateral pulldown",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "lats",
+    "image": "images/2736-ky8FLU8.jpg",
+    "gif_url": "videos/2736-ky8FLU8.gif"
+  },
+  {
+    "id": "1616",
+    "name": "lever reverse grip preacher curl",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "leverage machine",
+    "target": "biceps",
+    "image": "images/1616-kj3hy6W.jpg",
+    "gif_url": "videos/1616-kj3hy6W.gif"
+  },
+  {
+    "id": "1348",
+    "name": "lever reverse grip vertical row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "upper back",
+    "image": "images/1348-ZqNOWQ6.jpg",
+    "gif_url": "videos/1348-ZqNOWQ6.gif"
+  },
+  {
+    "id": "0593",
+    "name": "lever reverse hyperextension",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "leverage machine",
+    "target": "glutes",
+    "image": "images/0593-Krmb3cB.jpg",
+    "gif_url": "videos/0593-Krmb3cB.gif"
+  },
+  {
+    "id": "1349",
+    "name": "lever reverse t-bar row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "upper back",
+    "image": "images/1349-BgljGjd.jpg",
+    "gif_url": "videos/1349-BgljGjd.gif"
+  },
+  {
+    "id": "2315",
+    "name": "lever rotary calf",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "leverage machine",
+    "target": "calves",
+    "image": "images/2315-MrgP9L6.jpg",
+    "gif_url": "videos/2315-MrgP9L6.gif"
+  },
+  {
+    "id": "2335",
+    "name": "lever seated calf press",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "leverage machine",
+    "target": "calves",
+    "image": "images/2335-Ie9UGty.jpg",
+    "gif_url": "videos/2335-Ie9UGty.gif"
+  },
+  {
+    "id": "0594",
+    "name": "lever seated calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "leverage machine",
+    "target": "calves",
+    "image": "images/0594-bOOdeyc.jpg",
+    "gif_url": "videos/0594-bOOdeyc.gif"
+  },
+  {
+    "id": "1452",
+    "name": "lever seated crunch",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "leverage machine",
+    "target": "abs",
+    "image": "images/1452-Wgaz7pm.jpg",
+    "gif_url": "videos/1452-Wgaz7pm.gif"
+  },
+  {
+    "id": "0595",
+    "name": "lever seated crunch (chest pad)",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "leverage machine",
+    "target": "abs",
+    "image": "images/0595-ZnJHhMk.jpg",
+    "gif_url": "videos/0595-ZnJHhMk.gif"
+  },
+  {
+    "id": "3760",
+    "name": "lever seated crunch v. 2",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "leverage machine",
+    "target": "abs",
+    "image": "images/3760-eXFXCY0.jpg",
+    "gif_url": "videos/3760-eXFXCY0.gif"
+  },
+  {
+    "id": "1451",
+    "name": "lever seated dip",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "leverage machine",
+    "target": "triceps",
+    "image": "images/1451-BRImeP8.jpg",
+    "gif_url": "videos/1451-BRImeP8.gif"
+  },
+  {
+    "id": "0596",
+    "name": "lever seated fly",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "leverage machine",
+    "target": "pectorals",
+    "image": "images/0596-v3xmPAR.jpg",
+    "gif_url": "videos/0596-v3xmPAR.gif"
+  },
+  {
+    "id": "3759",
+    "name": "lever seated good morning",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "leverage machine",
+    "target": "glutes",
+    "image": "images/3759-XsCcxCC.jpg",
+    "gif_url": "videos/3759-XsCcxCC.gif"
+  },
+  {
+    "id": "0597",
+    "name": "lever seated hip abduction",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "leverage machine",
+    "target": "abductors",
+    "image": "images/0597-CHpahtl.jpg",
+    "gif_url": "videos/0597-CHpahtl.gif"
+  },
+  {
+    "id": "0598",
+    "name": "lever seated hip adduction",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "leverage machine",
+    "target": "adductors",
+    "image": "images/0598-oHsrypV.jpg",
+    "gif_url": "videos/0598-oHsrypV.gif"
+  },
+  {
+    "id": "0599",
+    "name": "lever seated leg curl",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "leverage machine",
+    "target": "hamstrings",
+    "image": "images/0599-Zg3XY7P.jpg",
+    "gif_url": "videos/0599-Zg3XY7P.gif"
+  },
+  {
+    "id": "0600",
+    "name": "lever seated leg raise crunch",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "leverage machine",
+    "target": "abs",
+    "image": "images/0600-PQ2AtC3.jpg",
+    "gif_url": "videos/0600-PQ2AtC3.gif"
+  },
+  {
+    "id": "0602",
+    "name": "lever seated reverse fly",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "leverage machine",
+    "target": "delts",
+    "image": "images/0602-myfUsKf.jpg",
+    "gif_url": "videos/0602-myfUsKf.gif"
+  },
+  {
+    "id": "0601",
+    "name": "lever seated reverse fly (parallel grip)",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "leverage machine",
+    "target": "delts",
+    "image": "images/0601-xiHiJcA.jpg",
+    "gif_url": "videos/0601-xiHiJcA.gif"
+  },
+  {
+    "id": "1350",
+    "name": "lever seated row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "upper back",
+    "image": "images/1350-7I6LNUG.jpg",
+    "gif_url": "videos/1350-7I6LNUG.gif"
+  },
+  {
+    "id": "1385",
+    "name": "lever seated squat calf raise on leg press machine",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "leverage machine",
+    "target": "calves",
+    "image": "images/1385-IeDEXTe.jpg",
+    "gif_url": "videos/1385-IeDEXTe.gif"
+  },
+  {
+    "id": "0603",
+    "name": "lever shoulder press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "leverage machine",
+    "target": "delts",
+    "image": "images/0603-67n3r98.jpg",
+    "gif_url": "videos/0603-67n3r98.gif"
+  },
+  {
+    "id": "0869",
+    "name": "lever shoulder press v. 2",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "leverage machine",
+    "target": "delts",
+    "image": "images/0869-vqsbmL0.jpg",
+    "gif_url": "videos/0869-vqsbmL0.gif"
+  },
+  {
+    "id": "2318",
+    "name": "lever shoulder press v. 3",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "leverage machine",
+    "target": "delts",
+    "image": "images/2318-dNFYIU1.jpg",
+    "gif_url": "videos/2318-dNFYIU1.gif"
+  },
+  {
+    "id": "0604",
+    "name": "lever shrug",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "traps",
+    "image": "images/0604-ZZKbeMw.jpg",
+    "gif_url": "videos/0604-ZZKbeMw.gif"
+  },
+  {
+    "id": "0605",
+    "name": "lever standing calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "leverage machine",
+    "target": "calves",
+    "image": "images/0605-ykUOVze.jpg",
+    "gif_url": "videos/0605-ykUOVze.gif"
+  },
+  {
+    "id": "3758",
+    "name": "lever standing chest press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "leverage machine",
+    "target": "pectorals",
+    "image": "images/3758-WbNq5Xu.jpg",
+    "gif_url": "videos/3758-WbNq5Xu.gif"
+  },
+  {
+    "id": "0606",
+    "name": "lever t bar row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "upper back",
+    "image": "images/0606-aaXr7ld.jpg",
+    "gif_url": "videos/0606-aaXr7ld.gif"
+  },
+  {
+    "id": "1351",
+    "name": "lever t-bar reverse grip row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "upper back",
+    "image": "images/1351-FVM1AUZ.jpg",
+    "gif_url": "videos/1351-FVM1AUZ.gif"
+  },
+  {
+    "id": "0607",
+    "name": "lever triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "leverage machine",
+    "target": "triceps",
+    "image": "images/0607-Ser9eQp.jpg",
+    "gif_url": "videos/0607-Ser9eQp.gif"
+  },
+  {
+    "id": "1313",
+    "name": "lever unilateral row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "upper back",
+    "image": "images/1313-oROuvrX.jpg",
+    "gif_url": "videos/1313-oROuvrX.gif"
+  },
+  {
+    "id": "1301",
+    "name": "machine inner chest press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "leverage machine",
+    "target": "pectorals",
+    "image": "images/1301-wDN97Ca.jpg",
+    "gif_url": "videos/1301-wDN97Ca.gif"
+  },
+  {
+    "id": "0673",
+    "name": "reverse grip machine lat pulldown",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "lats",
+    "image": "images/0673-ecpY0rH.jpg",
+    "gif_url": "videos/0673-ecpY0rH.gif"
+  },
+  {
+    "id": "0798",
+    "name": "stationary bike walk",
+    "category": "cardio",
+    "body_part": "cardio",
+    "equipment": "leverage machine",
+    "target": "cardiovascular system",
+    "image": "images/0798-a8VDgLw.jpg",
+    "gif_url": "videos/0798-a8VDgLw.gif"
+  },
+  {
+    "id": "3666",
+    "name": "walking on incline treadmill",
+    "category": "cardio",
+    "body_part": "cardio",
+    "equipment": "leverage machine",
+    "target": "cardiovascular system",
+    "image": "images/3666-rjiM4L3.jpg",
+    "gif_url": "videos/3666-rjiM4L3.gif"
+  }
+]

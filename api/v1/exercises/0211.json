@@ -1,0 +1,112 @@
+{
+  "id": "0211",
+  "name": "cable russian twists (on stability ball)",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Sit on a stability ball with your feet flat on the ground and your knees bent at a 90-degree angle. Hold the cable handle with both hands and extend your arms straight out in front of you. Lean back slightly while keeping your back straight and your core engaged. Twist your torso to the right, bringing the cable handle towards your right hip. Pause for a moment, then twist your torso to the left, bringing the cable handle towards your left hip. Continue alternating twists for the desired number of repetitions.",
+    "it": "Siediti su una palla di stabilità con i piedi piatti a terra e le ginocchia piegate a 90 gradi. Tieni la maniglia del cavo con entrambe le mani e estendi le braccia dritte davanti a te. Inclinati leggermente all'indietro mantenendo la schiena dritta e il core attivo. Ruota il busto verso destra, portando la maniglia del cavo verso l'anca destra. Fermati un attimo, poi ruota il busto verso sinistra, portando il manico del cavo verso il fianco sinistro. Continua ad alternare le torsioni per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız yere düz basacak ve dizleriniz 90 derecelik bir açıyla bükülmüş olacak şekilde bir stabilite topunun üzerine oturun. Kablo tutamağını iki elinizle tutun ve kollarınızı düz bir şekilde önünüze doğru uzatın. Sırtınızı düz ve merkez bölgenizi meşgul ederken hafifçe geriye yaslanın. Kablo tutamağını sağ kalçanıza doğru getirerek gövdenizi sağa doğru çevirin. Bir an duraklayın, ardından gövdenizi sola doğru döndürerek kablonun tutamağını sol kalçanıza doğru getirin. İstenilen sayıda tekrar için dönüşümlü bükümlere devam edin.",
+    "es": "Siéntate sobre un balón de estabilidad con los pies apoyados planos en el suelo y las rodillas flexionadas en un ángulo de 90 grados. Sujeta la agarradera del cable con ambas manos y extiende los brazos rectos frente a ti. Inclínate ligeramente hacia atrás manteniendo la espalda recta y el core activado. Gira el torso hacia la derecha, llevando la agarradera del cable hacia la cadera derecha. Haz una pausa por un momento y luego gira el torso hacia la izquierda, llevando la agarradera del cable hacia la cadera izquierda. Continúa alternando los giros el número de repeticiones deseado.",
+    "ru": "Сядьте на мяч, поставив ступни на землю и согнув колени под углом 90 градусов. Возьмите рукоятку троса обеими руками и вытяните руки прямо перед собой. Слегка откиньтесь назад, сохраняя спину прямой и напряженный корпус. Поверните туловище вправо, поднеся рукоятку троса к правому бедру. Сделайте паузу на мгновение, затем поверните туловище влево, приближая рукоятку троса к левому бедру. Продолжайте чередовать скручивания желаемое количество повторений.",
+    "zh": "坐在稳定球上，双脚平放在地面上，膝盖弯曲成 90 度角。 双手握住电缆手柄，并将双臂伸直至前方。 稍微向后倾斜，同时保持背部挺直并且核心参与。 将躯干向右扭转，将电缆手柄拉向右臀部。 暂停片刻，然后将躯干向左扭转，将电缆手柄拉向左臀部。 继续交替扭转所需的重复次数。",
+    "hi": "अपने पैरों को ज़मीन पर सपाट करके और अपने घुटनों को 90 डिग्री के कोण पर मोड़कर एक स्टेबिलिटी बॉल पर बैठें। केबल के हैंडल को दोनों हाथों से पकड़ें और अपनी बाहों को अपने सामने सीधा फैलाएं। अपनी पीठ सीधी और अपने कोर को व्यस्त रखते हुए थोड़ा पीछे झुकें। अपने धड़ को दाईं ओर मोड़ें, केबल के हैंडल को अपने दाहिने कूल्हे की ओर लाएं। एक पल के लिए रुकें, फिर अपने धड़ को बाईं ओर मोड़ें, केबल के हैंडल को अपने बाएं कूल्हे की ओर लाएं। पुनरावृत्ति की वांछित संख्या के लिए बारी-बारी से मोड़ जारी रखें।",
+    "pl": "Usiądź na piłce gimnastycznej, stopy płasko na podłodze, kolana ugięte pod kątem 90 stopni. Trzymaj uchwyt wyciągu obiema rękami i wyprostuj ramiona prosto przed sobą. Odchyl się lekko do tyłu, utrzymując proste plecy i napięty tułów. Obróć tułów w prawo, przyciągając uchwyt w kierunku prawego biodra. Zatrzymaj się na moment, a następnie obróć tułów w lewo, przyciągając uchwyt w kierunku lewego biodra. Kontynuuj naprzemienne skręty przez zalecaną liczbę powtórzeń.",
+    "ko": "스태빌리티 볼에 앉아 발을 바닥에 평평하게 놓고 무릎을 90도로 구부립니다. 양손으로 케이블 핸들을 잡고 팔을 앞으로 곧게 펼칩니다. 약간 뒤로 기울이면서 등을 곧게 펴고 코어를 활성화시킵니다. 몸통을 오른쪽으로 비틀면서 케이블 핸들을 오른쪽 엉덩이를 향해 가져옵니다. 잠시 멈춘 후 몸통을 왼쪽으로 비틀면서 케이블 핸들을 왼쪽 엉덩이를 향해 가져옵니다. 원하는 반복 횟수만큼 좌우로 번갈아 비틀면서 반복합니다.",
+    "fr": "Assieds-toi sur un ballon de stabilité, les pieds à plat sur le sol et les genoux fléchis à un angle de 90 degrés. Tiens la poignée de câble des deux mains et étends tes bras droit devant toi. Penche-toi légèrement en arrière en gardant le dos droit et la sangle abdominale gainée. Fais pivoter ton torse vers la droite, en amenant la poignée du câble vers ta hanche droite. Marque une pause, puis fais pivoter ton torse vers la gauche, en amenant la poignée du câble vers ta hanche gauche. Continue à alterner les torsions pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on a stability ball with your feet flat on the ground and your knees bent at a 90-degree angle.",
+      "Hold the cable handle with both hands and extend your arms straight out in front of you.",
+      "Lean back slightly while keeping your back straight and your core engaged.",
+      "Twist your torso to the right, bringing the cable handle towards your right hip.",
+      "Pause for a moment, then twist your torso to the left, bringing the cable handle towards your left hip.",
+      "Continue alternating twists for the desired number of repetitions."
+    ],
+    "it": [
+      "Siediti su una palla di stabilità con i piedi piatti a terra e le ginocchia piegate a 90 gradi.",
+      "Tieni la maniglia del cavo con entrambe le mani e estendi le braccia dritte davanti a te.",
+      "Inclinati leggermente all'indietro mantenendo la schiena dritta e il core attivo.",
+      "Ruota il busto verso destra, portando la maniglia del cavo verso l'anca destra.",
+      "Fermati un attimo, poi ruota il busto verso sinistra, portando il manico del cavo verso il fianco sinistro.",
+      "Continua ad alternare le torsioni per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız yere düz basacak ve dizleriniz 90 derecelik bir açıyla bükülmüş olacak şekilde bir stabilite topunun üzerine oturun.",
+      "Kablo tutamağını iki elinizle tutun ve kollarınızı düz bir şekilde önünüze doğru uzatın.",
+      "Sırtınızı düz ve merkez bölgenizi meşgul ederken hafifçe geriye yaslanın.",
+      "Kablo tutamağını sağ kalçanıza doğru getirerek gövdenizi sağa doğru çevirin.",
+      "Bir an duraklayın, ardından gövdenizi sola doğru döndürerek kablonun tutamağını sol kalçanıza doğru getirin.",
+      "İstenilen sayıda tekrar için dönüşümlü bükümlere devam edin."
+    ],
+    "es": [
+      "Siéntate sobre un balón de estabilidad con los pies apoyados planos en el suelo y las rodillas flexionadas en un ángulo de 90 grados.",
+      "Sujeta la agarradera del cable con ambas manos y extiende los brazos rectos frente a ti.",
+      "Inclínate ligeramente hacia atrás manteniendo la espalda recta y el core activado.",
+      "Gira el torso hacia la derecha, llevando la agarradera del cable hacia la cadera derecha.",
+      "Haz una pausa por un momento y luego gira el torso hacia la izquierda, llevando la agarradera del cable hacia la cadera izquierda.",
+      "Continúa alternando los giros el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на мяч, поставив ступни на землю и согнув колени под углом 90 градусов.",
+      "Возьмите рукоятку троса обеими руками и вытяните руки прямо перед собой.",
+      "Слегка откиньтесь назад, сохраняя спину прямой и напряженный корпус.",
+      "Поверните туловище вправо, поднеся рукоятку троса к правому бедру.",
+      "Сделайте паузу на мгновение, затем поверните туловище влево, приближая рукоятку троса к левому бедру.",
+      "Продолжайте чередовать скручивания желаемое количество повторений."
+    ],
+    "zh": [
+      "坐在稳定球上，双脚平放在地面上，膝盖弯曲成 90 度角。",
+      "双手握住电缆手柄，并将双臂伸直至前方。",
+      "稍微向后倾斜，同时保持背部挺直并且核心参与。",
+      "将躯干向右扭转，将电缆手柄拉向右臀部。",
+      "暂停片刻，然后将躯干向左扭转，将电缆手柄拉向左臀部。",
+      "继续交替扭转所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को ज़मीन पर सपाट करके और अपने घुटनों को 90 डिग्री के कोण पर मोड़कर एक स्टेबिलिटी बॉल पर बैठें।",
+      "केबल के हैंडल को दोनों हाथों से पकड़ें और अपनी बाहों को अपने सामने सीधा फैलाएं।",
+      "अपनी पीठ सीधी और अपने कोर को व्यस्त रखते हुए थोड़ा पीछे झुकें।",
+      "अपने धड़ को दाईं ओर मोड़ें, केबल के हैंडल को अपने दाहिने कूल्हे की ओर लाएं।",
+      "एक पल के लिए रुकें, फिर अपने धड़ को बाईं ओर मोड़ें, केबल के हैंडल को अपने बाएं कूल्हे की ओर लाएं।",
+      "पुनरावृत्ति की वांछित संख्या के लिए बारी-बारी से मोड़ जारी रखें।"
+    ],
+    "pl": [
+      "Usiądź na piłce gimnastycznej, stopy płasko na podłodze, kolana ugięte pod kątem 90 stopni.",
+      "Trzymaj uchwyt wyciągu obiema rękami i wyprostuj ramiona prosto przed sobą.",
+      "Odchyl się lekko do tyłu, utrzymując proste plecy i napięty tułów.",
+      "Obróć tułów w prawo, przyciągając uchwyt w kierunku prawego biodra.",
+      "Zatrzymaj się na moment, a następnie obróć tułów w lewo, przyciągając uchwyt w kierunku lewego biodra.",
+      "Kontynuuj naprzemienne skręty przez zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "스태빌리티 볼에 앉아 발을 바닥에 평평하게 놓고 무릎을 90도로 구부립니다.",
+      "양손으로 케이블 핸들을 잡고 팔을 앞으로 곧게 펼칩니다.",
+      "약간 뒤로 기울이면서 등을 곧게 펴고 코어를 활성화시킵니다.",
+      "몸통을 오른쪽으로 비틀면서 케이블 핸들을 오른쪽 엉덩이를 향해 가져옵니다.",
+      "잠시 멈춘 후 몸통을 왼쪽으로 비틀면서 케이블 핸들을 왼쪽 엉덩이를 향해 가져옵니다.",
+      "원하는 반복 횟수만큼 좌우로 번갈아 비틀면서 반복합니다."
+    ],
+    "fr": [
+      "Assieds-toi sur un ballon de stabilité, les pieds à plat sur le sol et les genoux fléchis à un angle de 90 degrés.",
+      "Tiens la poignée de câble des deux mains et étends tes bras droit devant toi.",
+      "Penche-toi légèrement en arrière en gardant le dos droit et la sangle abdominale gainée.",
+      "Fais pivoter ton torse vers la droite, en amenant la poignée du câble vers ta hanche droite.",
+      "Marque une pause, puis fais pivoter ton torse vers la gauche, en amenant la poignée du câble vers ta hanche gauche.",
+      "Continue à alterner les torsions pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "obliques",
+  "secondary_muscles": [
+    "obliques",
+    "lower back"
+  ],
+  "target": "abs",
+  "image": "images/0211-d9Xaxq6.jpg",
+  "gif_url": "videos/0211-d9Xaxq6.gif",
+  "media_id": "d9Xaxq6",
+  "created_at": "2026-03-18T12:31:32.875837+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

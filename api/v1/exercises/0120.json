@@ -1,0 +1,102 @@
+{
+  "id": "0120",
+  "name": "barbell upright row",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and hold a barbell with an overhand grip, hands slightly wider than shoulder-width apart. Let the barbell hang in front of your thighs, arms fully extended. Keeping your back straight and core engaged, exhale and lift the barbell straight up towards your chin, leading with your elbows. Pause for a moment at the top, then inhale and slowly lower the barbell back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi a larghezza delle spalle e tieni un bilanciere con una presa sopra la mano, le mani leggermente più larghe della larghezza delle spalle. Lascia che il bilanciere pendi davanti alle cosce, braccia completamente distese. Tenendo la schiena dritta e il core attivo, espira e solleva il bilanciere verso il mento, iniziando con i gomiti. Fermati un attimo in cima, poi inspira e abbassa lentamente il bilanciere fino alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durun ve halteri üstten kavrayarak tutun, eller omuz genişliğinden biraz daha açık olsun. Halterin uyluklarınızın önünde asılı kalmasına izin verin, kollarınız tamamen uzatılmış olsun. Sırtınızı düz ve göbek bölgenizi meşgul tutarak nefes verin ve halteri dirseklerinizle birlikte çenenize doğru düz bir şekilde kaldırın. Tepe noktasında bir süre duraklayın, ardından nefes alın ve halteri yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y sujeta una barra con agarre prono, manos un poco más separadas que el ancho de los hombros. Deja que la barra cuelgue frente a los muslos, con los brazos completamente extendidos. Manteniendo la espalda recta y el core activado, exhala y levanta la barra en línea recta hacia la barbilla, guiando el movimiento con los codos. Haz una pausa breve en la parte más alta, luego inhala y baja lentamente la barra de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, возьмите штангу хватом сверху, руки расставлены чуть шире плеч. Пусть штанга висит перед бедрами, руки полностью выпрямлены. Удерживая спину прямой и напряженным корпус, выдохните и поднимите штангу прямо вверх к подбородку, ведя локтями. Задержитесь на мгновение в верхней точке, затем вдохните и медленно опустите штангу обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，正手握住杠铃，双手分开略宽于肩宽。 让杠铃悬挂在大腿前面，双臂完全伸展。 保持背部挺直，核心收紧，呼气，将杠铃笔直向上举向下巴，用肘部引导。 在顶部停顿片刻，然后吸气，慢慢将杠铃放回起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई से अलग करके खड़े हो जाएं और बारबेल को ओवरहैंड ग्रिप से पकड़ें, हाथों को कंधे की चौड़ाई से थोड़ा चौड़ा रखें। बारबेल को अपनी जाँघों के सामने लटका दें, बाहें पूरी तरह फैली हुई हों। अपनी पीठ को सीधा और कोर को व्यस्त रखते हुए, सांस छोड़ें और बारबेल को अपनी कोहनियों की मदद से सीधे अपनी ठुड्डी की ओर उठाएं। शीर्ष पर एक पल के लिए रुकें, फिर सांस लें और धीरे-धीरे बारबेल को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań ze stopami na szerokość barków, trzymając sztangę chwytem nachwytem, z dłońmi nieco szerzej niż na szerokość barków. Pozwól sztandze zwisać przed udami, z ramionami w pełni wyprostowanymi. Trzymając plecy proste, a mięśnie brzucha napięte, wydychaj powietrze i unieś sztangę prosto w górę w kierunku brody, prowadząc ruch łokciami. Zatrzymaj się na chwilę w górnej pozycji, a następnie wdychaj powietrze i powoli opuść sztangę z powrotem do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "어깨 너비로 발을 벌리고 서서 손바닥이 바깥쪽을 향하도록 바벨을 잡되 손은 어깨 너비보다 약간 넓게 벌립니다. 바벨을 허벅지 앞에서 팔을 완전히 펼친 상태로 놓습니다. 등을 곧게 펴고 코어에 힘을 주며 숨을 내쉬면서 팔꿈치를 앞으로 향하게 하여 바벨을 턱 쪽으로 들어올립니다. 맨 위에서 잠깐 멈춘 후, 숨을 들이쉬면서 천천히 바벨을 시작 위치로 내립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens une barre en prise pronation, les mains légèrement plus écartées que la largeur des épaules. Laisse la barre pendre devant tes cuisses, les bras entièrement tendus. En gardant le dos droit et la sangle abdominale gainée, expire et soulève la barre droit vers ton menton, en menant avec tes coudes. Marque une pause en haut, puis inspire et abaisse lentement la barre pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and hold a barbell with an overhand grip, hands slightly wider than shoulder-width apart.",
+      "Let the barbell hang in front of your thighs, arms fully extended.",
+      "Keeping your back straight and core engaged, exhale and lift the barbell straight up towards your chin, leading with your elbows.",
+      "Pause for a moment at the top, then inhale and slowly lower the barbell back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi a larghezza delle spalle e tieni un bilanciere con una presa sopra la mano, le mani leggermente più larghe della larghezza delle spalle.",
+      "Lascia che il bilanciere pendi davanti alle cosce, braccia completamente distese.",
+      "Tenendo la schiena dritta e il core attivo, espira e solleva il bilanciere verso il mento, iniziando con i gomiti.",
+      "Fermati un attimo in cima, poi inspira e abbassa lentamente il bilanciere fino alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durun ve halteri üstten kavrayarak tutun, eller omuz genişliğinden biraz daha açık olsun.",
+      "Halterin uyluklarınızın önünde asılı kalmasına izin verin, kollarınız tamamen uzatılmış olsun.",
+      "Sırtınızı düz ve göbek bölgenizi meşgul tutarak nefes verin ve halteri dirseklerinizle birlikte çenenize doğru düz bir şekilde kaldırın.",
+      "Tepe noktasında bir süre duraklayın, ardından nefes alın ve halteri yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y sujeta una barra con agarre prono, manos un poco más separadas que el ancho de los hombros.",
+      "Deja que la barra cuelgue frente a los muslos, con los brazos completamente extendidos.",
+      "Manteniendo la espalda recta y el core activado, exhala y levanta la barra en línea recta hacia la barbilla, guiando el movimiento con los codos.",
+      "Haz una pausa breve en la parte más alta, luego inhala y baja lentamente la barra de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, возьмите штангу хватом сверху, руки расставлены чуть шире плеч.",
+      "Пусть штанга висит перед бедрами, руки полностью выпрямлены.",
+      "Удерживая спину прямой и напряженным корпус, выдохните и поднимите штангу прямо вверх к подбородку, ведя локтями.",
+      "Задержитесь на мгновение в верхней точке, затем вдохните и медленно опустите штангу обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，正手握住杠铃，双手分开略宽于肩宽。",
+      "让杠铃悬挂在大腿前面，双臂完全伸展。",
+      "保持背部挺直，核心收紧，呼气，将杠铃笔直向上举向下巴，用肘部引导。",
+      "在顶部停顿片刻，然后吸气，慢慢将杠铃放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई से अलग करके खड़े हो जाएं और बारबेल को ओवरहैंड ग्रिप से पकड़ें, हाथों को कंधे की चौड़ाई से थोड़ा चौड़ा रखें।",
+      "बारबेल को अपनी जाँघों के सामने लटका दें, बाहें पूरी तरह फैली हुई हों।",
+      "अपनी पीठ को सीधा और कोर को व्यस्त रखते हुए, सांस छोड़ें और बारबेल को अपनी कोहनियों की मदद से सीधे अपनी ठुड्डी की ओर उठाएं।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर सांस लें और धीरे-धीरे बारबेल को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań ze stopami na szerokość barków, trzymając sztangę chwytem nachwytem, z dłońmi nieco szerzej niż na szerokość barków.",
+      "Pozwól sztandze zwisać przed udami, z ramionami w pełni wyprostowanymi.",
+      "Trzymając plecy proste, a mięśnie brzucha napięte, wydychaj powietrze i unieś sztangę prosto w górę w kierunku brody, prowadząc ruch łokciami.",
+      "Zatrzymaj się na chwilę w górnej pozycji, a następnie wdychaj powietrze i powoli opuść sztangę z powrotem do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "어깨 너비로 발을 벌리고 서서 손바닥이 바깥쪽을 향하도록 바벨을 잡되 손은 어깨 너비보다 약간 넓게 벌립니다.",
+      "바벨을 허벅지 앞에서 팔을 완전히 펼친 상태로 놓습니다.",
+      "등을 곧게 펴고 코어에 힘을 주며 숨을 내쉬면서 팔꿈치를 앞으로 향하게 하여 바벨을 턱 쪽으로 들어올립니다.",
+      "맨 위에서 잠깐 멈춘 후, 숨을 들이쉬면서 천천히 바벨을 시작 위치로 내립니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens une barre en prise pronation, les mains légèrement plus écartées que la largeur des épaules.",
+      "Laisse la barre pendre devant tes cuisses, les bras entièrement tendus.",
+      "En gardant le dos droit et la sangle abdominale gainée, expire et soulève la barre droit vers ton menton, en menant avec tes coudes.",
+      "Marque une pause en haut, puis inspire et abaisse lentement la barre pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "traps",
+  "secondary_muscles": [
+    "traps",
+    "biceps"
+  ],
+  "target": "delts",
+  "image": "images/0120-UDlhcO8.jpg",
+  "gif_url": "videos/0120-UDlhcO8.gif",
+  "media_id": "UDlhcO8",
+  "created_at": "2026-03-18T12:31:32.87338+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

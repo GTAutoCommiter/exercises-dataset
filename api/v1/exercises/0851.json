@@ -1,0 +1,113 @@
+{
+  "id": "0851",
+  "name": "weighted sissy squat",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "weighted",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and your toes pointing slightly outward. Hold a weight in front of your chest with both hands, or place a barbell across your upper back. Keeping your chest up and your core engaged, slowly lower your body down by bending at the knees and hips. Continue lowering until your thighs are parallel to the ground or as low as you can comfortably go. Pause for a moment at the bottom, then push through your heels to return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi alla larghezza delle spalle e le dita dei piedi leggermente rivolte verso l'esterno. Tieni un peso davanti al petto con entrambe le mani o posiziona un bilanciere sulla parte superiore della schiena. Mantenendo il petto in alto e il core impegnato, abbassa lentamente il corpo piegando le ginocchia e i fianchi. Continua ad abbassarti finché le cosce non sono parallele al suolo o il più in basso possibile. Fai una pausa per un momento in fondo, quindi spingi i talloni per tornare alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız omuz genişliğinde açık ve ayak parmaklarınız hafifçe dışarı bakacak şekilde ayakta durun. İki elinizle göğsünüzün önünde bir ağırlık tutun veya sırtınızın üst kısmına bir halter yerleştirin. Göğsünüzü yukarıda ve merkez bölgenizi meşgul tutarak, dizlerinizi ve kalçalarınızı bükerek vücudunuzu yavaşça aşağı indirin. Uyluklarınız yere paralel veya rahatça gidebileceğiniz kadar alçalana kadar alçaltmaya devam edin. Altta bir an duraklayın, ardından başlangıç ​​pozisyonuna dönmek için topuklarınızı itin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y los dedos de los pies ligeramente hacia afuera. Sostén un peso frente al pecho con ambas manos, o coloca una barra sobre la parte superior de la espalda. Manteniendo el pecho elevado y el core activado, baja lentamente el cuerpo flexionando las rodillas y las caderas. Continúa bajando hasta que los muslos queden paralelos al suelo, o tan abajo como puedas hacerlo cómodamente. Haz una pausa por un momento en la parte inferior, luego empuja con los talones para regresar a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, носки слегка направлены наружу. Держите гирю перед грудью обеими руками или положите штангу на верхнюю часть спины. Удерживая грудь поднятой и напряженным корпус, медленно опустите тело вниз, сгибая колени и бедра. Продолжайте опускаться до тех пор, пока ваши бедра не станут параллельны земле или настолько низко, насколько вам будет удобно. Задержитесь на мгновение внизу, затем оттолкнитесь пятками, чтобы вернуться в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，脚趾稍微向外。 用双手将重物放在胸前，或将杠铃放在上背部。 保持挺胸，核心收紧，弯曲膝盖和臀部，慢慢降低身体。 继续降低，直到大腿与地面平行或尽可能低。 在底部停顿片刻，然后推动脚后跟回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और आपके पैर की उंगलियां थोड़ी बाहर की ओर हों। दोनों हाथों से अपनी छाती के सामने वजन पकड़ें, या अपनी ऊपरी पीठ पर एक बारबेल रखें। अपनी छाती को ऊपर और अपने कोर को व्यस्त रखते हुए, घुटनों और कूल्हों पर झुकते हुए धीरे-धीरे अपने शरीर को नीचे लाएँ। तब तक नीचे उतरना जारी रखें जब तक कि आपकी जांघें जमीन के समानांतर न हो जाएं या जितना नीचे आप आराम से जा सकें, उतना नीचे आ जाएं। नीचे एक पल के लिए रुकें, फिर प्रारंभिक स्थिति में लौटने के लिए अपनी एड़ियों से धक्का दें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań ze stopami rozstawionymi na szerokość barków, palce stóp skierowane lekko na zewnątrz. Trzymaj obciążenie przed klatką piersiową obiema rękami lub umieść sztangę na górnej części pleców. Trzymając klatkę piersiową uniesioną i napięte mięśnie brzucha, powoli opuść ciało, uginając kolana i biodra. Kontynuuj opuszczanie, aż uda będą równoległe do podłoża lub tak nisko, jak możesz komfortowo zejść. Zatrzymaj się na chwilę na dole, a następnie wypchnij się piętami, aby wrócić do pozycji wyjściowej. Powtórz zgodnie z żądaną liczbą powtórzeń.",
+    "ko": "발을 어깨 너비만큼 떨어뜨리고 발가락이 약간 바깥쪽을 향하도록 서 있습니다. 웨이트를 양손으로 가슴 앞에 들거나 바벨을 등 위쪽에 걸쳐 놓습니다. 가슴을 펴고 복부를 활성화한 상태에서 무릎과 엉덩이를 구부려 천천히 몸을 내립니다. 넓적다리가 바닥과 평행할 때까지 또는 편하게 갈 수 있는 만큼 계속 내립니다. 아래에서 잠깐 멈춘 후 발꿈치를 통해 밀어 시작 위치로 돌아갑니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et les orteils légèrement tournés vers l'extérieur. Tiens un poids devant ta poitrine des deux mains, ou place une barre en travers du haut de ton dos. En gardant la poitrine relevée et ta sangle abdominale gainée, abaisse lentement ton corps en fléchissant les genoux et les hanches. Continue à descendre jusqu'à ce que tes cuisses soient parallèles au sol ou aussi bas que tu peux confortablement aller. Marque une pause en bas, puis pousse sur tes talons pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and your toes pointing slightly outward.",
+      "Hold a weight in front of your chest with both hands, or place a barbell across your upper back.",
+      "Keeping your chest up and your core engaged, slowly lower your body down by bending at the knees and hips.",
+      "Continue lowering until your thighs are parallel to the ground or as low as you can comfortably go.",
+      "Pause for a moment at the bottom, then push through your heels to return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle e le dita dei piedi leggermente rivolte verso l'esterno.",
+      "Tieni un peso davanti al petto con entrambe le mani o posiziona un bilanciere sulla parte superiore della schiena.",
+      "Mantenendo il petto in alto e il core impegnato, abbassa lentamente il corpo piegando le ginocchia e i fianchi.",
+      "Continua ad abbassarti finché le cosce non sono parallele al suolo o il più in basso possibile.",
+      "Fai una pausa per un momento in fondo, quindi spingi i talloni per tornare alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık ve ayak parmaklarınız hafifçe dışarı bakacak şekilde ayakta durun.",
+      "İki elinizle göğsünüzün önünde bir ağırlık tutun veya sırtınızın üst kısmına bir halter yerleştirin.",
+      "Göğsünüzü yukarıda ve merkez bölgenizi meşgul tutarak, dizlerinizi ve kalçalarınızı bükerek vücudunuzu yavaşça aşağı indirin.",
+      "Uyluklarınız yere paralel veya rahatça gidebileceğiniz kadar alçalana kadar alçaltmaya devam edin.",
+      "Altta bir an duraklayın, ardından başlangıç ​​pozisyonuna dönmek için topuklarınızı itin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y los dedos de los pies ligeramente hacia afuera.",
+      "Sostén un peso frente al pecho con ambas manos, o coloca una barra sobre la parte superior de la espalda.",
+      "Manteniendo el pecho elevado y el core activado, baja lentamente el cuerpo flexionando las rodillas y las caderas.",
+      "Continúa bajando hasta que los muslos queden paralelos al suelo, o tan abajo como puedas hacerlo cómodamente.",
+      "Haz una pausa por un momento en la parte inferior, luego empuja con los talones para regresar a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, носки слегка направлены наружу.",
+      "Держите гирю перед грудью обеими руками или положите штангу на верхнюю часть спины.",
+      "Удерживая грудь поднятой и напряженным корпус, медленно опустите тело вниз, сгибая колени и бедра.",
+      "Продолжайте опускаться до тех пор, пока ваши бедра не станут параллельны земле или настолько низко, насколько вам будет удобно.",
+      "Задержитесь на мгновение внизу, затем оттолкнитесь пятками, чтобы вернуться в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，脚趾稍微向外。",
+      "用双手将重物放在胸前，或将杠铃放在上背部。",
+      "保持挺胸，核心收紧，弯曲膝盖和臀部，慢慢降低身体。",
+      "继续降低，直到大腿与地面平行或尽可能低。",
+      "在底部停顿片刻，然后推动脚后跟回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और आपके पैर की उंगलियां थोड़ी बाहर की ओर हों।",
+      "दोनों हाथों से अपनी छाती के सामने वजन पकड़ें, या अपनी ऊपरी पीठ पर एक बारबेल रखें।",
+      "अपनी छाती को ऊपर और अपने कोर को व्यस्त रखते हुए, घुटनों और कूल्हों पर झुकते हुए धीरे-धीरे अपने शरीर को नीचे लाएँ।",
+      "तब तक नीचे उतरना जारी रखें जब तक कि आपकी जांघें जमीन के समानांतर न हो जाएं या जितना नीचे आप आराम से जा सकें, उतना नीचे आ जाएं।",
+      "नीचे एक पल के लिए रुकें, फिर प्रारंभिक स्थिति में लौटने के लिए अपनी एड़ियों से धक्का दें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań ze stopami rozstawionymi na szerokość barków, palce stóp skierowane lekko na zewnątrz.",
+      "Trzymaj obciążenie przed klatką piersiową obiema rękami lub umieść sztangę na górnej części pleców.",
+      "Trzymając klatkę piersiową uniesioną i napięte mięśnie brzucha, powoli opuść ciało, uginając kolana i biodra.",
+      "Kontynuuj opuszczanie, aż uda będą równoległe do podłoża lub tak nisko, jak możesz komfortowo zejść.",
+      "Zatrzymaj się na chwilę na dole, a następnie wypchnij się piętami, aby wrócić do pozycji wyjściowej.",
+      "Powtórz zgodnie z żądaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 너비만큼 떨어뜨리고 발가락이 약간 바깥쪽을 향하도록 서 있습니다.",
+      "웨이트를 양손으로 가슴 앞에 들거나 바벨을 등 위쪽에 걸쳐 놓습니다.",
+      "가슴을 펴고 복부를 활성화한 상태에서 무릎과 엉덩이를 구부려 천천히 몸을 내립니다.",
+      "넓적다리가 바닥과 평행할 때까지 또는 편하게 갈 수 있는 만큼 계속 내립니다.",
+      "아래에서 잠깐 멈춘 후 발꿈치를 통해 밀어 시작 위치로 돌아갑니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et les orteils légèrement tournés vers l'extérieur.",
+      "Tiens un poids devant ta poitrine des deux mains, ou place une barre en travers du haut de ton dos.",
+      "En gardant la poitrine relevée et ta sangle abdominale gainée, abaisse lentement ton corps en fléchissant les genoux et les hanches.",
+      "Continue à descendre jusqu'à ce que tes cuisses soient parallèles au sol ou aussi bas que tu peux confortablement aller.",
+      "Marque une pause en bas, puis pousse sur tes talons pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "glutes",
+  "secondary_muscles": [
+    "glutes",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "quads",
+  "image": "images/0851-0lQnxMZ.jpg",
+  "gif_url": "videos/0851-0lQnxMZ.gif",
+  "media_id": "0lQnxMZ",
+  "created_at": "2026-03-18T12:31:32.906239+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

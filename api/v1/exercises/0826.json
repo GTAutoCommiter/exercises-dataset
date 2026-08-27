@@ -1,0 +1,101 @@
+{
+  "id": "0826",
+  "name": "vertical leg raise (on parallel bars)",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Hang from the parallel bars with your arms fully extended and your body straight. Engage your core and lift your legs up in front of you, keeping them straight. Continue lifting until your legs are parallel to the ground or slightly higher. Pause for a moment at the top, then slowly lower your legs back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Appendi alle parallele con le braccia completamente distese e il corpo dritto. Coinvolgi il tuo core e solleva le gambe davanti a te, mantenendole dritte. Continua a sollevare finché le gambe non sono parallele al suolo o leggermente più alte. Fai una pausa per un momento in alto, quindi abbassa lentamente le gambe fino alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Kollarınız tamamen uzatılmış ve vücudunuz düz olacak şekilde paralel çubuklardan sarkın. Merkez bölgenizi devreye sokun ve bacaklarınızı düz tutarak önünüze kaldırın. Bacaklarınız yere paralel veya biraz daha yükseğe çıkana kadar kaldırmaya devam edin. Tepe noktasında bir an duraklayın, ardından bacaklarınızı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Cuélgate de las barras paralelas con los brazos completamente extendidos y el cuerpo recto. Activa el core y levanta las piernas frente a ti, manteniéndolas rectas. Continúa levantando hasta que las piernas queden paralelas al suelo o un poco más arriba. Haz una pausa por un momento en la parte superior, luego baja lentamente las piernas de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Повисните на параллельных брусьях, полностью вытянув руки и выпрямив тело. Напрягите корпус и поднимите ноги перед собой, сохраняя их прямыми. Продолжайте поднимать, пока ваши ноги не станут параллельны земле или немного выше. Задержитесь на мгновение в верхней точке, затем медленно опустите ноги обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "悬挂在双杠上，双臂完全伸展，身体伸直。 启动你的核心并将双腿抬起到你面前，保持伸直。 继续抬起，直到双腿与地面平行或稍高。 在顶部暂停片刻，然后慢慢将双腿放回起始位置。 重复所需的重复次数。",
+    "hi": "अपनी भुजाओं को पूरी तरह फैलाकर और अपने शरीर को सीधा रखते हुए समानांतर सलाखों से लटकें। अपने कोर को संलग्न करें और अपने पैरों को अपने सामने ऊपर उठाएं, उन्हें सीधा रखें। तब तक उठाना जारी रखें जब तक कि आपके पैर जमीन के समानांतर या थोड़ा ऊंचे न हो जाएं। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने पैरों को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Zwiśnij z poręczy równoległych z w pełni wyprostowanymi ramionami i wyprostowanym ciałem. Napnij mięśnie brzucha i unieś nogi przed siebie, trzymając je proste. Kontynuuj unoszenie, aż nogi będą równoległe do podłoża lub nieco wyżej. Zatrzymaj się na chwilę na górze, a następnie powoli opuść nogi z powrotem do pozycji wyjściowej. Powtórz zgodnie z żądaną liczbą powtórzeń.",
+    "ko": "평행봉에 매달려 팔을 완전히 펴고 몸을 곧게 유지합니다. 코어를 조여 다리를 앞쪽으로 들어올립니다. 다리는 곧게 유지합니다. 다리가 땅과 평행하거나 약간 더 위로 올 때까지 계속 들어올립니다. 최상단에서 잠시 멈춘 후 천천히 다리를 시작 위치로 내립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Suspends-toi aux barres parallèles, les bras complètement étendus et le corps droit. Gaine ta sangle abdominale et lève tes jambes devant toi, en les gardant droites. Continue à soulever jusqu'à ce que tes jambes soient parallèles au sol ou légèrement plus haut. Marque une pause en haut, puis abaisse lentement tes jambes pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Hang from the parallel bars with your arms fully extended and your body straight.",
+      "Engage your core and lift your legs up in front of you, keeping them straight.",
+      "Continue lifting until your legs are parallel to the ground or slightly higher.",
+      "Pause for a moment at the top, then slowly lower your legs back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Appendi alle parallele con le braccia completamente distese e il corpo dritto.",
+      "Coinvolgi il tuo core e solleva le gambe davanti a te, mantenendole dritte.",
+      "Continua a sollevare finché le gambe non sono parallele al suolo o leggermente più alte.",
+      "Fai una pausa per un momento in alto, quindi abbassa lentamente le gambe fino alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Kollarınız tamamen uzatılmış ve vücudunuz düz olacak şekilde paralel çubuklardan sarkın.",
+      "Merkez bölgenizi devreye sokun ve bacaklarınızı düz tutarak önünüze kaldırın.",
+      "Bacaklarınız yere paralel veya biraz daha yükseğe çıkana kadar kaldırmaya devam edin.",
+      "Tepe noktasında bir an duraklayın, ardından bacaklarınızı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Cuélgate de las barras paralelas con los brazos completamente extendidos y el cuerpo recto.",
+      "Activa el core y levanta las piernas frente a ti, manteniéndolas rectas.",
+      "Continúa levantando hasta que las piernas queden paralelas al suelo o un poco más arriba.",
+      "Haz una pausa por un momento en la parte superior, luego baja lentamente las piernas de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Повисните на параллельных брусьях, полностью вытянув руки и выпрямив тело.",
+      "Напрягите корпус и поднимите ноги перед собой, сохраняя их прямыми.",
+      "Продолжайте поднимать, пока ваши ноги не станут параллельны земле или немного выше.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите ноги обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "悬挂在双杠上，双臂完全伸展，身体伸直。",
+      "启动你的核心并将双腿抬起到你面前，保持伸直。",
+      "继续抬起，直到双腿与地面平行或稍高。",
+      "在顶部暂停片刻，然后慢慢将双腿放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपनी भुजाओं को पूरी तरह फैलाकर और अपने शरीर को सीधा रखते हुए समानांतर सलाखों से लटकें।",
+      "अपने कोर को संलग्न करें और अपने पैरों को अपने सामने ऊपर उठाएं, उन्हें सीधा रखें।",
+      "तब तक उठाना जारी रखें जब तक कि आपके पैर जमीन के समानांतर या थोड़ा ऊंचे न हो जाएं।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने पैरों को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Zwiśnij z poręczy równoległych z w pełni wyprostowanymi ramionami i wyprostowanym ciałem.",
+      "Napnij mięśnie brzucha i unieś nogi przed siebie, trzymając je proste.",
+      "Kontynuuj unoszenie, aż nogi będą równoległe do podłoża lub nieco wyżej.",
+      "Zatrzymaj się na chwilę na górze, a następnie powoli opuść nogi z powrotem do pozycji wyjściowej.",
+      "Powtórz zgodnie z żądaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "평행봉에 매달려 팔을 완전히 펴고 몸을 곧게 유지합니다.",
+      "코어를 조여 다리를 앞쪽으로 들어올립니다. 다리는 곧게 유지합니다.",
+      "다리가 땅과 평행하거나 약간 더 위로 올 때까지 계속 들어올립니다.",
+      "최상단에서 잠시 멈춘 후 천천히 다리를 시작 위치로 내립니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Suspends-toi aux barres parallèles, les bras complètement étendus et le corps droit.",
+      "Gaine ta sangle abdominale et lève tes jambes devant toi, en les gardant droites.",
+      "Continue à soulever jusqu'à ce que tes jambes soient parallèles au sol ou légèrement plus haut.",
+      "Marque une pause en haut, puis abaisse lentement tes jambes pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hip flexors",
+  "secondary_muscles": [
+    "hip flexors"
+  ],
+  "target": "abs",
+  "image": "images/0826-ZNgOYQU.jpg",
+  "gif_url": "videos/0826-ZNgOYQU.gif",
+  "media_id": "ZNgOYQU",
+  "created_at": "2026-03-18T12:31:32.905598+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

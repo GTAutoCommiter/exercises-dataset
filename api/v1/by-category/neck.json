@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1403",
+    "name": "neck side stretch",
+    "category": "neck",
+    "body_part": "neck",
+    "equipment": "body weight",
+    "target": "levator scapulae",
+    "image": "images/1403-x2chWLO.jpg",
+    "gif_url": "videos/1403-x2chWLO.gif"
+  },
+  {
+    "id": "0716",
+    "name": "side push neck stretch",
+    "category": "neck",
+    "body_part": "neck",
+    "equipment": "body weight",
+    "target": "levator scapulae",
+    "image": "images/0716-oQRJYkC.jpg",
+    "gif_url": "videos/0716-oQRJYkC.gif"
+  }
+]

@@ -1,0 +1,103 @@
+{
+  "id": "0053",
+  "name": "barbell jump squat",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Start by standing with your feet shoulder-width apart, holding a barbell across your upper back. Lower your body into a squat position by bending your knees and pushing your hips back. Once you reach the bottom of the squat, explode upwards by jumping off the ground. As you jump, extend your hips, knees, and ankles, pushing through your toes. Land softly back into the squat position and immediately repeat the movement for the desired number of repetitions.",
+    "it": "Inizia stando in piedi con i piedi alla larghezza delle spalle, tenendo un bilanciere sulla parte superiore della schiena. Abbassa il corpo in una posizione tozza piegando le ginocchia e spingendo indietro i fianchi. Una volta raggiunto il fondo dello squat, esplodi verso l'alto saltando da terra. Mentre salti, estendi i fianchi, le ginocchia e le caviglie, spingendo attraverso le dita dei piedi. Atterra dolcemente nella posizione tozza e ripeti immediatamente il movimento per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınızı omuz genişliğinde açarak, sırtınızın üst kısmında bir halter tutarak başlayın. Dizlerinizi bükerek ve kalçalarınızı geriye doğru iterek vücudunuzu çömelme pozisyonuna indirin. Squat'ın en altına ulaştığınızda yerden atlayarak yukarıya doğru patlayın. Zıplarken kalçalarınızı, dizlerinizi ve ayak bileklerinizi ayak parmaklarınızın arasından iterek uzatın. Yavaşça çömelme pozisyonuna inin ve hareketi istenen sayıda tekrar için hemen tekrarlayın.",
+    "es": "Empieza de pie con los pies separados a la altura de los hombros, sujetando una barra sobre la parte superior de la espalda. Baja el cuerpo hacia una posición de sentadilla flexionando las rodillas y empujando las caderas hacia atrás. Al llegar a la parte baja de la sentadilla, impúlsate hacia arriba saltando desde el suelo. Al saltar, extiende las caderas, las rodillas y los tobillos, empujando con la punta de los pies. Aterriza con suavidad de vuelta en la posición de sentadilla y repite el movimiento de inmediato el número de repeticiones deseado.",
+    "ru": "Начните с того, что встаньте, поставив ноги на ширине плеч, удерживая штангу на верхней части спины. Опустите тело в присед, согнув колени и отведя бедра назад. Как только вы достигнете нижней точки приседа, взорвитесь вверх, отпрыгнув от земли. Во время прыжка вытягивайте бедра, колени и лодыжки, толкая пальцы ног. Мягко приземлитесь обратно в положение приседа и сразу же повторите движение желаемое количество повторений.",
+    "zh": "首先，双脚分开与肩同宽站立，将杠铃放在上背部。 弯曲膝盖并将臀部向后推，将身体降低至蹲姿。 一旦到达深蹲底部，就从地面跳起向上爆发。 跳跃时，伸展臀部、膝盖和脚踝，推动脚趾。 轻轻地回到蹲姿，然后立即重复该动作达到所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर, अपनी पीठ के ऊपरी हिस्से पर एक बारबेल पकड़कर खड़े होकर शुरुआत करें। अपने घुटनों को मोड़कर और अपने कूल्हों को पीछे धकेलते हुए अपने शरीर को स्क्वाट स्थिति में लाएँ। एक बार जब आप स्क्वाट के निचले भाग पर पहुंच जाएं, तो जमीन से कूदकर ऊपर की ओर विस्फोट करें। जैसे ही आप कूदते हैं, अपने पैर की उंगलियों से धक्का देते हुए अपने कूल्हों, घुटनों और टखनों को फैलाएं। धीरे से वापस स्क्वाट स्थिति में आ जाएँ और वांछित संख्या में दोहराव के लिए तुरंत इस क्रिया को दोहराएँ।",
+    "pl": "Stań w rozkroku na szerokość barków, trzymając sztangę na górnej części pleców. Opuść ciało do pozycji przysiadu, uginając kolana i cofając biodra. Gdy osiągniesz dolną fazę przysiadu, eksplozywnie wybij się w górę, wyskakując z podłoża. Podczas wyskoku wyprostuj biodra, kolana i kostki, odpychając się przez palce stóp. Wyląduj miękko w pozycji przysiadu i natychmiast powtórz ruch odpowiednią liczbę razy.",
+    "ko": "양발을 어깨너비로 벌리고 서서 바벨을 상부 등에 올립니다. 무릎을 굽히고 엉덩이를 뒤로 밀어 스쿼트 자세로 내려갑니다. 스쿼트의 최하단에 도달하면 즉시 지면을 밀어내며 힘껏 점프합니다. 점프하면서 엉덩이, 무릎, 발목을 펼치고 발가락을 통해 힘을 줍니다. 가볍게 스쿼트 자세로 착지한 후 즉시 다음 반복을 진행합니다.",
+    "fr": "Commence debout, les pieds écartés à la largeur des épaules, en tenant une barre sur le haut du dos. Abaisse ton corps en position de squat en fléchissant tes genoux et en poussant tes hanches vers l'arrière. Une fois arrivé au bas du squat, propulse-toi vers le haut en sautant du sol. En sautant, étends tes hanches, tes genoux et tes chevilles en poussant sur tes orteils. Atterris en douceur en position de squat et répète immédiatement le mouvement pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start by standing with your feet shoulder-width apart, holding a barbell across your upper back.",
+      "Lower your body into a squat position by bending your knees and pushing your hips back.",
+      "Once you reach the bottom of the squat, explode upwards by jumping off the ground.",
+      "As you jump, extend your hips, knees, and ankles, pushing through your toes.",
+      "Land softly back into the squat position and immediately repeat the movement for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia stando in piedi con i piedi alla larghezza delle spalle, tenendo un bilanciere sulla parte superiore della schiena.",
+      "Abbassa il corpo in una posizione tozza piegando le ginocchia e spingendo indietro i fianchi.",
+      "Una volta raggiunto il fondo dello squat, esplodi verso l'alto saltando da terra.",
+      "Mentre salti, estendi i fianchi, le ginocchia e le caviglie, spingendo attraverso le dita dei piedi.",
+      "Atterra dolcemente nella posizione tozza e ripeti immediatamente il movimento per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınızı omuz genişliğinde açarak, sırtınızın üst kısmında bir halter tutarak başlayın.",
+      "Dizlerinizi bükerek ve kalçalarınızı geriye doğru iterek vücudunuzu çömelme pozisyonuna indirin.",
+      "Squat'ın en altına ulaştığınızda yerden atlayarak yukarıya doğru patlayın.",
+      "Zıplarken kalçalarınızı, dizlerinizi ve ayak bileklerinizi ayak parmaklarınızın arasından iterek uzatın.",
+      "Yavaşça çömelme pozisyonuna inin ve hareketi istenen sayıda tekrar için hemen tekrarlayın."
+    ],
+    "es": [
+      "Empieza de pie con los pies separados a la altura de los hombros, sujetando una barra sobre la parte superior de la espalda.",
+      "Baja el cuerpo hacia una posición de sentadilla flexionando las rodillas y empujando las caderas hacia atrás.",
+      "Al llegar a la parte baja de la sentadilla, impúlsate hacia arriba saltando desde el suelo.",
+      "Al saltar, extiende las caderas, las rodillas y los tobillos, empujando con la punta de los pies.",
+      "Aterriza con suavidad de vuelta en la posición de sentadilla y repite el movimiento de inmediato el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с того, что встаньте, поставив ноги на ширине плеч, удерживая штангу на верхней части спины.",
+      "Опустите тело в присед, согнув колени и отведя бедра назад.",
+      "Как только вы достигнете нижней точки приседа, взорвитесь вверх, отпрыгнув от земли.",
+      "Во время прыжка вытягивайте бедра, колени и лодыжки, толкая пальцы ног.",
+      "Мягко приземлитесь обратно в положение приседа и сразу же повторите движение желаемое количество повторений."
+    ],
+    "zh": [
+      "首先，双脚分开与肩同宽站立，将杠铃放在上背部。",
+      "弯曲膝盖并将臀部向后推，将身体降低至蹲姿。",
+      "一旦到达深蹲底部，就从地面跳起向上爆发。",
+      "跳跃时，伸展臀部、膝盖和脚踝，推动脚趾。",
+      "轻轻地回到蹲姿，然后立即重复该动作达到所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर, अपनी पीठ के ऊपरी हिस्से पर एक बारबेल पकड़कर खड़े होकर शुरुआत करें।",
+      "अपने घुटनों को मोड़कर और अपने कूल्हों को पीछे धकेलते हुए अपने शरीर को स्क्वाट स्थिति में लाएँ।",
+      "एक बार जब आप स्क्वाट के निचले भाग पर पहुंच जाएं, तो जमीन से कूदकर ऊपर की ओर विस्फोट करें।",
+      "जैसे ही आप कूदते हैं, अपने पैर की उंगलियों से धक्का देते हुए अपने कूल्हों, घुटनों और टखनों को फैलाएं।",
+      "धीरे से वापस स्क्वाट स्थिति में आ जाएँ और वांछित संख्या में दोहराव के लिए तुरंत इस क्रिया को दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków, trzymając sztangę na górnej części pleców.",
+      "Opuść ciało do pozycji przysiadu, uginając kolana i cofając biodra.",
+      "Gdy osiągniesz dolną fazę przysiadu, eksplozywnie wybij się w górę, wyskakując z podłoża.",
+      "Podczas wyskoku wyprostuj biodra, kolana i kostki, odpychając się przez palce stóp.",
+      "Wyląduj miękko w pozycji przysiadu i natychmiast powtórz ruch odpowiednią liczbę razy."
+    ],
+    "ko": [
+      "양발을 어깨너비로 벌리고 서서 바벨을 상부 등에 올립니다.",
+      "무릎을 굽히고 엉덩이를 뒤로 밀어 스쿼트 자세로 내려갑니다.",
+      "스쿼트의 최하단에 도달하면 즉시 지면을 밀어내며 힘껏 점프합니다.",
+      "점프하면서 엉덩이, 무릎, 발목을 펼치고 발가락을 통해 힘을 줍니다.",
+      "가볍게 스쿼트 자세로 착지한 후 즉시 다음 반복을 진행합니다."
+    ],
+    "fr": [
+      "Commence debout, les pieds écartés à la largeur des épaules, en tenant une barre sur le haut du dos.",
+      "Abaisse ton corps en position de squat en fléchissant tes genoux et en poussant tes hanches vers l'arrière.",
+      "Une fois arrivé au bas du squat, propulse-toi vers le haut en sautant du sol.",
+      "En sautant, étends tes hanches, tes genoux et tes chevilles en poussant sur tes orteils.",
+      "Atterris en douceur en position de squat et répète immédiatement le mouvement pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "glutes",
+  "image": "images/0053-1gFNTZV.jpg",
+  "gif_url": "videos/0053-1gFNTZV.gif",
+  "media_id": "1gFNTZV",
+  "created_at": "2026-03-18T12:31:32.871835+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

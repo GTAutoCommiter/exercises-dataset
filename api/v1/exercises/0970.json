@@ -1,0 +1,112 @@
+{
+  "id": "0970",
+  "name": "band assisted pull-up",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "band",
+  "instructions": {
+    "en": "Attach the band to a pull-up bar or sturdy anchor point. Step onto the band and grip the bar with your palms facing away from you, hands slightly wider than shoulder-width apart. Hang with your arms fully extended, keeping your core engaged and your shoulders down and back. Pull your body up towards the bar by squeezing your shoulder blades together and driving your elbows down towards your hips. Continue pulling until your chin is above the bar, then slowly lower yourself back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Attacca la fascia a una barra per trazioni o a un punto di ancoraggio robusto. Sali sulla fascia e afferra la barra con i palmi rivolti lontano da te, le mani leggermente più larghe della larghezza delle spalle. Appendere con le braccia completamente distese, mantenendo il core impegnato e le spalle in basso e all'indietro. Tira il corpo verso la sbarra stringendo insieme le scapole e spingendo i gomiti verso i fianchi. Continua a tirare finché il mento non è sopra la barra, quindi abbassati lentamente fino alla posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Bandı bir çekme çubuğuna veya sağlam bir bağlantı noktasına takın. Grubun üzerine çıkın ve avuçlarınız sizden uzağa bakacak şekilde, eller omuz genişliğinden biraz daha açık olacak şekilde çubuğu kavrayın. Kollarınızı tamamen uzatarak asın, merkez bölgenizi meşgul ve omuzlarınızı aşağıda ve geride tutun. Kürek kemiklerinizi birbirine sıkıştırıp dirseklerinizi kalçalarınıza doğru iterek vücudunuzu bara doğru yukarı çekin. Çeneniz çubuğun üstüne çıkana kadar çekmeye devam edin, ardından yavaşça kendinizi başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Sujeta la banda a una barra de dominadas o a un punto de anclaje resistente. Pisa la banda y agarra la barra con las palmas mirando hacia afuera, con las manos un poco más separadas que el ancho de los hombros. Cuélgate con los brazos completamente extendidos, manteniendo el core activado y los hombros abajo y atrás. Sube el cuerpo hacia la barra juntando los omóplatos y llevando los codos hacia abajo, en dirección a las caderas. Continúa subiendo hasta que la barbilla quede por encima de la barra, luego bájate lentamente de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Прикрепите ленту к перекладине или прочной точке крепления. Встаньте на ленту и возьмитесь за перекладину ладонями от себя, руки расставлены чуть шире плеч. Висите, полностью вытянув руки, удерживая корпус напряженным, а плечи опущенными и отведенными назад. Подтяните тело к перекладине, сжимая лопатки вместе и направляя локти вниз к бедрам. Продолжайте тянуть, пока подбородок не окажется над перекладиной, затем медленно опуститесь обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "将弹力带固定在上拉杆或坚固的锚点上。 踏上弹力带，手掌背向自己，握住杠铃，双手之间的距离略宽于肩宽。 双臂完全伸展，保持核心收紧，肩膀向下并向后倾斜。 将肩胛骨挤压在一起并将肘部向下推向臀部，将身体向上拉向杠铃杆。 继续拉，直到下巴高于杠铃，然后慢慢降低回到起始位置。 重复所需的重复次数。",
+    "hi": "बैंड को पुल-अप बार या मजबूत एंकर पॉइंट से जोड़ें। बैंड पर कदम रखें और अपनी हथेलियों को अपने से दूर रखते हुए बार को पकड़ें, हाथों को कंधे की चौड़ाई से थोड़ा चौड़ा रखें। अपनी बाहों को पूरी तरह फैलाकर लटकें, अपने कोर को व्यस्त रखें और अपने कंधों को नीचे और पीछे रखें। अपने कंधे के ब्लेड को एक साथ निचोड़कर और अपनी कोहनियों को अपने कूल्हों की ओर ले जाकर अपने शरीर को बार की ओर ऊपर खींचें। तब तक खींचते रहें जब तक कि आपकी ठुड्डी बार के ऊपर न आ जाए, फिर धीरे-धीरे अपने आप को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Przymocuj taśmę oporową do drążka do podciągania lub stabilnego punktu zaczepienia. Wejdź na taśmę i chwyć drążek dłońmi skierowanymi od siebie, ręce nieco szerzej niż na szerokość barków. Zwiśnij z rękami w pełni wyprostowanymi, napinając mięśnie brzucha i utrzymując barki w dół i do tyłu. Podciągnij ciało w kierunku drążka, ściskając łopatki i kierując łokcie w dół w stronę bioder. Kontynuuj podciąganie, aż broda znajdzie się nad drążkiem, a następnie powoli opuść ciało z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę razy.",
+    "ko": "밴드를 풀업 바나 견고한 지점에 고정시킵니다. 밴드에 발을 올리고 손바닥이 몸에서 멀어지도록 바를 어깨너비보다 약간 넓게 잡습니다. 팔을 완전히 펼친 상태로 매달리면서 코어를 활성화하고 어깨를 아래로 뒤로 젖힙니다. 어깨뼈를 함께 조이면서 몸을 바 방향으로 당기되 팔꿈치를 골반 방향으로 아래로 밀어냅니다. 턱이 바 위로 올라올 때까지 계속 당긴 후 천천히 시작 위치로 자신을 내려갑니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Fixe l'élastique à une barre de traction ou à un point d'ancrage solide. Monte sur l'élastique et saisis la barre les paumes tournées vers l'extérieur, les mains un peu plus écartées que la largeur des épaules. Suspends-toi, les bras complètement étendus, en gardant la sangle abdominale gainée et les épaules basses et en arrière. Tire ton corps vers le haut en direction de la barre en contractant tes omoplates l'une vers l'autre et en entraînant tes coudes vers le bas en direction de tes hanches. Continue à tirer jusqu'à ce que ton menton soit au-dessus de la barre, puis abaisse-toi lentement jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Attach the band to a pull-up bar or sturdy anchor point.",
+      "Step onto the band and grip the bar with your palms facing away from you, hands slightly wider than shoulder-width apart.",
+      "Hang with your arms fully extended, keeping your core engaged and your shoulders down and back.",
+      "Pull your body up towards the bar by squeezing your shoulder blades together and driving your elbows down towards your hips.",
+      "Continue pulling until your chin is above the bar, then slowly lower yourself back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Attacca la fascia a una barra per trazioni o a un punto di ancoraggio robusto.",
+      "Sali sulla fascia e afferra la barra con i palmi rivolti lontano da te, le mani leggermente più larghe della larghezza delle spalle.",
+      "Appendere con le braccia completamente distese, mantenendo il core impegnato e le spalle in basso e all'indietro.",
+      "Tira il corpo verso la sbarra stringendo insieme le scapole e spingendo i gomiti verso i fianchi.",
+      "Continua a tirare finché il mento non è sopra la barra, quindi abbassati lentamente fino alla posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Bandı bir çekme çubuğuna veya sağlam bir bağlantı noktasına takın.",
+      "Grubun üzerine çıkın ve avuçlarınız sizden uzağa bakacak şekilde, eller omuz genişliğinden biraz daha açık olacak şekilde çubuğu kavrayın.",
+      "Kollarınızı tamamen uzatarak asın, merkez bölgenizi meşgul ve omuzlarınızı aşağıda ve geride tutun.",
+      "Kürek kemiklerinizi birbirine sıkıştırıp dirseklerinizi kalçalarınıza doğru iterek vücudunuzu bara doğru yukarı çekin.",
+      "Çeneniz çubuğun üstüne çıkana kadar çekmeye devam edin, ardından yavaşça kendinizi başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Sujeta la banda a una barra de dominadas o a un punto de anclaje resistente.",
+      "Pisa la banda y agarra la barra con las palmas mirando hacia afuera, con las manos un poco más separadas que el ancho de los hombros.",
+      "Cuélgate con los brazos completamente extendidos, manteniendo el core activado y los hombros abajo y atrás.",
+      "Sube el cuerpo hacia la barra juntando los omóplatos y llevando los codos hacia abajo, en dirección a las caderas.",
+      "Continúa subiendo hasta que la barbilla quede por encima de la barra, luego bájate lentamente de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Прикрепите ленту к перекладине или прочной точке крепления.",
+      "Встаньте на ленту и возьмитесь за перекладину ладонями от себя, руки расставлены чуть шире плеч.",
+      "Висите, полностью вытянув руки, удерживая корпус напряженным, а плечи опущенными и отведенными назад.",
+      "Подтяните тело к перекладине, сжимая лопатки вместе и направляя локти вниз к бедрам.",
+      "Продолжайте тянуть, пока подбородок не окажется над перекладиной, затем медленно опуститесь обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将弹力带固定在上拉杆或坚固的锚点上。",
+      "踏上弹力带，手掌背向自己，握住杠铃，双手之间的距离略宽于肩宽。",
+      "双臂完全伸展，保持核心收紧，肩膀向下并向后倾斜。",
+      "将肩胛骨挤压在一起并将肘部向下推向臀部，将身体向上拉向杠铃杆。",
+      "继续拉，直到下巴高于杠铃，然后慢慢降低回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "बैंड को पुल-अप बार या मजबूत एंकर पॉइंट से जोड़ें।",
+      "बैंड पर कदम रखें और अपनी हथेलियों को अपने से दूर रखते हुए बार को पकड़ें, हाथों को कंधे की चौड़ाई से थोड़ा चौड़ा रखें।",
+      "अपनी बाहों को पूरी तरह फैलाकर लटकें, अपने कोर को व्यस्त रखें और अपने कंधों को नीचे और पीछे रखें।",
+      "अपने कंधे के ब्लेड को एक साथ निचोड़कर और अपनी कोहनियों को अपने कूल्हों की ओर ले जाकर अपने शरीर को बार की ओर ऊपर खींचें।",
+      "तब तक खींचते रहें जब तक कि आपकी ठुड्डी बार के ऊपर न आ जाए, फिर धीरे-धीरे अपने आप को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Przymocuj taśmę oporową do drążka do podciągania lub stabilnego punktu zaczepienia.",
+      "Wejdź na taśmę i chwyć drążek dłońmi skierowanymi od siebie, ręce nieco szerzej niż na szerokość barków.",
+      "Zwiśnij z rękami w pełni wyprostowanymi, napinając mięśnie brzucha i utrzymując barki w dół i do tyłu.",
+      "Podciągnij ciało w kierunku drążka, ściskając łopatki i kierując łokcie w dół w stronę bioder.",
+      "Kontynuuj podciąganie, aż broda znajdzie się nad drążkiem, a następnie powoli opuść ciało z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "밴드를 풀업 바나 견고한 지점에 고정시킵니다.",
+      "밴드에 발을 올리고 손바닥이 몸에서 멀어지도록 바를 어깨너비보다 약간 넓게 잡습니다.",
+      "팔을 완전히 펼친 상태로 매달리면서 코어를 활성화하고 어깨를 아래로 뒤로 젖힙니다.",
+      "어깨뼈를 함께 조이면서 몸을 바 방향으로 당기되 팔꿈치를 골반 방향으로 아래로 밀어냅니다.",
+      "턱이 바 위로 올라올 때까지 계속 당긴 후 천천히 시작 위치로 자신을 내려갑니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Fixe l'élastique à une barre de traction ou à un point d'ancrage solide.",
+      "Monte sur l'élastique et saisis la barre les paumes tournées vers l'extérieur, les mains un peu plus écartées que la largeur des épaules.",
+      "Suspends-toi, les bras complètement étendus, en gardant la sangle abdominale gainée et les épaules basses et en arrière.",
+      "Tire ton corps vers le haut en direction de la barre en contractant tes omoplates l'une vers l'autre et en entraînant tes coudes vers le bas en direction de tes hanches.",
+      "Continue à tirer jusqu'à ce que ton menton soit au-dessus de la barre, puis abaisse-toi lentement jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "forearms"
+  ],
+  "target": "lats",
+  "image": "images/0970-r1XNRYB.jpg",
+  "gif_url": "videos/0970-r1XNRYB.gif",
+  "media_id": "r1XNRYB",
+  "created_at": "2026-03-18T12:31:32.855758+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

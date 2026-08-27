@@ -1,0 +1,133 @@
+{
+  "id": "0026",
+  "name": "barbell bench squat",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Set up a barbell on a squat rack at chest height. Stand facing away from the rack, with your feet shoulder-width apart. Bend your knees and lower your body down into a squat position, keeping your back straight and chest up. Grasp the barbell with an overhand grip, slightly wider than shoulder-width apart. Lift the barbell off the rack and step back, ensuring your feet are still shoulder-width apart. Lower your body down into a squat, keeping your knees in line with your toes. Pause for a moment at the bottom, then push through your heels to return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Posiziona un bilanciere su uno squat rack all'altezza del petto. Stai di fronte al rack, con i piedi alla larghezza delle spalle. Piega le ginocchia e abbassa il corpo in posizione tozza, mantenendo la schiena dritta e il petto in alto. Afferrare il bilanciere con una presa prona, leggermente più larga della larghezza delle spalle. Solleva il bilanciere dal rack e fai un passo indietro, assicurandoti che i piedi siano ancora alla larghezza delle spalle. Abbassa il corpo in uno squat, mantenendo le ginocchia in linea con le dita dei piedi. Fai una pausa per un momento in fondo, quindi spingi i talloni per tornare alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Göğüs yüksekliğinde bir squat rack üzerine halter yerleştirin. Ayaklarınız omuz genişliğinde açık olacak şekilde raftan uzağa bakacak şekilde durun. Dizlerinizi bükün ve sırtınızı dik ve göğsünüzü yukarıda tutarak vücudunuzu çömelme pozisyonuna indirin. Halteri omuz genişliğinden biraz daha geniş olacak şekilde üstten kavrayın. Halteri raftan kaldırın ve geriye doğru bir adım atın, ayaklarınızın hala omuz genişliğinde olduğundan emin olun. Dizlerinizi ayak parmaklarınızla aynı hizada tutarak vücudunuzu çömelme pozisyonuna indirin. Altta bir an duraklayın, ardından başlangıç ​​pozisyonuna dönmek için topuklarınızı itin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Coloca una barra en un soporte de sentadillas a la altura del pecho. Ponte de pie de espaldas al soporte, con los pies separados a la altura de los hombros. Flexiona las rodillas y baja el cuerpo hacia una posición de sentadilla, manteniendo la espalda recta y el pecho elevado. Agarra la barra con un agarre pronado un poco más ancho que la separación de los hombros. Levanta la barra del soporte y retrocede un paso, asegurándote de que los pies sigan separados a la altura de los hombros. Baja el cuerpo hacia una sentadilla, manteniendo las rodillas alineadas con los dedos de los pies. Haz una pausa por un momento en la parte inferior, luego empuja con los talones para regresar a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Установите штангу на стойке для приседаний на уровне груди. Встаньте лицом от стойки, ноги на ширине плеч. Согните ноги в коленях и опустите тело в положение приседа, держа спину прямо и грудь вверх. Возьмите штангу хватом сверху, на расстоянии чуть шире плеч. Снимите штангу со стойки и отступите назад, убедившись, что ваши ноги по-прежнему находятся на ширине плеч. Опустите тело в присед, удерживая колени на одной линии с пальцами ног. Задержитесь на мгновение внизу, затем оттолкнитесь пятками, чтобы вернуться в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "将杠铃放在深蹲架上，与胸部同高。 背对架子站立，双脚与肩同宽。 弯曲膝盖，将身体降低至蹲姿，保持背部挺直，挺胸。 正手握住杠铃，握距略宽于肩宽。 将杠铃从架子上提起并向后退一步，确保双脚仍与肩同宽。 降低身体蹲下，保持膝盖与脚趾在一条线上。 在底部停顿片刻，然后推动脚后跟回到起始位置。 重复所需的重复次数。",
+    "hi": "छाती की ऊंचाई पर स्क्वाट रैक पर बारबेल स्थापित करें। अपने पैरों को कंधे की चौड़ाई की दूरी पर रखते हुए, रैक से दूर की ओर मुंह करके खड़े हो जाएं। अपने घुटनों को मोड़ें और अपने शरीर को स्क्वाट स्थिति में नीचे लाएं, अपनी पीठ सीधी और छाती ऊपर रखें। बारबेल को कंधे की चौड़ाई से थोड़ा अधिक चौड़े हाथ से पकड़ें। बारबेल को रैक से उठाएं और पीछे हटें, यह सुनिश्चित करते हुए कि आपके पैर अभी भी कंधे की चौड़ाई से अलग हैं। अपने घुटनों को अपने पैर की उंगलियों के अनुरूप रखते हुए, अपने शरीर को स्क्वाट में नीचे झुकाएँ। नीचे एक पल के लिए रुकें, फिर प्रारंभिक स्थिति में लौटने के लिए अपनी एड़ियों से धक्का दें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Ustaw sztangę na stojaku na wysokości klatki piersiowej. Stań tyłem do stojaka, stopy rozstaw na szerokość barków. Ugnij kolana i opuść ciało do pozycji przysiadu, utrzymując proste plecy i uniesioną klatkę piersiową. Chwyć sztangę chwytem nachwytem, nieco szerszym niż szerokość barków. Zdejmij sztangę ze stojaka i zrób krok w tył, upewniając się, że stopy nadal są rozstawione na szerokość barków. Opuść ciało do pozycji przysiadu, utrzymując kolana w linii ze stopami. Zatrzymaj się na chwilę na dole, a następnie wypchnij się przez pięty, wracając do pozycji wyjściowej. Powtórz odpowiednią liczbę razy.",
+    "ko": "스쿼트 랙 위에 바벨을 가슴 높이에 설정합니다. 랙에서 등을 돌려 어깨 너비로 발을 벌리고 섭니다. 무릎을 구부려 몸을 스쿼트 자세로 내리되 등을 곧게 펴고 가슴을 들어 올립니다. 오버그립으로 바벨을 잡되 어깨 너비보다 약간 더 넓게 잡습니다. 바벨을 랙에서 들어 한 발 물러나면서 발이 여전히 어깨 너비로 유지되도록 합니다. 무릎이 발가락과 정렬되도록 유지하면서 스쿼트로 내립니다. 맨 아래에서 잠시 멈춘 후, 발꿈치를 통해 밀어 원래 위치로 돌아옵니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Installe une barre sur un rack à squat à hauteur de poitrine. Tiens-toi dos au rack, les pieds écartés à la largeur des épaules. Fléchis les genoux et abaisse ton corps en position accroupie en gardant le dos droit et la poitrine relevée. Saisis la barre avec une prise en pronation, un peu plus large que la largeur des épaules. Soulève la barre du rack et recule, en veillant à ce que tes pieds soient toujours écartés à la largeur des épaules. Abaisse ton corps en squat, en gardant tes genoux alignés avec tes orteils. Marque une pause en bas, puis pousse sur tes talons pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Set up a barbell on a squat rack at chest height.",
+      "Stand facing away from the rack, with your feet shoulder-width apart.",
+      "Bend your knees and lower your body down into a squat position, keeping your back straight and chest up.",
+      "Grasp the barbell with an overhand grip, slightly wider than shoulder-width apart.",
+      "Lift the barbell off the rack and step back, ensuring your feet are still shoulder-width apart.",
+      "Lower your body down into a squat, keeping your knees in line with your toes.",
+      "Pause for a moment at the bottom, then push through your heels to return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Posiziona un bilanciere su uno squat rack all'altezza del petto.",
+      "Stai di fronte al rack, con i piedi alla larghezza delle spalle.",
+      "Piega le ginocchia e abbassa il corpo in posizione tozza, mantenendo la schiena dritta e il petto in alto.",
+      "Afferrare il bilanciere con una presa prona, leggermente più larga della larghezza delle spalle.",
+      "Solleva il bilanciere dal rack e fai un passo indietro, assicurandoti che i piedi siano ancora alla larghezza delle spalle.",
+      "Abbassa il corpo in uno squat, mantenendo le ginocchia in linea con le dita dei piedi.",
+      "Fai una pausa per un momento in fondo, quindi spingi i talloni per tornare alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Göğüs yüksekliğinde bir squat rack üzerine halter yerleştirin.",
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde raftan uzağa bakacak şekilde durun.",
+      "Dizlerinizi bükün ve sırtınızı dik ve göğsünüzü yukarıda tutarak vücudunuzu çömelme pozisyonuna indirin.",
+      "Halteri omuz genişliğinden biraz daha geniş olacak şekilde üstten kavrayın.",
+      "Halteri raftan kaldırın ve geriye doğru bir adım atın, ayaklarınızın hala omuz genişliğinde olduğundan emin olun.",
+      "Dizlerinizi ayak parmaklarınızla aynı hizada tutarak vücudunuzu çömelme pozisyonuna indirin.",
+      "Altta bir an duraklayın, ardından başlangıç ​​pozisyonuna dönmek için topuklarınızı itin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Coloca una barra en un soporte de sentadillas a la altura del pecho.",
+      "Ponte de pie de espaldas al soporte, con los pies separados a la altura de los hombros.",
+      "Flexiona las rodillas y baja el cuerpo hacia una posición de sentadilla, manteniendo la espalda recta y el pecho elevado.",
+      "Agarra la barra con un agarre pronado un poco más ancho que la separación de los hombros.",
+      "Levanta la barra del soporte y retrocede un paso, asegurándote de que los pies sigan separados a la altura de los hombros.",
+      "Baja el cuerpo hacia una sentadilla, manteniendo las rodillas alineadas con los dedos de los pies.",
+      "Haz una pausa por un momento en la parte inferior, luego empuja con los talones para regresar a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Установите штангу на стойке для приседаний на уровне груди.",
+      "Встаньте лицом от стойки, ноги на ширине плеч.",
+      "Согните ноги в коленях и опустите тело в положение приседа, держа спину прямо и грудь вверх.",
+      "Возьмите штангу хватом сверху, на расстоянии чуть шире плеч.",
+      "Снимите штангу со стойки и отступите назад, убедившись, что ваши ноги по-прежнему находятся на ширине плеч.",
+      "Опустите тело в присед, удерживая колени на одной линии с пальцами ног.",
+      "Задержитесь на мгновение внизу, затем оттолкнитесь пятками, чтобы вернуться в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将杠铃放在深蹲架上，与胸部同高。",
+      "背对架子站立，双脚与肩同宽。",
+      "弯曲膝盖，将身体降低至蹲姿，保持背部挺直，挺胸。",
+      "正手握住杠铃，握距略宽于肩宽。",
+      "将杠铃从架子上提起并向后退一步，确保双脚仍与肩同宽。",
+      "降低身体蹲下，保持膝盖与脚趾在一条线上。",
+      "在底部停顿片刻，然后推动脚后跟回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "छाती की ऊंचाई पर स्क्वाट रैक पर बारबेल स्थापित करें।",
+      "अपने पैरों को कंधे की चौड़ाई की दूरी पर रखते हुए, रैक से दूर की ओर मुंह करके खड़े हो जाएं।",
+      "अपने घुटनों को मोड़ें और अपने शरीर को स्क्वाट स्थिति में नीचे लाएं, अपनी पीठ सीधी और छाती ऊपर रखें।",
+      "बारबेल को कंधे की चौड़ाई से थोड़ा अधिक चौड़े हाथ से पकड़ें।",
+      "बारबेल को रैक से उठाएं और पीछे हटें, यह सुनिश्चित करते हुए कि आपके पैर अभी भी कंधे की चौड़ाई से अलग हैं।",
+      "अपने घुटनों को अपने पैर की उंगलियों के अनुरूप रखते हुए, अपने शरीर को स्क्वाट में नीचे झुकाएँ।",
+      "नीचे एक पल के लिए रुकें, फिर प्रारंभिक स्थिति में लौटने के लिए अपनी एड़ियों से धक्का दें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Ustaw sztangę na stojaku na wysokości klatki piersiowej.",
+      "Stań tyłem do stojaka, stopy rozstaw na szerokość barków.",
+      "Ugnij kolana i opuść ciało do pozycji przysiadu, utrzymując proste plecy i uniesioną klatkę piersiową.",
+      "Chwyć sztangę chwytem nachwytem, nieco szerszym niż szerokość barków.",
+      "Zdejmij sztangę ze stojaka i zrób krok w tył, upewniając się, że stopy nadal są rozstawione na szerokość barków.",
+      "Opuść ciało do pozycji przysiadu, utrzymując kolana w linii ze stopami.",
+      "Zatrzymaj się na chwilę na dole, a następnie wypchnij się przez pięty, wracając do pozycji wyjściowej.",
+      "Powtórz odpowiednią liczbę razy."
+    ],
+    "ko": [
+      "스쿼트 랙 위에 바벨을 가슴 높이에 설정합니다.",
+      "랙에서 등을 돌려 어깨 너비로 발을 벌리고 섭니다.",
+      "무릎을 구부려 몸을 스쿼트 자세로 내리되 등을 곧게 펴고 가슴을 들어 올립니다.",
+      "오버그립으로 바벨을 잡되 어깨 너비보다 약간 더 넓게 잡습니다.",
+      "바벨을 랙에서 들어 한 발 물러나면서 발이 여전히 어깨 너비로 유지되도록 합니다.",
+      "무릎이 발가락과 정렬되도록 유지하면서 스쿼트로 내립니다.",
+      "맨 아래에서 잠시 멈춘 후, 발꿈치를 통해 밀어 원래 위치로 돌아옵니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Installe une barre sur un rack à squat à hauteur de poitrine.",
+      "Tiens-toi dos au rack, les pieds écartés à la largeur des épaules.",
+      "Fléchis les genoux et abaisse ton corps en position accroupie en gardant le dos droit et la poitrine relevée.",
+      "Saisis la barre avec une prise en pronation, un peu plus large que la largeur des épaules.",
+      "Soulève la barre du rack et recule, en veillant à ce que tes pieds soient toujours écartés à la largeur des épaules.",
+      "Abaisse ton corps en squat, en gardant tes genoux alignés avec tes orteils.",
+      "Marque une pause en bas, puis pousse sur tes talons pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "glutes",
+  "secondary_muscles": [
+    "glutes",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "quads",
+  "image": "images/0026-W9pFVv1.jpg",
+  "gif_url": "videos/0026-W9pFVv1.gif",
+  "media_id": "W9pFVv1",
+  "created_at": "2026-03-18T12:31:32.87027+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

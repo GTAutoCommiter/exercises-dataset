@@ -1,0 +1,102 @@
+{
+  "id": "3542",
+  "name": "dumbbell incline t-raise",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Set an incline bench to a 45-degree angle and sit on it with a dumbbell in each hand, palms facing inwards. Lean forward and let your arms hang straight down, perpendicular to the floor. Keeping your arms straight, raise them out to the sides until they are parallel to the floor, forming a 'T' shape with your body. Pause for a moment at the top, then slowly lower your arms back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Imposta una panca inclinata a 45 gradi e siediti sopra con un manubrio in ciascuna mano, palmi rivolti verso l'interno. Piegati in avanti e lascia che le braccia pendano dritte verso il basso, perpendicolari al pavimento. Tenendo le braccia dritte, alzale ai lati finché non sono parallele al pavimento, formando una forma a 'T' con il corpo. Fermati un attimo in cima, poi abbassa lentamente le braccia fino alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Eğimli bir bench’i 45 derecelik bir açıya ayarlayın ve her iki elinizde birer dambıl olacak şekilde, avuç içleriniz içe bakacak şekilde üzerine oturun. Öne doğru eğilin ve kollarınızın yere dik olarak düz bir şekilde sarkmasına izin verin. Kollarınızı düz tutarak, yere paralel olana kadar yanlara doğru kaldırın ve vücudunuzla 'T' şekli oluşturun. Tepe noktasında bir an duraklayın, ardından kollarınızı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta un banco inclinado a un ángulo de 45 grados y siéntate en él con una mancuerna en cada mano, con las palmas hacia adentro. Inclínate hacia adelante y deja que los brazos cuelguen rectos hacia abajo, perpendiculares al suelo. Manteniendo los brazos rectos, levántalos hacia los lados hasta que queden paralelos al suelo, formando una 'T' con el cuerpo. Haz una pausa por un momento en la parte superior, luego baja lentamente los brazos de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Установите наклонную скамью под углом 45 градусов и сядьте на нее, взяв в каждую руку по гантели ладонями внутрь. Наклонитесь вперед и позвольте рукам свисать прямо вниз, перпендикулярно полу. Держа руки прямыми, поднимите их в стороны, пока они не станут параллельны полу, образуя с телом Т-образную форму. Задержитесь на мгновение в верхней точке, затем медленно опустите руки обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "将上斜凳摆成 45 度角，坐在上面，双手各握一个哑铃，掌心向内。 向前倾斜，让手臂笔直向下垂，垂直于地板。 保持手臂伸直，将它们向两侧举起，直到与地板平行，与身体形成“T”形。 在顶部暂停片刻，然后慢慢将手臂放回起始位置。 重复所需的重复次数。",
+    "hi": "एक झुकी हुई बेंच को 45 डिग्री के कोण पर सेट करें और उस पर दोनों हाथों में डंबल लेकर बैठें, हथेलियाँ अंदर की ओर हों। आगे की ओर झुकें और अपनी भुजाओं को फर्श से सीधा नीचे की ओर लटका दें। अपनी भुजाओं को सीधा रखते हुए, उन्हें बगल की ओर तब तक उठाएं जब तक कि वे फर्श के समानांतर न हो जाएं, जिससे आपके शरीर का 'टी' आकार बन जाए। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपनी भुजाओं को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Ustaw ławkę skośną pod kątem 45 stopni i usiądź na niej, trzymając hantle w obu rękach, dłonie skierowane do wewnątrz. Pochyl się do przodu i pozwól ramionom zwisać prosto w dół, prostopadle do podłogi. Trzymając ramiona proste, unieś je na boki, aż będą równoległe do podłogi, tworząc kształt litery „T” z ciałem. Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść ramiona do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "인클라인 벤치를 45도 각도로 설정하고 앉아 양손에 덤벨을 들고 손바닥이 안쪽을 향하도록 합니다. 몸을 앞으로 기울여 팔을 쭉 펴서 지면에 수직으로 내립니다. 팔을 곧게 유지하면서 팔을 옆으로 들어올려 지면과 평행해질 때까지 올립니다. 몸과 T자 형태를 이루게 합니다. 최상단에서 잠시 멈춘 후 천천히 팔을 시작 위치로 내립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Règle un banc incliné à un angle de 45 degrés et assieds-toi dessus avec un haltère dans chaque main, paumes tournées vers l'intérieur. Penche-toi en avant et laisse tes bras pendre droit vers le bas, perpendiculaires au sol. En gardant les bras tendus, lève-les sur les côtés jusqu'à ce qu'ils soient parallèles au sol, formant un 'T' avec ton corps. Marque une pause en haut, puis abaisse lentement tes bras pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Set an incline bench to a 45-degree angle and sit on it with a dumbbell in each hand, palms facing inwards.",
+      "Lean forward and let your arms hang straight down, perpendicular to the floor.",
+      "Keeping your arms straight, raise them out to the sides until they are parallel to the floor, forming a 'T' shape with your body.",
+      "Pause for a moment at the top, then slowly lower your arms back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Imposta una panca inclinata a 45 gradi e siediti sopra con un manubrio in ciascuna mano, palmi rivolti verso l'interno.",
+      "Piegati in avanti e lascia che le braccia pendano dritte verso il basso, perpendicolari al pavimento.",
+      "Tenendo le braccia dritte, alzale ai lati finché non sono parallele al pavimento, formando una forma a 'T' con il corpo.",
+      "Fermati un attimo in cima, poi abbassa lentamente le braccia fino alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Eğimli bir bench’i 45 derecelik bir açıya ayarlayın ve her iki elinizde birer dambıl olacak şekilde, avuç içleriniz içe bakacak şekilde üzerine oturun.",
+      "Öne doğru eğilin ve kollarınızın yere dik olarak düz bir şekilde sarkmasına izin verin.",
+      "Kollarınızı düz tutarak, yere paralel olana kadar yanlara doğru kaldırın ve vücudunuzla 'T' şekli oluşturun.",
+      "Tepe noktasında bir an duraklayın, ardından kollarınızı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta un banco inclinado a un ángulo de 45 grados y siéntate en él con una mancuerna en cada mano, con las palmas hacia adentro.",
+      "Inclínate hacia adelante y deja que los brazos cuelguen rectos hacia abajo, perpendiculares al suelo.",
+      "Manteniendo los brazos rectos, levántalos hacia los lados hasta que queden paralelos al suelo, formando una 'T' con el cuerpo.",
+      "Haz una pausa por un momento en la parte superior, luego baja lentamente los brazos de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Установите наклонную скамью под углом 45 градусов и сядьте на нее, взяв в каждую руку по гантели ладонями внутрь.",
+      "Наклонитесь вперед и позвольте рукам свисать прямо вниз, перпендикулярно полу.",
+      "Держа руки прямыми, поднимите их в стороны, пока они не станут параллельны полу, образуя с телом Т-образную форму.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите руки обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将上斜凳摆成 45 度角，坐在上面，双手各握一个哑铃，掌心向内。",
+      "向前倾斜，让手臂笔直向下垂，垂直于地板。",
+      "保持手臂伸直，将它们向两侧举起，直到与地板平行，与身体形成“T”形。",
+      "在顶部暂停片刻，然后慢慢将手臂放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "एक झुकी हुई बेंच को 45 डिग्री के कोण पर सेट करें और उस पर दोनों हाथों में डंबल लेकर बैठें, हथेलियाँ अंदर की ओर हों।",
+      "आगे की ओर झुकें और अपनी भुजाओं को फर्श से सीधा नीचे की ओर लटका दें।",
+      "अपनी भुजाओं को सीधा रखते हुए, उन्हें बगल की ओर तब तक उठाएं जब तक कि वे फर्श के समानांतर न हो जाएं, जिससे आपके शरीर का 'टी' आकार बन जाए।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपनी भुजाओं को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Ustaw ławkę skośną pod kątem 45 stopni i usiądź na niej, trzymając hantle w obu rękach, dłonie skierowane do wewnątrz.",
+      "Pochyl się do przodu i pozwól ramionom zwisać prosto w dół, prostopadle do podłogi.",
+      "Trzymając ramiona proste, unieś je na boki, aż będą równoległe do podłogi, tworząc kształt litery „T” z ciałem.",
+      "Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść ramiona do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "인클라인 벤치를 45도 각도로 설정하고 앉아 양손에 덤벨을 들고 손바닥이 안쪽을 향하도록 합니다.",
+      "몸을 앞으로 기울여 팔을 쭉 펴서 지면에 수직으로 내립니다.",
+      "팔을 곧게 유지하면서 팔을 옆으로 들어올려 지면과 평행해질 때까지 올립니다.",
+      "최상단에서 잠시 멈춘 후 천천히 팔을 시작 위치로 내립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Règle un banc incliné à un angle de 45 degrés et assieds-toi dessus avec un haltère dans chaque main, paumes tournées vers l'intérieur.",
+      "Penche-toi en avant et laisse tes bras pendre droit vers le bas, perpendiculaires au sol.",
+      "En gardant les bras tendus, lève-les sur les côtés jusqu'à ce qu'ils soient parallèles au sol, formant un 'T' avec ton corps.",
+      "Marque une pause en haut, puis abaisse lentement tes bras pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "traps",
+  "secondary_muscles": [
+    "traps",
+    "rhomboids"
+  ],
+  "target": "delts",
+  "image": "images/3542-jgbvVJ0.jpg",
+  "gif_url": "videos/3542-jgbvVJ0.gif",
+  "media_id": "jgbvVJ0",
+  "created_at": "2026-03-18T12:31:32.878975+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

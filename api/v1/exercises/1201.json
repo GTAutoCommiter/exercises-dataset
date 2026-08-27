@@ -1,0 +1,136 @@
+{
+  "id": "1201",
+  "name": "dumbbell burpee",
+  "category": "cardio",
+  "body_part": "cardio",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Start in a standing position with your feet shoulder-width apart and a dumbbell in each hand. Lower your body into a squat position, placing the dumbbells on the ground in front of you. Kick your feet back into a push-up position, keeping your body in a straight line. Perform a push-up, bending your elbows and lowering your chest towards the ground. Jump your feet back towards your hands, landing in a squat position. Stand up explosively, lifting the dumbbells off the ground and bringing them to your shoulders. Press the dumbbells overhead, fully extending your arms. Lower the dumbbells back to your shoulders and repeat the entire sequence for the desired number of repetitions.",
+    "it": "Inizia in posizione in piedi, con i piedi alla larghezza delle spalle e un manubrio in ogni mano. Abbassa il corpo in posizione accovacciata, posizionando i manubri a terra davanti a te. Calcia i piedi indietro in posizione push-up, mantenendo il corpo in linea retta. Fai una flessione, piegando i gomiti e abbassando il petto verso terra. Salta indietro verso le mani, atterrando in posizione squat. Alzati in modo esplosivo, sollevando i manubri da terra e portandoli alle spalle. Premi i manubri sopra la testa, estendendo completamente le braccia. Abbassa i manubri sulle spalle e ripeti l'intera sequenza per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız omuz genişliğinde açık ve her elinizde birer dambıl olacak şekilde ayakta durma pozisyonunda başlayın. Vücudunuzu çömelme pozisyonuna indirin ve dambılları önünüzde yere koyun. Vücudunuzu düz bir çizgide tutarak ayaklarınızı şınav pozisyonuna getirin. Dirseklerinizi bükerek ve göğsünüzü yere doğru indirerek şınav çekin. Ayaklarınızı ellerinize doğru geriye doğru atlayın ve çömelme pozisyonuna inin. Patlayıcı bir şekilde ayağa kalkın, dambılları yerden kaldırın ve omuzlarınıza getirin. Kollarınızı tamamen uzatarak dambılları başınızın üzerine bastırın. Dambılları omuzlarınıza doğru indirin ve tüm diziyi istediğiniz sayıda tekrarla tekrarlayın.",
+    "es": "Comienza de pie con los pies separados a la altura de los hombros y una mancuerna en cada mano. Baja el cuerpo a una posición de sentadilla, colocando las mancuernas en el suelo frente a ti. Lleva los pies hacia atrás a una posición de flexión de brazos, manteniendo el cuerpo en línea recta. Realiza una flexión de brazos, flexionando los codos y bajando el pecho hacia el suelo. Salta con los pies hacia tus manos, aterrizando en una posición de sentadilla. Ponte de pie de forma explosiva, levantando las mancuernas del suelo y llevándolas a los hombros. Empuja las mancuernas por encima de la cabeza, extendiendo completamente los brazos. Baja las mancuernas de vuelta a los hombros y repite toda la secuencia el número de repeticiones deseado.",
+    "ru": "Начните в положении стоя, ноги на ширине плеч, в каждой руке по гантели. Опустите тело в присед, положив гантели на пол перед собой. Верните ноги в положение для отжимания, сохраняя тело прямой линией. Выполните отжимание, сгибая локти и опуская грудь к земле. Прыгните ногами назад к рукам и приземлитесь в приседе. Резко встаньте, подняв гантели от земли и поднеся их к плечам. Выжмите гантели над головой, полностью выпрямляя руки. Опустите гантели обратно на плечи и повторите всю последовательность желаемое количество повторений.",
+    "zh": "从站立位置开始，双脚分开与肩同宽，每只手各拿一个哑铃。 将身体降低至蹲姿，将哑铃放在您面前的地面上。 将双脚踢回到俯卧撑位置，保持身体呈一条直线。 进行俯卧撑，弯曲肘部并将胸部降低到地面。 将脚向后跳向双手，以蹲姿着地。 爆发性地站起来，将哑铃从地上举起，放到肩膀上。 将哑铃举过头顶，充分伸展手臂。 将哑铃放回到肩膀上，然后重复整个序列，达到所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर और प्रत्येक हाथ में डम्बल लेकर खड़े होकर शुरुआत करें। अपने शरीर को स्क्वाट स्थिति में लाएँ, डम्बल को अपने सामने ज़मीन पर रखें। अपने शरीर को सीधी रेखा में रखते हुए अपने पैरों को वापस पुश-अप स्थिति में लाएँ। अपनी कोहनियों को मोड़ते हुए और अपनी छाती को ज़मीन की ओर झुकाते हुए पुश-अप करें। स्क्वाट स्थिति में उतरते हुए, अपने पैरों को अपने हाथों की ओर वापस उछालें। डम्बल को जमीन से उठाकर अपने कंधों तक लाते हुए विस्फोटक तरीके से खड़े हो जाएं। अपनी बाहों को पूरी तरह फैलाते हुए डम्बल को ऊपर की ओर दबाएं। डम्बल को वापस अपने कंधों पर लाएँ और वांछित संख्या में दोहराव के लिए पूरे क्रम को दोहराएँ।",
+    "pl": "Zacznij w pozycji stojącej, stopy na szerokość barków, hantle w obu rękach. Opuść ciało do przysiadu, kładąc hantle na podłodze przed sobą. Wykop nogi do tyłu, przyjmując pozycję do pompki, utrzymując ciało w linii prostej. Wykonaj pompkę, uginając łokcie i opuszczając klatkę piersiową w kierunku podłogi. Podskocz nogami z powrotem w kierunku rąk, lądując w pozycji przysiadu. Wstań gwałtownie, unosząc hantle z podłogi i przenosząc je na wysokość barków. Wypchnij hantle nad głowę, w pełni wyprostowując ramiona. Opuść hantle z powrotem na wysokość barków i powtórz całą sekwencję przez zalecaną liczbę powtórzeń.",
+    "ko": "발을 어깨 너비로 벌리고 서서 각 손에 덤벨을 하나씩 들고 있는 상태에서 시작합니다. 몸을 스쿼트 자세로 내려 덤벨을 앞에 바닥에 내려놓습니다. 발을 뒤로 차서 푸시업 자세로 들어가며 몸이 일직선을 유지하도록 합니다. 팔꿈치를 구부려 푸시업을 수행하여 가슴을 바닥 쪽으로 내립니다. 발을 손 쪽으로 점프하여 스쿼트 자세로 착지합니다. 폭발적으로 일어나면서 바닥에서 덤벨을 들어올려 어깨까지 올립니다. 덤벨을 머리 위로 프레스하여 팔을 완전히 펼칩니다. 덤벨을 다시 어깨로 내린 후 전체 동작을 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Commence en position debout, les pieds écartés à la largeur des épaules et un haltère dans chaque main. Descends en position accroupie, en posant les haltères au sol devant toi. Renvoie tes pieds vers l'arrière en position de pompe, en gardant ton corps aligné. Effectue une pompe, en pliant tes coudes et en abaissant ta poitrine vers le sol. Ramène tes pieds vers tes mains en sautant, en atterrissant en position de squat. Redresse-toi de façon explosive, en soulevant les haltères du sol et en les amenant à tes épaules. Développe les haltères au-dessus de ta tête, en tendant complètement tes bras. Abaisse les haltères jusqu'à tes épaules et répète toute la séquence pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start in a standing position with your feet shoulder-width apart and a dumbbell in each hand.",
+      "Lower your body into a squat position, placing the dumbbells on the ground in front of you.",
+      "Kick your feet back into a push-up position, keeping your body in a straight line.",
+      "Perform a push-up, bending your elbows and lowering your chest towards the ground.",
+      "Jump your feet back towards your hands, landing in a squat position.",
+      "Stand up explosively, lifting the dumbbells off the ground and bringing them to your shoulders.",
+      "Press the dumbbells overhead, fully extending your arms.",
+      "Lower the dumbbells back to your shoulders and repeat the entire sequence for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia in posizione in piedi, con i piedi alla larghezza delle spalle e un manubrio in ogni mano.",
+      "Abbassa il corpo in posizione accovacciata, posizionando i manubri a terra davanti a te.",
+      "Calcia i piedi indietro in posizione push-up, mantenendo il corpo in linea retta.",
+      "Fai una flessione, piegando i gomiti e abbassando il petto verso terra.",
+      "Salta indietro verso le mani, atterrando in posizione squat.",
+      "Alzati in modo esplosivo, sollevando i manubri da terra e portandoli alle spalle.",
+      "Premi i manubri sopra la testa, estendendo completamente le braccia.",
+      "Abbassa i manubri sulle spalle e ripeti l'intera sequenza per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık ve her elinizde birer dambıl olacak şekilde ayakta durma pozisyonunda başlayın.",
+      "Vücudunuzu çömelme pozisyonuna indirin ve dambılları önünüzde yere koyun.",
+      "Vücudunuzu düz bir çizgide tutarak ayaklarınızı şınav pozisyonuna getirin.",
+      "Dirseklerinizi bükerek ve göğsünüzü yere doğru indirerek şınav çekin.",
+      "Ayaklarınızı ellerinize doğru geriye doğru atlayın ve çömelme pozisyonuna inin.",
+      "Patlayıcı bir şekilde ayağa kalkın, dambılları yerden kaldırın ve omuzlarınıza getirin.",
+      "Kollarınızı tamamen uzatarak dambılları başınızın üzerine bastırın.",
+      "Dambılları omuzlarınıza doğru indirin ve tüm diziyi istediğiniz sayıda tekrarla tekrarlayın."
+    ],
+    "es": [
+      "Comienza de pie con los pies separados a la altura de los hombros y una mancuerna en cada mano.",
+      "Baja el cuerpo a una posición de sentadilla, colocando las mancuernas en el suelo frente a ti.",
+      "Lleva los pies hacia atrás a una posición de flexión de brazos, manteniendo el cuerpo en línea recta.",
+      "Realiza una flexión de brazos, flexionando los codos y bajando el pecho hacia el suelo.",
+      "Salta con los pies hacia tus manos, aterrizando en una posición de sentadilla.",
+      "Ponte de pie de forma explosiva, levantando las mancuernas del suelo y llevándolas a los hombros.",
+      "Empuja las mancuernas por encima de la cabeza, extendiendo completamente los brazos.",
+      "Baja las mancuernas de vuelta a los hombros y repite toda la secuencia el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните в положении стоя, ноги на ширине плеч, в каждой руке по гантели.",
+      "Опустите тело в присед, положив гантели на пол перед собой.",
+      "Верните ноги в положение для отжимания, сохраняя тело прямой линией.",
+      "Выполните отжимание, сгибая локти и опуская грудь к земле.",
+      "Прыгните ногами назад к рукам и приземлитесь в приседе.",
+      "Резко встаньте, подняв гантели от земли и поднеся их к плечам.",
+      "Выжмите гантели над головой, полностью выпрямляя руки.",
+      "Опустите гантели обратно на плечи и повторите всю последовательность желаемое количество повторений."
+    ],
+    "zh": [
+      "从站立位置开始，双脚分开与肩同宽，每只手各拿一个哑铃。",
+      "将身体降低至蹲姿，将哑铃放在您面前的地面上。",
+      "将双脚踢回到俯卧撑位置，保持身体呈一条直线。",
+      "进行俯卧撑，弯曲肘部并将胸部降低到地面。",
+      "将脚向后跳向双手，以蹲姿着地。",
+      "爆发性地站起来，将哑铃从地上举起，放到肩膀上。",
+      "将哑铃举过头顶，充分伸展手臂。",
+      "将哑铃放回到肩膀上，然后重复整个序列，达到所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर और प्रत्येक हाथ में डम्बल लेकर खड़े होकर शुरुआत करें।",
+      "अपने शरीर को स्क्वाट स्थिति में लाएँ, डम्बल को अपने सामने ज़मीन पर रखें।",
+      "अपने शरीर को सीधी रेखा में रखते हुए अपने पैरों को वापस पुश-अप स्थिति में लाएँ।",
+      "अपनी कोहनियों को मोड़ते हुए और अपनी छाती को ज़मीन की ओर झुकाते हुए पुश-अप करें।",
+      "स्क्वाट स्थिति में उतरते हुए, अपने पैरों को अपने हाथों की ओर वापस उछालें।",
+      "डम्बल को जमीन से उठाकर अपने कंधों तक लाते हुए विस्फोटक तरीके से खड़े हो जाएं।",
+      "अपनी बाहों को पूरी तरह फैलाते हुए डम्बल को ऊपर की ओर दबाएं।",
+      "डम्बल को वापस अपने कंधों पर लाएँ और वांछित संख्या में दोहराव के लिए पूरे क्रम को दोहराएँ।"
+    ],
+    "pl": [
+      "Zacznij w pozycji stojącej, stopy na szerokość barków, hantle w obu rękach.",
+      "Opuść ciało do przysiadu, kładąc hantle na podłodze przed sobą.",
+      "Wykop nogi do tyłu, przyjmując pozycję do pompki, utrzymując ciało w linii prostej.",
+      "Wykonaj pompkę, uginając łokcie i opuszczając klatkę piersiową w kierunku podłogi.",
+      "Podskocz nogami z powrotem w kierunku rąk, lądując w pozycji przysiadu.",
+      "Wstań gwałtownie, unosząc hantle z podłogi i przenosząc je na wysokość barków.",
+      "Wypchnij hantle nad głowę, w pełni wyprostowując ramiona.",
+      "Opuść hantle z powrotem na wysokość barków i powtórz całą sekwencję przez zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 너비로 벌리고 서서 각 손에 덤벨을 하나씩 들고 있는 상태에서 시작합니다.",
+      "몸을 스쿼트 자세로 내려 덤벨을 앞에 바닥에 내려놓습니다.",
+      "발을 뒤로 차서 푸시업 자세로 들어가며 몸이 일직선을 유지하도록 합니다.",
+      "팔꿈치를 구부려 푸시업을 수행하여 가슴을 바닥 쪽으로 내립니다.",
+      "발을 손 쪽으로 점프하여 스쿼트 자세로 착지합니다.",
+      "폭발적으로 일어나면서 바닥에서 덤벨을 들어올려 어깨까지 올립니다.",
+      "덤벨을 머리 위로 프레스하여 팔을 완전히 펼칩니다.",
+      "덤벨을 다시 어깨로 내린 후 전체 동작을 원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Commence en position debout, les pieds écartés à la largeur des épaules et un haltère dans chaque main.",
+      "Descends en position accroupie, en posant les haltères au sol devant toi.",
+      "Renvoie tes pieds vers l'arrière en position de pompe, en gardant ton corps aligné.",
+      "Effectue une pompe, en pliant tes coudes et en abaissant ta poitrine vers le sol.",
+      "Ramène tes pieds vers tes mains en sautant, en atterrissant en position de squat.",
+      "Redresse-toi de façon explosive, en soulevant les haltères du sol et en les amenant à tes épaules.",
+      "Développe les haltères au-dessus de ta tête, en tendant complètement tes bras.",
+      "Abaisse les haltères jusqu'à tes épaules et répète toute la séquence pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves",
+    "shoulders",
+    "triceps",
+    "core"
+  ],
+  "target": "cardiovascular system",
+  "image": "images/1201-0JtKWum.jpg",
+  "gif_url": "videos/1201-0JtKWum.gif",
+  "media_id": "0JtKWum",
+  "created_at": "2026-03-18T12:31:32.877911+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

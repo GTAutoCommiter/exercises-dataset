@@ -1,0 +1,103 @@
+{
+  "id": "0022",
+  "name": "barbell pullover to press",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Lie flat on a bench with your head at one end and your feet on the ground. Hold the barbell with a pronated grip (palms facing away from you) and extend your arms straight above your chest. Keeping your arms straight, lower the barbell behind your head in an arc-like motion until you feel a stretch in your lats. Pause for a moment, then reverse the motion and press the barbell back to the starting position above your chest. Repeat for the desired number of repetitions.",
+    "it": "Sdraiati su una panca con la testa da un lato e i piedi a terra. Tieni il bilanciere con una presa prona (palmi rivolti lontano da te) ed estendi le braccia direttamente sopra il petto. Tenendo le braccia tese, abbassa il bilanciere dietro la testa con un movimento ad arco finché non senti un allungamento nei dorsali. Fai una pausa per un momento, quindi inverti il ​​movimento e riporta il bilanciere nella posizione iniziale sopra il petto. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Başınız bir ucunda ve ayaklarınız yerde olacak şekilde bir bankın üzerine düz bir şekilde uzanın. Halteri pronasyonlu bir tutuşla tutun (avuç içleriniz sizden uzağa bakacak şekilde) ve kollarınızı düz bir şekilde göğsünüzün üzerine uzatın. Kollarınızı düz tutarak, halterinizi başınızın arkasına yay benzeri bir hareketle, enlemlerinizde bir gerginlik hissedene kadar indirin. Bir an duraklayın, ardından hareketi tersine çevirin ve halteri göğsünüzün üzerindeki başlangıç ​​pozisyonuna doğru bastırın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Túmbate boca arriba en un banco con la cabeza en un extremo y los pies en el suelo. Sujeta una barra con un agarre pronado (palmas mirando hacia afuera) y extiende los brazos rectos por encima del pecho. Manteniendo los brazos rectos, baja la barra detrás de la cabeza con un movimiento en forma de arco hasta sentir un estiramiento en los dorsales. Haz una pausa breve, luego invierte el movimiento y empuja la barra de vuelta a la posición inicial por encima del pecho. Repite el número de repeticiones deseado.",
+    "ru": "Лягте на скамью, положив голову на один конец и поставив ноги на землю. Возьмите штангу пронированным хватом (ладонями от себя) и вытяните руки прямо над грудью. Держа руки прямыми, опустите штангу за голову дугообразными движениями, пока не почувствуете растяжение широчайших мышц. Сделайте паузу на мгновение, затем поменяйте направление движения и верните штангу в исходное положение над грудью. Повторите необходимое количество повторений.",
+    "zh": "平躺在长凳上，头朝一端，双脚着地。 旋前握住杠铃（手掌背向您），并将手臂伸直至胸部上方。 保持手臂伸直，以弧形动作将杠铃降低到脑后，直到感觉到背阔肌有拉伸感。 暂停片刻，然后反转动作，将杠铃推回到胸部上方的起始位置。 重复所需的重复次数。",
+    "hi": "एक बेंच पर अपने सिर को एक छोर पर और अपने पैरों को ज़मीन पर रखकर सीधे लेट जाएँ। बारबेल को उभरी हुई पकड़ से पकड़ें (हथेलियाँ आपसे दूर की ओर हों) और अपनी भुजाओं को सीधे अपनी छाती के ऊपर फैलाएँ। अपनी भुजाओं को सीधा रखते हुए, बारबेल को अपने सिर के पीछे एक चाप जैसी गति में तब तक नीचे करें जब तक आपको अपनी जांघों में खिंचाव महसूस न हो जाए। एक पल के लिए रुकें, फिर गति को उल्टा करें और बारबेल को वापस अपनी छाती के ऊपर प्रारंभिक स्थिति में दबाएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Połóż się płasko na ławce, głową na jednym końcu, a stopy oprzyj na podłodze. Chwyć sztangę chwytem pronowanym (dłonie skierowane od siebie) i wyprostuj ręce nad klatką piersiową. Utrzymując ręce proste, opuszczaj sztangę za głowę ruchem łukowym, aż poczujesz rozciąganie mięśni najszerszych grzbietu. Zatrzymaj się na chwilę, a następnie wykonaj ruch odwrotny, wypychając sztangę z powrotem do pozycji wyjściowej nad klatką piersiową. Powtórz odpowiednią liczbę razy.",
+    "ko": "벤치 위에 누워 머리는 한쪽 끝에 발은 바닥에 놓습니다. 프로네이티드 그립(손바닥이 몸에서 멀어지도록)으로 바벨을 잡고 팔을 가슴 위로 곧게 펼칩니다. 팔을 곧게 펴면서 바벨을 호 모양으로 머리 뒤로 내리되, 등근육에서 스트레칭을 느낄 때까지 내립니다. 잠깐 멈춘 후 동작을 역으로 하여 바벨을 가슴 위의 시작 위치로 밀어올립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Allonge-toi à plat sur un banc, la tête à une extrémité et les pieds au sol. Tiens la barre en prise pronation (paumes tournées vers l'extérieur) et étends tes bras droit au-dessus de ta poitrine. En gardant les bras tendus, abaisse la barre derrière ta tête dans un mouvement en arc jusqu'à ressentir un étirement dans tes grands dorsaux. Marque une pause, puis inverse le mouvement et repousse la barre jusqu'à la position de départ au-dessus de ta poitrine. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Lie flat on a bench with your head at one end and your feet on the ground.",
+      "Hold the barbell with a pronated grip (palms facing away from you) and extend your arms straight above your chest.",
+      "Keeping your arms straight, lower the barbell behind your head in an arc-like motion until you feel a stretch in your lats.",
+      "Pause for a moment, then reverse the motion and press the barbell back to the starting position above your chest.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Sdraiati su una panca con la testa da un lato e i piedi a terra.",
+      "Tieni il bilanciere con una presa prona (palmi rivolti lontano da te) ed estendi le braccia direttamente sopra il petto.",
+      "Tenendo le braccia tese, abbassa il bilanciere dietro la testa con un movimento ad arco finché non senti un allungamento nei dorsali.",
+      "Fai una pausa per un momento, quindi inverti il ​​movimento e riporta il bilanciere nella posizione iniziale sopra il petto.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Başınız bir ucunda ve ayaklarınız yerde olacak şekilde bir bankın üzerine düz bir şekilde uzanın.",
+      "Halteri pronasyonlu bir tutuşla tutun (avuç içleriniz sizden uzağa bakacak şekilde) ve kollarınızı düz bir şekilde göğsünüzün üzerine uzatın.",
+      "Kollarınızı düz tutarak, halterinizi başınızın arkasına yay benzeri bir hareketle, enlemlerinizde bir gerginlik hissedene kadar indirin.",
+      "Bir an duraklayın, ardından hareketi tersine çevirin ve halteri göğsünüzün üzerindeki başlangıç ​​pozisyonuna doğru bastırın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Túmbate boca arriba en un banco con la cabeza en un extremo y los pies en el suelo.",
+      "Sujeta una barra con un agarre pronado (palmas mirando hacia afuera) y extiende los brazos rectos por encima del pecho.",
+      "Manteniendo los brazos rectos, baja la barra detrás de la cabeza con un movimiento en forma de arco hasta sentir un estiramiento en los dorsales.",
+      "Haz una pausa breve, luego invierte el movimiento y empuja la barra de vuelta a la posición inicial por encima del pecho.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Лягте на скамью, положив голову на один конец и поставив ноги на землю.",
+      "Возьмите штангу пронированным хватом (ладонями от себя) и вытяните руки прямо над грудью.",
+      "Держа руки прямыми, опустите штангу за голову дугообразными движениями, пока не почувствуете растяжение широчайших мышц.",
+      "Сделайте паузу на мгновение, затем поменяйте направление движения и верните штангу в исходное положение над грудью.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "平躺在长凳上，头朝一端，双脚着地。",
+      "旋前握住杠铃（手掌背向您），并将手臂伸直至胸部上方。",
+      "保持手臂伸直，以弧形动作将杠铃降低到脑后，直到感觉到背阔肌有拉伸感。",
+      "暂停片刻，然后反转动作，将杠铃推回到胸部上方的起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "एक बेंच पर अपने सिर को एक छोर पर और अपने पैरों को ज़मीन पर रखकर सीधे लेट जाएँ।",
+      "बारबेल को उभरी हुई पकड़ से पकड़ें (हथेलियाँ आपसे दूर की ओर हों) और अपनी भुजाओं को सीधे अपनी छाती के ऊपर फैलाएँ।",
+      "अपनी भुजाओं को सीधा रखते हुए, बारबेल को अपने सिर के पीछे एक चाप जैसी गति में तब तक नीचे करें जब तक आपको अपनी जांघों में खिंचाव महसूस न हो जाए।",
+      "एक पल के लिए रुकें, फिर गति को उल्टा करें और बारबेल को वापस अपनी छाती के ऊपर प्रारंभिक स्थिति में दबाएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Połóż się płasko na ławce, głową na jednym końcu, a stopy oprzyj na podłodze.",
+      "Chwyć sztangę chwytem pronowanym (dłonie skierowane od siebie) i wyprostuj ręce nad klatką piersiową.",
+      "Utrzymując ręce proste, opuszczaj sztangę za głowę ruchem łukowym, aż poczujesz rozciąganie mięśni najszerszych grzbietu.",
+      "Zatrzymaj się na chwilę, a następnie wykonaj ruch odwrotny, wypychając sztangę z powrotem do pozycji wyjściowej nad klatką piersiową.",
+      "Powtórz odpowiednią liczbę razy."
+    ],
+    "ko": [
+      "벤치 위에 누워 머리는 한쪽 끝에 발은 바닥에 놓습니다.",
+      "프로네이티드 그립(손바닥이 몸에서 멀어지도록)으로 바벨을 잡고 팔을 가슴 위로 곧게 펼칩니다.",
+      "팔을 곧게 펴면서 바벨을 호 모양으로 머리 뒤로 내리되, 등근육에서 스트레칭을 느낄 때까지 내립니다.",
+      "잠깐 멈춘 후 동작을 역으로 하여 바벨을 가슴 위의 시작 위치로 밀어올립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Allonge-toi à plat sur un banc, la tête à une extrémité et les pieds au sol.",
+      "Tiens la barre en prise pronation (paumes tournées vers l'extérieur) et étends tes bras droit au-dessus de ta poitrine.",
+      "En gardant les bras tendus, abaisse la barre derrière ta tête dans un mouvement en arc jusqu'à ressentir un étirement dans tes grands dorsaux.",
+      "Marque une pause, puis inverse le mouvement et repousse la barre jusqu'à la position de départ au-dessus de ta poitrine.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "chest",
+    "shoulders"
+  ],
+  "target": "lats",
+  "image": "images/0022-znLogoF.jpg",
+  "gif_url": "videos/0022-znLogoF.gif",
+  "media_id": "znLogoF",
+  "created_at": "2026-03-18T12:31:32.872296+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

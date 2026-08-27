@@ -1,0 +1,121 @@
+{
+  "id": "0243",
+  "name": "cable twist",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart, facing the cable machine. Hold the cable handle with both hands in front of your chest, keeping your arms slightly bent. Engage your core and twist your torso to the right, pulling the cable across your body. Pause for a moment at the end of the movement, feeling the contraction in your abs and obliques. Slowly return to the starting position, resisting the cable's pull. Repeat the movement to the left side. Continue alternating sides for the desired number of repetitions.",
+    "it": "Stai con i piedi a larghezza delle spalle, rivolto verso la macchina per cavi. Tieni la maniglia del cavo con entrambe le mani davanti al petto, tenendo le braccia leggermente piegate. Attiva il core e ruota il busto verso destra, tirando il cavo attraverso il corpo. Fermati un attimo alla fine del movimento, sentendo la contrazione negli addominali e negli obliqui. Torna lentamente alla posizione iniziale, resistendo alla trazione del cavo. Ripeti il movimento verso sinistra. Continua ad alternare i lati per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde, kablo makinesine bakacak şekilde ayakta durun. Kablo tutamağını iki elinizle göğsünüzün önünde tutun, kollarınızı hafifçe bükün. Merkez bölgenizi devreye alın ve kabloyu vücudunuz boyunca çekerek gövdenizi sağa doğru çevirin. Hareketin sonunda bir anlığına durun, karın kaslarınızdaki ve oblik kaslarınızdaki kasılmayı hissedin. Kablonun çekilmesine direnerek yavaşça başlangıç ​​pozisyonuna dönün. Hareketi sol tarafa doğru tekrarlayın. İstenilen tekrar sayısı için alternatif taraflara devam edin.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros, frente a la máquina de cable. Sujeta el mango del cable con ambas manos frente al pecho, manteniendo los brazos ligeramente flexionados. Activa el core y gira el torso hacia la derecha, tirando del cable a través de tu cuerpo. Haz una pausa breve al final del movimiento, sintiendo la contracción en el abdomen y los oblicuos. Regresa lentamente a la posición inicial, resistiendo la tracción del cable. Repite el movimiento hacia el lado izquierdo. Continúa alternando lados durante el número de repeticiones deseado.",
+    "ru": "Встаньте, поставив ноги на ширине плеч, лицом к канатному тренажеру. Держите рукоятку троса обеими руками перед грудью, держа руки слегка согнутыми. Напрягите корпус и поверните туловище вправо, протягивая трос через тело. Сделайте паузу на мгновение в конце движения, чувствуя сокращение мышц пресса и косых мышц живота. Медленно вернитесь в исходное положение, сопротивляясь натяжению троса. Повторите движение в левую сторону. Продолжайте чередовать стороны желаемое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，面向绳索机。 双手握住电缆手柄于胸前，保持双臂略微弯曲。 启动你的核心并将你的躯干向右扭转，将电缆拉过你的身体。 动作结束时暂停片刻，感受腹肌和斜肌的收缩。 缓慢返回起始位置，抵抗绳索的拉力。 向左侧重复该动作。 继续交替进行所需的重复次数。",
+    "hi": "केबल मशीन की ओर मुंह करके अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं। केबल के हैंडल को दोनों हाथों से अपनी छाती के सामने पकड़ें, अपनी बाहों को थोड़ा झुकाकर रखें। अपने कोर को संलग्न करें और अपने धड़ को दाईं ओर मोड़ें, केबल को अपने शरीर पर खींचें। आंदोलन के अंत में एक पल के लिए रुकें, अपने पेट और तिरछेपन में संकुचन महसूस करें। केबल के खिंचाव का विरोध करते हुए, धीरे-धीरे प्रारंभिक स्थिति में लौट आएं। इस क्रिया को बायीं ओर दोहराएँ। दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।",
+    "pl": "Stań, ustawiając stopy na szerokość barków, przodem do wyciągu. Trzymaj uchwyt wyciągu obiema rękami przed klatką piersiową, trzymając ramiona lekko ugięte. Napnij mięśnie brzucha i skręć tułów w prawo, przyciągając linkę w poprzek ciała. Zatrzymaj się na chwilę na końcu ruchu, czując napięcie w mięśniach brzucha i skośnych. Powoli wróć do pozycji wyjściowej, opierając się sile ciągnącej linki. Powtórz ruch w lewą stronę. Kontynuuj zmianę stron przez zalecaną liczbę powtórzeń.",
+    "ko": "어깨너비만큼 발을 벌리고 케이블 머신을 향해 섭니다. 양손으로 케이블 핸들을 잡고 가슴 앞에 유지하되 팔을 약간 구부립니다. 복부에 힘을 주고 오른쪽으로 몸통을 비틀면서 케이블을 몸 앞으로 당깁니다. 동작의 끝에서 잠시 멈춰 복부와 측복근의 수축을 느낍니다. 천천히 처음 위치로 돌아가 케이블의 당김에 저항합니다. 반대쪽으로도 동작을 반복합니다. 원하는 횟수만큼 양쪽을 번갈아 진행합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules, face à la machine à câble. Tiens la poignée de câble des deux mains devant ta poitrine, en gardant tes bras légèrement fléchis. Gaine ta sangle abdominale et tourne ton torse vers la droite, en tirant le câble en travers de ton corps. Marque une pause à la fin du mouvement, en ressentant la contraction dans tes abdominaux et tes obliques. Reviens lentement à la position de départ, en résistant à la traction du câble. Répète le mouvement vers le côté gauche. Continue à alterner les côtés pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart, facing the cable machine.",
+      "Hold the cable handle with both hands in front of your chest, keeping your arms slightly bent.",
+      "Engage your core and twist your torso to the right, pulling the cable across your body.",
+      "Pause for a moment at the end of the movement, feeling the contraction in your abs and obliques.",
+      "Slowly return to the starting position, resisting the cable's pull.",
+      "Repeat the movement to the left side.",
+      "Continue alternating sides for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi a larghezza delle spalle, rivolto verso la macchina per cavi.",
+      "Tieni la maniglia del cavo con entrambe le mani davanti al petto, tenendo le braccia leggermente piegate.",
+      "Attiva il core e ruota il busto verso destra, tirando il cavo attraverso il corpo.",
+      "Fermati un attimo alla fine del movimento, sentendo la contrazione negli addominali e negli obliqui.",
+      "Torna lentamente alla posizione iniziale, resistendo alla trazione del cavo.",
+      "Ripeti il movimento verso sinistra.",
+      "Continua ad alternare i lati per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde, kablo makinesine bakacak şekilde ayakta durun.",
+      "Kablo tutamağını iki elinizle göğsünüzün önünde tutun, kollarınızı hafifçe bükün.",
+      "Merkez bölgenizi devreye alın ve kabloyu vücudunuz boyunca çekerek gövdenizi sağa doğru çevirin.",
+      "Hareketin sonunda bir anlığına durun, karın kaslarınızdaki ve oblik kaslarınızdaki kasılmayı hissedin.",
+      "Kablonun çekilmesine direnerek yavaşça başlangıç ​​pozisyonuna dönün.",
+      "Hareketi sol tarafa doğru tekrarlayın.",
+      "İstenilen tekrar sayısı için alternatif taraflara devam edin."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros, frente a la máquina de cable.",
+      "Sujeta el mango del cable con ambas manos frente al pecho, manteniendo los brazos ligeramente flexionados.",
+      "Activa el core y gira el torso hacia la derecha, tirando del cable a través de tu cuerpo.",
+      "Haz una pausa breve al final del movimiento, sintiendo la contracción en el abdomen y los oblicuos.",
+      "Regresa lentamente a la posición inicial, resistiendo la tracción del cable.",
+      "Repite el movimiento hacia el lado izquierdo.",
+      "Continúa alternando lados durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, поставив ноги на ширине плеч, лицом к канатному тренажеру.",
+      "Держите рукоятку троса обеими руками перед грудью, держа руки слегка согнутыми.",
+      "Напрягите корпус и поверните туловище вправо, протягивая трос через тело.",
+      "Сделайте паузу на мгновение в конце движения, чувствуя сокращение мышц пресса и косых мышц живота.",
+      "Медленно вернитесь в исходное положение, сопротивляясь натяжению троса.",
+      "Повторите движение в левую сторону.",
+      "Продолжайте чередовать стороны желаемое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，面向绳索机。",
+      "双手握住电缆手柄于胸前，保持双臂略微弯曲。",
+      "启动你的核心并将你的躯干向右扭转，将电缆拉过你的身体。",
+      "动作结束时暂停片刻，感受腹肌和斜肌的收缩。",
+      "缓慢返回起始位置，抵抗绳索的拉力。",
+      "向左侧重复该动作。",
+      "继续交替进行所需的重复次数。"
+    ],
+    "hi": [
+      "केबल मशीन की ओर मुंह करके अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं।",
+      "केबल के हैंडल को दोनों हाथों से अपनी छाती के सामने पकड़ें, अपनी बाहों को थोड़ा झुकाकर रखें।",
+      "अपने कोर को संलग्न करें और अपने धड़ को दाईं ओर मोड़ें, केबल को अपने शरीर पर खींचें।",
+      "आंदोलन के अंत में एक पल के लिए रुकें, अपने पेट और तिरछेपन में संकुचन महसूस करें।",
+      "केबल के खिंचाव का विरोध करते हुए, धीरे-धीरे प्रारंभिक स्थिति में लौट आएं।",
+      "इस क्रिया को बायीं ओर दोहराएँ।",
+      "दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।"
+    ],
+    "pl": [
+      "Stań, ustawiając stopy na szerokość barków, przodem do wyciągu.",
+      "Trzymaj uchwyt wyciągu obiema rękami przed klatką piersiową, trzymając ramiona lekko ugięte.",
+      "Napnij mięśnie brzucha i skręć tułów w prawo, przyciągając linkę w poprzek ciała.",
+      "Zatrzymaj się na chwilę na końcu ruchu, czując napięcie w mięśniach brzucha i skośnych.",
+      "Powoli wróć do pozycji wyjściowej, opierając się sile ciągnącej linki.",
+      "Powtórz ruch w lewą stronę.",
+      "Kontynuuj zmianę stron przez zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "어깨너비만큼 발을 벌리고 케이블 머신을 향해 섭니다.",
+      "양손으로 케이블 핸들을 잡고 가슴 앞에 유지하되 팔을 약간 구부립니다.",
+      "복부에 힘을 주고 오른쪽으로 몸통을 비틀면서 케이블을 몸 앞으로 당깁니다.",
+      "동작의 끝에서 잠시 멈춰 복부와 측복근의 수축을 느낍니다.",
+      "천천히 처음 위치로 돌아가 케이블의 당김에 저항합니다.",
+      "반대쪽으로도 동작을 반복합니다.",
+      "원하는 횟수만큼 양쪽을 번갈아 진행합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules, face à la machine à câble.",
+      "Tiens la poignée de câble des deux mains devant ta poitrine, en gardant tes bras légèrement fléchis.",
+      "Gaine ta sangle abdominale et tourne ton torse vers la droite, en tirant le câble en travers de ton corps.",
+      "Marque une pause à la fin du mouvement, en ressentant la contraction dans tes abdominaux et tes obliques.",
+      "Reviens lentement à la position de départ, en résistant à la traction du câble.",
+      "Répète le mouvement vers le côté gauche.",
+      "Continue à alterner les côtés pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "obliques",
+  "secondary_muscles": [
+    "obliques"
+  ],
+  "target": "abs",
+  "image": "images/0243-aVs3BR3.jpg",
+  "gif_url": "videos/0243-aVs3BR3.gif",
+  "media_id": "aVs3BR3",
+  "created_at": "2026-03-18T12:31:32.876632+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

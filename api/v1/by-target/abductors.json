@@ -1,0 +1,52 @@
+[
+  {
+    "id": "0597",
+    "name": "lever seated hip abduction",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "leverage machine",
+    "target": "abductors",
+    "image": "images/0597-CHpahtl.jpg",
+    "gif_url": "videos/0597-CHpahtl.gif"
+  },
+  {
+    "id": "3006",
+    "name": "resistance band seated hip abduction",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "resistance band",
+    "target": "abductors",
+    "image": "images/3006-0xDpB4L.jpg",
+    "gif_url": "videos/3006-0xDpB4L.gif"
+  },
+  {
+    "id": "1774",
+    "name": "side bridge hip abduction",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "abductors",
+    "image": "images/1774-WL4EmxJ.jpg",
+    "gif_url": "videos/1774-WL4EmxJ.gif"
+  },
+  {
+    "id": "0710",
+    "name": "side hip abduction",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "abductors",
+    "image": "images/0710-7WaDzyL.jpg",
+    "gif_url": "videos/0710-7WaDzyL.gif"
+  },
+  {
+    "id": "1427",
+    "name": "straight leg outer hip abductor",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "abductors",
+    "image": "images/1427-mQ1tBXn.jpg",
+    "gif_url": "videos/1427-mQ1tBXn.gif"
+  }
+]

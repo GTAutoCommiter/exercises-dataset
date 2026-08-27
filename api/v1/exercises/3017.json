@@ -1,0 +1,112 @@
+{
+  "id": "3017",
+  "name": "barbell pendlay row",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and your knees slightly bent. Bend forward at the hips, keeping your back straight and your chest up. Grasp the barbell with an overhand grip, slightly wider than shoulder-width apart. Pull the barbell towards your upper abdomen, squeezing your shoulder blades together. Lower the barbell back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi alla larghezza delle spalle e le ginocchia leggermente piegate. Piegati in avanti sui fianchi, mantenendo la schiena dritta e il petto in alto. Afferrare il bilanciere con una presa prona, leggermente più larga della larghezza delle spalle. Tirare il bilanciere verso la parte superiore dell'addome, stringendo insieme le scapole. Abbassare nuovamente il bilanciere nella posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız omuz genişliğinde açık ve dizleriniz hafifçe bükülü şekilde ayakta durun. Sırtınızı düz ve göğsünüzü yukarıda tutarak kalçalarınızdan öne doğru eğin. Halteri omuz genişliğinden biraz daha geniş olacak şekilde üstten kavrayın. Halteri üst karnınıza doğru çekin, kürek kemiklerinizi birbirine doğru sıkıştırın. Halteri tekrar başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y las rodillas ligeramente flexionadas. Inclínate hacia delante desde las caderas manteniendo la espalda recta y el pecho elevado. Agarra la barra con un agarre pronado un poco más ancho que la separación de los hombros. Tira de la barra hacia la parte superior del abdomen, juntando los omóplatos. Baja la barra de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, поставив ноги на ширине плеч и слегка согнув колени. Наклонитесь вперед в бедрах, держа спину прямо и грудь вверх. Возьмите штангу хватом сверху, на расстоянии чуть шире плеч. Потяните штангу к верхней части живота, сжимая лопатки вместе. Опустите штангу обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，膝盖稍微弯曲。 臀部向前弯曲，保持背部挺直，挺胸。 正手握住杠铃，握距略宽于肩宽。 将杠铃拉向上腹部，将肩胛骨挤压在一起。 将杠铃降低回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और आपके घुटने थोड़े मुड़े हुए हों। अपनी पीठ सीधी और छाती ऊपर रखते हुए कूल्हों के बल आगे की ओर झुकें। बारबेल को कंधे की चौड़ाई से थोड़ा अधिक चौड़े हाथ से पकड़ें। अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए, बारबेल को अपने ऊपरी पेट की ओर खींचें। बारबेल को वापस प्रारंभिक स्थिति में नीचे लाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań w rozkroku na szerokość barków, kolana lekko ugięte. Pochyl się do przodu w biodrach, utrzymując proste plecy i uniesioną klatkę piersiową. Chwyć sztangę chwytem nachwytem, nieco szerszym niż szerokość barków. Przyciągnij sztangę w kierunku górnej części brzucha, ściskając łopatki. Opuść sztangę z powrotem do pozycji wyjściowej. Powtórz odpowiednią liczbę razy.",
+    "ko": "어깨너비로 발을 벌리고 무릎을 약간 구부립니다. 엉덩이에서 구부려 앞으로 숙이되, 등을 곧게 펴고 가슴은 위로 향하게 합니다. 오버그립으로 바벨을 잡되, 손은 어깨너비보다 약간 넓게 벌립니다. 바벨을 상부 복부 방향으로 당기면서 어깨뼈를 모으고 짜냅니다. 바벨을 시작 위치로 내립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et les genoux légèrement fléchis. Penche-toi vers l'avant au niveau des hanches en gardant ton dos droit et ta poitrine haute. Saisis la barre avec une prise en pronation, un peu plus large que la largeur des épaules. Tire la barre vers le haut de ton abdomen, en contractant tes omoplates. Abaisse la barre jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and your knees slightly bent.",
+      "Bend forward at the hips, keeping your back straight and your chest up.",
+      "Grasp the barbell with an overhand grip, slightly wider than shoulder-width apart.",
+      "Pull the barbell towards your upper abdomen, squeezing your shoulder blades together.",
+      "Lower the barbell back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle e le ginocchia leggermente piegate.",
+      "Piegati in avanti sui fianchi, mantenendo la schiena dritta e il petto in alto.",
+      "Afferrare il bilanciere con una presa prona, leggermente più larga della larghezza delle spalle.",
+      "Tirare il bilanciere verso la parte superiore dell'addome, stringendo insieme le scapole.",
+      "Abbassare nuovamente il bilanciere nella posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık ve dizleriniz hafifçe bükülü şekilde ayakta durun.",
+      "Sırtınızı düz ve göğsünüzü yukarıda tutarak kalçalarınızdan öne doğru eğin.",
+      "Halteri omuz genişliğinden biraz daha geniş olacak şekilde üstten kavrayın.",
+      "Halteri üst karnınıza doğru çekin, kürek kemiklerinizi birbirine doğru sıkıştırın.",
+      "Halteri tekrar başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y las rodillas ligeramente flexionadas.",
+      "Inclínate hacia delante desde las caderas manteniendo la espalda recta y el pecho elevado.",
+      "Agarra la barra con un agarre pronado un poco más ancho que la separación de los hombros.",
+      "Tira de la barra hacia la parte superior del abdomen, juntando los omóplatos.",
+      "Baja la barra de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, поставив ноги на ширине плеч и слегка согнув колени.",
+      "Наклонитесь вперед в бедрах, держа спину прямо и грудь вверх.",
+      "Возьмите штангу хватом сверху, на расстоянии чуть шире плеч.",
+      "Потяните штангу к верхней части живота, сжимая лопатки вместе.",
+      "Опустите штангу обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，膝盖稍微弯曲。",
+      "臀部向前弯曲，保持背部挺直，挺胸。",
+      "正手握住杠铃，握距略宽于肩宽。",
+      "将杠铃拉向上腹部，将肩胛骨挤压在一起。",
+      "将杠铃降低回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और आपके घुटने थोड़े मुड़े हुए हों।",
+      "अपनी पीठ सीधी और छाती ऊपर रखते हुए कूल्हों के बल आगे की ओर झुकें।",
+      "बारबेल को कंधे की चौड़ाई से थोड़ा अधिक चौड़े हाथ से पकड़ें।",
+      "अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए, बारबेल को अपने ऊपरी पेट की ओर खींचें।",
+      "बारबेल को वापस प्रारंभिक स्थिति में नीचे लाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków, kolana lekko ugięte.",
+      "Pochyl się do przodu w biodrach, utrzymując proste plecy i uniesioną klatkę piersiową.",
+      "Chwyć sztangę chwytem nachwytem, nieco szerszym niż szerokość barków.",
+      "Przyciągnij sztangę w kierunku górnej części brzucha, ściskając łopatki.",
+      "Opuść sztangę z powrotem do pozycji wyjściowej.",
+      "Powtórz odpowiednią liczbę razy."
+    ],
+    "ko": [
+      "어깨너비로 발을 벌리고 무릎을 약간 구부립니다.",
+      "엉덩이에서 구부려 앞으로 숙이되, 등을 곧게 펴고 가슴은 위로 향하게 합니다.",
+      "오버그립으로 바벨을 잡되, 손은 어깨너비보다 약간 넓게 벌립니다.",
+      "바벨을 상부 복부 방향으로 당기면서 어깨뼈를 모으고 짜냅니다.",
+      "바벨을 시작 위치로 내립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et les genoux légèrement fléchis.",
+      "Penche-toi vers l'avant au niveau des hanches en gardant ton dos droit et ta poitrine haute.",
+      "Saisis la barre avec une prise en pronation, un peu plus large que la largeur des épaules.",
+      "Tire la barre vers le haut de ton abdomen, en contractant tes omoplates.",
+      "Abaisse la barre jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "forearms"
+  ],
+  "target": "upper back",
+  "image": "images/3017-r0z6xzQ.jpg",
+  "gif_url": "videos/3017-r0z6xzQ.gif",
+  "media_id": "r0z6xzQ",
+  "created_at": "2026-03-18T12:31:32.872197+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

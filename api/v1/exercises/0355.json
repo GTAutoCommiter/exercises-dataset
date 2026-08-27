@@ -1,0 +1,112 @@
+{
+  "id": "0355",
+  "name": "dumbbell one arm lateral raise",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart, holding a dumbbell in one hand with your palm facing your body. Keep your back straight and your core engaged throughout the exercise. Raise the dumbbell to the side, keeping your arm straight and your palm facing down. Continue lifting until your arm is parallel to the ground. Pause for a moment at the top, then slowly lower the dumbbell back to the starting position. Repeat for the desired number of repetitions, then switch to the other arm.",
+    "it": "Stai in piedi con i piedi a larghezza delle spalle, tenendo un manubrio in una mano con il palmo rivolto verso il corpo. Mantieni la schiena dritta e il core attivo durante tutto l'esercizio. Alza il manubrio di lato, tenendo il braccio teso e il palmo rivolto verso il basso. Continua a sollevare il braccio finché il braccio non è parallelo al suolo. Fermati un attimo in cima, poi abbassa lentamente il manubrio alla posizione di partenza. Ripeti per il numero desiderato di ripetizioni, poi passa all'altro braccio.",
+    "tr": "Ayaklarınız omuz genişliğinde açık, bir elinizde bir dambıl tutarak, avucunuz vücudunuza bakacak şekilde ayakta durun. Egzersiz boyunca sırtınızı düz ve merkez bölgenizi meşgul tutun. Kolunuzu düz ve avuç içi aşağıya bakacak şekilde dambılı yana doğru kaldırın. Kolunuz yere paralel oluncaya kadar kaldırmaya devam edin. Tepe noktasında bir süre duraklayın, ardından dambılı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen tekrar sayısı kadar tekrarlayın, ardından diğer kola geçin.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros, sosteniendo una mancuerna en una mano con la palma hacia el cuerpo. Mantén la espalda recta y el core activado durante todo el ejercicio. Levanta la mancuerna hacia el lado, manteniendo el brazo recto y la palma hacia abajo. Continúa levantando hasta que el brazo quede paralelo al suelo. Haz una pausa breve en la parte más alta, luego baja lentamente la mancuerna de vuelta a la posición inicial. Repite el número de repeticiones deseado, luego cambia al otro brazo.",
+    "ru": "Встаньте, ноги на ширине плеч, держите гантель в одной руке ладонью к телу. На протяжении всего упражнения держите спину прямой и напряженным корпус. Поднимите гантель в сторону, держа руку прямой ладонью вниз. Продолжайте поднимать, пока ваша рука не станет параллельна земле. Задержитесь на мгновение в верхней точке, затем медленно опустите гантель обратно в исходное положение. Повторите желаемое количество повторений, затем переключитесь на другую руку.",
+    "zh": "双脚分开与肩同宽站立，一手握住哑铃，手掌朝向身体。 在整个练习过程中保持背部挺直，核心肌群参与其中。 将哑铃举至一侧，保持手臂伸直，手掌朝下。 继续抬起，直到手臂与地面平行。 在最高点暂停片刻，然后慢慢将哑铃放回起始位置。 重复所需的重复次数，然后换到另一只手臂。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, एक हाथ में डंबल पकड़ें और अपनी हथेली को अपने शरीर की ओर रखें। पूरे अभ्यास के दौरान अपनी पीठ सीधी रखें और अपने कोर को व्यस्त रखें। अपनी बांह सीधी और हथेली नीचे की ओर रखते हुए डम्बल को बगल की ओर उठाएं। तब तक उठाना जारी रखें जब तक आपकी भुजा जमीन के समानांतर न हो जाए। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे डम्बल को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएं, फिर दूसरे हाथ पर स्विच करें।",
+    "pl": "Stań w rozkroku na szerokość barków, trzymając hantlę w jednej ręce, dłonią skierowaną w stronę ciała. Przez cały czas trwania ćwiczenia trzymaj proste plecy i napięty brzuch. Unieś hantlę na bok, trzymając rękę prostą i dłoń skierowaną w dół. Kontynuuj unoszenie, aż ramię będzie równoległe do podłogi. Zatrzymaj się na chwilę na górze, a następnie powoli opuść hantlę z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń, a następnie zmień na drugą rękę.",
+    "ko": "발을 어깨 넓이로 벌려 서서 한쪽 손에 덤벨을 들고 손가락이 몸을 향하도록 합니다. 등은 곧게 유지하고 복부에 힘을 줍니다. 팔을 곧게 유지하며 덤벨을 옆으로 올리고 손가락이 땅을 향하도록 합니다. 팔이 땅과 평행할 때까지 계속 올립니다. 위에서 잠시 멈춘 후 천천히 덤벨을 처음 위치로 내립니다. 원하는 횟수만큼 반복한 후 반대쪽 팔로 바꿔 진행합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un haltère d'une main, paume tournée vers ton corps. Garde le dos droit et ta sangle abdominale gainée tout au long de l'exercice. Lève l'haltère sur le côté en gardant ton bras tendu et ta paume tournée vers le bas. Continue à soulever jusqu'à ce que ton bras soit parallèle au sol. Marque une pause en haut, puis abaisse lentement l'haltère pour revenir à la position de départ. Répète le nombre de répétitions souhaité, puis passe à l'autre bras."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart, holding a dumbbell in one hand with your palm facing your body.",
+      "Keep your back straight and your core engaged throughout the exercise.",
+      "Raise the dumbbell to the side, keeping your arm straight and your palm facing down.",
+      "Continue lifting until your arm is parallel to the ground.",
+      "Pause for a moment at the top, then slowly lower the dumbbell back to the starting position.",
+      "Repeat for the desired number of repetitions, then switch to the other arm."
+    ],
+    "it": [
+      "Stai in piedi con i piedi a larghezza delle spalle, tenendo un manubrio in una mano con il palmo rivolto verso il corpo.",
+      "Mantieni la schiena dritta e il core attivo durante tutto l'esercizio.",
+      "Alza il manubrio di lato, tenendo il braccio teso e il palmo rivolto verso il basso.",
+      "Continua a sollevare il braccio finché il braccio non è parallelo al suolo.",
+      "Fermati un attimo in cima, poi abbassa lentamente il manubrio alla posizione di partenza.",
+      "Ripeti per il numero desiderato di ripetizioni, poi passa all'altro braccio."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık, bir elinizde bir dambıl tutarak, avucunuz vücudunuza bakacak şekilde ayakta durun.",
+      "Egzersiz boyunca sırtınızı düz ve merkez bölgenizi meşgul tutun.",
+      "Kolunuzu düz ve avuç içi aşağıya bakacak şekilde dambılı yana doğru kaldırın.",
+      "Kolunuz yere paralel oluncaya kadar kaldırmaya devam edin.",
+      "Tepe noktasında bir süre duraklayın, ardından dambılı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından diğer kola geçin."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros, sosteniendo una mancuerna en una mano con la palma hacia el cuerpo.",
+      "Mantén la espalda recta y el core activado durante todo el ejercicio.",
+      "Levanta la mancuerna hacia el lado, manteniendo el brazo recto y la palma hacia abajo.",
+      "Continúa levantando hasta que el brazo quede paralelo al suelo.",
+      "Haz una pausa breve en la parte más alta, luego baja lentamente la mancuerna de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado, luego cambia al otro brazo."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, держите гантель в одной руке ладонью к телу.",
+      "На протяжении всего упражнения держите спину прямой и напряженным корпус.",
+      "Поднимите гантель в сторону, держа руку прямой ладонью вниз.",
+      "Продолжайте поднимать, пока ваша рука не станет параллельна земле.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите гантель обратно в исходное положение.",
+      "Повторите желаемое количество повторений, затем переключитесь на другую руку."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，一手握住哑铃，手掌朝向身体。",
+      "在整个练习过程中保持背部挺直，核心肌群参与其中。",
+      "将哑铃举至一侧，保持手臂伸直，手掌朝下。",
+      "继续抬起，直到手臂与地面平行。",
+      "在最高点暂停片刻，然后慢慢将哑铃放回起始位置。",
+      "重复所需的重复次数，然后换到另一只手臂。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, एक हाथ में डंबल पकड़ें और अपनी हथेली को अपने शरीर की ओर रखें।",
+      "पूरे अभ्यास के दौरान अपनी पीठ सीधी रखें और अपने कोर को व्यस्त रखें।",
+      "अपनी बांह सीधी और हथेली नीचे की ओर रखते हुए डम्बल को बगल की ओर उठाएं।",
+      "तब तक उठाना जारी रखें जब तक आपकी भुजा जमीन के समानांतर न हो जाए।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे डम्बल को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर दूसरे हाथ पर स्विच करें।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków, trzymając hantlę w jednej ręce, dłonią skierowaną w stronę ciała.",
+      "Przez cały czas trwania ćwiczenia trzymaj proste plecy i napięty brzuch.",
+      "Unieś hantlę na bok, trzymając rękę prostą i dłoń skierowaną w dół.",
+      "Kontynuuj unoszenie, aż ramię będzie równoległe do podłogi.",
+      "Zatrzymaj się na chwilę na górze, a następnie powoli opuść hantlę z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń, a następnie zmień na drugą rękę."
+    ],
+    "ko": [
+      "발을 어깨 넓이로 벌려 서서 한쪽 손에 덤벨을 들고 손가락이 몸을 향하도록 합니다.",
+      "등은 곧게 유지하고 복부에 힘을 줍니다.",
+      "팔을 곧게 유지하며 덤벨을 옆으로 올리고 손가락이 땅을 향하도록 합니다.",
+      "팔이 땅과 평행할 때까지 계속 올립니다.",
+      "위에서 잠시 멈춘 후 천천히 덤벨을 처음 위치로 내립니다.",
+      "원하는 횟수만큼 반복한 후 반대쪽 팔로 바꿔 진행합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un haltère d'une main, paume tournée vers ton corps.",
+      "Garde le dos droit et ta sangle abdominale gainée tout au long de l'exercice.",
+      "Lève l'haltère sur le côté en gardant ton bras tendu et ta paume tournée vers le bas.",
+      "Continue à soulever jusqu'à ce que ton bras soit parallèle au sol.",
+      "Marque une pause en haut, puis abaisse lentement l'haltère pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis passe à l'autre bras."
+    ]
+  },
+  "muscle_group": "trapezius",
+  "secondary_muscles": [
+    "trapezius",
+    "triceps"
+  ],
+  "target": "delts",
+  "image": "images/0355-n5cWCsI.jpg",
+  "gif_url": "videos/0355-n5cWCsI.gif",
+  "media_id": "n5cWCsI",
+  "created_at": "2026-03-18T12:31:32.879883+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

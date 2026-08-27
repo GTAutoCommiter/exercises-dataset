@@ -1,0 +1,92 @@
+{
+  "id": "0978",
+  "name": "band front raise",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "band",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and hold the band in front of your thighs with your palms facing down. Keep your arms straight and slowly raise them forward until they are parallel to the ground. Pause for a moment at the top, then slowly lower your arms back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stare con i piedi alla larghezza delle spalle e tenere la fascia davanti alle cosce con i palmi rivolti verso il basso. Tieni le braccia tese e sollevale lentamente in avanti finché non sono parallele al suolo. Fai una pausa per un momento in alto, quindi abbassa lentamente le braccia fino alla posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınızı omuz genişliğinde açın ve bandı avuçlarınız aşağıya bakacak şekilde uyluklarınızın önünde tutun. Kollarınızı düz tutun ve yere paralel oluncaya kadar yavaşça öne doğru kaldırın. Tepe noktasında bir an duraklayın, ardından kollarınızı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y sostén la banda frente a los muslos con las palmas hacia abajo. Mantén los brazos rectos y levántalos lentamente hacia adelante hasta que queden paralelos al suelo. Haz una pausa por un momento en la parte superior, luego baja lentamente los brazos de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, держите ленту перед бедрами ладонями вниз. Держите руки прямо и медленно поднимите их вперед, пока они не станут параллельны земле. Задержитесь на мгновение в верхней точке, затем медленно опустите руки обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，将弹力带放在大腿前面，手掌朝下。 保持手臂伸直，慢慢向前举起，直到与地面平行。 在顶部暂停片刻，然后慢慢将手臂放回起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और अपनी हथेलियों को नीचे की ओर रखते हुए बैंड को अपनी जांघों के सामने पकड़ें। अपनी भुजाओं को सीधा रखें और धीरे-धीरे उन्हें आगे की ओर उठाएं जब तक कि वे जमीन के समानांतर न हो जाएं। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपनी भुजाओं को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań w rozkroku na szerokość barków i trzymaj taśmę przed udami, dłońmi skierowanymi w dół. Utrzymuj ramiona proste i powoli unoś je do przodu, aż będą równoległe do podłogi. Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść ramiona z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę razy.",
+    "ko": "발을 어깨너비로 벌리고 서서 밴드를 넓적다리 앞에 들되 손바닥이 아래를 향하게 합니다. 팔을 곧게 펼친 상태로 천천히 팔을 앞으로 올려 지면과 평행하게 만듭니다. 꼭짓점에서 잠깐 멈춘 후 천천히 팔을 시작 자세로 내립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens l'élastique devant tes cuisses, paumes tournées vers le bas. Garde tes bras tendus et lève-les lentement vers l'avant jusqu'à ce qu'ils soient parallèles au sol. Marque une pause en haut, puis abaisse lentement tes bras pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and hold the band in front of your thighs with your palms facing down.",
+      "Keep your arms straight and slowly raise them forward until they are parallel to the ground.",
+      "Pause for a moment at the top, then slowly lower your arms back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stare con i piedi alla larghezza delle spalle e tenere la fascia davanti alle cosce con i palmi rivolti verso il basso.",
+      "Tieni le braccia tese e sollevale lentamente in avanti finché non sono parallele al suolo.",
+      "Fai una pausa per un momento in alto, quindi abbassa lentamente le braccia fino alla posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınızı omuz genişliğinde açın ve bandı avuçlarınız aşağıya bakacak şekilde uyluklarınızın önünde tutun.",
+      "Kollarınızı düz tutun ve yere paralel oluncaya kadar yavaşça öne doğru kaldırın.",
+      "Tepe noktasında bir an duraklayın, ardından kollarınızı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y sostén la banda frente a los muslos con las palmas hacia abajo.",
+      "Mantén los brazos rectos y levántalos lentamente hacia adelante hasta que queden paralelos al suelo.",
+      "Haz una pausa por un momento en la parte superior, luego baja lentamente los brazos de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, держите ленту перед бедрами ладонями вниз.",
+      "Держите руки прямо и медленно поднимите их вперед, пока они не станут параллельны земле.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите руки обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，将弹力带放在大腿前面，手掌朝下。",
+      "保持手臂伸直，慢慢向前举起，直到与地面平行。",
+      "在顶部暂停片刻，然后慢慢将手臂放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और अपनी हथेलियों को नीचे की ओर रखते हुए बैंड को अपनी जांघों के सामने पकड़ें।",
+      "अपनी भुजाओं को सीधा रखें और धीरे-धीरे उन्हें आगे की ओर उठाएं जब तक कि वे जमीन के समानांतर न हो जाएं।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपनी भुजाओं को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków i trzymaj taśmę przed udami, dłońmi skierowanymi w dół.",
+      "Utrzymuj ramiona proste i powoli unoś je do przodu, aż będą równoległe do podłogi.",
+      "Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść ramiona z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "발을 어깨너비로 벌리고 서서 밴드를 넓적다리 앞에 들되 손바닥이 아래를 향하게 합니다.",
+      "팔을 곧게 펼친 상태로 천천히 팔을 앞으로 올려 지면과 평행하게 만듭니다.",
+      "꼭짓점에서 잠깐 멈춘 후 천천히 팔을 시작 자세로 내립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens l'élastique devant tes cuisses, paumes tournées vers le bas.",
+      "Garde tes bras tendus et lève-les lentement vers l'avant jusqu'à ce qu'ils soient parallèles au sol.",
+      "Marque une pause en haut, puis abaisse lentement tes bras pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "upper back"
+  ],
+  "target": "delts",
+  "image": "images/0978-TFA88iB.jpg",
+  "gif_url": "videos/0978-TFA88iB.gif",
+  "media_id": "TFA88iB",
+  "created_at": "2026-03-18T12:31:32.85595+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

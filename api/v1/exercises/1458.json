@@ -1,0 +1,121 @@
+{
+  "id": "1458",
+  "name": "ez barbell seated curls",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "ez barbell",
+  "instructions": {
+    "en": "Sit on a bench with your feet flat on the ground and your back straight. Hold the ez barbell with an underhand grip, palms facing up, and your hands shoulder-width apart. Rest your upper arms on your thighs, allowing the ez barbell to hang down in front of you. Keeping your upper arms stationary, exhale and curl the ez barbell upwards towards your shoulders. Pause for a moment at the top, squeezing your biceps. Inhale and slowly lower the ez barbell back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Siediti su una panca con i piedi appoggiati a terra e la schiena dritta. Tieni il bilanciere ez con una presa subdola, i palmi rivolti verso l'alto e le mani alla larghezza delle spalle. Appoggia la parte superiore delle braccia sulle cosce, lasciando che il bilanciere ez penda davanti a te. Mantenendo ferma la parte superiore delle braccia, espira e piega il bilanciere ez verso l'alto verso le spalle. Fermati un attimo in alto, contraendo i bicipiti. Inspira e abbassa lentamente il bilanciere ez nella posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız yere düz basacak ve sırtınız düz olacak şekilde bir bankta oturun. Ez halterini alttan kavrayarak, avuç içleriniz yukarı bakacak şekilde ve elleriniz omuz genişliğinde açık olacak şekilde tutun. Üst kollarınızı uyluklarınıza dayayın ve ez halterin önünüzde sarkmasına izin verin. Üst kollarınızı sabit tutarak nefes verin ve ez halterini omuzlarınıza doğru yukarı doğru kıvırın. Bicepslerinizi sıkarak tepede bir an duraklayın. Nefes alın ve ez halterini yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Siéntate en un banco con los pies apoyados planos en el suelo y la espalda recta. Sostén la barra EZ con agarre supino, palmas hacia arriba, y las manos separadas a la altura de los hombros. Apoya los brazos superiores en los muslos, dejando que la barra EZ cuelgue frente a ti. Manteniendo los brazos superiores inmóviles, exhala y sube la barra EZ hacia los hombros. Haz una pausa breve en la parte alta, apretando los bíceps. Inhala y baja lentamente la barra EZ a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Сядьте на скамью, поставив ноги на землю и выпрямив спину. Держите штангу ez обратным хватом ладонями вверх, руки на ширине плеч. Положите плечи на бедра, позволяя штанге свисать перед вами. Удерживая плечи неподвижно, выдохните и поднимите штангу вверх к плечам. Задержитесь на мгновение в верхней точке, напрягая бицепсы. Вдохните и медленно опустите штангу EZ в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "坐在长凳上，双脚平放在地上，背部挺直。 反手握住 ez 杠铃，手掌朝上，双手与肩同宽。 将上臂放在大腿上，让 ez 杠铃垂在您面前。 保持上臂静止，呼气并将杠铃向上卷曲至肩膀。 在顶部暂停片刻，挤压你的二头肌。 吸气并缓慢地将 ez 杠铃放回起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को ज़मीन पर सपाट और अपनी पीठ को सीधा करके एक बेंच पर बैठें। ईज़ बारबेल को अंडरहैंड ग्रिप से पकड़ें, हथेलियाँ ऊपर की ओर हों और आपके हाथ कंधे की चौड़ाई से अलग हों। अपनी ऊपरी भुजाओं को अपनी जाँघों पर टिकाएँ, जिससे ईज़ बारबेल आपके सामने लटक जाए। अपनी ऊपरी भुजाओं को स्थिर रखते हुए, सांस छोड़ें और ईज़ बारबेल को अपने कंधों की ओर ऊपर की ओर मोड़ें। अपने बाइसेप्स को निचोड़ते हुए शीर्ष पर एक पल के लिए रुकें। श्वास लें और धीरे-धीरे ईज़ बारबेल को प्रारंभिक स्थिति में वापस लाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Usiądź na ławce, stopy oprzyj płasko na podłodze, a plecy trzymaj proste. Chwyć gryf EZ podchwytem, dłonie skierowane do góry, ręce ustaw na szerokość barków. Oprzyj górną część ramion na udach, pozwalając sztandze swobodnie zwisać przed sobą. Trzymając górną część ramion nieruchomo, wydychając powietrze, zegnij ramiona, unosząc sztangę w stronę barków. Zatrzymaj się na chwilę na górze, ściskając mięśnie dwugłowe. Wdychając powietrze, powoli opuść sztangę z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę razy.",
+    "ko": "벤치에 앉아 발을 바닥에 댄 후 등을 곧게 유지합니다. 손가락이 위를 향하도록 역그립으로 EZ바벨을 어깨 너비만큼 벌려서 잡습니다. 위팔을 허벅지 위에 올리고 EZ바벨을 몸 앞에 내려놓습니다. 위팔을 고정한 채 숨을 내쉬면서 바벨을 어깨 쪽으로 말아 올립니다. 맨 위에서 잠깐 멈춰 이두근을 조여줍니다. 숨을 들이쉬면서 바벨을 천천히 시작 위치로 내립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Assieds-toi sur un banc, les pieds à plat sur le sol et le dos droit. Tiens la barre EZ en prise supination, les paumes tournées vers le haut et les mains écartées à la largeur des épaules. Pose le haut de tes bras sur tes cuisses, en laissant la barre EZ pendre devant toi. En gardant le haut des bras immobile, expire et fléchis la barre EZ vers tes épaules. Marque une pause en haut, en contractant tes biceps. Inspire et abaisse lentement la barre EZ jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on a bench with your feet flat on the ground and your back straight.",
+      "Hold the ez barbell with an underhand grip, palms facing up, and your hands shoulder-width apart.",
+      "Rest your upper arms on your thighs, allowing the ez barbell to hang down in front of you.",
+      "Keeping your upper arms stationary, exhale and curl the ez barbell upwards towards your shoulders.",
+      "Pause for a moment at the top, squeezing your biceps.",
+      "Inhale and slowly lower the ez barbell back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Siediti su una panca con i piedi appoggiati a terra e la schiena dritta.",
+      "Tieni il bilanciere ez con una presa subdola, i palmi rivolti verso l'alto e le mani alla larghezza delle spalle.",
+      "Appoggia la parte superiore delle braccia sulle cosce, lasciando che il bilanciere ez penda davanti a te.",
+      "Mantenendo ferma la parte superiore delle braccia, espira e piega il bilanciere ez verso l'alto verso le spalle.",
+      "Fermati un attimo in alto, contraendo i bicipiti.",
+      "Inspira e abbassa lentamente il bilanciere ez nella posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız yere düz basacak ve sırtınız düz olacak şekilde bir bankta oturun.",
+      "Ez halterini alttan kavrayarak, avuç içleriniz yukarı bakacak şekilde ve elleriniz omuz genişliğinde açık olacak şekilde tutun.",
+      "Üst kollarınızı uyluklarınıza dayayın ve ez halterin önünüzde sarkmasına izin verin.",
+      "Üst kollarınızı sabit tutarak nefes verin ve ez halterini omuzlarınıza doğru yukarı doğru kıvırın.",
+      "Bicepslerinizi sıkarak tepede bir an duraklayın.",
+      "Nefes alın ve ez halterini yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Siéntate en un banco con los pies apoyados planos en el suelo y la espalda recta.",
+      "Sostén la barra EZ con agarre supino, palmas hacia arriba, y las manos separadas a la altura de los hombros.",
+      "Apoya los brazos superiores en los muslos, dejando que la barra EZ cuelgue frente a ti.",
+      "Manteniendo los brazos superiores inmóviles, exhala y sube la barra EZ hacia los hombros.",
+      "Haz una pausa breve en la parte alta, apretando los bíceps.",
+      "Inhala y baja lentamente la barra EZ a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на скамью, поставив ноги на землю и выпрямив спину.",
+      "Держите штангу ez обратным хватом ладонями вверх, руки на ширине плеч.",
+      "Положите плечи на бедра, позволяя штанге свисать перед вами.",
+      "Удерживая плечи неподвижно, выдохните и поднимите штангу вверх к плечам.",
+      "Задержитесь на мгновение в верхней точке, напрягая бицепсы.",
+      "Вдохните и медленно опустите штангу EZ в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "坐在长凳上，双脚平放在地上，背部挺直。",
+      "反手握住 ez 杠铃，手掌朝上，双手与肩同宽。",
+      "将上臂放在大腿上，让 ez 杠铃垂在您面前。",
+      "保持上臂静止，呼气并将杠铃向上卷曲至肩膀。",
+      "在顶部暂停片刻，挤压你的二头肌。",
+      "吸气并缓慢地将 ez 杠铃放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को ज़मीन पर सपाट और अपनी पीठ को सीधा करके एक बेंच पर बैठें।",
+      "ईज़ बारबेल को अंडरहैंड ग्रिप से पकड़ें, हथेलियाँ ऊपर की ओर हों और आपके हाथ कंधे की चौड़ाई से अलग हों।",
+      "अपनी ऊपरी भुजाओं को अपनी जाँघों पर टिकाएँ, जिससे ईज़ बारबेल आपके सामने लटक जाए।",
+      "अपनी ऊपरी भुजाओं को स्थिर रखते हुए, सांस छोड़ें और ईज़ बारबेल को अपने कंधों की ओर ऊपर की ओर मोड़ें।",
+      "अपने बाइसेप्स को निचोड़ते हुए शीर्ष पर एक पल के लिए रुकें।",
+      "श्वास लें और धीरे-धीरे ईज़ बारबेल को प्रारंभिक स्थिति में वापस लाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Usiądź na ławce, stopy oprzyj płasko na podłodze, a plecy trzymaj proste.",
+      "Chwyć gryf EZ podchwytem, dłonie skierowane do góry, ręce ustaw na szerokość barków.",
+      "Oprzyj górną część ramion na udach, pozwalając sztandze swobodnie zwisać przed sobą.",
+      "Trzymając górną część ramion nieruchomo, wydychając powietrze, zegnij ramiona, unosząc sztangę w stronę barków.",
+      "Zatrzymaj się na chwilę na górze, ściskając mięśnie dwugłowe.",
+      "Wdychając powietrze, powoli opuść sztangę z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "벤치에 앉아 발을 바닥에 댄 후 등을 곧게 유지합니다.",
+      "손가락이 위를 향하도록 역그립으로 EZ바벨을 어깨 너비만큼 벌려서 잡습니다.",
+      "위팔을 허벅지 위에 올리고 EZ바벨을 몸 앞에 내려놓습니다.",
+      "위팔을 고정한 채 숨을 내쉬면서 바벨을 어깨 쪽으로 말아 올립니다.",
+      "맨 위에서 잠깐 멈춰 이두근을 조여줍니다.",
+      "숨을 들이쉬면서 바벨을 천천히 시작 위치로 내립니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Assieds-toi sur un banc, les pieds à plat sur le sol et le dos droit.",
+      "Tiens la barre EZ en prise supination, les paumes tournées vers le haut et les mains écartées à la largeur des épaules.",
+      "Pose le haut de tes bras sur tes cuisses, en laissant la barre EZ pendre devant toi.",
+      "En gardant le haut des bras immobile, expire et fléchis la barre EZ vers tes épaules.",
+      "Marque une pause en haut, en contractant tes biceps.",
+      "Inspire et abaisse lentement la barre EZ jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "forearms",
+  "secondary_muscles": [
+    "forearms"
+  ],
+  "target": "biceps",
+  "image": "images/1458-jtFKbt5.jpg",
+  "gif_url": "videos/1458-jtFKbt5.gif",
+  "media_id": "jtFKbt5",
+  "created_at": "2026-03-18T12:31:32.883398+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

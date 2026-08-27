@@ -1,0 +1,122 @@
+{
+  "id": "1010",
+  "name": "band straight leg deadlift",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "band",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and place the band around your feet. Hold the band with both hands, palms facing your body, and keep your arms straight. Engage your core and maintain a slight bend in your knees. Slowly hinge forward at your hips, keeping your back straight and chest lifted. Lower the band towards the ground while keeping your legs straight. Pause for a moment at the bottom, then squeeze your glutes and hamstrings to return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stare con i piedi alla larghezza delle spalle e posizionare la fascia attorno ai piedi. Tieni la fascia con entrambe le mani, i palmi rivolti verso il corpo e mantieni le braccia dritte. Coinvolgi il core e mantieni una leggera piegatura delle ginocchia. Piegati lentamente in avanti sui fianchi, mantenendo la schiena dritta e il petto sollevato. Abbassa la fascia verso terra mantenendo le gambe dritte. Fai una pausa per un momento in fondo, quindi contrai i glutei e i muscoli posteriori della coscia per tornare alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınızı omuz genişliğinde açın ve bandı ayaklarınızın etrafına yerleştirin. Bandı iki elinizle, avuçlarınız vücudunuza bakacak şekilde tutun ve kollarınızı düz tutun. Merkez bölgenizi devreye sokun ve dizlerinizde hafif bir bükülme sağlayın. Sırtınızı düz ve göğsünüzü yukarıda tutarak kalçalarınızdan yavaşça öne doğru eğilin. Bacaklarınızı düz tutarak bandı yere doğru indirin. Altta bir an duraklayın, ardından başlangıç ​​pozisyonuna dönmek için kalça kaslarınızı ve diz arkası kaslarınızı sıkın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y coloca la banda alrededor de los pies. Sujeta la banda con ambas manos, con las palmas mirando hacia el cuerpo, y mantén los brazos rectos. Activa el core y mantén una ligera flexión en las rodillas. Inclínate lentamente hacia delante desde las caderas, manteniendo la espalda recta y el pecho elevado. Baja la banda hacia el suelo manteniendo las piernas rectas. Haz una pausa breve en la posición baja y luego contrae los glúteos y los isquiotibiales para volver a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, и наденьте ленту на ступни. Держите ленту обеими руками ладонями к телу и держите руки прямыми. Напрягите корпус и сохраняйте небольшой изгиб в коленях. Медленно наклонитесь вперед в бедрах, сохраняя спину прямой и грудь поднятой. Опустите ленту к земле, сохраняя ноги прямыми. Задержитесь на мгновение в нижней точке, затем сожмите ягодицы и мышцы задней поверхности бедра, чтобы вернуться в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，将弹力带绕在脚上。 双手握住弹力带，手掌朝向身体，手臂伸直。 收紧核心并保持膝盖轻微弯曲。 慢慢地以臀部为中心向前转动，保持背部挺直，挺胸。 将弹力带降低至地面，同时保持双腿伸直。 在底部暂停片刻，然后挤压臀肌和腿筋，回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और बैंड को अपने पैरों के चारों ओर रखें। बैंड को दोनों हाथों से पकड़ें, हथेलियाँ आपके शरीर की ओर हों, और अपनी भुजाएँ सीधी रखें। अपने कोर को संलग्न करें और अपने घुटनों को थोड़ा मोड़ें। अपनी पीठ सीधी और छाती ऊपर उठाते हुए धीरे-धीरे अपने कूल्हों पर आगे की ओर झुकें। अपने पैरों को सीधा रखते हुए बैंड को ज़मीन की ओर नीचे करें। नीचे एक पल के लिए रुकें, फिर शुरुआती स्थिति में लौटने के लिए अपने ग्लूट्स और हैमस्ट्रिंग को निचोड़ें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań w rozkroku na szerokość barków i umieść taśmę wokół stóp. Trzymaj taśmę obiema rękami, dłonie skierowane do ciała, ramiona proste. Napnij mięśnie brzucha i utrzymuj lekkie ugięcie kolan. Powoli pochyl się do przodu w biodrach, utrzymując proste plecy i uniesioną klatkę piersiową. Opuść taśmę w kierunku podłogi, utrzymując nogi proste. Zatrzymaj się na chwilę w dolnej pozycji, a następnie ściśnij pośladki i mięśnie dwugłowe uda, aby wrócić do pozycji wyjściowej. Powtórz zalecaną liczbę razy.",
+    "ko": "어깨 너비로 발을 벌리고 서서 밴드를 발 주위에 감습니다. 밴드를 양손으로 잡되 손바닥이 몸을 향하고 팔을 곧게 펴서 유지합니다. 코어를 활성화하고 무릎을 약간만 구부려서 유지합니다. 허리에서 천천히 앞으로 숙이되 등을 곧게 펴고 가슴을 든 상태를 유지합니다. 다리를 곧게 펼친 상태로 밴드를 지면 쪽으로 내립니다. 맨 아래에서 잠시 멈춘 후, 둔근과 햄스트링을 조여 원래 위치로 돌아옵니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et place l'élastique autour de tes pieds. Tiens l'élastique des deux mains, les paumes tournées vers ton corps, et garde tes bras tendus. Gaine ta sangle abdominale et maintiens une légère flexion dans tes genoux. Bascule lentement vers l'avant au niveau des hanches, en gardant le dos droit et la poitrine relevée. Abaisse l'élastique vers le sol tout en gardant tes jambes tendues. Marque une pause en bas, puis contracte tes fessiers et tes ischio-jambiers pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and place the band around your feet.",
+      "Hold the band with both hands, palms facing your body, and keep your arms straight.",
+      "Engage your core and maintain a slight bend in your knees.",
+      "Slowly hinge forward at your hips, keeping your back straight and chest lifted.",
+      "Lower the band towards the ground while keeping your legs straight.",
+      "Pause for a moment at the bottom, then squeeze your glutes and hamstrings to return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stare con i piedi alla larghezza delle spalle e posizionare la fascia attorno ai piedi.",
+      "Tieni la fascia con entrambe le mani, i palmi rivolti verso il corpo e mantieni le braccia dritte.",
+      "Coinvolgi il core e mantieni una leggera piegatura delle ginocchia.",
+      "Piegati lentamente in avanti sui fianchi, mantenendo la schiena dritta e il petto sollevato.",
+      "Abbassa la fascia verso terra mantenendo le gambe dritte.",
+      "Fai una pausa per un momento in fondo, quindi contrai i glutei e i muscoli posteriori della coscia per tornare alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınızı omuz genişliğinde açın ve bandı ayaklarınızın etrafına yerleştirin.",
+      "Bandı iki elinizle, avuçlarınız vücudunuza bakacak şekilde tutun ve kollarınızı düz tutun.",
+      "Merkez bölgenizi devreye sokun ve dizlerinizde hafif bir bükülme sağlayın.",
+      "Sırtınızı düz ve göğsünüzü yukarıda tutarak kalçalarınızdan yavaşça öne doğru eğilin.",
+      "Bacaklarınızı düz tutarak bandı yere doğru indirin.",
+      "Altta bir an duraklayın, ardından başlangıç ​​pozisyonuna dönmek için kalça kaslarınızı ve diz arkası kaslarınızı sıkın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y coloca la banda alrededor de los pies.",
+      "Sujeta la banda con ambas manos, con las palmas mirando hacia el cuerpo, y mantén los brazos rectos.",
+      "Activa el core y mantén una ligera flexión en las rodillas.",
+      "Inclínate lentamente hacia delante desde las caderas, manteniendo la espalda recta y el pecho elevado.",
+      "Baja la banda hacia el suelo manteniendo las piernas rectas.",
+      "Haz una pausa breve en la posición baja y luego contrae los glúteos y los isquiotibiales para volver a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, и наденьте ленту на ступни.",
+      "Держите ленту обеими руками ладонями к телу и держите руки прямыми.",
+      "Напрягите корпус и сохраняйте небольшой изгиб в коленях.",
+      "Медленно наклонитесь вперед в бедрах, сохраняя спину прямой и грудь поднятой.",
+      "Опустите ленту к земле, сохраняя ноги прямыми.",
+      "Задержитесь на мгновение в нижней точке, затем сожмите ягодицы и мышцы задней поверхности бедра, чтобы вернуться в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，将弹力带绕在脚上。",
+      "双手握住弹力带，手掌朝向身体，手臂伸直。",
+      "收紧核心并保持膝盖轻微弯曲。",
+      "慢慢地以臀部为中心向前转动，保持背部挺直，挺胸。",
+      "将弹力带降低至地面，同时保持双腿伸直。",
+      "在底部暂停片刻，然后挤压臀肌和腿筋，回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और बैंड को अपने पैरों के चारों ओर रखें।",
+      "बैंड को दोनों हाथों से पकड़ें, हथेलियाँ आपके शरीर की ओर हों, और अपनी भुजाएँ सीधी रखें।",
+      "अपने कोर को संलग्न करें और अपने घुटनों को थोड़ा मोड़ें।",
+      "अपनी पीठ सीधी और छाती ऊपर उठाते हुए धीरे-धीरे अपने कूल्हों पर आगे की ओर झुकें।",
+      "अपने पैरों को सीधा रखते हुए बैंड को ज़मीन की ओर नीचे करें।",
+      "नीचे एक पल के लिए रुकें, फिर शुरुआती स्थिति में लौटने के लिए अपने ग्लूट्स और हैमस्ट्रिंग को निचोड़ें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków i umieść taśmę wokół stóp.",
+      "Trzymaj taśmę obiema rękami, dłonie skierowane do ciała, ramiona proste.",
+      "Napnij mięśnie brzucha i utrzymuj lekkie ugięcie kolan.",
+      "Powoli pochyl się do przodu w biodrach, utrzymując proste plecy i uniesioną klatkę piersiową.",
+      "Opuść taśmę w kierunku podłogi, utrzymując nogi proste.",
+      "Zatrzymaj się na chwilę w dolnej pozycji, a następnie ściśnij pośladki i mięśnie dwugłowe uda, aby wrócić do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "어깨 너비로 발을 벌리고 서서 밴드를 발 주위에 감습니다.",
+      "밴드를 양손으로 잡되 손바닥이 몸을 향하고 팔을 곧게 펴서 유지합니다.",
+      "코어를 활성화하고 무릎을 약간만 구부려서 유지합니다.",
+      "허리에서 천천히 앞으로 숙이되 등을 곧게 펴고 가슴을 든 상태를 유지합니다.",
+      "다리를 곧게 펼친 상태로 밴드를 지면 쪽으로 내립니다.",
+      "맨 아래에서 잠시 멈춘 후, 둔근과 햄스트링을 조여 원래 위치로 돌아옵니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et place l'élastique autour de tes pieds.",
+      "Tiens l'élastique des deux mains, les paumes tournées vers ton corps, et garde tes bras tendus.",
+      "Gaine ta sangle abdominale et maintiens une légère flexion dans tes genoux.",
+      "Bascule lentement vers l'avant au niveau des hanches, en gardant le dos droit et la poitrine relevée.",
+      "Abaisse l'élastique vers le sol tout en gardant tes jambes tendues.",
+      "Marque une pause en bas, puis contracte tes fessiers et tes ischio-jambiers pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings",
+    "glutes"
+  ],
+  "target": "spine",
+  "image": "images/1010-KUaoUV8.jpg",
+  "gif_url": "videos/1010-KUaoUV8.gif",
+  "media_id": "KUaoUV8",
+  "created_at": "2026-03-18T12:31:32.870047+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

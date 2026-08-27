@@ -1,0 +1,122 @@
+{
+  "id": "1359",
+  "name": "smith bent over row",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "smith machine",
+  "instructions": {
+    "en": "Set up the smith machine with the bar at hip height. Stand facing the bar with your feet shoulder-width apart. Bend your knees slightly and hinge forward at the hips, keeping your back straight. Grasp the bar with an overhand grip, hands slightly wider than shoulder-width apart. Pull the bar towards your lower chest, squeezing your shoulder blades together. Pause for a moment at the top, then slowly lower the bar back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Posiziona la macchina da fabbro con la barra all'altezza dei fianchi. Mettiti di fronte alla barra con i piedi alla larghezza delle spalle. Piega leggermente le ginocchia e fai perno in avanti sui fianchi, mantenendo la schiena dritta. Afferrare la barra con una presa prona, con le mani leggermente più larghe della larghezza delle spalle. Tirare la barra verso la parte inferiore del torace, stringendo insieme le scapole. Fermati per un momento in alto, quindi abbassa lentamente la barra nella posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Demirci makinesini çubuk kalça hizasında olacak şekilde kurun. Ayaklarınız omuz genişliğinde açık olacak şekilde çubuğa dönük durun. Dizlerinizi hafifçe bükün ve sırtınızı düz tutarak kalçalarınızdan öne doğru eğilin. Çubuğu üstten kavrayarak, eller omuz genişliğinden biraz daha geniş olacak şekilde kavrayın. Omuz bıçaklarınızı birbirine sıkıştırarak çubuğu göğsünüzün alt kısmına doğru çekin. Üst noktada bir süre duraklayın, ardından çubuğu yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Configura la máquina Smith con la barra a la altura de la cadera. Ponte de pie frente a la barra con los pies separados a la altura de los hombros. Flexiona ligeramente las rodillas e inclínate hacia adelante desde las caderas, manteniendo la espalda recta. Sujeta la barra con un agarre prono, con las manos un poco más separadas que el ancho de los hombros. Tira de la barra hacia la parte baja del pecho, juntando las escápulas. Haz una pausa por un momento en la posición alta, luego baja lentamente la barra de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Установите машину Смита так, чтобы штанга находилась на уровне бедер. Встаньте лицом к перекладине, ноги на ширине плеч. Слегка согните колени и наклонитесь вперед в бедрах, сохраняя спину прямой. Возьмите перекладину хватом сверху, руки на расстоянии чуть шире плеч. Потяните штангу к нижней части груди, сжимая лопатки вместе. Задержитесь на мгновение в верхней точке, затем медленно опустите штангу обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "将史密斯机设置为与臀部高度相同的杠铃。 面向杠铃站立，双脚分开与肩同宽。 稍微弯曲膝盖，髋部向前转动，保持背部挺直。 正手握住杠铃，双手距离略宽于肩宽。 将杠铃拉向下胸部，将肩胛骨挤压在一起。 在顶部暂停片刻，然后慢慢将杠铃放回起始位置。 重复所需的重复次数。",
+    "hi": "कूल्हे की ऊंचाई पर बार के साथ स्मिथ मशीन स्थापित करें। अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए बार की ओर मुंह करके खड़े हो जाएं। अपने घुटनों को थोड़ा मोड़ें और अपनी पीठ को सीधा रखते हुए कूल्हों पर आगे की ओर झुकें। बार को ओवरहैंड ग्रिप से पकड़ें, हाथ कंधे की चौड़ाई से थोड़े चौड़े हों। अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए, बार को अपनी निचली छाती की ओर खींचें। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे बार को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Ustaw suwnicę Smitha ze sztangą na wysokości bioder. Stań przodem do sztangi, ze stopami rozstawionymi na szerokość barków. Ugnij lekko kolana i pochyl się do przodu w biodrach, trzymając plecy proste. Chwyć sztangę nachwytem, dłońmi ustawionymi nieco szerzej niż szerokość barków. Przyciągnij sztangę w kierunku dolnej części klatki piersiowej, ściskając łopatki. Zatrzymaj się na chwilę na górze, a następnie powoli opuść sztangę z powrotem do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "스미스 머신 바의 높이를 엉덩이 높이로 설정하세요. 바 앞에 서서 발을 어깨 너비만큼 벌리세요. 무릎을 약간 구부려서 엉덩이 쪽으로 몸을 앞으로 굽히되 등을 펴세요. 바를 오버핸드 그립으로 잡되 손을 어깨 너비보다 약간 넓게 벌리세요. 바를 가슴 아래쪽으로 당기면서 견갑골을 모으세요. 정상에서 잠깐 멈춘 후 바를 천천히 시작 자세로 내려놓으세요. 원하는 반복 횟수만큼 반복하세요.",
+    "fr": "Règle la machine Smith avec la barre à hauteur de hanche. Tiens-toi face à la barre, les pieds écartés à la largeur des épaules. Fléchis légèrement les genoux et bascule vers l'avant au niveau des hanches en gardant le dos droit. Saisis la barre avec une prise en pronation, les mains un peu plus larges que la largeur des épaules. Tire la barre vers le bas de ta poitrine, en contractant tes omoplates. Marque une pause en haut, puis abaisse lentement la barre pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Set up the smith machine with the bar at hip height.",
+      "Stand facing the bar with your feet shoulder-width apart.",
+      "Bend your knees slightly and hinge forward at the hips, keeping your back straight.",
+      "Grasp the bar with an overhand grip, hands slightly wider than shoulder-width apart.",
+      "Pull the bar towards your lower chest, squeezing your shoulder blades together.",
+      "Pause for a moment at the top, then slowly lower the bar back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Posiziona la macchina da fabbro con la barra all'altezza dei fianchi.",
+      "Mettiti di fronte alla barra con i piedi alla larghezza delle spalle.",
+      "Piega leggermente le ginocchia e fai perno in avanti sui fianchi, mantenendo la schiena dritta.",
+      "Afferrare la barra con una presa prona, con le mani leggermente più larghe della larghezza delle spalle.",
+      "Tirare la barra verso la parte inferiore del torace, stringendo insieme le scapole.",
+      "Fermati per un momento in alto, quindi abbassa lentamente la barra nella posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Demirci makinesini çubuk kalça hizasında olacak şekilde kurun.",
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde çubuğa dönük durun.",
+      "Dizlerinizi hafifçe bükün ve sırtınızı düz tutarak kalçalarınızdan öne doğru eğilin.",
+      "Çubuğu üstten kavrayarak, eller omuz genişliğinden biraz daha geniş olacak şekilde kavrayın.",
+      "Omuz bıçaklarınızı birbirine sıkıştırarak çubuğu göğsünüzün alt kısmına doğru çekin.",
+      "Üst noktada bir süre duraklayın, ardından çubuğu yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Configura la máquina Smith con la barra a la altura de la cadera.",
+      "Ponte de pie frente a la barra con los pies separados a la altura de los hombros.",
+      "Flexiona ligeramente las rodillas e inclínate hacia adelante desde las caderas, manteniendo la espalda recta.",
+      "Sujeta la barra con un agarre prono, con las manos un poco más separadas que el ancho de los hombros.",
+      "Tira de la barra hacia la parte baja del pecho, juntando las escápulas.",
+      "Haz una pausa por un momento en la posición alta, luego baja lentamente la barra de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Установите машину Смита так, чтобы штанга находилась на уровне бедер.",
+      "Встаньте лицом к перекладине, ноги на ширине плеч.",
+      "Слегка согните колени и наклонитесь вперед в бедрах, сохраняя спину прямой.",
+      "Возьмите перекладину хватом сверху, руки на расстоянии чуть шире плеч.",
+      "Потяните штангу к нижней части груди, сжимая лопатки вместе.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите штангу обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将史密斯机设置为与臀部高度相同的杠铃。",
+      "面向杠铃站立，双脚分开与肩同宽。",
+      "稍微弯曲膝盖，髋部向前转动，保持背部挺直。",
+      "正手握住杠铃，双手距离略宽于肩宽。",
+      "将杠铃拉向下胸部，将肩胛骨挤压在一起。",
+      "在顶部暂停片刻，然后慢慢将杠铃放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "कूल्हे की ऊंचाई पर बार के साथ स्मिथ मशीन स्थापित करें।",
+      "अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए बार की ओर मुंह करके खड़े हो जाएं।",
+      "अपने घुटनों को थोड़ा मोड़ें और अपनी पीठ को सीधा रखते हुए कूल्हों पर आगे की ओर झुकें।",
+      "बार को ओवरहैंड ग्रिप से पकड़ें, हाथ कंधे की चौड़ाई से थोड़े चौड़े हों।",
+      "अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए, बार को अपनी निचली छाती की ओर खींचें।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे बार को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Ustaw suwnicę Smitha ze sztangą na wysokości bioder.",
+      "Stań przodem do sztangi, ze stopami rozstawionymi na szerokość barków.",
+      "Ugnij lekko kolana i pochyl się do przodu w biodrach, trzymając plecy proste.",
+      "Chwyć sztangę nachwytem, dłońmi ustawionymi nieco szerzej niż szerokość barków.",
+      "Przyciągnij sztangę w kierunku dolnej części klatki piersiowej, ściskając łopatki.",
+      "Zatrzymaj się na chwilę na górze, a następnie powoli opuść sztangę z powrotem do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "스미스 머신 바의 높이를 엉덩이 높이로 설정하세요.",
+      "바 앞에 서서 발을 어깨 너비만큼 벌리세요.",
+      "무릎을 약간 구부려서 엉덩이 쪽으로 몸을 앞으로 굽히되 등을 펴세요.",
+      "바를 오버핸드 그립으로 잡되 손을 어깨 너비보다 약간 넓게 벌리세요.",
+      "바를 가슴 아래쪽으로 당기면서 견갑골을 모으세요.",
+      "정상에서 잠깐 멈춘 후 바를 천천히 시작 자세로 내려놓으세요.",
+      "원하는 반복 횟수만큼 반복하세요."
+    ],
+    "fr": [
+      "Règle la machine Smith avec la barre à hauteur de hanche.",
+      "Tiens-toi face à la barre, les pieds écartés à la largeur des épaules.",
+      "Fléchis légèrement les genoux et bascule vers l'avant au niveau des hanches en gardant le dos droit.",
+      "Saisis la barre avec une prise en pronation, les mains un peu plus larges que la largeur des épaules.",
+      "Tire la barre vers le bas de ta poitrine, en contractant tes omoplates.",
+      "Marque une pause en haut, puis abaisse lentement la barre pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "forearms"
+  ],
+  "target": "upper back",
+  "image": "images/1359-ZX9UZmj.jpg",
+  "gif_url": "videos/1359-ZX9UZmj.gif",
+  "media_id": "ZX9UZmj",
+  "created_at": "2026-03-18T12:31:32.890452+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

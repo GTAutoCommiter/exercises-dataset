@@ -1,0 +1,132 @@
+{
+  "id": "1324",
+  "name": "cable upper row",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Attach a straight bar to a cable machine at chest height. Stand facing the machine with your feet shoulder-width apart. Grasp the bar with an overhand grip, hands slightly wider than shoulder-width apart. Keep your back straight and your core engaged. Pull the bar towards your upper chest, squeezing your shoulder blades together. Pause for a moment at the top of the movement. Slowly release the bar back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Attacca una barra dritta a una macchina per cavi all'altezza del petto. Stai rivolto verso la macchina con i piedi alla larghezza delle spalle. Afferra la barra con una presa sopra la mano, le mani leggermente più larghe della larghezza delle spalle. Tieni la schiena dritta e il core attivo. Tira la barra verso la parte superiore del petto, stringendo le scapole insieme. Fermati un attimo all'inizio del movimento. Riporta lentamente la barra alla posizione di partenza. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Düz bir çubuğu göğüs yüksekliğinde bir kablo makinesine takın. Ayaklarınız omuz genişliğinde açık olacak şekilde makineye dönük durun. Çubuğu üstten kavrayarak, eller omuz genişliğinden biraz daha geniş olacak şekilde kavrayın. Sırtınızı düz ve merkez bölgenizi meşgul tutun. Omuz bıçaklarınızı birbirine sıkıştırarak çubuğu göğsünüzün üst kısmına doğru çekin. Hareketin zirvesinde bir an duraklayın. Çubuğu yavaşça başlangıç ​​pozisyonuna geri bırakın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Sujeta una barra recta a una máquina de cable a la altura del pecho. Ponte de pie frente a la máquina con los pies separados a la altura de los hombros. Sujeta la barra con un agarre prono, con las manos un poco más separadas que el ancho de los hombros. Mantén la espalda recta y el core activado. Jala la barra hacia la parte superior del pecho, apretando los omóplatos entre sí. Haz una pausa breve en la parte alta del movimiento. Suelta lentamente la barra de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Прикрепите прямую штангу к канатному тренажеру на уровне груди. Встаньте лицом к тренажеру, поставив ноги на ширине плеч. Возьмите перекладину хватом сверху, руки на расстоянии чуть шире плеч. Держите спину прямо, а корпус напряженным. Потяните штангу к верхней части груди, сжимая лопатки вместе. Сделайте паузу на мгновение в верхней точке движения. Медленно отпустите штангу обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "将直杆连接到胸部高度的缆绳机上。 面向机器站立，双脚分开与肩同宽。 正手握住杠铃，双手距离略宽于肩宽。 保持背部挺直，核心肌群参与。 将杠铃拉向上胸部，将肩胛骨挤压在一起。 在动作的最高点停顿片刻。 慢慢地将杠铃释放回起始位置。 重复所需的重复次数。",
+    "hi": "एक सीधी पट्टी को केबल मशीन से छाती की ऊंचाई पर जोड़ें। अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए मशीन की ओर मुंह करके खड़े हो जाएं। बार को ओवरहैंड ग्रिप से पकड़ें, हाथ कंधे की चौड़ाई से थोड़े चौड़े हों। अपनी पीठ सीधी रखें और अपने कोर को व्यस्त रखें। अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए, बार को अपनी ऊपरी छाती की ओर खींचें। गति के शीर्ष पर एक क्षण के लिए रुकें। धीरे-धीरे बार को प्रारंभिक स्थिति में वापस छोड़ें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Podłącz prostą drążek do wyciągu na wysokości klatki piersiowej. Stań przodem do maszyny, ustawiając stopy na szerokość barków. Chwyć drążek chwytem nachwytem, dłonie nieco szerzej niż na szerokość barków. Trzymaj plecy proste, a mięśnie brzucha napięte. Przyciągnij drążek w kierunku górnej części klatki piersiowej, ściągając łopatki. Zatrzymaj się na chwilę w górnej fazie ruchu. Powoli zwolnij drążek z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "케이블 머신의 가슴 높이에 직바를 연결합니다. 머신을 향해 서서 어깨너비만큼 발을 벌립니다. 오버그립으로 바를 잡고 손을 어깨너비보다 약간 넓게 벌립니다. 등을 곧게 펴고 복부에 힘을 줍니다. 바를 상부 가슴 쪽으로 당기면서 견갑골을 모읍니다. 동작의 최상단에서 잠시 멈춥니다. 천천히 바를 처음 위치로 돌려놓습니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Fixe une barre droite à une machine à câble à hauteur de la poitrine. Tiens-toi face à la machine, les pieds écartés à la largeur des épaules. Saisis la barre avec une prise en pronation, les mains un peu plus larges que la largeur des épaules. Garde le dos droit et ta sangle abdominale gainée. Tire la barre vers le haut de ta poitrine, en contractant tes omoplates. Marque une pause en haut du mouvement. Relâche lentement la barre pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Attach a straight bar to a cable machine at chest height.",
+      "Stand facing the machine with your feet shoulder-width apart.",
+      "Grasp the bar with an overhand grip, hands slightly wider than shoulder-width apart.",
+      "Keep your back straight and your core engaged.",
+      "Pull the bar towards your upper chest, squeezing your shoulder blades together.",
+      "Pause for a moment at the top of the movement.",
+      "Slowly release the bar back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Attacca una barra dritta a una macchina per cavi all'altezza del petto.",
+      "Stai rivolto verso la macchina con i piedi alla larghezza delle spalle.",
+      "Afferra la barra con una presa sopra la mano, le mani leggermente più larghe della larghezza delle spalle.",
+      "Tieni la schiena dritta e il core attivo.",
+      "Tira la barra verso la parte superiore del petto, stringendo le scapole insieme.",
+      "Fermati un attimo all'inizio del movimento.",
+      "Riporta lentamente la barra alla posizione di partenza.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Düz bir çubuğu göğüs yüksekliğinde bir kablo makinesine takın.",
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde makineye dönük durun.",
+      "Çubuğu üstten kavrayarak, eller omuz genişliğinden biraz daha geniş olacak şekilde kavrayın.",
+      "Sırtınızı düz ve merkez bölgenizi meşgul tutun.",
+      "Omuz bıçaklarınızı birbirine sıkıştırarak çubuğu göğsünüzün üst kısmına doğru çekin.",
+      "Hareketin zirvesinde bir an duraklayın.",
+      "Çubuğu yavaşça başlangıç ​​pozisyonuna geri bırakın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Sujeta una barra recta a una máquina de cable a la altura del pecho.",
+      "Ponte de pie frente a la máquina con los pies separados a la altura de los hombros.",
+      "Sujeta la barra con un agarre prono, con las manos un poco más separadas que el ancho de los hombros.",
+      "Mantén la espalda recta y el core activado.",
+      "Jala la barra hacia la parte superior del pecho, apretando los omóplatos entre sí.",
+      "Haz una pausa breve en la parte alta del movimiento.",
+      "Suelta lentamente la barra de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Прикрепите прямую штангу к канатному тренажеру на уровне груди.",
+      "Встаньте лицом к тренажеру, поставив ноги на ширине плеч.",
+      "Возьмите перекладину хватом сверху, руки на расстоянии чуть шире плеч.",
+      "Держите спину прямо, а корпус напряженным.",
+      "Потяните штангу к верхней части груди, сжимая лопатки вместе.",
+      "Сделайте паузу на мгновение в верхней точке движения.",
+      "Медленно отпустите штангу обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将直杆连接到胸部高度的缆绳机上。",
+      "面向机器站立，双脚分开与肩同宽。",
+      "正手握住杠铃，双手距离略宽于肩宽。",
+      "保持背部挺直，核心肌群参与。",
+      "将杠铃拉向上胸部，将肩胛骨挤压在一起。",
+      "在动作的最高点停顿片刻。",
+      "慢慢地将杠铃释放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "एक सीधी पट्टी को केबल मशीन से छाती की ऊंचाई पर जोड़ें।",
+      "अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए मशीन की ओर मुंह करके खड़े हो जाएं।",
+      "बार को ओवरहैंड ग्रिप से पकड़ें, हाथ कंधे की चौड़ाई से थोड़े चौड़े हों।",
+      "अपनी पीठ सीधी रखें और अपने कोर को व्यस्त रखें।",
+      "अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए, बार को अपनी ऊपरी छाती की ओर खींचें।",
+      "गति के शीर्ष पर एक क्षण के लिए रुकें।",
+      "धीरे-धीरे बार को प्रारंभिक स्थिति में वापस छोड़ें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Podłącz prostą drążek do wyciągu na wysokości klatki piersiowej.",
+      "Stań przodem do maszyny, ustawiając stopy na szerokość barków.",
+      "Chwyć drążek chwytem nachwytem, dłonie nieco szerzej niż na szerokość barków.",
+      "Trzymaj plecy proste, a mięśnie brzucha napięte.",
+      "Przyciągnij drążek w kierunku górnej części klatki piersiowej, ściągając łopatki.",
+      "Zatrzymaj się na chwilę w górnej fazie ruchu.",
+      "Powoli zwolnij drążek z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "케이블 머신의 가슴 높이에 직바를 연결합니다.",
+      "머신을 향해 서서 어깨너비만큼 발을 벌립니다.",
+      "오버그립으로 바를 잡고 손을 어깨너비보다 약간 넓게 벌립니다.",
+      "등을 곧게 펴고 복부에 힘을 줍니다.",
+      "바를 상부 가슴 쪽으로 당기면서 견갑골을 모읍니다.",
+      "동작의 최상단에서 잠시 멈춥니다.",
+      "천천히 바를 처음 위치로 돌려놓습니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Fixe une barre droite à une machine à câble à hauteur de la poitrine.",
+      "Tiens-toi face à la machine, les pieds écartés à la largeur des épaules.",
+      "Saisis la barre avec une prise en pronation, les mains un peu plus larges que la largeur des épaules.",
+      "Garde le dos droit et ta sangle abdominale gainée.",
+      "Tire la barre vers le haut de ta poitrine, en contractant tes omoplates.",
+      "Marque une pause en haut du mouvement.",
+      "Relâche lentement la barre pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "shoulders"
+  ],
+  "target": "upper back",
+  "image": "images/1324-PQStVXH.jpg",
+  "gif_url": "videos/1324-PQStVXH.gif",
+  "media_id": "PQStVXH",
+  "created_at": "2026-03-18T12:31:32.87676+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

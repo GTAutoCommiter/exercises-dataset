@@ -1,0 +1,112 @@
+{
+  "id": "1652",
+  "name": "dumbbell bicep curl on exercise ball with leg raised",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Sit on an exercise ball with your feet flat on the ground and your back straight. Hold a dumbbell in each hand with your palms facing forward and your arms fully extended. Slowly curl the dumbbells towards your shoulders, keeping your elbows close to your sides. Pause for a moment at the top of the movement, then slowly lower the dumbbells back to the starting position. While performing the bicep curl, raise one leg off the ground and hold it in the air for the duration of the exercise. Repeat for the desired number of repetitions, then switch legs and repeat.",
+    "it": "Siediti su una palla da ginnastica con i piedi piatti a terra e la schiena dritta. Tieni un manubrio in ogni mano con i palmi rivolti in avanti e le braccia completamente estese. Arrotola lentamente i manubri verso le spalle, tenendo i gomiti vicini ai fianchi. Fermati un attimo all'inizio del movimento, poi abbassa lentamente i manubri alla posizione iniziale. Durante l'esecuzione del curl per il bicipite, solleva una gamba da terra e tienilo in aria per tutta la durata dell'esercizio. Ripeti per il numero desiderato di ripetizioni, poi cambia gamba e ripeti.",
+    "tr": "Ayaklarınız yere düz basacak ve sırtınız düz olacak şekilde bir egzersiz topunun üzerine oturun. Avuç içleriniz öne bakacak ve kollarınız tamamen uzatılmış halde her elinizde bir dambıl tutun. Dirseklerinizi yanlarınıza yakın tutarak dambılları yavaşça omuzlarınıza doğru kıvırın. Hareketin en üst noktasında bir süre duraklayın, ardından dambılları yavaşça başlangıç ​​pozisyonuna indirin. Biceps curl yaparken bir bacağınızı yerden kaldırın ve egzersiz süresince havada tutun. İstenilen tekrar sayısı kadar tekrarlayın, ardından bacak değiştirin ve tekrarlayın.",
+    "es": "Siéntate sobre un balón de ejercicio con los pies apoyados planos en el suelo y la espalda recta. Sujeta una mancuerna en cada mano con las palmas hacia adelante y los brazos completamente extendidos. Flexiona lentamente las mancuernas hacia los hombros, manteniendo los codos cerca de los costados. Haz una pausa breve en la parte alta del movimiento, luego baja lentamente las mancuernas de vuelta a la posición inicial. Mientras realizas el curl de bíceps, levanta una pierna del suelo y mantenla en el aire durante todo el ejercicio. Repite el número de repeticiones deseado y luego cambia de pierna y repite.",
+    "ru": "Сядьте на гимнастический мяч, поставив ноги на землю и выпрямив спину. Возьмите в каждую руку по гантели ладонями вперед и полностью выпрямленными руками. Медленно поднимите гантели к плечам, держа локти близко к бокам. Сделайте паузу на мгновение в верхней точке движения, затем медленно опустите гантели обратно в исходное положение. Выполняя сгибание рук на бицепс, поднимите одну ногу от земли и удерживайте ее в воздухе на протяжении всего упражнения. Повторите необходимое количество повторений, затем поменяйте ногу и повторите.",
+    "zh": "坐在健身球上，双脚平放在地上，背部挺直。 每只手握住一个哑铃，手掌朝前，双臂完全伸展。 慢慢地将哑铃向肩膀弯曲，保持肘部靠近身体两侧。 在动作的最高点暂停片刻，然后慢慢将哑铃放回起始位置。 在进行二头肌弯举时，将一条腿抬离地面，并在整个练习过程中将其保持在空中。 重复所需的重复次数，然后换腿并重复。",
+    "hi": "अपने पैरों को ज़मीन पर सपाट और अपनी पीठ को सीधा रखते हुए एक व्यायाम बॉल पर बैठें। अपनी हथेलियों को आगे की ओर रखते हुए और अपनी बाहों को पूरी तरह फैलाकर प्रत्येक हाथ में एक डम्बल पकड़ें। धीरे-धीरे डम्बल को अपने कंधों की ओर मोड़ें, अपनी कोहनियों को अपनी भुजाओं के पास रखें। गति के शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे डम्बल को प्रारंभिक स्थिति में वापस लाएँ। बाइसेप कर्ल करते समय, एक पैर को जमीन से ऊपर उठाएं और व्यायाम की अवधि के लिए इसे हवा में रखें। दोहराव की वांछित संख्या के लिए दोहराएं, फिर पैर बदलें और दोहराएं।",
+    "pl": "Usiądź na piłce gimnastycznej, stopy oprzyj płasko na podłodze, plecy trzymaj proste. Chwyć hantle w obie ręce, dłonie skierowane do przodu, ramiona całkowicie wyprostowane. Powoli uginaj ramiona, unosząc hantle w kierunku barków, trzymając łokcie blisko tułowia. Zatrzymaj się na chwilę w górnej pozycji ruchu, a następnie powoli opuść hantle do pozycji wyjściowej. Wykonując uginanie ramion, unieś jedną nogę nad podłogę i utrzymaj ją w powietrzu przez cały czas trwania ćwiczenia. Powtórz zalecaną liczbę powtórzeń, następnie zmień nogę i powtórz.",
+    "ko": "운동공 위에 앉아 발바닥을 바닥에 붙이고 등을 곧게 펴고 앉습니다. 각 손에 덤벨을 하나씩 들고 손바닥이 정면을 향하고 팔은 완전히 펼친 상태입니다. 천천히 덤벨을 어깨 쪽으로 컬하면서 팔꿈치를 몸에 붙입니다. 동작의 최상점에서 잠시 멈추고 천천히 덤벨을 시작 자세로 내립니다. 바이셉 컬 동작 중 한쪽 다리를 바닥에서 들어올려 운동 내내 공중에 유지합니다. 원하는 반복 횟수만큼 반복한 후 다리를 바꾸어 반복합니다.",
+    "fr": "Assieds-toi sur un ballon d'exercice, les pieds à plat sur le sol et le dos droit. Tiens un haltère dans chaque main, les paumes tournées vers l'avant et les bras complètement étendus. Enroule lentement les haltères vers tes épaules, en gardant tes coudes près de tes flancs. Marque une pause en haut du mouvement, puis abaisse lentement les haltères pour revenir à la position de départ. Pendant que tu réalises la flexion des biceps, lève une jambe du sol et maintiens-la en l'air pendant toute la durée de l'exercice. Répète le nombre de répétitions souhaité, puis change de jambe et recommence."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on an exercise ball with your feet flat on the ground and your back straight.",
+      "Hold a dumbbell in each hand with your palms facing forward and your arms fully extended.",
+      "Slowly curl the dumbbells towards your shoulders, keeping your elbows close to your sides.",
+      "Pause for a moment at the top of the movement, then slowly lower the dumbbells back to the starting position.",
+      "While performing the bicep curl, raise one leg off the ground and hold it in the air for the duration of the exercise.",
+      "Repeat for the desired number of repetitions, then switch legs and repeat."
+    ],
+    "it": [
+      "Siediti su una palla da ginnastica con i piedi piatti a terra e la schiena dritta.",
+      "Tieni un manubrio in ogni mano con i palmi rivolti in avanti e le braccia completamente estese.",
+      "Arrotola lentamente i manubri verso le spalle, tenendo i gomiti vicini ai fianchi.",
+      "Fermati un attimo all'inizio del movimento, poi abbassa lentamente i manubri alla posizione iniziale.",
+      "Durante l'esecuzione del curl per il bicipite, solleva una gamba da terra e tienilo in aria per tutta la durata dell'esercizio.",
+      "Ripeti per il numero desiderato di ripetizioni, poi cambia gamba e ripeti."
+    ],
+    "tr": [
+      "Ayaklarınız yere düz basacak ve sırtınız düz olacak şekilde bir egzersiz topunun üzerine oturun.",
+      "Avuç içleriniz öne bakacak ve kollarınız tamamen uzatılmış halde her elinizde bir dambıl tutun.",
+      "Dirseklerinizi yanlarınıza yakın tutarak dambılları yavaşça omuzlarınıza doğru kıvırın.",
+      "Hareketin en üst noktasında bir süre duraklayın, ardından dambılları yavaşça başlangıç ​​pozisyonuna indirin.",
+      "Biceps curl yaparken bir bacağınızı yerden kaldırın ve egzersiz süresince havada tutun.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından bacak değiştirin ve tekrarlayın."
+    ],
+    "es": [
+      "Siéntate sobre un balón de ejercicio con los pies apoyados planos en el suelo y la espalda recta.",
+      "Sujeta una mancuerna en cada mano con las palmas hacia adelante y los brazos completamente extendidos.",
+      "Flexiona lentamente las mancuernas hacia los hombros, manteniendo los codos cerca de los costados.",
+      "Haz una pausa breve en la parte alta del movimiento, luego baja lentamente las mancuernas de vuelta a la posición inicial.",
+      "Mientras realizas el curl de bíceps, levanta una pierna del suelo y mantenla en el aire durante todo el ejercicio.",
+      "Repite el número de repeticiones deseado y luego cambia de pierna y repite."
+    ],
+    "ru": [
+      "Сядьте на гимнастический мяч, поставив ноги на землю и выпрямив спину.",
+      "Возьмите в каждую руку по гантели ладонями вперед и полностью выпрямленными руками.",
+      "Медленно поднимите гантели к плечам, держа локти близко к бокам.",
+      "Сделайте паузу на мгновение в верхней точке движения, затем медленно опустите гантели обратно в исходное положение.",
+      "Выполняя сгибание рук на бицепс, поднимите одну ногу от земли и удерживайте ее в воздухе на протяжении всего упражнения.",
+      "Повторите необходимое количество повторений, затем поменяйте ногу и повторите."
+    ],
+    "zh": [
+      "坐在健身球上，双脚平放在地上，背部挺直。",
+      "每只手握住一个哑铃，手掌朝前，双臂完全伸展。",
+      "慢慢地将哑铃向肩膀弯曲，保持肘部靠近身体两侧。",
+      "在动作的最高点暂停片刻，然后慢慢将哑铃放回起始位置。",
+      "在进行二头肌弯举时，将一条腿抬离地面，并在整个练习过程中将其保持在空中。",
+      "重复所需的重复次数，然后换腿并重复。"
+    ],
+    "hi": [
+      "अपने पैरों को ज़मीन पर सपाट और अपनी पीठ को सीधा रखते हुए एक व्यायाम बॉल पर बैठें।",
+      "अपनी हथेलियों को आगे की ओर रखते हुए और अपनी बाहों को पूरी तरह फैलाकर प्रत्येक हाथ में एक डम्बल पकड़ें।",
+      "धीरे-धीरे डम्बल को अपने कंधों की ओर मोड़ें, अपनी कोहनियों को अपनी भुजाओं के पास रखें।",
+      "गति के शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे डम्बल को प्रारंभिक स्थिति में वापस लाएँ।",
+      "बाइसेप कर्ल करते समय, एक पैर को जमीन से ऊपर उठाएं और व्यायाम की अवधि के लिए इसे हवा में रखें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर पैर बदलें और दोहराएं।"
+    ],
+    "pl": [
+      "Usiądź na piłce gimnastycznej, stopy oprzyj płasko na podłodze, plecy trzymaj proste.",
+      "Chwyć hantle w obie ręce, dłonie skierowane do przodu, ramiona całkowicie wyprostowane.",
+      "Powoli uginaj ramiona, unosząc hantle w kierunku barków, trzymając łokcie blisko tułowia.",
+      "Zatrzymaj się na chwilę w górnej pozycji ruchu, a następnie powoli opuść hantle do pozycji wyjściowej.",
+      "Wykonując uginanie ramion, unieś jedną nogę nad podłogę i utrzymaj ją w powietrzu przez cały czas trwania ćwiczenia.",
+      "Powtórz zalecaną liczbę powtórzeń, następnie zmień nogę i powtórz."
+    ],
+    "ko": [
+      "운동공 위에 앉아 발바닥을 바닥에 붙이고 등을 곧게 펴고 앉습니다.",
+      "각 손에 덤벨을 하나씩 들고 손바닥이 정면을 향하고 팔은 완전히 펼친 상태입니다.",
+      "천천히 덤벨을 어깨 쪽으로 컬하면서 팔꿈치를 몸에 붙입니다.",
+      "동작의 최상점에서 잠시 멈추고 천천히 덤벨을 시작 자세로 내립니다.",
+      "바이셉 컬 동작 중 한쪽 다리를 바닥에서 들어올려 운동 내내 공중에 유지합니다.",
+      "원하는 반복 횟수만큼 반복한 후 다리를 바꾸어 반복합니다."
+    ],
+    "fr": [
+      "Assieds-toi sur un ballon d'exercice, les pieds à plat sur le sol et le dos droit.",
+      "Tiens un haltère dans chaque main, les paumes tournées vers l'avant et les bras complètement étendus.",
+      "Enroule lentement les haltères vers tes épaules, en gardant tes coudes près de tes flancs.",
+      "Marque une pause en haut du mouvement, puis abaisse lentement les haltères pour revenir à la position de départ.",
+      "Pendant que tu réalises la flexion des biceps, lève une jambe du sol et maintiens-la en l'air pendant toute la durée de l'exercice.",
+      "Répète le nombre de répétitions souhaité, puis change de jambe et recommence."
+    ]
+  },
+  "muscle_group": "forearms",
+  "secondary_muscles": [
+    "forearms",
+    "shoulders"
+  ],
+  "target": "biceps",
+  "image": "images/1652-2NImIAG.jpg",
+  "gif_url": "videos/1652-2NImIAG.gif",
+  "media_id": "2NImIAG",
+  "created_at": "2026-03-18T12:31:32.877766+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

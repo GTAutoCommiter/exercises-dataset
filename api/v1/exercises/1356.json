@@ -1,0 +1,112 @@
+{
+  "id": "1356",
+  "name": "lever one arm lateral high row",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "leverage machine",
+  "instructions": {
+    "en": "Adjust the seat height and position yourself facing the machine. Grasp the handle with one hand and keep your back straight. Pull the handle towards your body, keeping your elbow close to your side. Squeeze your back muscles at the top of the movement. Slowly release the handle back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Regolare l'altezza del sedile e posizionarsi di fronte alla macchina. Afferrare la maniglia con una mano e tenere la schiena dritta. Tirare la maniglia verso il corpo, mantenendo il gomito vicino al fianco. Contrai i muscoli della schiena nella parte superiore del movimento. Rilasciare lentamente la maniglia riportandola nella posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Koltuk yüksekliğini ayarlayın ve kendinizi makineye bakacak şekilde konumlandırın. Bir elinizle kolu kavrayın ve sırtınızı düz tutun. Dirseğinizi yanınıza yakın tutarak kolu vücudunuza doğru çekin. Hareketin üst noktasında sırt kaslarınızı sıkın. Kolu yavaşça başlangıç ​​pozisyonuna getirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta la altura del asiento y colócate frente a la máquina. Sujeta el asa con una mano y mantén la espalda recta. Tira del asa hacia el cuerpo, manteniendo el codo cerca del costado. Aprieta los músculos de la espalda en la parte superior del movimiento. Suelta lentamente la agarradera de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Отрегулируйте высоту сиденья и расположитесь лицом к машине. Возьмитесь за рукоятку одной рукой и держите спину прямо. Потяните рукоятку к себе, держа локоть близко к боку. Напрягите мышцы спины в верхней точке движения. Медленно отпустите ручку обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "调整座椅高度并将自己面向机器。 用一只手抓住手柄并保持背部挺直。 将手柄拉向身体，保持肘部靠近身体两侧。 在动作的最高点挤压背部肌肉。 慢慢松开手柄回到起始位置。 重复所需的重复次数。",
+    "hi": "सीट की ऊंचाई समायोजित करें और अपने आप को मशीन के सामने रखें। एक हाथ से हैंडल को पकड़ें और अपनी पीठ सीधी रखें। अपनी कोहनी को अपनी तरफ रखते हुए, हैंडल को अपने शरीर की ओर खींचें। आंदोलन के शीर्ष पर अपनी पीठ की मांसपेशियों को निचोड़ें। धीरे-धीरे हैंडल को वापस प्रारंभिक स्थिति में छोड़ें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Wyreguluj wysokość siedziska i ustaw się przodem do maszyny. Chwyć uchwyt jedną ręką, trzymając plecy proste. Przyciągnij uchwyt w kierunku ciała, trzymając łokieć blisko boku. Ściśnij mięśnie pleców w górnym punkcie ruchu. Powoli zwolnij uchwyt do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "시트 높이를 조정하고 머신을 향하도록 위치합니다. 한 손으로 핸들을 잡고 등을 일직선으로 유지합니다. 핸들을 몸 쪽으로 당기면서 팔꿈치를 옆에 붙여둡니다. 운동의 상단에서 등 근육을 짜줍니다. 천천히 핸들을 처음 위치로 놓습니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Règle la hauteur du siège et place-toi face à la machine. Saisis la poignée d'une main et garde ton dos droit. Tire la poignée vers ton corps en gardant ton coude près de ton flanc. Contracte les muscles de ton dos en haut du mouvement. Relâche lentement la poignée pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the seat height and position yourself facing the machine.",
+      "Grasp the handle with one hand and keep your back straight.",
+      "Pull the handle towards your body, keeping your elbow close to your side.",
+      "Squeeze your back muscles at the top of the movement.",
+      "Slowly release the handle back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Regolare l'altezza del sedile e posizionarsi di fronte alla macchina.",
+      "Afferrare la maniglia con una mano e tenere la schiena dritta.",
+      "Tirare la maniglia verso il corpo, mantenendo il gomito vicino al fianco.",
+      "Contrai i muscoli della schiena nella parte superiore del movimento.",
+      "Rilasciare lentamente la maniglia riportandola nella posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Koltuk yüksekliğini ayarlayın ve kendinizi makineye bakacak şekilde konumlandırın.",
+      "Bir elinizle kolu kavrayın ve sırtınızı düz tutun.",
+      "Dirseğinizi yanınıza yakın tutarak kolu vücudunuza doğru çekin.",
+      "Hareketin üst noktasında sırt kaslarınızı sıkın.",
+      "Kolu yavaşça başlangıç ​​pozisyonuna getirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta la altura del asiento y colócate frente a la máquina.",
+      "Sujeta el asa con una mano y mantén la espalda recta.",
+      "Tira del asa hacia el cuerpo, manteniendo el codo cerca del costado.",
+      "Aprieta los músculos de la espalda en la parte superior del movimiento.",
+      "Suelta lentamente la agarradera de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Отрегулируйте высоту сиденья и расположитесь лицом к машине.",
+      "Возьмитесь за рукоятку одной рукой и держите спину прямо.",
+      "Потяните рукоятку к себе, держа локоть близко к боку.",
+      "Напрягите мышцы спины в верхней точке движения.",
+      "Медленно отпустите ручку обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "调整座椅高度并将自己面向机器。",
+      "用一只手抓住手柄并保持背部挺直。",
+      "将手柄拉向身体，保持肘部靠近身体两侧。",
+      "在动作的最高点挤压背部肌肉。",
+      "慢慢松开手柄回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "सीट की ऊंचाई समायोजित करें और अपने आप को मशीन के सामने रखें।",
+      "एक हाथ से हैंडल को पकड़ें और अपनी पीठ सीधी रखें।",
+      "अपनी कोहनी को अपनी तरफ रखते हुए, हैंडल को अपने शरीर की ओर खींचें।",
+      "आंदोलन के शीर्ष पर अपनी पीठ की मांसपेशियों को निचोड़ें।",
+      "धीरे-धीरे हैंडल को वापस प्रारंभिक स्थिति में छोड़ें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Wyreguluj wysokość siedziska i ustaw się przodem do maszyny.",
+      "Chwyć uchwyt jedną ręką, trzymając plecy proste.",
+      "Przyciągnij uchwyt w kierunku ciała, trzymając łokieć blisko boku.",
+      "Ściśnij mięśnie pleców w górnym punkcie ruchu.",
+      "Powoli zwolnij uchwyt do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "시트 높이를 조정하고 머신을 향하도록 위치합니다.",
+      "한 손으로 핸들을 잡고 등을 일직선으로 유지합니다.",
+      "핸들을 몸 쪽으로 당기면서 팔꿈치를 옆에 붙여둡니다.",
+      "운동의 상단에서 등 근육을 짜줍니다.",
+      "천천히 핸들을 처음 위치로 놓습니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Règle la hauteur du siège et place-toi face à la machine.",
+      "Saisis la poignée d'une main et garde ton dos droit.",
+      "Tire la poignée vers ton corps en gardant ton coude près de ton flanc.",
+      "Contracte les muscles de ton dos en haut du mouvement.",
+      "Relâche lentement la poignée pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "shoulders"
+  ],
+  "target": "upper back",
+  "image": "images/1356-OIFMAp1.jpg",
+  "gif_url": "videos/1356-OIFMAp1.gif",
+  "media_id": "OIFMAp1",
+  "created_at": "2026-03-18T12:31:32.886637+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

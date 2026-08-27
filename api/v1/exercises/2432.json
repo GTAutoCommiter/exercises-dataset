@@ -1,0 +1,122 @@
+{
+  "id": "2432",
+  "name": "ez-bar close-grip bench press",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "ez barbell",
+  "instructions": {
+    "en": "Lie flat on a bench with your feet flat on the ground and your back pressed against the bench. Grasp the ez barbell with a close grip, hands shoulder-width apart, palms facing forward. Lift the barbell off the rack and hold it directly above your chest with your arms fully extended. Slowly lower the barbell towards your chest, keeping your elbows close to your body. Pause for a moment when the barbell touches your chest. Push the barbell back up to the starting position, fully extending your arms. Repeat for the desired number of repetitions.",
+    "it": "Sdraiati su una panca con i piedi appoggiati a terra e la schiena premuta contro la panca. Afferrare il bilanciere ez con una presa salda, le mani alla larghezza delle spalle, i palmi rivolti in avanti. Solleva il bilanciere dal rack e tienilo direttamente sopra il petto con le braccia completamente distese. Abbassa lentamente il bilanciere verso il petto, mantenendo i gomiti vicini al corpo. Fai una pausa per un momento quando il bilanciere tocca il tuo petto. Spingi nuovamente il bilanciere nella posizione iniziale, estendendo completamente le braccia. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız yere düz basacak ve sırtınız banka yaslanacak şekilde bir bankın üzerine düz bir şekilde uzanın. Ez halterini sıkı bir tutuşla, eller omuz genişliğinde açık, avuç içleri öne bakacak şekilde kavrayın. Halteri raftan kaldırın ve kollarınız tamamen uzatılmış halde doğrudan göğsünüzün üzerinde tutun. Dirseklerinizi vücudunuza yakın tutarak halteri yavaşça göğsünüze doğru indirin. Halter göğsünüze dokunduğunda bir an duraklayın. Kollarınızı tamamen uzatarak halteri başlangıç ​​pozisyonuna geri itin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Túmbate sobre un banco con los pies apoyados en el suelo y la espalda presionada contra el banco. Sujeta la barra EZ con agarre cerrado, manos separadas a la altura de los hombros, palmas hacia adelante. Levanta la barra del soporte y sostenla directamente sobre el pecho con los brazos completamente extendidos. Baja la barra lentamente hacia el pecho, manteniendo los codos cerca del cuerpo. Haz una pausa breve cuando la barra toque el pecho. Empuja la barra de vuelta a la posición inicial, extendiendo completamente los brazos. Repite el número de repeticiones deseado.",
+    "ru": "Лягте на скамью, поставьте ступни на землю и прижмите спину к скамье. Возьмите штангу ez узким хватом, руки на ширине плеч, ладони смотрят вперед. Снимите штангу со стойки и держите ее прямо над грудью, полностью вытянув руки. Медленно опустите штангу к груди, держа локти близко к телу. Сделайте паузу на мгновение, когда штанга коснется вашей груди. Верните штангу в исходное положение, полностью выпрямив руки. Повторите необходимое количество повторений.",
+    "zh": "平躺在长凳上，双脚平放在地上，背部紧贴长凳。 紧握杠铃，双手与肩同宽，掌心向前。 将杠铃从架子上提起，并将其直接放在胸部上方，双臂完全伸展。 慢慢地将杠铃降低到胸部，保持肘部靠近身体。 当杠铃触及胸部时暂停片刻。 将杠铃推回到起始位置，完全伸展双臂。 重复所需的重复次数。",
+    "hi": "एक बेंच पर सीधे लेट जाएं और आपके पैर जमीन पर सपाट हों और आपकी पीठ बेंच से सटी हुई हो। ईज़ बारबेल को ज़ोर से पकड़ें, हाथ कंधे की चौड़ाई पर अलग हों, हथेलियाँ आगे की ओर हों। बारबेल को रैक से उठाएं और अपनी बाहों को पूरी तरह फैलाकर सीधे अपनी छाती के ऊपर पकड़ें। अपनी कोहनियों को अपने शरीर के करीब रखते हुए बारबेल को धीरे-धीरे अपनी छाती की ओर नीचे लाएं। जब बारबेल आपकी छाती को छूए तो एक पल के लिए रुकें। अपनी भुजाओं को पूरी तरह फैलाते हुए बारबेल को वापस प्रारंभिक स्थिति में धकेलें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Połóż się płasko na ławce, stopy oprzyj płasko na podłodze, a plecy przyciśnij do ławki. Chwyć gryf EZ wąskim chwytem, dłonie ustaw na szerokość barków, skierowane do przodu. Zdejmij sztangę ze stojaka i trzymaj ją bezpośrednio nad klatką piersiową z w pełni wyprostowanymi ramionami. Powoli opuść sztangę w stronę klatki piersiowej, trzymając łokcie blisko ciała. Zatrzymaj się na chwilę, gdy sztanga dotknie klatki piersiowej. Wypchnij sztangę z powrotem do pozycji wyjściowej, w pełni prostując ramiona. Powtórz zalecaną liczbę razy.",
+    "ko": "벤치에 누워 발을 바닥에 댄 후 등을 벤치에 밀착합니다. 좁은 그립으로 EZ바벨을 어깨 너비만큼 벌려서 잡고 손가락이 앞을 향하도록 합니다. 바벨을 랙에서 들어 가슴 위에 팔을 완전히 펼친 상태로 잡습니다. 팔꿈치를 몸통에 가깝게 유지한 채 바벨을 천천히 가슴으로 내립니다. 바벨이 가슴에 닿을 때 잠깐 멈춥니다. 바벨을 시작 위치로 눌러 올려 팔을 완전히 펴줍니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Allonge-toi à plat sur un banc, les pieds à plat au sol et le dos plaqué contre le banc. Saisis la barre EZ avec une prise serrée, les mains écartées à la largeur des épaules, les paumes tournées vers l'avant. Soulève la barre du rack et maintiens-la directement au-dessus de ta poitrine, les bras complètement tendus. Abaisse lentement la barre vers ta poitrine, en gardant tes coudes près de ton corps. Marque une pause lorsque la barre touche ta poitrine. Repousse la barre vers le haut jusqu'à la position de départ en tendant complètement tes bras. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Lie flat on a bench with your feet flat on the ground and your back pressed against the bench.",
+      "Grasp the ez barbell with a close grip, hands shoulder-width apart, palms facing forward.",
+      "Lift the barbell off the rack and hold it directly above your chest with your arms fully extended.",
+      "Slowly lower the barbell towards your chest, keeping your elbows close to your body.",
+      "Pause for a moment when the barbell touches your chest.",
+      "Push the barbell back up to the starting position, fully extending your arms.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Sdraiati su una panca con i piedi appoggiati a terra e la schiena premuta contro la panca.",
+      "Afferrare il bilanciere ez con una presa salda, le mani alla larghezza delle spalle, i palmi rivolti in avanti.",
+      "Solleva il bilanciere dal rack e tienilo direttamente sopra il petto con le braccia completamente distese.",
+      "Abbassa lentamente il bilanciere verso il petto, mantenendo i gomiti vicini al corpo.",
+      "Fai una pausa per un momento quando il bilanciere tocca il tuo petto.",
+      "Spingi nuovamente il bilanciere nella posizione iniziale, estendendo completamente le braccia.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız yere düz basacak ve sırtınız banka yaslanacak şekilde bir bankın üzerine düz bir şekilde uzanın.",
+      "Ez halterini sıkı bir tutuşla, eller omuz genişliğinde açık, avuç içleri öne bakacak şekilde kavrayın.",
+      "Halteri raftan kaldırın ve kollarınız tamamen uzatılmış halde doğrudan göğsünüzün üzerinde tutun.",
+      "Dirseklerinizi vücudunuza yakın tutarak halteri yavaşça göğsünüze doğru indirin.",
+      "Halter göğsünüze dokunduğunda bir an duraklayın.",
+      "Kollarınızı tamamen uzatarak halteri başlangıç ​​pozisyonuna geri itin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Túmbate sobre un banco con los pies apoyados en el suelo y la espalda presionada contra el banco.",
+      "Sujeta la barra EZ con agarre cerrado, manos separadas a la altura de los hombros, palmas hacia adelante.",
+      "Levanta la barra del soporte y sostenla directamente sobre el pecho con los brazos completamente extendidos.",
+      "Baja la barra lentamente hacia el pecho, manteniendo los codos cerca del cuerpo.",
+      "Haz una pausa breve cuando la barra toque el pecho.",
+      "Empuja la barra de vuelta a la posición inicial, extendiendo completamente los brazos.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Лягте на скамью, поставьте ступни на землю и прижмите спину к скамье.",
+      "Возьмите штангу ez узким хватом, руки на ширине плеч, ладони смотрят вперед.",
+      "Снимите штангу со стойки и держите ее прямо над грудью, полностью вытянув руки.",
+      "Медленно опустите штангу к груди, держа локти близко к телу.",
+      "Сделайте паузу на мгновение, когда штанга коснется вашей груди.",
+      "Верните штангу в исходное положение, полностью выпрямив руки.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "平躺在长凳上，双脚平放在地上，背部紧贴长凳。",
+      "紧握杠铃，双手与肩同宽，掌心向前。",
+      "将杠铃从架子上提起，并将其直接放在胸部上方，双臂完全伸展。",
+      "慢慢地将杠铃降低到胸部，保持肘部靠近身体。",
+      "当杠铃触及胸部时暂停片刻。",
+      "将杠铃推回到起始位置，完全伸展双臂。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "एक बेंच पर सीधे लेट जाएं और आपके पैर जमीन पर सपाट हों और आपकी पीठ बेंच से सटी हुई हो।",
+      "ईज़ बारबेल को ज़ोर से पकड़ें, हाथ कंधे की चौड़ाई पर अलग हों, हथेलियाँ आगे की ओर हों।",
+      "बारबेल को रैक से उठाएं और अपनी बाहों को पूरी तरह फैलाकर सीधे अपनी छाती के ऊपर पकड़ें।",
+      "अपनी कोहनियों को अपने शरीर के करीब रखते हुए बारबेल को धीरे-धीरे अपनी छाती की ओर नीचे लाएं।",
+      "जब बारबेल आपकी छाती को छूए तो एक पल के लिए रुकें।",
+      "अपनी भुजाओं को पूरी तरह फैलाते हुए बारबेल को वापस प्रारंभिक स्थिति में धकेलें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Połóż się płasko na ławce, stopy oprzyj płasko na podłodze, a plecy przyciśnij do ławki.",
+      "Chwyć gryf EZ wąskim chwytem, dłonie ustaw na szerokość barków, skierowane do przodu.",
+      "Zdejmij sztangę ze stojaka i trzymaj ją bezpośrednio nad klatką piersiową z w pełni wyprostowanymi ramionami.",
+      "Powoli opuść sztangę w stronę klatki piersiowej, trzymając łokcie blisko ciała.",
+      "Zatrzymaj się na chwilę, gdy sztanga dotknie klatki piersiowej.",
+      "Wypchnij sztangę z powrotem do pozycji wyjściowej, w pełni prostując ramiona.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "벤치에 누워 발을 바닥에 댄 후 등을 벤치에 밀착합니다.",
+      "좁은 그립으로 EZ바벨을 어깨 너비만큼 벌려서 잡고 손가락이 앞을 향하도록 합니다.",
+      "바벨을 랙에서 들어 가슴 위에 팔을 완전히 펼친 상태로 잡습니다.",
+      "팔꿈치를 몸통에 가깝게 유지한 채 바벨을 천천히 가슴으로 내립니다.",
+      "바벨이 가슴에 닿을 때 잠깐 멈춥니다.",
+      "바벨을 시작 위치로 눌러 올려 팔을 완전히 펴줍니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Allonge-toi à plat sur un banc, les pieds à plat au sol et le dos plaqué contre le banc.",
+      "Saisis la barre EZ avec une prise serrée, les mains écartées à la largeur des épaules, les paumes tournées vers l'avant.",
+      "Soulève la barre du rack et maintiens-la directement au-dessus de ta poitrine, les bras complètement tendus.",
+      "Abaisse lentement la barre vers ta poitrine, en gardant tes coudes près de ton corps.",
+      "Marque une pause lorsque la barre touche ta poitrine.",
+      "Repousse la barre vers le haut jusqu'à la position de départ en tendant complètement tes bras.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "chest",
+  "secondary_muscles": [
+    "chest",
+    "shoulders"
+  ],
+  "target": "triceps",
+  "image": "images/2432-da4cXST.jpg",
+  "gif_url": "videos/2432-da4cXST.gif",
+  "media_id": "da4cXST",
+  "created_at": "2026-03-18T12:31:32.883492+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

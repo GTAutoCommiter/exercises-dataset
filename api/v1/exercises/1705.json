@@ -1,0 +1,123 @@
+{
+  "id": "1705",
+  "name": "squat on bosu ball",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "bosu ball",
+  "instructions": {
+    "en": "Place the bosu ball on the ground with the flat side up. Stand with your feet shoulder-width apart and position yourself on top of the bosu ball. Lower your body down by bending your knees and hips, as if sitting back into a chair. Keep your chest up and your weight on your heels. Lower yourself until your thighs are parallel to the ground. Pause for a moment, then push through your heels to return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Posiziona la palla bosu a terra con il lato piatto rivolto verso l'alto. Stai con i piedi alla larghezza delle spalle e posizionati sopra la palla bosu. Abbassa il corpo piegando le ginocchia e i fianchi, come se ti sedessi su una sedia. Tieni il petto in alto e il peso sui talloni. Abbassati finché le cosce non sono parallele al suolo. Fai una pausa per un momento, quindi spingi i talloni per tornare alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Bosu topunu düz tarafı yukarı bakacak şekilde yere yerleştirin. Ayaklarınızı omuz genişliğinde açın ve kendinizi bosu topunun üzerine konumlandırın. Sanki bir sandalyeye oturuyormuş gibi dizlerinizi ve kalçalarınızı bükerek vücudunuzu aşağı indirin. Göğsünüzü dik tutun ve ağırlığınızı topuklarınıza verin. Uyluklarınız yere paralel oluncaya kadar kendinizi indirin. Bir an duraklayın, ardından başlangıç ​​pozisyonuna dönmek için topuklarınızı itin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Coloca el bosu en el suelo con el lado plano hacia arriba. Ponte de pie con los pies separados a la altura de los hombros y colócate encima del bosu. Baja el cuerpo flexionando las rodillas y las caderas, como si te sentaras en una silla. Mantén el pecho elevado y el peso en los talones. Baja hasta que los muslos queden paralelos al suelo. Haz una pausa breve y luego empuja con los talones para volver a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Положите босу-шар на землю плоской стороной вверх. Встаньте, расставив ноги на ширине плеч, и расположитесь на вершине мяча босу. Опустите тело вниз, согнув колени и бедра, как будто садитесь на стул. Держите грудь поднятой, а вес тела перенесите на пятки. Опускайтесь до тех пор, пока бедра не станут параллельны земле. Сделайте паузу на мгновение, затем оттолкнитесь пятками, чтобы вернуться в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "将博苏球平放在地上。 双脚分开与肩同宽站立，将自己放在博苏球的顶部。 弯曲膝盖和臀部，降低身体，就像坐回椅子上一样。 保持挺胸，将体重放在脚后跟上。 降低身体直到大腿与地面平行。 暂停片刻，然后用力推动脚后跟，回到起始位置。 重复所需的重复次数。",
+    "hi": "बोसु बॉल को समतल सतह ऊपर की ओर करके जमीन पर रखें। अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और अपने आप को बोसु बॉल के ऊपर रखें। अपने घुटनों और कूल्हों को मोड़कर अपने शरीर को नीचे नीचे करें, जैसे कि आप किसी कुर्सी पर पीछे बैठे हों। अपनी छाती ऊपर रखें और अपना वजन अपनी एड़ियों पर रखें। अपने आप को तब तक नीचे रखें जब तक आपकी जांघें ज़मीन के समानांतर न हो जाएं। एक पल के लिए रुकें, फिर प्रारंभिक स्थिति में लौटने के लिए अपनी एड़ियों को धक्का दें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Połóż piłkę bosu na podłodze płaską stroną do góry. Stań w rozkroku na szerokość barków i ustaw się na piłce bosu. Opuść ciało, uginając kolana i biodra, jakbyś siadał na krześle. Trzymaj klatkę piersiową uniesioną, a ciężar ciała na piętach. Opuszczaj się, aż uda będą równoległe do podłogi. Zatrzymaj się na chwilę, a następnie odepchnij się przez pięty, aby wrócić do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "부스 볼을 평면이 위로 향하도록 땅에 놓습니다. 발을 어깨너비로 벌리고 부스 볼 위에 서 있습니다. 의자에 앉으려는 것처럼 무릎과 엉덩이를 구부려 몸을 아래로 내립니다. 가슴을 펴고 무게를 발뒤꿈치에 두고 있습니다. 넓다리가 땅과 평행해질 때까지 몸을 낮춥니다. 잠깐 멈춘 후 발뒤꿈치를 통해 밀어올리면서 시작 자세로 돌아옵니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Place le ballon Bosu au sol avec le côté plat vers le haut. Tiens-toi debout, les pieds écartés à la largeur des épaules et place-toi sur le ballon Bosu. Abaisse ton corps en fléchissant tes genoux et tes hanches, comme si tu t'asseyais sur une chaise. Garde la poitrine relevée et le poids sur tes talons. Descends jusqu'à ce que tes cuisses soient parallèles au sol. Marque une pause, puis pousse sur tes talons pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Place the bosu ball on the ground with the flat side up.",
+      "Stand with your feet shoulder-width apart and position yourself on top of the bosu ball.",
+      "Lower your body down by bending your knees and hips, as if sitting back into a chair.",
+      "Keep your chest up and your weight on your heels.",
+      "Lower yourself until your thighs are parallel to the ground.",
+      "Pause for a moment, then push through your heels to return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Posiziona la palla bosu a terra con il lato piatto rivolto verso l'alto.",
+      "Stai con i piedi alla larghezza delle spalle e posizionati sopra la palla bosu.",
+      "Abbassa il corpo piegando le ginocchia e i fianchi, come se ti sedessi su una sedia.",
+      "Tieni il petto in alto e il peso sui talloni.",
+      "Abbassati finché le cosce non sono parallele al suolo.",
+      "Fai una pausa per un momento, quindi spingi i talloni per tornare alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Bosu topunu düz tarafı yukarı bakacak şekilde yere yerleştirin.",
+      "Ayaklarınızı omuz genişliğinde açın ve kendinizi bosu topunun üzerine konumlandırın.",
+      "Sanki bir sandalyeye oturuyormuş gibi dizlerinizi ve kalçalarınızı bükerek vücudunuzu aşağı indirin.",
+      "Göğsünüzü dik tutun ve ağırlığınızı topuklarınıza verin.",
+      "Uyluklarınız yere paralel oluncaya kadar kendinizi indirin.",
+      "Bir an duraklayın, ardından başlangıç ​​pozisyonuna dönmek için topuklarınızı itin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Coloca el bosu en el suelo con el lado plano hacia arriba.",
+      "Ponte de pie con los pies separados a la altura de los hombros y colócate encima del bosu.",
+      "Baja el cuerpo flexionando las rodillas y las caderas, como si te sentaras en una silla.",
+      "Mantén el pecho elevado y el peso en los talones.",
+      "Baja hasta que los muslos queden paralelos al suelo.",
+      "Haz una pausa breve y luego empuja con los talones para volver a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Положите босу-шар на землю плоской стороной вверх.",
+      "Встаньте, расставив ноги на ширине плеч, и расположитесь на вершине мяча босу.",
+      "Опустите тело вниз, согнув колени и бедра, как будто садитесь на стул.",
+      "Держите грудь поднятой, а вес тела перенесите на пятки.",
+      "Опускайтесь до тех пор, пока бедра не станут параллельны земле.",
+      "Сделайте паузу на мгновение, затем оттолкнитесь пятками, чтобы вернуться в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将博苏球平放在地上。",
+      "双脚分开与肩同宽站立，将自己放在博苏球的顶部。",
+      "弯曲膝盖和臀部，降低身体，就像坐回椅子上一样。",
+      "保持挺胸，将体重放在脚后跟上。",
+      "降低身体直到大腿与地面平行。",
+      "暂停片刻，然后用力推动脚后跟，回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "बोसु बॉल को समतल सतह ऊपर की ओर करके जमीन पर रखें।",
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और अपने आप को बोसु बॉल के ऊपर रखें।",
+      "अपने घुटनों और कूल्हों को मोड़कर अपने शरीर को नीचे नीचे करें, जैसे कि आप किसी कुर्सी पर पीछे बैठे हों।",
+      "अपनी छाती ऊपर रखें और अपना वजन अपनी एड़ियों पर रखें।",
+      "अपने आप को तब तक नीचे रखें जब तक आपकी जांघें ज़मीन के समानांतर न हो जाएं।",
+      "एक पल के लिए रुकें, फिर प्रारंभिक स्थिति में लौटने के लिए अपनी एड़ियों को धक्का दें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Połóż piłkę bosu na podłodze płaską stroną do góry.",
+      "Stań w rozkroku na szerokość barków i ustaw się na piłce bosu.",
+      "Opuść ciało, uginając kolana i biodra, jakbyś siadał na krześle.",
+      "Trzymaj klatkę piersiową uniesioną, a ciężar ciała na piętach.",
+      "Opuszczaj się, aż uda będą równoległe do podłogi.",
+      "Zatrzymaj się na chwilę, a następnie odepchnij się przez pięty, aby wrócić do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "부스 볼을 평면이 위로 향하도록 땅에 놓습니다.",
+      "발을 어깨너비로 벌리고 부스 볼 위에 서 있습니다.",
+      "의자에 앉으려는 것처럼 무릎과 엉덩이를 구부려 몸을 아래로 내립니다.",
+      "가슴을 펴고 무게를 발뒤꿈치에 두고 있습니다.",
+      "넓다리가 땅과 평행해질 때까지 몸을 낮춥니다.",
+      "잠깐 멈춘 후 발뒤꿈치를 통해 밀어올리면서 시작 자세로 돌아옵니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Place le ballon Bosu au sol avec le côté plat vers le haut.",
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et place-toi sur le ballon Bosu.",
+      "Abaisse ton corps en fléchissant tes genoux et tes hanches, comme si tu t'asseyais sur une chaise.",
+      "Garde la poitrine relevée et le poids sur tes talons.",
+      "Descends jusqu'à ce que tes cuisses soient parallèles au sol.",
+      "Marque une pause, puis pousse sur tes talons pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "glutes",
+  "secondary_muscles": [
+    "glutes",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "quads",
+  "image": "images/1705-T2fA5Ir.jpg",
+  "gif_url": "videos/1705-T2fA5Ir.gif",
+  "media_id": "T2fA5Ir",
+  "created_at": "2026-03-18T12:31:32.891409+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

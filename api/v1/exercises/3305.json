@@ -1,0 +1,104 @@
+{
+  "id": "3305",
+  "name": "barbell thruster",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Start by standing with your feet shoulder-width apart, holding a barbell at shoulder height with an overhand grip. Lower into a squat position by bending your knees and pushing your hips back. As you reach the bottom of the squat, explosively drive through your heels to stand up, simultaneously pressing the barbell overhead. Lower the barbell back to shoulder height as you lower back into the squat position. Repeat for the desired number of repetitions.",
+    "it": "Inizia con i piedi a larghezza delle spalle, tenendo un bilanciere all'altezza delle spalle con una presa sopra la testa. Abbassati in posizione squat piegando le ginocchia e spingendo indietro i fianchi. Quando raggiungi il fondo dello squat, spingi esplosivamente attraverso i talloni per alzarti, premendo contemporaneamente la barra sopra la testa. Abbassa il bilanciere all'altezza delle spalle mentre ti abbassi indietro in posizione squat. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınızı omuz genişliğinde açarak, halteri omuz hizasında üstten kavrayarak tutarak başlayın. Dizlerinizi bükerek ve kalçalarınızı geriye doğru iterek çömelme pozisyonuna inin. Squat'ın alt kısmına ulaştığınızda, ayağa kalkmak için topuklarınızın üzerinden patlayıcı bir şekilde ilerleyin ve aynı anda halteri başınızın üzerine doğru bastırın. Çömelme pozisyonuna geri dönerken halteri tekrar omuz yüksekliğine indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Comienza de pie con los pies separados a la altura de los hombros, sujetando una barra a la altura de los hombros con agarre prono. Baja a una posición de sentadilla flexionando las rodillas y empujando las caderas hacia atrás. Al llegar a la parte más baja de la sentadilla, empuja explosivamente con los talones para ponerte de pie, presionando simultáneamente la barra por encima de la cabeza. Baja la barra de nuevo a la altura de los hombros mientras vuelves a bajar a la posición de sentadilla. Repite el número de repeticiones deseado.",
+    "ru": "Начните с того, что встаньте, поставив ноги на ширине плеч, удерживая штангу на уровне плеч хватом сверху. Опуститесь в присед, согнув колени и отведя бедра назад. Достигнув нижней точки приседа, резко поднимите пятки, чтобы встать, одновременно выжимая штангу над головой. Опустите штангу обратно на высоту плеч, возвращаясь в положение приседа. Повторите необходимое количество повторений.",
+    "zh": "首先，双脚分开与肩同宽站立，正手握住杠铃，与肩同高。 弯曲膝盖并将臀部向后推，降低至蹲姿。 当你到达深蹲底部时，爆发性地通过脚后跟站起来，同时将杠铃压过头顶。 当你回到深蹲位置时，将杠铃降低到肩膀高度。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई से अलग करके खड़े होकर शुरुआत करें, बारबेल को कंधे की ऊंचाई पर ओवरहैंड ग्रिप से पकड़ें। अपने घुटनों को मोड़कर और अपने कूल्हों को पीछे धकेलते हुए स्क्वाट स्थिति में आ जाएँ। जैसे ही आप स्क्वाट के निचले भाग तक पहुँचते हैं, खड़े होने के लिए अपनी एड़ी के माध्यम से विस्फोटक रूप से ड्राइव करें, साथ ही बारबेल को ऊपर की ओर दबाएँ। जैसे ही आप स्क्वाट स्थिति में वापस आते हैं, बारबेल को कंधे की ऊंचाई तक कम करें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Zacznij, stojąc ze stopami na szerokość barków, trzymając sztangę na wysokości barków chwytem nachwytem. Zejdź w przysiad, uginając kolana i cofając biodra. Gdy osiągniesz dolną pozycję przysiadu, gwałtownie wypchnij się przez pięty, aby stanąć, jednocześnie wypychając sztangę nad głowę. Opuść sztangę z powrotem na wysokość barków, opuszczając się jednocześnie z powrotem w przysiad. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "어깨 너비로 발을 벌리고 서서 어깨 높이에서 손바닥이 바깥쪽을 향하도록 바벨을 들고 시작합니다. 무릎을 구부리고 엉덩이를 뒤로 밀어 스쿼트 자세로 내려갑니다. 스쿼트의 맨 아래에서 발꿈치로 폭발적으로 밀어 일어나면서 동시에 바벨을 머리 위로 밀어 올립니다. 바벨을 어깨 높이로 내리면서 다시 스쿼트 자세로 내려갑니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Commence debout, les pieds écartés à la largeur des épaules, en tenant une barre à hauteur des épaules en prise pronation. Descends en position de squat en fléchissant tes genoux et en poussant tes hanches vers l'arrière. Une fois au bas du squat, pousse explosivement sur tes talons pour te relever tout en poussant simultanément la barre au-dessus de ta tête. Abaisse la barre à hauteur des épaules en redescendant en position de squat. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start by standing with your feet shoulder-width apart, holding a barbell at shoulder height with an overhand grip.",
+      "Lower into a squat position by bending your knees and pushing your hips back.",
+      "As you reach the bottom of the squat, explosively drive through your heels to stand up, simultaneously pressing the barbell overhead.",
+      "Lower the barbell back to shoulder height as you lower back into the squat position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia con i piedi a larghezza delle spalle, tenendo un bilanciere all'altezza delle spalle con una presa sopra la testa.",
+      "Abbassati in posizione squat piegando le ginocchia e spingendo indietro i fianchi.",
+      "Quando raggiungi il fondo dello squat, spingi esplosivamente attraverso i talloni per alzarti, premendo contemporaneamente la barra sopra la testa.",
+      "Abbassa il bilanciere all'altezza delle spalle mentre ti abbassi indietro in posizione squat.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınızı omuz genişliğinde açarak, halteri omuz hizasında üstten kavrayarak tutarak başlayın.",
+      "Dizlerinizi bükerek ve kalçalarınızı geriye doğru iterek çömelme pozisyonuna inin.",
+      "Squat'ın alt kısmına ulaştığınızda, ayağa kalkmak için topuklarınızın üzerinden patlayıcı bir şekilde ilerleyin ve aynı anda halteri başınızın üzerine doğru bastırın.",
+      "Çömelme pozisyonuna geri dönerken halteri tekrar omuz yüksekliğine indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Comienza de pie con los pies separados a la altura de los hombros, sujetando una barra a la altura de los hombros con agarre prono.",
+      "Baja a una posición de sentadilla flexionando las rodillas y empujando las caderas hacia atrás.",
+      "Al llegar a la parte más baja de la sentadilla, empuja explosivamente con los talones para ponerte de pie, presionando simultáneamente la barra por encima de la cabeza.",
+      "Baja la barra de nuevo a la altura de los hombros mientras vuelves a bajar a la posición de sentadilla.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с того, что встаньте, поставив ноги на ширине плеч, удерживая штангу на уровне плеч хватом сверху.",
+      "Опуститесь в присед, согнув колени и отведя бедра назад.",
+      "Достигнув нижней точки приседа, резко поднимите пятки, чтобы встать, одновременно выжимая штангу над головой.",
+      "Опустите штангу обратно на высоту плеч, возвращаясь в положение приседа.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "首先，双脚分开与肩同宽站立，正手握住杠铃，与肩同高。",
+      "弯曲膝盖并将臀部向后推，降低至蹲姿。",
+      "当你到达深蹲底部时，爆发性地通过脚后跟站起来，同时将杠铃压过头顶。",
+      "当你回到深蹲位置时，将杠铃降低到肩膀高度。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई से अलग करके खड़े होकर शुरुआत करें, बारबेल को कंधे की ऊंचाई पर ओवरहैंड ग्रिप से पकड़ें।",
+      "अपने घुटनों को मोड़कर और अपने कूल्हों को पीछे धकेलते हुए स्क्वाट स्थिति में आ जाएँ।",
+      "जैसे ही आप स्क्वाट के निचले भाग तक पहुँचते हैं, खड़े होने के लिए अपनी एड़ी के माध्यम से विस्फोटक रूप से ड्राइव करें, साथ ही बारबेल को ऊपर की ओर दबाएँ।",
+      "जैसे ही आप स्क्वाट स्थिति में वापस आते हैं, बारबेल को कंधे की ऊंचाई तक कम करें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Zacznij, stojąc ze stopami na szerokość barków, trzymając sztangę na wysokości barków chwytem nachwytem.",
+      "Zejdź w przysiad, uginając kolana i cofając biodra.",
+      "Gdy osiągniesz dolną pozycję przysiadu, gwałtownie wypchnij się przez pięty, aby stanąć, jednocześnie wypychając sztangę nad głowę.",
+      "Opuść sztangę z powrotem na wysokość barków, opuszczając się jednocześnie z powrotem w przysiad.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "어깨 너비로 발을 벌리고 서서 어깨 높이에서 손바닥이 바깥쪽을 향하도록 바벨을 들고 시작합니다.",
+      "무릎을 구부리고 엉덩이를 뒤로 밀어 스쿼트 자세로 내려갑니다.",
+      "스쿼트의 맨 아래에서 발꿈치로 폭발적으로 밀어 일어나면서 동시에 바벨을 머리 위로 밀어 올립니다.",
+      "바벨을 어깨 높이로 내리면서 다시 스쿼트 자세로 내려갑니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Commence debout, les pieds écartés à la largeur des épaules, en tenant une barre à hauteur des épaules en prise pronation.",
+      "Descends en position de squat en fléchissant tes genoux et en poussant tes hanches vers l'arrière.",
+      "Une fois au bas du squat, pousse explosivement sur tes talons pour te relever tout en poussant simultanément la barre au-dessus de ta tête.",
+      "Abaisse la barre à hauteur des épaules en redescendant en position de squat.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "glutes",
+    "hamstrings",
+    "core"
+  ],
+  "target": "delts",
+  "image": "images/3305-f7Y9eDZ.jpg",
+  "gif_url": "videos/3305-f7Y9eDZ.gif",
+  "media_id": "f7Y9eDZ",
+  "created_at": "2026-03-18T12:31:32.873363+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

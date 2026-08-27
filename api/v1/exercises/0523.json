@@ -1,0 +1,92 @@
+{
+  "id": "0523",
+  "name": "kettlebell arnold press",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "kettlebell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart, holding a kettlebell in each hand at shoulder height with your palms facing towards you. Engage your core and press the kettlebells overhead, rotating your palms to face forward as you extend your arms. Pause at the top of the movement, then slowly lower the kettlebells back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi alla larghezza delle spalle, tenendo un kettlebell in ciascuna mano all'altezza delle spalle con i palmi rivolti verso di te. Coinvolgi il core e premi i kettlebell sopra la testa, ruotando i palmi delle mani in modo che siano rivolti in avanti mentre estendi le braccia. Fare una pausa nella parte superiore del movimento, quindi abbassare lentamente i kettlebell nella posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız omuz genişliğinde açık, avuçlarınız size bakacak şekilde her iki elinizde omuz hizasında birer kettlebell tutarak ayakta durun. Merkez bölgenizi devreye sokun ve kollarınızı uzatırken avuç içlerinizi öne bakacak şekilde döndürerek kettlebell'leri başınızın üzerine bastırın. Hareketin en üst noktasında duraklayın, ardından kettlebell'leri yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros, sosteniendo una pesa rusa en cada mano a la altura de los hombros con las palmas hacia ti. Activa el core y empuja las pesas rusas por encima de la cabeza, girando las palmas hacia adelante mientras extiendes los brazos. Haz una pausa en la parte superior del movimiento, luego baja lentamente las pesas rusas de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, поставив ноги на ширине плеч, держа в каждой руке по гире на уровне плеч ладонями к себе. Напрягите корпус и выжмите гири над головой, поворачивая ладони лицом вперед и вытягивая руки. Сделайте паузу в верхней точке движения, затем медленно опустите гири обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，双手各握一个壶铃，与肩同高，手掌朝向自己。 启动你的核心并将壶铃压过头顶，在伸展手臂时旋转手掌以面向前方。 在动作的最高点暂停，然后慢慢将壶铃放回起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, प्रत्येक हाथ में कंधे की ऊंचाई पर केटलबेल पकड़ें और अपनी हथेलियों को अपनी ओर रखें। अपने कोर को संलग्न करें और केटलबेल्स को ऊपर की ओर दबाएं, अपनी हथेलियों को आगे की ओर घुमाते हुए अपनी बाहों को फैलाएं। गति के शीर्ष पर रुकें, फिर धीरे-धीरे केटलबेल्स को प्रारंभिक स्थिति में वापस लाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań ze stopami rozstawionymi na szerokość barków, trzymając kettlebell w każdej dłoni na wysokości barków, dłonie skierowane do siebie. Napnij mięśnie brzucha i wypchnij kettlebelle nad głowę, obracając dłonie do przodu w trakcie prostowania ramion. Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść kettlebelle do pozycji wyjściowej. Powtórz zgodnie z zaplanowaną liczbą powtórzeń.",
+    "ko": "양손으로 케틀벨을 어깨 높이에서 잡고 다리를 어깨 너비로 벌립니다. 코어에 힘을 주고 케틀벨을 머리 위로 누르면서 팔을 펴는 것과 동시에 손바닥이 앞을 향하도록 회전시킵니다. 최고점에서 잠깐 멈춘 후 케틀벨을 천천히 처음 위치로 낮춥니다. 원하는 반복 횟수까지 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un kettlebell dans chaque main à hauteur d'épaule, paumes tournées vers toi. Gaine ta sangle abdominale et pousse les kettlebells au-dessus de ta tête, en tournant tes paumes vers l'avant à mesure que tu étends tes bras. Marque une pause en haut du mouvement, puis abaisse lentement les kettlebells jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart, holding a kettlebell in each hand at shoulder height with your palms facing towards you.",
+      "Engage your core and press the kettlebells overhead, rotating your palms to face forward as you extend your arms.",
+      "Pause at the top of the movement, then slowly lower the kettlebells back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle, tenendo un kettlebell in ciascuna mano all'altezza delle spalle con i palmi rivolti verso di te.",
+      "Coinvolgi il core e premi i kettlebell sopra la testa, ruotando i palmi delle mani in modo che siano rivolti in avanti mentre estendi le braccia.",
+      "Fare una pausa nella parte superiore del movimento, quindi abbassare lentamente i kettlebell nella posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık, avuçlarınız size bakacak şekilde her iki elinizde omuz hizasında birer kettlebell tutarak ayakta durun.",
+      "Merkez bölgenizi devreye sokun ve kollarınızı uzatırken avuç içlerinizi öne bakacak şekilde döndürerek kettlebell'leri başınızın üzerine bastırın.",
+      "Hareketin en üst noktasında duraklayın, ardından kettlebell'leri yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros, sosteniendo una pesa rusa en cada mano a la altura de los hombros con las palmas hacia ti.",
+      "Activa el core y empuja las pesas rusas por encima de la cabeza, girando las palmas hacia adelante mientras extiendes los brazos.",
+      "Haz una pausa en la parte superior del movimiento, luego baja lentamente las pesas rusas de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, поставив ноги на ширине плеч, держа в каждой руке по гире на уровне плеч ладонями к себе.",
+      "Напрягите корпус и выжмите гири над головой, поворачивая ладони лицом вперед и вытягивая руки.",
+      "Сделайте паузу в верхней точке движения, затем медленно опустите гири обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，双手各握一个壶铃，与肩同高，手掌朝向自己。",
+      "启动你的核心并将壶铃压过头顶，在伸展手臂时旋转手掌以面向前方。",
+      "在动作的最高点暂停，然后慢慢将壶铃放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, प्रत्येक हाथ में कंधे की ऊंचाई पर केटलबेल पकड़ें और अपनी हथेलियों को अपनी ओर रखें।",
+      "अपने कोर को संलग्न करें और केटलबेल्स को ऊपर की ओर दबाएं, अपनी हथेलियों को आगे की ओर घुमाते हुए अपनी बाहों को फैलाएं।",
+      "गति के शीर्ष पर रुकें, फिर धीरे-धीरे केटलबेल्स को प्रारंभिक स्थिति में वापस लाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań ze stopami rozstawionymi na szerokość barków, trzymając kettlebell w każdej dłoni na wysokości barków, dłonie skierowane do siebie.",
+      "Napnij mięśnie brzucha i wypchnij kettlebelle nad głowę, obracając dłonie do przodu w trakcie prostowania ramion.",
+      "Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść kettlebelle do pozycji wyjściowej.",
+      "Powtórz zgodnie z zaplanowaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "양손으로 케틀벨을 어깨 높이에서 잡고 다리를 어깨 너비로 벌립니다. 손바닥이 자신을 향하게 합니다.",
+      "코어에 힘을 주고 케틀벨을 머리 위로 누르면서 팔을 펴는 것과 동시에 손바닥이 앞을 향하도록 회전시킵니다.",
+      "최고점에서 잠깐 멈춘 후 케틀벨을 천천히 처음 위치로 낮춥니다.",
+      "원하는 반복 횟수까지 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un kettlebell dans chaque main à hauteur d'épaule, paumes tournées vers toi.",
+      "Gaine ta sangle abdominale et pousse les kettlebells au-dessus de ta tête, en tournant tes paumes vers l'avant à mesure que tu étends tes bras.",
+      "Marque une pause en haut du mouvement, puis abaisse lentement les kettlebells jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "upper back"
+  ],
+  "target": "delts",
+  "image": "images/0523-UM8mgyG.jpg",
+  "gif_url": "videos/0523-UM8mgyG.gif",
+  "media_id": "UM8mgyG",
+  "created_at": "2026-03-18T12:31:32.88501+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

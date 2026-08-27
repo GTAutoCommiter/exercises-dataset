@@ -1,0 +1,92 @@
+{
+  "id": "0010",
+  "name": "assisted hanging knee raise with throw down",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "assisted",
+  "instructions": {
+    "en": "Hang from a pull-up bar with your arms fully extended and your palms facing away from you. Engage your core and lift your knees towards your chest, keeping your legs together. Once your knees are at chest level, explosively throw your legs down towards the ground, extending them fully. Allow your legs to swing back up and repeat the movement for the desired number of repetitions.",
+    "it": "Appendi a una barra per trazioni con le braccia completamente distese e i palmi rivolti lontano da te. Coinvolgi il core e solleva le ginocchia verso il petto, mantenendo le gambe unite. Una volta che le ginocchia sono all'altezza del petto, lancia in modo esplosivo le gambe verso terra, estendendole completamente. Consenti alle gambe di oscillare nuovamente verso l'alto e ripeti il ​​movimento per il numero di ripetizioni desiderato.",
+    "tr": "Kollarınız tamamen uzatılmış ve avuçlarınız sizden uzağa bakacak şekilde barfiks barına asın. Merkez bölgenizi devreye sokun ve bacaklarınızı bir arada tutarak dizlerinizi göğsünüze doğru kaldırın. Dizleriniz göğüs hizasına geldiğinde bacaklarınızı patlayıcı bir şekilde yere doğru atın ve tamamen uzatın. Bacaklarınızın geriye doğru sallanmasına izin verin ve hareketi istenen sayıda tekrarla tekrarlayın.",
+    "es": "Cuélgate de una barra de dominadas con los brazos completamente extendidos y las palmas mirando hacia afuera. Activa el core y levanta las rodillas hacia el pecho, manteniendo las piernas juntas. Una vez que las rodillas estén a la altura del pecho, lanza las piernas explosivamente hacia el suelo, extendiéndolas por completo. Deja que las piernas se balanceen de vuelta hacia arriba y repite el movimiento el número de repeticiones deseado.",
+    "ru": "Повисните на перекладине, полностью вытянув руки и повернув ладони от себя. Напрягите корпус и поднимите колени к груди, держа ноги вместе. Как только ваши колени окажутся на уровне груди, резко бросьте ноги вниз к земле, полностью выпрямляя их. Позвольте ногам подняться и повторите движение желаемое количество повторений.",
+    "zh": "悬挂在引体向上杆上，双臂完全伸展，手掌背向自己。 收紧核心并将膝盖抬向胸部，保持双腿并拢。 一旦你的膝盖与胸部齐平，爆发性地将你的双腿向地面扔去，将它们完全伸展。 让双腿向后摆动并重复该动作达到所需的重复次数。",
+    "hi": "अपनी बाहों को पूरी तरह फैलाकर और अपनी हथेलियों को आपसे दूर की ओर रखते हुए पुल-अप बार से लटकें। अपने कोर को संलग्न करें और अपने पैरों को एक साथ रखते हुए, अपने घुटनों को अपनी छाती की ओर उठाएं। एक बार जब आपके घुटने छाती के स्तर पर हों, तो अपने पैरों को पूरी तरह फैलाते हुए जमीन की ओर नीचे फेंकें। अपने पैरों को वापस ऊपर की ओर झुकने दें और वांछित संख्या में दोहराव के लिए इस क्रिया को दोहराएं।",
+    "pl": "Zwiśnij na drążku do podciągania z rękami w pełni wyprostowanymi i dłońmi skierowanymi od siebie. Napnij mięśnie brzucha i unieś kolana w kierunku klatki piersiowej, trzymając nogi razem. Gdy kolana znajdą się na wysokości klatki piersiowej, gwałtownie wyrzuć nogi w dół, w pełni je prostując. Pozwól nogom wrócić w górę wahadłowym ruchem i powtórz zalecaną liczbę razy.",
+    "ko": "턱걸이 바에 팔을 완전히 펴고 손바닥이 앞을 향하도록 매달립니다. 복근을 긴장시키고 무릎을 가슴 쪽으로 올리되 다리를 모은 상태로 유지합니다. 무릎이 가슴 높이에 도달하면 폭발적으로 다리를 바닥 쪽으로 던지며 완전히 펼칩니다. 다리가 자연스럽게 위로 흔들려 올라오게 하고 동작을 반복합니다.",
+    "fr": "Suspends-toi à une barre de traction, les bras complètement étendus et les paumes tournées vers l'extérieur. Gaine ta sangle abdominale et lève tes genoux vers ta poitrine, en gardant tes jambes jointes. Une fois tes genoux à hauteur de poitrine, projette tes jambes vers le sol de manière explosive, en les tendant complètement. Laisse tes jambes revenir en balancier vers le haut et répète le mouvement pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Hang from a pull-up bar with your arms fully extended and your palms facing away from you.",
+      "Engage your core and lift your knees towards your chest, keeping your legs together.",
+      "Once your knees are at chest level, explosively throw your legs down towards the ground, extending them fully.",
+      "Allow your legs to swing back up and repeat the movement for the desired number of repetitions."
+    ],
+    "it": [
+      "Appendi a una barra per trazioni con le braccia completamente distese e i palmi rivolti lontano da te.",
+      "Coinvolgi il core e solleva le ginocchia verso il petto, mantenendo le gambe unite.",
+      "Una volta che le ginocchia sono all'altezza del petto, lancia in modo esplosivo le gambe verso terra, estendendole completamente.",
+      "Consenti alle gambe di oscillare nuovamente verso l'alto e ripeti il ​​movimento per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Kollarınız tamamen uzatılmış ve avuçlarınız sizden uzağa bakacak şekilde barfiks barına asın.",
+      "Merkez bölgenizi devreye sokun ve bacaklarınızı bir arada tutarak dizlerinizi göğsünüze doğru kaldırın.",
+      "Dizleriniz göğüs hizasına geldiğinde bacaklarınızı patlayıcı bir şekilde yere doğru atın ve tamamen uzatın.",
+      "Bacaklarınızın geriye doğru sallanmasına izin verin ve hareketi istenen sayıda tekrarla tekrarlayın."
+    ],
+    "es": [
+      "Cuélgate de una barra de dominadas con los brazos completamente extendidos y las palmas mirando hacia afuera.",
+      "Activa el core y levanta las rodillas hacia el pecho, manteniendo las piernas juntas.",
+      "Una vez que las rodillas estén a la altura del pecho, lanza las piernas explosivamente hacia el suelo, extendiéndolas por completo.",
+      "Deja que las piernas se balanceen de vuelta hacia arriba y repite el movimiento el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Повисните на перекладине, полностью вытянув руки и повернув ладони от себя.",
+      "Напрягите корпус и поднимите колени к груди, держа ноги вместе.",
+      "Как только ваши колени окажутся на уровне груди, резко бросьте ноги вниз к земле, полностью выпрямляя их.",
+      "Позвольте ногам подняться и повторите движение желаемое количество повторений."
+    ],
+    "zh": [
+      "悬挂在引体向上杆上，双臂完全伸展，手掌背向自己。",
+      "收紧核心并将膝盖抬向胸部，保持双腿并拢。",
+      "一旦你的膝盖与胸部齐平，爆发性地将你的双腿向地面扔去，将它们完全伸展。",
+      "让双腿向后摆动并重复该动作达到所需的重复次数。"
+    ],
+    "hi": [
+      "अपनी बाहों को पूरी तरह फैलाकर और अपनी हथेलियों को आपसे दूर की ओर रखते हुए पुल-अप बार से लटकें।",
+      "अपने कोर को संलग्न करें और अपने पैरों को एक साथ रखते हुए, अपने घुटनों को अपनी छाती की ओर उठाएं।",
+      "एक बार जब आपके घुटने छाती के स्तर पर हों, तो अपने पैरों को पूरी तरह फैलाते हुए जमीन की ओर नीचे फेंकें।",
+      "अपने पैरों को वापस ऊपर की ओर झुकने दें और वांछित संख्या में दोहराव के लिए इस क्रिया को दोहराएं।"
+    ],
+    "pl": [
+      "Zwiśnij na drążku do podciągania z rękami w pełni wyprostowanymi i dłońmi skierowanymi od siebie.",
+      "Napnij mięśnie brzucha i unieś kolana w kierunku klatki piersiowej, trzymając nogi razem.",
+      "Gdy kolana znajdą się na wysokości klatki piersiowej, gwałtownie wyrzuć nogi w dół, w pełni je prostując.",
+      "Pozwól nogom wrócić w górę wahadłowym ruchem i powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "턱걸이 바에 팔을 완전히 펴고 손바닥이 앞을 향하도록 매달립니다.",
+      "복근을 긴장시키고 무릎을 가슴 쪽으로 올리되 다리를 모은 상태로 유지합니다.",
+      "무릎이 가슴 높이에 도달하면 폭발적으로 다리를 바닥 쪽으로 던지며 완전히 펼칩니다.",
+      "다리가 자연스럽게 위로 흔들려 올라오게 하고 동작을 반복합니다."
+    ],
+    "fr": [
+      "Suspends-toi à une barre de traction, les bras complètement étendus et les paumes tournées vers l'extérieur.",
+      "Gaine ta sangle abdominale et lève tes genoux vers ta poitrine, en gardant tes jambes jointes.",
+      "Une fois tes genoux à hauteur de poitrine, projette tes jambes vers le sol de manière explosive, en les tendant complètement.",
+      "Laisse tes jambes revenir en balancier vers le haut et répète le mouvement pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hip flexors",
+  "secondary_muscles": [
+    "hip flexors",
+    "lower back"
+  ],
+  "target": "abs",
+  "image": "images/0010-8K0w2yA.jpg",
+  "gif_url": "videos/0010-8K0w2yA.gif",
+  "media_id": "8K0w2yA",
+  "created_at": "2026-03-18T12:31:32.855234+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

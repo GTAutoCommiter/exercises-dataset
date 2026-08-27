@@ -1,0 +1,113 @@
+{
+  "id": "1472",
+  "name": "forward jump",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart. Bend your knees and lower your body into a squat position. Swing your arms back for momentum. Jump forward explosively, extending your hips, knees, and ankles. Land softly on the balls of your feet and immediately go into the next jump. Repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi alla larghezza delle spalle. Piega le ginocchia e abbassa il corpo in una posizione tozza. Oscilla le braccia indietro per dare slancio. Salta in avanti in modo esplosivo, estendendo i fianchi, le ginocchia e le caviglie. Atterra dolcemente sulle punte dei piedi ed esegui immediatamente il salto successivo. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durun. Dizlerinizi bükün ve vücudunuzu çömelme pozisyonuna indirin. Hızlanmak için kollarınızı geriye doğru sallayın. Kalçalarınızı, dizlerinizi ve ayak bileklerinizi uzatarak patlayıcı bir şekilde ileri atlayın. Ayak parmaklarınızın üzerine yumuşak bir şekilde inin ve hemen bir sonraki sıçramaya geçin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros. Flexiona las rodillas y baja el cuerpo hacia una posición de sentadilla. Balancea los brazos hacia atrás para generar impulso. Salta hacia adelante de forma explosiva, extendiendo las caderas, las rodillas y los tobillos. Aterriza suavemente sobre la punta de los pies y pasa de inmediato al siguiente salto. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч. Согните колени и опустите тело в присед. Отведите руки назад для придания импульса. Резко прыгните вперед, выпрямляя бедра, колени и лодыжки. Мягко приземлитесь на подушечки стоп и сразу же переходите к следующему прыжку. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立。 弯曲膝盖并将身体降低至蹲姿。 向后摆动手臂以获得动力。 爆发性地向前跳跃，伸展臀部、膝盖和脚踝。 脚掌轻轻落地，然后立即进入下一个跳跃。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई की दूरी पर रखकर खड़े हो जाएं। अपने घुटनों को मोड़ें और अपने शरीर को स्क्वाट स्थिति में नीचे लाएँ। गति के लिए अपनी भुजाओं को पीछे की ओर झुकाएँ। अपने कूल्हों, घुटनों और टखनों को फैलाते हुए विस्फोटक तरीके से आगे बढ़ें। अपने पैरों की उंगलियों पर धीरे से उतरें और तुरंत अगली छलांग लगाएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań ze stopami na szerokość barków. Zegnij kolana i opuść ciało do pozycji przysiadu. Zamachnij ramionami do tyłu, aby nabrać rozpędu. Wyskocz do przodu z siłą, prostując biodra, kolana i kostki. Wyląduj miękko na palcach stóp i natychmiast przejdź do kolejnego skoku. Powtórz zalecaną liczbę razy.",
+    "ko": "발을 어깨너비로 벌립니다. 무릎을 구부리고 스쿼트 자세로 몸을 내립니다. 추진력을 위해 팔을 뒤로 흔듭니다. 골반, 무릎, 발목을 펴면서 폭발적으로 전방으로 도약합니다. 발의 앞부분에 부드럽게 착지한 후 즉시 다음 도약으로 들어갑니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules. Fléchis les genoux et abaisse ton corps en position accroupie. Balance tes bras vers l'arrière pour prendre de l'élan. Saute vers l'avant de manière explosive, en étendant tes hanches, tes genoux et tes chevilles. Atterris en douceur sur la pointe des pieds et enchaîne immédiatement avec le saut suivant. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart.",
+      "Bend your knees and lower your body into a squat position.",
+      "Swing your arms back for momentum.",
+      "Jump forward explosively, extending your hips, knees, and ankles.",
+      "Land softly on the balls of your feet and immediately go into the next jump.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle.",
+      "Piega le ginocchia e abbassa il corpo in una posizione tozza.",
+      "Oscilla le braccia indietro per dare slancio.",
+      "Salta in avanti in modo esplosivo, estendendo i fianchi, le ginocchia e le caviglie.",
+      "Atterra dolcemente sulle punte dei piedi ed esegui immediatamente il salto successivo.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durun.",
+      "Dizlerinizi bükün ve vücudunuzu çömelme pozisyonuna indirin.",
+      "Hızlanmak için kollarınızı geriye doğru sallayın.",
+      "Kalçalarınızı, dizlerinizi ve ayak bileklerinizi uzatarak patlayıcı bir şekilde ileri atlayın.",
+      "Ayak parmaklarınızın üzerine yumuşak bir şekilde inin ve hemen bir sonraki sıçramaya geçin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros.",
+      "Flexiona las rodillas y baja el cuerpo hacia una posición de sentadilla.",
+      "Balancea los brazos hacia atrás para generar impulso.",
+      "Salta hacia adelante de forma explosiva, extendiendo las caderas, las rodillas y los tobillos.",
+      "Aterriza suavemente sobre la punta de los pies y pasa de inmediato al siguiente salto.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч.",
+      "Согните колени и опустите тело в присед.",
+      "Отведите руки назад для придания импульса.",
+      "Резко прыгните вперед, выпрямляя бедра, колени и лодыжки.",
+      "Мягко приземлитесь на подушечки стоп и сразу же переходите к следующему прыжку.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立。",
+      "弯曲膝盖并将身体降低至蹲姿。",
+      "向后摆动手臂以获得动力。",
+      "爆发性地向前跳跃，伸展臀部、膝盖和脚踝。",
+      "脚掌轻轻落地，然后立即进入下一个跳跃。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई की दूरी पर रखकर खड़े हो जाएं।",
+      "अपने घुटनों को मोड़ें और अपने शरीर को स्क्वाट स्थिति में नीचे लाएँ।",
+      "गति के लिए अपनी भुजाओं को पीछे की ओर झुकाएँ।",
+      "अपने कूल्हों, घुटनों और टखनों को फैलाते हुए विस्फोटक तरीके से आगे बढ़ें।",
+      "अपने पैरों की उंगलियों पर धीरे से उतरें और तुरंत अगली छलांग लगाएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań ze stopami na szerokość barków.",
+      "Zegnij kolana i opuść ciało do pozycji przysiadu.",
+      "Zamachnij ramionami do tyłu, aby nabrać rozpędu.",
+      "Wyskocz do przodu z siłą, prostując biodra, kolana i kostki.",
+      "Wyląduj miękko na palcach stóp i natychmiast przejdź do kolejnego skoku.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "발을 어깨너비로 벌립니다.",
+      "무릎을 구부리고 스쿼트 자세로 몸을 내립니다.",
+      "추진력을 위해 팔을 뒤로 흔듭니다.",
+      "골반, 무릎, 발목을 펴면서 폭발적으로 전방으로 도약합니다.",
+      "발의 앞부분에 부드럽게 착지한 후 즉시 다음 도약으로 들어갑니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules.",
+      "Fléchis les genoux et abaisse ton corps en position accroupie.",
+      "Balance tes bras vers l'arrière pour prendre de l'élan.",
+      "Saute vers l'avant de manière explosive, en étendant tes hanches, tes genoux et tes chevilles.",
+      "Atterris en douceur sur la pointe des pieds et enchaîne immédiatement avec le saut suivant.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "calves",
+  "secondary_muscles": [
+    "calves",
+    "hamstrings",
+    "glutes"
+  ],
+  "target": "quads",
+  "image": "images/1472-uZKq7lo.jpg",
+  "gif_url": "videos/1472-uZKq7lo.gif",
+  "media_id": "uZKq7lo",
+  "created_at": "2026-03-18T12:31:32.883656+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

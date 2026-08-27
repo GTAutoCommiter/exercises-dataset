@@ -1,0 +1,102 @@
+{
+  "id": "1456",
+  "name": "barbell standing close grip military press",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and hold the barbell with an overhand grip, hands slightly closer than shoulder-width apart. Lift the barbell to shoulder height, keeping your elbows close to your body. Press the barbell overhead, extending your arms fully. Lower the barbell back to shoulder height. Repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi a larghezza delle spalle e tieni il bilanciere con una presa sopra la mano, le mani leggermente più vicine rispetto alla larghezza delle spalle. Solleva il bilanciere all'altezza delle spalle, tenendo i gomiti vicini al corpo. Premi il bilanciere sopra la testa, estendendo completamente le braccia. Abbassa il bilanciere fino all'altezza delle spalle. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durun ve halteri üstten kavrayarak, eller omuz genişliğinden biraz daha yakın olacak şekilde tutun. Halteri omuz yüksekliğine kadar kaldırın, dirseklerinizi vücudunuza yakın tutun. Kollarınızı tamamen uzatarak halteri başınızın üzerine bastırın. Halteri omuz yüksekliğine kadar indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y sujeta la barra con agarre prono, manos un poco más juntas que el ancho de los hombros. Levanta la barra hasta la altura de los hombros, manteniendo los codos cerca del cuerpo. Empuja la barra por encima de la cabeza, extendiendo completamente los brazos. Baja la barra de nuevo a la altura de los hombros. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, поставив ноги на ширине плеч, и возьмите штангу хватом сверху, руки чуть ближе ширины плеч. Поднимите штангу на высоту плеч, держа локти близко к телу. Выжмите штангу над головой, полностью выпрямив руки. Опустите штангу обратно на высоту плеч. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，正手握住杠铃，双手距离略小于肩宽。 将杠铃举至肩膀高度，保持肘部靠近身体。 将杠铃推过头顶，充分伸展双臂。 将杠铃降低回肩部高度。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई की दूरी पर रखकर खड़े हो जाएं और बारबेल को हाथ से पकड़ें, हाथ कंधे की चौड़ाई से थोड़े करीब हों। अपनी कोहनियों को अपने शरीर के करीब रखते हुए बारबेल को कंधे की ऊंचाई तक उठाएं। अपनी बाहों को पूरी तरह फैलाते हुए बारबेल को ऊपर की ओर दबाएं। बारबेल को वापस कंधे की ऊंचाई तक नीचे लाएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań ze stopami na szerokość barków, trzymając sztangę chwytem nachwytem, z dłońmi nieco węższymi niż na szerokość barków. Unieś sztangę na wysokość barków, trzymając łokcie blisko ciała. Wypchnij sztangę nad głowę, w pełni prostując ramiona. Opuść sztangę z powrotem na wysokość barków. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "발을 어깨 너비로 벌리고 서서 바벨을 엎질러 잡으며 손은 어깨 너비보다 약간 좁게 벌립니다. 바벨을 어깨 높이까지 들어올려 팔꿈치를 몸통에 가깝게 유지합니다. 바벨을 머리 위로 밀어올려 팔을 완전히 펼칩니다. 바벨을 어깨 높이로 내립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens la barre en prise pronation, les mains légèrement plus rapprochées que la largeur des épaules. Soulève la barre à hauteur des épaules, en gardant tes coudes près de ton corps. Développe la barre au-dessus de ta tête, en tendant complètement tes bras. Abaisse la barre à hauteur des épaules. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and hold the barbell with an overhand grip, hands slightly closer than shoulder-width apart.",
+      "Lift the barbell to shoulder height, keeping your elbows close to your body.",
+      "Press the barbell overhead, extending your arms fully.",
+      "Lower the barbell back to shoulder height.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi a larghezza delle spalle e tieni il bilanciere con una presa sopra la mano, le mani leggermente più vicine rispetto alla larghezza delle spalle.",
+      "Solleva il bilanciere all'altezza delle spalle, tenendo i gomiti vicini al corpo.",
+      "Premi il bilanciere sopra la testa, estendendo completamente le braccia.",
+      "Abbassa il bilanciere fino all'altezza delle spalle.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durun ve halteri üstten kavrayarak, eller omuz genişliğinden biraz daha yakın olacak şekilde tutun.",
+      "Halteri omuz yüksekliğine kadar kaldırın, dirseklerinizi vücudunuza yakın tutun.",
+      "Kollarınızı tamamen uzatarak halteri başınızın üzerine bastırın.",
+      "Halteri omuz yüksekliğine kadar indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y sujeta la barra con agarre prono, manos un poco más juntas que el ancho de los hombros.",
+      "Levanta la barra hasta la altura de los hombros, manteniendo los codos cerca del cuerpo.",
+      "Empuja la barra por encima de la cabeza, extendiendo completamente los brazos.",
+      "Baja la barra de nuevo a la altura de los hombros.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, поставив ноги на ширине плеч, и возьмите штангу хватом сверху, руки чуть ближе ширины плеч.",
+      "Поднимите штангу на высоту плеч, держа локти близко к телу.",
+      "Выжмите штангу над головой, полностью выпрямив руки.",
+      "Опустите штангу обратно на высоту плеч.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，正手握住杠铃，双手距离略小于肩宽。",
+      "将杠铃举至肩膀高度，保持肘部靠近身体。",
+      "将杠铃推过头顶，充分伸展双臂。",
+      "将杠铃降低回肩部高度。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई की दूरी पर रखकर खड़े हो जाएं और बारबेल को हाथ से पकड़ें, हाथ कंधे की चौड़ाई से थोड़े करीब हों।",
+      "अपनी कोहनियों को अपने शरीर के करीब रखते हुए बारबेल को कंधे की ऊंचाई तक उठाएं।",
+      "अपनी बाहों को पूरी तरह फैलाते हुए बारबेल को ऊपर की ओर दबाएं।",
+      "बारबेल को वापस कंधे की ऊंचाई तक नीचे लाएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań ze stopami na szerokość barków, trzymając sztangę chwytem nachwytem, z dłońmi nieco węższymi niż na szerokość barków.",
+      "Unieś sztangę na wysokość barków, trzymając łokcie blisko ciała.",
+      "Wypchnij sztangę nad głowę, w pełni prostując ramiona.",
+      "Opuść sztangę z powrotem na wysokość barków.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 너비로 벌리고 서서 바벨을 엎질러 잡으며 손은 어깨 너비보다 약간 좁게 벌립니다.",
+      "바벨을 어깨 높이까지 들어올려 팔꿈치를 몸통에 가깝게 유지합니다.",
+      "바벨을 머리 위로 밀어올려 팔을 완전히 펼칩니다.",
+      "바벨을 어깨 높이로 내립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens la barre en prise pronation, les mains légèrement plus rapprochées que la largeur des épaules.",
+      "Soulève la barre à hauteur des épaules, en gardant tes coudes près de ton corps.",
+      "Développe la barre au-dessus de ta tête, en tendant complètement tes bras.",
+      "Abaisse la barre à hauteur des épaules.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "upper back"
+  ],
+  "target": "delts",
+  "image": "images/1456-wdRZISl.jpg",
+  "gif_url": "videos/1456-wdRZISl.gif",
+  "media_id": "wdRZISl",
+  "created_at": "2026-03-18T12:31:32.873108+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

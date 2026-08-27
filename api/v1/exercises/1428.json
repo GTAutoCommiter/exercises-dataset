@@ -1,0 +1,92 @@
+{
+  "id": "1428",
+  "name": "wrist circles",
+  "category": "lower arms",
+  "body_part": "lower arms",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Extend your arms straight out in front of you. Make a fist with both hands. Rotate your wrists in a circular motion, keeping your arms still. Continue the wrist circles for the desired number of repetitions.",
+    "it": "Estendi le braccia davanti a te. Chiudi il pugno con entrambe le mani. Ruota i polsi con un movimento circolare, mantenendo le braccia ferme. Continua i cerchi del polso per il numero di ripetizioni desiderato.",
+    "tr": "Kollarınızı düz bir şekilde önünüze doğru uzatın. İki elinizle yumruk yapın. Kollarınızı sabit tutarak bileklerinizi dairesel bir hareketle döndürün. İstenilen sayıda tekrar için bilek halkalarına devam edin.",
+    "es": "Extiende los brazos rectos frente a ti. Cierra ambas manos en un puño. Gira las muñecas en un movimiento circular, manteniendo los brazos quietos. Continúa los círculos de muñeca el número de repeticiones deseado.",
+    "ru": "Вытяните руки прямо перед собой. Сожмите кулак обеими руками. Делайте круговые движения запястьями, сохраняя руки неподвижными. Продолжайте круговые движения запястьями желаемое количество повторений.",
+    "zh": "将双臂伸直在身前。 双手握拳。 以圆周运动旋转手腕，保持手臂静止。 继续手腕转圈达到所需的重复次数。",
+    "hi": "अपनी बाहों को अपने सामने सीधा फैलाएं। दोनों हाथों से मुट्ठी बांध लें. अपनी भुजाओं को स्थिर रखते हुए अपनी कलाइयों को गोलाकार गति में घुमाएँ। दोहराव की वांछित संख्या के लिए कलाई के घेरे जारी रखें।",
+    "pl": "Wyciągnij ramiona prosto przed siebie. Zaciśnij obie dłonie w pięści. Wykonuj nadgarstkami ruch kolisty, trzymając ramiona nieruchomo. Kontynuuj krążenia nadgarstków przez żądaną liczbę powtórzeń.",
+    "ko": "팔을 앞으로 곧게 뻗습니다. 양손으로 주먹을 만듭니다. 팔을 고정하고 손목을 원형 운동으로 회전합니다. 원하는 반복 횟수만큼 손목 원 운동을 계속합니다.",
+    "fr": "Étends les bras droit devant toi. Serre les deux poings. Fais tourner tes poignets en un mouvement circulaire, en gardant tes bras immobiles. Continue les cercles avec les poignets pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Extend your arms straight out in front of you.",
+      "Make a fist with both hands.",
+      "Rotate your wrists in a circular motion, keeping your arms still.",
+      "Continue the wrist circles for the desired number of repetitions."
+    ],
+    "it": [
+      "Estendi le braccia davanti a te.",
+      "Chiudi il pugno con entrambe le mani.",
+      "Ruota i polsi con un movimento circolare, mantenendo le braccia ferme.",
+      "Continua i cerchi del polso per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Kollarınızı düz bir şekilde önünüze doğru uzatın.",
+      "İki elinizle yumruk yapın.",
+      "Kollarınızı sabit tutarak bileklerinizi dairesel bir hareketle döndürün.",
+      "İstenilen sayıda tekrar için bilek halkalarına devam edin."
+    ],
+    "es": [
+      "Extiende los brazos rectos frente a ti.",
+      "Cierra ambas manos en un puño.",
+      "Gira las muñecas en un movimiento circular, manteniendo los brazos quietos.",
+      "Continúa los círculos de muñeca el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Вытяните руки прямо перед собой.",
+      "Сожмите кулак обеими руками.",
+      "Делайте круговые движения запястьями, сохраняя руки неподвижными.",
+      "Продолжайте круговые движения запястьями желаемое количество повторений."
+    ],
+    "zh": [
+      "将双臂伸直在身前。",
+      "双手握拳。",
+      "以圆周运动旋转手腕，保持手臂静止。",
+      "继续手腕转圈达到所需的重复次数。"
+    ],
+    "hi": [
+      "अपनी बाहों को अपने सामने सीधा फैलाएं।",
+      "दोनों हाथों से मुट्ठी बांध लें.",
+      "अपनी भुजाओं को स्थिर रखते हुए अपनी कलाइयों को गोलाकार गति में घुमाएँ।",
+      "दोहराव की वांछित संख्या के लिए कलाई के घेरे जारी रखें।"
+    ],
+    "pl": [
+      "Wyciągnij ramiona prosto przed siebie.",
+      "Zaciśnij obie dłonie w pięści.",
+      "Wykonuj nadgarstkami ruch kolisty, trzymając ramiona nieruchomo.",
+      "Kontynuuj krążenia nadgarstków przez żądaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "팔을 앞으로 곧게 뻗습니다.",
+      "양손으로 주먹을 만듭니다.",
+      "팔을 고정하고 손목을 원형 운동으로 회전합니다.",
+      "원하는 반복 횟수만큼 손목 원 운동을 계속합니다."
+    ],
+    "fr": [
+      "Étends les bras droit devant toi.",
+      "Serre les deux poings.",
+      "Fais tourner tes poignets en un mouvement circulaire, en gardant tes bras immobiles.",
+      "Continue les cercles avec les poignets pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hands",
+  "secondary_muscles": [
+    "hands",
+    "wrists"
+  ],
+  "target": "forearms",
+  "image": "images/1428-2zNKRUB.jpg",
+  "gif_url": "videos/1428-2zNKRUB.gif",
+  "media_id": "2zNKRUB",
+  "created_at": "2026-03-18T12:31:32.906611+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

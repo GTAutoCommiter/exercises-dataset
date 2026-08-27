@@ -1,0 +1,101 @@
+{
+  "id": "1745",
+  "name": "exercise ball seated triceps stretch",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "stability ball",
+  "instructions": {
+    "en": "Sit on a stability ball with your feet flat on the ground and your back straight. Hold a dumbbell in one hand and extend your arm straight up above your head. Bend your elbow and lower the dumbbell behind your head, keeping your upper arm close to your ear. Hold the stretch for a few seconds, then return to the starting position. Repeat with the other arm.",
+    "it": "Siediti su una palla stabilizzata con i piedi appoggiati a terra e la schiena dritta. Tieni un manubrio in una mano e allunga il braccio sopra la testa. Piega il gomito e abbassa il manubrio dietro la testa, mantenendo la parte superiore del braccio vicino all'orecchio. Mantieni l'allungamento per alcuni secondi, quindi torna alla posizione di partenza. Ripeti con l'altro braccio.",
+    "tr": "Ayaklarınız yere düz basacak ve sırtınız düz olacak şekilde bir stabilite topunun üzerine oturun. Bir elinizde bir dambıl tutun ve kolunuzu başınızın üzerine doğru uzatın. Dirseğinizi bükün ve üst kolunuzu kulağınıza yakın tutarak dambılı başınızın arkasına indirin. Uzatmayı birkaç saniye basılı tutun, ardından başlangıç ​​pozisyonuna dönün. Diğer kolla tekrarlayın.",
+    "es": "Siéntate sobre un balón de estabilidad con los pies apoyados en el suelo y la espalda recta. Sostén una mancuerna con una mano y extiende el brazo recto por encima de la cabeza. Dobla el codo y baja la mancuerna detrás de la cabeza, manteniendo el brazo cerca de la oreja. Mantén el estiramiento durante unos segundos, luego regresa a la posición inicial. Repite con el otro brazo.",
+    "ru": "Сядьте на мяч, поставив ноги на землю и выпрямив спину. Возьмите гантель в одну руку и вытяните руку прямо над головой. Согните локоть и опустите гантель за голову, держа плечо близко к уху. Удерживайте растяжку несколько секунд, затем вернитесь в исходное положение. Повторите с другой рукой.",
+    "zh": "坐在稳定球上，双脚平放在地面上，背部挺直。 一只手握住哑铃，将手臂伸直至头顶上方。 弯曲肘部，将哑铃放在脑后，保持上臂靠近耳朵。 保持伸展几秒钟，然后回到起始位置。 用另一只手臂重复上述步骤。",
+    "hi": "अपने पैरों को ज़मीन पर सपाट और अपनी पीठ को सीधा रखते हुए एक स्टेबिलिटी बॉल पर बैठें। एक हाथ में डम्बल पकड़ें और अपने हाथ को सीधे अपने सिर के ऊपर फैलाएँ। अपनी कोहनी मोड़ें और डम्बल को अपने सिर के पीछे नीचे करें, अपनी ऊपरी भुजा को अपने कान के पास रखें। कुछ सेकंड के लिए खिंचाव को रोके रखें, फिर प्रारंभिक स्थिति में लौट आएं। दूसरे हाथ से दोहराएँ.",
+    "pl": "Usiądź na piłce stabilizacyjnej, stopy oprzyj płasko na podłodze, a plecy trzymaj proste. Trzymaj hantlę w jednej dłoni i wyciągnij ramię prosto nad głowę. Zegnij łokieć i opuść hantlę za głowę, trzymając ramię blisko ucha. Przytrzymaj rozciągnięcie przez kilka sekund, a następnie wróć do pozycji wyjściowej. Powtórz drugą ręką.",
+    "ko": "짐볼 위에 앉아 발을 바닥에 평평하게 놓고 등을 곧게 세우십시오. 한손에 덤벨을 들고 팔을 머리 위로 곧게 펴십시오. 팔꿈치를 구부려 덤벨을 머리 뒤로 내리되 위팔을 귀에 가깝게 유지하십시오. 몇 초간 스트레칭을 유지한 후 시작 위치로 돌아오십시오. 다른 팔로 반복하십시오.",
+    "fr": "Assieds-toi sur un ballon de stabilité, les pieds à plat sur le sol et le dos droit. Tiens un haltère dans une main et étends ton bras droit au-dessus de ta tête. Plie ton coude et abaisse l'haltère derrière ta tête en gardant le haut de ton bras près de ton oreille. Maintiens l'étirement pendant quelques secondes, puis reviens à la position de départ. Répète avec l'autre bras."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on a stability ball with your feet flat on the ground and your back straight.",
+      "Hold a dumbbell in one hand and extend your arm straight up above your head.",
+      "Bend your elbow and lower the dumbbell behind your head, keeping your upper arm close to your ear.",
+      "Hold the stretch for a few seconds, then return to the starting position.",
+      "Repeat with the other arm."
+    ],
+    "it": [
+      "Siediti su una palla stabilizzata con i piedi appoggiati a terra e la schiena dritta.",
+      "Tieni un manubrio in una mano e allunga il braccio sopra la testa.",
+      "Piega il gomito e abbassa il manubrio dietro la testa, mantenendo la parte superiore del braccio vicino all'orecchio.",
+      "Mantieni l'allungamento per alcuni secondi, quindi torna alla posizione di partenza.",
+      "Ripeti con l'altro braccio."
+    ],
+    "tr": [
+      "Ayaklarınız yere düz basacak ve sırtınız düz olacak şekilde bir stabilite topunun üzerine oturun.",
+      "Bir elinizde bir dambıl tutun ve kolunuzu başınızın üzerine doğru uzatın.",
+      "Dirseğinizi bükün ve üst kolunuzu kulağınıza yakın tutarak dambılı başınızın arkasına indirin.",
+      "Uzatmayı birkaç saniye basılı tutun, ardından başlangıç ​​pozisyonuna dönün.",
+      "Diğer kolla tekrarlayın."
+    ],
+    "es": [
+      "Siéntate sobre un balón de estabilidad con los pies apoyados en el suelo y la espalda recta.",
+      "Sostén una mancuerna con una mano y extiende el brazo recto por encima de la cabeza.",
+      "Dobla el codo y baja la mancuerna detrás de la cabeza, manteniendo el brazo cerca de la oreja.",
+      "Mantén el estiramiento durante unos segundos, luego regresa a la posición inicial.",
+      "Repite con el otro brazo."
+    ],
+    "ru": [
+      "Сядьте на мяч, поставив ноги на землю и выпрямив спину.",
+      "Возьмите гантель в одну руку и вытяните руку прямо над головой.",
+      "Согните локоть и опустите гантель за голову, держа плечо близко к уху.",
+      "Удерживайте растяжку несколько секунд, затем вернитесь в исходное положение.",
+      "Повторите с другой рукой."
+    ],
+    "zh": [
+      "坐在稳定球上，双脚平放在地面上，背部挺直。",
+      "一只手握住哑铃，将手臂伸直至头顶上方。",
+      "弯曲肘部，将哑铃放在脑后，保持上臂靠近耳朵。",
+      "保持伸展几秒钟，然后回到起始位置。",
+      "用另一只手臂重复上述步骤。"
+    ],
+    "hi": [
+      "अपने पैरों को ज़मीन पर सपाट और अपनी पीठ को सीधा रखते हुए एक स्टेबिलिटी बॉल पर बैठें।",
+      "एक हाथ में डम्बल पकड़ें और अपने हाथ को सीधे अपने सिर के ऊपर फैलाएँ।",
+      "अपनी कोहनी मोड़ें और डम्बल को अपने सिर के पीछे नीचे करें, अपनी ऊपरी भुजा को अपने कान के पास रखें।",
+      "कुछ सेकंड के लिए खिंचाव को रोके रखें, फिर प्रारंभिक स्थिति में लौट आएं।",
+      "दूसरे हाथ से दोहराएँ."
+    ],
+    "pl": [
+      "Usiądź na piłce stabilizacyjnej, stopy oprzyj płasko na podłodze, a plecy trzymaj proste.",
+      "Trzymaj hantlę w jednej dłoni i wyciągnij ramię prosto nad głowę.",
+      "Zegnij łokieć i opuść hantlę za głowę, trzymając ramię blisko ucha.",
+      "Przytrzymaj rozciągnięcie przez kilka sekund, a następnie wróć do pozycji wyjściowej.",
+      "Powtórz drugą ręką."
+    ],
+    "ko": [
+      "짐볼 위에 앉아 발을 바닥에 평평하게 놓고 등을 곧게 세우십시오.",
+      "한손에 덤벨을 들고 팔을 머리 위로 곧게 펴십시오.",
+      "팔꿈치를 구부려 덤벨을 머리 뒤로 내리되 위팔을 귀에 가깝게 유지하십시오.",
+      "몇 초간 스트레칭을 유지한 후 시작 위치로 돌아오십시오.",
+      "다른 팔로 반복하십시오."
+    ],
+    "fr": [
+      "Assieds-toi sur un ballon de stabilité, les pieds à plat sur le sol et le dos droit.",
+      "Tiens un haltère dans une main et étends ton bras droit au-dessus de ta tête.",
+      "Plie ton coude et abaisse l'haltère derrière ta tête en gardant le haut de ton bras près de ton oreille.",
+      "Maintiens l'étirement pendant quelques secondes, puis reviens à la position de départ.",
+      "Répète avec l'autre bras."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders"
+  ],
+  "target": "triceps",
+  "image": "images/1745-7ePTw4B.jpg",
+  "gif_url": "videos/1745-7ePTw4B.gif",
+  "media_id": "7ePTw4B",
+  "created_at": "2026-03-18T12:31:32.882974+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

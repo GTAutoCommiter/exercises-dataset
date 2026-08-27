@@ -1,0 +1,102 @@
+{
+  "id": "3161",
+  "name": "bodyweight standing one arm row (with towel)",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart, knees slightly bent, and hold a towel with one hand. Bend forward at the hips, keeping your back straight and your core engaged. Pull the towel towards your chest, squeezing your shoulder blades together. Pause for a moment at the top, then slowly lower the towel back to the starting position. Repeat for the desired number of repetitions, then switch to the other arm.",
+    "it": "Stai in piedi con i piedi larghi alle spalle, le ginocchia leggermente piegate, e tieni un asciugamano con una mano. Piegati in avanti sui fianchi, mantenendo la schiena dritta e il core attivo. Tira l'asciugamano verso il petto, stringendo le scapole insieme. Fermati un attimo in cima, poi abbassa lentamente l'asciugamano fino alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni, poi passa all'altro braccio.",
+    "tr": "Ayaklarınızı omuz genişliğinde açın, dizlerinizi hafifçe bükün ve bir elinizle havluyu tutun. Kalçalarınızı öne doğru eğin, sırtınızı düz ve merkez bölgenizi meşgul tutun. Havluyu göğsünüze doğru çekin, kürek kemiklerinizi birbirine bastırın. Tepede bir an duraklayın, ardından havluyu yavaşça başlangıç ​​pozisyonuna indirin. İstenilen tekrar sayısı kadar tekrarlayın, ardından diğer kola geçin.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros, las rodillas ligeramente flexionadas, y sujeta una toalla con una mano. Inclínate hacia adelante desde las caderas, manteniendo la espalda recta y el core activado. Tira de la toalla hacia el pecho, juntando los omóplatos. Haz una pausa breve en la parte más alta, luego baja lentamente la toalla de vuelta a la posición inicial. Repite el número de repeticiones deseado, luego cambia al otro brazo.",
+    "ru": "Встаньте, ноги на ширине плеч, колени слегка согнуты, одной рукой держите полотенце. Наклонитесь вперед в бедрах, сохраняя спину прямой и напряженный корпус. Подтяните полотенце к груди, сведя лопатки вместе. Задержитесь на мгновение в верхней точке, затем медленно опустите полотенце обратно в исходное положение. Повторите желаемое количество повторений, затем переключитесь на другую руку.",
+    "zh": "双脚分开与肩同宽站立，膝盖微曲，单手握住毛巾。 臀部向前弯曲，保持背部挺直，核心肌群参与。 将毛巾拉向胸部，将肩胛骨挤压在一起。 在顶部停顿片刻，然后慢慢将毛巾放回起始位置。 重复所需的重复次数，然后换到另一只手臂。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, घुटने थोड़े मुड़े हुए हों और एक हाथ से तौलिया पकड़ लें। अपनी पीठ को सीधा रखते हुए और अपने कोर को व्यस्त रखते हुए, कूल्हों के बल आगे की ओर झुकें। अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए, तौलिये को अपनी छाती की ओर खींचें। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे तौलिये को वापस प्रारंभिक स्थिति में लाएँ। दोहराव की वांछित संख्या के लिए दोहराएं, फिर दूसरे हाथ पर स्विच करें।",
+    "pl": "Stań ze stopami na szerokość barków, kolana lekko ugięte, i trzymaj ręcznik jedną ręką. Pochyl się do przodu w biodrach, trzymając plecy proste, a mięśnie brzucha napięte. Przyciągnij ręcznik w kierunku klatki piersiowej, ściągając łopatki. Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść ręcznik z powrotem do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń, a następnie zmień rękę.",
+    "ko": "발을 어깨 너비만큼 벌리고 무릎을 약간 구부린 상태로 서서 한 손으로 타올을 잡습니다. 허리를 굽히고 허리를 곧게 펴며 코어를 engaged 합니다. 타올을 가슴으로 당기면서 견갑골을 모아줍니다. 맨 위에서 잠시 멈춘 후 천천히 타올을 시작 자세로 내립니다. 원하는 반복 횟수만큼 반복한 후 다른 팔로 바꿉니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules, les genoux légèrement fléchis, et tiens une serviette d'une main. Penche-toi vers l'avant au niveau des hanches en gardant ton dos droit et ta sangle abdominale gainée. Tire la serviette vers ta poitrine en contractant tes omoplates l'une vers l'autre. Marque une pause en haut, puis abaisse lentement la serviette pour revenir à la position de départ. Répète le nombre de répétitions souhaité, puis passe à l'autre bras."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart, knees slightly bent, and hold a towel with one hand.",
+      "Bend forward at the hips, keeping your back straight and your core engaged.",
+      "Pull the towel towards your chest, squeezing your shoulder blades together.",
+      "Pause for a moment at the top, then slowly lower the towel back to the starting position.",
+      "Repeat for the desired number of repetitions, then switch to the other arm."
+    ],
+    "it": [
+      "Stai in piedi con i piedi larghi alle spalle, le ginocchia leggermente piegate, e tieni un asciugamano con una mano.",
+      "Piegati in avanti sui fianchi, mantenendo la schiena dritta e il core attivo.",
+      "Tira l'asciugamano verso il petto, stringendo le scapole insieme.",
+      "Fermati un attimo in cima, poi abbassa lentamente l'asciugamano fino alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni, poi passa all'altro braccio."
+    ],
+    "tr": [
+      "Ayaklarınızı omuz genişliğinde açın, dizlerinizi hafifçe bükün ve bir elinizle havluyu tutun.",
+      "Kalçalarınızı öne doğru eğin, sırtınızı düz ve merkez bölgenizi meşgul tutun.",
+      "Havluyu göğsünüze doğru çekin, kürek kemiklerinizi birbirine bastırın.",
+      "Tepede bir an duraklayın, ardından havluyu yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından diğer kola geçin."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros, las rodillas ligeramente flexionadas, y sujeta una toalla con una mano.",
+      "Inclínate hacia adelante desde las caderas, manteniendo la espalda recta y el core activado.",
+      "Tira de la toalla hacia el pecho, juntando los omóplatos.",
+      "Haz una pausa breve en la parte más alta, luego baja lentamente la toalla de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado, luego cambia al otro brazo."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, колени слегка согнуты, одной рукой держите полотенце.",
+      "Наклонитесь вперед в бедрах, сохраняя спину прямой и напряженный корпус.",
+      "Подтяните полотенце к груди, сведя лопатки вместе.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите полотенце обратно в исходное положение.",
+      "Повторите желаемое количество повторений, затем переключитесь на другую руку."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，膝盖微曲，单手握住毛巾。",
+      "臀部向前弯曲，保持背部挺直，核心肌群参与。",
+      "将毛巾拉向胸部，将肩胛骨挤压在一起。",
+      "在顶部停顿片刻，然后慢慢将毛巾放回起始位置。",
+      "重复所需的重复次数，然后换到另一只手臂。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, घुटने थोड़े मुड़े हुए हों और एक हाथ से तौलिया पकड़ लें।",
+      "अपनी पीठ को सीधा रखते हुए और अपने कोर को व्यस्त रखते हुए, कूल्हों के बल आगे की ओर झुकें।",
+      "अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए, तौलिये को अपनी छाती की ओर खींचें।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे तौलिये को वापस प्रारंभिक स्थिति में लाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर दूसरे हाथ पर स्विच करें।"
+    ],
+    "pl": [
+      "Stań ze stopami na szerokość barków, kolana lekko ugięte, i trzymaj ręcznik jedną ręką.",
+      "Pochyl się do przodu w biodrach, trzymając plecy proste, a mięśnie brzucha napięte.",
+      "Przyciągnij ręcznik w kierunku klatki piersiowej, ściągając łopatki.",
+      "Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść ręcznik z powrotem do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń, a następnie zmień rękę."
+    ],
+    "ko": [
+      "발을 어깨 너비만큼 벌리고 무릎을 약간 구부린 상태로 서서 한 손으로 타올을 잡습니다.",
+      "허리를 굽히고 허리를 곧게 펴며 코어를 engaged 합니다.",
+      "타올을 가슴으로 당기면서 견갑골을 모아줍니다.",
+      "맨 위에서 잠시 멈춘 후 천천히 타올을 시작 자세로 내립니다.",
+      "원하는 반복 횟수만큼 반복한 후 다른 팔로 바꿉니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules, les genoux légèrement fléchis, et tiens une serviette d'une main.",
+      "Penche-toi vers l'avant au niveau des hanches en gardant ton dos droit et ta sangle abdominale gainée.",
+      "Tire la serviette vers ta poitrine en contractant tes omoplates l'une vers l'autre.",
+      "Marque une pause en haut, puis abaisse lentement la serviette pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis passe à l'autre bras."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "forearms"
+  ],
+  "target": "upper back",
+  "image": "images/3161-O4oIqQD.jpg",
+  "gif_url": "videos/3161-O4oIqQD.gif",
+  "media_id": "O4oIqQD",
+  "created_at": "2026-03-18T12:31:32.873951+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

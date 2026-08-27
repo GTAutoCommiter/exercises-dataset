@@ -1,0 +1,112 @@
+{
+  "id": "1389",
+  "name": "posterior tibialis stretch",
+  "category": "lower legs",
+  "body_part": "lower legs",
+  "equipment": "rope",
+  "instructions": {
+    "en": "Sit on the ground with your legs extended in front of you. Loop the rope around the ball of your foot and hold the ends of the rope with your hands. Gently pull the rope towards you, flexing your foot and stretching your calf muscles. Hold the stretch for 20-30 seconds. Release the tension on the rope and relax your foot. Repeat the stretch on the other leg.",
+    "it": "Siediti a terra con le gambe distese davanti a te. Avvolgi la corda attorno alla pianta del piede e tieni le estremità della corda con le mani. Tira delicatamente la corda verso di te, flettendo il piede e allungando i muscoli del polpaccio. Mantieni l'allungamento per 20-30 secondi. Rilascia la tensione sulla corda e rilassa il piede. Ripeti l'allungamento sull'altra gamba.",
+    "tr": "Bacaklarınız önünüzde uzatılmış halde yere oturun. İpi ayak parmaklarınızın ucuna dolayın ve ipin uçlarını ellerinizle tutun. Ayağınızı esneterek ve baldır kaslarınızı gererek ipi yavaşça kendinize doğru çekin. Uzatmayı 20-30 saniye kadar tutun. İpteki gerilimi serbest bırakın ve ayağınızı gevşetin. Gerdirmeyi diğer bacakta da tekrarlayın.",
+    "es": "Siéntate en el suelo con las piernas extendidas frente a ti. Enrolla la cuerda alrededor de la planta del pie y sujeta los extremos de la cuerda con las manos. Tira suavemente de la cuerda hacia ti, flexionando el pie y estirando los músculos de la pantorrilla. Mantén el estiramiento durante 20-30 segundos. Suelta la tensión de la cuerda y relaja el pie. Repite el estiramiento en la otra pierna.",
+    "ru": "Сядьте на пол, вытянув ноги перед собой. Оберните веревку вокруг подушечки стопы и удерживайте концы веревки руками. Аккуратно потяните веревку на себя, сгибая ногу и растягивая икроножные мышцы. Удерживайте растяжку 20–30 секунд. Ослабьте натяжение веревки и расслабьте ногу. Повторите растяжку на другой ноге.",
+    "zh": "坐在地上，双腿在身前伸展。 将绳子绕在脚掌上，并用手握住绳子的末端。 轻轻地将绳子拉向自己，弯曲脚并伸展小腿肌肉。 保持拉伸 20-30 秒。 释放绳子上的张力并放松脚。 在另一条腿上重复该拉伸动作。",
+    "hi": "अपने पैरों को सामने फैलाकर जमीन पर बैठें। रस्सी को अपने पैर की गेंद के चारों ओर लपेटें और रस्सी के सिरों को अपने हाथों से पकड़ें। अपने पैर को मोड़ते हुए और अपनी पिंडली की मांसपेशियों को खींचते हुए धीरे से रस्सी को अपनी ओर खींचें। 20-30 सेकंड तक खिंचाव बनाए रखें। रस्सी पर तनाव छोड़ें और अपने पैर को आराम दें। दूसरे पैर पर खिंचाव दोहराएं।",
+    "pl": "Usiądź na podłodze z nogami wyprostowanymi przed sobą. Owiń linkę wokół śródstopia i chwyć jej końce dłońmi. Delikatnie pociągnij linkę w swoją stronę, zginając stopę grzbietowo i rozciągając mięśnie łydki. Przytrzymaj rozciągnięcie przez 20-30 sekund. Zwolnij napięcie linki i rozluźnij stopę. Powtórz rozciąganie na drugiej nodze.",
+    "ko": "바닥에 다리를 쭉 펼친 채로 앉습니다. 발의 볼 부분에 로프를 감싸고 로프의 양쪽 끝을 손으로 잡습니다. 로프를 천천히 당겨 발을 움직이고 종아리 근육을 스트레칭합니다. 20-30초 동안 스트레칭을 유지합니다. 로프의 긴장을 풀고 발을 이완합니다. 다른 쪽 다리에서도 스트레칭을 반복합니다.",
+    "fr": "Assieds-toi au sol, les jambes tendues devant toi. Enroule la corde autour de la plante de ton pied et tiens les extrémités de la corde avec tes mains. Tire doucement la corde vers toi, en fléchissant ton pied et en étirant tes mollets. Maintiens l'étirement pendant 20 à 30 secondes. Relâche la tension sur la corde et détends ton pied. Répète l'étirement avec l'autre jambe."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on the ground with your legs extended in front of you.",
+      "Loop the rope around the ball of your foot and hold the ends of the rope with your hands.",
+      "Gently pull the rope towards you, flexing your foot and stretching your calf muscles.",
+      "Hold the stretch for 20-30 seconds.",
+      "Release the tension on the rope and relax your foot.",
+      "Repeat the stretch on the other leg."
+    ],
+    "it": [
+      "Siediti a terra con le gambe distese davanti a te.",
+      "Avvolgi la corda attorno alla pianta del piede e tieni le estremità della corda con le mani.",
+      "Tira delicatamente la corda verso di te, flettendo il piede e allungando i muscoli del polpaccio.",
+      "Mantieni l'allungamento per 20-30 secondi.",
+      "Rilascia la tensione sulla corda e rilassa il piede.",
+      "Ripeti l'allungamento sull'altra gamba."
+    ],
+    "tr": [
+      "Bacaklarınız önünüzde uzatılmış halde yere oturun.",
+      "İpi ayak parmaklarınızın ucuna dolayın ve ipin uçlarını ellerinizle tutun.",
+      "Ayağınızı esneterek ve baldır kaslarınızı gererek ipi yavaşça kendinize doğru çekin.",
+      "Uzatmayı 20-30 saniye kadar tutun.",
+      "İpteki gerilimi serbest bırakın ve ayağınızı gevşetin.",
+      "Gerdirmeyi diğer bacakta da tekrarlayın."
+    ],
+    "es": [
+      "Siéntate en el suelo con las piernas extendidas frente a ti.",
+      "Enrolla la cuerda alrededor de la planta del pie y sujeta los extremos de la cuerda con las manos.",
+      "Tira suavemente de la cuerda hacia ti, flexionando el pie y estirando los músculos de la pantorrilla.",
+      "Mantén el estiramiento durante 20-30 segundos.",
+      "Suelta la tensión de la cuerda y relaja el pie.",
+      "Repite el estiramiento en la otra pierna."
+    ],
+    "ru": [
+      "Сядьте на пол, вытянув ноги перед собой.",
+      "Оберните веревку вокруг подушечки стопы и удерживайте концы веревки руками.",
+      "Аккуратно потяните веревку на себя, сгибая ногу и растягивая икроножные мышцы.",
+      "Удерживайте растяжку 20–30 секунд.",
+      "Ослабьте натяжение веревки и расслабьте ногу.",
+      "Повторите растяжку на другой ноге."
+    ],
+    "zh": [
+      "坐在地上，双腿在身前伸展。",
+      "将绳子绕在脚掌上，并用手握住绳子的末端。",
+      "轻轻地将绳子拉向自己，弯曲脚并伸展小腿肌肉。",
+      "保持拉伸 20-30 秒。",
+      "释放绳子上的张力并放松脚。",
+      "在另一条腿上重复该拉伸动作。"
+    ],
+    "hi": [
+      "अपने पैरों को सामने फैलाकर जमीन पर बैठें।",
+      "रस्सी को अपने पैर की गेंद के चारों ओर लपेटें और रस्सी के सिरों को अपने हाथों से पकड़ें।",
+      "अपने पैर को मोड़ते हुए और अपनी पिंडली की मांसपेशियों को खींचते हुए धीरे से रस्सी को अपनी ओर खींचें।",
+      "20-30 सेकंड तक खिंचाव बनाए रखें।",
+      "रस्सी पर तनाव छोड़ें और अपने पैर को आराम दें।",
+      "दूसरे पैर पर खिंचाव दोहराएं।"
+    ],
+    "pl": [
+      "Usiądź na podłodze z nogami wyprostowanymi przed sobą.",
+      "Owiń linkę wokół śródstopia i chwyć jej końce dłońmi.",
+      "Delikatnie pociągnij linkę w swoją stronę, zginając stopę grzbietowo i rozciągając mięśnie łydki.",
+      "Przytrzymaj rozciągnięcie przez 20-30 sekund.",
+      "Zwolnij napięcie linki i rozluźnij stopę.",
+      "Powtórz rozciąganie na drugiej nodze."
+    ],
+    "ko": [
+      "바닥에 다리를 쭉 펼친 채로 앉습니다.",
+      "발의 볼 부분에 로프를 감싸고 로프의 양쪽 끝을 손으로 잡습니다.",
+      "로프를 천천히 당겨 발을 움직이고 종아리 근육을 스트레칭합니다.",
+      "20-30초 동안 스트레칭을 유지합니다.",
+      "로프의 긴장을 풀고 발을 이완합니다.",
+      "다른 쪽 다리에서도 스트레칭을 반복합니다."
+    ],
+    "fr": [
+      "Assieds-toi au sol, les jambes tendues devant toi.",
+      "Enroule la corde autour de la plante de ton pied et tiens les extrémités de la corde avec tes mains.",
+      "Tire doucement la corde vers toi, en fléchissant ton pied et en étirant tes mollets.",
+      "Maintiens l'étirement pendant 20 à 30 secondes.",
+      "Relâche la tension sur la corde et détends ton pied.",
+      "Répète l'étirement avec l'autre jambe."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings",
+    "quadriceps"
+  ],
+  "target": "calves",
+  "image": "images/1389-DEEqoI2.jpg",
+  "gif_url": "videos/1389-DEEqoI2.gif",
+  "media_id": "DEEqoI2",
+  "created_at": "2026-03-18T12:31:32.888254+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,112 @@
+{
+  "id": "0845",
+  "name": "weighted russian twist (legs up)",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "weighted",
+  "instructions": {
+    "en": "Sit on the ground with your knees bent and feet lifted off the ground, keeping your legs together. Hold the weight with both hands in front of your chest, keeping your elbows slightly bent. Lean back slightly to engage your core muscles. Twist your torso to the right, bringing the weight towards the ground on your right side. Pause for a moment, then twist your torso to the left, bringing the weight towards the ground on your left side. Continue alternating sides for the desired number of repetitions.",
+    "it": "Sedersi a terra con le ginocchia piegate e i piedi sollevati da terra, tenendo le gambe unite. Tieni il peso con entrambe le mani davanti al petto, mantenendo i gomiti leggermente piegati. Rilassati leggermente all'indietro per coinvolgere i muscoli centrali. Ruota il busto verso destra, portando il peso a terra sul lato destro. Fai una pausa per un momento, quindi ruota il busto verso sinistra, portando il peso a terra sul lato sinistro. Continua ad alternare i lati per il numero di ripetizioni desiderato.",
+    "tr": "Dizleriniz bükülü ve ayaklarınız yerden yukarıda olacak şekilde, bacaklarınızı bir arada tutarak yere oturun. Ağırlığı iki elinizle göğsünüzün önünde tutun, dirseklerinizi hafifçe bükün. Çekirdek kaslarınızı çalıştırmak için hafifçe geriye yaslanın. Ağırlığı sağ tarafınızdaki yere doğru getirerek gövdenizi sağa doğru çevirin. Bir an duraklayın, ardından ağırlığınızı sol tarafınızdaki yere doğru getirerek gövdenizi sola doğru çevirin. İstenilen tekrar sayısı için alternatif taraflara devam edin.",
+    "es": "Siéntate en el suelo con las rodillas flexionadas y los pies levantados del suelo, manteniendo las piernas juntas. Sostén el peso con ambas manos frente al pecho, manteniendo los codos ligeramente flexionados. Inclínate ligeramente hacia atrás para activar los músculos del core. Gira el torso hacia la derecha, llevando el peso hacia el suelo a tu lado derecho. Haz una pausa de un momento, luego gira el torso hacia la izquierda, llevando el peso hacia el suelo a tu lado izquierdo. Continúa alternando lados durante el número de repeticiones deseado.",
+    "ru": "Сядьте на землю, согните колени и оторвите ступни от земли, держа ноги вместе. Держите вес обеими руками перед грудью, слегка согнув локти. Слегка откиньтесь назад, чтобы задействовать мышцы корпуса. Поверните туловище вправо, перенося вес тела на землю с правой стороны. Сделайте паузу на мгновение, затем поверните туловище влево, перенося вес тела на землю с левой стороны. Продолжайте чередовать стороны желаемое количество повторений.",
+    "zh": "坐在地上，膝盖弯曲，双脚离开地面，保持双腿并拢。 用双手将重物放在胸前，保持肘部稍微弯曲。 稍微向后倾斜以锻炼核心肌肉。 将躯干向右扭转，将重量移向右侧地面。 暂停片刻，然后将躯干向左扭转，将重量转移到左侧地面。 继续交替进行所需的重复次数。",
+    "hi": "अपने घुटनों को मोड़कर और पैरों को जमीन से ऊपर उठाकर जमीन पर बैठें, अपने पैरों को एक साथ रखें। अपनी कोहनियों को थोड़ा मोड़कर, दोनों हाथों से वजन को अपनी छाती के सामने रखें। अपनी मुख्य मांसपेशियों को जोड़ने के लिए थोड़ा पीछे झुकें। अपने धड़ को दाहिनी ओर मोड़ें, वजन को अपनी दाहिनी ओर जमीन की ओर लाएं। एक पल के लिए रुकें, फिर अपने धड़ को बाईं ओर मोड़ें, जिससे वजन आपकी बाईं ओर जमीन की ओर आए। दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।",
+    "pl": "Usiądź na podłodze z ugiętymi kolanami i stopami uniesionymi nad podłogę, trzymając nogi razem. Trzymaj obciążenie obiema rękami przed klatką piersiową, z lekko ugiętymi łokciami. Odchyl się lekko do tyłu, aby napiąć mięśnie brzucha. Skręć tułów w prawą stronę, przybliżając obciążenie w stronę podłogi po prawej stronie. Zatrzymaj się na chwilę, a następnie skręć tułów w lewą stronę, przybliżając obciążenie w stronę podłogi po lewej stronie. Kontynuuj naprzemienne strony przez żądaną liczbę powtórzeń.",
+    "ko": "무릎을 구부리고 발을 바닥에서 들어올린 채 앉아 다리를 붙인 상태를 유지합니다. 양손으로 무게를 들고 가슴 앞에서 팔꿈치를 약간 구부린 상태로 잡습니다. 코어 근육을 작동시키기 위해 약간 뒤로 몸을 기댑니다. 몸통을 오른쪽으로 비틀어 무게를 오른쪽 바닥 쪽으로 가져옵니다. 잠시 멈춘 후 몸통을 왼쪽으로 비틀어 무게를 왼쪽 바닥 쪽으로 가져옵니다. 원하는 횟수 동안 양쪽을 번갈아 가며 계속합니다.",
+    "fr": "Assieds-toi au sol, les genoux fléchis et les pieds décollés du sol, en gardant les jambes serrées. Tiens le poids des deux mains devant ta poitrine, en gardant tes coudes légèrement fléchis. Penche-toi légèrement en arrière pour gainer ta sangle abdominale. Fais pivoter ton torse vers la droite, en amenant le poids vers le sol sur ton côté droit. Marque une pause, puis fais pivoter ton torse vers la gauche, en amenant le poids vers le sol du côté gauche. Continue à alterner les côtés pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on the ground with your knees bent and feet lifted off the ground, keeping your legs together.",
+      "Hold the weight with both hands in front of your chest, keeping your elbows slightly bent.",
+      "Lean back slightly to engage your core muscles.",
+      "Twist your torso to the right, bringing the weight towards the ground on your right side.",
+      "Pause for a moment, then twist your torso to the left, bringing the weight towards the ground on your left side.",
+      "Continue alternating sides for the desired number of repetitions."
+    ],
+    "it": [
+      "Sedersi a terra con le ginocchia piegate e i piedi sollevati da terra, tenendo le gambe unite.",
+      "Tieni il peso con entrambe le mani davanti al petto, mantenendo i gomiti leggermente piegati.",
+      "Rilassati leggermente all'indietro per coinvolgere i muscoli centrali.",
+      "Ruota il busto verso destra, portando il peso a terra sul lato destro.",
+      "Fai una pausa per un momento, quindi ruota il busto verso sinistra, portando il peso a terra sul lato sinistro.",
+      "Continua ad alternare i lati per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Dizleriniz bükülü ve ayaklarınız yerden yukarıda olacak şekilde, bacaklarınızı bir arada tutarak yere oturun.",
+      "Ağırlığı iki elinizle göğsünüzün önünde tutun, dirseklerinizi hafifçe bükün.",
+      "Çekirdek kaslarınızı çalıştırmak için hafifçe geriye yaslanın.",
+      "Ağırlığı sağ tarafınızdaki yere doğru getirerek gövdenizi sağa doğru çevirin.",
+      "Bir an duraklayın, ardından ağırlığınızı sol tarafınızdaki yere doğru getirerek gövdenizi sola doğru çevirin.",
+      "İstenilen tekrar sayısı için alternatif taraflara devam edin."
+    ],
+    "es": [
+      "Siéntate en el suelo con las rodillas flexionadas y los pies levantados del suelo, manteniendo las piernas juntas.",
+      "Sostén el peso con ambas manos frente al pecho, manteniendo los codos ligeramente flexionados.",
+      "Inclínate ligeramente hacia atrás para activar los músculos del core.",
+      "Gira el torso hacia la derecha, llevando el peso hacia el suelo a tu lado derecho.",
+      "Haz una pausa de un momento, luego gira el torso hacia la izquierda, llevando el peso hacia el suelo a tu lado izquierdo.",
+      "Continúa alternando lados durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на землю, согните колени и оторвите ступни от земли, держа ноги вместе.",
+      "Держите вес обеими руками перед грудью, слегка согнув локти.",
+      "Слегка откиньтесь назад, чтобы задействовать мышцы корпуса.",
+      "Поверните туловище вправо, перенося вес тела на землю с правой стороны.",
+      "Сделайте паузу на мгновение, затем поверните туловище влево, перенося вес тела на землю с левой стороны.",
+      "Продолжайте чередовать стороны желаемое количество повторений."
+    ],
+    "zh": [
+      "坐在地上，膝盖弯曲，双脚离开地面，保持双腿并拢。",
+      "用双手将重物放在胸前，保持肘部稍微弯曲。",
+      "稍微向后倾斜以锻炼核心肌肉。",
+      "将躯干向右扭转，将重量移向右侧地面。",
+      "暂停片刻，然后将躯干向左扭转，将重量转移到左侧地面。",
+      "继续交替进行所需的重复次数。"
+    ],
+    "hi": [
+      "अपने घुटनों को मोड़कर और पैरों को जमीन से ऊपर उठाकर जमीन पर बैठें, अपने पैरों को एक साथ रखें।",
+      "अपनी कोहनियों को थोड़ा मोड़कर, दोनों हाथों से वजन को अपनी छाती के सामने रखें।",
+      "अपनी मुख्य मांसपेशियों को जोड़ने के लिए थोड़ा पीछे झुकें।",
+      "अपने धड़ को दाहिनी ओर मोड़ें, वजन को अपनी दाहिनी ओर जमीन की ओर लाएं।",
+      "एक पल के लिए रुकें, फिर अपने धड़ को बाईं ओर मोड़ें, जिससे वजन आपकी बाईं ओर जमीन की ओर आए।",
+      "दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।"
+    ],
+    "pl": [
+      "Usiądź na podłodze z ugiętymi kolanami i stopami uniesionymi nad podłogę, trzymając nogi razem.",
+      "Trzymaj obciążenie obiema rękami przed klatką piersiową, z lekko ugiętymi łokciami.",
+      "Odchyl się lekko do tyłu, aby napiąć mięśnie brzucha.",
+      "Skręć tułów w prawą stronę, przybliżając obciążenie w stronę podłogi po prawej stronie.",
+      "Zatrzymaj się na chwilę, a następnie skręć tułów w lewą stronę, przybliżając obciążenie w stronę podłogi po lewej stronie.",
+      "Kontynuuj naprzemienne strony przez żądaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "무릎을 구부리고 발을 바닥에서 들어올린 채 앉아 다리를 붙인 상태를 유지합니다.",
+      "양손으로 무게를 들고 가슴 앞에서 팔꿈치를 약간 구부린 상태로 잡습니다.",
+      "코어 근육을 작동시키기 위해 약간 뒤로 몸을 기댑니다.",
+      "몸통을 오른쪽으로 비틀어 무게를 오른쪽 바닥 쪽으로 가져옵니다.",
+      "잠시 멈춘 후 몸통을 왼쪽으로 비틀어 무게를 왼쪽 바닥 쪽으로 가져옵니다.",
+      "원하는 횟수 동안 양쪽을 번갈아 가며 계속합니다."
+    ],
+    "fr": [
+      "Assieds-toi au sol, les genoux fléchis et les pieds décollés du sol, en gardant les jambes serrées.",
+      "Tiens le poids des deux mains devant ta poitrine, en gardant tes coudes légèrement fléchis.",
+      "Penche-toi légèrement en arrière pour gainer ta sangle abdominale.",
+      "Fais pivoter ton torse vers la droite, en amenant le poids vers le sol sur ton côté droit.",
+      "Marque une pause, puis fais pivoter ton torse vers la gauche, en amenant le poids vers le sol du côté gauche.",
+      "Continue à alterner les côtés pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "obliques",
+  "secondary_muscles": [
+    "obliques",
+    "hip flexors"
+  ],
+  "target": "abs",
+  "image": "images/0845-WU9BLIs.jpg",
+  "gif_url": "videos/0845-WU9BLIs.gif",
+  "media_id": "WU9BLIs",
+  "created_at": "2026-03-18T12:31:32.906137+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

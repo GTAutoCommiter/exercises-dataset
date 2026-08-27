@@ -1,0 +1,102 @@
+{
+  "id": "0075",
+  "name": "barbell rear delt raise",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and hold a barbell with an overhand grip, palms facing down. Bend your knees slightly and hinge forward at the hips, keeping your back straight. Raise the barbell out to the sides, keeping your arms straight, until they are parallel to the ground. Pause for a moment at the top, then slowly lower the barbell back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stare con i piedi alla larghezza delle spalle e tenere un bilanciere con una presa prona, i palmi rivolti verso il basso. Piega leggermente le ginocchia e fai perno in avanti sui fianchi, mantenendo la schiena dritta. Sollevare il bilanciere lateralmente, mantenendo le braccia tese, finché non saranno parallele al suolo. Fermati per un momento in alto, quindi abbassa lentamente il bilanciere nella posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınızı omuz genişliğinde açın ve halteri avuç içleriniz aşağıya bakacak şekilde üstten kavrayarak tutun. Dizlerinizi hafifçe bükün ve sırtınızı düz tutarak kalçalarınızdan öne doğru eğilin. Halteri yanlara doğru kaldırın, kollarınızı yere paralel olana kadar düz tutun. Tepe noktasında bir süre duraklayın, ardından halteri yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y sujeta una barra con un agarre pronado, con las palmas hacia abajo. Flexiona ligeramente las rodillas e inclínate hacia adelante desde las caderas, manteniendo la espalda recta. Levanta la barra hacia los lados, manteniendo los brazos rectos, hasta que queden paralelos al suelo. Haz una pausa breve en la parte alta y luego baja lentamente la barra de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, возьмите штангу хватом сверху ладонями вниз. Слегка согните колени и наклонитесь вперед в бедрах, сохраняя спину прямой. Поднимите штангу в стороны, держа руки прямыми, пока они не станут параллельны земле. Задержитесь на мгновение в верхней точке, затем медленно опустите штангу обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，正手握住杠铃，手掌朝下。 稍微弯曲膝盖，髋部向前转动，保持背部挺直。 将杠铃向两侧举起，保持手臂伸直，直到它们与地面平行。 在顶部停顿片刻，然后慢慢将杠铃放回起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और हथेलियां नीचे की ओर रखते हुए बारबेल को ओवरहैंड ग्रिप से पकड़ें। अपने घुटनों को थोड़ा मोड़ें और अपनी पीठ को सीधा रखते हुए कूल्हों पर आगे की ओर झुकें। अपनी भुजाओं को सीधा रखते हुए बारबेल को बगल की ओर उठाएं, जब तक कि वे जमीन के समानांतर न हो जाएं। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे बारबेल को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań w rozkroku na szerokość barków i chwyć sztangę chwytem nachwytem, dłonie skierowane w dół. Ugnij lekko kolana i pochyl się do przodu w biodrach, utrzymując proste plecy. Unieś sztangę na boki, utrzymując ręce proste, aż będą równoległe do podłoża. Zatrzymaj się na chwilę na górze, a następnie powoli opuść sztangę z powrotem do pozycji wyjściowej. Powtórz odpowiednią liczbę razy.",
+    "ko": "어깨너비로 발을 벌리고 오버그립(손바닥이 아래)으로 바벨을 잡습니다. 무릎을 약간 구부리고 엉덩이에서 구부려 앞으로 숙인 후 등을 곧게 펴고 유지합니다. 팔을 곧게 펴면서 바벨을 옆으로 들어올려 지면과 평행할 때까지 올립니다. 위에서 잠깐 멈춘 후 바벨을 천천히 시작 위치로 내립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens une barre en prise pronation, paumes tournées vers le bas. Fléchis légèrement les genoux et bascule vers l'avant au niveau des hanches en gardant le dos droit. Lève la barre sur les côtés en gardant tes bras tendus, jusqu'à ce qu'ils soient parallèles au sol. Marque une pause en haut, puis abaisse lentement la barre pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and hold a barbell with an overhand grip, palms facing down.",
+      "Bend your knees slightly and hinge forward at the hips, keeping your back straight.",
+      "Raise the barbell out to the sides, keeping your arms straight, until they are parallel to the ground.",
+      "Pause for a moment at the top, then slowly lower the barbell back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stare con i piedi alla larghezza delle spalle e tenere un bilanciere con una presa prona, i palmi rivolti verso il basso.",
+      "Piega leggermente le ginocchia e fai perno in avanti sui fianchi, mantenendo la schiena dritta.",
+      "Sollevare il bilanciere lateralmente, mantenendo le braccia tese, finché non saranno parallele al suolo.",
+      "Fermati per un momento in alto, quindi abbassa lentamente il bilanciere nella posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınızı omuz genişliğinde açın ve halteri avuç içleriniz aşağıya bakacak şekilde üstten kavrayarak tutun.",
+      "Dizlerinizi hafifçe bükün ve sırtınızı düz tutarak kalçalarınızdan öne doğru eğilin.",
+      "Halteri yanlara doğru kaldırın, kollarınızı yere paralel olana kadar düz tutun.",
+      "Tepe noktasında bir süre duraklayın, ardından halteri yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y sujeta una barra con un agarre pronado, con las palmas hacia abajo.",
+      "Flexiona ligeramente las rodillas e inclínate hacia adelante desde las caderas, manteniendo la espalda recta.",
+      "Levanta la barra hacia los lados, manteniendo los brazos rectos, hasta que queden paralelos al suelo.",
+      "Haz una pausa breve en la parte alta y luego baja lentamente la barra de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, возьмите штангу хватом сверху ладонями вниз.",
+      "Слегка согните колени и наклонитесь вперед в бедрах, сохраняя спину прямой.",
+      "Поднимите штангу в стороны, держа руки прямыми, пока они не станут параллельны земле.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите штангу обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，正手握住杠铃，手掌朝下。",
+      "稍微弯曲膝盖，髋部向前转动，保持背部挺直。",
+      "将杠铃向两侧举起，保持手臂伸直，直到它们与地面平行。",
+      "在顶部停顿片刻，然后慢慢将杠铃放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और हथेलियां नीचे की ओर रखते हुए बारबेल को ओवरहैंड ग्रिप से पकड़ें।",
+      "अपने घुटनों को थोड़ा मोड़ें और अपनी पीठ को सीधा रखते हुए कूल्हों पर आगे की ओर झुकें।",
+      "अपनी भुजाओं को सीधा रखते हुए बारबेल को बगल की ओर उठाएं, जब तक कि वे जमीन के समानांतर न हो जाएं।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे बारबेल को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków i chwyć sztangę chwytem nachwytem, dłonie skierowane w dół.",
+      "Ugnij lekko kolana i pochyl się do przodu w biodrach, utrzymując proste plecy.",
+      "Unieś sztangę na boki, utrzymując ręce proste, aż będą równoległe do podłoża.",
+      "Zatrzymaj się na chwilę na górze, a następnie powoli opuść sztangę z powrotem do pozycji wyjściowej.",
+      "Powtórz odpowiednią liczbę razy."
+    ],
+    "ko": [
+      "어깨너비로 발을 벌리고 오버그립(손바닥이 아래)으로 바벨을 잡습니다.",
+      "무릎을 약간 구부리고 엉덩이에서 구부려 앞으로 숙인 후 등을 곧게 펴고 유지합니다.",
+      "팔을 곧게 펴면서 바벨을 옆으로 들어올려 지면과 평행할 때까지 올립니다.",
+      "위에서 잠깐 멈춘 후 바벨을 천천히 시작 위치로 내립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens une barre en prise pronation, paumes tournées vers le bas.",
+      "Fléchis légèrement les genoux et bascule vers l'avant au niveau des hanches en gardant le dos droit.",
+      "Lève la barre sur les côtés en gardant tes bras tendus, jusqu'à ce qu'ils soient parallèles au sol.",
+      "Marque une pause en haut, puis abaisse lentement la barre pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "traps",
+  "secondary_muscles": [
+    "traps",
+    "rhomboids"
+  ],
+  "target": "delts",
+  "image": "images/0075-Ln9iTbU.jpg",
+  "gif_url": "videos/0075-Ln9iTbU.gif",
+  "media_id": "Ln9iTbU",
+  "created_at": "2026-03-18T12:31:32.872329+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

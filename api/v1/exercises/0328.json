@@ -1,0 +1,112 @@
+{
+  "id": "0328",
+  "name": "dumbbell incline shoulder raise",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Set an incline bench to a 45-degree angle and sit on it with a dumbbell in each hand, palms facing down. Rest the dumbbells on your thighs and lean back onto the bench. Use your thighs to help raise the dumbbells to shoulder height, then rotate your wrists so that your palms are facing forward. Exhale and slowly raise the dumbbells above your head, keeping a slight bend in your elbows. Pause for a moment at the top, then inhale and slowly lower the dumbbells back to shoulder height. Repeat for the desired number of repetitions.",
+    "it": "Imposta una panca inclinata a 45 gradi e siediti sopra con un manubrio in ciascuna mano, i palmi rivolti verso il basso. Appoggia i manubri sulle cosce e appoggiati allo schienale della panca. Usa le cosce per aiutare a sollevare i manubri all'altezza delle spalle, poi ruota i polsi in modo che i palmi siano rivolti in avanti. Espira e solleva lentamente i manubri sopra la testa, mantenendo una leggera piega dei gomiti. Fermati un attimo in cima, poi inspira e abbassa lentamente i manubri all'altezza delle spalle. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Eğimli bir bench’i 45 derecelik bir açıya ayarlayın ve her iki elinizde birer dambıl olacak şekilde, avuçlarınız aşağıya bakacak şekilde üzerine oturun. Dambılları uyluklarınızın üzerine koyun ve bench’e yaslanın. Dambılları omuz yüksekliğine kaldırmak için uyluklarınızı kullanın, ardından bileklerinizi avuçlarınız öne bakacak şekilde döndürün. Nefes verin ve dambılları yavaşça başınızın üzerine kaldırın, dirseklerinizi hafifçe bükün. Tepe noktasında bir an duraklayın, ardından nefes alın ve dambılları yavaşça omuz yüksekliğine indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta un banco inclinado a un ángulo de 45 grados y siéntate en él con una mancuerna en cada mano, con las palmas hacia abajo. Apoya las mancuernas sobre los muslos y recuéstate en el banco. Usa los muslos para ayudar a levantar las mancuernas hasta la altura de los hombros, luego gira las muñecas de modo que las palmas queden mirando hacia adelante. Exhala y levanta lentamente las mancuernas por encima de la cabeza, manteniendo una ligera flexión en los codos. Haz una pausa por un momento en la parte superior, luego inhala y baja lentamente las mancuernas de vuelta a la altura de los hombros. Repite el número de repeticiones deseado.",
+    "ru": "Установите наклонную скамью под углом 45 градусов и сядьте на нее, взяв в каждую руку по гантели ладонями вниз. Положите гантели на бедра и откиньтесь на скамью. Используйте бедра, чтобы поднять гантели на высоту плеч, затем поверните запястья так, чтобы ладони были направлены вперед. Выдохните и медленно поднимите гантели над головой, сохраняя небольшой изгиб в локтях. Задержитесь на мгновение в верхней точке, затем вдохните и медленно опустите гантели обратно на высоту плеч. Повторите необходимое количество повторений.",
+    "zh": "将上斜凳摆成 45 度角，坐在上面，双手各握一个哑铃，掌心朝下。 将哑铃放在大腿上，然后靠在长凳上。 用大腿帮助将哑铃举至肩膀高度，然后旋转手腕，使手掌朝前。 呼气，慢慢将哑铃举过头顶，保持肘部轻微弯曲。 在顶部停顿片刻，然后吸气，慢慢将哑铃放回肩部高度。 重复所需的重复次数。",
+    "hi": "एक झुकी हुई बेंच को 45 डिग्री के कोण पर सेट करें और दोनों हाथों में डम्बल लेकर, हथेलियाँ नीचे की ओर करके उस पर बैठें। डम्बल को अपनी जाँघों पर टिकाएँ और वापस बेंच पर झुक जाएँ। डम्बल को कंधे की ऊंचाई तक उठाने में मदद करने के लिए अपनी जांघों का उपयोग करें, फिर अपनी कलाइयों को घुमाएं ताकि आपकी हथेलियां आगे की ओर हों। सांस छोड़ें और अपनी कोहनियों को हल्का सा मोड़ते हुए धीरे-धीरे डम्बल को अपने सिर के ऊपर उठाएं। शीर्ष पर एक पल के लिए रुकें, फिर सांस लें और धीरे-धीरे डम्बल को वापस कंधे की ऊंचाई तक ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Ustaw ławkę skośną pod kątem 45 stopni i usiądź na niej, trzymając hantle w obu rękach, dłonie skierowane w dół. Oprzyj hantle na udach i odchyl się na ławce. Wykorzystaj uda do pomocy, aby unieść hantle na wysokość barków, następnie obróć nadgarstki tak, aby dłonie były skierowane do przodu. Wydychaj powietrze i powoli unieś hantle nad głowę, utrzymując lekkie ugięcie w łokciach. Zatrzymaj się na chwilę w górnej pozycji, a następnie wdychaj powietrze i powoli opuść hantle z powrotem na wysokość barków. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "인클라인 벤치를 45도 각도로 설정하고 앉아 양손에 덤벨을 들고 손바닥이 아래를 향하도록 합니다. 덤벨을 허벅지에 얹고 벤치에 기댑니다. 허벅지를 이용해 덤벨을 어깨 높이로 올린 후 손목을 회전시켜 손바닥이 앞을 향하도록 합니다. 숨을 내쉬면서 덤벨을 머리 위로 천천히 들어올려 팔꿈치에 약간의 굴곡을 유지합니다. 최상단에서 잠시 멈춘 후 숨을 마시면서 천천히 덤벨을 어깨 높이로 내립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Règle un banc incliné à un angle de 45 degrés et assieds-toi dessus avec un haltère dans chaque main, paumes tournées vers le bas. Pose les haltères sur tes cuisses et penche-toi en arrière sur le banc. Utilise tes cuisses pour aider à monter les haltères à hauteur des épaules, puis fais pivoter tes poignets de sorte que tes paumes soient tournées vers l'avant. Expire et lève lentement les haltères au-dessus de ta tête, en gardant une légère flexion dans tes coudes. Marque une pause en haut, puis inspire et abaisse lentement les haltères à hauteur des épaules. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Set an incline bench to a 45-degree angle and sit on it with a dumbbell in each hand, palms facing down.",
+      "Rest the dumbbells on your thighs and lean back onto the bench.",
+      "Use your thighs to help raise the dumbbells to shoulder height, then rotate your wrists so that your palms are facing forward.",
+      "Exhale and slowly raise the dumbbells above your head, keeping a slight bend in your elbows.",
+      "Pause for a moment at the top, then inhale and slowly lower the dumbbells back to shoulder height.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Imposta una panca inclinata a 45 gradi e siediti sopra con un manubrio in ciascuna mano, i palmi rivolti verso il basso.",
+      "Appoggia i manubri sulle cosce e appoggiati allo schienale della panca.",
+      "Usa le cosce per aiutare a sollevare i manubri all'altezza delle spalle, poi ruota i polsi in modo che i palmi siano rivolti in avanti.",
+      "Espira e solleva lentamente i manubri sopra la testa, mantenendo una leggera piega dei gomiti.",
+      "Fermati un attimo in cima, poi inspira e abbassa lentamente i manubri all'altezza delle spalle.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Eğimli bir bench’i 45 derecelik bir açıya ayarlayın ve her iki elinizde birer dambıl olacak şekilde, avuçlarınız aşağıya bakacak şekilde üzerine oturun.",
+      "Dambılları uyluklarınızın üzerine koyun ve bench’e yaslanın.",
+      "Dambılları omuz yüksekliğine kaldırmak için uyluklarınızı kullanın, ardından bileklerinizi avuçlarınız öne bakacak şekilde döndürün.",
+      "Nefes verin ve dambılları yavaşça başınızın üzerine kaldırın, dirseklerinizi hafifçe bükün.",
+      "Tepe noktasında bir an duraklayın, ardından nefes alın ve dambılları yavaşça omuz yüksekliğine indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta un banco inclinado a un ángulo de 45 grados y siéntate en él con una mancuerna en cada mano, con las palmas hacia abajo.",
+      "Apoya las mancuernas sobre los muslos y recuéstate en el banco.",
+      "Usa los muslos para ayudar a levantar las mancuernas hasta la altura de los hombros, luego gira las muñecas de modo que las palmas queden mirando hacia adelante.",
+      "Exhala y levanta lentamente las mancuernas por encima de la cabeza, manteniendo una ligera flexión en los codos.",
+      "Haz una pausa por un momento en la parte superior, luego inhala y baja lentamente las mancuernas de vuelta a la altura de los hombros.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Установите наклонную скамью под углом 45 градусов и сядьте на нее, взяв в каждую руку по гантели ладонями вниз.",
+      "Положите гантели на бедра и откиньтесь на скамью.",
+      "Используйте бедра, чтобы поднять гантели на высоту плеч, затем поверните запястья так, чтобы ладони были направлены вперед.",
+      "Выдохните и медленно поднимите гантели над головой, сохраняя небольшой изгиб в локтях.",
+      "Задержитесь на мгновение в верхней точке, затем вдохните и медленно опустите гантели обратно на высоту плеч.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将上斜凳摆成 45 度角，坐在上面，双手各握一个哑铃，掌心朝下。",
+      "将哑铃放在大腿上，然后靠在长凳上。",
+      "用大腿帮助将哑铃举至肩膀高度，然后旋转手腕，使手掌朝前。",
+      "呼气，慢慢将哑铃举过头顶，保持肘部轻微弯曲。",
+      "在顶部停顿片刻，然后吸气，慢慢将哑铃放回肩部高度。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "एक झुकी हुई बेंच को 45 डिग्री के कोण पर सेट करें और दोनों हाथों में डम्बल लेकर, हथेलियाँ नीचे की ओर करके उस पर बैठें।",
+      "डम्बल को अपनी जाँघों पर टिकाएँ और वापस बेंच पर झुक जाएँ।",
+      "डम्बल को कंधे की ऊंचाई तक उठाने में मदद करने के लिए अपनी जांघों का उपयोग करें, फिर अपनी कलाइयों को घुमाएं ताकि आपकी हथेलियां आगे की ओर हों।",
+      "सांस छोड़ें और अपनी कोहनियों को हल्का सा मोड़ते हुए धीरे-धीरे डम्बल को अपने सिर के ऊपर उठाएं।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर सांस लें और धीरे-धीरे डम्बल को वापस कंधे की ऊंचाई तक ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Ustaw ławkę skośną pod kątem 45 stopni i usiądź na niej, trzymając hantle w obu rękach, dłonie skierowane w dół.",
+      "Oprzyj hantle na udach i odchyl się na ławce.",
+      "Wykorzystaj uda do pomocy, aby unieść hantle na wysokość barków, następnie obróć nadgarstki tak, aby dłonie były skierowane do przodu.",
+      "Wydychaj powietrze i powoli unieś hantle nad głowę, utrzymując lekkie ugięcie w łokciach.",
+      "Zatrzymaj się na chwilę w górnej pozycji, a następnie wdychaj powietrze i powoli opuść hantle z powrotem na wysokość barków.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "인클라인 벤치를 45도 각도로 설정하고 앉아 양손에 덤벨을 들고 손바닥이 아래를 향하도록 합니다.",
+      "덤벨을 허벅지에 얹고 벤치에 기댑니다.",
+      "허벅지를 이용해 덤벨을 어깨 높이로 올린 후 손목을 회전시켜 손바닥이 앞을 향하도록 합니다.",
+      "숨을 내쉬면서 덤벨을 머리 위로 천천히 들어올려 팔꿈치에 약간의 굴곡을 유지합니다.",
+      "최상단에서 잠시 멈춘 후 숨을 마시면서 천천히 덤벨을 어깨 높이로 내립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Règle un banc incliné à un angle de 45 degrés et assieds-toi dessus avec un haltère dans chaque main, paumes tournées vers le bas.",
+      "Pose les haltères sur tes cuisses et penche-toi en arrière sur le banc.",
+      "Utilise tes cuisses pour aider à monter les haltères à hauteur des épaules, puis fais pivoter tes poignets de sorte que tes paumes soient tournées vers l'avant.",
+      "Expire et lève lentement les haltères au-dessus de ta tête, en gardant une légère flexion dans tes coudes.",
+      "Marque une pause en haut, puis inspire et abaisse lentement les haltères à hauteur des épaules.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "deltoids",
+  "secondary_muscles": [
+    "deltoids",
+    "trapezius"
+  ],
+  "target": "serratus anterior",
+  "image": "images/0328-6e2DcYX.jpg",
+  "gif_url": "videos/0328-6e2DcYX.gif",
+  "media_id": "6e2DcYX",
+  "created_at": "2026-03-18T12:31:32.878938+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

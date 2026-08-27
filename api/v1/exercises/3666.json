@@ -1,0 +1,113 @@
+{
+  "id": "3666",
+  "name": "walking on incline treadmill",
+  "category": "cardio",
+  "body_part": "cardio",
+  "equipment": "leverage machine",
+  "instructions": {
+    "en": "Adjust the incline level on the treadmill to your desired intensity. Stand on the treadmill with your feet shoulder-width apart. Start walking at a comfortable pace, ensuring that you maintain proper form. Engage your core muscles and keep your back straight throughout the exercise. Continue walking on the incline treadmill for the desired duration of your cardio workout. Gradually decrease the incline and speed of the treadmill to cool down before stopping.",
+    "it": "Regola il livello di inclinazione del tapis roulant all'intensità desiderata. Stare sul tapis roulant con i piedi alla larghezza delle spalle. Inizia a camminare a un ritmo confortevole, assicurandoti di mantenere la forma corretta. Coinvolgi i muscoli centrali e mantieni la schiena dritta durante l'esercizio. Continua a camminare sul tapis roulant inclinato per la durata desiderata del tuo allenamento cardio. Diminuire gradualmente l'inclinazione e la velocità del tapis roulant per raffreddarlo prima di fermarsi.",
+    "tr": "Koşu bandındaki eğim seviyesini istediğiniz yoğunluğa ayarlayın. Ayaklarınız omuz genişliğinde açık olacak şekilde koşu bandının üzerinde durun. Uygun formu koruduğunuzdan emin olarak rahat bir tempoda yürümeye başlayın. Çekirdek kaslarınızı çalıştırın ve egzersiz boyunca sırtınızı düz tutun. Kardiyo egzersizinizin istediğiniz süresi boyunca eğimli koşu bandında yürümeye devam edin. Durmadan önce soğuması için koşu bandının eğimini ve hızını kademeli olarak azaltın.",
+    "es": "Ajusta el nivel de inclinación de la cinta de correr a la intensidad deseada. Ponte de pie sobre la cinta de correr con los pies separados a la altura de los hombros. Comienza a caminar a un ritmo cómodo, asegurándote de mantener una forma correcta. Activa los músculos del core y mantén la espalda recta durante todo el ejercicio. Continúa caminando en la cinta inclinada durante la duración deseada de tu entrenamiento cardiovascular. Disminuye gradualmente la inclinación y la velocidad de la cinta para enfriar antes de detenerte.",
+    "ru": "Отрегулируйте уровень наклона беговой дорожки до желаемой интенсивности. Встаньте на беговую дорожку, поставив ноги на ширине плеч. Начните ходить в удобном темпе, следя за тем, чтобы поддерживать правильную форму. Задействуйте мышцы корпуса и держите спину прямо на протяжении всего упражнения. Продолжайте ходить по наклонной беговой дорожке в течение желаемой продолжительности кардиотренировки. Постепенно уменьшайте наклон и скорость беговой дорожки, чтобы она остыла перед остановкой.",
+    "zh": "将跑步机的倾斜度调整到您想要的强度。 站在跑步机上，双脚分开与肩同宽。 开始以舒适的步伐行走，确保保持正确的姿势。 在整个练习过程中，调动核心肌肉并保持背部挺直。 继续在倾斜跑步机上行走，完成有氧运动所需的时间。 逐渐降低跑步机的坡度和速度，使其冷却后再停止。",
+    "hi": "ट्रेडमिल पर झुकाव स्तर को अपनी वांछित तीव्रता के अनुसार समायोजित करें। अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए ट्रेडमिल पर खड़े हो जाएं। आरामदायक गति से चलना शुरू करें, यह सुनिश्चित करते हुए कि आप उचित फॉर्म बनाए रखें। अपनी मुख्य मांसपेशियों को शामिल करें और पूरे अभ्यास के दौरान अपनी पीठ सीधी रखें। अपने कार्डियो वर्कआउट की वांछित अवधि के लिए इनक्लाइन ट्रेडमिल पर चलना जारी रखें। रुकने से पहले ठंडा होने के लिए ट्रेडमिल का झुकाव और गति धीरे-धीरे कम करें।",
+    "pl": "Wyreguluj poziom nachylenia bieżni na żądaną intensywność. Stań na bieżni ze stopami rozstawionymi na szerokość barków. Zacznij iść w komfortowym tempie, dbając o zachowanie prawidłowej techniki. Napnij mięśnie brzucha i trzymaj plecy proste przez cały czas trwania ćwiczenia. Kontynuuj chodzenie po bieżni z nachyleniem przez żądany czas trwania treningu kardio. Stopniowo zmniejszaj nachylenie i prędkość bieżni, aby się schłodzić przed zatrzymaniem.",
+    "ko": "트레드밀의 경사도를 원하는 강도로 조정합니다. 발을 어깨 너비로 벌리고 트레드밀 위에 서십시오. 편안한 속도로 걷기를 시작하여 올바른 자세를 유지합니다. 운동 내내 코어 근육에 힘을 주고 등을 곧게 유지합니다. 원하는 유산소 운동 시간 동안 인클라인 트레드밀 위에서 계속 걷습니다. 운동을 멈추기 전에 경사도와 속도를 점차 낮추어 정리 운동을 합니다.",
+    "fr": "Règle le niveau d'inclinaison du tapis de course selon l'intensité souhaitée. Tiens-toi sur le tapis de course, les pieds écartés à la largeur des épaules. Commence à marcher à un rythme confortable, en veillant à conserver une bonne posture. Gaine tes muscles abdominaux et garde le dos droit tout au long de l'exercice. Continue à marcher sur le tapis incliné pendant la durée souhaitée de ton entraînement cardio. Diminue progressivement l'inclinaison et la vitesse du tapis de course pour récupérer avant de t'arrêter."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the incline level on the treadmill to your desired intensity.",
+      "Stand on the treadmill with your feet shoulder-width apart.",
+      "Start walking at a comfortable pace, ensuring that you maintain proper form.",
+      "Engage your core muscles and keep your back straight throughout the exercise.",
+      "Continue walking on the incline treadmill for the desired duration of your cardio workout.",
+      "Gradually decrease the incline and speed of the treadmill to cool down before stopping."
+    ],
+    "it": [
+      "Regola il livello di inclinazione del tapis roulant all'intensità desiderata.",
+      "Stare sul tapis roulant con i piedi alla larghezza delle spalle.",
+      "Inizia a camminare a un ritmo confortevole, assicurandoti di mantenere la forma corretta.",
+      "Coinvolgi i muscoli centrali e mantieni la schiena dritta durante l'esercizio.",
+      "Continua a camminare sul tapis roulant inclinato per la durata desiderata del tuo allenamento cardio.",
+      "Diminuire gradualmente l'inclinazione e la velocità del tapis roulant per raffreddarlo prima di fermarsi."
+    ],
+    "tr": [
+      "Koşu bandındaki eğim seviyesini istediğiniz yoğunluğa ayarlayın.",
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde koşu bandının üzerinde durun.",
+      "Uygun formu koruduğunuzdan emin olarak rahat bir tempoda yürümeye başlayın.",
+      "Çekirdek kaslarınızı çalıştırın ve egzersiz boyunca sırtınızı düz tutun.",
+      "Kardiyo egzersizinizin istediğiniz süresi boyunca eğimli koşu bandında yürümeye devam edin.",
+      "Durmadan önce soğuması için koşu bandının eğimini ve hızını kademeli olarak azaltın."
+    ],
+    "es": [
+      "Ajusta el nivel de inclinación de la cinta de correr a la intensidad deseada.",
+      "Ponte de pie sobre la cinta de correr con los pies separados a la altura de los hombros.",
+      "Comienza a caminar a un ritmo cómodo, asegurándote de mantener una forma correcta.",
+      "Activa los músculos del core y mantén la espalda recta durante todo el ejercicio.",
+      "Continúa caminando en la cinta inclinada durante la duración deseada de tu entrenamiento cardiovascular.",
+      "Disminuye gradualmente la inclinación y la velocidad de la cinta para enfriar antes de detenerte."
+    ],
+    "ru": [
+      "Отрегулируйте уровень наклона беговой дорожки до желаемой интенсивности.",
+      "Встаньте на беговую дорожку, поставив ноги на ширине плеч.",
+      "Начните ходить в удобном темпе, следя за тем, чтобы поддерживать правильную форму.",
+      "Задействуйте мышцы корпуса и держите спину прямо на протяжении всего упражнения.",
+      "Продолжайте ходить по наклонной беговой дорожке в течение желаемой продолжительности кардиотренировки.",
+      "Постепенно уменьшайте наклон и скорость беговой дорожки, чтобы она остыла перед остановкой."
+    ],
+    "zh": [
+      "将跑步机的倾斜度调整到您想要的强度。",
+      "站在跑步机上，双脚分开与肩同宽。",
+      "开始以舒适的步伐行走，确保保持正确的姿势。",
+      "在整个练习过程中，调动核心肌肉并保持背部挺直。",
+      "继续在倾斜跑步机上行走，完成有氧运动所需的时间。",
+      "逐渐降低跑步机的坡度和速度，使其冷却后再停止。"
+    ],
+    "hi": [
+      "ट्रेडमिल पर झुकाव स्तर को अपनी वांछित तीव्रता के अनुसार समायोजित करें।",
+      "अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए ट्रेडमिल पर खड़े हो जाएं।",
+      "आरामदायक गति से चलना शुरू करें, यह सुनिश्चित करते हुए कि आप उचित फॉर्म बनाए रखें।",
+      "अपनी मुख्य मांसपेशियों को शामिल करें और पूरे अभ्यास के दौरान अपनी पीठ सीधी रखें।",
+      "अपने कार्डियो वर्कआउट की वांछित अवधि के लिए इनक्लाइन ट्रेडमिल पर चलना जारी रखें।",
+      "रुकने से पहले ठंडा होने के लिए ट्रेडमिल का झुकाव और गति धीरे-धीरे कम करें।"
+    ],
+    "pl": [
+      "Wyreguluj poziom nachylenia bieżni na żądaną intensywność.",
+      "Stań na bieżni ze stopami rozstawionymi na szerokość barków.",
+      "Zacznij iść w komfortowym tempie, dbając o zachowanie prawidłowej techniki.",
+      "Napnij mięśnie brzucha i trzymaj plecy proste przez cały czas trwania ćwiczenia.",
+      "Kontynuuj chodzenie po bieżni z nachyleniem przez żądany czas trwania treningu kardio.",
+      "Stopniowo zmniejszaj nachylenie i prędkość bieżni, aby się schłodzić przed zatrzymaniem."
+    ],
+    "ko": [
+      "트레드밀의 경사도를 원하는 강도로 조정합니다.",
+      "발을 어깨 너비로 벌리고 트레드밀 위에 서십시오.",
+      "편안한 속도로 걷기를 시작하여 올바른 자세를 유지합니다.",
+      "운동 내내 코어 근육에 힘을 주고 등을 곧게 유지합니다.",
+      "원하는 유산소 운동 시간 동안 인클라인 트레드밀 위에서 계속 걷습니다.",
+      "운동을 멈추기 전에 경사도와 속도를 점차 낮추어 정리 운동을 합니다."
+    ],
+    "fr": [
+      "Règle le niveau d'inclinaison du tapis de course selon l'intensité souhaitée.",
+      "Tiens-toi sur le tapis de course, les pieds écartés à la largeur des épaules.",
+      "Commence à marcher à un rythme confortable, en veillant à conserver une bonne posture.",
+      "Gaine tes muscles abdominaux et garde le dos droit tout au long de l'exercice.",
+      "Continue à marcher sur le tapis incliné pendant la durée souhaitée de ton entraînement cardio.",
+      "Diminue progressivement l'inclinaison et la vitesse du tapis de course pour récupérer avant de t'arrêter."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "cardiovascular system",
+  "image": "images/3666-rjiM4L3.jpg",
+  "gif_url": "videos/3666-rjiM4L3.gif",
+  "media_id": "rjiM4L3",
+  "created_at": "2026-03-18T12:31:32.905681+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

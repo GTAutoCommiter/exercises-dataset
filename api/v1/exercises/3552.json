@@ -1,0 +1,92 @@
+{
+  "id": "3552",
+  "name": "quick feet v. 2",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and your arms by your sides. Begin by rapidly moving your feet up and down, as if you were running in place. Keep your movements quick and light, focusing on staying on the balls of your feet. Continue for the desired duration or number of repetitions.",
+    "it": "Stai con i piedi alla larghezza delle spalle e le braccia lungo i fianchi. Inizia muovendo rapidamente i piedi su e giù, come se stessi correndo sul posto. Mantieni i movimenti rapidi e leggeri, concentrandoti sul rimanere sulle punte dei piedi. Continuare per la durata o il numero di ripetizioni desiderati.",
+    "tr": "Ayaklarınız omuz genişliğinde açık ve kollarınız yanlarınızda olacak şekilde ayakta durun. Sanki yerinde koşuyormuş gibi ayaklarınızı hızla yukarı ve aşağı hareket ettirerek başlayın. Ayak parmaklarınızın üzerinde durmaya odaklanarak hareketlerinizi hızlı ve hafif tutun. İstenilen süre veya tekrar sayısı kadar devam edin.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y los brazos a los costados. Comienza moviendo los pies rápidamente hacia arriba y hacia abajo, como si estuvieras corriendo en el sitio. Mantén los movimientos rápidos y ligeros, concentrándote en quedarte sobre la punta de los pies. Continúa durante el tiempo o el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, руки по бокам. Начните с быстрого перемещения ногами вверх и вниз, как будто вы бежите на месте. Делайте движения быстрыми и легкими, стараясь оставаться на подушечках стоп. Продолжайте желаемую продолжительность или количество повторений.",
+    "zh": "双脚分开与肩同宽站立，双臂放在身体两侧。 首先快速上下移动双脚，就像原地跑步一样。 保持动作快速而轻盈，重点放在脚掌上。 继续所需的持续时间或重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर और अपनी बांहों को बगल में रखकर खड़े हो जाएं। अपने पैरों को तेजी से ऊपर-नीचे हिलाने से शुरुआत करें, जैसे कि आप अपनी जगह पर दौड़ रहे हों। अपने पैरों की उंगलियों पर ध्यान केंद्रित करते हुए अपनी गतिविधियों को तेज और हल्का रखें। वांछित अवधि या दोहराव की संख्या तक जारी रखें।",
+    "pl": "Stań w rozkroku na szerokość barków, z rękami wzdłuż tułowia. Zacznij szybko poruszać stopami w górę i w dół, jakbyś biegł w miejscu. Wykonuj ruchy szybko i lekko, koncentrując się na pozostawaniu na palcach stóp. Kontynuuj przez wybrany czas lub liczbę powtórzeń.",
+    "ko": "어깨 너비로 발을 벌리고 팔을 옆에 두고 서세요. 제자리에서 뛰는 듯이 발을 빠르게 위아래로 움직이기 시작합니다. 발가락 끝에 서 있으면서 움직임을 빠르고 가볍게 유지합니다. 원하는 시간이나 반복 횟수까지 계속합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et les bras le long du corps. Commence par bouger rapidement tes pieds de haut en bas, comme si tu courais sur place. Garde des mouvements rapides et légers, en te concentrant sur le fait de rester sur la plante des pieds. Continue pendant la durée ou le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and your arms by your sides.",
+      "Begin by rapidly moving your feet up and down, as if you were running in place.",
+      "Keep your movements quick and light, focusing on staying on the balls of your feet.",
+      "Continue for the desired duration or number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle e le braccia lungo i fianchi.",
+      "Inizia muovendo rapidamente i piedi su e giù, come se stessi correndo sul posto.",
+      "Mantieni i movimenti rapidi e leggeri, concentrandoti sul rimanere sulle punte dei piedi.",
+      "Continuare per la durata o il numero di ripetizioni desiderati."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık ve kollarınız yanlarınızda olacak şekilde ayakta durun.",
+      "Sanki yerinde koşuyormuş gibi ayaklarınızı hızla yukarı ve aşağı hareket ettirerek başlayın.",
+      "Ayak parmaklarınızın üzerinde durmaya odaklanarak hareketlerinizi hızlı ve hafif tutun.",
+      "İstenilen süre veya tekrar sayısı kadar devam edin."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y los brazos a los costados.",
+      "Comienza moviendo los pies rápidamente hacia arriba y hacia abajo, como si estuvieras corriendo en el sitio.",
+      "Mantén los movimientos rápidos y ligeros, concentrándote en quedarte sobre la punta de los pies.",
+      "Continúa durante el tiempo o el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, руки по бокам.",
+      "Начните с быстрого перемещения ногами вверх и вниз, как будто вы бежите на месте.",
+      "Делайте движения быстрыми и легкими, стараясь оставаться на подушечках стоп.",
+      "Продолжайте желаемую продолжительность или количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，双臂放在身体两侧。",
+      "首先快速上下移动双脚，就像原地跑步一样。",
+      "保持动作快速而轻盈，重点放在脚掌上。",
+      "继续所需的持续时间或重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर और अपनी बांहों को बगल में रखकर खड़े हो जाएं।",
+      "अपने पैरों को तेजी से ऊपर-नीचे हिलाने से शुरुआत करें, जैसे कि आप अपनी जगह पर दौड़ रहे हों।",
+      "अपने पैरों की उंगलियों पर ध्यान केंद्रित करते हुए अपनी गतिविधियों को तेज और हल्का रखें।",
+      "वांछित अवधि या दोहराव की संख्या तक जारी रखें।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków, z rękami wzdłuż tułowia.",
+      "Zacznij szybko poruszać stopami w górę i w dół, jakbyś biegł w miejscu.",
+      "Wykonuj ruchy szybko i lekko, koncentrując się na pozostawaniu na palcach stóp.",
+      "Kontynuuj przez wybrany czas lub liczbę powtórzeń."
+    ],
+    "ko": [
+      "어깨 너비로 발을 벌리고 팔을 옆에 두고 서세요.",
+      "제자리에서 뛰는 듯이 발을 빠르게 위아래로 움직이기 시작합니다.",
+      "발가락 끝에 서 있으면서 움직임을 빠르고 가볍게 유지합니다.",
+      "원하는 시간이나 반복 횟수까지 계속합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et les bras le long du corps.",
+      "Commence par bouger rapidement tes pieds de haut en bas, comme si tu courais sur place.",
+      "Garde des mouvements rapides et légers, en te concentrant sur le fait de rester sur la plante des pieds.",
+      "Continue pendant la durée ou le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "calves",
+  "secondary_muscles": [
+    "calves",
+    "hamstrings"
+  ],
+  "target": "quads",
+  "image": "images/3552-mweqJin.jpg",
+  "gif_url": "videos/3552-mweqJin.gif",
+  "media_id": "mweqJin",
+  "created_at": "2026-03-18T12:31:32.888732+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

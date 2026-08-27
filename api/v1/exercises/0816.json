@@ -1,0 +1,101 @@
+{
+  "id": "0816",
+  "name": "triceps press",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and your knees slightly bent. Extend your arms straight out in front of you, parallel to the ground. Bend your elbows and lower your body towards the ground, keeping your upper arms close to your sides. Pause for a moment at the bottom, then push yourself back up to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi alla larghezza delle spalle e le ginocchia leggermente piegate. Estendi le braccia davanti a te, parallele al suolo. Piega i gomiti e abbassa il corpo verso terra, mantenendo la parte superiore delle braccia vicina ai fianchi. Fai una pausa per un momento in basso, quindi spingiti indietro fino alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız omuz genişliğinde açık ve dizleriniz hafifçe bükülü şekilde ayakta durun. Kollarınızı yere paralel olarak önünüze doğru uzatın. Dirseklerinizi bükün ve üst kollarınızı yanlarınıza yakın tutarak vücudunuzu yere doğru indirin. Altta bir an duraklayın, ardından kendinizi başlangıç ​​pozisyonuna doğru itin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y las rodillas ligeramente flexionadas. Extiende los brazos rectos frente a ti, paralelos al suelo. Flexiona los codos y baja el cuerpo hacia el suelo, manteniendo la parte superior de los brazos cerca de los costados. Haz una pausa por un momento en la parte inferior, luego empuja tu cuerpo de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, поставив ноги на ширине плеч и слегка согнув колени. Вытяните руки прямо перед собой, параллельно земле. Согните локти и опустите тело к земле, держа плечи близко к бокам. Задержитесь на мгновение в нижней точке, затем вернитесь в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，膝盖稍微弯曲。 将双臂伸直在身前，与地面平行。 弯曲肘部，将身体放低至地面，保持上臂靠近身体两侧。 在底部暂停片刻，然后将自己推回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और आपके घुटने थोड़े मुड़े हुए हों। अपनी भुजाओं को ज़मीन के समानांतर, अपने सामने सीधा फैलाएँ। अपनी कोहनियों को मोड़ें और अपने शरीर को ज़मीन की ओर नीचे करें, अपनी ऊपरी भुजाओं को अपनी भुजाओं के पास रखें। नीचे एक पल के लिए रुकें, फिर अपने आप को वापस प्रारंभिक स्थिति में धकेलें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań ze stopami rozstawionymi na szerokość barków i lekko ugiętymi kolanami. Wyciągnij ramiona prosto przed siebie, równolegle do podłoża. Ugnij łokcie i opuść ciało w stronę podłoża, trzymając ramiona blisko boków. Zatrzymaj się na chwilę na dole, a następnie wypchnij się z powrotem do pozycji wyjściowej. Powtórz zgodnie z żądaną liczbą powtórzeń.",
+    "ko": "발을 어깨너비만큼 떨어뜨리고 무릎을 약간 구부려 선다합니다. 팔을 앞으로 곧게 뻗어 땅과 평행하게 합니다. 팔꿈치를 구부려 몸을 땅 방향으로 내립니다. 이때 위팔을 옆에 가깝게 유지합니다. 최하단에서 잠시 멈춘 후 자신을 밀어 시작 위치로 돌아옵니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et les genoux légèrement fléchis. Étends les bras droit devant toi, parallèles au sol. Plie tes coudes et abaisse ton corps vers le sol en gardant le haut de tes bras près de tes côtés. Marque une pause en bas, puis pousse-toi vers le haut jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and your knees slightly bent.",
+      "Extend your arms straight out in front of you, parallel to the ground.",
+      "Bend your elbows and lower your body towards the ground, keeping your upper arms close to your sides.",
+      "Pause for a moment at the bottom, then push yourself back up to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle e le ginocchia leggermente piegate.",
+      "Estendi le braccia davanti a te, parallele al suolo.",
+      "Piega i gomiti e abbassa il corpo verso terra, mantenendo la parte superiore delle braccia vicina ai fianchi.",
+      "Fai una pausa per un momento in basso, quindi spingiti indietro fino alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık ve dizleriniz hafifçe bükülü şekilde ayakta durun.",
+      "Kollarınızı yere paralel olarak önünüze doğru uzatın.",
+      "Dirseklerinizi bükün ve üst kollarınızı yanlarınıza yakın tutarak vücudunuzu yere doğru indirin.",
+      "Altta bir an duraklayın, ardından kendinizi başlangıç ​​pozisyonuna doğru itin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y las rodillas ligeramente flexionadas.",
+      "Extiende los brazos rectos frente a ti, paralelos al suelo.",
+      "Flexiona los codos y baja el cuerpo hacia el suelo, manteniendo la parte superior de los brazos cerca de los costados.",
+      "Haz una pausa por un momento en la parte inferior, luego empuja tu cuerpo de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, поставив ноги на ширине плеч и слегка согнув колени.",
+      "Вытяните руки прямо перед собой, параллельно земле.",
+      "Согните локти и опустите тело к земле, держа плечи близко к бокам.",
+      "Задержитесь на мгновение в нижней точке, затем вернитесь в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，膝盖稍微弯曲。",
+      "将双臂伸直在身前，与地面平行。",
+      "弯曲肘部，将身体放低至地面，保持上臂靠近身体两侧。",
+      "在底部暂停片刻，然后将自己推回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और आपके घुटने थोड़े मुड़े हुए हों।",
+      "अपनी भुजाओं को ज़मीन के समानांतर, अपने सामने सीधा फैलाएँ।",
+      "अपनी कोहनियों को मोड़ें और अपने शरीर को ज़मीन की ओर नीचे करें, अपनी ऊपरी भुजाओं को अपनी भुजाओं के पास रखें।",
+      "नीचे एक पल के लिए रुकें, फिर अपने आप को वापस प्रारंभिक स्थिति में धकेलें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań ze stopami rozstawionymi na szerokość barków i lekko ugiętymi kolanami.",
+      "Wyciągnij ramiona prosto przed siebie, równolegle do podłoża.",
+      "Ugnij łokcie i opuść ciało w stronę podłoża, trzymając ramiona blisko boków.",
+      "Zatrzymaj się na chwilę na dole, a następnie wypchnij się z powrotem do pozycji wyjściowej.",
+      "Powtórz zgodnie z żądaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨너비만큼 떨어뜨리고 무릎을 약간 구부려 선다합니다.",
+      "팔을 앞으로 곧게 뻗어 땅과 평행하게 합니다.",
+      "팔꿈치를 구부려 몸을 땅 방향으로 내립니다. 이때 위팔을 옆에 가깝게 유지합니다.",
+      "최하단에서 잠시 멈춘 후 자신을 밀어 시작 위치로 돌아옵니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et les genoux légèrement fléchis.",
+      "Étends les bras droit devant toi, parallèles au sol.",
+      "Plie tes coudes et abaisse ton corps vers le sol en gardant le haut de tes bras près de tes côtés.",
+      "Marque une pause en bas, puis pousse-toi vers le haut jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders"
+  ],
+  "target": "triceps",
+  "image": "images/0816-fSrPP6B.jpg",
+  "gif_url": "videos/0816-fSrPP6B.gif",
+  "media_id": "fSrPP6B",
+  "created_at": "2026-03-18T12:31:32.90537+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

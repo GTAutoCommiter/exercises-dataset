@@ -1,0 +1,112 @@
+{
+  "id": "0216",
+  "name": "cable seated shoulder internal rotation",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Sit on a bench or chair facing the cable machine with your feet flat on the ground. Hold the cable handle with your arm extended straight out in front of you, parallel to the ground. Keep your elbow slightly bent and your shoulder blades pulled back and down. Slowly rotate your arm inward, bringing the cable handle towards the center of your body. Pause for a moment at the end of the movement, then slowly return to the starting position. Repeat for the desired number of repetitions, then switch arms.",
+    "it": "Siediti su una panca o una sedia rivolta verso la macchina a cavo con i piedi piatti a terra. Tieni la maniglia del cavo con il braccio teso dritto davanti a te, parallelo al suolo. Tieni il gomito leggermente piegato e le scapole tirate indietro e giù. Ruota lentamente il braccio verso l'interno, portando la maniglia del cavo verso il centro del corpo. Fermati un attimo alla fine del movimento, poi torna lentamente alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni, poi cambia braccio.",
+    "tr": "Ayaklarınız yere düz basacak şekilde kablo makinesine bakan bir bank veya sandalyeye oturun. Kablo tutamağını, kolunuz yere paralel, önünüzde düz uzatılmış şekilde tutun. Dirseğinizi hafifçe bükülmüş ve kürek kemiklerinizi geriye ve aşağıya çekilmiş halde tutun. Kolunuzu yavaşça içe doğru döndürerek kablo tutamağını vücudunuzun merkezine doğru getirin. Hareketin sonunda bir süre duraklayın ve ardından yavaşça başlangıç ​​pozisyonuna dönün. İstenilen tekrar sayısı kadar tekrarlayın, ardından kolları değiştirin.",
+    "es": "Siéntate en un banco o silla frente a la máquina de cable con los pies apoyados planos en el suelo. Sujeta la agarradera del cable con el brazo extendido recto frente a ti, paralelo al suelo. Mantén el codo ligeramente flexionado y los omóplatos retraídos hacia atrás y hacia abajo. Rota lentamente el brazo hacia adentro, llevando la agarradera del cable hacia el centro del cuerpo. Haz una pausa por un momento al final del movimiento, luego regresa lentamente a la posición inicial. Repite el número de repeticiones deseado, luego cambia de brazo.",
+    "ru": "Сядьте на скамью или стул лицом к канатной машине, поставив ноги на землю. Держите рукоятку троса, вытянув руку прямо перед собой, параллельно земле. Держите локоть слегка согнутым, а лопатки отведенными назад и вниз. Медленно поверните руку внутрь, приближая рукоятку троса к центру тела. В конце движения сделайте паузу на мгновение, затем медленно вернитесь в исходное положение. Повторите желаемое количество повторений, затем поменяйте руки.",
+    "zh": "坐在长凳或椅子上，面向电缆机，双脚平放在地面上。 握住电缆手柄，手臂在身前伸直，与地面平行。 保持肘部稍微弯曲，肩胛骨向后和向下拉。 慢慢向内旋转手臂，将电缆手柄拉向身体中心。 动作结束时暂停片刻，然后慢慢回到起始位置。 重复所需的重复次数，然后换臂。",
+    "hi": "अपने पैरों को ज़मीन पर सपाट करके केबल मशीन के सामने एक बेंच या कुर्सी पर बैठें। केबल के हैंडल को अपने हाथ को जमीन के समानांतर अपने सामने सीधा फैलाकर पकड़ें। अपनी कोहनी को थोड़ा मोड़कर रखें और अपने कंधे के ब्लेड को पीछे और नीचे की ओर खींचें। धीरे-धीरे अपने हाथ को अंदर की ओर घुमाएं, केबल के हैंडल को अपने शरीर के केंद्र की ओर लाएं। आंदोलन के अंत में एक पल के लिए रुकें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएं, फिर हथियार बदल लें।",
+    "pl": "Usiądź na ławce lub krześle przodem do wyciągu, stopy płasko na podłodze. Trzymaj uchwyt wyciągu z ramieniem wyprostowanym prosto przed sobą, równolegle do podłogi. Trzymaj łokieć lekko ugięty, a łopatki ściągnięte i opuszczone. Powoli obróć ramię do wewnątrz, przyciągając uchwyt w kierunku środka ciała. Zatrzymaj się na moment na końcu ruchu, a następnie powoli wróć do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń, a następnie zmień ramię.",
+    "ko": "벤치나 의자에 앉아 케이블 머신을 향하고 발을 바닥에 평평하게 놓습니다. 케이블 핸들을 잡고 팔을 앞으로 쭉 펴 바닥과 평행하게 합니다. 팔꿈치를 약간 구부리고 견갑골을 뒤로 아래로 당깁니다. 천천히 팔을 안쪽으로 회전하여 케이블 핸들을 몸의 중앙으로 움직입니다. 운동의 끝 지점에서 잠시 멈춘 후 천천히 처음 위치로 돌아옵니다. 원하는 반복 횟수만큼 반복한 후 팔을 바꾸어 같은 방식으로 반복합니다.",
+    "fr": "Assieds-toi sur un banc ou une chaise face à la machine à câble, les pieds à plat sur le sol. Tiens la poignée de câble, le bras étendu droit devant toi, parallèle au sol. Garde ton coude légèrement fléchi et tes omoplates tirées vers l'arrière et vers le bas. Fais pivoter lentement ton bras vers l'intérieur, en amenant la poignée du câble vers le centre de ton corps. Marque une pause à la fin du mouvement, puis reviens lentement à la position de départ. Répète le nombre de répétitions souhaité, puis change de bras."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on a bench or chair facing the cable machine with your feet flat on the ground.",
+      "Hold the cable handle with your arm extended straight out in front of you, parallel to the ground.",
+      "Keep your elbow slightly bent and your shoulder blades pulled back and down.",
+      "Slowly rotate your arm inward, bringing the cable handle towards the center of your body.",
+      "Pause for a moment at the end of the movement, then slowly return to the starting position.",
+      "Repeat for the desired number of repetitions, then switch arms."
+    ],
+    "it": [
+      "Siediti su una panca o una sedia rivolta verso la macchina a cavo con i piedi piatti a terra.",
+      "Tieni la maniglia del cavo con il braccio teso dritto davanti a te, parallelo al suolo.",
+      "Tieni il gomito leggermente piegato e le scapole tirate indietro e giù.",
+      "Ruota lentamente il braccio verso l'interno, portando la maniglia del cavo verso il centro del corpo.",
+      "Fermati un attimo alla fine del movimento, poi torna lentamente alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni, poi cambia braccio."
+    ],
+    "tr": [
+      "Ayaklarınız yere düz basacak şekilde kablo makinesine bakan bir bank veya sandalyeye oturun.",
+      "Kablo tutamağını, kolunuz yere paralel, önünüzde düz uzatılmış şekilde tutun.",
+      "Dirseğinizi hafifçe bükülmüş ve kürek kemiklerinizi geriye ve aşağıya çekilmiş halde tutun.",
+      "Kolunuzu yavaşça içe doğru döndürerek kablo tutamağını vücudunuzun merkezine doğru getirin.",
+      "Hareketin sonunda bir süre duraklayın ve ardından yavaşça başlangıç ​​pozisyonuna dönün.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından kolları değiştirin."
+    ],
+    "es": [
+      "Siéntate en un banco o silla frente a la máquina de cable con los pies apoyados planos en el suelo.",
+      "Sujeta la agarradera del cable con el brazo extendido recto frente a ti, paralelo al suelo.",
+      "Mantén el codo ligeramente flexionado y los omóplatos retraídos hacia atrás y hacia abajo.",
+      "Rota lentamente el brazo hacia adentro, llevando la agarradera del cable hacia el centro del cuerpo.",
+      "Haz una pausa por un momento al final del movimiento, luego regresa lentamente a la posición inicial.",
+      "Repite el número de repeticiones deseado, luego cambia de brazo."
+    ],
+    "ru": [
+      "Сядьте на скамью или стул лицом к канатной машине, поставив ноги на землю.",
+      "Держите рукоятку троса, вытянув руку прямо перед собой, параллельно земле.",
+      "Держите локоть слегка согнутым, а лопатки отведенными назад и вниз.",
+      "Медленно поверните руку внутрь, приближая рукоятку троса к центру тела.",
+      "Сделайте небольшую паузу в конце движения, затем медленно вернитесь в исходное положение.",
+      "Повторите желаемое количество повторений, затем поменяйте руки."
+    ],
+    "zh": [
+      "坐在长凳或椅子上，面向电缆机，双脚平放在地面上。",
+      "握住电缆手柄，手臂在身前伸直，与地面平行。",
+      "保持肘部稍微弯曲，肩胛骨向后和向下拉。",
+      "慢慢向内旋转手臂，将电缆手柄拉向身体中心。",
+      "动作结束时暂停片刻，然后慢慢回到起始位置。",
+      "重复所需的重复次数，然后换臂。"
+    ],
+    "hi": [
+      "अपने पैरों को ज़मीन पर सपाट करके केबल मशीन के सामने एक बेंच या कुर्सी पर बैठें।",
+      "केबल के हैंडल को अपने हाथ को जमीन के समानांतर अपने सामने सीधा फैलाकर पकड़ें।",
+      "अपनी कोहनी को थोड़ा मोड़कर रखें और अपने कंधे के ब्लेड को पीछे और नीचे की ओर खींचें।",
+      "धीरे-धीरे अपने हाथ को अंदर की ओर घुमाएं, केबल के हैंडल को अपने शरीर के केंद्र की ओर लाएं।",
+      "आंदोलन के अंत में एक पल के लिए रुकें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर हथियार बदल लें।"
+    ],
+    "pl": [
+      "Usiądź na ławce lub krześle przodem do wyciągu, stopy płasko na podłodze.",
+      "Trzymaj uchwyt wyciągu z ramieniem wyprostowanym prosto przed sobą, równolegle do podłogi.",
+      "Trzymaj łokieć lekko ugięty, a łopatki ściągnięte i opuszczone.",
+      "Powoli obróć ramię do wewnątrz, przyciągając uchwyt w kierunku środka ciała.",
+      "Zatrzymaj się na moment na końcu ruchu, a następnie powoli wróć do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń, a następnie zmień ramię."
+    ],
+    "ko": [
+      "벤치나 의자에 앉아 케이블 머신을 향하고 발을 바닥에 평평하게 놓습니다.",
+      "케이블 핸들을 잡고 팔을 앞으로 쭉 펴 바닥과 평행하게 합니다.",
+      "팔꿈치를 약간 구부리고 견갑골을 뒤로 아래로 당깁니다.",
+      "천천히 팔을 안쪽으로 회전하여 케이블 핸들을 몸의 중앙으로 움직입니다.",
+      "운동의 끝 지점에서 잠시 멈춘 후 천천히 처음 위치로 돌아옵니다.",
+      "원하는 반복 횟수만큼 반복한 후 팔을 바꾸어 같은 방식으로 반복합니다."
+    ],
+    "fr": [
+      "Assieds-toi sur un banc ou une chaise face à la machine à câble, les pieds à plat sur le sol.",
+      "Tiens la poignée de câble, le bras étendu droit devant toi, parallèle au sol.",
+      "Garde ton coude légèrement fléchi et tes omoplates tirées vers l'arrière et vers le bas.",
+      "Fais pivoter lentement ton bras vers l'intérieur, en amenant la poignée du câble vers le centre de ton corps.",
+      "Marque une pause à la fin du mouvement, puis reviens lentement à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis change de bras."
+    ]
+  },
+  "muscle_group": "rotator cuff",
+  "secondary_muscles": [
+    "rotator cuff",
+    "triceps"
+  ],
+  "target": "delts",
+  "image": "images/0216-YPoVrBi.jpg",
+  "gif_url": "videos/0216-YPoVrBi.gif",
+  "media_id": "YPoVrBi",
+  "created_at": "2026-03-18T12:31:32.876014+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

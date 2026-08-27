@@ -1,0 +1,132 @@
+{
+  "id": "1430",
+  "name": "chest dip (on dip-pull-up cage)",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Adjust the dip bars to a height that allows you to comfortably grip them. Stand between the bars and place your hands on each bar, slightly wider than shoulder-width apart. Jump up and straighten your arms, supporting your body weight on the bars. Bend your knees and cross your ankles behind you. Lower your body by bending your elbows, keeping your chest up and your shoulders down. Continue lowering until your shoulders are below your elbows or until you feel a stretch in your chest. Push through your palms and extend your elbows to raise your body back up to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Regola le barre di immersione a un'altezza che ti permetta di tenerle comodamente. Mettiti tra le barre e metti le mani su ciascuna barra, leggermente più larghe della larghezza delle spalle. Salta su e raddrizza le braccia, sostenendo il peso del corpo sulle barre. Piega le ginocchia e incrocia le caviglie dietro di te. Abbassa il corpo piegando i gomiti, tenendo il petto sollevato e le spalle basse. Continua ad abbassare finché le spalle non sono sotto i gomiti o finché non senti un allungamento al petto. Spingi attraverso i palmi e allunga i gomiti per sollevare il corpo fino alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Dip çubuklarını rahatça kavrayabileceğiniz bir yüksekliğe ayarlayın. Çubukların arasında durun ve ellerinizi omuz genişliğinden biraz daha geniş olacak şekilde her çubuğun üzerine yerleştirin. Yukarı zıplayın ve kollarınızı düzleştirerek vücut ağırlığınızı barlara destekleyin. Dizlerinizi bükün ve ayak bileklerinizi arkanızda çaprazlayın. Dirseklerinizi bükerek, göğsünüzü yukarıda ve omuzlarınızı aşağıda tutarak vücudunuzu indirin. Omuzlarınız dirseklerinizin altına gelinceye veya göğsünüzde bir gerginlik hissedene kadar alçalmaya devam edin. Avuç içlerinizi itin ve dirseklerinizi uzatarak vücudunuzu başlangıç ​​pozisyonuna kaldırın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta las barras de fondos a una altura que te permita agarrarlas cómodamente. Ponte de pie entre las barras y coloca las manos en cada barra, un poco más separadas que el ancho de los hombros. Salta y estira los brazos, sosteniendo el peso de tu cuerpo sobre las barras. Flexiona las rodillas y cruza los tobillos detrás de ti. Baja el cuerpo flexionando los codos, manteniendo el pecho elevado y los hombros bajos. Continúa bajando hasta que los hombros queden por debajo de los codos o hasta que sientas un estiramiento en el pecho. Empuja con las palmas y extiende los codos para subir el cuerpo de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Отрегулируйте поручни на такую ​​высоту, чтобы вам было удобно их держать. Встаньте между перекладинами и положите руки на каждую перекладину на расстоянии чуть шире ширины плеч. Подпрыгните и выпрямите руки, удерживая вес тела на перекладинах. Согните колени и скрестите лодыжки позади себя. Опустите тело, согнув локти, удерживая грудь вверху, а плечи опущенными. Продолжайте опускаться до тех пор, пока ваши плечи не окажутся ниже локтей или пока вы не почувствуете растяжение в груди. Оттолкнитесь ладонями и выпрямите локти, чтобы поднять тело обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "将倾斜杆调整到您可以舒适地握住它们的高度。 站在杠铃之间，将双手放在每个杠铃上，距离略宽于肩宽。 跳起来并伸直双臂，将体重支撑在杠上。 弯曲膝盖并将脚踝交叉在身后。 弯曲肘部降低身体，保持胸部向上，肩膀向下。 继续降低，直到肩膀低于肘部或直到您感到胸部有拉伸感。 推动手掌并伸展肘部，将身体抬回到起始位置。 重复所需的重复次数。",
+    "hi": "डिप बार को इतनी ऊंचाई पर समायोजित करें कि आप उन्हें आराम से पकड़ सकें। सलाखों के बीच खड़े हो जाएं और अपने हाथों को प्रत्येक पट्टी पर कंधे की चौड़ाई से थोड़ा अधिक फैलाकर रखें। ऊपर कूदें और अपनी बाहों को सीधा करें, अपने शरीर के वजन को सलाखों पर सहारा दें। अपने घुटनों को मोड़ें और अपनी एड़ियों को अपने पीछे क्रॉस करें। अपनी कोहनियों को मोड़कर, अपनी छाती को ऊपर और अपने कंधों को नीचे रखते हुए अपने शरीर को नीचे करें। जब तक आपके कंधे आपकी कोहनी से नीचे न आ जाएं या जब तक आप अपनी छाती में खिंचाव महसूस न करें तब तक नीचे झुकना जारी रखें। अपने शरीर को प्रारंभिक स्थिति में वापस उठाने के लिए अपनी हथेलियों से धक्का दें और अपनी कोहनियों को फैलाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Wyreguluj poręcze do dipów na wysokość umożliwiającą wygodny chwyt. Stań pomiędzy poręczami i połóż dłonie na każdej z nich, nieco szerzej niż na szerokość barków. Podskocz i wyprostuj ramiona, podtrzymując ciężar ciała na poręczach. Ugnij kolana i skrzyżuj kostki za sobą. Opuść ciało, zginając łokcie, trzymając klatkę piersiową uniesioną, a barki opuszczone. Kontynuuj opuszczanie, aż barki znajdą się poniżej łokci lub poczujesz rozciąganie w klatce piersiowej. Wypchnij się przez dłonie i wyprostuj łokcie, aby unieść ciało z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "딥 바를 편안하게 잡을 수 있도록 높이를 조정합니다. 바 사이에 서서 각 바에 손을 올리되 어깨 너비보다 약간 넓게 놓습니다. 위로 뛰어올라서 팔을 곧게 펴서 바 위에서 몸의 무게를 지탱합니다. 무릎을 구부리고 발목을 뒤로 교차시킵니다. 팔꿈치를 구부리면서 몸을 내려놓되 가슴을 들어올리고 어깨를 내린 상태를 유지합니다. 어깨가 팔꿈치 아래로 내려오거나 가슴에서 스트레치를 느낄 때까지 계속 내려놓습니다. 손가락 끝으로 밀어서 팔꿈치를 펴면서 몸을 시작 위치로 다시 올립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Règle les barres de dips à une hauteur qui te permet de les saisir confortablement. Tiens-toi entre les barres et place tes mains sur chaque barre, légèrement plus écartées que la largeur des épaules. Saute et tends les bras, en soutenant le poids de ton corps sur les barres. Fléchis tes genoux et croise tes chevilles derrière toi. Abaisse ton corps en fléchissant tes coudes, en gardant ta poitrine relevée et tes épaules abaissées. Continue à descendre jusqu'à ce que tes épaules soient en dessous de tes coudes ou jusqu'à ce que tu sentes un étirement dans ta poitrine. Pousse à travers tes paumes et étends tes coudes pour ramener ton corps vers le haut jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the dip bars to a height that allows you to comfortably grip them.",
+      "Stand between the bars and place your hands on each bar, slightly wider than shoulder-width apart.",
+      "Jump up and straighten your arms, supporting your body weight on the bars.",
+      "Bend your knees and cross your ankles behind you.",
+      "Lower your body by bending your elbows, keeping your chest up and your shoulders down.",
+      "Continue lowering until your shoulders are below your elbows or until you feel a stretch in your chest.",
+      "Push through your palms and extend your elbows to raise your body back up to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Regola le barre di immersione a un'altezza che ti permetta di tenerle comodamente.",
+      "Mettiti tra le barre e metti le mani su ciascuna barra, leggermente più larghe della larghezza delle spalle.",
+      "Salta su e raddrizza le braccia, sostenendo il peso del corpo sulle barre.",
+      "Piega le ginocchia e incrocia le caviglie dietro di te.",
+      "Abbassa il corpo piegando i gomiti, tenendo il petto sollevato e le spalle basse.",
+      "Continua ad abbassare finché le spalle non sono sotto i gomiti o finché non senti un allungamento al petto.",
+      "Spingi attraverso i palmi e allunga i gomiti per sollevare il corpo fino alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Dip çubuklarını rahatça kavrayabileceğiniz bir yüksekliğe ayarlayın.",
+      "Çubukların arasında durun ve ellerinizi omuz genişliğinden biraz daha geniş olacak şekilde her çubuğun üzerine yerleştirin.",
+      "Yukarı zıplayın ve kollarınızı düzleştirerek vücut ağırlığınızı barlara destekleyin.",
+      "Dizlerinizi bükün ve ayak bileklerinizi arkanızda çaprazlayın.",
+      "Dirseklerinizi bükerek, göğsünüzü yukarıda ve omuzlarınızı aşağıda tutarak vücudunuzu indirin.",
+      "Omuzlarınız dirseklerinizin altına gelinceye veya göğsünüzde bir gerginlik hissedene kadar alçalmaya devam edin.",
+      "Avuç içlerinizi itin ve dirseklerinizi uzatarak vücudunuzu başlangıç ​​pozisyonuna kaldırın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta las barras de fondos a una altura que te permita agarrarlas cómodamente.",
+      "Ponte de pie entre las barras y coloca las manos en cada barra, un poco más separadas que el ancho de los hombros.",
+      "Salta y estira los brazos, sosteniendo el peso de tu cuerpo sobre las barras.",
+      "Flexiona las rodillas y cruza los tobillos detrás de ti.",
+      "Baja el cuerpo flexionando los codos, manteniendo el pecho elevado y los hombros bajos.",
+      "Continúa bajando hasta que los hombros queden por debajo de los codos o hasta que sientas un estiramiento en el pecho.",
+      "Empuja con las palmas y extiende los codos para subir el cuerpo de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Отрегулируйте поручни на такую ​​высоту, чтобы вам было удобно их держать.",
+      "Встаньте между перекладинами и положите руки на каждую перекладину на расстоянии чуть шире ширины плеч.",
+      "Подпрыгните и выпрямите руки, удерживая вес тела на перекладинах.",
+      "Согните колени и скрестите лодыжки позади себя.",
+      "Опустите тело, согнув локти, удерживая грудь вверху, а плечи опущенными.",
+      "Продолжайте опускаться до тех пор, пока ваши плечи не окажутся ниже локтей или пока вы не почувствуете растяжение в груди.",
+      "Оттолкнитесь ладонями и выпрямите локти, чтобы поднять тело обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将倾斜杆调整到您可以舒适地握住它们的高度。",
+      "站在杠铃之间，将双手放在每个杠铃上，距离略宽于肩宽。",
+      "跳起来并伸直双臂，将体重支撑在杠上。",
+      "弯曲膝盖并将脚踝交叉在身后。",
+      "弯曲肘部降低身体，保持胸部向上，肩膀向下。",
+      "继续降低，直到肩膀低于肘部或直到您感到胸部有拉伸感。",
+      "推动手掌并伸展肘部，将身体抬回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "डिप बार को इतनी ऊंचाई पर समायोजित करें कि आप उन्हें आराम से पकड़ सकें।",
+      "सलाखों के बीच खड़े हो जाएं और अपने हाथों को प्रत्येक पट्टी पर कंधे की चौड़ाई से थोड़ा अधिक फैलाकर रखें।",
+      "ऊपर कूदें और अपनी बाहों को सीधा करें, अपने शरीर के वजन को सलाखों पर सहारा दें।",
+      "अपने घुटनों को मोड़ें और अपनी एड़ियों को अपने पीछे क्रॉस करें।",
+      "अपनी कोहनियों को मोड़कर, अपनी छाती को ऊपर और अपने कंधों को नीचे रखते हुए अपने शरीर को नीचे करें।",
+      "जब तक आपके कंधे आपकी कोहनी से नीचे न आ जाएं या जब तक आप अपनी छाती में खिंचाव महसूस न करें तब तक नीचे झुकना जारी रखें।",
+      "अपने शरीर को प्रारंभिक स्थिति में वापस उठाने के लिए अपनी हथेलियों से धक्का दें और अपनी कोहनियों को फैलाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Wyreguluj poręcze do dipów na wysokość umożliwiającą wygodny chwyt.",
+      "Stań pomiędzy poręczami i połóż dłonie na każdej z nich, nieco szerzej niż na szerokość barków.",
+      "Podskocz i wyprostuj ramiona, podtrzymując ciężar ciała na poręczach.",
+      "Ugnij kolana i skrzyżuj kostki za sobą.",
+      "Opuść ciało, zginając łokcie, trzymając klatkę piersiową uniesioną, a barki opuszczone.",
+      "Kontynuuj opuszczanie, aż barki znajdą się poniżej łokci lub poczujesz rozciąganie w klatce piersiowej.",
+      "Wypchnij się przez dłonie i wyprostuj łokcie, aby unieść ciało z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "딥 바를 편안하게 잡을 수 있도록 높이를 조정합니다.",
+      "바 사이에 서서 각 바에 손을 올리되 어깨 너비보다 약간 넓게 놓습니다.",
+      "위로 뛰어올라서 팔을 곧게 펴서 바 위에서 몸의 무게를 지탱합니다.",
+      "무릎을 구부리고 발목을 뒤로 교차시킵니다.",
+      "팔꿈치를 구부리면서 몸을 내려놓되 가슴을 들어올리고 어깨를 내린 상태를 유지합니다.",
+      "어깨가 팔꿈치 아래로 내려오거나 가슴에서 스트레치를 느낄 때까지 계속 내려놓습니다.",
+      "손가락 끝으로 밀어서 팔꿈치를 펴면서 몸을 시작 위치로 다시 올립니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Règle les barres de dips à une hauteur qui te permet de les saisir confortablement.",
+      "Tiens-toi entre les barres et place tes mains sur chaque barre, légèrement plus écartées que la largeur des épaules.",
+      "Saute et tends les bras, en soutenant le poids de ton corps sur les barres.",
+      "Fléchis tes genoux et croise tes chevilles derrière toi.",
+      "Abaisse ton corps en fléchissant tes coudes, en gardant ta poitrine relevée et tes épaules abaissées.",
+      "Continue à descendre jusqu'à ce que tes épaules soient en dessous de tes coudes ou jusqu'à ce que tu sentes un étirement dans ta poitrine.",
+      "Pousse à travers tes paumes et étends tes coudes pour ramener ton corps vers le haut jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "target": "pectorals",
+  "image": "images/1430-XgWyAiA.jpg",
+  "gif_url": "videos/1430-XgWyAiA.gif",
+  "media_id": "XgWyAiA",
+  "created_at": "2026-03-18T12:31:32.876969+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

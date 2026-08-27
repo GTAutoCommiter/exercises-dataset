@@ -1,0 +1,102 @@
+{
+  "id": "0590",
+  "name": "lever one arm shoulder press",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "leverage machine",
+  "instructions": {
+    "en": "Adjust the seat height and position yourself on the machine with your back against the pad. Grasp the lever handle with one hand and position your elbow at a 90-degree angle. Press the lever upward until your arm is fully extended overhead. Pause for a moment at the top, then slowly lower the lever back down to the starting position. Repeat for the desired number of repetitions, then switch to the other arm.",
+    "it": "Regolare l'altezza del sedile e posizionarsi sulla macchina con la schiena appoggiata al cuscino. Afferrare la maniglia della leva con una mano e posizionare il gomito ad un angolo di 90 gradi. Spingere la leva verso l'alto finché il braccio non è completamente esteso sopra la testa. Fermarsi per un momento in alto, quindi abbassare lentamente la leva nella posizione iniziale. Ripeti per il numero di ripetizioni desiderato, quindi passa all'altro braccio.",
+    "tr": "Koltuk yüksekliğini ayarlayın ve sırtınız yastığa dayalı olacak şekilde kendinizi makinenin üzerine konumlandırın. Kol kolunu bir elinizle kavrayın ve dirseğinizi 90 derecelik bir açıyla konumlandırın. Kolunuz tamamen yukarıya doğru uzayana kadar kolu yukarıya doğru bastırın. Tepede bir an duraklayın, ardından kolu yavaşça başlangıç ​​pozisyonuna indirin. İstenilen tekrar sayısı kadar tekrarlayın, ardından diğer kola geçin.",
+    "es": "Ajusta la altura del asiento y colócate en la máquina con la espalda apoyada en la almohadilla. Sujeta el asa de la palanca con una mano y coloca el codo en un ángulo de 90 grados. Presiona la palanca hacia arriba hasta que el brazo quede completamente extendido por encima de la cabeza. Haz una pausa breve en la parte más alta, luego baja lentamente la agarradera de vuelta a la posición inicial. Repite el número de repeticiones deseado, luego cambia al otro brazo.",
+    "ru": "Отрегулируйте высоту сиденья и расположитесь на тренажере спиной к подушке. Возьмитесь за рукоятку рычага одной рукой и расположите локоть под углом 90 градусов. Нажмите рычаг вверх, пока ваша рука полностью не выпрямится над головой. Задержитесь на мгновение в верхней точке, затем медленно опустите рычаг обратно в исходное положение. Повторите желаемое количество повторений, затем переключитесь на другую руку.",
+    "zh": "调整座椅高度并将自己放在机器上，背部靠在垫子上。 用一只手抓住杠杆手柄，并将肘部置于 90 度角。 向上按下控制杆，直到手臂完全伸过头顶。 在顶部暂停片刻，然后慢慢将控制杆放回起始位置。 重复所需的重复次数，然后换到另一只手臂。",
+    "hi": "सीट की ऊंचाई को समायोजित करें और अपनी पीठ को पैड के सामने रखते हुए खुद को मशीन पर रखें। एक हाथ से लीवर हैंडल को पकड़ें और अपनी कोहनी को 90 डिग्री के कोण पर रखें। लीवर को तब तक ऊपर की ओर दबाएं जब तक कि आपका हाथ पूरी तरह से ऊपर की ओर न फैल जाए। शीर्ष पर एक क्षण के लिए रुकें, फिर धीरे-धीरे लीवर को प्रारंभिक स्थिति में वापस नीचे लाएँ। दोहराव की वांछित संख्या के लिए दोहराएं, फिर दूसरे हाथ पर स्विच करें।",
+    "pl": "Wyreguluj wysokość siedziska i ustaw się na maszynie, opierając plecy o zagłówek. Chwyć uchwyt dźwigni jedną ręką i ustaw łokieć pod kątem 90 stopni. Wypchnij dźwignię do góry, aż ramię będzie w pełni wyprostowane nad głową. Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść dźwignię do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń, a następnie zmień rękę.",
+    "ko": "시트 높이를 조정하고 등을 패드에 기대고 머신에 위치합니다. 한 손으로 레버 핸들을 잡고 팔꿈치를 90도 각도로 위치시킵니다. 레버를 위쪽으로 누르면서 팔을 머리 위에서 완전히 펼칩니다. 상단에서 잠깐 멈춘 후, 레버를 천천히 처음 위치로 낮춥니다. 원하는 반복 횟수만큼 반복한 후 반대쪽 팔로 전환합니다.",
+    "fr": "Règle la hauteur du siège et installe-toi sur la machine, le dos contre le coussin. Saisis la poignée du levier d'une main et place ton coude à un angle de 90 degrés. Pousse le levier vers le haut jusqu'à ce que ton bras soit complètement tendu au-dessus de ta tête. Marque une pause en haut, puis abaisse lentement le levier pour revenir à la position de départ. Répète le nombre de répétitions souhaité, puis passe à l'autre bras."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the seat height and position yourself on the machine with your back against the pad.",
+      "Grasp the lever handle with one hand and position your elbow at a 90-degree angle.",
+      "Press the lever upward until your arm is fully extended overhead.",
+      "Pause for a moment at the top, then slowly lower the lever back down to the starting position.",
+      "Repeat for the desired number of repetitions, then switch to the other arm."
+    ],
+    "it": [
+      "Regolare l'altezza del sedile e posizionarsi sulla macchina con la schiena appoggiata al cuscino.",
+      "Afferrare la maniglia della leva con una mano e posizionare il gomito ad un angolo di 90 gradi.",
+      "Spingere la leva verso l'alto finché il braccio non è completamente esteso sopra la testa.",
+      "Fermarsi per un momento in alto, quindi abbassare lentamente la leva nella posizione iniziale.",
+      "Ripeti per il numero di ripetizioni desiderato, quindi passa all'altro braccio."
+    ],
+    "tr": [
+      "Koltuk yüksekliğini ayarlayın ve sırtınız yastığa dayalı olacak şekilde kendinizi makinenin üzerine konumlandırın.",
+      "Kol kolunu bir elinizle kavrayın ve dirseğinizi 90 derecelik bir açıyla konumlandırın.",
+      "Kolunuz tamamen yukarıya doğru uzayana kadar kolu yukarıya doğru bastırın.",
+      "Tepede bir an duraklayın, ardından kolu yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından diğer kola geçin."
+    ],
+    "es": [
+      "Ajusta la altura del asiento y colócate en la máquina con la espalda apoyada en la almohadilla.",
+      "Sujeta el asa de la palanca con una mano y coloca el codo en un ángulo de 90 grados.",
+      "Presiona la palanca hacia arriba hasta que el brazo quede completamente extendido por encima de la cabeza.",
+      "Haz una pausa breve en la parte más alta, luego baja lentamente la agarradera de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado, luego cambia al otro brazo."
+    ],
+    "ru": [
+      "Отрегулируйте высоту сиденья и расположитесь на тренажере спиной к подушке.",
+      "Возьмитесь за рукоятку рычага одной рукой и расположите локоть под углом 90 градусов.",
+      "Нажмите рычаг вверх, пока ваша рука полностью не выпрямится над головой.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите рычаг обратно в исходное положение.",
+      "Повторите желаемое количество повторений, затем переключитесь на другую руку."
+    ],
+    "zh": [
+      "调整座椅高度并将自己放在机器上，背部靠在垫子上。",
+      "用一只手抓住杠杆手柄，并将肘部置于 90 度角。",
+      "向上按下控制杆，直到手臂完全伸过头顶。",
+      "在顶部暂停片刻，然后慢慢将控制杆放回起始位置。",
+      "重复所需的重复次数，然后换到另一只手臂。"
+    ],
+    "hi": [
+      "सीट की ऊंचाई को समायोजित करें और अपनी पीठ को पैड के सामने रखते हुए खुद को मशीन पर रखें।",
+      "एक हाथ से लीवर हैंडल को पकड़ें और अपनी कोहनी को 90 डिग्री के कोण पर रखें।",
+      "लीवर को तब तक ऊपर की ओर दबाएं जब तक कि आपका हाथ पूरी तरह से ऊपर की ओर न फैल जाए।",
+      "शीर्ष पर एक क्षण के लिए रुकें, फिर धीरे-धीरे लीवर को प्रारंभिक स्थिति में वापस नीचे लाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर दूसरे हाथ पर स्विच करें।"
+    ],
+    "pl": [
+      "Wyreguluj wysokość siedziska i ustaw się na maszynie, opierając plecy o zagłówek.",
+      "Chwyć uchwyt dźwigni jedną ręką i ustaw łokieć pod kątem 90 stopni.",
+      "Wypchnij dźwignię do góry, aż ramię będzie w pełni wyprostowane nad głową.",
+      "Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść dźwignię do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń, a następnie zmień rękę."
+    ],
+    "ko": [
+      "시트 높이를 조정하고 등을 패드에 기대고 머신에 위치합니다.",
+      "한 손으로 레버 핸들을 잡고 팔꿈치를 90도 각도로 위치시킵니다.",
+      "레버를 위쪽으로 누르면서 팔을 머리 위에서 완전히 펼칩니다.",
+      "상단에서 잠깐 멈춘 후, 레버를 천천히 처음 위치로 낮춥니다.",
+      "원하는 반복 횟수만큼 반복한 후 반대쪽 팔로 전환합니다."
+    ],
+    "fr": [
+      "Règle la hauteur du siège et installe-toi sur la machine, le dos contre le coussin.",
+      "Saisis la poignée du levier d'une main et place ton coude à un angle de 90 degrés.",
+      "Pousse le levier vers le haut jusqu'à ce que ton bras soit complètement tendu au-dessus de ta tête.",
+      "Marque une pause en haut, puis abaisse lentement le levier pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis passe à l'autre bras."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "upper back"
+  ],
+  "target": "delts",
+  "image": "images/0590-2KGnL6M.jpg",
+  "gif_url": "videos/0590-2KGnL6M.gif",
+  "media_id": "2KGnL6M",
+  "created_at": "2026-03-18T12:31:32.886677+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

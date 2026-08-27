@@ -1,0 +1,132 @@
+{
+  "id": "0527",
+  "name": "kettlebell double jerk",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "kettlebell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart, holding a kettlebell in each hand at shoulder height. Bend your knees slightly and engage your core. Press the kettlebells overhead, fully extending your arms. Bend your knees and quickly drop into a partial squat. Explosively extend your hips and knees, driving the kettlebells overhead. Lock out your arms and catch the kettlebells overhead with your knees slightly bent. Stand up straight and return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stare con i piedi alla larghezza delle spalle, tenendo un kettlebell in ciascuna mano all'altezza delle spalle. Piega leggermente le ginocchia e coinvolgi il core. Premi i kettlebell sopra la testa, estendendo completamente le braccia. Piega le ginocchia e scendi rapidamente in uno squat parziale. Estendi in modo esplosivo le anche e le ginocchia, portando i kettlebell sopra la testa. Blocca le braccia e afferra i kettlebell sopra la testa con le ginocchia leggermente piegate. Stai dritto e torna alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınızı omuz genişliğinde açın ve her iki elinizde de omuz hizasında birer kettlebell tutun. Dizlerinizi hafifçe bükün ve çekirdeğinizi çalıştırın. Kollarınızı tamamen uzatarak kettlebell'leri başınızın üzerine bastırın. Dizlerinizi bükün ve hızla kısmi çömelmeye bırakın. Kalçalarınızı ve dizlerinizi patlayıcı bir şekilde uzatarak kettlebell'leri yukarı doğru hareket ettirin. Kollarınızı kilitleyin ve dizleriniz hafifçe bükülmüş halde kettlebell'leri başınızın üstünde tutun. Düz durun ve başlangıç ​​pozisyonuna dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros, sosteniendo una pesa rusa en cada mano a la altura de los hombros. Flexiona ligeramente las rodillas y activa el core. Presiona las pesas rusas por encima de la cabeza, extendiendo los brazos por completo. Flexiona las rodillas y baja rápidamente a una sentadilla parcial. Extiende explosivamente las caderas y las rodillas, impulsando las pesas rusas hacia arriba. Bloquea los brazos y atrapa las pesas rusas por encima de la cabeza con las rodillas ligeramente flexionadas. Ponte de pie recto y vuelve a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, держа в каждой руке по гире на уровне плеч. Слегка согните колени и задействуйте корпус. Жмите гири над головой, полностью выпрямляя руки. Согните колени и быстро опуститесь в частичное приседание. Резко выпрямите бедра и колени, поднимая гири над головой. Выпрямите руки и поймайте гири над головой, слегка согнув колени. Встаньте прямо и вернитесь в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，双手各握一个壶铃，与肩同高。 稍微弯曲膝盖并启动核心。 将壶铃压过头顶，充分伸展手臂。 弯曲膝盖并快速半蹲。 爆发性地伸展臀部和膝盖，将壶铃举过头顶。 锁定双臂，将壶铃举过头顶，膝盖稍微弯曲。 站直并回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, प्रत्येक हाथ में कंधे की ऊंचाई पर केटलबेल पकड़ें। अपने घुटनों को थोड़ा मोड़ें और अपने कोर को संलग्न करें। अपनी बाहों को पूरी तरह फैलाते हुए केटलबेल्स को ऊपर की ओर दबाएं। अपने घुटनों को मोड़ें और जल्दी से आंशिक स्क्वाट में बैठ जाएं। केटलबेल्स को सिर के ऊपर चलाते हुए अपने कूल्हों और घुटनों को तेजी से फैलाएँ। अपनी बाहों को लॉक करें और अपने घुटनों को थोड़ा मोड़कर केटलबेल्स को ऊपर की ओर पकड़ें। सीधे खड़े हो जाएं और प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań ze stopami rozstawionymi na szerokość barków, trzymając kettlebell w każdej dłoni na wysokości barków. Ugnij lekko kolana i napnij mięśnie brzucha. Wypchnij kettlebelle nad głowę, w pełni prostując ramiona. Ugnij kolana i szybko wejdź w częściowy przysiad. Eksplozywnie wyprostuj biodra i kolana, wypychając kettlebelle nad głowę. Zablokuj ramiona i złap kettlebelle nad głową z lekko ugiętymi kolanami. Wyprostuj się i wróć do pozycji wyjściowej. Powtórz zgodnie z zaplanowaną liczbą powtórzeń.",
+    "ko": "다리를 어깨 너비로 벌리고 양손으로 어깨 높이에서 케틀벨을 잡습니다. 무릎을 살짝 구부리고 코어에 힘을 줍니다. 케틀벨을 머리 위로 누르면서 팔을 완전히 펼칩니다. 무릎을 구부리고 재빠르게 하프 스쿼트 자세로 내려갑니다. 엉덩이와 무릎을 폭발적으로 펼치면서 케틀벨을 머리 위로 밀어냅니다. 팔을 펴고 무릎을 약간 구부린 상태로 머리 위에서 케틀벨을 잡습니다. 일어서서 다리를 완전히 펼친 후 처음 위치로 돌아옵니다. 원하는 반복 횟수까지 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un kettlebell dans chaque main à hauteur d'épaule. Fléchis légèrement les genoux et gaine ta sangle abdominale. Développe les kettlebells au-dessus de ta tête, en tendant complètement tes bras. Fléchis les genoux et descends rapidement en demi-accroupissement. Étends de manière explosive tes hanches et tes genoux, en propulsant les kettlebells au-dessus de ta tête. Verrouille tes bras et rattrape les kettlebells au-dessus de la tête, les genoux légèrement fléchis. Redresse-toi et reviens à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart, holding a kettlebell in each hand at shoulder height.",
+      "Bend your knees slightly and engage your core.",
+      "Press the kettlebells overhead, fully extending your arms.",
+      "Bend your knees and quickly drop into a partial squat.",
+      "Explosively extend your hips and knees, driving the kettlebells overhead.",
+      "Lock out your arms and catch the kettlebells overhead with your knees slightly bent.",
+      "Stand up straight and return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stare con i piedi alla larghezza delle spalle, tenendo un kettlebell in ciascuna mano all'altezza delle spalle.",
+      "Piega leggermente le ginocchia e coinvolgi il core.",
+      "Premi i kettlebell sopra la testa, estendendo completamente le braccia.",
+      "Piega le ginocchia e scendi rapidamente in uno squat parziale.",
+      "Estendi in modo esplosivo le anche e le ginocchia, portando i kettlebell sopra la testa.",
+      "Blocca le braccia e afferra i kettlebell sopra la testa con le ginocchia leggermente piegate.",
+      "Stai dritto e torna alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınızı omuz genişliğinde açın ve her iki elinizde de omuz hizasında birer kettlebell tutun.",
+      "Dizlerinizi hafifçe bükün ve çekirdeğinizi çalıştırın.",
+      "Kollarınızı tamamen uzatarak kettlebell'leri başınızın üzerine bastırın.",
+      "Dizlerinizi bükün ve hızla kısmi çömelmeye bırakın.",
+      "Kalçalarınızı ve dizlerinizi patlayıcı bir şekilde uzatarak kettlebell'leri yukarı doğru hareket ettirin.",
+      "Kollarınızı kilitleyin ve dizleriniz hafifçe bükülmüş halde kettlebell'leri başınızın üstünde tutun.",
+      "Düz durun ve başlangıç ​​pozisyonuna dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros, sosteniendo una pesa rusa en cada mano a la altura de los hombros.",
+      "Flexiona ligeramente las rodillas y activa el core.",
+      "Presiona las pesas rusas por encima de la cabeza, extendiendo los brazos por completo.",
+      "Flexiona las rodillas y baja rápidamente a una sentadilla parcial.",
+      "Extiende explosivamente las caderas y las rodillas, impulsando las pesas rusas hacia arriba.",
+      "Bloquea los brazos y atrapa las pesas rusas por encima de la cabeza con las rodillas ligeramente flexionadas.",
+      "Ponte de pie recto y vuelve a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, держа в каждой руке по гире на уровне плеч.",
+      "Слегка согните колени и задействуйте корпус.",
+      "Жмите гири над головой, полностью выпрямляя руки.",
+      "Согните колени и быстро опуститесь в частичное приседание.",
+      "Резко выпрямите бедра и колени, поднимая гири над головой.",
+      "Выпрямите руки и поймайте гири над головой, слегка согнув колени.",
+      "Встаньте прямо и вернитесь в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，双手各握一个壶铃，与肩同高。",
+      "稍微弯曲膝盖并启动核心。",
+      "将壶铃压过头顶，充分伸展手臂。",
+      "弯曲膝盖并快速半蹲。",
+      "爆发性地伸展臀部和膝盖，将壶铃举过头顶。",
+      "锁定双臂，将壶铃举过头顶，膝盖稍微弯曲。",
+      "站直并回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, प्रत्येक हाथ में कंधे की ऊंचाई पर केटलबेल पकड़ें।",
+      "अपने घुटनों को थोड़ा मोड़ें और अपने कोर को संलग्न करें।",
+      "अपनी बाहों को पूरी तरह फैलाते हुए केटलबेल्स को ऊपर की ओर दबाएं।",
+      "अपने घुटनों को मोड़ें और जल्दी से आंशिक स्क्वाट में बैठ जाएं।",
+      "केटलबेल्स को सिर के ऊपर चलाते हुए अपने कूल्हों और घुटनों को तेजी से फैलाएं।",
+      "अपनी बाहों को लॉक करें और अपने घुटनों को थोड़ा मोड़कर केटलबेल्स को ऊपर की ओर पकड़ें।",
+      "सीधे खड़े हो जाएं और प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań ze stopami rozstawionymi na szerokość barków, trzymając kettlebell w każdej dłoni na wysokości barków.",
+      "Ugnij lekko kolana i napnij mięśnie brzucha.",
+      "Wypchnij kettlebelle nad głowę, w pełni prostując ramiona.",
+      "Ugnij kolana i szybko wejdź w częściowy przysiad.",
+      "Eksplozywnie wyprostuj biodra i kolana, wypychając kettlebelle nad głowę.",
+      "Zablokuj ramiona i złap kettlebelle nad głową z lekko ugiętymi kolanami.",
+      "Wyprostuj się i wróć do pozycji wyjściowej.",
+      "Powtórz zgodnie z zaplanowaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "다리를 어깨 너비로 벌리고 양손으로 어깨 높이에서 케틀벨을 잡습니다.",
+      "무릎을 살짝 구부리고 코어에 힘을 줍니다.",
+      "케틀벨을 머리 위로 누르면서 팔을 완전히 펼칩니다.",
+      "무릎을 구부리고 재빠르게 하프 스쿼트 자세로 내려갑니다.",
+      "엉덩이와 무릎을 폭발적으로 펼치면서 케틀벨을 머리 위로 밀어냅니다.",
+      "팔을 펴고 무릎을 약간 구부린 상태로 머리 위에서 케틀벨을 잡습니다.",
+      "일어서서 다리를 완전히 펼친 후 처음 위치로 돌아옵니다.",
+      "원하는 반복 횟수까지 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un kettlebell dans chaque main à hauteur d'épaule.",
+      "Fléchis légèrement les genoux et gaine ta sangle abdominale.",
+      "Développe les kettlebells au-dessus de ta tête, en tendant complètement tes bras.",
+      "Fléchis les genoux et descends rapidement en demi-accroupissement.",
+      "Étends de manière explosive tes hanches et tes genoux, en propulsant les kettlebells au-dessus de ta tête.",
+      "Verrouille tes bras et rattrape les kettlebells au-dessus de la tête, les genoux légèrement fléchis.",
+      "Redresse-toi et reviens à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "core"
+  ],
+  "target": "delts",
+  "image": "images/0527-tznL2Ad.jpg",
+  "gif_url": "videos/0527-tznL2Ad.gif",
+  "media_id": "tznL2Ad",
+  "created_at": "2026-03-18T12:31:32.885098+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

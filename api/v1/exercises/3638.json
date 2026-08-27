@@ -1,0 +1,113 @@
+{
+  "id": "3638",
+  "name": "push to run",
+  "category": "cardio",
+  "body_part": "cardio",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Start in a push-up position with your hands shoulder-width apart and your body in a straight line. Lower your chest towards the ground by bending your elbows, keeping your body straight. Push through your hands to extend your arms and return to the starting position. Quickly bring one knee towards your chest, then quickly switch and bring the other knee towards your chest. Continue alternating knees as fast as you can while maintaining good form. Continue for the desired duration or number of repetitions.",
+    "it": "Inizia in una posizione push-up con le mani alla larghezza delle spalle e il corpo in linea retta. Abbassa il petto verso terra piegando i gomiti, mantenendo il corpo dritto. Spingi attraverso le mani per estendere le braccia e tornare alla posizione di partenza. Porta rapidamente un ginocchio verso il petto, quindi cambia rapidamente e porta l'altro ginocchio verso il petto. Continua ad alternare le ginocchia il più velocemente possibile mantenendo una buona forma. Continuare per la durata o il numero di ripetizioni desiderati.",
+    "tr": "Elleriniz omuz genişliğinde ve vücudunuz düz bir çizgide olacak şekilde şınav pozisyonuna başlayın. Vücudunuzu düz tutarak dirseklerinizi bükerek göğsünüzü yere doğru indirin. Kollarınızı uzatmak için ellerinizi itin ve başlangıç ​​pozisyonuna dönün. Bir dizinizi hızla göğsünüze doğru çekin, ardından hızla diğer dizinizi göğsünüze doğru getirin. İyi formu korurken dizlerinizi mümkün olduğu kadar hızlı değiştirmeye devam edin. İstenilen süre veya tekrar sayısı kadar devam edin.",
+    "es": "Comienza en posición de flexión con las manos separadas a la altura de los hombros y el cuerpo en línea recta. Baja el pecho hacia el suelo flexionando los codos, manteniendo el cuerpo recto. Empuja con las manos para extender los brazos y volver a la posición inicial. Lleva rápidamente una rodilla hacia el pecho, luego cambia rápidamente y lleva la otra rodilla hacia el pecho. Continúa alternando las rodillas tan rápido como puedas manteniendo una buena forma. Continúa durante el tiempo o el número de repeticiones deseado.",
+    "ru": "Начните с позиции для отжиманий, поставив руки на ширине плеч, а тело образуя прямую линию. Опустите грудь к земле, согнув локти, сохраняя тело прямым. Оттолкнитесь руками, чтобы вытянуть руки и вернуться в исходное положение. Быстро поднесите одно колено к груди, затем быстро поменяйте местами и подтяните другое колено к груди. Продолжайте чередовать колени так быстро, как только можете, сохраняя при этом хорошую форму. Продолжайте желаемую продолжительность или количество повторений.",
+    "zh": "从俯卧撑位置开始，双手分开与肩同宽，身体呈一条直线。 弯曲肘部，将胸部压向地面，保持身体伸直。 用手推动以伸展手臂并返回到起始位置。 快速将一个膝盖靠近胸部，然后快速切换并将另一只膝盖靠近胸部。 继续尽可能快地交替膝盖，同时保持良好的姿势。 继续所需的持续时间或重复次数。",
+    "hi": "अपने हाथों को कंधे की चौड़ाई पर और अपने शरीर को एक सीधी रेखा में रखकर पुश-अप स्थिति से शुरुआत करें। अपने शरीर को सीधा रखते हुए, अपनी कोहनियों को मोड़कर अपनी छाती को ज़मीन की ओर नीचे करें। अपनी भुजाओं को फैलाने के लिए अपने हाथों से धक्का दें और प्रारंभिक स्थिति में लौट आएं। जल्दी से एक घुटने को अपनी छाती की ओर लाएँ, फिर तेज़ी से बदलें और दूसरे घुटने को अपनी छाती की ओर लाएँ। अच्छी स्थिति बनाए रखते हुए घुटनों को जितनी तेजी से संभव हो सके बदलना जारी रखें। वांछित अवधि या दोहराव की संख्या तक जारी रखें।",
+    "pl": "Rozpocznij w pozycji do pompki z dłońmi w rozkroku na szerokość barków i ciałem w linii prostej. Opuść klatkę piersiową w kierunku podłogi, uginając łokcie i trzymając ciało w linii prostej. Odepchnij się dłońmi, prostując ręce, aby wrócić do pozycji wyjściowej. Szybko przyciągnij jedno kolano do klatki piersiowej, a następnie szybko zmień nogę i przyciągnij drugie kolano do klatki piersiowej. Kontynuuj naprzemienne ruchy kolan tak szybko, jak to możliwe, zachowując prawidłową technikę. Kontynuuj przez wybrany czas lub liczbę powtórzeń.",
+    "ko": "손이 어깨 너비로 벌려져 있고 머리에서 발끝까지 일직선인 푸시업 자세에서 시작합니다. 팔꿈치를 구부려 가슴을 땅 쪽으로 낮추면서 몸을 펴진 상태로 유지합니다. 손을 밀어 팔을 펴고 처음 자세로 돌아옵니다. 한쪽 무릎을 빠르게 가슴 쪽으로 가져온 후 다른 무릎으로 빠르게 바꿉니다. 좋은 자세를 유지하면서 가능한 빨리 무릎을 번갈아 가며 계속합니다. 원하는 기간이나 횟수만큼 계속합니다.",
+    "fr": "Commence en position de pompe, les mains écartées à la largeur des épaules et le corps bien aligné. Abaisse ta poitrine vers le sol en fléchissant les coudes, en gardant ton corps droit. Pousse à travers tes mains pour étendre tes bras et revenir à la position de départ. Amène rapidement un genou vers ta poitrine, puis change rapidement et amène l'autre genou vers ta poitrine. Continue à alterner les genoux aussi vite que possible tout en gardant une bonne exécution. Continue pendant la durée ou le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start in a push-up position with your hands shoulder-width apart and your body in a straight line.",
+      "Lower your chest towards the ground by bending your elbows, keeping your body straight.",
+      "Push through your hands to extend your arms and return to the starting position.",
+      "Quickly bring one knee towards your chest, then quickly switch and bring the other knee towards your chest.",
+      "Continue alternating knees as fast as you can while maintaining good form.",
+      "Continue for the desired duration or number of repetitions."
+    ],
+    "it": [
+      "Inizia in una posizione push-up con le mani alla larghezza delle spalle e il corpo in linea retta.",
+      "Abbassa il petto verso terra piegando i gomiti, mantenendo il corpo dritto.",
+      "Spingi attraverso le mani per estendere le braccia e tornare alla posizione di partenza.",
+      "Porta rapidamente un ginocchio verso il petto, quindi cambia rapidamente e porta l'altro ginocchio verso il petto.",
+      "Continua ad alternare le ginocchia il più velocemente possibile mantenendo una buona forma.",
+      "Continuare per la durata o il numero di ripetizioni desiderati."
+    ],
+    "tr": [
+      "Elleriniz omuz genişliğinde ve vücudunuz düz bir çizgide olacak şekilde şınav pozisyonuna başlayın.",
+      "Vücudunuzu düz tutarak dirseklerinizi bükerek göğsünüzü yere doğru indirin.",
+      "Kollarınızı uzatmak için ellerinizi itin ve başlangıç ​​pozisyonuna dönün.",
+      "Bir dizinizi hızla göğsünüze doğru çekin, ardından hızla diğer dizinizi göğsünüze doğru getirin.",
+      "İyi formu korurken dizlerinizi mümkün olduğu kadar hızlı değiştirmeye devam edin.",
+      "İstenilen süre veya tekrar sayısı kadar devam edin."
+    ],
+    "es": [
+      "Comienza en posición de flexión con las manos separadas a la altura de los hombros y el cuerpo en línea recta.",
+      "Baja el pecho hacia el suelo flexionando los codos, manteniendo el cuerpo recto.",
+      "Empuja con las manos para extender los brazos y volver a la posición inicial.",
+      "Lleva rápidamente una rodilla hacia el pecho, luego cambia rápidamente y lleva la otra rodilla hacia el pecho.",
+      "Continúa alternando las rodillas tan rápido como puedas manteniendo una buena forma.",
+      "Continúa durante el tiempo o el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с позиции для отжиманий, поставив руки на ширине плеч, а тело образуя прямую линию.",
+      "Опустите грудь к земле, согнув локти, сохраняя тело прямым.",
+      "Оттолкнитесь руками, чтобы вытянуть руки и вернуться в исходное положение.",
+      "Быстро поднесите одно колено к груди, затем быстро поменяйте местами и подтяните другое колено к груди.",
+      "Продолжайте чередовать колени так быстро, как только можете, сохраняя при этом хорошую форму.",
+      "Продолжайте желаемую продолжительность или количество повторений."
+    ],
+    "zh": [
+      "从俯卧撑位置开始，双手分开与肩同宽，身体呈一条直线。",
+      "弯曲肘部，将胸部压向地面，保持身体伸直。",
+      "用手推动以伸展手臂并返回到起始位置。",
+      "快速将一个膝盖靠近胸部，然后快速切换并将另一只膝盖靠近胸部。",
+      "继续尽可能快地交替膝盖，同时保持良好的姿势。",
+      "继续所需的持续时间或重复次数。"
+    ],
+    "hi": [
+      "अपने हाथों को कंधे की चौड़ाई पर और अपने शरीर को एक सीधी रेखा में रखकर पुश-अप स्थिति से शुरुआत करें।",
+      "अपने शरीर को सीधा रखते हुए, अपनी कोहनियों को मोड़कर अपनी छाती को ज़मीन की ओर नीचे करें।",
+      "अपनी भुजाओं को फैलाने के लिए अपने हाथों से धक्का दें और प्रारंभिक स्थिति में लौट आएं।",
+      "जल्दी से एक घुटने को अपनी छाती की ओर लाएँ, फिर तेज़ी से बदलें और दूसरे घुटने को अपनी छाती की ओर लाएँ।",
+      "अच्छी स्थिति बनाए रखते हुए घुटनों को जितनी तेजी से संभव हो सके बदलना जारी रखें।",
+      "वांछित अवधि या दोहराव की संख्या तक जारी रखें।"
+    ],
+    "pl": [
+      "Rozpocznij w pozycji do pompki z dłońmi w rozkroku na szerokość barków i ciałem w linii prostej.",
+      "Opuść klatkę piersiową w kierunku podłogi, uginając łokcie i trzymając ciało w linii prostej.",
+      "Odepchnij się dłońmi, prostując ręce, aby wrócić do pozycji wyjściowej.",
+      "Szybko przyciągnij jedno kolano do klatki piersiowej, a następnie szybko zmień nogę i przyciągnij drugie kolano do klatki piersiowej.",
+      "Kontynuuj naprzemienne ruchy kolan tak szybko, jak to możliwe, zachowując prawidłową technikę.",
+      "Kontynuuj przez wybrany czas lub liczbę powtórzeń."
+    ],
+    "ko": [
+      "손이 어깨 너비로 벌려져 있고 머리에서 발끝까지 일직선인 푸시업 자세에서 시작합니다.",
+      "팔꿈치를 구부려 가슴을 땅 쪽으로 낮추면서 몸을 펴진 상태로 유지합니다.",
+      "손을 밀어 팔을 펴고 처음 자세로 돌아옵니다.",
+      "한쪽 무릎을 빠르게 가슴 쪽으로 가져온 후 다른 무릎으로 빠르게 바꿉니다.",
+      "좋은 자세를 유지하면서 가능한 빨리 무릎을 번갈아 가며 계속합니다.",
+      "원하는 기간이나 횟수만큼 계속합니다."
+    ],
+    "fr": [
+      "Commence en position de pompe, les mains écartées à la largeur des épaules et le corps bien aligné.",
+      "Abaisse ta poitrine vers le sol en fléchissant les coudes, en gardant ton corps droit.",
+      "Pousse à travers tes mains pour étendre tes bras et revenir à la position de départ.",
+      "Amène rapidement un genou vers ta poitrine, puis change rapidement et amène l'autre genou vers ta poitrine.",
+      "Continue à alterner les genoux aussi vite que possible tout en gardant une bonne exécution.",
+      "Continue pendant la durée ou le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "cardiovascular system",
+  "image": "images/3638-PrQbjvB.jpg",
+  "gif_url": "videos/3638-PrQbjvB.gif",
+  "media_id": "PrQbjvB",
+  "created_at": "2026-03-18T12:31:32.888441+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,102 @@
+{
+  "id": "3698",
+  "name": "inchworm v. 2",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Start in a standing position with your feet hip-width apart. Bend forward at the waist and place your hands on the ground in front of you. Walk your hands forward until you are in a high plank position, with your body in a straight line from head to toe. Keeping your legs straight, walk your feet towards your hands, bringing your hips up towards the ceiling. Continue walking your hands forward, repeating the movement for the desired number of repetitions.",
+    "it": "Inizia in posizione eretta con i piedi alla larghezza dei fianchi. Piegati in avanti all'altezza della vita e metti le mani a terra davanti a te. Cammina con le mani in avanti fino a raggiungere una posizione di plancia alta, con il corpo in linea retta dalla testa ai piedi. Tenendo le gambe dritte, avvicina i piedi alle mani, portando i fianchi verso il soffitto. Continua a portare le mani in avanti, ripetendo il movimento per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız kalça genişliğinde açık olacak şekilde ayakta durma pozisyonuna başlayın. Belinizden öne doğru eğilin ve ellerinizi önünüzde yere koyun. Vücudunuz baştan ayağa düz bir çizgide olacak şekilde yüksek bir plank pozisyonuna gelinceye kadar ellerinizi ileri doğru yürütün. Bacaklarınızı düz tutarak ayaklarınızı ellerinize doğru yürütün, kalçalarınızı tavana doğru kaldırın. Hareketi istediğiniz sayıda tekrarlayarak ellerinizi ileri doğru yürütmeye devam edin.",
+    "es": "Comienza de pie con los pies separados a la altura de las caderas. Inclínate hacia adelante desde la cintura y coloca las manos en el suelo frente a ti. Camina con las manos hacia adelante hasta quedar en posición de plancha alta, con el cuerpo en línea recta de la cabeza a los pies. Manteniendo las piernas rectas, camina con los pies hacia las manos, llevando las caderas hacia el techo. Continúa caminando con las manos hacia adelante, repitiendo el movimiento durante el número de repeticiones deseado.",
+    "ru": "Начните с положения стоя, поставив ноги на ширине плеч. Наклонитесь вперед в талии и положите руки на пол перед собой. Вытяните руки вперед, пока не окажетесь в положении высокой планки, при этом тело будет составлять прямую линию от головы до пят. Держа ноги прямыми, подтяните ступни к рукам, подтягивая бедра к потолку. Продолжайте шагать руками вперед, повторяя движение желаемое количество повторений.",
+    "zh": "从站立位置开始，双脚分开与臀部同宽。 腰部向前弯曲，双手放在身前的地面上。 双手向前移动，直到处于高位平板支撑位置，身体从头到脚成一条直线。 保持双腿伸直，将脚移向双手，将臀部抬向天花板。 继续向前移动双手，重复该动作达到所需的重复次数。",
+    "hi": "अपने पैरों को कूल्हे की चौड़ाई से अलग रखते हुए खड़े होकर शुरुआत करें। कमर के बल आगे की ओर झुकें और अपने हाथों को अपने सामने ज़मीन पर रखें। अपने हाथों को तब तक आगे की ओर ले जाएं जब तक कि आप ऊंचे तख़्ते की स्थिति में न आ जाएं, अपने शरीर को सिर से पैर तक एक सीधी रेखा में रखें। अपने पैरों को सीधा रखते हुए, अपने पैरों को अपने हाथों की ओर ले जाएं, अपने कूल्हों को छत की ओर लाएं। वांछित संख्या में दोहराव के लिए इस क्रिया को दोहराते हुए, अपने हाथों को आगे की ओर चलाना जारी रखें।",
+    "pl": "Zacznij w pozycji stojącej, stopy na szerokość bioder. Pochyl się do przodu w talii i umieść dłonie na podłodze przed sobą. Przechodź dłońmi do przodu, aż znajdziesz się w wysokiej podporze, z ciałem w prostej linii od głowy do stóp. Trzymając nogi proste, przechodź stopami w stronę dłoni, unosząc biodra w kierunku sufitu. Kontynuuj przechodzenie dłońmi do przodu, powtarzając ruch przez zalecaną liczbę powtórzeń.",
+    "ko": "어깨 너비만큼 발을 벌리고 서서 시작합니다. 허리에서 앞으로 구부려 손을 지면에 얹습니다. 손으로 앞으로 걸으면서 하이 플랭크 자세가 될 때까지 이동합니다. 머리부터 발끝까지 일직선이 되도록 합니다. 다리를 곧게 펼친 채로 발을 손 쪽으로 걸어와 엉덩이를 천장 방향으로 들어 올립니다. 손을 앞으로 계속 걸으면서 동작을 반복합니다.",
+    "fr": "Commence en position debout, les pieds écartés à la largeur des hanches. Penche-toi vers l'avant au niveau de la taille et place tes mains sur le sol devant toi. Avance les mains jusqu'à te retrouver en position de planche haute, le corps aligné de la tête aux pieds. En gardant les jambes tendues, marche avec tes pieds vers tes mains, en amenant tes hanches vers le plafond. Continue à avancer tes mains, en répétant le mouvement pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start in a standing position with your feet hip-width apart.",
+      "Bend forward at the waist and place your hands on the ground in front of you.",
+      "Walk your hands forward until you are in a high plank position, with your body in a straight line from head to toe.",
+      "Keeping your legs straight, walk your feet towards your hands, bringing your hips up towards the ceiling.",
+      "Continue walking your hands forward, repeating the movement for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia in posizione eretta con i piedi alla larghezza dei fianchi.",
+      "Piegati in avanti all'altezza della vita e metti le mani a terra davanti a te.",
+      "Cammina con le mani in avanti fino a raggiungere una posizione di plancia alta, con il corpo in linea retta dalla testa ai piedi.",
+      "Tenendo le gambe dritte, avvicina i piedi alle mani, portando i fianchi verso il soffitto.",
+      "Continua a portare le mani in avanti, ripetendo il movimento per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız kalça genişliğinde açık olacak şekilde ayakta durma pozisyonuna başlayın.",
+      "Belinizden öne doğru eğilin ve ellerinizi önünüzde yere koyun.",
+      "Vücudunuz baştan ayağa düz bir çizgide olacak şekilde yüksek bir plank pozisyonuna gelinceye kadar ellerinizi ileri doğru yürütün.",
+      "Bacaklarınızı düz tutarak ayaklarınızı ellerinize doğru yürütün, kalçalarınızı tavana doğru kaldırın.",
+      "Hareketi istediğiniz sayıda tekrarlayarak ellerinizi ileri doğru yürütmeye devam edin."
+    ],
+    "es": [
+      "Comienza de pie con los pies separados a la altura de las caderas.",
+      "Inclínate hacia adelante desde la cintura y coloca las manos en el suelo frente a ti.",
+      "Camina con las manos hacia adelante hasta quedar en posición de plancha alta, con el cuerpo en línea recta de la cabeza a los pies.",
+      "Manteniendo las piernas rectas, camina con los pies hacia las manos, llevando las caderas hacia el techo.",
+      "Continúa caminando con las manos hacia adelante, repitiendo el movimiento durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с положения стоя, поставив ноги на ширине плеч.",
+      "Наклонитесь вперед в талии и положите руки на пол перед собой.",
+      "Вытяните руки вперед, пока не окажетесь в положении высокой планки, при этом тело будет составлять прямую линию от головы до пят.",
+      "Держа ноги прямыми, подтяните ступни к рукам, подтягивая бедра к потолку.",
+      "Продолжайте шагать руками вперед, повторяя движение желаемое количество повторений."
+    ],
+    "zh": [
+      "从站立位置开始，双脚分开与臀部同宽。",
+      "腰部向前弯曲，双手放在身前的地面上。",
+      "双手向前移动，直到处于高位平板支撑位置，身体从头到脚成一条直线。",
+      "保持双腿伸直，将脚移向双手，将臀部抬向天花板。",
+      "继续向前移动双手，重复该动作达到所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कूल्हे की चौड़ाई से अलग रखते हुए खड़े होकर शुरुआत करें।",
+      "कमर के बल आगे की ओर झुकें और अपने हाथों को अपने सामने ज़मीन पर रखें।",
+      "अपने हाथों को तब तक आगे की ओर ले जाएं जब तक कि आप ऊंचे तख़्ते की स्थिति में न आ जाएं, अपने शरीर को सिर से पैर तक एक सीधी रेखा में रखें।",
+      "अपने पैरों को सीधा रखते हुए, अपने पैरों को अपने हाथों की ओर ले जाएं, अपने कूल्हों को छत की ओर लाएं।",
+      "वांछित संख्या में दोहराव के लिए इस क्रिया को दोहराते हुए, अपने हाथों को आगे की ओर चलाना जारी रखें।"
+    ],
+    "pl": [
+      "Zacznij w pozycji stojącej, stopy na szerokość bioder.",
+      "Pochyl się do przodu w talii i umieść dłonie na podłodze przed sobą.",
+      "Przechodź dłońmi do przodu, aż znajdziesz się w wysokiej podporze, z ciałem w prostej linii od głowy do stóp.",
+      "Trzymając nogi proste, przechodź stopami w stronę dłoni, unosząc biodra w kierunku sufitu.",
+      "Kontynuuj przechodzenie dłońmi do przodu, powtarzając ruch przez zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "어깨 너비만큼 발을 벌리고 서서 시작합니다.",
+      "허리에서 앞으로 구부려 손을 지면에 얹습니다.",
+      "손으로 앞으로 걸으면서 하이 플랭크 자세가 될 때까지 이동합니다.",
+      "다리를 곧게 펼친 채로 발을 손 쪽으로 걸어와 엉덩이를 천장 방향으로 들어 올립니다.",
+      "손을 앞으로 계속 걸으면서 동작을 반복합니다."
+    ],
+    "fr": [
+      "Commence en position debout, les pieds écartés à la largeur des hanches.",
+      "Penche-toi vers l'avant au niveau de la taille et place tes mains sur le sol devant toi.",
+      "Avance les mains jusqu'à te retrouver en position de planche haute, le corps aligné de la tête aux pieds.",
+      "En gardant les jambes tendues, marche avec tes pieds vers tes mains, en amenant tes hanches vers le plafond.",
+      "Continue à avancer tes mains, en répétant le mouvement pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "hamstrings"
+  ],
+  "target": "abs",
+  "image": "images/3698-TV87DNB.jpg",
+  "gif_url": "videos/3698-TV87DNB.gif",
+  "media_id": "TV87DNB",
+  "created_at": "2026-03-18T12:31:32.884405+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,112 @@
+{
+  "id": "0094",
+  "name": "barbell seated twist",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Sit on a flat bench with your feet flat on the ground and your knees bent. Hold a barbell with both hands in front of your chest, keeping your elbows slightly bent. Engage your core and slowly twist your torso to one side, keeping your back straight. Pause for a moment at the end of the twist, then slowly rotate back to the starting position. Repeat the twist to the other side. Continue alternating sides for the desired number of repetitions.",
+    "it": "Siediti su una panchina piatta con i piedi piatti a terra e le ginocchia piegate. Tieni un bilanciere con entrambe le mani davanti al petto, tenendo i gomiti leggermente piegati. Attiva il core e ruota lentamente il busto da un lato, mantenendo la schiena dritta. Fermati un attimo alla fine della torsione, poi ruota lentamente tornando alla posizione iniziale. Ripeti la torsione dall'altro lato. Continua ad alternare i lati per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız yere düz basacak ve dizleriniz bükülü olacak şekilde düz bir bankta oturun. Dirseklerinizi hafifçe bükerek halteri iki elinizle göğsünüzün önünde tutun. Merkez bölgenizi devreye sokun ve sırtınızı düz tutarak gövdenizi yavaşça bir tarafa doğru çevirin. Bükülmenin sonunda bir an duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün. Bükmeyi diğer tarafa tekrarlayın. İstenilen tekrar sayısı için alternatif taraflara devam edin.",
+    "es": "Siéntate en un banco plano con los pies planos sobre el suelo y las rodillas flexionadas. Sujeta una barra con ambas manos frente al pecho, manteniendo los codos ligeramente flexionados. Activa el core y gira lentamente el torso hacia un lado, manteniendo la espalda recta. Haz una pausa breve al final del giro y luego rota lentamente de vuelta a la posición inicial. Repite el giro hacia el otro lado. Continúa alternando lados durante el número de repeticiones deseado.",
+    "ru": "Сядьте на плоскую скамью, поставьте ступни на землю и согните колени. Держите штангу обеими руками перед грудью, слегка согнув локти. Напрягите корпус и медленно поверните туловище в сторону, сохраняя спину прямой. Сделайте паузу на мгновение в конце поворота, затем медленно поверните обратно в исходное положение. Повторите поворот в другую сторону. Продолжайте чередовать стороны желаемое количество повторений.",
+    "zh": "坐在平坦的长凳上，双脚平放在地上，膝盖弯曲。 双手握住杠铃于胸前，保持肘部稍微弯曲。 启动你的核心，慢慢地将你的躯干扭转到一侧，保持背部挺直。 扭转结束时暂停片刻，然后慢慢旋转回到起始位置。 重复扭转到另一侧。 继续交替进行所需的重复次数。",
+    "hi": "अपने पैरों को ज़मीन पर सपाट करके और अपने घुटनों को मोड़कर एक सपाट बेंच पर बैठें। अपनी कोहनियों को थोड़ा मुड़ा हुआ रखते हुए, अपनी छाती के सामने दोनों हाथों से बारबेल को पकड़ें। अपने कोर को संलग्न करें और अपनी पीठ को सीधा रखते हुए धीरे-धीरे अपने धड़ को एक तरफ मोड़ें। मोड़ के अंत में एक पल के लिए रुकें, फिर धीरे-धीरे प्रारंभिक स्थिति में वापस आएँ। दूसरी तरफ मोड़ को दोहराएं। दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।",
+    "pl": "Usiądź na płaskiej ławce, trzymając stopy płasko na podłodze, a kolana ugięte. Trzymaj sztangę obiema rękami przed klatką piersiową, z lekko ugiętymi łokciami. Napnij mięśnie brzucha i powoli skręć tułów w jedną stronę, trzymając plecy proste. Zatrzymaj się na chwilę na końcu skrętu, a następnie powoli wróć do pozycji wyjściowej. Powtórz skręt w drugą stronę. Kontynuuj naprzemienne skręty przez zadaną liczbę powtórzeń.",
+    "ko": "플랫 벤치에 앉아 발은 바닥에 놓고 무릎은 구부립니다. 바벨을 양손으로 가슴 앞에 들고 팔꿈치는 약간 구부립니다. 코어에 힘을 주고 몸 한쪽 방향으로 천천히 트위스트하며 등은 곧게 펴집니다. 트위스트 끝에서 잠시 멈춘 후 천천히 시작 위치로 돌아갑니다. 다른 쪽으로 트위스트합니다. 원하는 반복 횟수만큼 좌우를 번갈아 반복합니다.",
+    "fr": "Assieds-toi sur un banc plat, les pieds à plat sur le sol et les genoux fléchis. Tiens une barre des deux mains devant ta poitrine, en gardant les coudes légèrement fléchis. Gaine ta sangle abdominale et tourne lentement ton torse d'un côté, en gardant le dos droit. Marque une pause à la fin de la torsion, puis tourne lentement pour revenir à la position de départ. Répète la torsion vers l'autre côté. Continue à alterner les côtés pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on a flat bench with your feet flat on the ground and your knees bent.",
+      "Hold a barbell with both hands in front of your chest, keeping your elbows slightly bent.",
+      "Engage your core and slowly twist your torso to one side, keeping your back straight.",
+      "Pause for a moment at the end of the twist, then slowly rotate back to the starting position.",
+      "Repeat the twist to the other side.",
+      "Continue alternating sides for the desired number of repetitions."
+    ],
+    "it": [
+      "Siediti su una panchina piatta con i piedi piatti a terra e le ginocchia piegate.",
+      "Tieni un bilanciere con entrambe le mani davanti al petto, tenendo i gomiti leggermente piegati.",
+      "Attiva il core e ruota lentamente il busto da un lato, mantenendo la schiena dritta.",
+      "Fermati un attimo alla fine della torsione, poi ruota lentamente tornando alla posizione iniziale.",
+      "Ripeti la torsione dall'altro lato.",
+      "Continua ad alternare i lati per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız yere düz basacak ve dizleriniz bükülü olacak şekilde düz bir bankta oturun.",
+      "Dirseklerinizi hafifçe bükerek halteri iki elinizle göğsünüzün önünde tutun.",
+      "Merkez bölgenizi devreye sokun ve sırtınızı düz tutarak gövdenizi yavaşça bir tarafa doğru çevirin.",
+      "Bükülmenin sonunda bir an duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün.",
+      "Bükmeyi diğer tarafa tekrarlayın.",
+      "İstenilen tekrar sayısı için alternatif taraflara devam edin."
+    ],
+    "es": [
+      "Siéntate en un banco plano con los pies planos sobre el suelo y las rodillas flexionadas.",
+      "Sujeta una barra con ambas manos frente al pecho, manteniendo los codos ligeramente flexionados.",
+      "Activa el core y gira lentamente el torso hacia un lado, manteniendo la espalda recta.",
+      "Haz una pausa breve al final del giro y luego rota lentamente de vuelta a la posición inicial.",
+      "Repite el giro hacia el otro lado.",
+      "Continúa alternando lados durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на плоскую скамью, поставьте ступни на землю и согните колени.",
+      "Держите штангу обеими руками перед грудью, слегка согнув локти.",
+      "Напрягите корпус и медленно поверните туловище в сторону, сохраняя спину прямой.",
+      "Сделайте паузу на мгновение в конце поворота, затем медленно поверните обратно в исходное положение.",
+      "Повторите поворот в другую сторону.",
+      "Продолжайте чередовать стороны желаемое количество повторений."
+    ],
+    "zh": [
+      "坐在平坦的长凳上，双脚平放在地上，膝盖弯曲。",
+      "双手握住杠铃于胸前，保持肘部稍微弯曲。",
+      "启动你的核心，慢慢地将你的躯干扭转到一侧，保持背部挺直。",
+      "扭转结束时暂停片刻，然后慢慢旋转回到起始位置。",
+      "重复扭转到另一侧。",
+      "继续交替进行所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को ज़मीन पर सपाट करके और अपने घुटनों को मोड़कर एक सपाट बेंच पर बैठें।",
+      "अपनी कोहनियों को थोड़ा मुड़ा हुआ रखते हुए, अपनी छाती के सामने दोनों हाथों से बारबेल को पकड़ें।",
+      "अपने कोर को संलग्न करें और अपनी पीठ को सीधा रखते हुए धीरे-धीरे अपने धड़ को एक तरफ मोड़ें।",
+      "मोड़ के अंत में एक पल के लिए रुकें, फिर धीरे-धीरे प्रारंभिक स्थिति में वापस आएँ।",
+      "दूसरी तरफ मोड़ को दोहराएं।",
+      "दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।"
+    ],
+    "pl": [
+      "Usiądź na płaskiej ławce, trzymając stopy płasko na podłodze, a kolana ugięte.",
+      "Trzymaj sztangę obiema rękami przed klatką piersiową, z lekko ugiętymi łokciami.",
+      "Napnij mięśnie brzucha i powoli skręć tułów w jedną stronę, trzymając plecy proste.",
+      "Zatrzymaj się na chwilę na końcu skrętu, a następnie powoli wróć do pozycji wyjściowej.",
+      "Powtórz skręt w drugą stronę.",
+      "Kontynuuj naprzemienne skręty przez zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "플랫 벤치에 앉아 발은 바닥에 놓고 무릎은 구부립니다.",
+      "바벨을 양손으로 가슴 앞에 들고 팔꿈치는 약간 구부립니다.",
+      "코어에 힘을 주고 몸 한쪽 방향으로 천천히 트위스트하며 등은 곧게 펴집니다.",
+      "트위스트 끝에서 잠시 멈춘 후 천천히 시작 위치로 돌아갑니다.",
+      "다른 쪽으로 트위스트합니다.",
+      "원하는 반복 횟수만큼 좌우를 번갈아 반복합니다."
+    ],
+    "fr": [
+      "Assieds-toi sur un banc plat, les pieds à plat sur le sol et les genoux fléchis.",
+      "Tiens une barre des deux mains devant ta poitrine, en gardant les coudes légèrement fléchis.",
+      "Gaine ta sangle abdominale et tourne lentement ton torse d'un côté, en gardant le dos droit.",
+      "Marque une pause à la fin de la torsion, puis tourne lentement pour revenir à la position de départ.",
+      "Répète la torsion vers l'autre côté.",
+      "Continue à alterner les côtés pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "obliques",
+  "secondary_muscles": [
+    "obliques",
+    "lower back"
+  ],
+  "target": "abs",
+  "image": "images/0094-dFSNDOA.jpg",
+  "gif_url": "videos/0094-dFSNDOA.gif",
+  "media_id": "dFSNDOA",
+  "created_at": "2026-03-18T12:31:32.872789+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

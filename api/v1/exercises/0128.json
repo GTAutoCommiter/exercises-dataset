@@ -1,0 +1,102 @@
+{
+  "id": "0128",
+  "name": "battling ropes",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "rope",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and knees slightly bent. Hold one end of the rope in each hand, with your palms facing each other. Raise your arms to shoulder height, keeping your elbows slightly bent. Begin making alternating waves with the ropes by rapidly raising and lowering each arm. Continue for the desired duration or number of repetitions.",
+    "it": "Stai in piedi con i piedi alla larghezza delle spalle e le ginocchia leggermente piegate. Tieni un'estremità della corda in ciascuna mano, con i palmi rivolti l'uno verso l'altro. Alza le braccia all'altezza delle spalle, tenendo i gomiti leggermente piegati. Inizia a fare onde alternate con le corde sollevando e abbassando rapidamente ogni braccio. Continua per la durata o il numero di ripetizioni desiderate.",
+    "tr": "Ayaklarınız omuz genişliğinde açık ve dizleriniz hafifçe bükülü şekilde ayakta durun. İpin bir ucunu avuçlarınız birbirine bakacak şekilde her elinizde tutun. Dirseklerinizi hafifçe bükerek kollarınızı omuz yüksekliğine kaldırın. Her bir kolu hızla kaldırıp indirerek iplerle alternatif dalgalar yapmaya başlayın. İstenilen süre veya tekrar sayısı kadar devam edin.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y las rodillas ligeramente flexionadas. Sujeta un extremo de la cuerda en cada mano, con las palmas mirándose entre sí. Levanta los brazos hasta la altura de los hombros, manteniendo los codos ligeramente flexionados. Comienza a hacer ondas alternas con las cuerdas, levantando y bajando rápidamente cada brazo. Continúa durante el tiempo o el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч и слегка согнуты в коленях. Возьмите по одному концу веревки в каждую руку ладонями друг к другу. Поднимите руки на высоту плеч, слегка согнув локти. Начните делать попеременные волны с помощью веревок, быстро поднимая и опуская каждую руку. Продолжайте желаемую продолжительность или количество повторений.",
+    "zh": "站立，双脚分开与肩同宽，膝盖稍微弯曲。 双手握住绳子的一端，手掌相对。 将手臂举至肩膀高度，保持肘部稍微弯曲。 快速抬起和放下每只手臂，开始用绳索产生交替的波浪。 继续所需的持续时间或重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर और घुटनों को थोड़ा मोड़कर खड़े हो जाएं। अपनी हथेलियों को एक-दूसरे के सामने रखते हुए, प्रत्येक हाथ में रस्सी का एक सिरा पकड़ें। अपनी कोहनियों को थोड़ा मुड़ा हुआ रखते हुए, अपनी भुजाओं को कंधे की ऊँचाई तक उठाएँ। प्रत्येक हाथ को तेजी से ऊपर और नीचे करके रस्सियों से बारी-बारी तरंगें बनाना शुरू करें। वांछित अवधि या दोहराव की संख्या तक जारी रखें।",
+    "pl": "Stań ze stopami na szerokość barków, a kolanami lekko ugiętymi. Trzymaj jeden koniec liny w każdej ręce, dłońmi zwróconymi do siebie. Unieś ramiona na wysokość barków, trzymając łokcie lekko ugięte. Zacznij wykonywać naprzemienne fale liną, szybko unosząc i opuszczając każde ramię. Kontynuuj przez zadany czas lub liczbę powtórzeń.",
+    "ko": "어깨 너비로 발을 벌리고 무릎을 약간 구분 상태로 섭니다. 각 손으로 로프의 끝을 잡고 손바닥이 서로를 향하도록 합니다. 팔을 어깨 높이까지 들어올리되 팔꿈치는 약간만 구부립니다. 양팔을 빠르게 위아래로 움직여 로프로 교대로 파도를 일으킵니다. 원하는 시간 동안 또는 원하는 횟수만큼 계속합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et les genoux légèrement fléchis. Tiens une extrémité de la corde dans chaque main, les paumes tournées l'une vers l'autre. Lève tes bras à hauteur des épaules en gardant tes coudes légèrement fléchis. Commence à faire des vagues alternées avec les cordes en levant et en abaissant rapidement chaque bras. Continue pendant la durée ou le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and knees slightly bent.",
+      "Hold one end of the rope in each hand, with your palms facing each other.",
+      "Raise your arms to shoulder height, keeping your elbows slightly bent.",
+      "Begin making alternating waves with the ropes by rapidly raising and lowering each arm.",
+      "Continue for the desired duration or number of repetitions."
+    ],
+    "it": [
+      "Stai in piedi con i piedi alla larghezza delle spalle e le ginocchia leggermente piegate.",
+      "Tieni un'estremità della corda in ciascuna mano, con i palmi rivolti l'uno verso l'altro.",
+      "Alza le braccia all'altezza delle spalle, tenendo i gomiti leggermente piegati.",
+      "Inizia a fare onde alternate con le corde sollevando e abbassando rapidamente ogni braccio.",
+      "Continua per la durata o il numero di ripetizioni desiderate."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık ve dizleriniz hafifçe bükülü şekilde ayakta durun.",
+      "İpin bir ucunu avuçlarınız birbirine bakacak şekilde her elinizde tutun.",
+      "Dirseklerinizi hafifçe bükerek kollarınızı omuz yüksekliğine kaldırın.",
+      "Her bir kolu hızla kaldırıp indirerek iplerle alternatif dalgalar yapmaya başlayın.",
+      "İstenilen süre veya tekrar sayısı kadar devam edin."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y las rodillas ligeramente flexionadas.",
+      "Sujeta un extremo de la cuerda en cada mano, con las palmas mirándose entre sí.",
+      "Levanta los brazos hasta la altura de los hombros, manteniendo los codos ligeramente flexionados.",
+      "Comienza a hacer ondas alternas con las cuerdas, levantando y bajando rápidamente cada brazo.",
+      "Continúa durante el tiempo o el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч и слегка согнуты в коленях.",
+      "Возьмите по одному концу веревки в каждую руку ладонями друг к другу.",
+      "Поднимите руки на высоту плеч, слегка согнув локти.",
+      "Начните делать попеременные волны с помощью веревок, быстро поднимая и опуская каждую руку.",
+      "Продолжайте желаемую продолжительность или количество повторений."
+    ],
+    "zh": [
+      "站立，双脚分开与肩同宽，膝盖稍微弯曲。",
+      "双手握住绳子的一端，手掌相对。",
+      "将手臂举至肩膀高度，保持肘部稍微弯曲。",
+      "快速抬起和放下每只手臂，开始用绳索产生交替的波浪。",
+      "继续所需的持续时间或重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर और घुटनों को थोड़ा मोड़कर खड़े हो जाएं।",
+      "अपनी हथेलियों को एक-दूसरे के सामने रखते हुए, प्रत्येक हाथ में रस्सी का एक सिरा पकड़ें।",
+      "अपनी कोहनियों को थोड़ा मुड़ा हुआ रखते हुए, अपनी भुजाओं को कंधे की ऊँचाई तक उठाएँ।",
+      "प्रत्येक हाथ को तेजी से ऊपर और नीचे करके रस्सियों से बारी-बारी तरंगें बनाना शुरू करें।",
+      "वांछित अवधि या दोहराव की संख्या तक जारी रखें।"
+    ],
+    "pl": [
+      "Stań ze stopami na szerokość barków, a kolanami lekko ugiętymi.",
+      "Trzymaj jeden koniec liny w każdej ręce, dłońmi zwróconymi do siebie.",
+      "Unieś ramiona na wysokość barków, trzymając łokcie lekko ugięte.",
+      "Zacznij wykonywać naprzemienne fale liną, szybko unosząc i opuszczając każde ramię.",
+      "Kontynuuj przez zadany czas lub liczbę powtórzeń."
+    ],
+    "ko": [
+      "어깨 너비로 발을 벌리고 무릎을 약간 구분 상태로 섭니다.",
+      "각 손으로 로프의 끝을 잡고 손바닥이 서로를 향하도록 합니다.",
+      "팔을 어깨 높이까지 들어올리되 팔꿈치는 약간만 구부립니다.",
+      "양팔을 빠르게 위아래로 움직여 로프로 교대로 파도를 일으킵니다.",
+      "원하는 시간 동안 또는 원하는 횟수만큼 계속합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et les genoux légèrement fléchis.",
+      "Tiens une extrémité de la corde dans chaque main, les paumes tournées l'une vers l'autre.",
+      "Lève tes bras à hauteur des épaules en gardant tes coudes légèrement fléchis.",
+      "Commence à faire des vagues alternées avec les cordes en levant et en abaissant rapidement chaque bras.",
+      "Continue pendant la durée ou le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "forearms",
+  "secondary_muscles": [
+    "forearms",
+    "core"
+  ],
+  "target": "delts",
+  "image": "images/0128-RJa4tCo.jpg",
+  "gif_url": "videos/0128-RJa4tCo.gif",
+  "media_id": "RJa4tCo",
+  "created_at": "2026-03-18T12:31:32.87357+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

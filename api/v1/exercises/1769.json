@@ -1,0 +1,91 @@
+{
+  "id": "1769",
+  "name": "bodyweight side lying biceps curl",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Lie on your side with your legs extended and your head supported by your arm. Hold your upper arm against your side and bend your elbow to curl your forearm towards your shoulder. Pause for a moment at the top, then slowly lower your forearm back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Sdraiati su un fianco con le gambe distese e la testa sostenuta dal braccio. Tieni il braccio superiore contro il fianco e piega il gomito per piegare l'avambraccio verso la spalla. Fermati un attimo in cima, poi abbassa lentamente l'avambraccio fino alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Bacaklarınız uzatılmış ve başınız kolunuz tarafından desteklenmiş şekilde yan tarafınıza uzanın. Üst kolunuzu yanınıza doğru tutun ve dirseğinizi bükerek ön kolunuzu omzunuza doğru kıvırın. Tepe noktasında bir an duraklayın, ardından ön kolunuzu yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Túmbate de lado con las piernas extendidas y la cabeza apoyada sobre el brazo. Mantén el brazo superior junto al cuerpo y flexiona el codo para llevar el antebrazo hacia el hombro. Haz una pausa por un momento en la parte superior, luego baja lentamente el antebrazo de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Лягте на бок, вытянув ноги и подперев голову рукой. Прижмите плечо к боку и согните локоть, чтобы предплечье приблизилось к плечу. Задержитесь на мгновение в верхней точке, затем медленно опустите предплечье обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "侧躺，双腿伸直，用手臂支撑头部。 将上臂靠在身体两侧，弯曲肘部，将前臂卷向肩膀。 在顶部暂停片刻，然后慢慢将前臂放回起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को फैलाकर और अपने सिर को अपनी बांह के सहारे रखते हुए अपनी तरफ लेटें। अपनी ऊपरी भुजा को अपनी बगल में पकड़ें और अपनी कोहनी को मोड़कर अपने अग्रबाहु को अपने कंधे की ओर मोड़ें। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपनी बांह को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Połóż się na boku, z nogami wyprostowanymi, a głową wspartą na ramieniu. Trzymaj ramię przy tułowiu i ugnij łokieć, przyciągając przedramię w kierunku barku. Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść przedramię z powrotem do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "옆으로 누운 자세에서 다리를 펼친 후 머리를 팔로 받칩니다. 상완을 몸에 붙인 상태에서 팔꿈치를 구부려 전완을 어깨 방향으로 말아 올립니다. 맨 위에서 잠시 멈춘 후 천천히 전완을 시작 자세로 내립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Allonge-toi sur le côté, les jambes tendues et la tête soutenue par ton bras. Garde le haut de ton bras contre ton flanc et plie ton coude pour ramener ton avant-bras vers ton épaule. Marque une pause en haut, puis abaisse lentement ton avant-bras pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Lie on your side with your legs extended and your head supported by your arm.",
+      "Hold your upper arm against your side and bend your elbow to curl your forearm towards your shoulder.",
+      "Pause for a moment at the top, then slowly lower your forearm back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Sdraiati su un fianco con le gambe distese e la testa sostenuta dal braccio.",
+      "Tieni il braccio superiore contro il fianco e piega il gomito per piegare l'avambraccio verso la spalla.",
+      "Fermati un attimo in cima, poi abbassa lentamente l'avambraccio fino alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Bacaklarınız uzatılmış ve başınız kolunuz tarafından desteklenmiş şekilde yan tarafınıza uzanın.",
+      "Üst kolunuzu yanınıza doğru tutun ve dirseğinizi bükerek ön kolunuzu omzunuza doğru kıvırın.",
+      "Tepe noktasında bir an duraklayın, ardından ön kolunuzu yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Túmbate de lado con las piernas extendidas y la cabeza apoyada sobre el brazo.",
+      "Mantén el brazo superior junto al cuerpo y flexiona el codo para llevar el antebrazo hacia el hombro.",
+      "Haz una pausa por un momento en la parte superior, luego baja lentamente el antebrazo de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Лягте на бок, вытянув ноги и подперев голову рукой.",
+      "Прижмите плечо к боку и согните локоть, чтобы предплечье приблизилось к плечу.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите предплечье обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "侧躺，双腿伸直，用手臂支撑头部。",
+      "将上臂靠在身体两侧，弯曲肘部，将前臂卷向肩膀。",
+      "在顶部暂停片刻，然后慢慢将前臂放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को फैलाकर और अपने सिर को अपनी बांह के सहारे रखते हुए अपनी तरफ लेटें।",
+      "अपनी ऊपरी भुजा को अपनी बगल में पकड़ें और अपनी कोहनी को मोड़कर अपने अग्रबाहु को अपने कंधे की ओर मोड़ें।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपनी बांह को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Połóż się na boku, z nogami wyprostowanymi, a głową wspartą na ramieniu.",
+      "Trzymaj ramię przy tułowiu i ugnij łokieć, przyciągając przedramię w kierunku barku.",
+      "Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść przedramię z powrotem do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "옆으로 누운 자세에서 다리를 펼친 후 머리를 팔로 받칩니다.",
+      "상완을 몸에 붙인 상태에서 팔꿈치를 구부려 전완을 어깨 방향으로 말아 올립니다.",
+      "맨 위에서 잠시 멈춘 후 천천히 전완을 시작 자세로 내립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Allonge-toi sur le côté, les jambes tendues et la tête soutenue par ton bras.",
+      "Garde le haut de ton bras contre ton flanc et plie ton coude pour ramener ton avant-bras vers ton épaule.",
+      "Marque une pause en haut, puis abaisse lentement ton avant-bras pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "forearms",
+  "secondary_muscles": [
+    "forearms"
+  ],
+  "target": "biceps",
+  "image": "images/1769-gscGLOU.jpg",
+  "gif_url": "videos/1769-gscGLOU.gif",
+  "media_id": "gscGLOU",
+  "created_at": "2026-03-18T12:31:32.87383+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

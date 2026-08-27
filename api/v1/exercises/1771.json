@@ -1,0 +1,112 @@
+{
+  "id": "1771",
+  "name": "bodyweight kneeling triceps extension",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Kneel down on the ground with your knees hip-width apart. Place your hands on the ground in front of you, shoulder-width apart, fingers pointing forward. Extend your legs straight behind you, balancing on your toes and hands, forming a straight line from head to heels. Bend your elbows and lower your upper body towards the ground, keeping your elbows close to your sides. Pause for a moment at the bottom, then push through your hands to straighten your arms and return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Inginocchiati a terra con le ginocchia larghe ai fianchi. Metti le mani a terra davanti a te, divaricate alla larghezza delle spalle, dita puntate in avanti. Allunga le gambe dritte dietro di te, bilanciandoti sulle punte dei piedi e sulle mani, formando una linea retta dalla testa ai talloni. Piega i gomiti e abbassa la parte superiore del corpo verso terra, tenendo i gomiti vicini ai fianchi. Fermati un attimo in basso, poi spingi tra le mani per raddrizzare le braccia e tornare alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Dizleriniz kalça genişliğinde açık olacak şekilde yere çömelin. Ellerinizi önünüzde yere koyun, omuz genişliğinde, parmaklarınız ileriyi göstersin. Bacaklarınızı düz bir şekilde arkanıza doğru uzatın, ayak parmaklarınız ve elleriniz üzerinde denge kurun, baştan topuklarınıza kadar düz bir çizgi oluşturun. Dirseklerinizi bükün ve üst vücudunuzu yere doğru indirin, dirseklerinizi yanlarınıza yakın tutun. Altta bir an duraklayın, ardından ellerinizi iterek kollarınızı düzleştirin ve başlangıç ​​pozisyonuna dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de rodillas en el suelo con las rodillas separadas a la altura de las caderas. Coloca las manos en el suelo frente a ti, separadas a la altura de los hombros, con los dedos apuntando hacia adelante. Extiende las piernas rectas detrás de ti, equilibrándote sobre las puntas de los pies y las manos, formando una línea recta desde la cabeza hasta los talones. Flexiona los codos y baja la parte superior del cuerpo hacia el suelo, manteniendo los codos cerca del cuerpo. Haz una pausa breve en la posición más baja, luego empuja con las manos para extender los brazos y volver a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте на колени на землю, расставив колени на ширине плеч. Положите руки на пол перед собой на ширине плеч, пальцы направлены вперед. Вытяните ноги прямо позади себя, балансируя на пальцах ног и руках, образуя прямую линию от головы до пяток. Согните локти и опустите верхнюю часть тела к земле, держа локти близко к бокам. Задержитесь на мгновение в нижней точке, затем оттолкнитесь руками, чтобы выпрямить руки и вернуться в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "跪在地上，膝盖分开与臀部同宽。 将双手放在身前的地面上，与肩同宽，手指指向前方。 将双腿伸直在身后，用脚趾和双手保持平衡，从头到脚跟形成一条直线。 弯曲肘部，将上半身向地面降低，保持肘部靠近身体两侧。 在底部停顿片刻，然后双手用力伸直手臂，回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने घुटनों को कूल्हे-चौड़ाई से अलग रखते हुए जमीन पर बैठ जाएं। अपने हाथों को अपने सामने ज़मीन पर रखें, कंधे की चौड़ाई से अलग, उंगलियाँ आगे की ओर हों। अपने पैरों को अपने पीछे सीधा फैलाएं, अपने पैर की उंगलियों और हाथों पर संतुलन बनाते हुए, सिर से एड़ी तक एक सीधी रेखा बनाएं। अपनी कोहनियों को मोड़ें और अपने ऊपरी शरीर को ज़मीन की ओर नीचे करें, अपनी कोहनियों को अपनी भुजाओं के पास रखें। नीचे एक पल के लिए रुकें, फिर अपनी बाहों को सीधा करने के लिए अपने हाथों से धक्का दें और प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Uklęknij na podłodze, z kolanami rozstawionymi na szerokość bioder. Umieść dłonie na podłodze przed sobą, na szerokość barków, z palcami skierowanymi do przodu. Wyprostuj nogi za sobą, balansując na palcach stóp i dłoniach, tworząc prostą linię od głowy do pięt. Ugnij łokcie i opuść górną część ciała w kierunku podłogi, trzymając łokcie blisko boków. Zatrzymaj się na chwilę w dolnej pozycji, a następnie wypchnij się dłońmi, prostując ramiona i wracając do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "무릎을 골반 너비로 벌려 바닥에 무릎을 꿇습니다. 손을 어깨 너비만큼 벌려 앞쪽 바닥에 놓고 손가락이 앞을 향하도록 합니다. 다리를 뒤로 쭉 펼쳐 발가락과 손으로 균형을 잡으며 머리부터 발뒤꿈치까지 일직선을 만듭니다. 팔꿈치를 구부리고 상체를 바닥 쪽으로 낮춥니다. 팔꿈치는 몸에 붙여둡니다. 잠시 멈춘 후 손으로 밀어 팔을 펴면서 시작 자세로 돌아옵니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Mets-toi à genoux au sol, les genoux écartés à la largeur des hanches. Place tes mains au sol devant toi, écartées à la largeur des épaules, les doigts pointés vers l'avant. Étends tes jambes droit derrière toi, en équilibre sur les orteils et les mains, en formant une ligne droite de la tête aux talons. Plie tes coudes et abaisse le haut de ton corps vers le sol en gardant tes coudes près de tes côtés. Marque une pause en bas, puis pousse sur tes mains pour tendre tes bras et revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Kneel down on the ground with your knees hip-width apart.",
+      "Place your hands on the ground in front of you, shoulder-width apart, fingers pointing forward.",
+      "Extend your legs straight behind you, balancing on your toes and hands, forming a straight line from head to heels.",
+      "Bend your elbows and lower your upper body towards the ground, keeping your elbows close to your sides.",
+      "Pause for a moment at the bottom, then push through your hands to straighten your arms and return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inginocchiati a terra con le ginocchia larghe ai fianchi.",
+      "Metti le mani a terra davanti a te, divaricate alla larghezza delle spalle, dita puntate in avanti.",
+      "Allunga le gambe dritte dietro di te, bilanciandoti sulle punte dei piedi e sulle mani, formando una linea retta dalla testa ai talloni.",
+      "Piega i gomiti e abbassa la parte superiore del corpo verso terra, tenendo i gomiti vicini ai fianchi.",
+      "Fermati un attimo in basso, poi spingi tra le mani per raddrizzare le braccia e tornare alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Dizleriniz kalça genişliğinde açık olacak şekilde yere çömelin.",
+      "Ellerinizi önünüzde yere koyun, omuz genişliğinde, parmaklarınız ileriyi göstersin.",
+      "Bacaklarınızı düz bir şekilde arkanıza doğru uzatın, ayak parmaklarınız ve elleriniz üzerinde denge kurun, baştan topuklarınıza kadar düz bir çizgi oluşturun.",
+      "Dirseklerinizi bükün ve üst vücudunuzu yere doğru indirin, dirseklerinizi yanlarınıza yakın tutun.",
+      "Altta bir an duraklayın, ardından ellerinizi iterek kollarınızı düzleştirin ve başlangıç ​​pozisyonuna dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de rodillas en el suelo con las rodillas separadas a la altura de las caderas.",
+      "Coloca las manos en el suelo frente a ti, separadas a la altura de los hombros, con los dedos apuntando hacia adelante.",
+      "Extiende las piernas rectas detrás de ti, equilibrándote sobre las puntas de los pies y las manos, formando una línea recta desde la cabeza hasta los talones.",
+      "Flexiona los codos y baja la parte superior del cuerpo hacia el suelo, manteniendo los codos cerca del cuerpo.",
+      "Haz una pausa breve en la posición más baja, luego empuja con las manos para extender los brazos y volver a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте на колени на землю, расставив колени на ширине плеч.",
+      "Положите руки на пол перед собой на ширине плеч, пальцы направлены вперед.",
+      "Вытяните ноги прямо позади себя, балансируя на пальцах ног и руках, образуя прямую линию от головы до пяток.",
+      "Согните локти и опустите верхнюю часть тела к земле, держа локти близко к бокам.",
+      "Задержитесь на мгновение в нижней точке, затем оттолкнитесь руками, чтобы выпрямить руки и вернуться в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "跪在地上，膝盖分开与臀部同宽。",
+      "将双手放在身前的地面上，与肩同宽，手指指向前方。",
+      "将双腿伸直在身后，用脚趾和双手保持平衡，从头到脚跟形成一条直线。",
+      "弯曲肘部，将上半身向地面降低，保持肘部靠近身体两侧。",
+      "在底部停顿片刻，然后双手用力伸直手臂，回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने घुटनों को कूल्हे-चौड़ाई से अलग रखते हुए जमीन पर बैठ जाएं।",
+      "अपने हाथों को अपने सामने ज़मीन पर रखें, कंधे की चौड़ाई से अलग, उंगलियाँ आगे की ओर हों।",
+      "अपने पैरों को अपने पीछे सीधा फैलाएं, अपने पैर की उंगलियों और हाथों पर संतुलन बनाते हुए, सिर से एड़ी तक एक सीधी रेखा बनाएं।",
+      "अपनी कोहनियों को मोड़ें और अपने ऊपरी शरीर को ज़मीन की ओर नीचे करें, अपनी कोहनियों को अपनी भुजाओं के पास रखें।",
+      "नीचे एक पल के लिए रुकें, फिर अपनी बाहों को सीधा करने के लिए अपने हाथों से धक्का दें और प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Uklęknij na podłodze, z kolanami rozstawionymi na szerokość bioder.",
+      "Umieść dłonie na podłodze przed sobą, na szerokość barków, z palcami skierowanymi do przodu.",
+      "Wyprostuj nogi za sobą, balansując na palcach stóp i dłoniach, tworząc prostą linię od głowy do pięt.",
+      "Ugnij łokcie i opuść górną część ciała w kierunku podłogi, trzymając łokcie blisko boków.",
+      "Zatrzymaj się na chwilę w dolnej pozycji, a następnie wypchnij się dłońmi, prostując ramiona i wracając do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "무릎을 골반 너비로 벌려 바닥에 무릎을 꿇습니다.",
+      "손을 어깨 너비만큼 벌려 앞쪽 바닥에 놓고 손가락이 앞을 향하도록 합니다.",
+      "다리를 뒤로 쭉 펼쳐 발가락과 손으로 균형을 잡으며 머리부터 발뒤꿈치까지 일직선을 만듭니다.",
+      "팔꿈치를 구부리고 상체를 바닥 쪽으로 낮춥니다. 팔꿈치는 몸에 붙여둡니다.",
+      "잠시 멈춘 후 손으로 밀어 팔을 펴면서 시작 자세로 돌아옵니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Mets-toi à genoux au sol, les genoux écartés à la largeur des hanches.",
+      "Place tes mains au sol devant toi, écartées à la largeur des épaules, les doigts pointés vers l'avant.",
+      "Étends tes jambes droit derrière toi, en équilibre sur les orteils et les mains, en formant une ligne droite de la tête aux talons.",
+      "Plie tes coudes et abaisse le haut de ton corps vers le sol en gardant tes coudes près de tes côtés.",
+      "Marque une pause en bas, puis pousse sur tes mains pour tendre tes bras et revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "chest"
+  ],
+  "target": "triceps",
+  "image": "images/1771-s0HKO2I.jpg",
+  "gif_url": "videos/1771-s0HKO2I.gif",
+  "media_id": "s0HKO2I",
+  "created_at": "2026-03-18T12:31:32.873812+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

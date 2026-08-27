@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1307",
+    "name": "push up on bosu ball",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "bosu ball",
+    "target": "pectorals",
+    "image": "images/1307-wVompEp.jpg",
+    "gif_url": "videos/1307-wVompEp.gif"
+  },
+  {
+    "id": "0653",
+    "name": "push-up (bosu ball)",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "bosu ball",
+    "target": "pectorals",
+    "image": "images/0653-2kr2lWy.jpg",
+    "gif_url": "videos/0653-2kr2lWy.gif"
+  },
+  {
+    "id": "1705",
+    "name": "squat on bosu ball",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "bosu ball",
+    "target": "quads",
+    "image": "images/1705-T2fA5Ir.jpg",
+    "gif_url": "videos/1705-T2fA5Ir.gif"
+  }
+]

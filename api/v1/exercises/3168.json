@@ -1,0 +1,102 @@
+{
+  "id": "3168",
+  "name": "bodyweight squatting row",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart, holding onto a sturdy object or suspension trainer with your arms extended. Lower your body into a squat position, keeping your back straight and your knees behind your toes. From the squat position, pull your body up towards the object or suspension trainer, squeezing your shoulder blades together. Pause for a moment at the top, then slowly lower your body back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stai in piedi con i piedi alla larghezza delle spalle, aggrappandoti a un oggetto robusto o a un allenatore con le braccia distese. Abbassa il corpo in posizione squat, mantenendo la schiena dritta e le ginocchia dietro le dita dei piedi. Dalla posizione accovacciata, tira il corpo verso l'oggetto o il soccorso di sospensione, stringendo le scapole insieme. Fermati un attimo in cima, poi abbassa lentamente il corpo fino alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınızı omuz genişliğinde açın, kollarınız uzatılmış halde sağlam bir nesneye veya süspansiyonlu antrenöre tutunun. Sırtınızı dik ve dizlerinizi ayak parmaklarınızın arkasında tutarak vücudunuzu çömelme pozisyonuna indirin. Çömelme pozisyonundan, kürek kemiklerinizi birbirine doğru sıkıştırarak vücudunuzu nesneye veya süspansiyonlu antrenöre doğru yukarı çekin. Tepe noktasında bir an duraklayın, ardından vücudunuzu yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros, sujetando un objeto resistente o un entrenador de suspensión con los brazos extendidos. Baja el cuerpo hacia una posición de sentadilla, manteniendo la espalda recta y las rodillas detrás de las puntas de los pies. Desde la posición de sentadilla, tira del cuerpo hacia arriba en dirección al objeto o al entrenador de suspensión, juntando los omóplatos. Haz una pausa por un momento en la parte superior, luego baja lentamente el cuerpo de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, держитесь за прочный предмет или тренажер для подвешивания, вытянув руки. Опустите тело в положение приседа, сохраняя спину прямой и колени за носками. Из положения приседа подтяните тело вверх к предмету или тренажеру, сжимая лопатки вместе. Задержитесь на мгновение в верхней точке, затем медленно опустите тело обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，伸直手臂抓住坚固的物体或悬挂训练器。 将身体降低至蹲姿，保持背部挺直，膝盖位于脚趾后面。 从蹲姿开始，将身体向上拉向物体或悬挂训练器，将肩胛骨挤压在一起。 在顶部停顿片刻，然后慢慢将身体放回起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, अपनी बाहों को फैलाकर किसी मजबूत वस्तु या सस्पेंशन ट्रेनर को पकड़ लें। अपने शरीर को स्क्वाट स्थिति में लाएँ, अपनी पीठ सीधी रखें और अपने घुटनों को अपने पैर की उंगलियों के पीछे रखें। स्क्वाट स्थिति से, अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए, अपने शरीर को ऑब्जेक्ट या सस्पेंशन ट्रेनर की ओर ऊपर खींचें। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने शरीर को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań ze stopami na szerokość barków, trzymając się stabilnego przedmiotu lub trenera podwieszanego, z ramionami wyprostowanymi. Opuść ciało w pozycję przysiadu, trzymając plecy proste, a kolana za palcami stóp. Z pozycji przysiadu podciągnij ciało w kierunku przedmiotu lub trenera podwieszanego, ściągając łopatki. Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść ciało z powrotem do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "발을 어깨 너비만큼 벌려 서서 팔을 펴 견고한 물체나 서스펜션 트레이너를 잡습니다. 허리를 곧게 펴고 무릎을 뒤쪽으로 유지하며 스쿼트 자세로 몸을 낮춥니다. 스쿼트 자세에서 몸을 물체나 서스펜션 트레이너 쪽으로 당기며 견갑골을 모아줍니다. 맨 위에서 잠시 멈춘 후 천천히 몸을 시작 자세로 내립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules, en te tenant à un objet solide ou à un sangle de suspension, les bras tendus. Descends en position accroupie, en gardant le dos droit et tes genoux derrière les orteils. Depuis la position de squat, tire ton corps vers l'objet ou l'appareil de suspension, en resserrant tes omoplates. Marque une pause en haut, puis abaisse lentement ton corps pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart, holding onto a sturdy object or suspension trainer with your arms extended.",
+      "Lower your body into a squat position, keeping your back straight and your knees behind your toes.",
+      "From the squat position, pull your body up towards the object or suspension trainer, squeezing your shoulder blades together.",
+      "Pause for a moment at the top, then slowly lower your body back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai in piedi con i piedi alla larghezza delle spalle, aggrappandoti a un oggetto robusto o a un allenatore con le braccia distese.",
+      "Abbassa il corpo in posizione squat, mantenendo la schiena dritta e le ginocchia dietro le dita dei piedi.",
+      "Dalla posizione accovacciata, tira il corpo verso l'oggetto o il soccorso di sospensione, stringendo le scapole insieme.",
+      "Fermati un attimo in cima, poi abbassa lentamente il corpo fino alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınızı omuz genişliğinde açın, kollarınız uzatılmış halde sağlam bir nesneye veya süspansiyonlu antrenöre tutunun.",
+      "Sırtınızı dik ve dizlerinizi ayak parmaklarınızın arkasında tutarak vücudunuzu çömelme pozisyonuna indirin.",
+      "Çömelme pozisyonundan, kürek kemiklerinizi birbirine doğru sıkıştırarak vücudunuzu nesneye veya süspansiyonlu antrenöre doğru yukarı çekin.",
+      "Tepe noktasında bir an duraklayın, ardından vücudunuzu yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros, sujetando un objeto resistente o un entrenador de suspensión con los brazos extendidos.",
+      "Baja el cuerpo hacia una posición de sentadilla, manteniendo la espalda recta y las rodillas detrás de las puntas de los pies.",
+      "Desde la posición de sentadilla, tira del cuerpo hacia arriba en dirección al objeto o al entrenador de suspensión, juntando los omóplatos.",
+      "Haz una pausa por un momento en la parte superior, luego baja lentamente el cuerpo de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, держитесь за прочный предмет или тренажер для подвешивания, вытянув руки.",
+      "Опустите тело в положение приседа, сохраняя спину прямой и колени за носками.",
+      "Из положения приседа подтяните тело вверх к предмету или тренажеру, сжимая лопатки вместе.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите тело обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，伸直手臂抓住坚固的物体或悬挂训练器。",
+      "将身体降低至蹲姿，保持背部挺直，膝盖位于脚趾后面。",
+      "从蹲姿开始，将身体向上拉向物体或悬挂训练器，将肩胛骨挤压在一起。",
+      "在顶部停顿片刻，然后慢慢将身体放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, अपनी बाहों को फैलाकर किसी मजबूत वस्तु या सस्पेंशन ट्रेनर को पकड़ लें।",
+      "अपने शरीर को स्क्वाट स्थिति में लाएँ, अपनी पीठ सीधी रखें और अपने घुटनों को अपने पैर की उंगलियों के पीछे रखें।",
+      "स्क्वाट स्थिति से, अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए, अपने शरीर को ऑब्जेक्ट या सस्पेंशन ट्रेनर की ओर ऊपर खींचें।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने शरीर को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań ze stopami na szerokość barków, trzymając się stabilnego przedmiotu lub trenera podwieszanego, z ramionami wyprostowanymi.",
+      "Opuść ciało w pozycję przysiadu, trzymając plecy proste, a kolana za palcami stóp.",
+      "Z pozycji przysiadu podciągnij ciało w kierunku przedmiotu lub trenera podwieszanego, ściągając łopatki.",
+      "Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść ciało z powrotem do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 너비만큼 벌려 서서 팔을 펴 견고한 물체나 서스펜션 트레이너를 잡습니다.",
+      "허리를 곧게 펴고 무릎을 뒤쪽으로 유지하며 스쿼트 자세로 몸을 낮춥니다.",
+      "스쿼트 자세에서 몸을 물체나 서스펜션 트레이너 쪽으로 당기며 견갑골을 모아줍니다.",
+      "맨 위에서 잠시 멈춘 후 천천히 몸을 시작 자세로 내립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules, en te tenant à un objet solide ou à un sangle de suspension, les bras tendus.",
+      "Descends en position accroupie, en gardant le dos droit et tes genoux derrière les orteils.",
+      "Depuis la position de squat, tire ton corps vers l'objet ou l'appareil de suspension, en resserrant tes omoplates.",
+      "Marque une pause en haut, puis abaisse lentement ton corps pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "shoulders"
+  ],
+  "target": "upper back",
+  "image": "images/3168-3xK09Sk.jpg",
+  "gif_url": "videos/3168-3xK09Sk.gif",
+  "media_id": "3xK09Sk",
+  "created_at": "2026-03-18T12:31:32.873847+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

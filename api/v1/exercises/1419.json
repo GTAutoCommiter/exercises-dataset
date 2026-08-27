@@ -1,0 +1,112 @@
+{
+  "id": "1419",
+  "name": "iron cross stretch",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Lie flat on your back with your arms extended out to the sides. Raise your legs up towards the ceiling, keeping them straight. Slowly lower your legs to one side, aiming to touch the floor with your feet. Hold the stretch for a few seconds, then return your legs to the starting position. Repeat the stretch on the other side. Continue alternating sides for the desired number of repetitions.",
+    "it": "Sdraiati sulla schiena con le braccia distese lungo i fianchi. Alza le gambe verso il soffitto, mantenendole dritte. Abbassa lentamente le gambe da un lato, cercando di toccare il pavimento con i piedi. Mantieni l'allungamento per alcuni secondi, quindi riporta le gambe nella posizione iniziale. Ripeti l'allungamento dall'altro lato. Continua ad alternare i lati per il numero di ripetizioni desiderato.",
+    "tr": "Kollarınız yanlara doğru uzatılmış halde sırt üstü yatın. Bacaklarınızı düz tutarak tavana doğru kaldırın. Ayaklarınızla yere dokunmayı hedefleyerek bacaklarınızı yavaşça bir tarafa indirin. Gerdirmeyi birkaç saniye basılı tutun, ardından bacaklarınızı başlangıç ​​pozisyonuna getirin. Gerdirmeyi diğer tarafta tekrarlayın. İstenilen tekrar sayısı için alternatif taraflara devam edin.",
+    "es": "Túmbate boca arriba con los brazos extendidos hacia los lados. Levanta las piernas hacia el techo, manteniéndolas rectas. Baja lentamente las piernas hacia un lado, intentando tocar el suelo con los pies. Mantén el estiramiento durante unos segundos, luego regresa las piernas a la posición inicial. Repite el estiramiento en el otro lado. Continúa alternando lados durante el número de repeticiones deseado.",
+    "ru": "Лягте на спину, вытянув руки в стороны. Поднимите ноги к потолку, сохраняя их прямыми. Медленно опустите ноги в сторону, стараясь коснуться ступнями пола. Удерживайте растяжку несколько секунд, затем верните ноги в исходное положение. Повторите растяжку с другой стороны. Продолжайте чередовать стороны желаемое количество повторений.",
+    "zh": "平躺，双臂向两侧伸展。 将双腿抬向天花板，保持伸直。 慢慢地将双腿降低到一侧，旨在用脚接触地板。 保持伸展几秒钟，然后将双腿恢复到起始位置。 在另一侧重复拉伸。 继续交替进行所需的重复次数。",
+    "hi": "अपनी पीठ के बल लेट जाएँ और अपनी भुजाएँ बगल की ओर फैलाएँ। अपने पैरों को सीधा रखते हुए छत की ओर ऊपर उठाएं। धीरे-धीरे अपने पैरों को एक तरफ नीचे करें, अपने पैरों से फर्श को छूने का लक्ष्य रखें। कुछ सेकंड के लिए खिंचाव को रोककर रखें, फिर अपने पैरों को शुरुआती स्थिति में लौटा दें। दूसरी तरफ खिंचाव को दोहराएं। दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।",
+    "pl": "Połóż się płasko na plecach z ramionami wyprostowanymi na boki. Unieś nogi w kierunku sufitu, utrzymując je proste. Powoli opuść nogi na jedną stronę, starając się dotknąć stopami podłogi. Przytrzymaj rozciągnięcie przez kilka sekund, a następnie wróć nogami do pozycji wyjściowej. Powtórz rozciąganie po drugiej stronie. Kontynuuj naprzemienne opuszczanie nóg zgodnie z zaplanowaną liczbą powtórzeń.",
+    "ko": "등을 바닥에 대고 누워 팔을 양쪽으로 뻗습니다. 다리를 천장을 향해 들어올리며 다리를 곧게 펼칩니다. 다리를 한쪽 옆으로 천천히 내려 발이 바닥에 닿도록 합니다. 몇 초간 스트레치를 유지한 후 다리를 시작 자세로 돌아옵니다. 반대쪽에서 스트레칭을 반복합니다. 양쪽을 번갈아가며 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Allonge-toi sur le dos, les bras tendus sur les côtés. Lève tes jambes vers le plafond en les gardant tendues. Abaisse lentement tes jambes d'un côté, en cherchant à toucher le sol avec tes pieds. Maintiens l'étirement pendant quelques secondes, puis ramène tes jambes à la position de départ. Répète l'étirement de l'autre côté. Continue à alterner les côtés pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Lie flat on your back with your arms extended out to the sides.",
+      "Raise your legs up towards the ceiling, keeping them straight.",
+      "Slowly lower your legs to one side, aiming to touch the floor with your feet.",
+      "Hold the stretch for a few seconds, then return your legs to the starting position.",
+      "Repeat the stretch on the other side.",
+      "Continue alternating sides for the desired number of repetitions."
+    ],
+    "it": [
+      "Sdraiati sulla schiena con le braccia distese lungo i fianchi.",
+      "Alza le gambe verso il soffitto, mantenendole dritte.",
+      "Abbassa lentamente le gambe da un lato, cercando di toccare il pavimento con i piedi.",
+      "Mantieni l'allungamento per alcuni secondi, quindi riporta le gambe nella posizione iniziale.",
+      "Ripeti l'allungamento dall'altro lato.",
+      "Continua ad alternare i lati per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Kollarınız yanlara doğru uzatılmış halde sırt üstü yatın.",
+      "Bacaklarınızı düz tutarak tavana doğru kaldırın.",
+      "Ayaklarınızla yere dokunmayı hedefleyerek bacaklarınızı yavaşça bir tarafa indirin.",
+      "Gerdirmeyi birkaç saniye basılı tutun, ardından bacaklarınızı başlangıç ​​pozisyonuna getirin.",
+      "Gerdirmeyi diğer tarafta tekrarlayın.",
+      "İstenilen tekrar sayısı için alternatif taraflara devam edin."
+    ],
+    "es": [
+      "Túmbate boca arriba con los brazos extendidos hacia los lados.",
+      "Levanta las piernas hacia el techo, manteniéndolas rectas.",
+      "Baja lentamente las piernas hacia un lado, intentando tocar el suelo con los pies.",
+      "Mantén el estiramiento durante unos segundos, luego regresa las piernas a la posición inicial.",
+      "Repite el estiramiento en el otro lado.",
+      "Continúa alternando lados durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Лягте на спину, вытянув руки в стороны.",
+      "Поднимите ноги к потолку, сохраняя их прямыми.",
+      "Медленно опустите ноги в сторону, стараясь коснуться ступнями пола.",
+      "Удерживайте растяжку несколько секунд, затем верните ноги в исходное положение.",
+      "Повторите растяжку с другой стороны.",
+      "Продолжайте чередовать стороны желаемое количество повторений."
+    ],
+    "zh": [
+      "平躺，双臂向两侧伸展。",
+      "将双腿抬向天花板，保持伸直。",
+      "慢慢地将双腿降低到一侧，旨在用脚接触地板。",
+      "保持伸展几秒钟，然后将双腿恢复到起始位置。",
+      "在另一侧重复拉伸。",
+      "继续交替进行所需的重复次数。"
+    ],
+    "hi": [
+      "अपनी पीठ के बल लेट जाएँ और अपनी भुजाएँ बगल की ओर फैलाएँ।",
+      "अपने पैरों को सीधा रखते हुए छत की ओर ऊपर उठाएं।",
+      "धीरे-धीरे अपने पैरों को एक तरफ नीचे करें, अपने पैरों से फर्श को छूने का लक्ष्य रखें।",
+      "कुछ सेकंड के लिए खिंचाव को रोककर रखें, फिर अपने पैरों को शुरुआती स्थिति में लौटा दें।",
+      "दूसरी तरफ खिंचाव को दोहराएं।",
+      "दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।"
+    ],
+    "pl": [
+      "Połóż się płasko na plecach z ramionami wyprostowanymi na boki.",
+      "Unieś nogi w kierunku sufitu, utrzymując je proste.",
+      "Powoli opuść nogi na jedną stronę, starając się dotknąć stopami podłogi.",
+      "Przytrzymaj rozciągnięcie przez kilka sekund, a następnie wróć nogami do pozycji wyjściowej.",
+      "Powtórz rozciąganie po drugiej stronie.",
+      "Kontynuuj naprzemienne opuszczanie nóg zgodnie z zaplanowaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "등을 바닥에 대고 누워 팔을 양쪽으로 뻗습니다.",
+      "다리를 천장을 향해 들어올리며 다리를 곧게 펼칩니다.",
+      "다리를 한쪽 옆으로 천천히 내려 발이 바닥에 닿도록 합니다.",
+      "몇 초간 스트레치를 유지한 후 다리를 시작 자세로 돌아옵니다.",
+      "반대쪽에서 스트레칭을 반복합니다.",
+      "양쪽을 번갈아가며 원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Allonge-toi sur le dos, les bras tendus sur les côtés.",
+      "Lève tes jambes vers le plafond en les gardant tendues.",
+      "Abaisse lentement tes jambes d'un côté, en cherchant à toucher le sol avec tes pieds.",
+      "Maintiens l'étirement pendant quelques secondes, puis ramène tes jambes à la position de départ.",
+      "Répète l'étirement de l'autre côté.",
+      "Continue à alterner les côtés pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings",
+    "quadriceps"
+  ],
+  "target": "glutes",
+  "image": "images/1419-pZwUsKB.jpg",
+  "gif_url": "videos/1419-pZwUsKB.gif",
+  "media_id": "pZwUsKB",
+  "created_at": "2026-03-18T12:31:32.884719+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

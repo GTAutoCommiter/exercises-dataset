@@ -1,0 +1,111 @@
+{
+  "id": "2293",
+  "name": "dumbbell standing zottman preacher curl",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Stand up straight with a dumbbell in each hand, palms facing forward. Place your upper arms against the preacher bench and keep your elbows slightly bent. Curl the dumbbells up towards your shoulders while keeping your upper arms stationary. At the top of the movement, rotate your wrists so that your palms are facing downward. Slowly lower the dumbbells back to the starting position, rotating your wrists back to the starting position as well. Repeat for the desired number of repetitions.",
+    "it": "Stai dritto con un manubrio in ciascuna mano, palmi rivolti in avanti. Appoggia le braccia superiori contro la panca del predicatore e tieni i gomiti leggermente piegati. Arrotola i manubri verso le spalle mantenendo ferme le braccia superiori. All'inizio del movimento, ruota i polsi in modo che i palmi siano rivolti verso il basso. Abbassa lentamente i manubri fino alla posizione di partenza, ruotando anche i polsi di nuovo alla posizione di partenza. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Her iki elinizde de birer dambıl olacak şekilde dik durun, avuçlarınız öne baksın. Kollarınızın üst kısmını vaiz sırasına yaslayın ve dirseklerinizi hafifçe bükülü tutun. Üst kollarınızı sabit tutarak dambılları omuzlarınıza doğru kıvırın. Hareketin üst noktasında bileklerinizi avuçlarınız aşağıya bakacak şekilde döndürün. Dambılları yavaşça başlangıç ​​pozisyonuna indirin, bileklerinizi de başlangıç ​​pozisyonuna döndürün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con una mancuerna en cada mano, con las palmas hacia adelante. Apoya la parte superior de los brazos contra el banco scott y mantén los codos ligeramente flexionados. Flexiona las mancuernas hacia los hombros mientras mantienes fija la parte superior de los brazos. En la parte superior del movimiento, gira las muñecas de modo que las palmas queden hacia abajo. Baja lentamente las mancuernas de vuelta a la posición inicial, girando también las muñecas a su posición original. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте прямо, взяв в каждую руку по гантели ладонями вперед. Положите плечи на скамью проповедника и держите локти слегка согнутыми. Поднимите гантели к плечам, сохраняя плечи неподвижными. В верхней точке движения поверните запястья так, чтобы ладони были направлены вниз. Медленно опустите гантели обратно в исходное положение, также поворачивая запястья обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "站直，双手各持一个哑铃，手掌朝前。 将上臂靠在牧师凳上，并保持肘部稍微弯曲。 将哑铃向上弯向肩膀，同时保持上臂静止。 在动作的最高点，旋转手腕，使手掌朝下。 慢慢地将哑铃放回起始位置，同时将手腕旋转回起始位置。 重复所需的重复次数。",
+    "hi": "प्रत्येक हाथ में डम्बल लेकर सीधे खड़े हो जाएं, हथेलियाँ आगे की ओर हों। अपनी ऊपरी भुजाओं को उपदेशक बेंच के सामने रखें और अपनी कोहनियों को थोड़ा मोड़कर रखें। अपनी ऊपरी भुजाओं को स्थिर रखते हुए डम्बल को अपने कंधों की ओर मोड़ें। आंदोलन के शीर्ष पर, अपनी कलाइयों को घुमाएं ताकि आपकी हथेलियां नीचे की ओर हों। धीरे-धीरे डम्बल को प्रारंभिक स्थिति में वापस लाएँ, साथ ही अपनी कलाइयों को भी प्रारंभिक स्थिति में घुमाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań prosto z hantlami w obu dłoniach, dłonie skierowane do przodu. Oprzyj ramiona o ławkę modlitewną, trzymając łokcie lekko zgięte. Zegnij ręce, unosząc hantle w stronę barków, utrzymując ramiona nieruchomo. Na szczycie ruchu obróć nadgarstki tak, aby dłonie były skierowane w dół. Powoli opuść hantle do pozycji wyjściowej, obracając nadgarstki z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "양손에 덤벨을 들고 팔꿈치를 앞으로 향하게 하여 서 있습니다. 프리처 벤치에 상완을 놓고 팔꿈치는 약간 구부립니다. 상완을 고정한 상태에서 덤벨을 어깨 방향으로 말아올립니다. 동작의 맨 위에서 손목을 회전하여 손가락이 아래를 향하도록 합니다. 덤벨을 천천히 시작 위치로 내리면서 손목도 함께 회전시킵니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi bien droit avec un haltère dans chaque main, les paumes tournées vers l'avant. Place le haut de tes bras contre le banc à biceps et garde tes coudes légèrement fléchis. Enroule les haltères vers tes épaules tout en gardant tes bras immobiles. En haut du mouvement, tourne tes poignets pour que tes paumes soient tournées vers le bas. Abaisse lentement les haltères vers la position de départ, en tournant aussi tes poignets vers la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand up straight with a dumbbell in each hand, palms facing forward.",
+      "Place your upper arms against the preacher bench and keep your elbows slightly bent.",
+      "Curl the dumbbells up towards your shoulders while keeping your upper arms stationary.",
+      "At the top of the movement, rotate your wrists so that your palms are facing downward.",
+      "Slowly lower the dumbbells back to the starting position, rotating your wrists back to the starting position as well.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai dritto con un manubrio in ciascuna mano, palmi rivolti in avanti.",
+      "Appoggia le braccia superiori contro la panca del predicatore e tieni i gomiti leggermente piegati.",
+      "Arrotola i manubri verso le spalle mantenendo ferme le braccia superiori.",
+      "All'inizio del movimento, ruota i polsi in modo che i palmi siano rivolti verso il basso.",
+      "Abbassa lentamente i manubri fino alla posizione di partenza, ruotando anche i polsi di nuovo alla posizione di partenza.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Her iki elinizde de birer dambıl olacak şekilde dik durun, avuçlarınız öne baksın.",
+      "Kollarınızın üst kısmını vaiz sırasına yaslayın ve dirseklerinizi hafifçe bükülü tutun.",
+      "Üst kollarınızı sabit tutarak dambılları omuzlarınıza doğru kıvırın.",
+      "Hareketin üst noktasında bileklerinizi avuçlarınız aşağıya bakacak şekilde döndürün.",
+      "Dambılları yavaşça başlangıç ​​pozisyonuna indirin, bileklerinizi de başlangıç ​​pozisyonuna döndürün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con una mancuerna en cada mano, con las palmas hacia adelante.",
+      "Apoya la parte superior de los brazos contra el banco scott y mantén los codos ligeramente flexionados.",
+      "Flexiona las mancuernas hacia los hombros mientras mantienes fija la parte superior de los brazos.",
+      "En la parte superior del movimiento, gira las muñecas de modo que las palmas queden hacia abajo.",
+      "Baja lentamente las mancuernas de vuelta a la posición inicial, girando también las muñecas a su posición original.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте прямо, взяв в каждую руку по гантели ладонями вперед.",
+      "Положите плечи на скамью проповедника и держите локти слегка согнутыми.",
+      "Поднимите гантели к плечам, сохраняя плечи неподвижными.",
+      "В верхней точке движения поверните запястья так, чтобы ладони были направлены вниз.",
+      "Медленно опустите гантели обратно в исходное положение, также поворачивая запястья обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "站直，双手各持一个哑铃，手掌朝前。",
+      "将上臂靠在牧师凳上，并保持肘部稍微弯曲。",
+      "将哑铃向上弯向肩膀，同时保持上臂静止。",
+      "在动作的最高点，旋转手腕，使手掌朝下。",
+      "慢慢地将哑铃放回起始位置，同时将手腕旋转回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "प्रत्येक हाथ में डम्बल लेकर सीधे खड़े हो जाएं, हथेलियाँ आगे की ओर हों।",
+      "अपनी ऊपरी भुजाओं को उपदेशक बेंच के सामने रखें और अपनी कोहनियों को थोड़ा मोड़कर रखें।",
+      "अपनी ऊपरी भुजाओं को स्थिर रखते हुए डम्बल को अपने कंधों की ओर मोड़ें।",
+      "आंदोलन के शीर्ष पर, अपनी कलाइयों को घुमाएं ताकि आपकी हथेलियां नीचे की ओर हों।",
+      "धीरे-धीरे डम्बल को प्रारंभिक स्थिति में वापस लाएँ, साथ ही अपनी कलाइयों को भी प्रारंभिक स्थिति में घुमाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań prosto z hantlami w obu dłoniach, dłonie skierowane do przodu.",
+      "Oprzyj ramiona o ławkę modlitewną, trzymając łokcie lekko zgięte.",
+      "Zegnij ręce, unosząc hantle w stronę barków, utrzymując ramiona nieruchomo.",
+      "Na szczycie ruchu obróć nadgarstki tak, aby dłonie były skierowane w dół.",
+      "Powoli opuść hantle do pozycji wyjściowej, obracając nadgarstki z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "양손에 덤벨을 들고 팔꿈치를 앞으로 향하게 하여 서 있습니다.",
+      "프리처 벤치에 상완을 놓고 팔꿈치는 약간 구부립니다.",
+      "상완을 고정한 상태에서 덤벨을 어깨 방향으로 말아올립니다.",
+      "동작의 맨 위에서 손목을 회전하여 손가락이 아래를 향하도록 합니다.",
+      "덤벨을 천천히 시작 위치로 내리면서 손목도 함께 회전시킵니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi bien droit avec un haltère dans chaque main, les paumes tournées vers l'avant.",
+      "Place le haut de tes bras contre le banc à biceps et garde tes coudes légèrement fléchis.",
+      "Enroule les haltères vers tes épaules tout en gardant tes bras immobiles.",
+      "En haut du mouvement, tourne tes poignets pour que tes paumes soient tournées vers le bas.",
+      "Abaisse lentement les haltères vers la position de départ, en tournant aussi tes poignets vers la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "forearms",
+  "secondary_muscles": [
+    "forearms"
+  ],
+  "target": "biceps",
+  "image": "images/2293-P2nRiUa.jpg",
+  "gif_url": "videos/2293-P2nRiUa.gif",
+  "media_id": "P2nRiUa",
+  "created_at": "2026-03-18T12:31:32.882194+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

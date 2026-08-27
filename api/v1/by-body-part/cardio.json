@@ -1,0 +1,292 @@
+[
+  {
+    "id": "3220",
+    "name": "astride jumps (male)",
+    "category": "cardio",
+    "body_part": "cardio",
+    "equipment": "body weight",
+    "target": "cardiovascular system",
+    "image": "images/3220-f9lVSSI.jpg",
+    "gif_url": "videos/3220-f9lVSSI.gif"
+  },
+  {
+    "id": "3672",
+    "name": "back and forth step",
+    "category": "cardio",
+    "body_part": "cardio",
+    "equipment": "body weight",
+    "target": "cardiovascular system",
+    "image": "images/3672-fNGumX0.jpg",
+    "gif_url": "videos/3672-fNGumX0.gif"
+  },
+  {
+    "id": "3360",
+    "name": "bear crawl",
+    "category": "cardio",
+    "body_part": "cardio",
+    "equipment": "body weight",
+    "target": "cardiovascular system",
+    "image": "images/3360-0Yz8WdV.jpg",
+    "gif_url": "videos/3360-0Yz8WdV.gif"
+  },
+  {
+    "id": "1160",
+    "name": "burpee",
+    "category": "cardio",
+    "body_part": "cardio",
+    "equipment": "body weight",
+    "target": "cardiovascular system",
+    "image": "images/1160-dK9394r.jpg",
+    "gif_url": "videos/1160-dK9394r.gif"
+  },
+  {
+    "id": "2331",
+    "name": "cycle cross trainer",
+    "category": "cardio",
+    "body_part": "cardio",
+    "equipment": "leverage machine",
+    "target": "cardiovascular system",
+    "image": "images/2331-XSCHmiI.jpg",
+    "gif_url": "videos/2331-XSCHmiI.gif"
+  },
+  {
+    "id": "1201",
+    "name": "dumbbell burpee",
+    "category": "cardio",
+    "body_part": "cardio",
+    "equipment": "dumbbell",
+    "target": "cardiovascular system",
+    "image": "images/1201-0JtKWum.jpg",
+    "gif_url": "videos/1201-0JtKWum.gif"
+  },
+  {
+    "id": "3221",
+    "name": "half knee bends (male)",
+    "category": "cardio",
+    "body_part": "cardio",
+    "equipment": "body weight",
+    "target": "cardiovascular system",
+    "image": "images/3221-ia6kIIl.jpg",
+    "gif_url": "videos/3221-ia6kIIl.gif"
+  },
+  {
+    "id": "3636",
+    "name": "high knee against wall",
+    "category": "cardio",
+    "body_part": "cardio",
+    "equipment": "body weight",
+    "target": "cardiovascular system",
+    "image": "images/3636-ealLwvX.jpg",
+    "gif_url": "videos/3636-ealLwvX.gif"
+  },
+  {
+    "id": "0501",
+    "name": "jack burpee",
+    "category": "cardio",
+    "body_part": "cardio",
+    "equipment": "body weight",
+    "target": "cardiovascular system",
+    "image": "images/0501-mr7pkqP.jpg",
+    "gif_url": "videos/0501-mr7pkqP.gif"
+  },
+  {
+    "id": "3224",
+    "name": "jack jump (male)",
+    "category": "cardio",
+    "body_part": "cardio",
+    "equipment": "body weight",
+    "target": "cardiovascular system",
+    "image": "images/3224-1g5bPpA.jpg",
+    "gif_url": "videos/3224-1g5bPpA.gif"
+  },
+  {
+    "id": "2612",
+    "name": "jump rope",
+    "category": "cardio",
+    "body_part": "cardio",
+    "equipment": "rope",
+    "target": "cardiovascular system",
+    "image": "images/2612-e1e76I2.jpg",
+    "gif_url": "videos/2612-e1e76I2.gif"
+  },
+  {
+    "id": "0630",
+    "name": "mountain climber",
+    "category": "cardio",
+    "body_part": "cardio",
+    "equipment": "body weight",
+    "target": "cardiovascular system",
+    "image": "images/0630-RJgzwny.jpg",
+    "gif_url": "videos/0630-RJgzwny.gif"
+  },
+  {
+    "id": "3638",
+    "name": "push to run",
+    "category": "cardio",
+    "body_part": "cardio",
+    "equipment": "body weight",
+    "target": "cardiovascular system",
+    "image": "images/3638-PrQbjvB.jpg",
+    "gif_url": "videos/3638-PrQbjvB.gif"
+  },
+  {
+    "id": "0685",
+    "name": "run",
+    "category": "cardio",
+    "body_part": "cardio",
+    "equipment": "body weight",
+    "target": "cardiovascular system",
+    "image": "images/0685-oLrKqDH.jpg",
+    "gif_url": "videos/0685-oLrKqDH.gif"
+  },
+  {
+    "id": "0684",
+    "name": "run (equipment)",
+    "category": "cardio",
+    "body_part": "cardio",
+    "equipment": "body weight",
+    "target": "cardiovascular system",
+    "image": "images/0684-y5p0H8a.jpg",
+    "gif_url": "videos/0684-y5p0H8a.gif"
+  },
+  {
+    "id": "3219",
+    "name": "scissor jumps (male)",
+    "category": "cardio",
+    "body_part": "cardio",
+    "equipment": "body weight",
+    "target": "cardiovascular system",
+    "image": "images/3219-Eh2v5Iu.jpg",
+    "gif_url": "videos/3219-Eh2v5Iu.gif"
+  },
+  {
+    "id": "3222",
+    "name": "semi squat jump (male)",
+    "category": "cardio",
+    "body_part": "cardio",
+    "equipment": "body weight",
+    "target": "cardiovascular system",
+    "image": "images/3222-6FMU51h.jpg",
+    "gif_url": "videos/3222-6FMU51h.gif"
+  },
+  {
+    "id": "3656",
+    "name": "short stride run",
+    "category": "cardio",
+    "body_part": "cardio",
+    "equipment": "body weight",
+    "target": "cardiovascular system",
+    "image": "images/3656-CcWEoWV.jpg",
+    "gif_url": "videos/3656-CcWEoWV.gif"
+  },
+  {
+    "id": "3361",
+    "name": "skater hops",
+    "category": "cardio",
+    "body_part": "cardio",
+    "equipment": "body weight",
+    "target": "cardiovascular system",
+    "image": "images/3361-zfNHMN9.jpg",
+    "gif_url": "videos/3361-zfNHMN9.gif"
+  },
+  {
+    "id": "3671",
+    "name": "ski step",
+    "category": "cardio",
+    "body_part": "cardio",
+    "equipment": "body weight",
+    "target": "cardiovascular system",
+    "image": "images/3671-5MRH8H2.jpg",
+    "gif_url": "videos/3671-5MRH8H2.gif"
+  },
+  {
+    "id": "3223",
+    "name": "star jump (male)",
+    "category": "cardio",
+    "body_part": "cardio",
+    "equipment": "body weight",
+    "target": "cardiovascular system",
+    "image": "images/3223-HtfCpfi.jpg",
+    "gif_url": "videos/3223-HtfCpfi.gif"
+  },
+  {
+    "id": "2138",
+    "name": "stationary bike run v. 3",
+    "category": "cardio",
+    "body_part": "cardio",
+    "equipment": "stationary bike",
+    "target": "cardiovascular system",
+    "image": "images/2138-H1PESYI.jpg",
+    "gif_url": "videos/2138-H1PESYI.gif"
+  },
+  {
+    "id": "0798",
+    "name": "stationary bike walk",
+    "category": "cardio",
+    "body_part": "cardio",
+    "equipment": "leverage machine",
+    "target": "cardiovascular system",
+    "image": "images/0798-a8VDgLw.jpg",
+    "gif_url": "videos/0798-a8VDgLw.gif"
+  },
+  {
+    "id": "3318",
+    "name": "swing 360",
+    "category": "cardio",
+    "body_part": "cardio",
+    "equipment": "body weight",
+    "target": "cardiovascular system",
+    "image": "images/3318-tnaj0mT.jpg",
+    "gif_url": "videos/3318-tnaj0mT.gif"
+  },
+  {
+    "id": "2141",
+    "name": "walk elliptical cross trainer",
+    "category": "cardio",
+    "body_part": "cardio",
+    "equipment": "elliptical machine",
+    "target": "cardiovascular system",
+    "image": "images/2141-rjtuP6X.jpg",
+    "gif_url": "videos/2141-rjtuP6X.gif"
+  },
+  {
+    "id": "3655",
+    "name": "walking high knees lunge",
+    "category": "cardio",
+    "body_part": "cardio",
+    "equipment": "body weight",
+    "target": "cardiovascular system",
+    "image": "images/3655-J9zIWig.jpg",
+    "gif_url": "videos/3655-J9zIWig.gif"
+  },
+  {
+    "id": "3666",
+    "name": "walking on incline treadmill",
+    "category": "cardio",
+    "body_part": "cardio",
+    "equipment": "leverage machine",
+    "target": "cardiovascular system",
+    "image": "images/3666-rjiM4L3.jpg",
+    "gif_url": "videos/3666-rjiM4L3.gif"
+  },
+  {
+    "id": "2311",
+    "name": "walking on stepmill",
+    "category": "cardio",
+    "body_part": "cardio",
+    "equipment": "stepmill machine",
+    "target": "cardiovascular system",
+    "image": "images/2311-j9Q5crt.jpg",
+    "gif_url": "videos/2311-j9Q5crt.gif"
+  },
+  {
+    "id": "3637",
+    "name": "wheel run",
+    "category": "cardio",
+    "body_part": "cardio",
+    "equipment": "body weight",
+    "target": "cardiovascular system",
+    "image": "images/3637-km2Ljzj.jpg",
+    "gif_url": "videos/3637-km2Ljzj.gif"
+  }
+]

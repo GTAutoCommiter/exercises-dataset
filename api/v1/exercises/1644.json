@@ -1,0 +1,131 @@
+{
+  "id": "1644",
+  "name": "cable squatting curl",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Attach a cable handle to the lowest setting on a cable machine. Stand facing the machine with your feet shoulder-width apart. Hold the cable handle with an underhand grip, palms facing up, and arms fully extended. Lower your body into a squat position, keeping your back straight and knees behind your toes. As you squat down, curl the cable handle towards your shoulders, keeping your elbows close to your sides. Pause for a moment at the top of the curl, squeezing your biceps. Slowly lower the cable handle back to the starting position, fully extending your arms. Repeat for the desired number of repetitions.",
+    "it": "Attacca una maniglia del cavo alla posizione più bassa di una macchina a cavi. Stai rivolto verso la macchina con i piedi alla larghezza delle spalle. Tieni la maniglia del cavo con una presa sotto, palmi rivolti verso l'alto e braccia completamente estese. Abbassa il corpo in posizione accovacciata, mantenendo la schiena dritta e le ginocchia dietro le dita dei piedi. Mentre ti accovacci, piega la maniglia del cavo verso le spalle, tenendo i gomiti vicini ai fianchi. Fermati un attimo in cima al curl, stringendo i bicipiti. Abbassa lentamente la maniglia del cavo fino alla posizione iniziale, estendendo completamente le braccia. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Bir kablo makinesinin en düşük ayarına bir kablo tutacağı takın. Ayaklarınız omuz genişliğinde açık olacak şekilde makineye dönük durun. Kablo tutamağını alttan kavrayarak, avuç içleriniz yukarı bakacak şekilde ve kollarınız tamamen uzatılmış şekilde tutun. Sırtınızı dik ve dizlerinizi ayak parmaklarınızın arkasında tutarak vücudunuzu çömelme pozisyonuna indirin. Çömelirken, dirseklerinizi yanlarınıza yakın tutarak kablo tutamağını omuzlarınıza doğru kıvırın. Pazılarınızı sıkarak kıvrımın tepesinde bir an duraklayın. Kollarınızı tamamen uzatarak kablo tutamağını yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Coloca un mango de cable en el ajuste más bajo de una máquina de cable. Ponte de pie frente a la máquina con los pies separados a la altura de los hombros. Sujeta el mango del cable con un agarre supino, con las palmas hacia arriba y los brazos completamente extendidos. Baja el cuerpo hacia una posición de sentadilla, manteniendo la espalda recta y las rodillas detrás de las puntas de los pies. Mientras te agachas, flexiona el mango del cable hacia los hombros, manteniendo los codos cerca de los costados. Haz una pausa breve en la parte alta del movimiento, apretando los bíceps. Baja lentamente el mango del cable de vuelta a la posición inicial, extendiendo completamente los brazos. Repite el número de repeticiones deseado.",
+    "ru": "Прикрепите тросовую рукоятку к самой низкой позиции на тросовой машине. Встаньте лицом к тренажеру, поставив ноги на ширине плеч. Держите рукоятку троса обратным хватом ладонями вверх и полностью выпрямленными руками. Опустите тело в присед, сохраняя спину прямой и колени за носками ног. Приседая, согните рукоятку троса к плечам, держа локти близко к бокам. Задержитесь на мгновение в верхней части сгибания, сжимая бицепсы. Медленно опустите рукоятку троса обратно в исходное положение, полностью выпрямив руки. Повторите необходимое количество повторений.",
+    "zh": "将电缆手柄连接到电缆机器上的最低设置。 面向机器站立，双脚分开与肩同宽。 反手握住电缆手柄，手掌朝上，手臂完全伸展。 将身体降低至蹲姿，保持背部挺直，膝盖位于脚趾后面。 当你蹲下时，将电缆手柄卷向肩膀，保持肘部靠近身体两侧。 在弯举的顶部暂停片刻，挤压二头肌。 慢慢地将电缆手柄放回起始位置，完全伸展双臂。 重复所需的重复次数。",
+    "hi": "केबल मशीन पर सबसे निचली सेटिंग पर केबल हैंडल संलग्न करें। अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए मशीन की ओर मुंह करके खड़े हो जाएं। केबल के हैंडल को अंडरहैंड ग्रिप से पकड़ें, हथेलियाँ ऊपर की ओर हों और बाहें पूरी तरह फैली हुई हों। अपने शरीर को स्क्वाट स्थिति में लाएँ, अपनी पीठ को सीधा रखें और घुटनों को अपने पैर की उंगलियों के पीछे रखें। जैसे ही आप बैठते हैं, केबल के हैंडल को अपने कंधों की ओर मोड़ें, अपनी कोहनियों को अपने किनारों के करीब रखें। अपने बाइसेप्स को निचोड़ते हुए, कर्ल के शीर्ष पर एक पल के लिए रुकें। अपनी भुजाओं को पूरी तरह फैलाते हुए धीरे-धीरे केबल हैंडल को प्रारंभिक स्थिति में वापस लाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Podłącz uchwyt do najniższego ustawienia wyciągu. Stań przodem do maszyny, ustawiając stopy na szerokość barków. Trzymaj uchwyt chwytem podchwytem, dłonie skierowane do góry, ramiona w pełni wyprostowane. Opuść ciało do pozycji przysiadu, trzymając plecy proste, a kolana za linią palców stóp. Schodząc w przysiad, wykonaj uginanie ramion, przyciągając uchwyt w kierunku barków, trzymając łokcie blisko tułowia. Zatrzymaj się na chwilę w górnej fazie uginania, napinając biceps. Powoli opuść uchwyt z powrotem do pozycji wyjściowej, w pełni prostując ramiona. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "케이블 핸들을 케이블 머신의 가장 낮은 위치에 부착합니다. 머신을 마주보고 발을 어깨 너비만큼 벌려 서 있습니다. 언더핸드 그립으로 케이블 핸들을 잡고 손바닥을 위로 향하게 하며 팔을 완전히 펴 놓습니다. 등을 곧게 펴고 무릎을 뒤로 유지하며 스쿼트 자세로 내려갑니다. 내려가면서 케이블 핸들을 팔꿈치 옆에 붙여 어깨 쪽으로 구부립니다. 컬의 최고점에서 이두근을 조이며 잠시 멈춥니다. 천천히 케이블 핸들을 처음 위치로 내리며 팔을 완전히 펴 놓습니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Fixe une poignée de câble au réglage le plus bas d'une machine à câble. Tiens-toi face à la machine, les pieds écartés à la largeur des épaules. Tiens la poignée de câble en prise supination, les paumes tournées vers le haut et les bras complètement étendus. Descends en position accroupie, en gardant le dos droit et les genoux derrière les orteils. En descendant en squat, enroule la poignée du câble vers tes épaules en gardant tes coudes près de tes côtés. Marque une pause en haut du curl, en contractant tes biceps. Abaisse lentement la poignée du câble vers la position de départ, en tendant complètement tes bras. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Attach a cable handle to the lowest setting on a cable machine.",
+      "Stand facing the machine with your feet shoulder-width apart.",
+      "Hold the cable handle with an underhand grip, palms facing up, and arms fully extended.",
+      "Lower your body into a squat position, keeping your back straight and knees behind your toes.",
+      "As you squat down, curl the cable handle towards your shoulders, keeping your elbows close to your sides.",
+      "Pause for a moment at the top of the curl, squeezing your biceps.",
+      "Slowly lower the cable handle back to the starting position, fully extending your arms.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Attacca una maniglia del cavo alla posizione più bassa di una macchina a cavi.",
+      "Stai rivolto verso la macchina con i piedi alla larghezza delle spalle.",
+      "Tieni la maniglia del cavo con una presa sotto, palmi rivolti verso l'alto e braccia completamente estese.",
+      "Abbassa il corpo in posizione accovacciata, mantenendo la schiena dritta e le ginocchia dietro le dita dei piedi.",
+      "Mentre ti accovacci, piega la maniglia del cavo verso le spalle, tenendo i gomiti vicini ai fianchi.",
+      "Fermati un attimo in cima al curl, stringendo i bicipiti.",
+      "Abbassa lentamente la maniglia del cavo fino alla posizione iniziale, estendendo completamente le braccia.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Bir kablo makinesinin en düşük ayarına bir kablo tutacağı takın.",
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde makineye dönük durun.",
+      "Kablo tutamağını alttan kavrayarak, avuç içleriniz yukarı bakacak şekilde ve kollarınız tamamen uzatılmış şekilde tutun.",
+      "Sırtınızı dik ve dizlerinizi ayak parmaklarınızın arkasında tutarak vücudunuzu çömelme pozisyonuna indirin.",
+      "Çömelirken, dirseklerinizi yanlarınıza yakın tutarak kablo tutamağını omuzlarınıza doğru kıvırın.",
+      "Pazılarınızı sıkarak kıvrımın tepesinde bir an duraklayın.",
+      "Kollarınızı tamamen uzatarak kablo tutamağını yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Coloca un mango de cable en el ajuste más bajo de una máquina de cable.",
+      "Ponte de pie frente a la máquina con los pies separados a la altura de los hombros.",
+      "Sujeta el mango del cable con un agarre supino, con las palmas hacia arriba y los brazos completamente extendidos.",
+      "Baja el cuerpo hacia una posición de sentadilla, manteniendo la espalda recta y las rodillas detrás de las puntas de los pies.",
+      "Mientras te agachas, flexiona el mango del cable hacia los hombros, manteniendo los codos cerca de los costados.",
+      "Haz una pausa breve en la parte alta del movimiento, apretando los bíceps.",
+      "Baja lentamente el mango del cable de vuelta a la posición inicial, extendiendo completamente los brazos.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Прикрепите тросовую рукоятку к самой низкой позиции на тросовой машине.",
+      "Встаньте лицом к тренажеру, поставив ноги на ширине плеч.",
+      "Держите рукоятку троса обратным хватом ладонями вверх и полностью выпрямленными руками.",
+      "Опустите тело в присед, сохраняя спину прямой и колени за носками ног.",
+      "Приседая, согните рукоятку троса к плечам, держа локти близко к бокам.",
+      "Задержитесь на мгновение в верхней части сгибания, сжимая бицепсы.",
+      "Медленно опустите рукоятку троса обратно в исходное положение, полностью выпрямив руки.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将电缆手柄连接到电缆机器上的最低设置。",
+      "面向机器站立，双脚分开与肩同宽。",
+      "反手握住电缆手柄，手掌朝上，手臂完全伸展。",
+      "将身体降低至蹲姿，保持背部挺直，膝盖位于脚趾后面。",
+      "当你蹲下时，将电缆手柄卷向肩膀，保持肘部靠近身体两侧。",
+      "在弯举的顶部暂停片刻，挤压二头肌。",
+      "慢慢地将电缆手柄放回起始位置，完全伸展双臂。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "केबल मशीन पर सबसे निचली सेटिंग पर केबल हैंडल संलग्न करें।",
+      "अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए मशीन की ओर मुंह करके खड़े हो जाएं।",
+      "केबल के हैंडल को अंडरहैंड ग्रिप से पकड़ें, हथेलियाँ ऊपर की ओर हों और बाहें पूरी तरह फैली हुई हों।",
+      "अपने शरीर को स्क्वाट स्थिति में लाएँ, अपनी पीठ को सीधा रखें और घुटनों को अपने पैर की उंगलियों के पीछे रखें।",
+      "जैसे ही आप बैठते हैं, केबल के हैंडल को अपने कंधों की ओर मोड़ें, अपनी कोहनियों को अपने किनारों के करीब रखें।",
+      "अपने बाइसेप्स को निचोड़ते हुए, कर्ल के शीर्ष पर एक पल के लिए रुकें।",
+      "अपनी भुजाओं को पूरी तरह फैलाते हुए धीरे-धीरे केबल हैंडल को प्रारंभिक स्थिति में वापस लाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Podłącz uchwyt do najniższego ustawienia wyciągu.",
+      "Stań przodem do maszyny, ustawiając stopy na szerokość barków.",
+      "Trzymaj uchwyt chwytem podchwytem, dłonie skierowane do góry, ramiona w pełni wyprostowane.",
+      "Opuść ciało do pozycji przysiadu, trzymając plecy proste, a kolana za linią palców stóp.",
+      "Schodząc w przysiad, wykonaj uginanie ramion, przyciągając uchwyt w kierunku barków, trzymając łokcie blisko tułowia.",
+      "Zatrzymaj się na chwilę w górnej fazie uginania, napinając biceps.",
+      "Powoli opuść uchwyt z powrotem do pozycji wyjściowej, w pełni prostując ramiona.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "케이블 핸들을 케이블 머신의 가장 낮은 위치에 부착합니다.",
+      "머신을 마주보고 발을 어깨 너비만큼 벌려 서 있습니다.",
+      "언더핸드 그립으로 케이블 핸들을 잡고 손바닥을 위로 향하게 하며 팔을 완전히 펴 놓습니다.",
+      "등을 곧게 펴고 무릎을 뒤로 유지하며 스쿼트 자세로 내려갑니다.",
+      "내려가면서 케이블 핸들을 팔꿈치 옆에 붙여 어깨 쪽으로 구부립니다.",
+      "컬의 최고점에서 이두근을 조이며 잠시 멈춥니다.",
+      "천천히 케이블 핸들을 처음 위치로 내리며 팔을 완전히 펴 놓습니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Fixe une poignée de câble au réglage le plus bas d'une machine à câble.",
+      "Tiens-toi face à la machine, les pieds écartés à la largeur des épaules.",
+      "Tiens la poignée de câble en prise supination, les paumes tournées vers le haut et les bras complètement étendus.",
+      "Descends en position accroupie, en gardant le dos droit et les genoux derrière les orteils.",
+      "En descendant en squat, enroule la poignée du câble vers tes épaules en gardant tes coudes près de tes côtés.",
+      "Marque une pause en haut du curl, en contractant tes biceps.",
+      "Abaisse lentement la poignée du câble vers la position de départ, en tendant complètement tes bras.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "forearms",
+  "secondary_muscles": [
+    "forearms"
+  ],
+  "target": "biceps",
+  "image": "images/1644-3XFdb1Z.jpg",
+  "gif_url": "videos/1644-3XFdb1Z.gif",
+  "media_id": "3XFdb1Z",
+  "created_at": "2026-03-18T12:31:32.876176+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

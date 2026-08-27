@@ -1,0 +1,101 @@
+{
+  "id": "1631",
+  "name": "cable concentration curl",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Sit on a bench or chair with your feet flat on the floor and your knees slightly bent. Hold the cable handle with an underhand grip and rest your elbow against the inside of your thigh. Keeping your upper arm stationary, exhale and curl the cable handle towards your shoulder while contracting your biceps. Pause for a moment at the top of the movement, then inhale and slowly lower the cable handle back to the starting position. Repeat for the desired number of repetitions, then switch arms.",
+    "it": "Siediti su una panca o una sedia con i piedi piatti sul pavimento e le ginocchia leggermente piegate. Tieni la maniglia del cavo con una presa sottomano e appoggia il gomito all'interno della coscia. Mantenendo fermo il braccio superiore, espira e piega la maniglia del cavo verso la spalla mentre contrahi i bicipiti. Fermati un attimo all'inizio del movimento, poi inspira e abbassa lentamente la maniglia del cavo fino alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni, poi cambia braccio.",
+    "tr": "Ayaklarınız yere düz basacak ve dizleriniz hafifçe bükülmüş olacak şekilde bir bankta veya sandalyede oturun. Kablo tutamağını alttan kavrayarak tutun ve dirseğinizi uyluğunuzun iç kısmına yaslayın. Üst kolunuzu sabit tutarak nefes verin ve bicepslerinizi kasarken kablo sapını omzunuza doğru kıvırın. Hareketin en üst noktasında bir an duraklayın, ardından nefes alın ve kablo tutamağını yavaşça başlangıç ​​pozisyonuna indirin. İstenilen tekrar sayısı kadar tekrarlayın, ardından kolları değiştirin.",
+    "es": "Siéntate en un banco o silla con los pies planos en el suelo y las rodillas ligeramente flexionadas. Sujeta la agarradera del cable con agarre supino y apoya el codo en la parte interna del muslo. Manteniendo el brazo superior quieto, exhala y flexiona la agarradera del cable hacia el hombro contrayendo el bíceps. Haz una pausa breve en la parte más alta del movimiento, luego inhala y baja lentamente la agarradera del cable de vuelta a la posición inicial. Repite el número de repeticiones deseado, luego cambia de brazo.",
+    "ru": "Сядьте на скамью или стул, поставьте ступни на пол и слегка согните колени. Возьмите рукоятку троса обратным хватом снизу и прижмите локоть к внутренней стороне бедра. Удерживая плечо неподвижно, выдохните и согните рукоятку троса к плечу, одновременно напрягая бицепс. Сделайте паузу на мгновение в верхней точке движения, затем вдохните и медленно опустите рукоятку троса обратно в исходное положение. Повторите желаемое количество повторений, затем поменяйте руки.",
+    "zh": "坐在长凳或椅子上，双脚平放在地板上，膝盖稍微弯曲。 用手握住电缆手柄，并将肘部靠在大腿内侧。 保持上臂静止，呼气并将电缆手柄向肩膀卷曲，同时收缩二头肌。 在动作的最高点暂停片刻，然后吸气并慢慢将拉索手柄放回起始位置。 重复所需的重复次数，然后换臂。",
+    "hi": "अपने पैरों को फर्श पर सपाट करके और अपने घुटनों को थोड़ा मोड़कर एक बेंच या कुर्सी पर बैठें। केबल के हैंडल को अंडरहैंड ग्रिप से पकड़ें और अपनी कोहनी को अपनी जांघ के अंदरूनी हिस्से पर टिकाएं। अपनी ऊपरी बांह को स्थिर रखते हुए, सांस छोड़ें और अपने बाइसेप्स को सिकोड़ते हुए केबल हैंडल को अपने कंधे की ओर मोड़ें। गति के शीर्ष पर एक पल के लिए रुकें, फिर सांस लें और धीरे-धीरे केबल हैंडल को शुरुआती स्थिति में वापस लाएं। दोहराव की वांछित संख्या के लिए दोहराएं, फिर हथियार बदल लें।",
+    "pl": "Usiądź na ławce lub krześle, ze stopami płasko na podłodze, a kolanami lekko ugiętymi. Chwyć uchwyt wyciągu chwytem podchwytem i oprzyj łokieć o wewnętrzną stronę uda. Trzymając ramię nieruchomo, wydychaj powietrze i przyciągnij uchwyt w kierunku barku, napinając mięsień dwugłowy. Zatrzymaj się na chwilę w górnej pozycji ruchu, a następnie wdychaj powietrze i powoli opuść uchwyt z powrotem do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń, a następnie zmień rękę.",
+    "ko": "벤치나 의자에 앉아 발을 바닥에 평평하게 하고 무릎을 약간 구부립니다. 언더핸드 그립으로 케이블 핸들을 잡고 팔꿈치를 허벅지 안쪽에 기대십시오. 상팔을 고정시킨 상태에서 숨을 내쉬면서 케이블 핸들을 어깨 방향으로 말아 이두근을 수축시킵니다. 동작의 최상단에서 잠깐 멈추었다가 숨을 들이마시면서 케이블 핸들을 천천히 시작 위치로 돌립니다. 원하는 횟수만큼 반복한 후 팔을 바꿔 진행합니다.",
+    "fr": "Assieds-toi sur un banc ou une chaise, les pieds à plat sur le sol et les genoux légèrement fléchis. Tiens la poignée de câble en prise supination et appuie ton coude contre l'intérieur de ta cuisse. En gardant le haut du bras immobile, expire et fléchis la poignée du câble vers ton épaule en contractant tes biceps. Marque une pause en haut du mouvement, puis inspire et abaisse lentement la poignée du câble pour revenir à la position de départ. Répète le nombre de répétitions souhaité, puis change de bras."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on a bench or chair with your feet flat on the floor and your knees slightly bent.",
+      "Hold the cable handle with an underhand grip and rest your elbow against the inside of your thigh.",
+      "Keeping your upper arm stationary, exhale and curl the cable handle towards your shoulder while contracting your biceps.",
+      "Pause for a moment at the top of the movement, then inhale and slowly lower the cable handle back to the starting position.",
+      "Repeat for the desired number of repetitions, then switch arms."
+    ],
+    "it": [
+      "Siediti su una panca o una sedia con i piedi piatti sul pavimento e le ginocchia leggermente piegate.",
+      "Tieni la maniglia del cavo con una presa sottomano e appoggia il gomito all'interno della coscia.",
+      "Mantenendo fermo il braccio superiore, espira e piega la maniglia del cavo verso la spalla mentre contrahi i bicipiti.",
+      "Fermati un attimo all'inizio del movimento, poi inspira e abbassa lentamente la maniglia del cavo fino alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni, poi cambia braccio."
+    ],
+    "tr": [
+      "Ayaklarınız yere düz basacak ve dizleriniz hafifçe bükülmüş olacak şekilde bir bankta veya sandalyede oturun.",
+      "Kablo tutamağını alttan kavrayarak tutun ve dirseğinizi uyluğunuzun iç kısmına yaslayın.",
+      "Üst kolunuzu sabit tutarak nefes verin ve bicepslerinizi kasarken kablo sapını omzunuza doğru kıvırın.",
+      "Hareketin en üst noktasında bir an duraklayın, ardından nefes alın ve kablo tutamağını yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından kolları değiştirin."
+    ],
+    "es": [
+      "Siéntate en un banco o silla con los pies planos en el suelo y las rodillas ligeramente flexionadas.",
+      "Sujeta la agarradera del cable con agarre supino y apoya el codo en la parte interna del muslo.",
+      "Manteniendo el brazo superior quieto, exhala y flexiona la agarradera del cable hacia el hombro contrayendo el bíceps.",
+      "Haz una pausa breve en la parte más alta del movimiento, luego inhala y baja lentamente la agarradera del cable de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado, luego cambia de brazo."
+    ],
+    "ru": [
+      "Сядьте на скамью или стул, поставьте ступни на пол и слегка согните колени.",
+      "Возьмите рукоятку троса обратным хватом снизу и прижмите локоть к внутренней стороне бедра.",
+      "Удерживая плечо неподвижно, выдохните и согните рукоятку троса к плечу, одновременно напрягая бицепс.",
+      "Сделайте паузу на мгновение в верхней точке движения, затем вдохните и медленно опустите рукоятку троса обратно в исходное положение.",
+      "Повторите желаемое количество повторений, затем поменяйте руки."
+    ],
+    "zh": [
+      "坐在长凳或椅子上，双脚平放在地板上，膝盖稍微弯曲。",
+      "用手握住电缆手柄，并将肘部靠在大腿内侧。",
+      "保持上臂静止，呼气并将电缆手柄向肩膀卷曲，同时收缩二头肌。",
+      "在动作的最高点暂停片刻，然后吸气并慢慢将拉索手柄放回起始位置。",
+      "重复所需的重复次数，然后换臂。"
+    ],
+    "hi": [
+      "अपने पैरों को फर्श पर सपाट करके और अपने घुटनों को थोड़ा मोड़कर एक बेंच या कुर्सी पर बैठें।",
+      "केबल के हैंडल को अंडरहैंड ग्रिप से पकड़ें और अपनी कोहनी को अपनी जांघ के अंदरूनी हिस्से पर टिकाएं।",
+      "अपनी ऊपरी बांह को स्थिर रखते हुए, सांस छोड़ें और अपने बाइसेप्स को सिकोड़ते हुए केबल हैंडल को अपने कंधे की ओर मोड़ें।",
+      "गति के शीर्ष पर एक पल के लिए रुकें, फिर सांस लें और धीरे-धीरे केबल हैंडल को शुरुआती स्थिति में वापस लाएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर हथियार बदल लें।"
+    ],
+    "pl": [
+      "Usiądź na ławce lub krześle, ze stopami płasko na podłodze, a kolanami lekko ugiętymi.",
+      "Chwyć uchwyt wyciągu chwytem podchwytem i oprzyj łokieć o wewnętrzną stronę uda.",
+      "Trzymając ramię nieruchomo, wydychaj powietrze i przyciągnij uchwyt w kierunku barku, napinając mięsień dwugłowy.",
+      "Zatrzymaj się na chwilę w górnej pozycji ruchu, a następnie wdychaj powietrze i powoli opuść uchwyt z powrotem do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń, a następnie zmień rękę."
+    ],
+    "ko": [
+      "벤치나 의자에 앉아 발을 바닥에 평평하게 하고 무릎을 약간 구부립니다.",
+      "언더핸드 그립으로 케이블 핸들을 잡고 팔꿈치를 허벅지 안쪽에 기대십시오.",
+      "상팔을 고정시킨 상태에서 숨을 내쉬면서 케이블 핸들을 어깨 방향으로 말아 이두근을 수축시킵니다.",
+      "동작의 최상단에서 잠깐 멈추었다가 숨을 들이마시면서 케이블 핸들을 천천히 시작 위치로 돌립니다.",
+      "원하는 횟수만큼 반복한 후 팔을 바꿔 진행합니다."
+    ],
+    "fr": [
+      "Assieds-toi sur un banc ou une chaise, les pieds à plat sur le sol et les genoux légèrement fléchis.",
+      "Tiens la poignée de câble en prise supination et appuie ton coude contre l'intérieur de ta cuisse.",
+      "En gardant le haut du bras immobile, expire et fléchis la poignée du câble vers ton épaule en contractant tes biceps.",
+      "Marque une pause en haut du mouvement, puis inspire et abaisse lentement la poignée du câble pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis change de bras."
+    ]
+  },
+  "muscle_group": "forearms",
+  "secondary_muscles": [
+    "forearms"
+  ],
+  "target": "biceps",
+  "image": "images/1631-NvfE43H.jpg",
+  "gif_url": "videos/1631-NvfE43H.gif",
+  "media_id": "NvfE43H",
+  "created_at": "2026-03-18T12:31:32.874215+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,122 @@
+{
+  "id": "1321",
+  "name": "cable rope elevated seated row",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Sit on the elevated seat facing the cable machine. Grab the cable rope handles with an overhand grip, palms facing each other. Keep your back straight and lean slightly back, maintaining a slight bend in your knees. Pull the cable towards your body by retracting your shoulder blades and squeezing your back muscles. Pause for a moment at the fully contracted position. Slowly release the tension and extend your arms back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Siediti sul sedile rialzato rivolto verso la macchina a cavo. Afferra i manici delle corde con una presa sopra la mano, palmi rivolti uno verso l'altro. Mantieni la schiena dritta e inclinati leggermente all'indietro, mantenendo una leggera piega delle ginocchia. Tira il cavo verso il corpo ritraendo le scapole e stringendo i muscoli della schiena. Fermati un attimo sulla posizione completamente contraccolta. Rilascia lentamente la tensione e estendi le braccia fino alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Kablo makinesine bakan yükseltilmiş koltuğa oturun. Halat tutamaçlarını avuç içleriniz birbirine bakacak şekilde üstten kavrayın. Sırtınızı düz tutun ve dizlerinizi hafifçe bükerek hafifçe geriye yaslanın. Kürek kemiklerinizi geri çekip sırt kaslarınızı sıkarak kabloyu vücudunuza doğru çekin. Tamamen kasılmış pozisyonda bir an duraklayın. Gerginliği yavaşça bırakın ve kollarınızı başlangıç ​​pozisyonuna geri uzatın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Siéntate en el asiento elevado frente a la máquina de cable. Agarra las agarraderas de cuerda con un agarre prono, con las palmas una frente a la otra. Mantén la espalda recta e inclínate ligeramente hacia atrás, conservando una ligera flexión en las rodillas. Jala el cable hacia el cuerpo retrayendo los omóplatos y apretando los músculos de la espalda. Haz una pausa por un momento en la posición de contracción completa. Libera lentamente la tensión y extiende los brazos de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Сядьте на возвышение лицом к канатной машине. Возьмитесь за рукоятки каната верхним хватом, ладони обращены друг к другу. Держите спину прямо и слегка откиньтесь назад, сохраняя небольшой изгиб в коленях. Потяните трос к себе, сводя лопатки и напрягая мышцы спины. Сделайте паузу на мгновение в полностью сокращенном положении. Медленно ослабьте напряжение и вытяните руки обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "坐在面向电缆机的高架座椅上。 正手握住缆绳手柄，手掌相对。 保持背部挺直并稍微向后倾斜，保持膝盖轻微弯曲。 通过缩回肩胛骨并挤压背部肌肉，将电缆拉向您的身体。 在完全收缩的位置暂停片刻。 慢慢释放压力并将手臂伸回到起始位置。 重复所需的重复次数。",
+    "hi": "केबल मशीन की ओर मुंह करके ऊंची सीट पर बैठें। केबल रस्सी के हैंडल को ओवरहैंड ग्रिप से पकड़ें, हथेलियाँ एक-दूसरे के सामने हों। अपनी पीठ सीधी रखें और अपने घुटनों को थोड़ा मोड़ते हुए थोड़ा पीछे झुकें। अपने कंधे के ब्लेड को पीछे खींचकर और अपनी पीठ की मांसपेशियों को निचोड़कर केबल को अपने शरीर की ओर खींचें। पूरी तरह से अनुबंधित स्थिति पर एक पल के लिए रुकें। धीरे-धीरे तनाव छोड़ें और अपनी भुजाओं को वापस प्रारंभिक स्थिति में फैलाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Usiądź na podwyższonym siedzisku przodem do wyciągu. Chwyć uchwyty liny wyciągu nachwytem, dłonie zwrócone do siebie. Trzymaj proste plecy i odchyl się lekko do tyłu, zachowując lekkie ugięcie w kolanach. Przyciągnij linę do ciała, cofając łopatki i napinając mięśnie pleców. Zatrzymaj się na moment w pozycji pełnego napięcia. Powoli zwolnij napięcie i wyprostuj ramiona, wracając do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "케이블 머신을 향해 높인 의자에 앉습니다. 케이블 로프 손잡이를 오버그립으로 잡고 손바닥이 서로 마주보게 합니다. 등을 곧게 펴고 약간 뒤로 기울이면서 무릎을 약간 굽힌 상태를 유지합니다. 어깨뼈를 모으고 등 근육을 짜내며 케이블을 몸 쪽으로 당깁니다. 완전히 수축된 위치에서 순간 멈춥니다. 천천히 긴장을 풀고 팔을 시작 위치로 펼칩니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Assieds-toi sur le siège surélevé, face à la machine à câble. Saisis les poignées de la corde du câble avec une prise en pronation, les paumes tournées l'une vers l'autre. Garde le dos droit et penche-toi légèrement vers l'arrière, en gardant une légère flexion dans tes genoux. Tire le câble vers ton corps en rétractant tes omoplates et en contractant les muscles de ton dos. Marque une pause en position de contraction complète. Relâche lentement la tension et étends les bras pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on the elevated seat facing the cable machine.",
+      "Grab the cable rope handles with an overhand grip, palms facing each other.",
+      "Keep your back straight and lean slightly back, maintaining a slight bend in your knees.",
+      "Pull the cable towards your body by retracting your shoulder blades and squeezing your back muscles.",
+      "Pause for a moment at the fully contracted position.",
+      "Slowly release the tension and extend your arms back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Siediti sul sedile rialzato rivolto verso la macchina a cavo.",
+      "Afferra i manici delle corde con una presa sopra la mano, palmi rivolti uno verso l'altro.",
+      "Mantieni la schiena dritta e inclinati leggermente all'indietro, mantenendo una leggera piega delle ginocchia.",
+      "Tira il cavo verso il corpo ritraendo le scapole e stringendo i muscoli della schiena.",
+      "Fermati un attimo sulla posizione completamente contraccolta.",
+      "Rilascia lentamente la tensione e estendi le braccia fino alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Kablo makinesine bakan yükseltilmiş koltuğa oturun.",
+      "Halat tutamaçlarını avuç içleriniz birbirine bakacak şekilde üstten kavrayın.",
+      "Sırtınızı düz tutun ve dizlerinizi hafifçe bükerek hafifçe geriye yaslanın.",
+      "Kürek kemiklerinizi geri çekip sırt kaslarınızı sıkarak kabloyu vücudunuza doğru çekin.",
+      "Tamamen kasılmış pozisyonda bir an duraklayın.",
+      "Gerginliği yavaşça bırakın ve kollarınızı başlangıç ​​pozisyonuna geri uzatın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Siéntate en el asiento elevado frente a la máquina de cable.",
+      "Agarra las agarraderas de cuerda con un agarre prono, con las palmas una frente a la otra.",
+      "Mantén la espalda recta e inclínate ligeramente hacia atrás, conservando una ligera flexión en las rodillas.",
+      "Jala el cable hacia el cuerpo retrayendo los omóplatos y apretando los músculos de la espalda.",
+      "Haz una pausa por un momento en la posición de contracción completa.",
+      "Libera lentamente la tensión y extiende los brazos de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на возвышение лицом к канатной машине.",
+      "Возьмитесь за рукоятки каната верхним хватом, ладони обращены друг к другу.",
+      "Держите спину прямо и слегка откиньтесь назад, сохраняя небольшой изгиб в коленях.",
+      "Потяните трос к себе, сводя лопатки и напрягая мышцы спины.",
+      "Сделайте паузу на мгновение в полностью сокращенном положении.",
+      "Медленно ослабьте напряжение и вытяните руки обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "坐在面向电缆机的高架座椅上。",
+      "正手握住缆绳手柄，手掌相对。",
+      "保持背部挺直并稍微向后倾斜，保持膝盖轻微弯曲。",
+      "通过缩回肩胛骨并挤压背部肌肉，将电缆拉向您的身体。",
+      "在完全收缩的位置暂停片刻。",
+      "慢慢释放压力并将手臂伸回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "केबल मशीन की ओर मुंह करके ऊंची सीट पर बैठें।",
+      "केबल रस्सी के हैंडल को ओवरहैंड ग्रिप से पकड़ें, हथेलियाँ एक-दूसरे के सामने हों।",
+      "अपनी पीठ सीधी रखें और अपने घुटनों को थोड़ा मोड़ते हुए थोड़ा पीछे झुकें।",
+      "अपने कंधे के ब्लेड को पीछे खींचकर और अपनी पीठ की मांसपेशियों को निचोड़कर केबल को अपने शरीर की ओर खींचें।",
+      "पूरी तरह से अनुबंधित स्थिति पर एक पल के लिए रुकें।",
+      "धीरे-धीरे तनाव छोड़ें और अपनी भुजाओं को वापस प्रारंभिक स्थिति में फैलाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Usiądź na podwyższonym siedzisku przodem do wyciągu.",
+      "Chwyć uchwyty liny wyciągu nachwytem, dłonie zwrócone do siebie.",
+      "Trzymaj proste plecy i odchyl się lekko do tyłu, zachowując lekkie ugięcie w kolanach.",
+      "Przyciągnij linę do ciała, cofając łopatki i napinając mięśnie pleców.",
+      "Zatrzymaj się na moment w pozycji pełnego napięcia.",
+      "Powoli zwolnij napięcie i wyprostuj ramiona, wracając do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "케이블 머신을 향해 높인 의자에 앉습니다.",
+      "케이블 로프 손잡이를 오버그립으로 잡고 손바닥이 서로 마주보게 합니다.",
+      "등을 곧게 펴고 약간 뒤로 기울이면서 무릎을 약간 굽힌 상태를 유지합니다.",
+      "어깨뼈를 모으고 등 근육을 짜내며 케이블을 몸 쪽으로 당깁니다.",
+      "완전히 수축된 위치에서 순간 멈춥니다.",
+      "천천히 긴장을 풀고 팔을 시작 위치로 펼칩니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Assieds-toi sur le siège surélevé, face à la machine à câble.",
+      "Saisis les poignées de la corde du câble avec une prise en pronation, les paumes tournées l'une vers l'autre.",
+      "Garde le dos droit et penche-toi légèrement vers l'arrière, en gardant une légère flexion dans tes genoux.",
+      "Tire le câble vers ton corps en rétractant tes omoplates et en contractant les muscles de ton dos.",
+      "Marque une pause en position de contraction complète.",
+      "Relâche lentement la tension et étends les bras pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "forearms"
+  ],
+  "target": "upper back",
+  "image": "images/1321-c8oybX6.jpg",
+  "gif_url": "videos/1321-c8oybX6.gif",
+  "media_id": "c8oybX6",
+  "created_at": "2026-03-18T12:31:32.875702+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

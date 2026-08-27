@@ -1,0 +1,133 @@
+{
+  "id": "0744",
+  "name": "sled lying squat",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "sled machine",
+  "instructions": {
+    "en": "Adjust the sled machine to a comfortable weight. Lie on your back on the sled machine with your feet on the footplate. Position your feet shoulder-width apart and slightly angled outwards. Grip the handles of the sled machine for stability. Engage your glutes and core muscles. Push through your heels and extend your legs to lift the sled. Lower the sled back down by bending your knees and hips. Repeat for the desired number of repetitions.",
+    "it": "Regolare la macchina a slitta su un peso confortevole. Sdraiati sulla schiena sulla macchina da slitta con i piedi sulla pedana. Posiziona i piedi alla larghezza delle spalle e leggermente inclinati verso l'esterno. Afferrare le maniglie della macchina a slitta per stabilità. Coinvolgi i tuoi glutei e i muscoli centrali. Spingi i talloni ed estendi le gambe per sollevare la slitta. Abbassa la slitta piegando le ginocchia e i fianchi. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Kızak makinesini rahat bir ağırlığa ayarlayın. Ayaklarınız taban plakasında olacak şekilde kızak makinesine sırt üstü yatın. Ayaklarınızı omuz genişliğinde açık ve hafif dışa doğru açılı olacak şekilde konumlandırın. Denge için kızak makinesinin kollarını tutun. Kalçalarınızı ve göbek kaslarınızı çalıştırın. Kızağı kaldırmak için topuklarınızı itin ve bacaklarınızı uzatın. Dizlerinizi ve kalçalarınızı bükerek kızağı geriye doğru indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta la máquina de trineo a un peso adecuado. Túmbate boca arriba en la máquina de trineo con los pies sobre la placa. Coloca los pies separados a la altura de los hombros y ligeramente angulados hacia fuera. Sujeta las asas de la máquina de trineo para mayor estabilidad. Activa los glúteos y los músculos del core. Empuja con los talones y extiende las piernas para levantar el trineo. Baja el trineo de nuevo doblando las rodillas y las caderas. Repite el número de repeticiones deseado.",
+    "ru": "Отрегулируйте сани до удобного веса. Лягте на спину на санях, положив ноги на подножку. Поставьте ноги на ширине плеч и слегка разверните их наружу. Возьмитесь за ручки саней для устойчивости. Задействуйте ягодицы и мышцы корпуса. Оттолкнитесь пятками и вытяните ноги, чтобы поднять сани. Опустите сани обратно вниз, согнув колени и бедра. Повторите необходимое количество повторений.",
+    "zh": "将雪橇机调整至舒适的重量。 仰卧在雪橇机上，双脚放在踏板上。 双脚分开与肩同宽，并稍微向外倾斜。 握住雪橇机的手柄以保持稳定。 调动你的臀肌和核心肌肉。 脚后跟用力，双腿伸直，抬起雪橇。 弯曲膝盖和臀部，将雪橇放回原位。 重复所需的重复次数。",
+    "hi": "स्लेज मशीन को आरामदायक वजन के अनुसार समायोजित करें। स्लेज मशीन पर अपनी पीठ के बल लेटें और अपने पैरों को फ़ुटप्लेट पर रखें। अपने पैरों को कंधे की चौड़ाई से अलग और थोड़ा बाहर की ओर रखें। स्थिरता के लिए स्लेज मशीन के हैंडल को पकड़ें। अपने ग्लूट्स और कोर मांसपेशियों को संलग्न करें। स्लेज को उठाने के लिए अपनी एड़ियों को दबाएं और अपने पैरों को फैलाएं। अपने घुटनों और कूल्हों को मोड़कर स्लेज को वापस नीचे करें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Ustaw suwnicę na wygodny ciężar. Połóż się na plecach na suwnicy, ze stopami na platformie. Ustaw stopy na szerokość barków, lekko skierowane na zewnątrz. Chwyć uchwyty suwnicy dla stabilności. Napnij mięśnie pośladków i brzucha. Odepchnij się przez pięty i wyprostuj nogi, aby unieść suwnicę. Opuść suwnicę z powrotem, uginając kolana i biodra. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "슬래드 머신을 편한 무게로 조정하세요. 슬래드에 등을 대고 누워 발을 발판에 놓으세요. 발을 어깨 너비만큼 벌리고 약간 바깥쪽 각도로 놓으세요. 안정성을 위해 슬래드 머신의 손잡이를 잡으세요. 둔근과 코어에 힘을 주세요. 발꿈치를 통해 밀어 다리를 펴서 슬래드를 들어올리세요. 무릎과 엉덩이를 구부려 슬래드를 다시 내려놓으세요. 원하는 반복 횟수만큼 반복하세요.",
+    "fr": "Règle la machine à traîneau sur un poids confortable. Allonge-toi sur le dos sur la machine à traîneau, les pieds sur la plaque de pieds. Positionne tes pieds écartés à la largeur des épaules et légèrement orientés vers l'extérieur. Saisis les poignées de la machine à traîneau pour te stabiliser. Contracte tes fessiers et tes muscles abdominaux. Pousse à travers tes talons et étends tes jambes pour soulever la machine à traîneau. Abaisse le traîneau en fléchissant tes genoux et tes hanches. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the sled machine to a comfortable weight.",
+      "Lie on your back on the sled machine with your feet on the footplate.",
+      "Position your feet shoulder-width apart and slightly angled outwards.",
+      "Grip the handles of the sled machine for stability.",
+      "Engage your glutes and core muscles.",
+      "Push through your heels and extend your legs to lift the sled.",
+      "Lower the sled back down by bending your knees and hips.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Regolare la macchina a slitta su un peso confortevole.",
+      "Sdraiati sulla schiena sulla macchina da slitta con i piedi sulla pedana.",
+      "Posiziona i piedi alla larghezza delle spalle e leggermente inclinati verso l'esterno.",
+      "Afferrare le maniglie della macchina a slitta per stabilità.",
+      "Coinvolgi i tuoi glutei e i muscoli centrali.",
+      "Spingi i talloni ed estendi le gambe per sollevare la slitta.",
+      "Abbassa la slitta piegando le ginocchia e i fianchi.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Kızak makinesini rahat bir ağırlığa ayarlayın.",
+      "Ayaklarınız taban plakasında olacak şekilde kızak makinesine sırt üstü yatın.",
+      "Ayaklarınızı omuz genişliğinde açık ve hafif dışa doğru açılı olacak şekilde konumlandırın.",
+      "Denge için kızak makinesinin kollarını tutun.",
+      "Kalçalarınızı ve göbek kaslarınızı çalıştırın.",
+      "Kızağı kaldırmak için topuklarınızı itin ve bacaklarınızı uzatın.",
+      "Dizlerinizi ve kalçalarınızı bükerek kızağı geriye doğru indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta la máquina de trineo a un peso adecuado.",
+      "Túmbate boca arriba en la máquina de trineo con los pies sobre la placa.",
+      "Coloca los pies separados a la altura de los hombros y ligeramente angulados hacia fuera.",
+      "Sujeta las asas de la máquina de trineo para mayor estabilidad.",
+      "Activa los glúteos y los músculos del core.",
+      "Empuja con los talones y extiende las piernas para levantar el trineo.",
+      "Baja el trineo de nuevo doblando las rodillas y las caderas.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Отрегулируйте сани до удобного веса.",
+      "Лягте на спину на санях, положив ноги на подножку.",
+      "Поставьте ноги на ширине плеч и слегка разверните их наружу.",
+      "Возьмитесь за ручки саней для устойчивости.",
+      "Задействуйте ягодицы и мышцы корпуса.",
+      "Оттолкнитесь пятками и вытяните ноги, чтобы поднять сани.",
+      "Опустите сани обратно вниз, согнув колени и бедра.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将雪橇机调整至舒适的重量。",
+      "仰卧在雪橇机上，双脚放在踏板上。",
+      "双脚分开与肩同宽，并稍微向外倾斜。",
+      "握住雪橇机的手柄以保持稳定。",
+      "调动你的臀肌和核心肌肉。",
+      "脚后跟用力，双腿伸直，抬起雪橇。",
+      "弯曲膝盖和臀部，将雪橇放回原位。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "स्लेज मशीन को आरामदायक वजन के अनुसार समायोजित करें।",
+      "स्लेज मशीन पर अपनी पीठ के बल लेटें और अपने पैरों को फ़ुटप्लेट पर रखें।",
+      "अपने पैरों को कंधे की चौड़ाई से अलग और थोड़ा बाहर की ओर रखें।",
+      "स्थिरता के लिए स्लेज मशीन के हैंडल को पकड़ें।",
+      "अपने ग्लूट्स और कोर मांसपेशियों को संलग्न करें।",
+      "स्लेज को उठाने के लिए अपनी एड़ियों को दबाएं और अपने पैरों को फैलाएं।",
+      "अपने घुटनों और कूल्हों को मोड़कर स्लेज को वापस नीचे करें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Ustaw suwnicę na wygodny ciężar.",
+      "Połóż się na plecach na suwnicy, ze stopami na platformie.",
+      "Ustaw stopy na szerokość barków, lekko skierowane na zewnątrz.",
+      "Chwyć uchwyty suwnicy dla stabilności.",
+      "Napnij mięśnie pośladków i brzucha.",
+      "Odepchnij się przez pięty i wyprostuj nogi, aby unieść suwnicę.",
+      "Opuść suwnicę z powrotem, uginając kolana i biodra.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "슬래드 머신을 편한 무게로 조정하세요.",
+      "슬래드에 등을 대고 누워 발을 발판에 놓으세요.",
+      "발을 어깨 너비만큼 벌리고 약간 바깥쪽 각도로 놓으세요.",
+      "안정성을 위해 슬래드 머신의 손잡이를 잡으세요.",
+      "둔근과 코어에 힘을 주세요.",
+      "발꿈치를 통해 밀어 다리를 펴서 슬래드를 들어올리세요.",
+      "무릎과 엉덩이를 구부려 슬래드를 다시 내려놓으세요.",
+      "원하는 반복 횟수만큼 반복하세요."
+    ],
+    "fr": [
+      "Règle la machine à traîneau sur un poids confortable.",
+      "Allonge-toi sur le dos sur la machine à traîneau, les pieds sur la plaque de pieds.",
+      "Positionne tes pieds écartés à la largeur des épaules et légèrement orientés vers l'extérieur.",
+      "Saisis les poignées de la machine à traîneau pour te stabiliser.",
+      "Contracte tes fessiers et tes muscles abdominaux.",
+      "Pousse à travers tes talons et étends tes jambes pour soulever la machine à traîneau.",
+      "Abaisse le traîneau en fléchissant tes genoux et tes hanches.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "glutes",
+  "image": "images/0744-9n2149Z.jpg",
+  "gif_url": "videos/0744-9n2149Z.gif",
+  "media_id": "9n2149Z",
+  "created_at": "2026-03-18T12:31:32.890329+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

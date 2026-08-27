@@ -1,0 +1,113 @@
+{
+  "id": "0099",
+  "name": "barbell single leg split squat",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart, holding a barbell across your upper back. Take a large step forward with one leg, keeping your torso upright. Lower your body by bending your front knee and hip, while keeping your back leg straight. Continue lowering until your front thigh is parallel to the ground. Pause for a moment, then push through your front heel to return to the starting position. Repeat for the desired number of repetitions, then switch legs.",
+    "it": "Stai con i piedi divaricati alla larghezza delle spalle, tenendo una barra sulla parte alta della schiena. Fai un grande passo avanti con una gamba, mantenendo il busto dritto. Abbassa il corpo piegando il ginocchio anteriore e il fianco, mantenendo la gamba posteriore dritta. Continua ad abbassare finché la coscia anteriore non è parallela al suolo. Fermati un attimo, poi spingi attraverso il tallone anteriore per tornare alla posizione di partenza. Ripeti per il numero desiderato di ripetizioni, poi cambia gamba.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durun ve halterinizi sırtınızın üst kısmına doğru tutun. Gövdenizi dik tutarak tek ayağınızla ileriye doğru büyük bir adım atın. Arka bacağınızı düz tutarken ön dizinizi ve kalçanızı bükerek vücudunuzu indirin. Ön uyluğunuz yere paralel oluncaya kadar indirmeye devam edin. Bir an duraklayın, ardından başlangıç ​​pozisyonuna dönmek için ön topuğunuzu itin. İstenilen tekrar sayısı kadar tekrarlayın, ardından bacakları değiştirin.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros, sujetando una barra sobre la parte superior de la espalda. Da un paso grande hacia adelante con una pierna, manteniendo el torso erguido. Baja el cuerpo flexionando la rodilla delantera y la cadera, mientras mantienes la pierna trasera recta. Continúa bajando hasta que el muslo delantero quede paralelo al suelo. Haz una pausa breve, luego empuja con el talón delantero para volver a la posición inicial. Repite el número de repeticiones deseado, luego cambia de pierna.",
+    "ru": "Встаньте, ноги на ширине плеч, удерживая штангу на верхней части спины. Сделайте большой шаг вперед одной ногой, сохраняя туловище в вертикальном положении. Опустите тело, согнув переднее колено и бедро, сохраняя при этом заднюю ногу прямой. Продолжайте опускаться до тех пор, пока переднее бедро не станет параллельно земле. Сделайте паузу на мгновение, затем оттолкнитесь передней пяткой, чтобы вернуться в исходное положение. Повторите необходимое количество повторений, затем поменяйте ногу.",
+    "zh": "双脚分开与肩同宽站立，将杠铃放在上背部。 单腿向前迈出一大步，保持躯干直立。 弯曲前膝盖和臀部，降低身体，同时保持后腿伸直。 继续降低，直到大腿前侧与地面平行。 暂停片刻，然后推动前脚跟回到起始位置。 重复所需的重复次数，然后换腿。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, अपनी पीठ के ऊपरी हिस्से पर एक बारबेल पकड़ें। अपने धड़ को सीधा रखते हुए एक पैर से एक बड़ा कदम आगे बढ़ाएं। अपने पिछले पैर को सीधा रखते हुए, अपने सामने के घुटने और कूल्हे को मोड़कर अपने शरीर को नीचे लाएँ। जब तक आपकी अगली जांघ ज़मीन के समानांतर न हो जाए, तब तक नीचे करना जारी रखें। एक पल के लिए रुकें, फिर प्रारंभिक स्थिति में लौटने के लिए अपनी सामने की एड़ी से धक्का दें। दोहराव की वांछित संख्या के लिए दोहराएं, फिर पैर बदल लें।",
+    "pl": "Stań ze stopami na szerokość barków, trzymając sztangę na górnej części pleców. Zrób duży krok do przodu jedną nogą, trzymając tułów w pionie. Opuść ciało, uginając przednie kolano i biodro, trzymając tylną nogę wyprostowaną. Kontynuuj opuszczanie, aż przednie udo będzie równoległe do podłoża. Zatrzymaj się na chwilę, a następnie wypchnij się przez przednią piętę, wracając do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń, a następnie zmień nogę.",
+    "ko": "발을 어깨 너비로 벌리고 바벨을 상등에 올립니다. 한 다리로 크게 앞으로 발을 내밀며 몸을 곧게 유지합니다. 앞다리의 무릎과 엉덩이를 구부려 몸을 내립니다. 뒷다리는 곧게 펼친 상태를 유지합니다. 허벅지가 땅과 평행할 때까지 계속 내립니다. 잠시 멈춘 후 앞발의 발뒤꿈치를 통해 밀어 시작 위치로 돌아갑니다. 원하는 반복 횟수만큼 반복한 후 다리를 바꿉니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant une barre en travers du haut de ton dos. Fais un grand pas en avant avec une jambe, en gardant le torse bien droit. Abaisse ton corps en fléchissant ton genou et ta hanche avant, tout en gardant ta jambe arrière tendue. Continue à descendre jusqu'à ce que ta cuisse avant soit parallèle au sol. Marque une pause, puis pousse sur ton talon avant pour revenir à la position de départ. Répète le nombre de répétitions souhaité, puis change de jambe."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart, holding a barbell across your upper back.",
+      "Take a large step forward with one leg, keeping your torso upright.",
+      "Lower your body by bending your front knee and hip, while keeping your back leg straight.",
+      "Continue lowering until your front thigh is parallel to the ground.",
+      "Pause for a moment, then push through your front heel to return to the starting position.",
+      "Repeat for the desired number of repetitions, then switch legs."
+    ],
+    "it": [
+      "Stai con i piedi divaricati alla larghezza delle spalle, tenendo una barra sulla parte alta della schiena.",
+      "Fai un grande passo avanti con una gamba, mantenendo il busto dritto.",
+      "Abbassa il corpo piegando il ginocchio anteriore e il fianco, mantenendo la gamba posteriore dritta.",
+      "Continua ad abbassare finché la coscia anteriore non è parallela al suolo.",
+      "Fermati un attimo, poi spingi attraverso il tallone anteriore per tornare alla posizione di partenza.",
+      "Ripeti per il numero desiderato di ripetizioni, poi cambia gamba."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durun ve halterinizi sırtınızın üst kısmına doğru tutun.",
+      "Gövdenizi dik tutarak tek ayağınızla ileriye doğru büyük bir adım atın.",
+      "Arka bacağınızı düz tutarken ön dizinizi ve kalçanızı bükerek vücudunuzu indirin.",
+      "Ön uyluğunuz yere paralel oluncaya kadar indirmeye devam edin.",
+      "Bir an duraklayın, ardından başlangıç ​​pozisyonuna dönmek için ön topuğunuzu itin.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından bacakları değiştirin."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros, sujetando una barra sobre la parte superior de la espalda.",
+      "Da un paso grande hacia adelante con una pierna, manteniendo el torso erguido.",
+      "Baja el cuerpo flexionando la rodilla delantera y la cadera, mientras mantienes la pierna trasera recta.",
+      "Continúa bajando hasta que el muslo delantero quede paralelo al suelo.",
+      "Haz una pausa breve, luego empuja con el talón delantero para volver a la posición inicial.",
+      "Repite el número de repeticiones deseado, luego cambia de pierna."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, удерживая штангу на верхней части спины.",
+      "Сделайте большой шаг вперед одной ногой, сохраняя туловище в вертикальном положении.",
+      "Опустите тело, согнув переднее колено и бедро, сохраняя при этом заднюю ногу прямой.",
+      "Продолжайте опускаться до тех пор, пока переднее бедро не станет параллельно земле.",
+      "Сделайте паузу на мгновение, затем оттолкнитесь передней пяткой, чтобы вернуться в исходное положение.",
+      "Повторите необходимое количество повторений, затем поменяйте ногу."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，将杠铃放在上背部。",
+      "单腿向前迈出一大步，保持躯干直立。",
+      "弯曲前膝盖和臀部，降低身体，同时保持后腿伸直。",
+      "继续降低，直到大腿前侧与地面平行。",
+      "暂停片刻，然后推动前脚跟回到起始位置。",
+      "重复所需的重复次数，然后换腿。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, अपनी पीठ के ऊपरी हिस्से पर एक बारबेल पकड़ें।",
+      "अपने धड़ को सीधा रखते हुए एक पैर से एक बड़ा कदम आगे बढ़ाएं।",
+      "अपने पिछले पैर को सीधा रखते हुए, अपने सामने के घुटने और कूल्हे को मोड़कर अपने शरीर को नीचे लाएँ।",
+      "जब तक आपकी अगली जांघ ज़मीन के समानांतर न हो जाए, तब तक नीचे करना जारी रखें।",
+      "एक पल के लिए रुकें, फिर प्रारंभिक स्थिति में लौटने के लिए अपनी सामने की एड़ी से धक्का दें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर पैर बदल लें।"
+    ],
+    "pl": [
+      "Stań ze stopami na szerokość barków, trzymając sztangę na górnej części pleców.",
+      "Zrób duży krok do przodu jedną nogą, trzymając tułów w pionie.",
+      "Opuść ciało, uginając przednie kolano i biodro, trzymając tylną nogę wyprostowaną.",
+      "Kontynuuj opuszczanie, aż przednie udo będzie równoległe do podłoża.",
+      "Zatrzymaj się na chwilę, a następnie wypchnij się przez przednią piętę, wracając do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń, a następnie zmień nogę."
+    ],
+    "ko": [
+      "발을 어깨 너비로 벌리고 바벨을 상등에 올립니다.",
+      "한 다리로 크게 앞으로 발을 내밀며 몸을 곧게 유지합니다.",
+      "앞다리의 무릎과 엉덩이를 구부려 몸을 내립니다.",
+      "뒷다리는 곧게 펼친 상태를 유지합니다.",
+      "허벅지가 땅과 평행할 때까지 계속 내립니다.",
+      "잠시 멈춘 후 앞발의 발뒤꿈치를 통해 밀어 시작 위치로 돌아갑니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant une barre en travers du haut de ton dos.",
+      "Fais un grand pas en avant avec une jambe, en gardant le torse bien droit.",
+      "Abaisse ton corps en fléchissant ton genou et ta hanche avant, tout en gardant ta jambe arrière tendue.",
+      "Continue à descendre jusqu'à ce que ta cuisse avant soit parallèle au sol.",
+      "Marque une pause, puis pousse sur ton talon avant pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis change de jambe."
+    ]
+  },
+  "muscle_group": "glutes",
+  "secondary_muscles": [
+    "glutes",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "quads",
+  "image": "images/0099-gGNQmVt.jpg",
+  "gif_url": "videos/0099-gGNQmVt.gif",
+  "media_id": "gGNQmVt",
+  "created_at": "2026-03-18T12:31:32.87289+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

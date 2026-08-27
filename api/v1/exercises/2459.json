@@ -1,0 +1,123 @@
+{
+  "id": "2459",
+  "name": "tire flip",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "tire",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart, facing the tire. Bend your knees and hinge at the hips, lowering into a squat position. Reach down and grab the bottom edge of the tire with both hands, fingers facing towards you. Engage your glutes and leg muscles, and explosively drive through your legs to lift the tire off the ground. As the tire flips over, use your upper body strength to guide it and maintain control. Once the tire is fully flipped, quickly step back and reset your stance. Repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi alla larghezza delle spalle, di fronte al pneumatico. Piega le ginocchia e fai perno sui fianchi, abbassandoti in posizione tozza. Abbassati e afferra il bordo inferiore del pneumatico con entrambe le mani, con le dita rivolte verso di te. Coinvolgi i glutei e i muscoli delle gambe e guida in modo esplosivo attraverso le gambe per sollevare il pneumatico da terra. Mentre il pneumatico si ribalta, usa la forza della parte superiore del corpo per guidarlo e mantenere il controllo. Una volta che il pneumatico è completamente ribaltato, fai un passo indietro rapidamente e ripristina la tua posizione. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız omuz genişliğinde açık, yüzü tekerleğe dönük olacak şekilde ayakta durun. Dizlerinizi bükün ve kalçalarınızdan menteşe alarak çömelme pozisyonuna inin. Aşağıya uzanın ve parmaklarınız size bakacak şekilde iki elinizle lastiğin alt kenarını tutun. Kalça kaslarınızı ve bacak kaslarınızı devreye sokun ve lastiği yerden kaldırmak için bacaklarınızın arasından patlayıcı bir şekilde ilerleyin. Lastik ters döndüğünde, onu yönlendirmek ve kontrolü sürdürmek için üst vücut gücünüzü kullanın. Lastik tamamen ters çevrildiğinde hızla geri çekilin ve duruşunuzu sıfırlayın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros, de frente al neumático. Flexiona las rodillas y dobla las caderas, bajando a una posición de sentadilla. Agáchate y agarra el borde inferior del neumático con ambas manos, con los dedos apuntando hacia ti. Activa los glúteos y los músculos de las piernas, y empuja con fuerza a través de las piernas para levantar el neumático del suelo. Mientras el neumático se voltea, usa la fuerza de la parte superior del cuerpo para guiarlo y mantener el control. Una vez que el neumático esté completamente volteado, retrocede rápidamente y reinicia tu postura. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, поставив ноги на ширине плеч, лицом к шине. Согните колени и наклонитесь в бедрах, опускаясь в присед. Наклонитесь вниз и возьмитесь за нижний край шины обеими руками, пальцами к себе. Задействуйте ягодицы и мышцы ног и резко совершите движение ногами, чтобы поднять колесо с земли. Когда шина переворачивается, используйте силу верхней части тела, чтобы направлять ее и сохранять контроль. Как только шина полностью перевернется, быстро отступите назад и восстановите стойку. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，面向轮胎。 弯曲膝盖并以臀部为铰链，降低至蹲姿。 向下伸手，用双手抓住轮胎的底部边缘，手指朝向您。 调动你的臀部和腿部肌肉，并爆发性地推动你的腿，将轮胎抬离地面。 当轮胎翻转时，用上半身的力量引导轮胎并保持控制。 轮胎完全翻转后，迅速后退并重置姿势。 重复所需的重复次数。",
+    "hi": "टायर की ओर मुंह करके अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं। अपने घुटनों को मोड़ें और कूल्हों पर टिकाएं, स्क्वाट स्थिति में आ जाएं। नीचे पहुंचें और टायर के निचले किनारे को दोनों हाथों से पकड़ें, उंगलियां आपकी ओर हों। अपने ग्लूट्स और पैर की मांसपेशियों को शामिल करें, और टायर को जमीन से ऊपर उठाने के लिए अपने पैरों के माध्यम से विस्फोटक रूप से ड्राइव करें। जैसे ही टायर पलटता है, उसे निर्देशित करने और नियंत्रण बनाए रखने के लिए अपने शरीर के ऊपरी हिस्से की ताकत का उपयोग करें। एक बार जब टायर पूरी तरह से पलट जाए, तो तुरंत पीछे हटें और अपना रुख दोबारा तय करें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań ze stopami rozstawionymi na szerokość barków, przodem do opony. Ugnij kolana i pochyl się w biodrach, obniżając ciało do pozycji przysiadu. Sięgnij w dół i chwyć dolną krawędź opony obiema rękami, palcami skierowanymi do siebie. Napnij pośladki i mięśnie nóg, po czym eksplozywnie wypchnij się nogami, aby unieść oponę nad podłogę. Gdy opona się przewraca, użyj siły górnej części ciała, aby ją prowadzić i zachować kontrolę. Gdy opona zostanie w pełni przewrócona, szybko cofnij się i przyjmij ponownie pozycję wyjściową. Powtórz zgodnie z żądaną liczbą powtórzeń.",
+    "ko": "발을 어깨너비만큼 떨어뜨리고 타이어를 마주봅니다. 무릎을 구부려 힙 부분을 이용해 스쿼트 자세로 내립니다. 아래로 내려가 타이어의 아래쪽 가장자리를 두 손으로 잡고 손가락은 본인을 향하게 합니다. 둔근과 다리 근육을 활성화시키고 폭발적으로 다리를 밀어 타이어를 땅에서 들어올립니다. 타이어가 넘어갈 때 상체 힘을 이용해 방향을 조종하고 통제합니다. 타이어가 완전히 뒤집어진 후 재빨리 뒤로 물러나 자세를 다시 잡습니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules, face au pneu. Fléchis les genoux et bascule au niveau des hanches en descendant en position accroupie. Penche-toi et saisis le bord inférieur du pneu avec tes deux mains, les doigts tournés vers toi. Contracte tes fessiers et les muscles de tes jambes, et pousse de manière explosive avec tes jambes pour soulever le pneu du sol. Lorsque le pneu se retourne, utilise la force du haut de ton corps pour le guider et garder le contrôle. Une fois le pneu complètement retourné, recule rapidement et remets-toi en position. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart, facing the tire.",
+      "Bend your knees and hinge at the hips, lowering into a squat position.",
+      "Reach down and grab the bottom edge of the tire with both hands, fingers facing towards you.",
+      "Engage your glutes and leg muscles, and explosively drive through your legs to lift the tire off the ground.",
+      "As the tire flips over, use your upper body strength to guide it and maintain control.",
+      "Once the tire is fully flipped, quickly step back and reset your stance.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle, di fronte al pneumatico.",
+      "Piega le ginocchia e fai perno sui fianchi, abbassandoti in posizione tozza.",
+      "Abbassati e afferra il bordo inferiore del pneumatico con entrambe le mani, con le dita rivolte verso di te.",
+      "Coinvolgi i glutei e i muscoli delle gambe e guida in modo esplosivo attraverso le gambe per sollevare il pneumatico da terra.",
+      "Mentre il pneumatico si ribalta, usa la forza della parte superiore del corpo per guidarlo e mantenere il controllo.",
+      "Una volta che il pneumatico è completamente ribaltato, fai un passo indietro rapidamente e ripristina la tua posizione.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık, yüzü tekerleğe dönük olacak şekilde ayakta durun.",
+      "Dizlerinizi bükün ve kalçalarınızdan menteşe alarak çömelme pozisyonuna inin.",
+      "Aşağıya uzanın ve parmaklarınız size bakacak şekilde iki elinizle lastiğin alt kenarını tutun.",
+      "Kalça kaslarınızı ve bacak kaslarınızı devreye sokun ve lastiği yerden kaldırmak için bacaklarınızın arasından patlayıcı bir şekilde ilerleyin.",
+      "Lastik ters döndüğünde, onu yönlendirmek ve kontrolü sürdürmek için üst vücut gücünüzü kullanın.",
+      "Lastik tamamen ters çevrildiğinde hızla geri çekilin ve duruşunuzu sıfırlayın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros, de frente al neumático.",
+      "Flexiona las rodillas y dobla las caderas, bajando a una posición de sentadilla.",
+      "Agáchate y agarra el borde inferior del neumático con ambas manos, con los dedos apuntando hacia ti.",
+      "Activa los glúteos y los músculos de las piernas, y empuja con fuerza a través de las piernas para levantar el neumático del suelo.",
+      "Mientras el neumático se voltea, usa la fuerza de la parte superior del cuerpo para guiarlo y mantener el control.",
+      "Una vez que el neumático esté completamente volteado, retrocede rápidamente y reinicia tu postura.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, поставив ноги на ширине плеч, лицом к шине.",
+      "Согните колени и наклонитесь в бедрах, опускаясь в присед.",
+      "Наклонитесь вниз и возьмитесь за нижний край шины обеими руками, пальцами к себе.",
+      "Задействуйте ягодицы и мышцы ног и резко совершите движение ногами, чтобы поднять колесо с земли.",
+      "Когда шина переворачивается, используйте силу верхней части тела, чтобы направлять ее и сохранять контроль.",
+      "Как только шина полностью перевернется, быстро отступите назад и восстановите стойку.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，面向轮胎。",
+      "弯曲膝盖并以臀部为铰链，降低至蹲姿。",
+      "向下伸手，用双手抓住轮胎的底部边缘，手指朝向您。",
+      "调动你的臀部和腿部肌肉，并爆发性地推动你的腿，将轮胎抬离地面。",
+      "当轮胎翻转时，用上半身的力量引导轮胎并保持控制。",
+      "轮胎完全翻转后，迅速后退并重置姿势。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "टायर की ओर मुंह करके अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं।",
+      "अपने घुटनों को मोड़ें और कूल्हों पर टिकाएं, स्क्वाट स्थिति में आ जाएं।",
+      "नीचे पहुंचें और टायर के निचले किनारे को दोनों हाथों से पकड़ें, उंगलियां आपकी ओर हों।",
+      "अपने ग्लूट्स और पैर की मांसपेशियों को शामिल करें, और टायर को जमीन से ऊपर उठाने के लिए अपने पैरों के माध्यम से विस्फोटक रूप से ड्राइव करें।",
+      "जैसे ही टायर पलटता है, उसे निर्देशित करने और नियंत्रण बनाए रखने के लिए अपने शरीर के ऊपरी हिस्से की ताकत का उपयोग करें।",
+      "एक बार जब टायर पूरी तरह से पलट जाए, तो तुरंत पीछे हटें और अपना रुख दोबारा तय करें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań ze stopami rozstawionymi na szerokość barków, przodem do opony.",
+      "Ugnij kolana i pochyl się w biodrach, obniżając ciało do pozycji przysiadu.",
+      "Sięgnij w dół i chwyć dolną krawędź opony obiema rękami, palcami skierowanymi do siebie.",
+      "Napnij pośladki i mięśnie nóg, po czym eksplozywnie wypchnij się nogami, aby unieść oponę nad podłogę.",
+      "Gdy opona się przewraca, użyj siły górnej części ciała, aby ją prowadzić i zachować kontrolę.",
+      "Gdy opona zostanie w pełni przewrócona, szybko cofnij się i przyjmij ponownie pozycję wyjściową.",
+      "Powtórz zgodnie z żądaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨너비만큼 떨어뜨리고 타이어를 마주봅니다.",
+      "무릎을 구부려 힙 부분을 이용해 스쿼트 자세로 내립니다.",
+      "아래로 내려가 타이어의 아래쪽 가장자리를 두 손으로 잡고 손가락은 본인을 향하게 합니다.",
+      "둔근과 다리 근육을 활성화시키고 폭발적으로 다리를 밀어 타이어를 땅에서 들어올립니다.",
+      "타이어가 넘어갈 때 상체 힘을 이용해 방향을 조종하고 통제합니다.",
+      "타이어가 완전히 뒤집어진 후 재빨리 뒤로 물러나 자세를 다시 잡습니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules, face au pneu.",
+      "Fléchis les genoux et bascule au niveau des hanches en descendant en position accroupie.",
+      "Penche-toi et saisis le bord inférieur du pneu avec tes deux mains, les doigts tournés vers toi.",
+      "Contracte tes fessiers et les muscles de tes jambes, et pousse de manière explosive avec tes jambes pour soulever le pneu du sol.",
+      "Lorsque le pneu se retourne, utilise la force du haut de ton corps pour le guider et garder le contrôle.",
+      "Une fois le pneu complètement retourné, recule rapidement et remets-toi en position.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings",
+    "quadriceps",
+    "core"
+  ],
+  "target": "glutes",
+  "image": "images/2459-oZjMu1t.jpg",
+  "gif_url": "videos/2459-oZjMu1t.gif",
+  "media_id": "oZjMu1t",
+  "created_at": "2026-03-18T12:31:32.905237+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

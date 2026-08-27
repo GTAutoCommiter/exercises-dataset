@@ -1,0 +1,102 @@
+{
+  "id": "0761",
+  "name": "smith narrow row",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "smith machine",
+  "instructions": {
+    "en": "Adjust the seat height and position yourself on the machine with your feet flat on the floor. Grasp the handles with an overhand grip, slightly narrower than shoulder-width apart. Keep your back straight and your chest up as you pull the handles towards your body, squeezing your shoulder blades together. Pause for a moment at the peak of the movement, then slowly release the handles back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Regolare l'altezza del sedile e posizionarsi sulla macchina con i piedi appoggiati sul pavimento. Afferrare le maniglie con una presa prona, leggermente più stretta della larghezza delle spalle. Tieni la schiena dritta e il petto sollevato mentre tiri le maniglie verso il corpo, stringendo insieme le scapole. Fermati per un momento al culmine del movimento, quindi rilascia lentamente le maniglie nella posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Koltuk yüksekliğini ayarlayın ve ayaklarınız yere düz basacak şekilde kendinizi makinenin üzerine konumlandırın. Tutamaçları omuz genişliğinden biraz daha dar olacak şekilde üstten kavrayın. Tutamaçları vücudunuza doğru çekerken sırtınızı düz ve göğsünüzü yukarıda tutun, kürek kemiklerinizi birbirine sıkıştırın. Hareketin zirvesinde bir an duraklayın, ardından kolları yavaşça başlangıç ​​pozisyonuna bırakın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta la altura del asiento y colócate en la máquina con los pies planos sobre el suelo. Sujeta las asas con un agarre prono, un poco más estrecho que el ancho de los hombros. Mantén la espalda recta y el pecho elevado mientras tiras de las asas hacia tu cuerpo, juntando las escápulas. Haz una pausa por un momento en el punto máximo del movimiento, luego suelta lentamente las agarraderas de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Отрегулируйте высоту сиденья и расположитесь на тренажере, поставив ноги на пол. Возьмитесь за ручки хватом сверху, на расстоянии чуть уже ширины плеч. Держите спину прямо и грудь вверх, подтягивая рукоятки к телу, сжимая лопатки вместе. Задержитесь на мгновение на пике движения, затем медленно отпустите ручки обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "调整座椅高度并将自己放在机器上，双脚平放在地板上。 正手握住手柄，握距略窄于肩宽。 当您将手柄拉向身体时，保持背部挺直，挺胸，将肩胛骨挤压在一起。 在动作的最高点暂停片刻，然后慢慢松开手柄回到起始位置。 重复所需的重复次数。",
+    "hi": "सीट की ऊंचाई समायोजित करें और अपने पैरों को फर्श पर सपाट रखते हुए खुद को मशीन पर रखें। हैंडल को ओवरहैंड पकड़ से पकड़ें, कंधे की चौड़ाई से थोड़ा संकरा। जब आप हैंडल को अपने शरीर की ओर खींचते हैं, तो अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए अपनी पीठ सीधी और अपनी छाती ऊपर रखें। गति के चरम पर एक पल के लिए रुकें, फिर धीरे-धीरे हैंडल को प्रारंभिक स्थिति में वापस छोड़ दें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Wyreguluj wysokość siedziska i ustaw się na maszynie, ze stopami płasko na podłodze. Chwyć uchwyty nachwytem, nieco węższym niż szerokość barków. Trzymaj plecy proste, a klatkę piersiową uniesioną, ciągnąc uchwyty w kierunku ciała i ściskając łopatki. Zatrzymaj się na chwilę w szczytowym punkcie ruchu, a następnie powoli zwolnij uchwyty do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "머신의 시트 높이를 조정하고 발을 바닥에 디딘 자세로 위치합니다. 어깨너비보다 약간 좁게 오버그립으로 핸들을 잡습니다. 등을 곧게 펴고 가슴을 펼친 후 핸들을 몸 쪽으로 당기면서 견갑골을 조여줍니다. 움직임의 최고점에서 잠깐 멈춘 후 핸들을 천천히 시작 위치로 돌려보냅니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Règle la hauteur du siège et installe-toi sur la machine, les pieds à plat sur le sol. Saisis les poignées avec une prise en pronation, légèrement plus resserrées que la largeur des épaules. Garde le dos droit et la poitrine relevée pendant que tu tires les poignées vers ton corps, en resserrant tes omoplates. Marque une pause au sommet du mouvement, puis relâche lentement les poignées pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the seat height and position yourself on the machine with your feet flat on the floor.",
+      "Grasp the handles with an overhand grip, slightly narrower than shoulder-width apart.",
+      "Keep your back straight and your chest up as you pull the handles towards your body, squeezing your shoulder blades together.",
+      "Pause for a moment at the peak of the movement, then slowly release the handles back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Regolare l'altezza del sedile e posizionarsi sulla macchina con i piedi appoggiati sul pavimento.",
+      "Afferrare le maniglie con una presa prona, leggermente più stretta della larghezza delle spalle.",
+      "Tieni la schiena dritta e il petto sollevato mentre tiri le maniglie verso il corpo, stringendo insieme le scapole.",
+      "Fermati per un momento al culmine del movimento, quindi rilascia lentamente le maniglie nella posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Koltuk yüksekliğini ayarlayın ve ayaklarınız yere düz basacak şekilde kendinizi makinenin üzerine konumlandırın.",
+      "Tutamaçları omuz genişliğinden biraz daha dar olacak şekilde üstten kavrayın.",
+      "Tutamaçları vücudunuza doğru çekerken sırtınızı düz ve göğsünüzü yukarıda tutun, kürek kemiklerinizi birbirine sıkıştırın.",
+      "Hareketin zirvesinde bir an duraklayın, ardından kolları yavaşça başlangıç ​​pozisyonuna bırakın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta la altura del asiento y colócate en la máquina con los pies planos sobre el suelo.",
+      "Sujeta las asas con un agarre prono, un poco más estrecho que el ancho de los hombros.",
+      "Mantén la espalda recta y el pecho elevado mientras tiras de las asas hacia tu cuerpo, juntando las escápulas.",
+      "Haz una pausa por un momento en el punto máximo del movimiento, luego suelta lentamente las agarraderas de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Отрегулируйте высоту сиденья и расположитесь на тренажере, поставив ноги на пол.",
+      "Возьмитесь за ручки хватом сверху, на расстоянии чуть уже ширины плеч.",
+      "Держите спину прямо и грудь вверх, подтягивая рукоятки к телу, сжимая лопатки вместе.",
+      "Задержитесь на мгновение на пике движения, затем медленно отпустите ручки обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "调整座椅高度并将自己放在机器上，双脚平放在地板上。",
+      "正手握住手柄，握距略窄于肩宽。",
+      "当您将手柄拉向身体时，保持背部挺直，挺胸，将肩胛骨挤压在一起。",
+      "在动作的最高点暂停片刻，然后慢慢松开手柄回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "सीट की ऊंचाई समायोजित करें और अपने पैरों को फर्श पर सपाट रखते हुए खुद को मशीन पर रखें।",
+      "हैंडल को ओवरहैंड पकड़ से पकड़ें, कंधे की चौड़ाई से थोड़ा संकरा।",
+      "जब आप हैंडल को अपने शरीर की ओर खींचते हैं, तो अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए अपनी पीठ सीधी और अपनी छाती ऊपर रखें।",
+      "गति के चरम पर एक पल के लिए रुकें, फिर धीरे-धीरे हैंडल को प्रारंभिक स्थिति में वापस छोड़ दें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Wyreguluj wysokość siedziska i ustaw się na maszynie, ze stopami płasko na podłodze.",
+      "Chwyć uchwyty nachwytem, nieco węższym niż szerokość barków.",
+      "Trzymaj plecy proste, a klatkę piersiową uniesioną, ciągnąc uchwyty w kierunku ciała i ściskając łopatki.",
+      "Zatrzymaj się na chwilę w szczytowym punkcie ruchu, a następnie powoli zwolnij uchwyty do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "머신의 시트 높이를 조정하고 발을 바닥에 디딘 자세로 위치합니다.",
+      "어깨너비보다 약간 좁게 오버그립으로 핸들을 잡습니다.",
+      "등을 곧게 펴고 가슴을 펼친 후 핸들을 몸 쪽으로 당기면서 견갑골을 조여줍니다.",
+      "움직임의 최고점에서 잠깐 멈춘 후 핸들을 천천히 시작 위치로 돌려보냅니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Règle la hauteur du siège et installe-toi sur la machine, les pieds à plat sur le sol.",
+      "Saisis les poignées avec une prise en pronation, légèrement plus resserrées que la largeur des épaules.",
+      "Garde le dos droit et la poitrine relevée pendant que tu tires les poignées vers ton corps, en resserrant tes omoplates.",
+      "Marque une pause au sommet du mouvement, puis relâche lentement les poignées pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "rear deltoids"
+  ],
+  "target": "upper back",
+  "image": "images/0761-JGKowMS.jpg",
+  "gif_url": "videos/0761-JGKowMS.gif",
+  "media_id": "JGKowMS",
+  "created_at": "2026-03-18T12:31:32.890798+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

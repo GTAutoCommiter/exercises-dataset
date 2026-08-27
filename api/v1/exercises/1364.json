@@ -1,0 +1,101 @@
+{
+  "id": "1364",
+  "name": "standing pelvic tilt",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and your knees slightly bent. Place your hands on your hips or let them hang by your sides. Engage your core muscles and tilt your pelvis forward, pushing your lower back towards the wall behind you. Hold the position for a few seconds, then release and return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi alla larghezza delle spalle e le ginocchia leggermente piegate. Metti le mani sui fianchi o lasciale pendere lungo i fianchi. Coinvolgi i muscoli centrali e inclina il bacino in avanti, spingendo la parte bassa della schiena verso il muro dietro di te. Mantieni la posizione per qualche secondo, poi rilascia e torna alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız omuz genişliğinde açık ve dizleriniz hafifçe bükülü şekilde ayakta durun. Ellerinizi kalçalarınıza koyun veya yanlarınızdan sarkmalarına izin verin. Çekirdek kaslarınızı devreye sokun ve pelvisinizi öne doğru eğin, alt sırtınızı arkanızdaki duvara doğru itin. Konumu birkaç saniye basılı tutun, ardından bırakın ve başlangıç ​​​​pozisyonuna dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y las rodillas ligeramente flexionadas. Coloca las manos sobre las caderas o déjalas colgar a los lados. Activa los músculos del core e inclina la pelvis hacia adelante, empujando la zona lumbar hacia la pared detrás de ti. Mantén la posición durante unos segundos, luego suelta y vuelve a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, поставив ноги на ширине плеч и слегка согнув колени. Положите руки на бедра или позвольте им свисать по бокам. Задействуйте мышцы корпуса и наклоните таз вперед, прижимая поясницу к стене позади себя. Удерживайте положение несколько секунд, затем расслабьтесь и вернитесь в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，膝盖稍微弯曲。 将双手放在臀部或垂在身体两侧。 调动核心肌肉并向前倾斜骨盆，将下背部推向身后的墙壁。 保持该位置几秒钟，然后松开并返回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और आपके घुटने थोड़े मुड़े हुए हों। अपने हाथों को अपने कूल्हों पर रखें या उन्हें अपने बगल में लटका दें। अपनी मुख्य मांसपेशियों को शामिल करें और अपनी श्रोणि को आगे की ओर झुकाएं, अपनी पीठ के निचले हिस्से को अपने पीछे की दीवार की ओर धकेलें। कुछ सेकंड के लिए इस स्थिति में रहें, फिर छोड़ें और प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań ze stopami rozstawionymi na szerokość barków i lekko ugiętymi kolanami. Połóż dłonie na biodrach lub pozwól im swobodnie opaść wzdłuż ciała. Napnij mięśnie brzucha i przechyl miednicę do przodu, popychając dolną część pleców w stronę ściany za tobą. Przytrzymaj pozycję przez kilka sekund, a następnie zwolnij i wróć do pozycji wyjściowej. Powtórz zgodnie z żądaną liczbą powtórzeń.",
+    "ko": "발을 어깨너비로 벌리고 무릎을 약간 구부린 상태로 서 있습니다. 손을 엉덩이에 놓거나 옆으로 내립니다. 코어 근육을 활성화하고 골반을 앞으로 기울려 허리를 뒤의 벽 쪽으로 밀어줍니다. 몇 초 자세를 유지한 후 풀고 시작 자세로 돌아옵니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et les genoux légèrement fléchis. Place tes mains sur tes hanches ou laisse-les pendre le long de ton corps. Gaine tes muscles abdominaux et bascule ton bassin vers l'avant, en poussant le bas de ton dos vers le mur derrière toi. Maintiens la position pendant quelques secondes, puis relâche et reviens à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and your knees slightly bent.",
+      "Place your hands on your hips or let them hang by your sides.",
+      "Engage your core muscles and tilt your pelvis forward, pushing your lower back towards the wall behind you.",
+      "Hold the position for a few seconds, then release and return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle e le ginocchia leggermente piegate.",
+      "Metti le mani sui fianchi o lasciale pendere lungo i fianchi.",
+      "Coinvolgi i muscoli centrali e inclina il bacino in avanti, spingendo la parte bassa della schiena verso il muro dietro di te.",
+      "Mantieni la posizione per qualche secondo, poi rilascia e torna alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık ve dizleriniz hafifçe bükülü şekilde ayakta durun.",
+      "Ellerinizi kalçalarınıza koyun veya yanlarınızdan sarkmalarına izin verin.",
+      "Çekirdek kaslarınızı devreye sokun ve pelvisinizi öne doğru eğin, alt sırtınızı arkanızdaki duvara doğru itin.",
+      "Konumu birkaç saniye basılı tutun, ardından bırakın ve başlangıç ​​​​pozisyonuna dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y las rodillas ligeramente flexionadas.",
+      "Coloca las manos sobre las caderas o déjalas colgar a los lados.",
+      "Activa los músculos del core e inclina la pelvis hacia adelante, empujando la zona lumbar hacia la pared detrás de ti.",
+      "Mantén la posición durante unos segundos, luego suelta y vuelve a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, поставив ноги на ширине плеч и слегка согнув колени.",
+      "Положите руки на бедра или позвольте им свисать по бокам.",
+      "Задействуйте мышцы корпуса и наклоните таз вперед, прижимая поясницу к стене позади себя.",
+      "Удерживайте положение несколько секунд, затем расслабьтесь и вернитесь в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，膝盖稍微弯曲。",
+      "将双手放在臀部或垂在身体两侧。",
+      "调动核心肌肉并向前倾斜骨盆，将下背部推向身后的墙壁。",
+      "保持该位置几秒钟，然后松开并返回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और आपके घुटने थोड़े मुड़े हुए हों।",
+      "अपने हाथों को अपने कूल्हों पर रखें या उन्हें अपने बगल में लटका दें।",
+      "अपनी मुख्य मांसपेशियों को शामिल करें और अपनी श्रोणि को आगे की ओर झुकाएं, अपनी पीठ के निचले हिस्से को अपने पीछे की दीवार की ओर धकेलें।",
+      "कुछ सेकंड के लिए इस स्थिति में रहें, फिर छोड़ें और प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań ze stopami rozstawionymi na szerokość barków i lekko ugiętymi kolanami.",
+      "Połóż dłonie na biodrach lub pozwól im swobodnie opaść wzdłuż ciała.",
+      "Napnij mięśnie brzucha i przechyl miednicę do przodu, popychając dolną część pleców w stronę ściany za tobą.",
+      "Przytrzymaj pozycję przez kilka sekund, a następnie zwolnij i wróć do pozycji wyjściowej.",
+      "Powtórz zgodnie z żądaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨너비로 벌리고 무릎을 약간 구부린 상태로 서 있습니다.",
+      "손을 엉덩이에 놓거나 옆으로 내립니다.",
+      "코어 근육을 활성화하고 골반을 앞으로 기울려 허리를 뒤의 벽 쪽으로 밀어줍니다.",
+      "몇 초 자세를 유지한 후 풀고 시작 자세로 돌아옵니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et les genoux légèrement fléchis.",
+      "Place tes mains sur tes hanches ou laisse-les pendre le long de ton corps.",
+      "Gaine tes muscles abdominaux et bascule ton bassin vers l'avant, en poussant le bas de ton dos vers le mur derrière toi.",
+      "Maintiens la position pendant quelques secondes, puis relâche et reviens à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "abdominals",
+  "secondary_muscles": [
+    "abdominals"
+  ],
+  "target": "spine",
+  "image": "images/1364-cuKYxhu.jpg",
+  "gif_url": "videos/1364-cuKYxhu.gif",
+  "media_id": "cuKYxhu",
+  "created_at": "2026-03-18T12:31:32.891639+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

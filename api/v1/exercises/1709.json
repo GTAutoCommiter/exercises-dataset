@@ -1,0 +1,101 @@
+{
+  "id": "1709",
+  "name": "assisted lying glutes stretch",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "assisted",
+  "instructions": {
+    "en": "Lie on your back with your legs extended. Bend your right knee and place your right ankle on your left thigh, just above the knee. Grasp your left thigh with both hands and gently pull it towards your chest. Hold the stretch for 20-30 seconds. Release and repeat on the other side.",
+    "it": "Sdraiati sulla schiena con le gambe distese. Piega il ginocchio destro e posiziona la caviglia destra sulla coscia sinistra, appena sopra il ginocchio. Afferrare la coscia sinistra con entrambe le mani e tirarla delicatamente verso il petto. Mantieni l'allungamento per 20-30 secondi. Rilascia e ripeti dall'altra parte.",
+    "tr": "Bacaklarınız uzatılmış halde sırt üstü yatın. Sağ dizinizi bükün ve sağ ayak bileğinizi sol uyluğunuzun üzerine, dizin hemen üstüne yerleştirin. Sol uyluğunuzu iki elinizle kavrayın ve yavaşça göğsünüze doğru çekin. Uzatmayı 20-30 saniye kadar tutun. Serbest bırakın ve diğer tarafta tekrarlayın.",
+    "es": "Túmbate sobre tu espalda con las piernas extendidas. Flexiona la rodilla derecha y coloca el tobillo derecho sobre el muslo izquierdo, justo encima de la rodilla. Agarra el muslo izquierdo con ambas manos y jálalo suavemente hacia el pecho. Mantén el estiramiento durante 20-30 segundos. Suelta y repite del otro lado.",
+    "ru": "Лягте на спину, вытянув ноги. Согните правое колено и положите правую лодыжку на левое бедро, чуть выше колена. Возьмите левое бедро обеими руками и осторожно потяните его к груди. Удерживайте растяжку 20–30 секунд. Отпустите и повторите с другой стороны.",
+    "zh": "仰卧，双腿伸展。 弯曲右膝盖，将右脚踝放在左大腿上，就在膝盖上方。 用双手抓住左大腿，轻轻地将其拉向胸部。 保持拉伸 20-30 秒。 松开并在另一侧重复。",
+    "hi": "अपने पैरों को फैलाकर अपनी पीठ के बल लेटें। अपने दाहिने घुटने को मोड़ें और अपने दाहिने टखने को अपनी बाईं जांघ पर रखें, घुटने के ठीक ऊपर। अपनी बायीं जांघ को दोनों हाथों से पकड़ें और धीरे से अपनी छाती की ओर खींचें। 20-30 सेकंड तक खिंचाव बनाए रखें। छोड़ें और दूसरी तरफ दोहराएं।",
+    "pl": "Połóż się na plecach z wyciągniętymi nogami. Ugnij prawe kolano i umieść prawą kostkę na lewym udzie, tuż nad kolanem. Chwyć lewe udo obiema rękami i delikatnie przyciągnij je w kierunku klatki piersiowej. Utrzymaj rozciąganie przez 20-30 sekund. Zwolnij i powtórz po drugiej stronie.",
+    "ko": "등을 바닥에 누워 다리를 펼칩니다. 오른쪽 무릎을 구부려 오른쪽 발목을 왼쪽 넓적다리 위에 놓되 무릎 바로 위에 올립니다. 양손으로 왼쪽 넓적다리를 잡고 천천히 가슴 쪽으로 당깁니다. 스트레칭을 20~30초간 유지합니다. 스트레칭을 풀고 반대쪽에서 반복합니다.",
+    "fr": "Allonge-toi sur le dos, les jambes tendues. Fléchis ton genou droit et pose ta cheville droite sur ta cuisse gauche, juste au-dessus du genou. Saisis ta cuisse gauche des deux mains et tire-la doucement vers ta poitrine. Maintiens l'étirement pendant 20 à 30 secondes. Relâche et répète de l'autre côté."
+  },
+  "instruction_steps": {
+    "en": [
+      "Lie on your back with your legs extended.",
+      "Bend your right knee and place your right ankle on your left thigh, just above the knee.",
+      "Grasp your left thigh with both hands and gently pull it towards your chest.",
+      "Hold the stretch for 20-30 seconds.",
+      "Release and repeat on the other side."
+    ],
+    "it": [
+      "Sdraiati sulla schiena con le gambe distese.",
+      "Piega il ginocchio destro e posiziona la caviglia destra sulla coscia sinistra, appena sopra il ginocchio.",
+      "Afferrare la coscia sinistra con entrambe le mani e tirarla delicatamente verso il petto.",
+      "Mantieni l'allungamento per 20-30 secondi.",
+      "Rilascia e ripeti dall'altra parte."
+    ],
+    "tr": [
+      "Bacaklarınız uzatılmış halde sırt üstü yatın.",
+      "Sağ dizinizi bükün ve sağ ayak bileğinizi sol uyluğunuzun üzerine, dizin hemen üstüne yerleştirin.",
+      "Sol uyluğunuzu iki elinizle kavrayın ve yavaşça göğsünüze doğru çekin.",
+      "Uzatmayı 20-30 saniye kadar tutun.",
+      "Serbest bırakın ve diğer tarafta tekrarlayın."
+    ],
+    "es": [
+      "Túmbate sobre tu espalda con las piernas extendidas.",
+      "Flexiona la rodilla derecha y coloca el tobillo derecho sobre el muslo izquierdo, justo encima de la rodilla.",
+      "Agarra el muslo izquierdo con ambas manos y jálalo suavemente hacia el pecho.",
+      "Mantén el estiramiento durante 20-30 segundos.",
+      "Suelta y repite del otro lado."
+    ],
+    "ru": [
+      "Лягте на спину, вытянув ноги.",
+      "Согните правое колено и положите правую лодыжку на левое бедро, чуть выше колена.",
+      "Возьмите левое бедро обеими руками и осторожно потяните его к груди.",
+      "Удерживайте растяжку 20–30 секунд.",
+      "Отпустите и повторите с другой стороны."
+    ],
+    "zh": [
+      "仰卧，双腿伸展。",
+      "弯曲右膝盖，将右脚踝放在左大腿上，就在膝盖上方。",
+      "用双手抓住左大腿，轻轻地将其拉向胸部。",
+      "保持拉伸 20-30 秒。",
+      "松开并在另一侧重复。"
+    ],
+    "hi": [
+      "अपने पैरों को फैलाकर अपनी पीठ के बल लेटें।",
+      "अपने दाहिने घुटने को मोड़ें और अपने दाहिने टखने को अपनी बाईं जांघ पर रखें, घुटने के ठीक ऊपर।",
+      "अपनी बायीं जांघ को दोनों हाथों से पकड़ें और धीरे से अपनी छाती की ओर खींचें।",
+      "20-30 सेकंड तक खिंचाव बनाए रखें।",
+      "छोड़ें और दूसरी तरफ दोहराएं।"
+    ],
+    "pl": [
+      "Połóż się na plecach z wyciągniętymi nogami.",
+      "Ugnij prawe kolano i umieść prawą kostkę na lewym udzie, tuż nad kolanem.",
+      "Chwyć lewe udo obiema rękami i delikatnie przyciągnij je w kierunku klatki piersiowej.",
+      "Utrzymaj rozciąganie przez 20-30 sekund.",
+      "Zwolnij i powtórz po drugiej stronie."
+    ],
+    "ko": [
+      "등을 바닥에 누워 다리를 펼칩니다.",
+      "오른쪽 무릎을 구부려 오른쪽 발목을 왼쪽 넓적다리 위에 놓되 무릎 바로 위에 올립니다.",
+      "양손으로 왼쪽 넓적다리를 잡고 천천히 가슴 쪽으로 당깁니다.",
+      "스트레칭을 20~30초간 유지합니다.",
+      "스트레칭을 풀고 반대쪽에서 반복합니다."
+    ],
+    "fr": [
+      "Allonge-toi sur le dos, les jambes tendues.",
+      "Fléchis ton genou droit et pose ta cheville droite sur ta cuisse gauche, juste au-dessus du genou.",
+      "Saisis ta cuisse gauche des deux mains et tire-la doucement vers ta poitrine.",
+      "Maintiens l'étirement pendant 20 à 30 secondes.",
+      "Relâche et répète de l'autre côté."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings"
+  ],
+  "target": "glutes",
+  "image": "images/1709-yn0LjwL.jpg",
+  "gif_url": "videos/1709-yn0LjwL.gif",
+  "media_id": "yn0LjwL",
+  "created_at": "2026-03-18T12:31:32.855272+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

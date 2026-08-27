@@ -1,0 +1,103 @@
+{
+  "id": "2133",
+  "name": "farmers walk",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Stand up straight with a dumbbell in each hand, palms facing your sides. Keep your back straight and your shoulders back. Take small, controlled steps forward, maintaining an upright posture. Continue walking for the desired distance or time. To finish, stop walking and carefully lower the dumbbells to your sides.",
+    "it": "Stai dritto con un manubrio in ciascuna mano, i palmi rivolti verso i fianchi. Tieni la schiena dritta e le spalle indietro. Fai piccoli passi controllati in avanti, mantenendo una postura eretta. Continua a camminare per la distanza o il tempo desiderati. Per finire, smetti di camminare e abbassa con attenzione i manubri lungo i fianchi.",
+    "tr": "Her iki elinizde de birer dambıl olacak şekilde dik durun, avuçlarınız yanlarınıza bakacak şekilde. Sırtınızı düz ve omuzlarınızı geride tutun. Dik bir duruş sergileyerek ileriye doğru küçük, kontrollü adımlar atın. İstediğiniz mesafe veya süre boyunca yürümeye devam edin. Bitirmek için yürümeyi bırakın ve dambılları dikkatlice yanlarınıza indirin.",
+    "es": "Ponte de pie con una mancuerna en cada mano, palmas hacia los costados. Mantén la espalda recta y los hombros hacia atrás. Da pasos pequeños y controlados hacia adelante, manteniendo una postura erguida. Continúa caminando durante la distancia o el tiempo deseado. Para terminar, deja de caminar y baja con cuidado las mancuernas a los costados.",
+    "ru": "Встаньте прямо, возьмите в каждую руку по гантели, ладони повернуты в стороны. Держите спину прямо, а плечи отведите назад. Делайте небольшие контролируемые шаги вперед, сохраняя вертикальное положение. Продолжайте идти желаемое расстояние или время. В завершение остановитесь и осторожно опустите гантели в стороны.",
+    "zh": "站直，双手各握一个哑铃，手掌朝向身体两侧。 保持背部挺直，肩膀向后。 向前迈出小步，控制住，保持直立姿势。 继续步行所需的距离或时间。 最后，停止行走并小心地将哑铃降低到身体两侧。",
+    "hi": "प्रत्येक हाथ में डम्बल लेकर सीधे खड़े हो जाएं, हथेलियाँ आपके बगल की ओर हों। अपनी पीठ सीधी और कंधे पीछे रखें। सीधी मुद्रा बनाए रखते हुए छोटे, नियंत्रित कदम आगे बढ़ाएं। वांछित दूरी या समय तक चलते रहें। समाप्त करने के लिए, चलना बंद करें और डम्बल को सावधानी से अपनी तरफ नीचे करें।",
+    "pl": "Stań prosto z hantlą w każdej dłoni, dłonie skierowane w stronę tułowia. Trzymaj proste plecy, a barki ściągnięte do tyłu. Wykonuj małe, kontrolowane kroki do przodu, utrzymując wyprostowaną postawę. Kontynuuj marsz przez zalecany dystans lub czas. Na koniec zatrzymaj się i ostrożnie opuść hantle wzdłuż tułowia.",
+    "ko": "각 손에 덤벨을 잡고 선 자세에서 손가락이 옆을 향하도록 합니다. 등을 곧게 유지하고 어깨를 뒤로 당깁니다. 작고 조절된 걸음으로 앞으로 나아가면서 바른 자세를 유지합니다. 원하는 거리나 시간 동안 계속 걷습니다. 마칠 때, 걷기를 멈추고 덤벨을 조심스럽게 옆에 내려놓습니다.",
+    "fr": "Tiens-toi bien droit avec un haltère dans chaque main, les paumes tournées vers tes côtés. Garde le dos droit et tes épaules en arrière. Fais de petits pas contrôlés vers l'avant, en gardant une posture bien droite. Continue à marcher sur la distance ou le temps souhaité. Pour terminer, arrête de marcher et abaisse prudemment les haltères le long de tes flancs."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand up straight with a dumbbell in each hand, palms facing your sides.",
+      "Keep your back straight and your shoulders back.",
+      "Take small, controlled steps forward, maintaining an upright posture.",
+      "Continue walking for the desired distance or time.",
+      "To finish, stop walking and carefully lower the dumbbells to your sides."
+    ],
+    "it": [
+      "Stai dritto con un manubrio in ciascuna mano, i palmi rivolti verso i fianchi.",
+      "Tieni la schiena dritta e le spalle indietro.",
+      "Fai piccoli passi controllati in avanti, mantenendo una postura eretta.",
+      "Continua a camminare per la distanza o il tempo desiderati.",
+      "Per finire, smetti di camminare e abbassa con attenzione i manubri lungo i fianchi."
+    ],
+    "tr": [
+      "Her iki elinizde de birer dambıl olacak şekilde dik durun, avuçlarınız yanlarınıza bakacak şekilde.",
+      "Sırtınızı düz ve omuzlarınızı geride tutun.",
+      "Dik bir duruş sergileyerek ileriye doğru küçük, kontrollü adımlar atın.",
+      "İstediğiniz mesafe veya süre boyunca yürümeye devam edin.",
+      "Bitirmek için yürümeyi bırakın ve dambılları dikkatlice yanlarınıza indirin."
+    ],
+    "es": [
+      "Ponte de pie con una mancuerna en cada mano, palmas hacia los costados.",
+      "Mantén la espalda recta y los hombros hacia atrás.",
+      "Da pasos pequeños y controlados hacia adelante, manteniendo una postura erguida.",
+      "Continúa caminando durante la distancia o el tiempo deseado.",
+      "Para terminar, deja de caminar y baja con cuidado las mancuernas a los costados."
+    ],
+    "ru": [
+      "Встаньте прямо, возьмите в каждую руку по гантели, ладони повернуты в стороны.",
+      "Держите спину прямо, а плечи отведите назад.",
+      "Делайте небольшие контролируемые шаги вперед, сохраняя вертикальное положение.",
+      "Продолжайте идти желаемое расстояние или время.",
+      "В завершение остановитесь и осторожно опустите гантели в стороны."
+    ],
+    "zh": [
+      "站直，双手各握一个哑铃，手掌朝向身体两侧。",
+      "保持背部挺直，肩膀向后。",
+      "向前迈出小步，控制住，保持直立姿势。",
+      "继续步行所需的距离或时间。",
+      "最后，停止行走并小心地将哑铃降低到身体两侧。"
+    ],
+    "hi": [
+      "प्रत्येक हाथ में डम्बल लेकर सीधे खड़े हो जाएं, हथेलियाँ आपके बगल की ओर हों।",
+      "अपनी पीठ सीधी और कंधे पीछे रखें।",
+      "सीधी मुद्रा बनाए रखते हुए छोटे, नियंत्रित कदम आगे बढ़ाएं।",
+      "वांछित दूरी या समय तक चलते रहें।",
+      "समाप्त करने के लिए, चलना बंद करें और डम्बल को सावधानी से अपनी तरफ नीचे करें।"
+    ],
+    "pl": [
+      "Stań prosto z hantlą w każdej dłoni, dłonie skierowane w stronę tułowia.",
+      "Trzymaj proste plecy, a barki ściągnięte do tyłu.",
+      "Wykonuj małe, kontrolowane kroki do przodu, utrzymując wyprostowaną postawę.",
+      "Kontynuuj marsz przez zalecany dystans lub czas.",
+      "Na koniec zatrzymaj się i ostrożnie opuść hantle wzdłuż tułowia."
+    ],
+    "ko": [
+      "각 손에 덤벨을 잡고 선 자세에서 손가락이 옆을 향하도록 합니다.",
+      "등을 곧게 유지하고 어깨를 뒤로 당깁니다.",
+      "작고 조절된 걸음으로 앞으로 나아가면서 바른 자세를 유지합니다.",
+      "원하는 거리나 시간 동안 계속 걷습니다.",
+      "마칠 때, 걷기를 멈추고 덤벨을 조심스럽게 옆에 내려놓습니다."
+    ],
+    "fr": [
+      "Tiens-toi bien droit avec un haltère dans chaque main, les paumes tournées vers tes côtés.",
+      "Garde le dos droit et tes épaules en arrière.",
+      "Fais de petits pas contrôlés vers l'avant, en gardant une posture bien droite.",
+      "Continue à marcher sur la distance ou le temps souhaité.",
+      "Pour terminer, arrête de marcher et abaisse prudemment les haltères le long de tes flancs."
+    ]
+  },
+  "muscle_group": "calves",
+  "secondary_muscles": [
+    "calves",
+    "forearms",
+    "core"
+  ],
+  "target": "quads",
+  "image": "images/2133-qPEzJjA.jpg",
+  "gif_url": "videos/2133-qPEzJjA.gif",
+  "media_id": "qPEzJjA",
+  "created_at": "2026-03-18T12:31:32.88353+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

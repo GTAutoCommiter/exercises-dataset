@@ -1,0 +1,101 @@
+{
+  "id": "0637",
+  "name": "olympic barbell triceps extension",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "olympic barbell",
+  "instructions": {
+    "en": "Start by standing with your feet shoulder-width apart and holding the barbell with an overhand grip. Raise the barbell above your head, fully extending your arms. Keeping your upper arms close to your head, slowly lower the barbell behind your head by bending your elbows. Pause for a moment, then extend your arms back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Inizia stando in piedi con i piedi alla larghezza delle spalle e tenendo il bilanciere con una presa prona. Solleva il bilanciere sopra la testa, estendendo completamente le braccia. Tenendo la parte superiore delle braccia vicino alla testa, abbassa lentamente il bilanciere dietro la testa piegando i gomiti. Fai una pausa per un momento, quindi stendi le braccia nella posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınızı omuz genişliğinde açarak ve halteri üstten kavrayarak tutarak başlayın. Halteri başınızın üzerine kaldırın, kollarınızı tamamen uzatın. Üst kollarınızı başınıza yakın tutarak, dirseklerinizi bükerek halteri yavaşça başınızın arkasına indirin. Bir an duraklayın, ardından kollarınızı başlangıç ​​pozisyonuna geri uzatın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Comienza de pie con los pies separados a la altura de los hombros y sosteniendo la barra con un agarre prono. Levanta la barra por encima de la cabeza, extendiendo completamente los brazos. Manteniendo los brazos superiores cerca de la cabeza, baja lentamente la barra detrás de la cabeza flexionando los codos. Haz una pausa por un momento y luego extiende los brazos de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Начните с того, что встаньте, поставив ноги на ширине плеч и удерживая штангу хватом сверху. Поднимите штангу над головой, полностью выпрямив руки. Держа плечи близко к голове, медленно опустите штангу за голову, сгибая локти. Сделайте паузу на мгновение, затем вытяните руки обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "首先，双脚分开与肩同宽站立，并用正手握住杠铃。 将杠铃举过头顶，充分伸展双臂。 保持上臂靠近头部，弯曲肘部，慢慢将杠铃降低到脑后。 暂停片刻，然后将手臂伸回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े होकर और बारबेल को ऊपरी पकड़ से पकड़कर शुरुआत करें। अपनी बाहों को पूरी तरह फैलाते हुए बारबेल को अपने सिर के ऊपर उठाएं। अपनी ऊपरी भुजाओं को अपने सिर के पास रखते हुए, अपनी कोहनियों को मोड़कर बारबेल को धीरे-धीरे अपने सिर के पीछे नीचे करें। एक पल के लिए रुकें, फिर अपनी भुजाओं को वापस प्रारंभिक स्थिति में फैलाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Zacznij, stojąc w rozkroku na szerokość barków i trzymając sztangę nachwytem. Unieś sztangę nad głowę, w pełni prostując ramiona. Trzymając górne części ramion blisko głowy, powoli opuść sztangę za głowę, uginając łokcie. Zatrzymaj się na chwilę, a następnie wyprostuj ramiona z powrotem do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "발을 어깨 너비로 벌리고 서서 손바닥이 앞을 향하도록 바벨을 잡습니다. 바벨을 머리 위로 올려 팔을 완전히 펼칩니다. 팔의 윗부분을 머리 근처에 가깝게 유지하면서 팔꿈치를 구부려 머리 뒤로 바벨을 천천히 내립니다. 잠시 멈추었다가 팔을 시작 위치로 펼칩니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Commence debout, les pieds écartés à la largeur des épaules, en tenant la barre en prise pronation. Lève la barre au-dessus de ta tête en tendant complètement tes bras. En gardant le haut des bras près de la tête, abaisse lentement la barre derrière ta tête en fléchissant tes coudes. Marque une pause, puis étends tes bras pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start by standing with your feet shoulder-width apart and holding the barbell with an overhand grip.",
+      "Raise the barbell above your head, fully extending your arms.",
+      "Keeping your upper arms close to your head, slowly lower the barbell behind your head by bending your elbows.",
+      "Pause for a moment, then extend your arms back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia stando in piedi con i piedi alla larghezza delle spalle e tenendo il bilanciere con una presa prona.",
+      "Solleva il bilanciere sopra la testa, estendendo completamente le braccia.",
+      "Tenendo la parte superiore delle braccia vicino alla testa, abbassa lentamente il bilanciere dietro la testa piegando i gomiti.",
+      "Fai una pausa per un momento, quindi stendi le braccia nella posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınızı omuz genişliğinde açarak ve halteri üstten kavrayarak tutarak başlayın.",
+      "Halteri başınızın üzerine kaldırın, kollarınızı tamamen uzatın.",
+      "Üst kollarınızı başınıza yakın tutarak, dirseklerinizi bükerek halteri yavaşça başınızın arkasına indirin.",
+      "Bir an duraklayın, ardından kollarınızı başlangıç ​​pozisyonuna geri uzatın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Comienza de pie con los pies separados a la altura de los hombros y sosteniendo la barra con un agarre prono.",
+      "Levanta la barra por encima de la cabeza, extendiendo completamente los brazos.",
+      "Manteniendo los brazos superiores cerca de la cabeza, baja lentamente la barra detrás de la cabeza flexionando los codos.",
+      "Haz una pausa por un momento y luego extiende los brazos de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с того, что встаньте, поставив ноги на ширине плеч и удерживая штангу хватом сверху.",
+      "Поднимите штангу над головой, полностью выпрямив руки.",
+      "Держа плечи близко к голове, медленно опустите штангу за голову, сгибая локти.",
+      "Сделайте паузу на мгновение, затем вытяните руки обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "首先，双脚分开与肩同宽站立，并用正手握住杠铃。",
+      "将杠铃举过头顶，充分伸展双臂。",
+      "保持上臂靠近头部，弯曲肘部，慢慢将杠铃降低到脑后。",
+      "暂停片刻，然后将手臂伸回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े होकर और बारबेल को ऊपरी पकड़ से पकड़कर शुरुआत करें।",
+      "अपनी बाहों को पूरी तरह फैलाते हुए बारबेल को अपने सिर के ऊपर उठाएं।",
+      "अपनी ऊपरी भुजाओं को अपने सिर के पास रखते हुए, अपनी कोहनियों को मोड़कर बारबेल को धीरे-धीरे अपने सिर के पीछे नीचे करें।",
+      "एक पल के लिए रुकें, फिर अपनी भुजाओं को वापस प्रारंभिक स्थिति में फैलाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Zacznij, stojąc w rozkroku na szerokość barków i trzymając sztangę nachwytem.",
+      "Unieś sztangę nad głowę, w pełni prostując ramiona.",
+      "Trzymając górne części ramion blisko głowy, powoli opuść sztangę za głowę, uginając łokcie.",
+      "Zatrzymaj się na chwilę, a następnie wyprostuj ramiona z powrotem do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 너비로 벌리고 서서 손바닥이 앞을 향하도록 바벨을 잡습니다.",
+      "바벨을 머리 위로 올려 팔을 완전히 펼칩니다.",
+      "팔의 윗부분을 머리 근처에 가깝게 유지하면서 팔꿈치를 구부려 머리 뒤로 바벨을 천천히 내립니다.",
+      "잠시 멈추었다가 팔을 시작 위치로 펼칩니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Commence debout, les pieds écartés à la largeur des épaules, en tenant la barre en prise pronation.",
+      "Lève la barre au-dessus de ta tête en tendant complètement tes bras.",
+      "En gardant le haut des bras près de la tête, abaisse lentement la barre derrière ta tête en fléchissant tes coudes.",
+      "Marque une pause, puis étends tes bras pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders"
+  ],
+  "target": "triceps",
+  "image": "images/0637-wu5LXwz.jpg",
+  "gif_url": "videos/0637-wu5LXwz.gif",
+  "media_id": "wu5LXwz",
+  "created_at": "2026-03-18T12:31:32.887932+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,114 @@
+{
+  "id": "0631",
+  "name": "muscle up",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Start by hanging from a pull-up bar with your palms facing away from you and your arms fully extended. Engage your core and pull your body up towards the bar, leading with your chest. As you reach the top of the movement, transition your grip so that your palms are facing towards you. Continue pulling yourself up until your chest is above the bar and your arms are fully flexed. Reverse the movement by slowly lowering yourself back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Inizia appendendoti a una barra per trazioni con i palmi delle mani rivolti lontano da te e le braccia completamente distese. Coinvolgi il core e solleva il corpo verso la barra, guidando con il petto. Quando raggiungi la parte superiore del movimento, cambia la presa in modo che i palmi delle mani siano rivolti verso di te. Continua a sollevarti finché il petto non è sopra la barra e le braccia sono completamente flesse. Invertire il movimento abbassandosi lentamente fino alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Avuç içleriniz sizden uzağa bakacak şekilde ve kollarınız tamamen uzatılmış halde bir barfiks çubuğuna asılarak başlayın. Merkez bölgenizi devreye sokun ve vücudunuzu göğsünüzle birlikte bara doğru yukarı çekin. Hareketin tepesine ulaştığınızda, avuçlarınız size bakacak şekilde tutuşunuzu değiştirin. Göğsünüz çubuğun üzerine çıkana ve kollarınız tamamen bükülene kadar kendinizi yukarı çekmeye devam edin. Kendinizi yavaşça başlangıç ​​pozisyonuna indirerek hareketi tersine çevirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Comienza colgándote de una barra de dominadas con las palmas hacia afuera y los brazos completamente extendidos. Activa el core y tira de tu cuerpo hacia arriba, hacia la barra, guiando con el pecho. Al llegar a la parte alta del movimiento, cambia el agarre de modo que las palmas queden hacia ti. Sigue tirando hacia arriba hasta que el pecho quede por encima de la barra y los brazos estén completamente flexionados. Invierte el movimiento bajando lentamente de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Начните с подвешивания на перекладине, повернув ладони от себя и полностью вытянув руки. Напрягите корпус и подтяните тело к перекладине, ведя грудью. Достигнув вершины движения, поменяйте хват так, чтобы ладони были обращены к вам. Продолжайте подтягиваться до тех пор, пока грудь не окажется над перекладиной, а руки полностью не согнутся. Выполните обратное движение, медленно опускаясь обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "首先悬挂在引体向上杆上，手掌背向自己，手臂完全伸展。 启动核心肌群，将身体拉向杠铃杆，以胸部为主导。 当你到达动作的最高点时，改变你的握力，使你的手掌朝向你。 继续将自己向上拉，直到胸部位于杠铃上方并且手臂完全弯曲。 通过慢慢降低自己回到起始位置来反转动作。 重复所需的重复次数。",
+    "hi": "अपनी हथेलियों को आपसे दूर की ओर रखते हुए और अपनी बाहों को पूरी तरह फैलाकर एक पुल-अप बार से लटककर शुरुआत करें। अपने कोर को संलग्न करें और अपने शरीर को अपनी छाती की ओर ले जाते हुए बार की ओर ऊपर खींचें। जैसे ही आप गति के शीर्ष पर पहुँचते हैं, अपनी पकड़ को बदलें ताकि आपकी हथेलियाँ आपकी ओर हों। अपने आप को तब तक ऊपर खींचते रहें जब तक कि आपकी छाती बार के ऊपर न आ जाए और आपकी बाहें पूरी तरह से मुड़ न जाएं। धीरे-धीरे अपने आप को प्रारंभिक स्थिति में वापस लाकर गति को उलट दें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Zacznij, zwisając na drążku do podciągania, dłonie skierowane od siebie, ramiona w pełni wyprostowane. Napnij mięśnie tułowia i przyciągnij ciało w górę w kierunku drążka, prowadząc ruch klatką piersiową. Gdy osiągniesz szczyt ruchu, zmień chwyt tak, aby dłonie były skierowane do ciebie. Kontynuuj podciąganie, aż klatka piersiowa znajdzie się nad drążkiem, a ramiona będą w pełni ugięte. Odwróć ruch, powoli opuszczając ciało do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "풀업 바에 손바닥이 자신을 향하도록 언더핸드 그립으로 매달려 팔을 완전히 펴집니다. 코어에 힘을 주고 가슴을 앞으로 내밀면서 몸을 바 쪽으로 당깁니다. 동작의 최고점에 도달하면 그립을 전환해 손바닥이 자신을 향하도록 바꿉니다. 가슴이 바 위로 오고 팔이 완전히 굽혀질 때까지 계속 몸을 들어올립니다. 반대 동작을 해서 천천히 처음 위치로 내려옵니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Commence suspendu à une barre de traction, les paumes tournées vers l'extérieur et les bras complètement tendus. Gaine ta sangle abdominale et tire ton corps vers la barre, en menant avec ta poitrine. Une fois en haut du mouvement, change ta prise pour que tes paumes soient tournées vers toi. Continue à te hisser jusqu'à ce que ta poitrine soit au-dessus de la barre et que tes bras soient complètement fléchis. Inverse le mouvement en t'abaissant lentement à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start by hanging from a pull-up bar with your palms facing away from you and your arms fully extended.",
+      "Engage your core and pull your body up towards the bar, leading with your chest.",
+      "As you reach the top of the movement, transition your grip so that your palms are facing towards you.",
+      "Continue pulling yourself up until your chest is above the bar and your arms are fully flexed.",
+      "Reverse the movement by slowly lowering yourself back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia appendendoti a una barra per trazioni con i palmi delle mani rivolti lontano da te e le braccia completamente distese.",
+      "Coinvolgi il core e solleva il corpo verso la barra, guidando con il petto.",
+      "Quando raggiungi la parte superiore del movimento, cambia la presa in modo che i palmi delle mani siano rivolti verso di te.",
+      "Continua a sollevarti finché il petto non è sopra la barra e le braccia sono completamente flesse.",
+      "Invertire il movimento abbassandosi lentamente fino alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Avuç içleriniz sizden uzağa bakacak şekilde ve kollarınız tamamen uzatılmış halde bir barfiks çubuğuna asılarak başlayın.",
+      "Merkez bölgenizi devreye sokun ve vücudunuzu göğsünüzle birlikte bara doğru yukarı çekin.",
+      "Hareketin tepesine ulaştığınızda, avuçlarınız size bakacak şekilde tutuşunuzu değiştirin.",
+      "Göğsünüz çubuğun üzerine çıkana ve kollarınız tamamen bükülene kadar kendinizi yukarı çekmeye devam edin.",
+      "Kendinizi yavaşça başlangıç ​​pozisyonuna indirerek hareketi tersine çevirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Comienza colgándote de una barra de dominadas con las palmas hacia afuera y los brazos completamente extendidos.",
+      "Activa el core y tira de tu cuerpo hacia arriba, hacia la barra, guiando con el pecho.",
+      "Al llegar a la parte alta del movimiento, cambia el agarre de modo que las palmas queden hacia ti.",
+      "Sigue tirando hacia arriba hasta que el pecho quede por encima de la barra y los brazos estén completamente flexionados.",
+      "Invierte el movimiento bajando lentamente de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с подвешивания на перекладине, повернув ладони от себя и полностью вытянув руки.",
+      "Напрягите корпус и подтяните тело к перекладине, ведя грудью.",
+      "Достигнув вершины движения, поменяйте хват так, чтобы ладони были обращены к вам.",
+      "Продолжайте подтягиваться до тех пор, пока грудь не окажется над перекладиной, а руки полностью не согнутся.",
+      "Выполните обратное движение, медленно опускаясь обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "首先悬挂在引体向上杆上，手掌背向自己，手臂完全伸展。",
+      "启动核心肌群，将身体拉向杠铃杆，以胸部为主导。",
+      "当你到达动作的最高点时，改变你的握力，使你的手掌朝向你。",
+      "继续将自己向上拉，直到胸部位于杠铃上方并且手臂完全弯曲。",
+      "通过慢慢降低自己回到起始位置来反转动作。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपनी हथेलियों को आपसे दूर की ओर रखते हुए और अपनी बाहों को पूरी तरह फैलाकर एक पुल-अप बार से लटककर शुरुआत करें।",
+      "अपने कोर को संलग्न करें और अपने शरीर को अपनी छाती की ओर ले जाते हुए बार की ओर ऊपर खींचें।",
+      "जैसे ही आप गति के शीर्ष पर पहुँचते हैं, अपनी पकड़ को बदलें ताकि आपकी हथेलियाँ आपकी ओर हों।",
+      "अपने आप को तब तक ऊपर खींचते रहें जब तक कि आपकी छाती बार के ऊपर न आ जाए और आपकी बाहें पूरी तरह से मुड़ न जाएं।",
+      "धीरे-धीरे अपने आप को प्रारंभिक स्थिति में वापस लाकर गति को उलट दें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Zacznij, zwisając na drążku do podciągania, dłonie skierowane od siebie, ramiona w pełni wyprostowane.",
+      "Napnij mięśnie tułowia i przyciągnij ciało w górę w kierunku drążka, prowadząc ruch klatką piersiową.",
+      "Gdy osiągniesz szczyt ruchu, zmień chwyt tak, aby dłonie były skierowane do ciebie.",
+      "Kontynuuj podciąganie, aż klatka piersiowa znajdzie się nad drążkiem, a ramiona będą w pełni ugięte.",
+      "Odwróć ruch, powoli opuszczając ciało do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "풀업 바에 손바닥이 자신을 향하도록 언더핸드 그립으로 매달려 팔을 완전히 펴집니다.",
+      "코어에 힘을 주고 가슴을 앞으로 내밀면서 몸을 바 쪽으로 당깁니다.",
+      "동작의 최고점에 도달하면 그립을 전환해 손바닥이 자신을 향하도록 바꿉니다.",
+      "가슴이 바 위로 오고 팔이 완전히 굽혀질 때까지 계속 몸을 들어올립니다.",
+      "반대 동작을 해서 천천히 처음 위치로 내려옵니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Commence suspendu à une barre de traction, les paumes tournées vers l'extérieur et les bras complètement tendus.",
+      "Gaine ta sangle abdominale et tire ton corps vers la barre, en menant avec ta poitrine.",
+      "Une fois en haut du mouvement, change ta prise pour que tes paumes soient tournées vers toi.",
+      "Continue à te hisser jusqu'à ce que ta poitrine soit au-dessus de la barre et que tes bras soient complètement fléchis.",
+      "Inverse le mouvement en t'abaissant lentement à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "triceps",
+    "shoulders",
+    "chest"
+  ],
+  "target": "lats",
+  "image": "images/0631-yJUHKTn.jpg",
+  "gif_url": "videos/0631-yJUHKTn.gif",
+  "media_id": "yJUHKTn",
+  "created_at": "2026-03-18T12:31:32.887794+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

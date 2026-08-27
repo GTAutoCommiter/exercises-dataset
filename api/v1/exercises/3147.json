@@ -1,0 +1,111 @@
+{
+  "id": "3147",
+  "name": "pelvic tilt",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Lie flat on your back with your knees bent and feet flat on the ground. Place your hands by your sides. Engage your abs and tilt your pelvis upward, pressing your lower back into the ground. Hold this position for a few seconds, focusing on contracting your abs. Release the tilt and return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Sdraiati sulla schiena con le ginocchia piegate e i piedi appoggiati a terra. Metti le mani lungo i fianchi. Coinvolgi gli addominali e inclina il bacino verso l'alto, premendo la parte bassa della schiena a terra. Mantieni questa posizione per qualche secondo, concentrandoti sulla contrazione degli addominali. Rilasciare l'inclinazione e tornare alla posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Dizleriniz bükülü ve ayaklarınız yere düz basacak şekilde sırt üstü yatın. Ellerinizi yanlarınıza yerleştirin. Karın kaslarınızı devreye sokun ve alt sırtınızı yere bastırarak pelvisinizi yukarı doğru eğin. Bu pozisyonu birkaç saniye basılı tutun ve karın kaslarınızı kasmaya odaklanın. Eğimi bırakın ve başlangıç ​​pozisyonuna dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Túmbate sobre tu espalda con las rodillas flexionadas y los pies apoyados en el suelo. Coloca las manos a los lados del cuerpo. Activa el abdomen e inclina la pelvis hacia arriba, presionando la zona lumbar contra el suelo. Mantén esta posición durante unos segundos, concentrándote en contraer el abdomen. Deshaz la inclinación y vuelve a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Лягте на спину, согните колени и поставьте ступни на землю. Положите руки по бокам. Напрягите пресс и наклоните таз вверх, прижимая поясницу к земле. Удерживайте это положение несколько секунд, сосредоточив внимание на сокращении пресса. Освободите наклон и вернитесь в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "平躺，膝盖弯曲，双脚平放在地上。 将双手放在身体两侧。 收紧腹肌，向上倾斜骨盆，将下背部压入地面。 保持这个姿势几秒钟，专注于收缩腹肌。 释放倾斜并返回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने घुटनों को मोड़कर और पैरों को ज़मीन पर सपाट रखते हुए अपनी पीठ के बल लेट जाएँ। अपने हाथों को अपने बगल में रखें। अपने पेट को संलग्न करें और अपनी श्रोणि को ऊपर की ओर झुकाएं, अपनी पीठ के निचले हिस्से को जमीन पर दबाएं। अपने पेट को सिकोड़ने पर ध्यान केंद्रित करते हुए कुछ सेकंड के लिए इस स्थिति में रहें। झुकाव छोड़ें और प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Połóż się płasko na plecach, ugnij kolana i oprzyj stopy płasko na podłodze. Umieść dłonie wzdłuż tułowia. Napnij mięśnie brzucha i przechyl miednicę do góry, dociskając dolną część pleców do podłogi. Przytrzymaj tę pozycję przez kilka sekund, skupiając się na napinaniu brzucha. Zwolnij przechylenie i wróć do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "무릎을 구부리고 발을 바닥에 평평하게 놓고 등을 대고 누워 있습니다. 손을 옆에 놓습니다. 복근을 활성화하고 골반을 위쪽으로 기울여 하부 등을 바닥에 누릅니다. 복근 수축에 집중하면서 이 자세를 몇 초 유지합니다. 기울임을 놓고 시작 위치로 돌아옵니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Allonge-toi sur le dos, les genoux fléchis et les pieds à plat au sol. Place tes mains le long de ton corps. Gaine tes abdominaux et bascule ton bassin vers le haut, en pressant le bas de ton dos contre le sol. Maintiens cette position pendant quelques secondes, en te concentrant sur la contraction de tes abdominaux. Relâche l'inclinaison et reviens à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Lie flat on your back with your knees bent and feet flat on the ground.",
+      "Place your hands by your sides.",
+      "Engage your abs and tilt your pelvis upward, pressing your lower back into the ground.",
+      "Hold this position for a few seconds, focusing on contracting your abs.",
+      "Release the tilt and return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Sdraiati sulla schiena con le ginocchia piegate e i piedi appoggiati a terra.",
+      "Metti le mani lungo i fianchi.",
+      "Coinvolgi gli addominali e inclina il bacino verso l'alto, premendo la parte bassa della schiena a terra.",
+      "Mantieni questa posizione per qualche secondo, concentrandoti sulla contrazione degli addominali.",
+      "Rilasciare l'inclinazione e tornare alla posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Dizleriniz bükülü ve ayaklarınız yere düz basacak şekilde sırt üstü yatın.",
+      "Ellerinizi yanlarınıza yerleştirin.",
+      "Karın kaslarınızı devreye sokun ve alt sırtınızı yere bastırarak pelvisinizi yukarı doğru eğin.",
+      "Bu pozisyonu birkaç saniye basılı tutun ve karın kaslarınızı kasmaya odaklanın.",
+      "Eğimi bırakın ve başlangıç ​​pozisyonuna dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Túmbate sobre tu espalda con las rodillas flexionadas y los pies apoyados en el suelo.",
+      "Coloca las manos a los lados del cuerpo.",
+      "Activa el abdomen e inclina la pelvis hacia arriba, presionando la zona lumbar contra el suelo.",
+      "Mantén esta posición durante unos segundos, concentrándote en contraer el abdomen.",
+      "Deshaz la inclinación y vuelve a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Лягте на спину, согните колени и поставьте ступни на землю.",
+      "Положите руки по бокам.",
+      "Напрягите пресс и наклоните таз вверх, прижимая поясницу к земле.",
+      "Удерживайте это положение несколько секунд, сосредоточив внимание на сокращении пресса.",
+      "Освободите наклон и вернитесь в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "平躺，膝盖弯曲，双脚平放在地上。",
+      "将双手放在身体两侧。",
+      "收紧腹肌，向上倾斜骨盆，将下背部压入地面。",
+      "保持这个姿势几秒钟，专注于收缩腹肌。",
+      "释放倾斜并返回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने घुटनों को मोड़कर और पैरों को ज़मीन पर सपाट रखते हुए अपनी पीठ के बल लेट जाएँ।",
+      "अपने हाथों को अपने बगल में रखें।",
+      "अपने पेट को संलग्न करें और अपनी श्रोणि को ऊपर की ओर झुकाएं, अपनी पीठ के निचले हिस्से को जमीन पर दबाएं।",
+      "अपने पेट को सिकोड़ने पर ध्यान केंद्रित करते हुए कुछ सेकंड के लिए इस स्थिति में रहें।",
+      "झुकाव छोड़ें और प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Połóż się płasko na plecach, ugnij kolana i oprzyj stopy płasko na podłodze.",
+      "Umieść dłonie wzdłuż tułowia.",
+      "Napnij mięśnie brzucha i przechyl miednicę do góry, dociskając dolną część pleców do podłogi.",
+      "Przytrzymaj tę pozycję przez kilka sekund, skupiając się na napinaniu brzucha.",
+      "Zwolnij przechylenie i wróć do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "무릎을 구부리고 발을 바닥에 평평하게 놓고 등을 대고 누워 있습니다.",
+      "손을 옆에 놓습니다.",
+      "복근을 활성화하고 골반을 위쪽으로 기울여 하부 등을 바닥에 누릅니다.",
+      "복근 수축에 집중하면서 이 자세를 몇 초 유지합니다.",
+      "기울임을 놓고 시작 위치로 돌아옵니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Allonge-toi sur le dos, les genoux fléchis et les pieds à plat au sol.",
+      "Place tes mains le long de ton corps.",
+      "Gaine tes abdominaux et bascule ton bassin vers le haut, en pressant le bas de ton dos contre le sol.",
+      "Maintiens cette position pendant quelques secondes, en te concentrant sur la contraction de tes abdominaux.",
+      "Relâche l'inclinaison et reviens à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "lower back",
+  "secondary_muscles": [
+    "lower back"
+  ],
+  "target": "abs",
+  "image": "images/3147-NKJ8o6x.jpg",
+  "gif_url": "videos/3147-NKJ8o6x.gif",
+  "media_id": "NKJ8o6x",
+  "created_at": "2026-03-18T12:31:32.888146+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

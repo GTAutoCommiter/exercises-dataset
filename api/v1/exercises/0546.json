@@ -1,0 +1,102 @@
+{
+  "id": "0546",
+  "name": "kettlebell seated press",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "kettlebell",
+  "instructions": {
+    "en": "Sit on a bench with your back straight and feet flat on the ground. Hold a kettlebell in each hand at shoulder height, palms facing forward. Press the kettlebells overhead, fully extending your arms. Lower the kettlebells back to shoulder height. Repeat for the desired number of repetitions.",
+    "it": "Siediti su una panca con la schiena dritta e i piedi appoggiati a terra. Tieni un kettlebell in ciascuna mano all'altezza delle spalle, con i palmi rivolti in avanti. Premi i kettlebell sopra la testa, estendendo completamente le braccia. Abbassare i kettlebell all'altezza delle spalle. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Sırtınız dik ve ayaklarınız yere düz basacak şekilde bir bankta oturun. Her iki elinizde de omuz hizasında, avuç içleriniz öne bakacak şekilde bir kettlebell tutun. Kollarınızı tamamen uzatarak kettlebell'leri başınızın üzerine bastırın. Kettlebell'leri omuz yüksekliğine kadar indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Siéntate en un banco con la espalda recta y los pies planos sobre el suelo. Sujeta una pesa rusa en cada mano a la altura del hombro, con las palmas hacia adelante. Presiona las pesas rusas por encima de la cabeza, extendiendo los brazos por completo. Baja las pesas rusas de vuelta a la altura del hombro. Repite el número de repeticiones deseado.",
+    "ru": "Сядьте на скамью, выпрямив спину и поставив ноги на землю. Держите гирю в каждой руке на уровне плеч, ладонями вперед. Жмите гири над головой, полностью выпрямляя руки. Опустите гири обратно на высоту плеч. Повторите необходимое количество повторений.",
+    "zh": "坐在长凳上，背部挺直，双脚平放在地上。 每只手握住一个壶铃，与肩同高，手掌朝前。 将壶铃压过头顶，充分伸展手臂。 将壶铃降低至肩膀高度。 重复所需的重复次数。",
+    "hi": "अपनी पीठ सीधी और पैर ज़मीन पर सपाट करके एक बेंच पर बैठें। प्रत्येक हाथ में कंधे की ऊंचाई पर केटलबेल पकड़ें, हथेलियाँ आगे की ओर हों। अपनी बाहों को पूरी तरह फैलाते हुए केटलबेल्स को ऊपर की ओर दबाएं। केटलबेल्स को वापस कंधे की ऊँचाई तक नीचे लाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Usiądź na ławce z prostymi plecami i stopami płasko opartymi o podłogę. Trzymaj kettlebell w każdej dłoni na wysokości barków, dłonie skierowane do przodu. Wypchnij kettlebelle nad głowę, w pełni prostując ramiona. Opuść kettlebelle z powrotem na wysokość barków. Powtórz zgodnie z zaplanowaną liczbą powtórzeń.",
+    "ko": "벤치에 앉아 등은 곧게 펴고 발은 땅에 닿은 상태에서 시작합니다. 각 손에 케틀벨을 어깨 높이에서 잡고 손은 앞을 향합니다. 케틀벨을 머리 위로 눌러 팔을 완전히 펼칩니다. 케틀벨을 어깨 높이로 다시 내립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Assieds-toi sur un banc, le dos droit et les pieds à plat sur le sol. Tiens un kettlebell dans chaque main à hauteur des épaules, les paumes tournées vers l'avant. Développe les kettlebells au-dessus de ta tête, en tendant complètement tes bras. Abaisse les kettlebells à hauteur des épaules. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on a bench with your back straight and feet flat on the ground.",
+      "Hold a kettlebell in each hand at shoulder height, palms facing forward.",
+      "Press the kettlebells overhead, fully extending your arms.",
+      "Lower the kettlebells back to shoulder height.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Siediti su una panca con la schiena dritta e i piedi appoggiati a terra.",
+      "Tieni un kettlebell in ciascuna mano all'altezza delle spalle, con i palmi rivolti in avanti.",
+      "Premi i kettlebell sopra la testa, estendendo completamente le braccia.",
+      "Abbassare i kettlebell all'altezza delle spalle.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Sırtınız dik ve ayaklarınız yere düz basacak şekilde bir bankta oturun.",
+      "Her iki elinizde de omuz hizasında, avuç içleriniz öne bakacak şekilde bir kettlebell tutun.",
+      "Kollarınızı tamamen uzatarak kettlebell'leri başınızın üzerine bastırın.",
+      "Kettlebell'leri omuz yüksekliğine kadar indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Siéntate en un banco con la espalda recta y los pies planos sobre el suelo.",
+      "Sujeta una pesa rusa en cada mano a la altura del hombro, con las palmas hacia adelante.",
+      "Presiona las pesas rusas por encima de la cabeza, extendiendo los brazos por completo.",
+      "Baja las pesas rusas de vuelta a la altura del hombro.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на скамью, выпрямив спину и поставив ноги на землю.",
+      "Держите гирю в каждой руке на уровне плеч, ладонями вперед.",
+      "Жмите гири над головой, полностью выпрямляя руки.",
+      "Опустите гири обратно на высоту плеч.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "坐在长凳上，背部挺直，双脚平放在地上。",
+      "每只手握住一个壶铃，与肩同高，手掌朝前。",
+      "将壶铃压过头顶，充分伸展手臂。",
+      "将壶铃降低至肩膀高度。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपनी पीठ सीधी और पैर ज़मीन पर सपाट करके एक बेंच पर बैठें।",
+      "प्रत्येक हाथ में कंधे की ऊंचाई पर केटलबेल पकड़ें, हथेलियाँ आगे की ओर हों।",
+      "अपनी बाहों को पूरी तरह फैलाते हुए केटलबेल्स को ऊपर की ओर दबाएं।",
+      "केटलबेल्स को वापस कंधे की ऊँचाई तक नीचे लाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Usiądź na ławce z prostymi plecami i stopami płasko opartymi o podłogę.",
+      "Trzymaj kettlebell w każdej dłoni na wysokości barków, dłonie skierowane do przodu.",
+      "Wypchnij kettlebelle nad głowę, w pełni prostując ramiona.",
+      "Opuść kettlebelle z powrotem na wysokość barków.",
+      "Powtórz zgodnie z zaplanowaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "벤치에 앉아 등은 곧게 펴고 발은 땅에 닿은 상태에서 시작합니다.",
+      "각 손에 케틀벨을 어깨 높이에서 잡고 손은 앞을 향합니다.",
+      "케틀벨을 머리 위로 눌러 팔을 완전히 펼칩니다.",
+      "케틀벨을 어깨 높이로 다시 내립니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Assieds-toi sur un banc, le dos droit et les pieds à plat sur le sol.",
+      "Tiens un kettlebell dans chaque main à hauteur des épaules, les paumes tournées vers l'avant.",
+      "Développe les kettlebells au-dessus de ta tête, en tendant complètement tes bras.",
+      "Abaisse les kettlebells à hauteur des épaules.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "core"
+  ],
+  "target": "delts",
+  "image": "images/0546-BkxB8LW.jpg",
+  "gif_url": "videos/0546-BkxB8LW.gif",
+  "media_id": "BkxB8LW",
+  "created_at": "2026-03-18T12:31:32.885493+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

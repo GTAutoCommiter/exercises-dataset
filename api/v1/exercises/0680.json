@@ -1,0 +1,133 @@
+{
+  "id": "0680",
+  "name": "rope climb",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "rope",
+  "instructions": {
+    "en": "Stand facing the rope with your feet shoulder-width apart. Grab the rope with both hands, palms facing towards you. Bend your knees slightly and engage your core. Begin pulling yourself up the rope by alternating hand-over-hand movements. Use your legs to assist in the upward movement. Continue climbing until you reach the desired height or the top of the rope. To descend, reverse the hand-over-hand movement while controlling your descent. Repeat for the desired number of repetitions.",
+    "it": "Mettiti di fronte alla corda con i piedi alla larghezza delle spalle. Afferra la corda con entrambe le mani, i palmi rivolti verso di te. Piega leggermente le ginocchia e coinvolgi il core. Inizia a sollevarti sulla corda alternando movimenti mano per mano. Usa le gambe per assistere nel movimento verso l'alto. Continua a salire fino a raggiungere l'altezza desiderata o la parte superiore della corda. Per scendere, invertire il movimento di mano in mano controllando la discesa. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde ipe dönük durun. Halatı iki elinizle tutun, avuçlarınız size doğru baksın. Dizlerinizi hafifçe bükün ve çekirdeğinizi çalıştırın. El-el hareketlerini değiştirerek kendinizi ipi yukarı çekmeye başlayın. Yukarı doğru harekete yardımcı olmak için bacaklarınızı kullanın. İstediğiniz yüksekliğe veya ipin tepesine ulaşana kadar tırmanmaya devam edin. İnmek için, inişinizi kontrol ederken el ele tutuşma hareketini tersine çevirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie frente a la cuerda con los pies separados a la altura de los hombros. Sujeta la cuerda con ambas manos, con las palmas mirando hacia ti. Flexiona ligeramente las rodillas y activa el core. Comienza a subir por la cuerda alternando los movimientos de las manos. Usa las piernas para ayudar en el movimiento ascendente. Continúa trepando hasta alcanzar la altura deseada o la parte superior de la cuerda. Para descender, invierte el movimiento alterno de las manos mientras controlas tu descenso. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте лицом к веревке, поставив ноги на ширине плеч. Возьмите веревку обеими руками, ладонями к себе. Слегка согните колени и задействуйте корпус. Начните подтягиваться вверх по веревке, попеременно двигая руками. Используйте ноги, чтобы помочь в движении вверх. Продолжайте подниматься, пока не достигнете желаемой высоты или вершины веревки. Чтобы опуститься, поменяйте направление движения руками, контролируя при этом спуск. Повторите необходимое количество повторений.",
+    "zh": "面向绳子站立，双脚分开与肩同宽。 用双手抓住绳子，手掌朝向自己。 稍微弯曲膝盖并启动核心。 开始通过交替的双手动作将自己拉上绳子。 用双腿协助向上运动。 继续攀爬，直到到达所需的高度或绳索的顶部。 要下降，请在控制下降的同时反转双手的动作。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए रस्सी की ओर मुंह करके खड़े हो जाएं। रस्सी को दोनों हाथों से पकड़ें, हथेलियाँ आपकी ओर हों। अपने घुटनों को थोड़ा मोड़ें और अपने कोर को संलग्न करें। बारी-बारी से हाथ से हाथ हिलाकर अपने आप को रस्सी पर ऊपर खींचना शुरू करें। ऊपर की ओर बढ़ने में सहायता के लिए अपने पैरों का उपयोग करें। तब तक चढ़ना जारी रखें जब तक आप वांछित ऊंचाई या रस्सी के शीर्ष तक नहीं पहुंच जाते। नीचे उतरने के लिए, अपने उतरते समय को नियंत्रित करते हुए हाथ से हाथ की गति को उल्टा करें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań przodem do liny, stopy w rozkroku na szerokość barków. Chwyć linę obiema rękami, dłońmi skierowanymi do siebie. Ugnij lekko kolana i napnij mięśnie brzucha. Zacznij podciągać się po linie, wykonując naprzemienne ruchy rękami. Wykorzystaj nogi, aby wspomóc ruch w górę. Kontynuuj wspinaczkę, aż osiągniesz wybraną wysokość lub szczyt liny. Aby zejść, odwróć naprzemienny ruch rąk, kontrolując zejście. Powtórz zalecaną liczbę razy.",
+    "ko": "로프 앞에 서서 양 발을 어깨 너비로 벌립니다. 양 손으로 로프를 잡되 손바닥이 몸을 향하게 합니다. 무릎을 약간 구부리고 코어를 수축시킵니다. 손을 번갈아가며 로프 위로 올려가며 자신을 들어올립니다. 위로 올라가는 동작을 도우려면 다리를 사용합니다. 원하는 높이에 도달하거나 로프 꼭대기에 도달할 때까지 계속 올라갑니다. 내려오려면 손을 번갈아가며 내려가는 동작을 역순으로 하며 내려오는 것을 조절합니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi face à la corde, les pieds écartés à la largeur des épaules. Saisis la corde avec les deux mains, les paumes tournées vers toi. Fléchis légèrement les genoux et gaine ta sangle abdominale. Commence à te hisser le long de la corde en alternant les mouvements main par-dessus main. Utilise tes jambes pour faciliter le mouvement vers le haut. Continue à grimper jusqu'à atteindre la hauteur souhaitée ou le sommet de la corde. Pour descendre, inverse le mouvement main après main tout en contrôlant ta descente. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand facing the rope with your feet shoulder-width apart.",
+      "Grab the rope with both hands, palms facing towards you.",
+      "Bend your knees slightly and engage your core.",
+      "Begin pulling yourself up the rope by alternating hand-over-hand movements.",
+      "Use your legs to assist in the upward movement.",
+      "Continue climbing until you reach the desired height or the top of the rope.",
+      "To descend, reverse the hand-over-hand movement while controlling your descent.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Mettiti di fronte alla corda con i piedi alla larghezza delle spalle.",
+      "Afferra la corda con entrambe le mani, i palmi rivolti verso di te.",
+      "Piega leggermente le ginocchia e coinvolgi il core.",
+      "Inizia a sollevarti sulla corda alternando movimenti mano per mano.",
+      "Usa le gambe per assistere nel movimento verso l'alto.",
+      "Continua a salire fino a raggiungere l'altezza desiderata o la parte superiore della corda.",
+      "Per scendere, invertire il movimento di mano in mano controllando la discesa.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde ipe dönük durun.",
+      "Halatı iki elinizle tutun, avuçlarınız size doğru baksın.",
+      "Dizlerinizi hafifçe bükün ve çekirdeğinizi çalıştırın.",
+      "El-el hareketlerini değiştirerek kendinizi ipi yukarı çekmeye başlayın.",
+      "Yukarı doğru harekete yardımcı olmak için bacaklarınızı kullanın.",
+      "İstediğiniz yüksekliğe veya ipin tepesine ulaşana kadar tırmanmaya devam edin.",
+      "İnmek için, inişinizi kontrol ederken el ele tutuşma hareketini tersine çevirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie frente a la cuerda con los pies separados a la altura de los hombros.",
+      "Sujeta la cuerda con ambas manos, con las palmas mirando hacia ti.",
+      "Flexiona ligeramente las rodillas y activa el core.",
+      "Comienza a subir por la cuerda alternando los movimientos de las manos.",
+      "Usa las piernas para ayudar en el movimiento ascendente.",
+      "Continúa trepando hasta alcanzar la altura deseada o la parte superior de la cuerda.",
+      "Para descender, invierte el movimiento alterno de las manos mientras controlas tu descenso.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте лицом к веревке, поставив ноги на ширине плеч.",
+      "Возьмите веревку обеими руками, ладонями к себе.",
+      "Слегка согните колени и задействуйте корпус.",
+      "Начните подтягиваться вверх по веревке, попеременно двигая руками.",
+      "Используйте ноги, чтобы помочь в движении вверх.",
+      "Продолжайте подниматься, пока не достигнете желаемой высоты или вершины веревки.",
+      "Чтобы опуститься, поменяйте направление движения руками, контролируя при этом спуск.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "面向绳子站立，双脚分开与肩同宽。",
+      "用双手抓住绳子，手掌朝向自己。",
+      "稍微弯曲膝盖并启动核心。",
+      "开始通过交替的双手动作将自己拉上绳子。",
+      "用双腿协助向上运动。",
+      "继续攀爬，直到到达所需的高度或绳索的顶部。",
+      "要下降，请在控制下降的同时反转双手的动作。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए रस्सी की ओर मुंह करके खड़े हो जाएं।",
+      "रस्सी को दोनों हाथों से पकड़ें, हथेलियाँ आपकी ओर हों।",
+      "अपने घुटनों को थोड़ा मोड़ें और अपने कोर को संलग्न करें।",
+      "बारी-बारी से हाथ से हाथ हिलाकर अपने आप को रस्सी पर ऊपर खींचना शुरू करें।",
+      "ऊपर की ओर बढ़ने में सहायता के लिए अपने पैरों का उपयोग करें।",
+      "तब तक चढ़ना जारी रखें जब तक आप वांछित ऊंचाई या रस्सी के शीर्ष तक नहीं पहुंच जाते।",
+      "नीचे उतरने के लिए, अपने उतरते समय को नियंत्रित करते हुए हाथ से हाथ की गति को उल्टा करें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań przodem do liny, stopy w rozkroku na szerokość barków.",
+      "Chwyć linę obiema rękami, dłońmi skierowanymi do siebie.",
+      "Ugnij lekko kolana i napnij mięśnie brzucha.",
+      "Zacznij podciągać się po linie, wykonując naprzemienne ruchy rękami.",
+      "Wykorzystaj nogi, aby wspomóc ruch w górę.",
+      "Kontynuuj wspinaczkę, aż osiągniesz wybraną wysokość lub szczyt liny.",
+      "Aby zejść, odwróć naprzemienny ruch rąk, kontrolując zejście.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "로프 앞에 서서 양 발을 어깨 너비로 벌립니다.",
+      "양 손으로 로프를 잡되 손바닥이 몸을 향하게 합니다.",
+      "무릎을 약간 구부리고 코어를 수축시킵니다.",
+      "손을 번갈아가며 로프 위로 올려가며 자신을 들어올립니다.",
+      "위로 올라가는 동작을 도우려면 다리를 사용합니다.",
+      "원하는 높이에 도달하거나 로프 꼭대기에 도달할 때까지 계속 올라갑니다.",
+      "내려오려면 손을 번갈아가며 내려가는 동작을 역순으로 하며 내려오는 것을 조절합니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi face à la corde, les pieds écartés à la largeur des épaules.",
+      "Saisis la corde avec les deux mains, les paumes tournées vers toi.",
+      "Fléchis légèrement les genoux et gaine ta sangle abdominale.",
+      "Commence à te hisser le long de la corde en alternant les mouvements main par-dessus main.",
+      "Utilise tes jambes pour faciliter le mouvement vers le haut.",
+      "Continue à grimper jusqu'à atteindre la hauteur souhaitée ou le sommet de la corde.",
+      "Pour descendre, inverse le mouvement main après main tout en contrôlant ta descente.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "forearms",
+  "secondary_muscles": [
+    "forearms",
+    "biceps",
+    "shoulders"
+  ],
+  "target": "upper back",
+  "image": "images/0680-yaAxcQr.jpg",
+  "gif_url": "videos/0680-yaAxcQr.gif",
+  "media_id": "yaAxcQr",
+  "created_at": "2026-03-18T12:31:32.889283+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

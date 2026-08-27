@@ -1,0 +1,112 @@
+{
+  "id": "0803",
+  "name": "superman push-up",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Start in a high plank position with your hands slightly wider than shoulder-width apart and your feet together. Engage your core and lower your body towards the ground, keeping your elbows close to your sides. As you lower your body, simultaneously lift your right arm and left leg off the ground, extending them straight out. Pause for a moment at the top, then lower your arm and leg back down while pushing yourself back up to the starting position. Repeat the movement, this time lifting your left arm and right leg. Continue alternating sides for the desired number of repetitions.",
+    "it": "Inizia in una posizione di plancia alta con le mani leggermente più larghe della larghezza delle spalle e i piedi uniti. Coinvolgi il core e abbassa il corpo verso terra, mantenendo i gomiti vicini ai fianchi. Mentre abbassi il corpo, solleva contemporaneamente il braccio destro e la gamba sinistra da terra, estendendoli verso l'esterno. Fai una pausa per un momento in alto, quindi abbassa il braccio e la gamba mentre ti spingi indietro fino alla posizione di partenza. Ripeti il ​​movimento, questa volta sollevando il braccio sinistro e la gamba destra. Continua ad alternare i lati per il numero di ripetizioni desiderato.",
+    "tr": "Elleriniz omuz genişliğinden biraz daha açık ve ayaklarınız bitişik olacak şekilde yüksek bir plank pozisyonuyla başlayın. Merkez bölgenizi devreye sokun ve dirseklerinizi yanlarınıza yakın tutarak vücudunuzu yere doğru indirin. Vücudunuzu indirirken aynı anda sağ kolunuzu ve sol bacağınızı yerden kaldırın ve düz bir şekilde uzatın. Tepe noktasında bir an duraklayın, ardından kolunuzu ve bacağınızı aşağı indirin ve kendinizi başlangıç ​​pozisyonuna doğru itin. Bu sefer sol kolunuzu ve sağ bacağınızı kaldırarak hareketi tekrarlayın. İstenilen tekrar sayısı için alternatif taraflara devam edin.",
+    "es": "Comienza en una posición de plancha alta con las manos un poco más separadas que la anchura de los hombros y los pies juntos. Activa el core y baja el cuerpo hacia el suelo, manteniendo los codos cerca de los costados. Mientras bajas el cuerpo, levanta simultáneamente el brazo derecho y la pierna izquierda del suelo, extendiéndolos completamente. Haz una pausa de un momento en la parte superior, luego baja el brazo y la pierna mientras te empujas de nuevo hacia arriba a la posición inicial. Repite el movimiento, esta vez levantando el brazo izquierdo y la pierna derecha. Continúa alternando lados durante el número de repeticiones deseado.",
+    "ru": "Начните с позиции высокой планки, расставив руки чуть шире плеч и поставив ноги вместе. Напрягите корпус и опустите тело к земле, держа локти близко к бокам. Опуская тело, одновременно поднимите правую руку и левую ногу от земли, вытягивая их прямо. Задержитесь на мгновение в верхней точке, затем опустите руку и ногу обратно вниз, одновременно возвращаясь в исходное положение. Повторите движение, на этот раз поднимая левую руку и правую ногу. Продолжайте чередовать стороны желаемое количество повторений.",
+    "zh": "从高位平板支撑开始，双手分开略宽于肩宽，双脚并拢。 收紧核心，将身体降低到地面，保持肘部靠近身体两侧。 当你降低身体时，同时将右臂和左腿抬离地面，笔直向外伸展。 在顶部暂停片刻，然后放下手臂和腿，同时将自己推回起始位置。 重复该动作，这次抬起左臂和右腿。 继续交替进行所需的重复次数。",
+    "hi": "अपने हाथों को कंधे की चौड़ाई से थोड़ा अधिक चौड़ा और अपने पैरों को एक साथ मिलाकर एक ऊंचे तख़्ते की स्थिति से शुरुआत करें। अपने कोर को संलग्न करें और अपने शरीर को ज़मीन की ओर नीचे करें, अपनी कोहनियों को अपने किनारों के पास रखें। जैसे ही आप अपने शरीर को नीचे लाते हैं, साथ ही अपने दाहिने हाथ और बाएं पैर को जमीन से ऊपर उठाएं, उन्हें सीधा फैलाएं। शीर्ष पर एक पल के लिए रुकें, फिर अपने हाथ और पैर को वापस नीचे लाएं और खुद को शुरुआती स्थिति में वापस धकेलें। इस बार अपने बाएँ हाथ और दाएँ पैर को ऊपर उठाते हुए, इस क्रिया को दोहराएँ। दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।",
+    "pl": "Zacznij w pozycji wysokiej deski z dłońmi rozstawionymi nieco szerzej niż szerokość barków i stopami razem. Napnij mięśnie brzucha i opuść ciało w stronę podłoża, trzymając łokcie blisko boków. Podczas opuszczania ciała jednocześnie unieś prawe ramię i lewą nogę nad podłogę, wyciągając je prosto. Zatrzymaj się na chwilę na górze, a następnie opuść ramię i nogę, jednocześnie wypychając się z powrotem do pozycji wyjściowej. Powtórz ruch, tym razem unosząc lewe ramię i prawą nogę. Kontynuuj naprzemienne strony przez żądaną liczbę powtórzeń.",
+    "ko": "손을 어깨너비보다 약간 넓게 벌리고 발을 모아 하이 플랭크 자세로 시작합니다. 코어를 활성화하고 팔꿈치를 옆에 가깝게 두고 몸을 땅 쪽으로 낮춥니다. 몸을 낮출 때 동시에 오른팔과 왼다리를 땅에서 떼고 곧게 펼칩니다. 맨 위에서 잠깐 멈춘 후 팔과 다리를 내리면서 시작 자세로 밀어올립니다. 이번에는 왼팔과 오른다리를 올리는 동작을 반복합니다. 원하는 횟수만큼 양쪽을 번갈아가며 계속합니다.",
+    "fr": "Commence en position de planche haute, les mains un peu plus écartées que la largeur des épaules et les pieds joints. Gaine ta sangle abdominale et abaisse ton corps vers le sol, en gardant tes coudes près de tes flancs. En abaissant ton corps, décolle simultanément ton bras droit et ta jambe gauche du sol en les tendant bien droit. Marque une pause en haut, puis abaisse ton bras et ta jambe tout en te poussant vers le haut pour revenir à la position de départ. Répète le mouvement, cette fois en levant ton bras gauche et ta jambe droite. Continue à alterner les côtés pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start in a high plank position with your hands slightly wider than shoulder-width apart and your feet together.",
+      "Engage your core and lower your body towards the ground, keeping your elbows close to your sides.",
+      "As you lower your body, simultaneously lift your right arm and left leg off the ground, extending them straight out.",
+      "Pause for a moment at the top, then lower your arm and leg back down while pushing yourself back up to the starting position.",
+      "Repeat the movement, this time lifting your left arm and right leg.",
+      "Continue alternating sides for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia in una posizione di plancia alta con le mani leggermente più larghe della larghezza delle spalle e i piedi uniti.",
+      "Coinvolgi il core e abbassa il corpo verso terra, mantenendo i gomiti vicini ai fianchi.",
+      "Mentre abbassi il corpo, solleva contemporaneamente il braccio destro e la gamba sinistra da terra, estendendoli verso l'esterno.",
+      "Fai una pausa per un momento in alto, quindi abbassa il braccio e la gamba mentre ti spingi indietro fino alla posizione di partenza.",
+      "Ripeti il ​​movimento, questa volta sollevando il braccio sinistro e la gamba destra.",
+      "Continua ad alternare i lati per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Elleriniz omuz genişliğinden biraz daha açık ve ayaklarınız bitişik olacak şekilde yüksek bir plank pozisyonuyla başlayın.",
+      "Merkez bölgenizi devreye sokun ve dirseklerinizi yanlarınıza yakın tutarak vücudunuzu yere doğru indirin.",
+      "Vücudunuzu indirirken aynı anda sağ kolunuzu ve sol bacağınızı yerden kaldırın ve düz bir şekilde uzatın.",
+      "Tepe noktasında bir an duraklayın, ardından kolunuzu ve bacağınızı aşağı indirin ve kendinizi başlangıç ​​pozisyonuna doğru itin.",
+      "Bu sefer sol kolunuzu ve sağ bacağınızı kaldırarak hareketi tekrarlayın.",
+      "İstenilen tekrar sayısı için alternatif taraflara devam edin."
+    ],
+    "es": [
+      "Comienza en una posición de plancha alta con las manos un poco más separadas que la anchura de los hombros y los pies juntos.",
+      "Activa el core y baja el cuerpo hacia el suelo, manteniendo los codos cerca de los costados.",
+      "Mientras bajas el cuerpo, levanta simultáneamente el brazo derecho y la pierna izquierda del suelo, extendiéndolos completamente.",
+      "Haz una pausa de un momento en la parte superior, luego baja el brazo y la pierna mientras te empujas de nuevo hacia arriba a la posición inicial.",
+      "Repite el movimiento, esta vez levantando el brazo izquierdo y la pierna derecha.",
+      "Continúa alternando lados durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с позиции высокой планки, расставив руки чуть шире плеч и поставив ноги вместе.",
+      "Напрягите корпус и опустите тело к земле, держа локти близко к бокам.",
+      "Опуская тело, одновременно поднимите правую руку и левую ногу от земли, вытягивая их прямо.",
+      "Задержитесь на мгновение в верхней точке, затем опустите руку и ногу обратно вниз, одновременно возвращаясь в исходное положение.",
+      "Повторите движение, на этот раз поднимая левую руку и правую ногу.",
+      "Продолжайте чередовать стороны желаемое количество повторений."
+    ],
+    "zh": [
+      "从高位平板支撑开始，双手分开略宽于肩宽，双脚并拢。",
+      "收紧核心，将身体降低到地面，保持肘部靠近身体两侧。",
+      "当你降低身体时，同时将右臂和左腿抬离地面，笔直向外伸展。",
+      "在顶部暂停片刻，然后放下手臂和腿，同时将自己推回起始位置。",
+      "重复该动作，这次抬起左臂和右腿。",
+      "继续交替进行所需的重复次数。"
+    ],
+    "hi": [
+      "अपने हाथों को कंधे की चौड़ाई से थोड़ा अधिक चौड़ा और अपने पैरों को एक साथ मिलाकर एक ऊंचे तख़्ते की स्थिति से शुरुआत करें।",
+      "अपने कोर को संलग्न करें और अपने शरीर को ज़मीन की ओर नीचे करें, अपनी कोहनियों को अपने किनारों के पास रखें।",
+      "जैसे ही आप अपने शरीर को नीचे लाते हैं, साथ ही अपने दाहिने हाथ और बाएं पैर को जमीन से ऊपर उठाएं, उन्हें सीधा फैलाएं।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर अपने हाथ और पैर को वापस नीचे लाएं और खुद को शुरुआती स्थिति में वापस धकेलें।",
+      "इस बार अपने बाएँ हाथ और दाएँ पैर को ऊपर उठाते हुए, इस क्रिया को दोहराएँ।",
+      "दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।"
+    ],
+    "pl": [
+      "Zacznij w pozycji wysokiej deski z dłońmi rozstawionymi nieco szerzej niż szerokość barków i stopami razem.",
+      "Napnij mięśnie brzucha i opuść ciało w stronę podłoża, trzymając łokcie blisko boków.",
+      "Podczas opuszczania ciała jednocześnie unieś prawe ramię i lewą nogę nad podłogę, wyciągając je prosto.",
+      "Zatrzymaj się na chwilę na górze, a następnie opuść ramię i nogę, jednocześnie wypychając się z powrotem do pozycji wyjściowej.",
+      "Powtórz ruch, tym razem unosząc lewe ramię i prawą nogę.",
+      "Kontynuuj naprzemienne strony przez żądaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "손을 어깨너비보다 약간 넓게 벌리고 발을 모아 하이 플랭크 자세로 시작합니다.",
+      "코어를 활성화하고 팔꿈치를 옆에 가깝게 두고 몸을 땅 쪽으로 낮춥니다.",
+      "몸을 낮출 때 동시에 오른팔과 왼다리를 땅에서 떼고 곧게 펼칩니다.",
+      "맨 위에서 잠깐 멈춘 후 팔과 다리를 내리면서 시작 자세로 밀어올립니다.",
+      "이번에는 왼팔과 오른다리를 올리는 동작을 반복합니다.",
+      "원하는 횟수만큼 양쪽을 번갈아가며 계속합니다."
+    ],
+    "fr": [
+      "Commence en position de planche haute, les mains un peu plus écartées que la largeur des épaules et les pieds joints.",
+      "Gaine ta sangle abdominale et abaisse ton corps vers le sol, en gardant tes coudes près de tes flancs.",
+      "En abaissant ton corps, décolle simultanément ton bras droit et ta jambe gauche du sol en les tendant bien droit.",
+      "Marque une pause en haut, puis abaisse ton bras et ta jambe tout en te poussant vers le haut pour revenir à la position de départ.",
+      "Répète le mouvement, cette fois en levant ton bras gauche et ta jambe droite.",
+      "Continue à alterner les côtés pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "core",
+  "secondary_muscles": [
+    "core",
+    "shoulders"
+  ],
+  "target": "pectorals",
+  "image": "images/0803-4GqRrAk.jpg",
+  "gif_url": "videos/0803-4GqRrAk.gif",
+  "media_id": "4GqRrAk",
+  "created_at": "2026-03-18T12:31:32.90502+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

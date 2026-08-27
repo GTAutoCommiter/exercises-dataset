@@ -1,0 +1,282 @@
+[
+  {
+    "id": "0016",
+    "name": "assisted prone hamstring",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "assisted",
+    "target": "hamstrings",
+    "image": "images/0016-VedGSby.jpg",
+    "gif_url": "videos/0016-VedGSby.gif"
+  },
+  {
+    "id": "0044",
+    "name": "barbell good morning",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "hamstrings",
+    "image": "images/0044-XlZ4lAC.jpg",
+    "gif_url": "videos/0044-XlZ4lAC.gif"
+  },
+  {
+    "id": "0116",
+    "name": "barbell straight leg deadlift",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "hamstrings",
+    "image": "images/0116-hrVQWvE.jpg",
+    "gif_url": "videos/0116-hrVQWvE.gif"
+  },
+  {
+    "id": "3235",
+    "name": "cable assisted inverse leg curl",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "cable",
+    "target": "hamstrings",
+    "image": "images/3235-zHEpuuc.jpg",
+    "gif_url": "videos/3235-zHEpuuc.gif"
+  },
+  {
+    "id": "0339",
+    "name": "dumbbell lying femoral",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "dumbbell",
+    "target": "hamstrings",
+    "image": "images/0339-FkBIE6a.jpg",
+    "gif_url": "videos/0339-FkBIE6a.gif"
+  },
+  {
+    "id": "1560",
+    "name": "exercise ball seated hamstring stretch",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "stability ball",
+    "target": "hamstrings",
+    "image": "images/1560-yRYyfdA.jpg",
+    "gif_url": "videos/1560-yRYyfdA.gif"
+  },
+  {
+    "id": "3193",
+    "name": "glute-ham raise",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "hamstrings",
+    "image": "images/3193-Vvwjz6N.jpg",
+    "gif_url": "videos/3193-Vvwjz6N.gif"
+  },
+  {
+    "id": "1511",
+    "name": "hamstring stretch",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "hamstrings",
+    "image": "images/1511-99rWm7w.jpg",
+    "gif_url": "videos/1511-99rWm7w.gif"
+  },
+  {
+    "id": "0496",
+    "name": "inverse leg curl (bench support)",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "hamstrings",
+    "image": "images/0496-ms7tjSG.jpg",
+    "gif_url": "videos/0496-ms7tjSG.gif"
+  },
+  {
+    "id": "2400",
+    "name": "inverse leg curl (on pull-up cable machine)",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "hamstrings",
+    "image": "images/2400-0rHfvy9.jpg",
+    "gif_url": "videos/2400-0rHfvy9.gif"
+  },
+  {
+    "id": "0535",
+    "name": "kettlebell hang clean",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "kettlebell",
+    "target": "hamstrings",
+    "image": "images/0535-LHWF7us.jpg",
+    "gif_url": "videos/0535-LHWF7us.gif"
+  },
+  {
+    "id": "0555",
+    "name": "kick out sit",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "hamstrings",
+    "image": "images/0555-v7p5bYl.jpg",
+    "gif_url": "videos/0555-v7p5bYl.gif"
+  },
+  {
+    "id": "1576",
+    "name": "leg up hamstring stretch",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "hamstrings",
+    "image": "images/1576-sU5BrfP.jpg",
+    "gif_url": "videos/1576-sU5BrfP.gif"
+  },
+  {
+    "id": "0582",
+    "name": "lever kneeling leg curl",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "leverage machine",
+    "target": "hamstrings",
+    "image": "images/0582-nnmCTLN.jpg",
+    "gif_url": "videos/0582-nnmCTLN.gif"
+  },
+  {
+    "id": "0586",
+    "name": "lever lying leg curl",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "leverage machine",
+    "target": "hamstrings",
+    "image": "images/0586-17lJ1kr.jpg",
+    "gif_url": "videos/0586-17lJ1kr.gif"
+  },
+  {
+    "id": "3195",
+    "name": "lever lying two-one leg curl",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "leverage machine",
+    "target": "hamstrings",
+    "image": "images/3195-UXpKJoq.jpg",
+    "gif_url": "videos/3195-UXpKJoq.gif"
+  },
+  {
+    "id": "0599",
+    "name": "lever seated leg curl",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "leverage machine",
+    "target": "hamstrings",
+    "image": "images/0599-Zg3XY7P.jpg",
+    "gif_url": "videos/0599-Zg3XY7P.gif"
+  },
+  {
+    "id": "0648",
+    "name": "power clean",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "hamstrings",
+    "image": "images/0648-SiWCcTN.jpg",
+    "gif_url": "videos/0648-SiWCcTN.gif"
+  },
+  {
+    "id": "1582",
+    "name": "reclining big toe pose with rope",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "rope",
+    "target": "hamstrings",
+    "image": "images/1582-K5xgdvI.jpg",
+    "gif_url": "videos/1582-K5xgdvI.gif"
+  },
+  {
+    "id": "1585",
+    "name": "runners stretch",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "hamstrings",
+    "image": "images/1585-0mB6wHO.jpg",
+    "gif_url": "videos/1585-0mB6wHO.gif"
+  },
+  {
+    "id": "1587",
+    "name": "seated wide angle pose sequence",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "hamstrings",
+    "image": "images/1587-HIgYKAB.jpg",
+    "gif_url": "videos/1587-HIgYKAB.gif"
+  },
+  {
+    "id": "0697",
+    "name": "self assisted inverse leg curl",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "hamstrings",
+    "image": "images/0697-GwYwElT.jpg",
+    "gif_url": "videos/0697-GwYwElT.gif"
+  },
+  {
+    "id": "1766",
+    "name": "self assisted inverse leg curl",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "hamstrings",
+    "image": "images/1766-ZSY3MsL.jpg",
+    "gif_url": "videos/1766-ZSY3MsL.gif"
+  },
+  {
+    "id": "0696",
+    "name": "self assisted inverse leg curl (on floor)",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "hamstrings",
+    "image": "images/0696-E4PwJqI.jpg",
+    "gif_url": "videos/0696-E4PwJqI.gif"
+  },
+  {
+    "id": "0730",
+    "name": "single leg platform slide",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "hamstrings",
+    "image": "images/0730-LNE3wfo.jpg",
+    "gif_url": "videos/0730-LNE3wfo.gif"
+  },
+  {
+    "id": "1599",
+    "name": "standing hamstring and calf stretch with strap",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "rope",
+    "target": "hamstrings",
+    "image": "images/1599-xTjr103.jpg",
+    "gif_url": "videos/1599-xTjr103.gif"
+  },
+  {
+    "id": "0795",
+    "name": "standing single leg curl",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "hamstrings",
+    "image": "images/0795-C5jncD2.jpg",
+    "gif_url": "videos/0795-C5jncD2.gif"
+  },
+  {
+    "id": "1604",
+    "name": "world greatest stretch",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "hamstrings",
+    "image": "images/1604-DFGXwZr.jpg",
+    "gif_url": "videos/1604-DFGXwZr.gif"
+  }
+]

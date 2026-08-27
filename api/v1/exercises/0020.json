@@ -1,0 +1,103 @@
+{
+  "id": "0020",
+  "name": "balance board",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Place the balance board on a flat surface. Step onto the balance board with one foot, ensuring it is centered. Slowly shift your weight onto the foot on the balance board, keeping your core engaged. Maintain your balance and stability as you hold the position for a desired amount of time. Repeat the exercise with the other foot.",
+    "it": "Posizionare la tavola di equilibrio su una superficie piana. Sali sulla tavola di equilibrio con un piede, assicurandoti che sia centrato. Sposta lentamente il peso sul piede sulla bilancia, mantenendo il core impegnato. Mantieni l'equilibrio e la stabilità mentre mantieni la posizione per il periodo di tempo desiderato. Ripeti l'esercizio con l'altro piede.",
+    "tr": "Denge tahtasını düz bir yüzeye yerleştirin. Ortalandığından emin olarak tek ayağınızla denge tahtasının üzerine çıkın. Ağırlığınızı yavaşça denge tahtasındaki ayağınıza verin ve merkez bölgenizi meşgul tutun. Pozisyonu istediğiniz süre boyunca korurken dengenizi ve istikrarınızı koruyun. Egzersizi diğer ayağınızla tekrarlayın.",
+    "es": "Coloca la tabla de equilibrio sobre una superficie plana. Sube a la tabla de equilibrio con un pie, asegurándote de que esté centrado. Desplaza lentamente tu peso hacia el pie que está sobre la tabla de equilibrio, manteniendo el core activado. Mantén el equilibrio y la estabilidad mientras sostienes la posición durante el tiempo deseado. Repite el ejercicio con el otro pie.",
+    "ru": "Поместите балансборд на ровную поверхность. Встаньте на балансборд одной ногой, убедившись, что он находится по центру. Медленно перенесите вес тела на ногу на балансборде, сохраняя при этом корпус напряженным. Сохраняйте баланс и стабильность, удерживая позицию в течение желаемого периода времени. Повторите упражнение другой ногой.",
+    "zh": "将平衡板放在平坦的表面上。 用一只脚踩在平衡板上，确保其居中。 慢慢地将体重转移到平衡板上的脚上，保持核心肌群参与。 在保持该姿势所需的时间内保持平衡和稳定。 用另一只脚重复该练习。",
+    "hi": "बैलेंस बोर्ड को समतल सतह पर रखें। एक पैर से बैलेंस बोर्ड पर कदम रखें, यह सुनिश्चित करते हुए कि यह बीच में है। अपने कोर को व्यस्त रखते हुए धीरे-धीरे अपना वजन बैलेंस बोर्ड पर पैर पर डालें। वांछित समय तक पद पर रहते हुए अपना संतुलन और स्थिरता बनाए रखें। दूसरे पैर से भी व्यायाम दोहराएं।",
+    "pl": "Umieść deskę równoważną na płaskiej powierzchni. Wejdź na deskę jedną stopą, upewniając się, że jest wyśrodkowana. Powoli przenieś ciężar ciała na stopę stojącą na desce, napinając mięśnie brzucha. Utrzymuj równowagę i stabilność, trzymając pozycję przez zalecany czas. Powtórz ćwiczenie drugą stopą.",
+    "ko": "밸런스 보드를 평평한 표면에 놓습니다. 한쪽 발을 밸런스 보드에 올려 중심을 잡습니다. 무게를 밸런스 보드 위의 발로 천천히 옮기면서 코어를 활성화합니다. 균형을 유지하며 원하는 시간만큼 자세를 유지합니다. 반대쪽 발로도 같은 운동을 반복합니다.",
+    "fr": "Place la planche d'équilibre sur une surface plane. Monte sur la planche d'équilibre avec un pied, en veillant à ce qu'il soit bien centré. Déplace lentement ton poids sur le pied posé sur la planche d'équilibre, en gardant ta sangle abdominale gainée. Maintiens ton équilibre et ta stabilité en tenant la position pendant la durée souhaitée. Répète l'exercice avec l'autre pied."
+  },
+  "instruction_steps": {
+    "en": [
+      "Place the balance board on a flat surface.",
+      "Step onto the balance board with one foot, ensuring it is centered.",
+      "Slowly shift your weight onto the foot on the balance board, keeping your core engaged.",
+      "Maintain your balance and stability as you hold the position for a desired amount of time.",
+      "Repeat the exercise with the other foot."
+    ],
+    "it": [
+      "Posizionare la tavola di equilibrio su una superficie piana.",
+      "Sali sulla tavola di equilibrio con un piede, assicurandoti che sia centrato.",
+      "Sposta lentamente il peso sul piede sulla bilancia, mantenendo il core impegnato.",
+      "Mantieni l'equilibrio e la stabilità mentre mantieni la posizione per il periodo di tempo desiderato.",
+      "Ripeti l'esercizio con l'altro piede."
+    ],
+    "tr": [
+      "Denge tahtasını düz bir yüzeye yerleştirin.",
+      "Ortalandığından emin olarak tek ayağınızla denge tahtasının üzerine çıkın.",
+      "Ağırlığınızı yavaşça denge tahtasındaki ayağınıza verin ve merkez bölgenizi meşgul tutun.",
+      "Pozisyonu istediğiniz süre boyunca korurken dengenizi ve istikrarınızı koruyun.",
+      "Egzersizi diğer ayağınızla tekrarlayın."
+    ],
+    "es": [
+      "Coloca la tabla de equilibrio sobre una superficie plana.",
+      "Sube a la tabla de equilibrio con un pie, asegurándote de que esté centrado.",
+      "Desplaza lentamente tu peso hacia el pie que está sobre la tabla de equilibrio, manteniendo el core activado.",
+      "Mantén el equilibrio y la estabilidad mientras sostienes la posición durante el tiempo deseado.",
+      "Repite el ejercicio con el otro pie."
+    ],
+    "ru": [
+      "Поместите балансборд на ровную поверхность.",
+      "Встаньте на балансборд одной ногой, убедившись, что он находится по центру.",
+      "Медленно перенесите вес тела на ногу на балансборде, сохраняя при этом корпус напряженным.",
+      "Сохраняйте баланс и стабильность, удерживая позицию в течение желаемого периода времени.",
+      "Повторите упражнение другой ногой."
+    ],
+    "zh": [
+      "将平衡板放在平坦的表面上。",
+      "用一只脚踩在平衡板上，确保其居中。",
+      "慢慢地将体重转移到平衡板上的脚上，保持核心肌群参与。",
+      "在保持该姿势所需的时间内保持平衡和稳定。",
+      "用另一只脚重复该练习。"
+    ],
+    "hi": [
+      "बैलेंस बोर्ड को समतल सतह पर रखें।",
+      "एक पैर से बैलेंस बोर्ड पर कदम रखें, यह सुनिश्चित करते हुए कि यह बीच में है।",
+      "अपने कोर को व्यस्त रखते हुए धीरे-धीरे अपना वजन बैलेंस बोर्ड पर पैर पर डालें।",
+      "वांछित समय तक पद पर रहते हुए अपना संतुलन और स्थिरता बनाए रखें।",
+      "दूसरे पैर से भी व्यायाम दोहराएं।"
+    ],
+    "pl": [
+      "Umieść deskę równoważną na płaskiej powierzchni.",
+      "Wejdź na deskę jedną stopą, upewniając się, że jest wyśrodkowana.",
+      "Powoli przenieś ciężar ciała na stopę stojącą na desce, napinając mięśnie brzucha.",
+      "Utrzymuj równowagę i stabilność, trzymając pozycję przez zalecany czas.",
+      "Powtórz ćwiczenie drugą stopą."
+    ],
+    "ko": [
+      "밸런스 보드를 평평한 표면에 놓습니다.",
+      "한쪽 발을 밸런스 보드에 올려 중심을 잡습니다.",
+      "무게를 밸런스 보드 위의 발로 천천히 옮기면서 코어를 활성화합니다.",
+      "균형을 유지하며 원하는 시간만큼 자세를 유지합니다.",
+      "반대쪽 발로도 같은 운동을 반복합니다."
+    ],
+    "fr": [
+      "Place la planche d'équilibre sur une surface plane.",
+      "Monte sur la planche d'équilibre avec un pied, en veillant à ce qu'il soit bien centré.",
+      "Déplace lentement ton poids sur le pied posé sur la planche d'équilibre, en gardant ta sangle abdominale gainée.",
+      "Maintiens ton équilibre et ta stabilité en tenant la position pendant la durée souhaitée.",
+      "Répète l'exercice avec l'autre pied."
+    ]
+  },
+  "muscle_group": "calves",
+  "secondary_muscles": [
+    "calves",
+    "hamstrings",
+    "glutes"
+  ],
+  "target": "quads",
+  "image": "images/0020-xAySMB0.jpg",
+  "gif_url": "videos/0020-xAySMB0.gif",
+  "media_id": "xAySMB0",
+  "created_at": "2026-03-18T12:31:32.855708+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

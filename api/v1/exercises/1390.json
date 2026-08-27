@@ -1,0 +1,101 @@
+{
+  "id": "1390",
+  "name": "seated calf stretch (male)",
+  "category": "lower legs",
+  "body_part": "lower legs",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Sit on the edge of a chair or bench with your feet flat on the ground. Extend one leg straight out in front of you, keeping your heel on the ground. Lean forward slightly, feeling a stretch in your calf muscle. Hold the stretch for 20-30 seconds. Switch legs and repeat the stretch.",
+    "it": "Siediti sul bordo di una sedia o di una panca con i piedi appoggiati a terra. Estendi una gamba davanti a te, mantenendo il tallone a terra. Piegati leggermente in avanti, avvertendo un allungamento del muscolo del polpaccio. Mantieni l'allungamento per 20-30 secondi. Cambia gamba e ripeti l'allungamento.",
+    "tr": "Ayaklarınız yere düz basacak şekilde bir sandalyenin veya bankın kenarına oturun. Bir bacağınızı düz bir şekilde önünüze doğru uzatın ve topuğunuzu yerde tutun. Baldır kaslarınızda bir gerginlik hissederek hafifçe öne doğru eğilin. Uzatmayı 20-30 saniye kadar tutun. Bacaklarınızı değiştirin ve esnemeyi tekrarlayın.",
+    "es": "Siéntate en el borde de una silla o banco con los pies planos sobre el suelo. Extiende una pierna recta frente a ti, manteniendo el talón en el suelo. Inclínate ligeramente hacia delante, sintiendo un estiramiento en la pantorrilla. Mantén el estiramiento durante 20-30 segundos. Cambia de pierna y repite el estiramiento.",
+    "ru": "Сядьте на край стула или скамьи, поставив ноги на землю. Вытяните одну ногу прямо перед собой, удерживая пятку на земле. Слегка наклонитесь вперед, чувствуя растяжение икроножных мышц. Удерживайте растяжку 20–30 секунд. Поменяйте ноги и повторите растяжку.",
+    "zh": "坐在椅子或长凳的边缘，双脚平放在地面上。 将一只腿伸直在身前，脚跟保持在地面上。 稍微向前倾，感受小腿肌肉的拉伸。 保持拉伸 20-30 秒。 换腿并重复拉伸。",
+    "hi": "अपने पैरों को ज़मीन पर सपाट करके कुर्सी या बेंच के किनारे पर बैठें। अपनी एड़ी को ज़मीन पर रखते हुए एक पैर को अपने सामने सीधा फैलाएँ। अपनी पिंडली की मांसपेशियों में खिंचाव महसूस करते हुए थोड़ा आगे झुकें। 20-30 सेकंड तक खिंचाव बनाए रखें। पैर बदलें और खिंचाव दोहराएं।",
+    "pl": "Usiądź na krawędzi krzesła lub ławki, ze stopami płasko opartymi na podłodze. Wyprostuj jedną nogę przed sobą, trzymając piętę na podłodze. Pochyl się lekko do przodu, odczuwając rozciąganie w mięśniu łydki. Przytrzymaj rozciągnięcie przez 20-30 sekund. Zmień nogę i powtórz rozciąganie.",
+    "ko": "의자나 벤치의 끝에 앉아 발을 땅에 평평하게 놓습니다. 한쪽 다리를 곧게 앞으로 펼치되 발뒤꿈치를 땅에 유지합니다. 약간 앞으로 기울여 종아리 근육에서의 스트레칭을 느낍니다. 스트레칭을 20-30초간 유지합니다. 다리를 바꾸어 스트레칭을 반복합니다.",
+    "fr": "Assieds-toi au bord d'une chaise ou d'un banc, les pieds à plat sur le sol. Étends une jambe droit devant toi, en gardant ton talon au sol. Penche-toi légèrement en avant, en sentant un étirement dans le muscle de ton mollet. Maintiens l'étirement pendant 20 à 30 secondes. Change de jambe et répète l'étirement."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on the edge of a chair or bench with your feet flat on the ground.",
+      "Extend one leg straight out in front of you, keeping your heel on the ground.",
+      "Lean forward slightly, feeling a stretch in your calf muscle.",
+      "Hold the stretch for 20-30 seconds.",
+      "Switch legs and repeat the stretch."
+    ],
+    "it": [
+      "Siediti sul bordo di una sedia o di una panca con i piedi appoggiati a terra.",
+      "Estendi una gamba davanti a te, mantenendo il tallone a terra.",
+      "Piegati leggermente in avanti, avvertendo un allungamento del muscolo del polpaccio.",
+      "Mantieni l'allungamento per 20-30 secondi.",
+      "Cambia gamba e ripeti l'allungamento."
+    ],
+    "tr": [
+      "Ayaklarınız yere düz basacak şekilde bir sandalyenin veya bankın kenarına oturun.",
+      "Bir bacağınızı düz bir şekilde önünüze doğru uzatın ve topuğunuzu yerde tutun.",
+      "Baldır kaslarınızda bir gerginlik hissederek hafifçe öne doğru eğilin.",
+      "Uzatmayı 20-30 saniye kadar tutun.",
+      "Bacaklarınızı değiştirin ve esnemeyi tekrarlayın."
+    ],
+    "es": [
+      "Siéntate en el borde de una silla o banco con los pies planos sobre el suelo.",
+      "Extiende una pierna recta frente a ti, manteniendo el talón en el suelo.",
+      "Inclínate ligeramente hacia delante, sintiendo un estiramiento en la pantorrilla.",
+      "Mantén el estiramiento durante 20-30 segundos.",
+      "Cambia de pierna y repite el estiramiento."
+    ],
+    "ru": [
+      "Сядьте на край стула или скамьи, поставив ноги на землю.",
+      "Вытяните одну ногу прямо перед собой, удерживая пятку на земле.",
+      "Слегка наклонитесь вперед, чувствуя растяжение икроножных мышц.",
+      "Удерживайте растяжку 20–30 секунд.",
+      "Поменяйте ноги и повторите растяжку."
+    ],
+    "zh": [
+      "坐在椅子或长凳的边缘，双脚平放在地面上。",
+      "将一只腿伸直在身前，脚跟保持在地面上。",
+      "稍微向前倾，感受小腿肌肉的拉伸。",
+      "保持拉伸 20-30 秒。",
+      "换腿并重复拉伸。"
+    ],
+    "hi": [
+      "अपने पैरों को ज़मीन पर सपाट करके कुर्सी या बेंच के किनारे पर बैठें।",
+      "अपनी एड़ी को ज़मीन पर रखते हुए एक पैर को अपने सामने सीधा फैलाएँ।",
+      "अपनी पिंडली की मांसपेशियों में खिंचाव महसूस करते हुए थोड़ा आगे झुकें।",
+      "20-30 सेकंड तक खिंचाव बनाए रखें।",
+      "पैर बदलें और खिंचाव दोहराएं।"
+    ],
+    "pl": [
+      "Usiądź na krawędzi krzesła lub ławki, ze stopami płasko opartymi na podłodze.",
+      "Wyprostuj jedną nogę przed sobą, trzymając piętę na podłodze.",
+      "Pochyl się lekko do przodu, odczuwając rozciąganie w mięśniu łydki.",
+      "Przytrzymaj rozciągnięcie przez 20-30 sekund.",
+      "Zmień nogę i powtórz rozciąganie."
+    ],
+    "ko": [
+      "의자나 벤치의 끝에 앉아 발을 땅에 평평하게 놓습니다.",
+      "한쪽 다리를 곧게 앞으로 펼치되 발뒤꿈치를 땅에 유지합니다.",
+      "약간 앞으로 기울여 종아리 근육에서의 스트레칭을 느낍니다.",
+      "스트레칭을 20-30초간 유지합니다.",
+      "다리를 바꾸어 스트레칭을 반복합니다."
+    ],
+    "fr": [
+      "Assieds-toi au bord d'une chaise ou d'un banc, les pieds à plat sur le sol.",
+      "Étends une jambe droit devant toi, en gardant ton talon au sol.",
+      "Penche-toi légèrement en avant, en sentant un étirement dans le muscle de ton mollet.",
+      "Maintiens l'étirement pendant 20 à 30 secondes.",
+      "Change de jambe et répète l'étirement."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings"
+  ],
+  "target": "calves",
+  "image": "images/1390-17bqEXD.jpg",
+  "gif_url": "videos/1390-17bqEXD.gif",
+  "media_id": "17bqEXD",
+  "created_at": "2026-03-18T12:31:32.889435+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

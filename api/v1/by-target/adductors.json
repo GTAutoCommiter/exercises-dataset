@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1712",
+    "name": "assisted side lying adductor stretch",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "assisted",
+    "target": "adductors",
+    "image": "images/1712-hC6oYY5.jpg",
+    "gif_url": "videos/1712-hC6oYY5.gif"
+  },
+  {
+    "id": "1494",
+    "name": "butterfly yoga pose",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "adductors",
+    "image": "images/1494-bWlZvXh.jpg",
+    "gif_url": "videos/1494-bWlZvXh.gif"
+  },
+  {
+    "id": "0168",
+    "name": "cable hip adduction",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "cable",
+    "target": "adductors",
+    "image": "images/0168-hBGWILP.jpg",
+    "gif_url": "videos/0168-hBGWILP.gif"
+  },
+  {
+    "id": "0598",
+    "name": "lever seated hip adduction",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "leverage machine",
+    "target": "adductors",
+    "image": "images/0598-oHsrypV.jpg",
+    "gif_url": "videos/0598-oHsrypV.gif"
+  },
+  {
+    "id": "3667",
+    "name": "side lying hip adduction (male)",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "adductors",
+    "image": "images/3667-c8f5cSY.jpg",
+    "gif_url": "videos/3667-c8f5cSY.gif"
+  },
+  {
+    "id": "1775",
+    "name": "side plank hip adduction",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "adductors",
+    "image": "images/1775-VO2qeJg.jpg",
+    "gif_url": "videos/1775-VO2qeJg.gif"
+  }
+]

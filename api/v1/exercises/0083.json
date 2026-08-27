@@ -1,0 +1,112 @@
+{
+  "id": "0083",
+  "name": "barbell rollerout from bench",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Start by kneeling on the floor with a barbell placed on a bench in front of you. Grasp the barbell with an overhand grip, slightly wider than shoulder-width apart. Keeping your core engaged and your back straight, slowly roll the barbell forward, extending your arms in front of you. Continue rolling the barbell forward until your body is fully extended and your arms are overhead. Pause for a moment at the fully extended position, then slowly roll the barbell back towards your body, returning to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Inizia in ginocchio sul pavimento con un bilanciere posizionato su una panca di fronte a te. Afferrare il bilanciere con una presa prona, leggermente più larga della larghezza delle spalle. Mantenendo il core impegnato e la schiena dritta, fai rotolare lentamente il bilanciere in avanti, estendendo le braccia davanti a te. Continua a far rotolare il bilanciere in avanti finché il tuo corpo non è completamente esteso e le tue braccia sono sopra la testa. Fermati per un momento nella posizione completamente estesa, quindi ruota lentamente il bilanciere verso il tuo corpo, tornando alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Önünüzdeki bir bankın üzerine yerleştirilmiş bir halterle yere diz çökerek başlayın. Halteri omuz genişliğinden biraz daha geniş olacak şekilde üstten kavrayın. Merkez bölgenizi meşgul ve sırtınızı dik tutarak halteri yavaşça ileri doğru yuvarlayın ve kollarınızı önünüze doğru uzatın. Vücudunuz tamamen uzayıncaya ve kollarınız başınızın üstünde oluncaya kadar halteri ileri doğru yuvarlamaya devam edin. Tamamen uzatılmış pozisyonda bir an duraklayın, ardından halteri yavaşça vücudunuza doğru döndürerek başlangıç ​​pozisyonuna dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Empieza de rodillas en el suelo con una barra colocada sobre un banco frente a ti. Agarra la barra con un agarre pronado un poco más ancho que la separación de los hombros. Manteniendo el core activado y la espalda recta, haz rodar lentamente la barra hacia delante, extendiendo los brazos frente a ti. Continúa haciendo rodar la barra hacia delante hasta que el cuerpo esté completamente extendido y los brazos por encima de la cabeza. Haz una pausa breve en la posición de extensión total, luego haz rodar lentamente la barra de vuelta hacia el cuerpo, volviendo a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Начните с того, что встанете на колени на пол, положив штангу на скамью перед собой. Возьмите штангу хватом сверху, на расстоянии чуть шире плеч. Удерживая корпус напряженным и спину прямой, медленно перекатывайте штангу вперед, вытягивая руки перед собой. Продолжайте перекатывать штангу вперед до тех пор, пока ваше тело не будет полностью выпрямлено, а руки не окажутся над головой. Задержитесь на мгновение в полностью выпрямленном положении, затем медленно перекатите штангу обратно к телу, возвращаясь в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "首先跪在地板上，将杠铃放在你面前的长凳上。 正手握住杠铃，握距略宽于肩宽。 保持核心收紧，背部挺直，慢慢向前滚动杠铃，将手臂伸到身前。 继续向前滚动杠铃，直到身体完全伸展并且手臂举过头顶。 在完全伸展的位置暂停片刻，然后慢慢地将杠铃向身体方向滚动，回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने सामने एक बेंच पर बारबेल रखकर फर्श पर घुटने टेककर शुरुआत करें। बारबेल को कंधे की चौड़ाई से थोड़ा अधिक चौड़े हाथ से पकड़ें। अपने कोर को व्यस्त रखते हुए और अपनी पीठ को सीधा रखते हुए, अपनी बाहों को अपने सामने फैलाते हुए धीरे-धीरे बारबेल को आगे की ओर घुमाएँ। जब तक आपका शरीर पूरी तरह से विस्तारित न हो जाए और आपकी भुजाएं ऊपर न आ जाएं, तब तक बारबेल को आगे की ओर घुमाते रहें। पूरी तरह से विस्तारित स्थिति में एक पल के लिए रुकें, फिर धीरे-धीरे बारबेल को अपने शरीर की ओर घुमाएं, प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Uklęknij na podłodze ze sztangą umieszczoną na ławce przed sobą. Chwyć sztangę chwytem nachwytem, nieco szerszym niż szerokość barków. Utrzymując napięte mięśnie tułowia i proste plecy, powoli tocz sztangę do przodu, wyciągając ręce przed siebie. Kontynuuj toczenie sztangi do przodu, aż ciało będzie w pełni wyprostowane, a ręce nad głową. Zatrzymaj się na chwilę w pozycji pełnego wyprostu, a następnie powoli tocz sztangę z powrotem w kierunku ciała, wracając do pozycji wyjściowej. Powtórz odpowiednią liczbę razy.",
+    "ko": "바닥에 무릎을 꿇은 상태로 앞의 벤치 위에 바벨을 올려놓습니다. 오버핸드 그립으로 바벨을 잡으며 손은 어깨 너비보다 약간 넓게 합니다. 코어에 힘을 주고 등을 곧게 펴며 천천히 바벨을 앞으로 굴립니다. 팔을 펼쳐 신체가 완전히 확장되고 팔이 머리 위로 갈 때까지 계속 굴립니다. 완전히 펼친 위치에서 잠시 멈춘 후 천천히 바벨을 몸으로 다시 굴려 시작 위치로 돌아갑니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Commence à genoux au sol, avec une barre posée sur un banc devant toi. Saisis la barre avec une prise en pronation, un peu plus large que la largeur des épaules. En gardant ta sangle abdominale gainée et le dos droit, fais lentement rouler la barre vers l'avant, en tendant tes bras devant toi. Continue à faire rouler la barre vers l'avant jusqu'à ce que ton corps soit complètement étendu et que tes bras soient au-dessus de ta tête. Marque une pause en position complètement étendue, puis fais rouler lentement la barre vers ton corps pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start by kneeling on the floor with a barbell placed on a bench in front of you.",
+      "Grasp the barbell with an overhand grip, slightly wider than shoulder-width apart.",
+      "Keeping your core engaged and your back straight, slowly roll the barbell forward, extending your arms in front of you.",
+      "Continue rolling the barbell forward until your body is fully extended and your arms are overhead.",
+      "Pause for a moment at the fully extended position, then slowly roll the barbell back towards your body, returning to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia in ginocchio sul pavimento con un bilanciere posizionato su una panca di fronte a te.",
+      "Afferrare il bilanciere con una presa prona, leggermente più larga della larghezza delle spalle.",
+      "Mantenendo il core impegnato e la schiena dritta, fai rotolare lentamente il bilanciere in avanti, estendendo le braccia davanti a te.",
+      "Continua a far rotolare il bilanciere in avanti finché il tuo corpo non è completamente esteso e le tue braccia sono sopra la testa.",
+      "Fermati per un momento nella posizione completamente estesa, quindi ruota lentamente il bilanciere verso il tuo corpo, tornando alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Önünüzdeki bir bankın üzerine yerleştirilmiş bir halterle yere diz çökerek başlayın.",
+      "Halteri omuz genişliğinden biraz daha geniş olacak şekilde üstten kavrayın.",
+      "Merkez bölgenizi meşgul ve sırtınızı dik tutarak halteri yavaşça ileri doğru yuvarlayın ve kollarınızı önünüze doğru uzatın.",
+      "Vücudunuz tamamen uzayıncaya ve kollarınız başınızın üstünde oluncaya kadar halteri ileri doğru yuvarlamaya devam edin.",
+      "Tamamen uzatılmış pozisyonda bir an duraklayın, ardından halteri yavaşça vücudunuza doğru döndürerek başlangıç ​​pozisyonuna dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Empieza de rodillas en el suelo con una barra colocada sobre un banco frente a ti.",
+      "Agarra la barra con un agarre pronado un poco más ancho que la separación de los hombros.",
+      "Manteniendo el core activado y la espalda recta, haz rodar lentamente la barra hacia delante, extendiendo los brazos frente a ti.",
+      "Continúa haciendo rodar la barra hacia delante hasta que el cuerpo esté completamente extendido y los brazos por encima de la cabeza.",
+      "Haz una pausa breve en la posición de extensión total, luego haz rodar lentamente la barra de vuelta hacia el cuerpo, volviendo a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с того, что встанете на колени на пол, положив штангу на скамью перед собой.",
+      "Возьмите штангу хватом сверху, на расстоянии чуть шире плеч.",
+      "Удерживая корпус напряженным и спину прямой, медленно перекатывайте штангу вперед, вытягивая руки перед собой.",
+      "Продолжайте перекатывать штангу вперед до тех пор, пока ваше тело не будет полностью выпрямлено, а руки не окажутся над головой.",
+      "Задержитесь на мгновение в полностью выпрямленном положении, затем медленно перекатите штангу обратно к телу, возвращаясь в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "首先跪在地板上，将杠铃放在你面前的长凳上。",
+      "正手握住杠铃，握距略宽于肩宽。",
+      "保持核心收紧，背部挺直，慢慢向前滚动杠铃，将手臂伸到身前。",
+      "继续向前滚动杠铃，直到身体完全伸展并且手臂举过头顶。",
+      "在完全伸展的位置暂停片刻，然后慢慢地将杠铃向身体方向滚动，回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने सामने एक बेंच पर बारबेल रखकर फर्श पर घुटने टेककर शुरुआत करें।",
+      "बारबेल को कंधे की चौड़ाई से थोड़ा अधिक चौड़े हाथ से पकड़ें।",
+      "अपने कोर को व्यस्त रखते हुए और अपनी पीठ को सीधा रखते हुए, अपनी बाहों को अपने सामने फैलाते हुए धीरे-धीरे बारबेल को आगे की ओर घुमाएँ।",
+      "जब तक आपका शरीर पूरी तरह से विस्तारित न हो जाए और आपकी भुजाएं ऊपर न आ जाएं, तब तक बारबेल को आगे की ओर घुमाते रहें।",
+      "पूरी तरह से विस्तारित स्थिति में एक पल के लिए रुकें, फिर धीरे-धीरे बारबेल को अपने शरीर की ओर घुमाएं, प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Uklęknij na podłodze ze sztangą umieszczoną na ławce przed sobą.",
+      "Chwyć sztangę chwytem nachwytem, nieco szerszym niż szerokość barków.",
+      "Utrzymując napięte mięśnie tułowia i proste plecy, powoli tocz sztangę do przodu, wyciągając ręce przed siebie.",
+      "Kontynuuj toczenie sztangi do przodu, aż ciało będzie w pełni wyprostowane, a ręce nad głową.",
+      "Zatrzymaj się na chwilę w pozycji pełnego wyprostu, a następnie powoli tocz sztangę z powrotem w kierunku ciała, wracając do pozycji wyjściowej.",
+      "Powtórz odpowiednią liczbę razy."
+    ],
+    "ko": [
+      "바닥에 무릎을 꿇은 상태로 앞의 벤치 위에 바벨을 올려놓습니다.",
+      "오버핸드 그립으로 바벨을 잡으며 손은 어깨 너비보다 약간 넓게 합니다.",
+      "코어에 힘을 주고 등을 곧게 펴며 천천히 바벨을 앞으로 굴립니다.",
+      "팔을 펼쳐 신체가 완전히 확장되고 팔이 머리 위로 갈 때까지 계속 굴립니다.",
+      "완전히 펼친 위치에서 잠시 멈춘 후 천천히 바벨을 몸으로 다시 굴려 시작 위치로 돌아갑니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Commence à genoux au sol, avec une barre posée sur un banc devant toi.",
+      "Saisis la barre avec une prise en pronation, un peu plus large que la largeur des épaules.",
+      "En gardant ta sangle abdominale gainée et le dos droit, fais lentement rouler la barre vers l'avant, en tendant tes bras devant toi.",
+      "Continue à faire rouler la barre vers l'avant jusqu'à ce que ton corps soit complètement étendu et que tes bras soient au-dessus de ta tête.",
+      "Marque une pause en position complètement étendue, puis fais rouler lentement la barre vers ton corps pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "target": "abs",
+  "image": "images/0083-Gxg9lDc.jpg",
+  "gif_url": "videos/0083-Gxg9lDc.gif",
+  "media_id": "Gxg9lDc",
+  "created_at": "2026-03-18T12:31:32.872591+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,102 @@
+{
+  "id": "0777",
+  "name": "spell caster",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and hold a dumbbell in one hand. Bend your knees slightly and hinge forward at the waist, keeping your back straight. Extend your arm with the dumbbell towards the opposite foot, rotating your torso as you do so. Return to the starting position and repeat on the other side. Continue alternating sides for the desired number of repetitions.",
+    "it": "Stare con i piedi alla larghezza delle spalle e tenere un manubrio in una mano. Piega leggermente le ginocchia e fai perno in avanti all'altezza della vita, mantenendo la schiena dritta. Estendi il braccio con il manubrio verso il piede opposto, ruotando il busto mentre lo fai. Ritorna alla posizione di partenza e ripeti dall'altro lato. Continua ad alternare i lati per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınızı omuz genişliğinde açın ve bir elinizde bir dambıl tutun. Dizlerinizi hafifçe bükün ve sırtınızı düz tutarak belinizden öne doğru eğilin. Kolunuzu dambılla karşı ayağınıza doğru uzatın ve bunu yaparken gövdenizi döndürün. Başlangıç ​​pozisyonuna dönün ve diğer tarafta tekrarlayın. İstenilen tekrar sayısı için alternatif taraflara devam edin.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y sujeta una mancuerna con una mano. Flexiona ligeramente las rodillas e inclínate hacia adelante desde la cintura, manteniendo la espalda recta. Extiende el brazo con la mancuerna hacia el pie opuesto, rotando el torso mientras lo haces. Regresa a la posición inicial y repite del otro lado. Continúa alternando lados durante el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, в одной руке возьмите гантель. Слегка согните ноги в коленях и наклонитесь вперед в талии, сохраняя спину прямой. Вытяните руку с гантелью к противоположной ноге, вращая при этом туловище. Вернитесь в исходное положение и повторите то же самое в другую сторону. Продолжайте чередовать стороны желаемое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，一只手握住哑铃。 稍微弯曲膝盖，腰部向前转动，保持背部挺直。 将哑铃伸向另一只脚的手臂，同时旋转躯干。 返回起始位置并在另一侧重复。 继续交替进行所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और एक हाथ में डंबल पकड़ लें। अपने घुटनों को थोड़ा मोड़ें और अपनी पीठ को सीधा रखते हुए कमर को आगे की ओर झुकाएं। अपने हाथ को डंबल के साथ विपरीत पैर की ओर बढ़ाएं, ऐसा करते समय अपने धड़ को घुमाएं। प्रारंभिक स्थिति पर लौटें और दूसरी तरफ दोहराएं। दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।",
+    "pl": "Stań w rozkroku na szerokość barków, trzymając hantlę w jednej ręce. Ugnij lekko kolana i pochyl się do przodu w talii, trzymając plecy proste. Wyciągnij rękę z hantlą w kierunku przeciwnej stopy, jednocześnie obracając tułów. Wróć do pozycji wyjściowej i powtórz po drugiej stronie. Kontynuuj naprzemienną zmianę stron przez zadaną liczbę powtórzeń.",
+    "ko": "발을 어깨 너비만큼 벌려진 위치에 서고 한쪽 손에 덤벨을 잡습니다. 무릎을 약간 구부리고 허리에서 앞으로 힌지하되 등은 펴진 상태를 유지합니다. 덤벨을 들은 팔을 반대쪽 발 쪽으로 뻗으면서 몸통을 회전합니다. 시작 위치로 돌아오고 다른 쪽을 반복합니다. 원하는 횟수만큼 양쪽을 번갈아 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens un haltère d'une main. Fléchis légèrement les genoux et bascule vers l'avant au niveau de la taille en gardant le dos droit. Étends ton bras avec l'haltère vers le pied opposé, en faisant pivoter ton torse en même temps. Reviens à la position de départ et répète de l'autre côté. Continue à alterner les côtés pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and hold a dumbbell in one hand.",
+      "Bend your knees slightly and hinge forward at the waist, keeping your back straight.",
+      "Extend your arm with the dumbbell towards the opposite foot, rotating your torso as you do so.",
+      "Return to the starting position and repeat on the other side.",
+      "Continue alternating sides for the desired number of repetitions."
+    ],
+    "it": [
+      "Stare con i piedi alla larghezza delle spalle e tenere un manubrio in una mano.",
+      "Piega leggermente le ginocchia e fai perno in avanti all'altezza della vita, mantenendo la schiena dritta.",
+      "Estendi il braccio con il manubrio verso il piede opposto, ruotando il busto mentre lo fai.",
+      "Ritorna alla posizione di partenza e ripeti dall'altro lato.",
+      "Continua ad alternare i lati per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınızı omuz genişliğinde açın ve bir elinizde bir dambıl tutun.",
+      "Dizlerinizi hafifçe bükün ve sırtınızı düz tutarak belinizden öne doğru eğilin.",
+      "Kolunuzu dambılla karşı ayağınıza doğru uzatın ve bunu yaparken gövdenizi döndürün.",
+      "Başlangıç ​​pozisyonuna dönün ve diğer tarafta tekrarlayın.",
+      "İstenilen tekrar sayısı için alternatif taraflara devam edin."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y sujeta una mancuerna con una mano.",
+      "Flexiona ligeramente las rodillas e inclínate hacia adelante desde la cintura, manteniendo la espalda recta.",
+      "Extiende el brazo con la mancuerna hacia el pie opuesto, rotando el torso mientras lo haces.",
+      "Regresa a la posición inicial y repite del otro lado.",
+      "Continúa alternando lados durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, в одной руке возьмите гантель.",
+      "Слегка согните колени и наклонитесь вперед в талии, сохраняя спину прямой.",
+      "Вытяните руку с гантелью к противоположной ноге, вращая при этом туловище.",
+      "Вернитесь в исходное положение и повторите то же самое в другую сторону.",
+      "Продолжайте чередовать стороны желаемое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，一只手握住哑铃。",
+      "稍微弯曲膝盖，腰部向前转动，保持背部挺直。",
+      "将哑铃伸向另一只脚的手臂，同时旋转躯干。",
+      "返回起始位置并在另一侧重复。",
+      "继续交替进行所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और एक हाथ में डंबल पकड़ लें।",
+      "अपने घुटनों को थोड़ा मोड़ें और अपनी पीठ को सीधा रखते हुए कमर को आगे की ओर झुकाएं।",
+      "अपने हाथ को डंबल के साथ विपरीत पैर की ओर बढ़ाएं, ऐसा करते समय अपने धड़ को घुमाएं।",
+      "प्रारंभिक स्थिति पर लौटें और दूसरी तरफ दोहराएं।",
+      "दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków, trzymając hantlę w jednej ręce.",
+      "Ugnij lekko kolana i pochyl się do przodu w talii, trzymając plecy proste.",
+      "Wyciągnij rękę z hantlą w kierunku przeciwnej stopy, jednocześnie obracając tułów.",
+      "Wróć do pozycji wyjściowej i powtórz po drugiej stronie.",
+      "Kontynuuj naprzemienną zmianę stron przez zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 너비만큼 벌려진 위치에 서고 한쪽 손에 덤벨을 잡습니다.",
+      "무릎을 약간 구부리고 허리에서 앞으로 힌지하되 등은 펴진 상태를 유지합니다.",
+      "덤벨을 들은 팔을 반대쪽 발 쪽으로 뻗으면서 몸통을 회전합니다.",
+      "시작 위치로 돌아오고 다른 쪽을 반복합니다.",
+      "원하는 횟수만큼 양쪽을 번갈아 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens un haltère d'une main.",
+      "Fléchis légèrement les genoux et bascule vers l'avant au niveau de la taille en gardant le dos droit.",
+      "Étends ton bras avec l'haltère vers le pied opposé, en faisant pivoter ton torse en même temps.",
+      "Reviens à la position de départ et répète de l'autre côté.",
+      "Continue à alterner les côtés pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "obliques",
+  "secondary_muscles": [
+    "obliques",
+    "lower back"
+  ],
+  "target": "abs",
+  "image": "images/0777-p9cCe2r.jpg",
+  "gif_url": "videos/0777-p9cCe2r.gif",
+  "media_id": "p9cCe2r",
+  "created_at": "2026-03-18T12:31:32.89129+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

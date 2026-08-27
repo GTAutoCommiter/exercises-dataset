@@ -1,0 +1,93 @@
+{
+  "id": "0662",
+  "name": "push-up",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Start in a high plank position with your hands slightly wider than shoulder-width apart and your feet together. Engage your core and lower your body towards the ground by bending your elbows, keeping your body in a straight line. Pause for a moment when your chest is just above the ground, then push yourself back up to the starting position by straightening your arms. Repeat for the desired number of repetitions.",
+    "it": "Inizia in una posizione di plancia alta con le mani leggermente più larghe della larghezza delle spalle e i piedi uniti. Coinvolgi il core e abbassa il corpo verso terra piegando i gomiti, mantenendo il corpo in linea retta. Fai una pausa per un momento quando il petto è appena sopra il suolo, quindi ritorna alla posizione di partenza raddrizzando le braccia. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Elleriniz omuz genişliğinden biraz daha açık ve ayaklarınız bitişik olacak şekilde yüksek bir plank pozisyonuyla başlayın. Gövdenizi düz bir çizgide tutarak dirseklerinizi bükerek gövdenizi yere doğru indirin. Göğsünüz yerden hemen yukarıdayken bir an duraklayın, ardından kollarınızı düzleştirerek kendinizi başlangıç ​​pozisyonuna doğru itin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Comienza en una posición de plancha alta con las manos un poco más separadas que la anchura de los hombros y los pies juntos. Activa el core y baja el cuerpo hacia el suelo flexionando los codos, manteniendo el cuerpo en línea recta. Haz una pausa cuando el pecho esté justo por encima del suelo y luego empújate de vuelta a la posición inicial estirando los brazos. Repite el número de repeticiones deseado.",
+    "ru": "Начните с позиции высокой планки, расставив руки чуть шире плеч и поставив ноги вместе. Напрягите корпус и опустите тело к земле, сгибая локти, удерживая тело на прямой линии. Сделайте паузу на мгновение, когда ваша грудь окажется чуть выше земли, затем вернитесь в исходное положение, выпрямляя руки. Повторите необходимое количество повторений.",
+    "zh": "从高位平板支撑开始，双手分开略宽于肩宽，双脚并拢。 弯曲肘部，调动核心力量，将身体压向地面，保持身体呈一条直线。 当你的胸部刚好高于地面时，暂停片刻，然后伸直手臂，将自己推回起始位置。 重复所需的重复次数。",
+    "hi": "अपने हाथों को कंधे की चौड़ाई से थोड़ा अधिक चौड़ा और अपने पैरों को एक साथ मिलाकर एक ऊंचे तख़्ते की स्थिति से शुरुआत करें। अपने कोर को संलग्न करें और अपने शरीर को एक सीधी रेखा में रखते हुए, अपनी कोहनियों को मोड़कर जमीन की ओर नीचे करें। जब आपकी छाती ज़मीन से ठीक ऊपर हो तो एक पल के लिए रुकें, फिर अपनी बाहों को सीधा करके अपने आप को शुरुआती स्थिति में वापस धकेलें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Rozpocznij w wysokiej pozycji deski z dłońmi ustawionymi nieco szerzej niż barki i stopami złączonymi. Napnij mięśnie brzucha i opuść ciało w kierunku podłogi, uginając łokcie i trzymając ciało w linii prostej. Zatrzymaj się na chwilę, gdy klatka piersiowa znajdzie się tuż nad podłogą, a następnie odepchnij się z powrotem do pozycji wyjściowej, prostując ręce. Powtórz zalecaną liczbę razy.",
+    "ko": "손이 어깨 너비보다 약간 넓고 발이 함께 있으며 머리에서 발끝까지 일직선인 높은 플랭크 자세에서 시작합니다. 코어를 조여 팔꿈치를 구부려 가슴을 땅 쪽으로 낮추면서 몸을 일직선으로 유지합니다. 가슴이 땅 바로 위에 있을 때 잠깐 멈춘 후 팔을 펴서 처음 자세로 다시 올립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Commence en position de planche haute, les mains un peu plus écartées que la largeur des épaules et les pieds joints. Gaine ta sangle abdominale et abaisse ton corps vers le sol en pliant tes coudes, en gardant ton corps en ligne droite. Marque une pause lorsque ta poitrine est juste au-dessus du sol, puis repousse-toi vers le haut pour revenir à la position de départ en tendant tes bras. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start in a high plank position with your hands slightly wider than shoulder-width apart and your feet together.",
+      "Engage your core and lower your body towards the ground by bending your elbows, keeping your body in a straight line.",
+      "Pause for a moment when your chest is just above the ground, then push yourself back up to the starting position by straightening your arms.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia in una posizione di plancia alta con le mani leggermente più larghe della larghezza delle spalle e i piedi uniti.",
+      "Coinvolgi il core e abbassa il corpo verso terra piegando i gomiti, mantenendo il corpo in linea retta.",
+      "Fai una pausa per un momento quando il petto è appena sopra il suolo, quindi ritorna alla posizione di partenza raddrizzando le braccia.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Elleriniz omuz genişliğinden biraz daha açık ve ayaklarınız bitişik olacak şekilde yüksek bir plank pozisyonuyla başlayın.",
+      "Gövdenizi düz bir çizgide tutarak dirseklerinizi bükerek gövdenizi yere doğru indirin.",
+      "Göğsünüz yerden hemen yukarıdayken bir an duraklayın, ardından kollarınızı düzleştirerek kendinizi başlangıç ​​pozisyonuna doğru itin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Comienza en una posición de plancha alta con las manos un poco más separadas que la anchura de los hombros y los pies juntos.",
+      "Activa el core y baja el cuerpo hacia el suelo flexionando los codos, manteniendo el cuerpo en línea recta.",
+      "Haz una pausa cuando el pecho esté justo por encima del suelo y luego empújate de vuelta a la posición inicial estirando los brazos.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с позиции высокой планки, расставив руки чуть шире плеч и поставив ноги вместе.",
+      "Напрягите корпус и опустите тело к земле, сгибая локти, удерживая тело на прямой линии.",
+      "Сделайте паузу на мгновение, когда ваша грудь окажется чуть выше земли, затем вернитесь в исходное положение, выпрямляя руки.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "从高位平板支撑开始，双手分开略宽于肩宽，双脚并拢。",
+      "弯曲肘部，调动核心力量，将身体压向地面，保持身体呈一条直线。",
+      "当你的胸部刚好高于地面时，暂停片刻，然后伸直手臂，将自己推回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने हाथों को कंधे की चौड़ाई से थोड़ा अधिक चौड़ा और अपने पैरों को एक साथ मिलाकर एक ऊंचे तख़्ते की स्थिति से शुरुआत करें।",
+      "अपने कोर को संलग्न करें और अपने शरीर को एक सीधी रेखा में रखते हुए, अपनी कोहनियों को मोड़कर जमीन की ओर नीचे करें।",
+      "जब आपकी छाती ज़मीन से ठीक ऊपर हो तो एक पल के लिए रुकें, फिर अपनी बाहों को सीधा करके अपने आप को शुरुआती स्थिति में वापस धकेलें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Rozpocznij w wysokiej pozycji deski z dłońmi ustawionymi nieco szerzej niż barki i stopami złączonymi.",
+      "Napnij mięśnie brzucha i opuść ciało w kierunku podłogi, uginając łokcie i trzymając ciało w linii prostej.",
+      "Zatrzymaj się na chwilę, gdy klatka piersiowa znajdzie się tuż nad podłogą, a następnie odepchnij się z powrotem do pozycji wyjściowej, prostując ręce.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "손이 어깨 너비보다 약간 넓고 발이 함께 있으며 머리에서 발끝까지 일직선인 높은 플랭크 자세에서 시작합니다.",
+      "코어를 조여 팔꿈치를 구부려 가슴을 땅 쪽으로 낮추면서 몸을 일직선으로 유지합니다.",
+      "가슴이 땅 바로 위에 있을 때 잠깐 멈춘 후 팔을 펴서 처음 자세로 다시 올립니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Commence en position de planche haute, les mains un peu plus écartées que la largeur des épaules et les pieds joints.",
+      "Gaine ta sangle abdominale et abaisse ton corps vers le sol en pliant tes coudes, en gardant ton corps en ligne droite.",
+      "Marque une pause lorsque ta poitrine est juste au-dessus du sol, puis repousse-toi vers le haut pour revenir à la position de départ en tendant tes bras.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "deltoids",
+    "core"
+  ],
+  "target": "pectorals",
+  "image": "images/0662-I4hDWkc.jpg",
+  "gif_url": "videos/0662-I4hDWkc.gif",
+  "media_id": "I4hDWkc",
+  "created_at": "2026-03-18T12:31:32.888477+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

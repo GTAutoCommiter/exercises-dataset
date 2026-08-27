@@ -1,0 +1,91 @@
+{
+  "id": "1735",
+  "name": "dumbbell lying single extension",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Lie flat on a bench with a dumbbell in one hand and your arm fully extended above your chest. Lower the dumbbell in a controlled manner towards your forehead, keeping your upper arm stationary. Pause briefly at the bottom of the movement, then extend your arm back to the starting position. Repeat for the desired number of repetitions, then switch arms.",
+    "it": "Sdraiati disteso su una panca con un manubrio in una mano e il braccio completamente esteso sopra il petto. Abbassa il manubrio in modo controllato verso la fronte, mantenendo fermo il braccio superiore. Fermati brevemente alla fine del movimento, poi estendi il braccio di nuovo alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni, poi cambia braccio.",
+    "tr": "Bir elinizde bir dambıl ve kolunuz göğsünüzün üzerinde tamamen uzatılmış halde bir bankın üzerine düz bir şekilde uzanın. Üst kolunuzu sabit tutarak dambılı kontrollü bir şekilde alnınıza doğru indirin. Hareketin alt noktasında kısa bir süre duraklayın, ardından kolunuzu başlangıç ​​pozisyonuna geri uzatın. İstenilen tekrar sayısı kadar tekrarlayın, ardından kolları değiştirin.",
+    "es": "Túmbate boca arriba en un banco con una mancuerna en una mano y el brazo completamente extendido por encima del pecho. Baja la mancuerna de manera controlada hacia la frente, manteniendo el brazo superior quieto. Haz una breve pausa en la parte inferior del movimiento, luego extiende el brazo de vuelta a la posición inicial. Repite el número de repeticiones deseado, luego cambia de brazo.",
+    "ru": "Лягте на скамью, возьмите в одну руку гантель и полностью вытяните руку над грудью. Контролируемо опустите гантель ко лбу, сохраняя плечо неподвижным. Сделайте короткую паузу в конце движения, затем вытяните руку обратно в исходное положение. Повторите желаемое количество повторений, затем поменяйте руки.",
+    "zh": "平躺在长凳上，一只手拿着哑铃，手臂完全伸展到胸部上方。 以受控的方式将哑铃降低到前额，保持上臂静止。 在动作底部短暂暂停，然后将手臂伸展回起始位置。 重复所需的重复次数，然后换臂。",
+    "hi": "एक हाथ में डम्बल लेकर एक बेंच पर सीधे लेट जाएँ और आपका हाथ आपकी छाती के ऊपर पूरी तरह फैला हुआ हो। अपने ऊपरी बांह को स्थिर रखते हुए, डम्बल को अपने माथे की ओर नियंत्रित तरीके से नीचे लाएँ। गति के निचले भाग पर कुछ देर रुकें, फिर अपने हाथ को वापस प्रारंभिक स्थिति में फैलाएँ। दोहराव की वांछित संख्या के लिए दोहराएं, फिर हथियार बदल लें।",
+    "pl": "Połóż się na ławce, trzymając hantlę w jednej ręce, z ramieniem w pełni wyprostowanym nad klatką piersiową. Opuszczaj hantlę w kontrolowany sposób w stronę czoła, utrzymując nieruchome ramię. Zatrzymaj się na chwilę w dolnej fazie ruchu, a następnie wyprostuj rękę z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń, a następnie zmień rękę.",
+    "ko": "벤치에 누워서 한쪽 손에 덤벨을 들고 가슴 위에서 팔을 완전히 펼칩니다. 덤벨을 조절하며 이마 방향으로 낮춘 후 위팔은 고정시킵니다. 아래에서 잠시 멈춘 후 처음 위치로 팔을 펼칩니다. 원하는 횟수만큼 반복한 후 반대쪽 팔로 바꿔 진행합니다.",
+    "fr": "Allonge-toi à plat sur un banc avec un haltère dans une main et le bras entièrement tendu au-dessus de ta poitrine. Abaisse l'haltère de manière contrôlée vers ton front, en gardant le haut de ton bras immobile. Marque une brève pause en bas du mouvement, puis étends ton bras jusqu'à la position de départ. Répète le nombre de répétitions souhaité, puis change de bras."
+  },
+  "instruction_steps": {
+    "en": [
+      "Lie flat on a bench with a dumbbell in one hand and your arm fully extended above your chest.",
+      "Lower the dumbbell in a controlled manner towards your forehead, keeping your upper arm stationary.",
+      "Pause briefly at the bottom of the movement, then extend your arm back to the starting position.",
+      "Repeat for the desired number of repetitions, then switch arms."
+    ],
+    "it": [
+      "Sdraiati disteso su una panca con un manubrio in una mano e il braccio completamente esteso sopra il petto.",
+      "Abbassa il manubrio in modo controllato verso la fronte, mantenendo fermo il braccio superiore.",
+      "Fermati brevemente alla fine del movimento, poi estendi il braccio di nuovo alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni, poi cambia braccio."
+    ],
+    "tr": [
+      "Bir elinizde bir dambıl ve kolunuz göğsünüzün üzerinde tamamen uzatılmış halde bir bankın üzerine düz bir şekilde uzanın.",
+      "Üst kolunuzu sabit tutarak dambılı kontrollü bir şekilde alnınıza doğru indirin.",
+      "Hareketin alt noktasında kısa bir süre duraklayın, ardından kolunuzu başlangıç ​​pozisyonuna geri uzatın.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından kolları değiştirin."
+    ],
+    "es": [
+      "Túmbate boca arriba en un banco con una mancuerna en una mano y el brazo completamente extendido por encima del pecho.",
+      "Baja la mancuerna de manera controlada hacia la frente, manteniendo el brazo superior quieto.",
+      "Haz una breve pausa en la parte inferior del movimiento, luego extiende el brazo de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado, luego cambia de brazo."
+    ],
+    "ru": [
+      "Лягте на скамью, возьмите в одну руку гантель и полностью вытяните руку над грудью.",
+      "Контролируемо опустите гантель ко лбу, сохраняя плечо неподвижным.",
+      "Сделайте короткую паузу в конце движения, затем вытяните руку обратно в исходное положение.",
+      "Повторите желаемое количество повторений, затем поменяйте руки."
+    ],
+    "zh": [
+      "平躺在长凳上，一只手拿着哑铃，手臂完全伸展到胸部上方。",
+      "以受控的方式将哑铃降低到前额，保持上臂静止。",
+      "在动作底部短暂暂停，然后将手臂伸展回起始位置。",
+      "重复所需的重复次数，然后换臂。"
+    ],
+    "hi": [
+      "एक हाथ में डम्बल लेकर एक बेंच पर सीधे लेट जाएँ और आपका हाथ आपकी छाती के ऊपर पूरी तरह फैला हुआ हो।",
+      "अपने ऊपरी बांह को स्थिर रखते हुए, डम्बल को अपने माथे की ओर नियंत्रित तरीके से नीचे लाएँ।",
+      "गति के निचले भाग पर कुछ देर रुकें, फिर अपने हाथ को वापस प्रारंभिक स्थिति में फैलाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर हथियार बदल लें।"
+    ],
+    "pl": [
+      "Połóż się na ławce, trzymając hantlę w jednej ręce, z ramieniem w pełni wyprostowanym nad klatką piersiową.",
+      "Opuszczaj hantlę w kontrolowany sposób w stronę czoła, utrzymując nieruchome ramię.",
+      "Zatrzymaj się na chwilę w dolnej fazie ruchu, a następnie wyprostuj rękę z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń, a następnie zmień rękę."
+    ],
+    "ko": [
+      "벤치에 누워서 한쪽 손에 덤벨을 들고 가슴 위에서 팔을 완전히 펼칩니다.",
+      "덤벨을 조절하며 이마 방향으로 낮춘 후 위팔은 고정시킵니다.",
+      "아래에서 잠시 멈춘 후 처음 위치로 팔을 펼칩니다.",
+      "원하는 횟수만큼 반복한 후 반대쪽 팔로 바꿔 진행합니다."
+    ],
+    "fr": [
+      "Allonge-toi à plat sur un banc avec un haltère dans une main et le bras entièrement tendu au-dessus de ta poitrine.",
+      "Abaisse l'haltère de manière contrôlée vers ton front, en gardant le haut de ton bras immobile.",
+      "Marque une brève pause en bas du mouvement, puis étends ton bras jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis change de bras."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders"
+  ],
+  "target": "triceps",
+  "image": "images/1735-6MfS53i.jpg",
+  "gif_url": "videos/1735-6MfS53i.gif",
+  "media_id": "6MfS53i",
+  "created_at": "2026-03-18T12:31:32.879547+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

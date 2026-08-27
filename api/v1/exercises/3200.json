@@ -1,0 +1,102 @@
+{
+  "id": "3200",
+  "name": "lever bent-over row with v-bar",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "leverage machine",
+  "instructions": {
+    "en": "Adjust the seat height and position yourself facing the machine. Grasp the v-bar with an overhand grip, keeping your back straight and your knees slightly bent. Pull the v-bar towards your abdomen, squeezing your shoulder blades together. Pause for a moment at the top of the movement, then slowly release the weight back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Regolare l'altezza del sedile e posizionarsi di fronte alla macchina. Afferrare la barra a V con una presa prona, mantenendo la schiena dritta e le ginocchia leggermente piegate. Tirare la barra a V verso l'addome, stringendo insieme le scapole. Fermati per un momento nella parte superiore del movimento, quindi rilascia lentamente il peso nella posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Koltuk yüksekliğini ayarlayın ve kendinizi makineye bakacak şekilde konumlandırın. Sırtınızı dik ve dizlerinizi hafifçe bükerek V-bar'ı üstten kavrayın. Kürek kemiklerinizi birbirine doğru sıkıştırarak V-bar'ı karnınıza doğru çekin. Hareketin en üst noktasında bir süre duraklayın, ardından ağırlığı yavaşça başlangıç ​​pozisyonuna bırakın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta la altura del asiento y colócate frente a la máquina. Sujeta la barra en V con un agarre prono, manteniendo la espalda recta y las rodillas ligeramente flexionadas. Tira de la barra en V hacia el abdomen, juntando los omóplatos. Haz una pausa breve en la parte alta del movimiento, luego suelta lentamente el peso de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Отрегулируйте высоту сиденья и расположитесь лицом к машине. Возьмитесь за V-образную перекладину хватом сверху, сохраняя спину прямой и слегка согнутыми в коленях. Потяните V-образную перекладину к животу, сжимая лопатки вместе. Сделайте паузу на мгновение в верхней точке движения, затем медленно опустите вес обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "调整座椅高度并将自己面向机器。 正手握住 V 形杆，保持背部挺直，膝盖稍微弯曲。 将 V 形杆拉向腹部，将肩胛骨挤压在一起。 在动作的最高点暂停片刻，然后慢慢释放重量回到起始位置。 重复所需的重复次数。",
+    "hi": "सीट की ऊंचाई समायोजित करें और अपने आप को मशीन के सामने रखें। अपनी पीठ को सीधा रखते हुए और अपने घुटनों को थोड़ा मोड़ते हुए, वी-बार को ओवरहैंड ग्रिप से पकड़ें। अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए, वी-बार को अपने पेट की ओर खींचें। गति के शीर्ष पर एक क्षण के लिए रुकें, फिर धीरे-धीरे वजन को प्रारंभिक स्थिति में वापस छोड़ें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Wyreguluj wysokość siedziska i ustaw się przodem do maszyny. Chwyć uchwyt v-bar nachwytem, utrzymując proste plecy i lekko ugięte kolana. Podciągnij uchwyt v-bar w stronę brzucha, ściskając łopatki. Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli uwolnij ciężar do pozycji wyjściowej. Powtórz zgodnie z zaplanowaną liczbą powtórzeń.",
+    "ko": "시트의 높이를 조정하고 머신을 향해 자리를 잡는다. 오버핸드 그립으로 V자 바를 잡고, 등을 펴고 무릎을 약간 구부린 상태를 유지한다. V자 바를 복부 쪽으로 당기며 견갑골을 모아 쥔다. 동작의 상단에서 잠시 멈춘 후, 천천히 무게를 시작 위치로 놓아준다. 원하는 횟수만큼 반복한다.",
+    "fr": "Règle la hauteur du siège et place-toi face à la machine. Saisis la barre en V avec une prise en pronation, en gardant le dos droit et les genoux légèrement fléchis. Tire la barre en V vers ton abdomen en contractant tes omoplates l'une vers l'autre. Marque une pause en haut du mouvement, puis relâche lentement le poids pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the seat height and position yourself facing the machine.",
+      "Grasp the v-bar with an overhand grip, keeping your back straight and your knees slightly bent.",
+      "Pull the v-bar towards your abdomen, squeezing your shoulder blades together.",
+      "Pause for a moment at the top of the movement, then slowly release the weight back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Regolare l'altezza del sedile e posizionarsi di fronte alla macchina.",
+      "Afferrare la barra a V con una presa prona, mantenendo la schiena dritta e le ginocchia leggermente piegate.",
+      "Tirare la barra a V verso l'addome, stringendo insieme le scapole.",
+      "Fermati per un momento nella parte superiore del movimento, quindi rilascia lentamente il peso nella posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Koltuk yüksekliğini ayarlayın ve kendinizi makineye bakacak şekilde konumlandırın.",
+      "Sırtınızı dik ve dizlerinizi hafifçe bükerek V-bar'ı üstten kavrayın.",
+      "Kürek kemiklerinizi birbirine doğru sıkıştırarak V-bar'ı karnınıza doğru çekin.",
+      "Hareketin en üst noktasında bir süre duraklayın, ardından ağırlığı yavaşça başlangıç ​​pozisyonuna bırakın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta la altura del asiento y colócate frente a la máquina.",
+      "Sujeta la barra en V con un agarre prono, manteniendo la espalda recta y las rodillas ligeramente flexionadas.",
+      "Tira de la barra en V hacia el abdomen, juntando los omóplatos.",
+      "Haz una pausa breve en la parte alta del movimiento, luego suelta lentamente el peso de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Отрегулируйте высоту сиденья и расположитесь лицом к машине.",
+      "Возьмитесь за V-образную перекладину хватом сверху, сохраняя спину прямой и слегка согнутыми в коленях.",
+      "Потяните V-образную перекладину к животу, сжимая лопатки вместе.",
+      "Сделайте паузу на мгновение в верхней точке движения, затем медленно опустите вес обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "调整座椅高度并将自己面向机器。",
+      "正手握住 V 形杆，保持背部挺直，膝盖稍微弯曲。",
+      "将 V 形杆拉向腹部，将肩胛骨挤压在一起。",
+      "在动作的最高点暂停片刻，然后慢慢释放重量回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "सीट की ऊंचाई समायोजित करें और अपने आप को मशीन के सामने रखें।",
+      "अपनी पीठ को सीधा रखते हुए और अपने घुटनों को थोड़ा मोड़ते हुए, वी-बार को ओवरहैंड ग्रिप से पकड़ें।",
+      "अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए, वी-बार को अपने पेट की ओर खींचें।",
+      "गति के शीर्ष पर एक क्षण के लिए रुकें, फिर धीरे-धीरे वजन को प्रारंभिक स्थिति में वापस छोड़ें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Wyreguluj wysokość siedziska i ustaw się przodem do maszyny.",
+      "Chwyć uchwyt v-bar nachwytem, utrzymując proste plecy i lekko ugięte kolana.",
+      "Podciągnij uchwyt v-bar w stronę brzucha, ściskając łopatki.",
+      "Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli uwolnij ciężar do pozycji wyjściowej.",
+      "Powtórz zgodnie z zaplanowaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "시트의 높이를 조정하고 머신을 향해 자리를 잡는다.",
+      "오버핸드 그립으로 V자 바를 잡고, 등을 펴고 무릎을 약간 구부린 상태를 유지한다.",
+      "V자 바를 복부 쪽으로 당기며 견갑골을 모아 쥔다.",
+      "동작의 상단에서 잠시 멈춘 후, 천천히 무게를 시작 위치로 놓아준다.",
+      "원하는 횟수만큼 반복한다."
+    ],
+    "fr": [
+      "Règle la hauteur du siège et place-toi face à la machine.",
+      "Saisis la barre en V avec une prise en pronation, en gardant le dos droit et les genoux légèrement fléchis.",
+      "Tire la barre en V vers ton abdomen en contractant tes omoplates l'une vers l'autre.",
+      "Marque une pause en haut du mouvement, puis relâche lentement le poids pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "forearms"
+  ],
+  "target": "upper back",
+  "image": "images/3200-LuBEORI.jpg",
+  "gif_url": "videos/3200-LuBEORI.gif",
+  "media_id": "LuBEORI",
+  "created_at": "2026-03-18T12:31:32.886114+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

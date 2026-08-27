@@ -1,0 +1,112 @@
+{
+  "id": "0993",
+  "name": "band reverse fly",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "band",
+  "instructions": {
+    "en": "Attach the band to a stationary object at chest height. Stand with your feet shoulder-width apart and hold the band with both hands in front of you. Keep your arms straight and lift them out to the sides until they are parallel to the ground. Squeeze your shoulder blades together at the top of the movement. Slowly lower your arms back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Attaccare la fascia a un oggetto fermo all'altezza del petto. Stai con i piedi alla larghezza delle spalle e tieni la fascia con entrambe le mani davanti a te. Tieni le braccia tese e sollevale lateralmente finché non sono parallele al suolo. Stringi le scapole insieme nella parte superiore del movimento. Abbassa lentamente le braccia nella posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Bandı göğüs yüksekliğinde sabit bir nesneye takın. Ayaklarınızı omuz genişliğinde açın ve bandı iki elinizle önünüzde tutun. Kollarınızı düz tutun ve yere paralel oluncaya kadar yanlara doğru kaldırın. Hareketin üst noktasında kürek kemiklerinizi birbirine doğru sıkın. Kollarınızı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Sujeta la banda a un objeto fijo a la altura del pecho. Ponte de pie con los pies separados a la altura de los hombros y sostén la banda con ambas manos frente a ti. Mantén los brazos rectos y levántalos hacia los lados hasta que queden paralelos al suelo. Junta los omóplatos en la parte superior del movimiento. Baja lentamente los brazos de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Прикрепите ремешок к неподвижному объекту на уровне груди. Встаньте, ноги на ширине плеч, держите ленту обеими руками перед собой. Держите руки прямо и поднимите их в стороны, пока они не станут параллельны земле. В верхней точке движения сведите лопатки вместе. Медленно опустите руки обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "将带子固定在胸部高度的固定物体上。 双脚分开与肩同宽站立，双手握住弹力带放在身前。 保持手臂伸直并将其向两侧抬起，直到与地面平行。 在动作的最高点将肩胛骨挤压在一起。 慢慢地将手臂放回起始位置。 重复所需的重复次数。",
+    "hi": "बैंड को छाती की ऊंचाई पर किसी स्थिर वस्तु से जोड़ें। अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और दोनों हाथों से बैंड को अपने सामने पकड़ लें। अपनी भुजाओं को सीधा रखें और उन्हें बगल की ओर तब तक उठाएँ जब तक वे ज़मीन के समानांतर न हो जाएँ। आंदोलन के शीर्ष पर अपने कंधे के ब्लेड को एक साथ निचोड़ें। धीरे-धीरे अपनी भुजाओं को प्रारंभिक स्थिति में वापस लाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Przymocuj taśmę do nieruchomego obiektu na wysokości klatki piersiowej. Stań w rozkroku na szerokość barków i trzymaj taśmę obiema rękami przed sobą. Utrzymuj ramiona proste i unieś je na boki, aż będą równoległe do podłogi. Ściśnij łopatki razem w górnej fazie ruchu. Powoli opuść ramiona z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę razy.",
+    "ko": "밴드를 가슴 높이의 고정된 물체에 부착합니다. 발을 어깨너비로 벌리고 서서 양손으로 밴드를 앞에서 잡습니다. 팔을 곧게 펼친 상태로 팔을 옆으로 들어올려 지면과 평행하게 만듭니다. 동작의 꼭짓점에서 견갑골을 함께 짜냅니다. 천천히 팔을 시작 자세로 내립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Fixe l'élastique à un objet fixe à hauteur de la poitrine. Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens l'élastique à deux mains devant toi. Garde tes bras tendus et lève-les sur les côtés jusqu'à ce qu'ils soient parallèles au sol. Contracte tes omoplates l'une vers l'autre en haut du mouvement. Abaisse lentement tes bras vers la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Attach the band to a stationary object at chest height.",
+      "Stand with your feet shoulder-width apart and hold the band with both hands in front of you.",
+      "Keep your arms straight and lift them out to the sides until they are parallel to the ground.",
+      "Squeeze your shoulder blades together at the top of the movement.",
+      "Slowly lower your arms back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Attaccare la fascia a un oggetto fermo all'altezza del petto.",
+      "Stai con i piedi alla larghezza delle spalle e tieni la fascia con entrambe le mani davanti a te.",
+      "Tieni le braccia tese e sollevale lateralmente finché non sono parallele al suolo.",
+      "Stringi le scapole insieme nella parte superiore del movimento.",
+      "Abbassa lentamente le braccia nella posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Bandı göğüs yüksekliğinde sabit bir nesneye takın.",
+      "Ayaklarınızı omuz genişliğinde açın ve bandı iki elinizle önünüzde tutun.",
+      "Kollarınızı düz tutun ve yere paralel oluncaya kadar yanlara doğru kaldırın.",
+      "Hareketin üst noktasında kürek kemiklerinizi birbirine doğru sıkın.",
+      "Kollarınızı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Sujeta la banda a un objeto fijo a la altura del pecho.",
+      "Ponte de pie con los pies separados a la altura de los hombros y sostén la banda con ambas manos frente a ti.",
+      "Mantén los brazos rectos y levántalos hacia los lados hasta que queden paralelos al suelo.",
+      "Junta los omóplatos en la parte superior del movimiento.",
+      "Baja lentamente los brazos de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Прикрепите ремешок к неподвижному объекту на уровне груди.",
+      "Встаньте, ноги на ширине плеч, держите ленту обеими руками перед собой.",
+      "Держите руки прямо и поднимите их в стороны, пока они не станут параллельны земле.",
+      "В верхней точке движения сведите лопатки вместе.",
+      "Медленно опустите руки обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将带子固定在胸部高度的固定物体上。",
+      "双脚分开与肩同宽站立，双手握住弹力带放在身前。",
+      "保持手臂伸直并将其向两侧抬起，直到与地面平行。",
+      "在动作的最高点将肩胛骨挤压在一起。",
+      "慢慢地将手臂放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "बैंड को छाती की ऊंचाई पर किसी स्थिर वस्तु से जोड़ें।",
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और दोनों हाथों से बैंड को अपने सामने पकड़ लें।",
+      "अपनी भुजाओं को सीधा रखें और उन्हें बगल की ओर तब तक उठाएँ जब तक वे ज़मीन के समानांतर न हो जाएँ।",
+      "आंदोलन के शीर्ष पर अपने कंधे के ब्लेड को एक साथ निचोड़ें।",
+      "धीरे-धीरे अपनी भुजाओं को प्रारंभिक स्थिति में वापस लाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Przymocuj taśmę do nieruchomego obiektu na wysokości klatki piersiowej.",
+      "Stań w rozkroku na szerokość barków i trzymaj taśmę obiema rękami przed sobą.",
+      "Utrzymuj ramiona proste i unieś je na boki, aż będą równoległe do podłogi.",
+      "Ściśnij łopatki razem w górnej fazie ruchu.",
+      "Powoli opuść ramiona z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "밴드를 가슴 높이의 고정된 물체에 부착합니다.",
+      "발을 어깨너비로 벌리고 서서 양손으로 밴드를 앞에서 잡습니다.",
+      "팔을 곧게 펼친 상태로 팔을 옆으로 들어올려 지면과 평행하게 만듭니다.",
+      "동작의 꼭짓점에서 견갑골을 함께 짜냅니다.",
+      "천천히 팔을 시작 자세로 내립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Fixe l'élastique à un objet fixe à hauteur de la poitrine.",
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens l'élastique à deux mains devant toi.",
+      "Garde tes bras tendus et lève-les sur les côtés jusqu'à ce qu'ils soient parallèles au sol.",
+      "Contracte tes omoplates l'une vers l'autre en haut du mouvement.",
+      "Abaisse lentement tes bras vers la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "upper back",
+  "secondary_muscles": [
+    "upper back",
+    "trapezius"
+  ],
+  "target": "delts",
+  "image": "images/0993-sTfvVsG.jpg",
+  "gif_url": "videos/0993-sTfvVsG.gif",
+  "media_id": "sTfvVsG",
+  "created_at": "2026-03-18T12:31:32.856212+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

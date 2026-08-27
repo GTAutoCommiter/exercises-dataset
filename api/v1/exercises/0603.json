@@ -1,0 +1,102 @@
+{
+  "id": "0603",
+  "name": "lever shoulder press",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "leverage machine",
+  "instructions": {
+    "en": "Adjust the seat height and position yourself on the machine with your back against the backrest. Grasp the handles with an overhand grip and position your hands at shoulder level. Push the handles upward until your arms are fully extended, but do not lock your elbows. Pause for a moment at the top, then slowly lower the handles back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Regolare l'altezza del sedile e posizionarsi sulla macchina con la schiena appoggiata allo schienale. Afferrare le maniglie con una presa prona e posizionare le mani all'altezza delle spalle. Spingere le maniglie verso l'alto finché le braccia non sono completamente distese, ma non bloccare i gomiti. Fermati per un momento in alto, quindi abbassa lentamente le maniglie fino alla posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Koltuk yüksekliğini ayarlayın ve sırtınızı koltuk arkalığına yaslayacak şekilde kendinizi makinenin üzerine konumlandırın. Tutma yerlerini üstten kavrayın ve ellerinizi omuz hizasında konumlandırın. Kollarınız tamamen uzayıncaya kadar tutamakları yukarı doğru itin ancak dirseklerinizi kilitlemeyin. Üstte bir an duraklayın, ardından kolları yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta la altura del asiento y colócate en la máquina con la espalda apoyada en el respaldo. Agarra las asas con un agarre prono y coloca las manos a la altura de los hombros. Empuja las asas hacia arriba hasta que los brazos queden completamente extendidos, pero sin bloquear los codos. Haz una pausa breve en lo alto, luego baja lentamente las asas de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Отрегулируйте высоту сиденья и расположитесь на машине спиной к спинке сиденья. Возьмитесь за рукоятки верхним хватом и расположите руки на уровне плеч. Толкайте ручки вверх до тех пор, пока руки полностью не выпрямятся, но не сгибайте локти. Задержитесь на мгновение в верхней точке, затем медленно опустите ручки обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "调整座椅高度并将自己放在机器上，背部靠在靠背上。 正手握住手柄，并将双手置于肩部水平。 向上推动手柄，直到手臂完全伸展，但不要锁住肘部。 在顶部暂停片刻，然后慢慢将手柄放回起始位置。 重复所需的重复次数。",
+    "hi": "सीट की ऊंचाई को समायोजित करें और अपनी पीठ को बैकरेस्ट के सामने रखते हुए खुद को मशीन पर रखें। हैंडल को ओवरहैंड ग्रिप से पकड़ें और अपने हाथों को कंधे के स्तर पर रखें। जब तक आपकी बाहें पूरी तरह विस्तारित न हो जाएं तब तक हैंडल को ऊपर की ओर दबाएं, लेकिन अपनी कोहनियों को लॉक न करें। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे हैंडल को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Wyreguluj wysokość siedziska i ustaw się na maszynie, opierając plecy o oparcie. Chwyć uchwyty nachwytem, ustawiając dłonie na wysokości barków. Wypchnij uchwyty do góry, aż ramiona będą w pełni wyprostowane, ale nie blokuj łokci. Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść uchwyty do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "시트 높이를 조절하고 머신에 앉아 등을 등받이에 붙입니다. 손바닥을 위로 향하게 하여 손잡이를 잡고 손을 어깨 높이에 위치합니다. 손잡이를 위로 밀어 팔을 완전히 펼치되 팔꿈치를 잠그지 않습니다. 최상단에서 잠시 멈춘 후 천천히 손잡이를 시작 위치로 내립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Règle la hauteur du siège et installe-toi sur la machine, le dos contre le dossier. Saisis les poignées avec une prise en pronation et place tes mains à hauteur des épaules. Pousse les poignées vers le haut jusqu'à ce que tes bras soient complètement tendus, mais ne verrouille pas tes coudes. Marque une pause en haut, puis abaisse lentement les poignées pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the seat height and position yourself on the machine with your back against the backrest.",
+      "Grasp the handles with an overhand grip and position your hands at shoulder level.",
+      "Push the handles upward until your arms are fully extended, but do not lock your elbows.",
+      "Pause for a moment at the top, then slowly lower the handles back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Regolare l'altezza del sedile e posizionarsi sulla macchina con la schiena appoggiata allo schienale.",
+      "Afferrare le maniglie con una presa prona e posizionare le mani all'altezza delle spalle.",
+      "Spingere le maniglie verso l'alto finché le braccia non sono completamente distese, ma non bloccare i gomiti.",
+      "Fermati per un momento in alto, quindi abbassa lentamente le maniglie fino alla posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Koltuk yüksekliğini ayarlayın ve sırtınızı koltuk arkalığına yaslayacak şekilde kendinizi makinenin üzerine konumlandırın.",
+      "Tutma yerlerini üstten kavrayın ve ellerinizi omuz hizasında konumlandırın.",
+      "Kollarınız tamamen uzayıncaya kadar tutamakları yukarı doğru itin ancak dirseklerinizi kilitlemeyin.",
+      "Üstte bir an duraklayın, ardından kolları yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta la altura del asiento y colócate en la máquina con la espalda apoyada en el respaldo.",
+      "Agarra las asas con un agarre prono y coloca las manos a la altura de los hombros.",
+      "Empuja las asas hacia arriba hasta que los brazos queden completamente extendidos, pero sin bloquear los codos.",
+      "Haz una pausa breve en lo alto, luego baja lentamente las asas de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Отрегулируйте высоту сиденья и расположитесь на машине спиной к спинке сиденья.",
+      "Возьмитесь за рукоятки верхним хватом и расположите руки на уровне плеч.",
+      "Толкайте ручки вверх до тех пор, пока руки полностью не выпрямятся, но не сгибайте локти.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите ручки обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "调整座椅高度并将自己放在机器上，背部靠在靠背上。",
+      "正手握住手柄，并将双手置于肩部水平。",
+      "向上推动手柄，直到手臂完全伸展，但不要锁住肘部。",
+      "在顶部暂停片刻，然后慢慢将手柄放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "सीट की ऊंचाई को समायोजित करें और अपनी पीठ को बैकरेस्ट के सामने रखते हुए खुद को मशीन पर रखें।",
+      "हैंडल को ओवरहैंड ग्रिप से पकड़ें और अपने हाथों को कंधे के स्तर पर रखें।",
+      "जब तक आपकी बाहें पूरी तरह विस्तारित न हो जाएं तब तक हैंडल को ऊपर की ओर दबाएं, लेकिन अपनी कोहनियों को लॉक न करें।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे हैंडल को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Wyreguluj wysokość siedziska i ustaw się na maszynie, opierając plecy o oparcie.",
+      "Chwyć uchwyty nachwytem, ustawiając dłonie na wysokości barków.",
+      "Wypchnij uchwyty do góry, aż ramiona będą w pełni wyprostowane, ale nie blokuj łokci.",
+      "Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść uchwyty do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "시트 높이를 조절하고 머신에 앉아 등을 등받이에 붙입니다.",
+      "손바닥을 위로 향하게 하여 손잡이를 잡고 손을 어깨 높이에 위치합니다.",
+      "손잡이를 위로 밀어 팔을 완전히 펼치되 팔꿈치를 잠그지 않습니다.",
+      "최상단에서 잠시 멈춘 후 천천히 손잡이를 시작 위치로 내립니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Règle la hauteur du siège et installe-toi sur la machine, le dos contre le dossier.",
+      "Saisis les poignées avec une prise en pronation et place tes mains à hauteur des épaules.",
+      "Pousse les poignées vers le haut jusqu'à ce que tes bras soient complètement tendus, mais ne verrouille pas tes coudes.",
+      "Marque une pause en haut, puis abaisse lentement les poignées pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "chest"
+  ],
+  "target": "delts",
+  "image": "images/0603-67n3r98.jpg",
+  "gif_url": "videos/0603-67n3r98.gif",
+  "media_id": "67n3r98",
+  "created_at": "2026-03-18T12:31:32.887176+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

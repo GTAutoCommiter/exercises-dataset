@@ -1,0 +1,132 @@
+{
+  "id": "0989",
+  "name": "band one arm twisting chest press",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "band",
+  "instructions": {
+    "en": "Attach the band to a sturdy anchor point at chest height. Stand with your side facing the anchor point and grab the band with one hand. Step away from the anchor point to create tension in the band. Position your feet shoulder-width apart and slightly bend your knees. Bring your hand holding the band across your body, towards the opposite shoulder. While maintaining tension in the band, push your hand forward and away from your body, extending your arm. Slowly return to the starting position and repeat for the desired number of repetitions. Switch sides and repeat the exercise with the other hand.",
+    "it": "Attaccare la fascia a un punto di ancoraggio robusto all'altezza del petto. Stai con il fianco rivolto verso il punto di ancoraggio e afferra la fascia con una mano. Allontanati dal punto di ancoraggio per creare tensione nella fascia. Posiziona i piedi alla larghezza delle spalle e piega leggermente le ginocchia. Porta la mano che tiene la fascia lungo il corpo, verso la spalla opposta. Mantenendo la tensione nella fascia, spingi la mano in avanti e lontano dal corpo, estendendo il braccio. Ritorna lentamente alla posizione iniziale e ripeti per il numero di ripetizioni desiderato. Cambia lato e ripeti l'esercizio con l'altra mano.",
+    "tr": "Bandı göğüs yüksekliğinde sağlam bir bağlantı noktasına takın. Yan tarafınız bağlantı noktasına bakacak şekilde durun ve bandı bir elinizle tutun. Bantta gerginlik yaratmak için bağlantı noktasından uzaklaşın. Ayaklarınızı omuz genişliğinde açın ve dizlerinizi hafifçe bükün. Bandı tutan elinizi vücudunuzun üzerinden karşı omzunuza doğru getirin. Bandın gerginliğini korurken, kolunuzu uzatarak elinizi ileri ve vücudunuzdan uzağa doğru itin. Yavaşça başlangıç ​​pozisyonuna dönün ve istenilen sayıda tekrar yapın. Taraf değiştirin ve egzersizi diğer elinizle tekrarlayın.",
+    "es": "Sujeta la banda a un punto de anclaje resistente a la altura del pecho. Ponte de pie con el costado hacia el punto de anclaje y agarra la banda con una mano. Aléjate del punto de anclaje para generar tensión en la banda. Coloca los pies separados a la altura de los hombros y flexiona ligeramente las rodillas. Lleva la mano que sostiene la banda a través del cuerpo, hacia el hombro opuesto. Manteniendo la tensión en la banda, empuja la mano hacia adelante y alejándola del cuerpo, extendiendo el brazo. Regresa lentamente a la posición inicial y repite el número de repeticiones deseado. Cambia de lado y repite el ejercicio con la otra mano.",
+    "ru": "Прикрепите ремешок к прочной точке крепления на уровне груди. Встаньте боком к точке крепления и возьмитесь за ленту одной рукой. Отойдите от точки крепления, чтобы создать напряжение в ленте. Поставьте ноги на ширине плеч и слегка согните колени. Проведите руку, удерживающую ленту, через тело к противоположному плечу. Сохраняя натяжение ленты, толкните руку вперед и в сторону от тела, вытягивая руку. Медленно вернитесь в исходное положение и повторите необходимое количество повторений. Поменяйте сторону и повторите упражнение другой рукой.",
+    "zh": "将带子固定在胸部高度的坚固锚点上。 站立，一侧面向锚点，用一只手抓住带子。 远离锚点以在带子中产生张力。 将双脚分开与肩同宽，并稍微弯曲膝盖。 将握住弹力带的手穿过身体，朝向对侧的肩膀。 在保持弹力带张力的同时，将手向前推离身体，伸展手臂。 慢慢回到起始位置并重复所需的重复次数。 换边并用另一只手重复练习。",
+    "hi": "बैंड को छाती की ऊंचाई पर एक मजबूत एंकर पॉइंट से जोड़ें। एंकर प्वाइंट की ओर मुंह करके खड़े हो जाएं और एक हाथ से बैंड को पकड़ लें। बैंड में तनाव पैदा करने के लिए एंकर बिंदु से दूर हट जाएं। अपने पैरों को कंधे की चौड़ाई से अलग रखें और अपने घुटनों को थोड़ा मोड़ लें। बैंड को पकड़ने वाले अपने हाथ को अपने शरीर के पार, विपरीत कंधे की ओर लाएँ। बैंड में तनाव बनाए रखते हुए, अपने हाथ को आगे बढ़ाते हुए अपने हाथ को अपने शरीर से दूर और आगे की ओर धकेलें। धीरे-धीरे प्रारंभिक स्थिति में लौटें और वांछित संख्या में दोहराव के लिए दोहराएं। करवट बदलें और दूसरे हाथ से व्यायाम दोहराएं।",
+    "pl": "Przymocuj taśmę do stabilnego punktu zaczepienia na wysokości klatki piersiowej. Stań bokiem do punktu zaczepienia i chwyć taśmę jedną ręką. Odejdź od punktu zaczepienia, aby wytworzyć napięcie w taśmie. Ustaw stopy w rozkroku na szerokość barków i ugnij lekko kolana. Przyciągnij dłoń trzymającą taśmę w poprzek ciała, w kierunku przeciwległego barku. Utrzymując napięcie w taśmie, wypchnij dłoń do przodu i od ciała, prostując ramię. Powoli wróć do pozycji wyjściowej i powtórz zalecaną liczbę razy. Zmień stronę i powtórz ćwiczenie drugą ręką.",
+    "ko": "밴드를 가슴 높이의 견고한 고정점에 부착합니다. 옆으로 서서 고정점을 향하고 한손으로 밴드를 잡습니다. 고정점에서 멀리 물러나 밴드에 긴장을 만듭니다. 발을 어깨너비로 벌리고 무릎을 약간 구부립니다. 밴드를 들고 있는 손을 몸 안쪽을 가로질러 반대쪽 어깨 쪽으로 가져옵니다. 밴드의 긴장을 유지하면서 손을 앞으로 밀어내며 팔을 펼칩니다. 천천히 시작 자세로 돌아오고 원하는 반복 횟수만큼 반복합니다. 반대쪽으로 바꾸어 반대 손으로 운동을 반복합니다.",
+    "fr": "Fixe l'élastique à un point d'ancrage solide à hauteur de la poitrine. Tiens-toi debout de côté face au point d'ancrage et attrape l'élastique d'une main. Éloigne-toi du point d'ancrage pour créer de la tension dans l'élastique. Positionne tes pieds écartés à la largeur des épaules et fléchis légèrement tes genoux. Amène ta main qui tient l'élastique en travers de ton corps, vers l'épaule opposée. Tout en maintenant la tension dans l'élastique, pousse ta main vers l'avant et loin de ton corps en tendant ton bras. Reviens lentement à la position de départ et répète pour le nombre de répétitions souhaité. Change de côté et répète l'exercice avec l'autre main."
+  },
+  "instruction_steps": {
+    "en": [
+      "Attach the band to a sturdy anchor point at chest height.",
+      "Stand with your side facing the anchor point and grab the band with one hand.",
+      "Step away from the anchor point to create tension in the band.",
+      "Position your feet shoulder-width apart and slightly bend your knees.",
+      "Bring your hand holding the band across your body, towards the opposite shoulder.",
+      "While maintaining tension in the band, push your hand forward and away from your body, extending your arm.",
+      "Slowly return to the starting position and repeat for the desired number of repetitions.",
+      "Switch sides and repeat the exercise with the other hand."
+    ],
+    "it": [
+      "Attaccare la fascia a un punto di ancoraggio robusto all'altezza del petto.",
+      "Stai con il fianco rivolto verso il punto di ancoraggio e afferra la fascia con una mano.",
+      "Allontanati dal punto di ancoraggio per creare tensione nella fascia.",
+      "Posiziona i piedi alla larghezza delle spalle e piega leggermente le ginocchia.",
+      "Porta la mano che tiene la fascia lungo il corpo, verso la spalla opposta.",
+      "Mantenendo la tensione nella fascia, spingi la mano in avanti e lontano dal corpo, estendendo il braccio.",
+      "Ritorna lentamente alla posizione iniziale e ripeti per il numero di ripetizioni desiderato.",
+      "Cambia lato e ripeti l'esercizio con l'altra mano."
+    ],
+    "tr": [
+      "Bandı göğüs yüksekliğinde sağlam bir bağlantı noktasına takın.",
+      "Yan tarafınız bağlantı noktasına bakacak şekilde durun ve bandı bir elinizle tutun.",
+      "Bantta gerginlik yaratmak için bağlantı noktasından uzaklaşın.",
+      "Ayaklarınızı omuz genişliğinde açın ve dizlerinizi hafifçe bükün.",
+      "Bandı tutan elinizi vücudunuzun üzerinden karşı omzunuza doğru getirin.",
+      "Bandın gerginliğini korurken, kolunuzu uzatarak elinizi ileri ve vücudunuzdan uzağa doğru itin.",
+      "Yavaşça başlangıç ​​pozisyonuna dönün ve istenilen sayıda tekrar yapın.",
+      "Taraf değiştirin ve egzersizi diğer elinizle tekrarlayın."
+    ],
+    "es": [
+      "Sujeta la banda a un punto de anclaje resistente a la altura del pecho.",
+      "Ponte de pie con el costado hacia el punto de anclaje y agarra la banda con una mano.",
+      "Aléjate del punto de anclaje para generar tensión en la banda.",
+      "Coloca los pies separados a la altura de los hombros y flexiona ligeramente las rodillas.",
+      "Lleva la mano que sostiene la banda a través del cuerpo, hacia el hombro opuesto.",
+      "Manteniendo la tensión en la banda, empuja la mano hacia adelante y alejándola del cuerpo, extendiendo el brazo.",
+      "Regresa lentamente a la posición inicial y repite el número de repeticiones deseado.",
+      "Cambia de lado y repite el ejercicio con la otra mano."
+    ],
+    "ru": [
+      "Прикрепите ремешок к прочной точке крепления на уровне груди.",
+      "Встаньте боком к точке крепления и возьмитесь за ленту одной рукой.",
+      "Отойдите от точки крепления, чтобы создать напряжение в ленте.",
+      "Поставьте ноги на ширине плеч и слегка согните колени.",
+      "Проведите руку, удерживающую ленту, через тело к противоположному плечу.",
+      "Сохраняя натяжение ленты, толкните руку вперед и в сторону от тела, вытягивая руку.",
+      "Медленно вернитесь в исходное положение и повторите необходимое количество повторений.",
+      "Поменяйте сторону и повторите упражнение другой рукой."
+    ],
+    "zh": [
+      "将带子固定在胸部高度的坚固锚点上。",
+      "站立，一侧面向锚点，用一只手抓住带子。",
+      "远离锚点以在带子中产生张力。",
+      "将双脚分开与肩同宽，并稍微弯曲膝盖。",
+      "将握住弹力带的手穿过身体，朝向对侧的肩膀。",
+      "在保持弹力带张力的同时，将手向前推离身体，伸展手臂。",
+      "慢慢回到起始位置并重复所需的重复次数。",
+      "换边并用另一只手重复练习。"
+    ],
+    "hi": [
+      "बैंड को छाती की ऊंचाई पर एक मजबूत एंकर पॉइंट से जोड़ें।",
+      "एंकर प्वाइंट की ओर मुंह करके खड़े हो जाएं और एक हाथ से बैंड को पकड़ लें।",
+      "बैंड में तनाव पैदा करने के लिए एंकर बिंदु से दूर हट जाएं।",
+      "अपने पैरों को कंधे की चौड़ाई से अलग रखें और अपने घुटनों को थोड़ा मोड़ लें।",
+      "बैंड को पकड़ने वाले अपने हाथ को अपने शरीर के पार, विपरीत कंधे की ओर लाएँ।",
+      "बैंड में तनाव बनाए रखते हुए, अपने हाथ को आगे बढ़ाते हुए अपने हाथ को अपने शरीर से दूर और आगे की ओर धकेलें।",
+      "धीरे-धीरे प्रारंभिक स्थिति में लौटें और वांछित संख्या में दोहराव के लिए दोहराएं।",
+      "करवट बदलें और दूसरे हाथ से व्यायाम दोहराएं।"
+    ],
+    "pl": [
+      "Przymocuj taśmę do stabilnego punktu zaczepienia na wysokości klatki piersiowej.",
+      "Stań bokiem do punktu zaczepienia i chwyć taśmę jedną ręką.",
+      "Odejdź od punktu zaczepienia, aby wytworzyć napięcie w taśmie.",
+      "Ustaw stopy w rozkroku na szerokość barków i ugnij lekko kolana.",
+      "Przyciągnij dłoń trzymającą taśmę w poprzek ciała, w kierunku przeciwległego barku.",
+      "Utrzymując napięcie w taśmie, wypchnij dłoń do przodu i od ciała, prostując ramię.",
+      "Powoli wróć do pozycji wyjściowej i powtórz zalecaną liczbę razy.",
+      "Zmień stronę i powtórz ćwiczenie drugą ręką."
+    ],
+    "ko": [
+      "밴드를 가슴 높이의 견고한 고정점에 부착합니다.",
+      "옆으로 서서 고정점을 향하고 한손으로 밴드를 잡습니다.",
+      "고정점에서 멀리 물러나 밴드에 긴장을 만듭니다.",
+      "발을 어깨너비로 벌리고 무릎을 약간 구부립니다.",
+      "밴드를 들고 있는 손을 몸 안쪽을 가로질러 반대쪽 어깨 쪽으로 가져옵니다.",
+      "밴드의 긴장을 유지하면서 손을 앞으로 밀어내며 팔을 펼칩니다.",
+      "천천히 시작 자세로 돌아오고 원하는 반복 횟수만큼 반복합니다.",
+      "반대쪽으로 바꾸어 반대 손으로 운동을 반복합니다."
+    ],
+    "fr": [
+      "Fixe l'élastique à un point d'ancrage solide à hauteur de la poitrine.",
+      "Tiens-toi debout de côté face au point d'ancrage et attrape l'élastique d'une main.",
+      "Éloigne-toi du point d'ancrage pour créer de la tension dans l'élastique.",
+      "Positionne tes pieds écartés à la largeur des épaules et fléchis légèrement tes genoux.",
+      "Amène ta main qui tient l'élastique en travers de ton corps, vers l'épaule opposée.",
+      "Tout en maintenant la tension dans l'élastique, pousse ta main vers l'avant et loin de ton corps en tendant ton bras.",
+      "Reviens lentement à la position de départ et répète pour le nombre de répétitions souhaité.",
+      "Change de côté et répète l'exercice avec l'autre main."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "target": "pectorals",
+  "image": "images/0989-c16nYGA.jpg",
+  "gif_url": "videos/0989-c16nYGA.gif",
+  "media_id": "c16nYGA",
+  "created_at": "2026-03-18T12:31:32.856142+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

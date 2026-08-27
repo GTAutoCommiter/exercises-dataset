@@ -1,0 +1,112 @@
+{
+  "id": "0197",
+  "name": "cable pulldown (pro lat bar)",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Adjust the seat height so that your thighs are parallel to the ground and your feet are flat on the floor. Grasp the lat bar with an overhand grip, slightly wider than shoulder-width apart. Sit down and lean back slightly, keeping your chest up and your back straight. Pull the bar down towards your chest, squeezing your shoulder blades together. Pause for a moment at the bottom of the movement, then slowly release the bar back up to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Regola l'altezza del sedile in modo che le cosce siano parallele al suolo e i piedi piatti sul pavimento. Afferra la barra laterale con una presa sopra la mano, leggermente più larga della larghezza delle spalle. Siediti e appoggiati leggermente all'indietro, tenendo il petto sollevato e la schiena dritta. Tira la barra verso il petto, stringendo le scapole insieme. Fermati un attimo in fondo al movimento, poi rilasci lentamente la barra fino alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Koltuk yüksekliğini, uyluklarınız yere paralel ve ayaklarınız yere düz basacak şekilde ayarlayın. Lat barı omuz genişliğinden biraz daha geniş olacak şekilde üstten kavrayın. Oturun ve hafifçe geriye yaslanın, göğsünüzü yukarıda ve sırtınızı düz tutun. Omuz bıçaklarınızı birbirine doğru sıkıştırarak çubuğu göğsünüze doğru çekin. Hareketin alt noktasında bir süre duraklayın, ardından çubuğu yavaşça başlangıç ​​pozisyonuna kadar bırakın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta la altura del asiento para que tus muslos queden paralelos al suelo y tus pies queden apoyados planos en el suelo. Sujeta la barra de jalón con un agarre prono, un poco más separado que el ancho de los hombros. Siéntate e inclínate ligeramente hacia atrás, manteniendo el pecho elevado y la espalda recta. Jala la barra hacia el pecho, apretando los omóplatos entre sí. Haz una pausa por un momento en la parte baja del movimiento y luego suelta lentamente la barra de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Отрегулируйте высоту сиденья так, чтобы бедра были параллельны земле, а ступни стояли на полу. Возьмитесь за перекладину хватом сверху, на расстоянии чуть шире ширины плеч. Сядьте и слегка откиньтесь назад, держа грудь вверх и спину прямо. Потяните штангу вниз к груди, сведя лопатки вместе. Сделайте паузу на мгновение в нижней части движения, затем медленно отпустите штангу обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "调整座椅高度，使大腿与地面平行，双脚平放在地板上。 正手握住背阔肌杠铃，握距略宽于肩宽。 坐下来，稍微向后倾斜，保持挺胸、背部挺直。 将杠铃向下拉向胸部，将肩胛骨挤压在一起。 在动作底部暂停片刻，然后慢慢将杠铃释放回起始位置。 重复所需的重复次数。",
+    "hi": "सीट की ऊंचाई को समायोजित करें ताकि आपकी जांघें जमीन के समानांतर हों और आपके पैर फर्श पर सपाट हों। लैट बार को ओवरहैंड ग्रिप से पकड़ें, जो कंधे की चौड़ाई से थोड़ा अधिक चौड़ा हो। बैठ जाएं और अपनी छाती को ऊपर और पीठ को सीधा रखते हुए थोड़ा पीछे झुकें। अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए, बार को अपनी छाती की ओर नीचे खींचें। गति के निचले भाग पर एक क्षण के लिए रुकें, फिर धीरे-धीरे बार को प्रारंभिक स्थिति में वापस छोड़ें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Wyreguluj wysokość siedziska tak, aby uda były równoległe do podłogi, a stopy płasko na podłodze. Chwyć drążek nachwytem, nieco szerzej niż na szerokość barków. Usiądź i odchyl się lekko do tyłu, trzymając klatkę piersiową uniesioną i proste plecy. Przyciągnij drążek w dół w kierunku klatki piersiowej, ściągając łopatki. Zatrzymaj się na moment na dole ruchu, a następnie powoli wróć z drążkiem do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "좌석 높이를 조정하여 넓적다리가 땅과 평행하고 발이 바닥에 닿도록 합니다. 손을 어깨 너비보다 약간 넓게 벌린 오버핸드 그립으로 랫 바를 잡습니다. 앉아 약간 뒤로 기울어져 가슴을 들어올리고 등을 곧게 유지합니다. 바를 가슴 방향으로 당기며 어깨뼈를 함께 조입니다. 움직임의 최하점에서 잠깐 멈춘 후 천천히 바를 시작 위치로 풀어 올립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Règle la hauteur du siège de sorte que tes cuisses soient parallèles au sol et que tes pieds soient à plat sur le sol. Saisis la barre à dorsaux avec une prise en pronation, légèrement plus écartée que la largeur des épaules. Assieds-toi et penche-toi légèrement en arrière, en gardant ta poitrine relevée et ton dos droit. Tire la barre vers ta poitrine, en contractant tes omoplates. Marque une pause en bas du mouvement, puis relâche lentement la barre jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the seat height so that your thighs are parallel to the ground and your feet are flat on the floor.",
+      "Grasp the lat bar with an overhand grip, slightly wider than shoulder-width apart.",
+      "Sit down and lean back slightly, keeping your chest up and your back straight.",
+      "Pull the bar down towards your chest, squeezing your shoulder blades together.",
+      "Pause for a moment at the bottom of the movement, then slowly release the bar back up to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Regola l'altezza del sedile in modo che le cosce siano parallele al suolo e i piedi piatti sul pavimento.",
+      "Afferra la barra laterale con una presa sopra la mano, leggermente più larga della larghezza delle spalle.",
+      "Siediti e appoggiati leggermente all'indietro, tenendo il petto sollevato e la schiena dritta.",
+      "Tira la barra verso il petto, stringendo le scapole insieme.",
+      "Fermati un attimo in fondo al movimento, poi rilasci lentamente la barra fino alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Koltuk yüksekliğini, uyluklarınız yere paralel ve ayaklarınız yere düz basacak şekilde ayarlayın.",
+      "Lat barı omuz genişliğinden biraz daha geniş olacak şekilde üstten kavrayın.",
+      "Oturun ve hafifçe geriye yaslanın, göğsünüzü yukarıda ve sırtınızı düz tutun.",
+      "Omuz bıçaklarınızı birbirine doğru sıkıştırarak çubuğu göğsünüze doğru çekin.",
+      "Hareketin alt noktasında bir süre duraklayın, ardından çubuğu yavaşça başlangıç ​​pozisyonuna kadar bırakın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta la altura del asiento para que tus muslos queden paralelos al suelo y tus pies queden apoyados planos en el suelo.",
+      "Sujeta la barra de jalón con un agarre prono, un poco más separado que el ancho de los hombros.",
+      "Siéntate e inclínate ligeramente hacia atrás, manteniendo el pecho elevado y la espalda recta.",
+      "Jala la barra hacia el pecho, apretando los omóplatos entre sí.",
+      "Haz una pausa por un momento en la parte baja del movimiento y luego suelta lentamente la barra de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Отрегулируйте высоту сиденья так, чтобы бедра были параллельны земле, а ступни стояли на полу.",
+      "Возьмитесь за перекладину хватом сверху, на расстоянии чуть шире ширины плеч.",
+      "Сядьте и слегка откиньтесь назад, держа грудь вверх и спину прямо.",
+      "Потяните штангу вниз к груди, сведя лопатки вместе.",
+      "Сделайте паузу на мгновение в нижней части движения, затем медленно отпустите штангу обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "调整座椅高度，使大腿与地面平行，双脚平放在地板上。",
+      "正手握住背阔肌杠铃，握距略宽于肩宽。",
+      "坐下来，稍微向后倾斜，保持挺胸、背部挺直。",
+      "将杠铃向下拉向胸部，将肩胛骨挤压在一起。",
+      "在动作底部暂停片刻，然后慢慢将杠铃释放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "सीट की ऊंचाई को समायोजित करें ताकि आपकी जांघें जमीन के समानांतर हों और आपके पैर फर्श पर सपाट हों।",
+      "लैट बार को ओवरहैंड ग्रिप से पकड़ें, जो कंधे की चौड़ाई से थोड़ा अधिक चौड़ा हो।",
+      "बैठ जाएं और अपनी छाती को ऊपर और पीठ को सीधा रखते हुए थोड़ा पीछे झुकें।",
+      "अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए, बार को अपनी छाती की ओर नीचे खींचें।",
+      "गति के निचले भाग पर एक क्षण के लिए रुकें, फिर धीरे-धीरे बार को प्रारंभिक स्थिति में वापस छोड़ें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Wyreguluj wysokość siedziska tak, aby uda były równoległe do podłogi, a stopy płasko na podłodze.",
+      "Chwyć drążek nachwytem, nieco szerzej niż na szerokość barków.",
+      "Usiądź i odchyl się lekko do tyłu, trzymając klatkę piersiową uniesioną i proste plecy.",
+      "Przyciągnij drążek w dół w kierunku klatki piersiowej, ściągając łopatki.",
+      "Zatrzymaj się na moment na dole ruchu, a następnie powoli wróć z drążkiem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "좌석 높이를 조정하여 넓적다리가 땅과 평행하고 발이 바닥에 닿도록 합니다.",
+      "손을 어깨 너비보다 약간 넓게 벌린 오버핸드 그립으로 랫 바를 잡습니다.",
+      "앉아 약간 뒤로 기울어져 가슴을 들어올리고 등을 곧게 유지합니다.",
+      "바를 가슴 방향으로 당기며 어깨뼈를 함께 조입니다.",
+      "움직임의 최하점에서 잠깐 멈춘 후 천천히 바를 시작 위치로 풀어 올립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Règle la hauteur du siège de sorte que tes cuisses soient parallèles au sol et que tes pieds soient à plat sur le sol.",
+      "Saisis la barre à dorsaux avec une prise en pronation, légèrement plus écartée que la largeur des épaules.",
+      "Assieds-toi et penche-toi légèrement en arrière, en gardant ta poitrine relevée et ton dos droit.",
+      "Tire la barre vers ta poitrine, en contractant tes omoplates.",
+      "Marque une pause en bas du mouvement, puis relâche lentement la barre jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "forearms"
+  ],
+  "target": "lats",
+  "image": "images/0197-qdRxqCj.jpg",
+  "gif_url": "videos/0197-qdRxqCj.gif",
+  "media_id": "qdRxqCj",
+  "created_at": "2026-03-18T12:31:32.875402+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,111 @@
+{
+  "id": "3123",
+  "name": "resistance band seated biceps curl",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "resistance band",
+  "instructions": {
+    "en": "Sit on a chair or bench with your back straight and feet flat on the ground. Hold the resistance band with an underhand grip, palms facing up, and arms extended down by your sides. Keeping your upper arms stationary, exhale and curl the resistance band up towards your shoulders. Pause for a moment at the top, squeezing your biceps. Inhale and slowly lower the resistance band back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Siediti su una sedia o una panca con la schiena dritta e i piedi appoggiati a terra. Tieni la fascia di resistenza con una presa subdola, i palmi rivolti verso l'alto e le braccia distese lungo i fianchi. Mantenendo ferma la parte superiore delle braccia, espira e piega la fascia di resistenza verso le spalle. Fermati un attimo in alto, contraendo i bicipiti. Inspira e abbassa lentamente la fascia di resistenza nella posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Sırtınız düz ve ayaklarınız yere düz basacak şekilde bir sandalyeye veya bankta oturun. Direnç bandını alttan kavrayarak, avuç içleriniz yukarı bakacak şekilde ve kollarınızı yanlarınızda uzatarak tutun. Üst kollarınızı sabit tutarak nefes verin ve direnç bandını omuzlarınıza doğru kıvırın. Bicepslerinizi sıkarak tepede bir an duraklayın. Nefes alın ve direnç bandını yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Siéntate en una silla o banco con la espalda recta y los pies apoyados en el suelo. Sostén la banda elástica con un agarre supino, con las palmas hacia arriba y los brazos extendidos a los lados del cuerpo. Manteniendo la parte superior de los brazos inmóvil, exhala y flexiona la banda elástica hacia los hombros. Haz una pausa breve en la parte alta, apretando los bíceps. Inhala y baja lentamente la banda elástica de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Сядьте на стул или скамью, выпрямив спину и поставив ступни на землю. Держите эспандер обратным хватом ладонями вверх и вытянутыми вниз руками по бокам. Удерживая плечи неподвижно, выдохните и согните ленту сопротивления к плечам. Задержитесь на мгновение в верхней точке, напрягая бицепсы. Вдохните и медленно опустите ленту сопротивления обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "坐在椅子或长凳上，背部挺直，双脚平放在地面上。 反手握住阻力带，手掌朝上，手臂向下伸展到身体两侧。 保持上臂静止，呼气并将阻力带向上卷向肩膀。 在顶部暂停片刻，挤压你的二头肌。 吸气并慢慢降低阻力带回到起始位置。 重复所需的重复次数。",
+    "hi": "अपनी पीठ सीधी और पैर ज़मीन पर सपाट करके कुर्सी या बेंच पर बैठें। प्रतिरोध बैंड को अंडरहैंड ग्रिप से पकड़ें, हथेलियाँ ऊपर की ओर हों और भुजाएँ बगल में नीचे की ओर फैली हुई हों। अपनी ऊपरी भुजाओं को स्थिर रखते हुए, सांस छोड़ें और प्रतिरोध बैंड को अपने कंधों की ओर मोड़ें। अपने बाइसेप्स को निचोड़ते हुए शीर्ष पर एक पल के लिए रुकें। श्वास लें और धीरे-धीरे प्रतिरोध बैंड को प्रारंभिक स्थिति में वापस लाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Usiądź na krześle lub ławce z prostymi plecami i stopami płasko opartymi na podłodze. Trzymaj taśmę oporową chwytem podchwytem, dłońmi skierowanymi do góry, ręce wyprostowane wzdłuż tułowia. Trzymając nieruchomo ramiona, wykonaj wydech i zegnij taśmę oporową w kierunku barków. Zatrzymaj się na chwilę na górze, napinając mięśnie dwugłowe ramienia. Wykonaj wdech i powoli opuść taśmę oporową z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę razy.",
+    "ko": "의자나 벤치에 앉아 등을 곧게 펴고 발을 땅에 붙입니다. 언더핸드 그립으로 저항 밴드를 잡되 손바닥이 위를 향하고 팔을 옆으로 펴서 내립니다. 위팔을 움직이지 않으면서 숨을 내쉬며 저항 밴드를 어깨 쪽으로 구부립니다. 맨 위에서 잠깐 멈추며 이두근을 조입니다. 숨을 들이쉬며 저항 밴드를 천천히 시작 자세로 내립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Assieds-toi sur une chaise ou un banc, le dos droit et les pieds à plat sur le sol. Tiens l'élastique en prise supination, les paumes tournées vers le haut et les bras étendus le long de tes côtés. En gardant le haut des bras immobile, expire et fléchis l'élastique vers tes épaules. Marque une pause en haut, en contractant tes biceps. Inspire et abaisse lentement l'élastique jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on a chair or bench with your back straight and feet flat on the ground.",
+      "Hold the resistance band with an underhand grip, palms facing up, and arms extended down by your sides.",
+      "Keeping your upper arms stationary, exhale and curl the resistance band up towards your shoulders.",
+      "Pause for a moment at the top, squeezing your biceps.",
+      "Inhale and slowly lower the resistance band back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Siediti su una sedia o una panca con la schiena dritta e i piedi appoggiati a terra.",
+      "Tieni la fascia di resistenza con una presa subdola, i palmi rivolti verso l'alto e le braccia distese lungo i fianchi.",
+      "Mantenendo ferma la parte superiore delle braccia, espira e piega la fascia di resistenza verso le spalle.",
+      "Fermati un attimo in alto, contraendo i bicipiti.",
+      "Inspira e abbassa lentamente la fascia di resistenza nella posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Sırtınız düz ve ayaklarınız yere düz basacak şekilde bir sandalyeye veya bankta oturun.",
+      "Direnç bandını alttan kavrayarak, avuç içleriniz yukarı bakacak şekilde ve kollarınızı yanlarınızda uzatarak tutun.",
+      "Üst kollarınızı sabit tutarak nefes verin ve direnç bandını omuzlarınıza doğru kıvırın.",
+      "Bicepslerinizi sıkarak tepede bir an duraklayın.",
+      "Nefes alın ve direnç bandını yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Siéntate en una silla o banco con la espalda recta y los pies apoyados en el suelo.",
+      "Sostén la banda elástica con un agarre supino, con las palmas hacia arriba y los brazos extendidos a los lados del cuerpo.",
+      "Manteniendo la parte superior de los brazos inmóvil, exhala y flexiona la banda elástica hacia los hombros.",
+      "Haz una pausa breve en la parte alta, apretando los bíceps.",
+      "Inhala y baja lentamente la banda elástica de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на стул или скамью, выпрямив спину и поставив ступни на землю.",
+      "Держите эспандер обратным хватом ладонями вверх и вытянутыми вниз руками по бокам.",
+      "Удерживая плечи неподвижно, выдохните и согните ленту сопротивления к плечам.",
+      "Задержитесь на мгновение в верхней точке, напрягая бицепсы.",
+      "Вдохните и медленно опустите ленту сопротивления обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "坐在椅子或长凳上，背部挺直，双脚平放在地面上。",
+      "反手握住阻力带，手掌朝上，手臂向下伸展到身体两侧。",
+      "保持上臂静止，呼气并将阻力带向上卷向肩膀。",
+      "在顶部暂停片刻，挤压你的二头肌。",
+      "吸气并慢慢降低阻力带回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपनी पीठ सीधी और पैर ज़मीन पर सपाट करके कुर्सी या बेंच पर बैठें।",
+      "प्रतिरोध बैंड को अंडरहैंड ग्रिप से पकड़ें, हथेलियाँ ऊपर की ओर हों और भुजाएँ बगल में नीचे की ओर फैली हुई हों।",
+      "अपनी ऊपरी भुजाओं को स्थिर रखते हुए, सांस छोड़ें और प्रतिरोध बैंड को अपने कंधों की ओर मोड़ें।",
+      "अपने बाइसेप्स को निचोड़ते हुए शीर्ष पर एक पल के लिए रुकें।",
+      "श्वास लें और धीरे-धीरे प्रतिरोध बैंड को प्रारंभिक स्थिति में वापस लाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Usiądź na krześle lub ławce z prostymi plecami i stopami płasko opartymi na podłodze.",
+      "Trzymaj taśmę oporową chwytem podchwytem, dłońmi skierowanymi do góry, ręce wyprostowane wzdłuż tułowia.",
+      "Trzymając nieruchomo ramiona, wykonaj wydech i zegnij taśmę oporową w kierunku barków.",
+      "Zatrzymaj się na chwilę na górze, napinając mięśnie dwugłowe ramienia.",
+      "Wykonaj wdech i powoli opuść taśmę oporową z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "의자나 벤치에 앉아 등을 곧게 펴고 발을 땅에 붙입니다.",
+      "언더핸드 그립으로 저항 밴드를 잡되 손바닥이 위를 향하고 팔을 옆으로 펴서 내립니다.",
+      "위팔을 움직이지 않으면서 숨을 내쉬며 저항 밴드를 어깨 쪽으로 구부립니다.",
+      "맨 위에서 잠깐 멈추며 이두근을 조입니다.",
+      "숨을 들이쉬며 저항 밴드를 천천히 시작 자세로 내립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Assieds-toi sur une chaise ou un banc, le dos droit et les pieds à plat sur le sol.",
+      "Tiens l'élastique en prise supination, les paumes tournées vers le haut et les bras étendus le long de tes côtés.",
+      "En gardant le haut des bras immobile, expire et fléchis l'élastique vers tes épaules.",
+      "Marque une pause en haut, en contractant tes biceps.",
+      "Inspire et abaisse lentement l'élastique jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "forearms",
+  "secondary_muscles": [
+    "forearms"
+  ],
+  "target": "biceps",
+  "image": "images/3123-XFc3vpY.jpg",
+  "gif_url": "videos/3123-XFc3vpY.gif",
+  "media_id": "XFc3vpY",
+  "created_at": "2026-03-18T12:31:32.888868+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

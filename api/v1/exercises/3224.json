@@ -1,0 +1,92 @@
+{
+  "id": "3224",
+  "name": "jack jump (male)",
+  "category": "cardio",
+  "body_part": "cardio",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand with your feet together and your arms by your sides. Jump up, spreading your feet apart and raising your arms above your head. As you land, quickly jump back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi uniti e le braccia lungo i fianchi. Salta in alto, allargando i piedi e alzando le braccia sopra la testa. Mentre atterri, torna rapidamente alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız bitişik ve kollarınız yanlarınızda olacak şekilde ayakta durun. Zıplayın, ayaklarınızı birbirinden ayırın ve kollarınızı başınızın üzerine kaldırın. Yere indiğinizde hızla başlangıç ​​pozisyonuna geri dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies juntos y los brazos a los costados. Salta, separando los pies y levantando los brazos por encima de la cabeza. Al aterrizar, salta rápidamente de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги вместе, руки по бокам. Подпрыгните вверх, разведя ноги в стороны и подняв руки над головой. Приземлившись, быстро вернитесь в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "双脚并拢站立，双臂放在身体两侧。 跳起来，分开双脚，将手臂举过头顶。 当你落地时，迅速跳回起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को एक साथ और अपनी भुजाओं को बगल में रखकर खड़े हो जाएं। अपने पैरों को फैलाकर और अपनी बाहों को अपने सिर के ऊपर उठाकर ऊपर कूदें। जैसे ही आप उतरें, तुरंत प्रारंभिक स्थिति में वापस आ जाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań ze złączonymi stopami i rękami wzdłuż tułowia. Wyskocz w górę, rozstawiając stopy i unosząc ręce nad głowę. Podczas lądowania szybko wróć do pozycji wyjściowej. Powtórz zgodnie z zaplanowaną liczbą powtórzeń.",
+    "ko": "발을 모으고 팔을 옆에 붙인 상태에서 섭니다. 점프하면서 발을 벌리고 팔을 머리 위로 올립니다. 착지하면서 빠르게 시작 자세로 돌아옵니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds joints et les bras le long du corps. Saute en écartant les pieds et en levant les bras au-dessus de ta tête. À l'atterrissage, saute rapidement pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet together and your arms by your sides.",
+      "Jump up, spreading your feet apart and raising your arms above your head.",
+      "As you land, quickly jump back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi uniti e le braccia lungo i fianchi.",
+      "Salta in alto, allargando i piedi e alzando le braccia sopra la testa.",
+      "Mentre atterri, torna rapidamente alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız bitişik ve kollarınız yanlarınızda olacak şekilde ayakta durun.",
+      "Zıplayın, ayaklarınızı birbirinden ayırın ve kollarınızı başınızın üzerine kaldırın.",
+      "Yere indiğinizde hızla başlangıç ​​pozisyonuna geri dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies juntos y los brazos a los costados.",
+      "Salta, separando los pies y levantando los brazos por encima de la cabeza.",
+      "Al aterrizar, salta rápidamente de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги вместе, руки по бокам.",
+      "Подпрыгните вверх, разведя ноги в стороны и подняв руки над головой.",
+      "Приземлившись, быстро вернитесь в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚并拢站立，双臂放在身体两侧。",
+      "跳起来，分开双脚，将手臂举过头顶。",
+      "当你落地时，迅速跳回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को एक साथ और अपनी भुजाओं को बगल में रखकर खड़े हो जाएं।",
+      "अपने पैरों को फैलाकर और अपनी बाहों को अपने सिर के ऊपर उठाकर ऊपर कूदें।",
+      "जैसे ही आप उतरें, तुरंत प्रारंभिक स्थिति में वापस आ जाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań ze złączonymi stopami i rękami wzdłuż tułowia.",
+      "Wyskocz w górę, rozstawiając stopy i unosząc ręce nad głowę.",
+      "Podczas lądowania szybko wróć do pozycji wyjściowej.",
+      "Powtórz zgodnie z zaplanowaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "발을 모으고 팔을 옆에 붙인 상태에서 섭니다.",
+      "점프하면서 발을 벌리고 팔을 머리 위로 올립니다.",
+      "착지하면서 빠르게 시작 자세로 돌아옵니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds joints et les bras le long du corps.",
+      "Saute en écartant les pieds et en levant les bras au-dessus de ta tête.",
+      "À l'atterrissage, saute rapidement pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "calves"
+  ],
+  "target": "cardiovascular system",
+  "image": "images/3224-1g5bPpA.jpg",
+  "gif_url": "videos/3224-1g5bPpA.gif",
+  "media_id": "1g5bPpA",
+  "created_at": "2026-03-18T12:31:32.884791+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

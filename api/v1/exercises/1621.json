@@ -1,0 +1,112 @@
+{
+  "id": "1621",
+  "name": "dumbbell one arm hammer press on exercise ball",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Sit on an exercise ball with your feet flat on the ground and your back straight. Hold a dumbbell in one hand with your palm facing inwards and your elbow bent at a 90-degree angle. Place your other hand on your hip for stability. Press the dumbbell upwards, extending your arm fully. Pause for a moment at the top, then slowly lower the dumbbell back to the starting position. Repeat for the desired number of repetitions, then switch arms.",
+    "it": "Siediti su una palla da ginnastica con i piedi piatti a terra e la schiena dritta. Tieni un manubrio con una mano con il palmo rivolto verso l'interno e il gomito piegato a 90 gradi. Metti l'altra mano sul fianco per stabilità. Premi il manubrio verso l'alto, estendendo completamente il braccio. Fermati un attimo in cima, poi abbassa lentamente il manubrio alla posizione di partenza. Ripeti per il numero desiderato di ripetizioni, poi cambia braccio.",
+    "tr": "Ayaklarınız yere düz basacak ve sırtınız düz olacak şekilde bir egzersiz topunun üzerine oturun. Avucunuz içe bakacak şekilde ve dirseğiniz 90 derecelik bir açıyla bükülmüş halde bir elinizde bir dambıl tutun. Denge sağlamak için diğer elinizi kalçanıza yerleştirin. Kolunuzu tamamen uzatarak dambılı yukarı doğru bastırın. Tepe noktasında bir süre duraklayın, ardından dambılı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen tekrar sayısı kadar tekrarlayın, ardından kolları değiştirin.",
+    "es": "Siéntate sobre un balón de ejercicio con los pies apoyados planos en el suelo y la espalda recta. Sostén una mancuerna en una mano con la palma hacia adentro y el codo flexionado en un ángulo de 90 grados. Coloca la otra mano en la cadera para mantener el equilibrio. Empuja la mancuerna hacia arriba, extendiendo completamente el brazo. Haz una pausa breve en la parte más alta, luego baja lentamente la mancuerna de vuelta a la posición inicial. Repite el número de repeticiones deseado, luego cambia de brazo.",
+    "ru": "Сядьте на гимнастический мяч, поставив ноги на землю и выпрямив спину. Возьмите гантель в одну руку ладонью внутрь и согните локоть под углом 90 градусов. Вторую руку положите на бедро для устойчивости. Выжмите гантель вверх, полностью выпрямляя руку. Задержитесь на мгновение в верхней точке, затем медленно опустите гантель обратно в исходное положение. Повторите желаемое количество повторений, затем поменяйте руки.",
+    "zh": "坐在健身球上，双脚平放在地上，背部挺直。 一只手握住哑铃，掌心向内，肘部弯曲成 90 度角。 将另一只手放在臀部上以保持稳定。 向上推哑铃，充分伸展手臂。 在最高点暂停片刻，然后慢慢将哑铃放回起始位置。 重复所需的重复次数，然后换臂。",
+    "hi": "अपने पैरों को ज़मीन पर सपाट और अपनी पीठ को सीधा रखते हुए एक व्यायाम बॉल पर बैठें। अपनी हथेली को अंदर की ओर रखते हुए और अपनी कोहनी को 90 डिग्री के कोण पर मोड़ते हुए एक हाथ में डंबल पकड़ें। स्थिरता के लिए अपना दूसरा हाथ अपने कूल्हे पर रखें। अपनी बांह को पूरी तरह फैलाते हुए डंबल को ऊपर की ओर दबाएं। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे डम्बल को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएं, फिर हथियार बदल लें।",
+    "pl": "Usiądź na piłce gimnastycznej, stopy oprzyj płasko na podłodze, a plecy trzymaj proste. Trzymaj hantlę w jednej ręce, dłonią skierowaną do wewnątrz, z łokciem zgiętym pod kątem 90 stopni. Połóż drugą rękę na biodrze dla stabilizacji. Wypchnij hantlę do góry, w pełni prostując rękę. Zatrzymaj się na chwilę na górze, a następnie powoli opuść hantlę z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń, a następnie zmień rękę.",
+    "ko": "익서사이즈 볼에 앉아 발을 땅에 고정하고 등을 곧게 유지합니다. 한쪽 손에 덤벨을 들고 손가락이 안쪽을 향하도록 팔꿈치를 90도로 굽힙니다. 안정성을 위해 반대쪽 손을 엉덩이에 올립니다. 덤벨을 위로 누르며 팔을 완전히 펼칩니다. 위에서 잠시 멈춘 후 천천히 덤벨을 처음 위치로 내립니다. 원하는 횟수만큼 반복한 후 반대쪽 팔로 바꿔 진행합니다.",
+    "fr": "Assieds-toi sur un ballon d'exercice, les pieds à plat sur le sol et le dos droit. Tiens un haltère dans une main avec la paume tournée vers l'intérieur et le coude fléchi à un angle de 90 degrés. Place ton autre main sur ta hanche pour plus de stabilité. Pousse l'haltère vers le haut, en tendant complètement ton bras. Marque une pause en haut, puis abaisse lentement l'haltère pour revenir à la position de départ. Répète le nombre de répétitions souhaité, puis change de bras."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on an exercise ball with your feet flat on the ground and your back straight.",
+      "Hold a dumbbell in one hand with your palm facing inwards and your elbow bent at a 90-degree angle.",
+      "Place your other hand on your hip for stability.",
+      "Press the dumbbell upwards, extending your arm fully.",
+      "Pause for a moment at the top, then slowly lower the dumbbell back to the starting position.",
+      "Repeat for the desired number of repetitions, then switch arms."
+    ],
+    "it": [
+      "Siediti su una palla da ginnastica con i piedi piatti a terra e la schiena dritta.",
+      "Tieni un manubrio con una mano con il palmo rivolto verso l'interno e il gomito piegato a 90 gradi.",
+      "Metti l'altra mano sul fianco per stabilità.",
+      "Premi il manubrio verso l'alto, estendendo completamente il braccio.",
+      "Fermati un attimo in cima, poi abbassa lentamente il manubrio alla posizione di partenza.",
+      "Ripeti per il numero desiderato di ripetizioni, poi cambia braccio."
+    ],
+    "tr": [
+      "Ayaklarınız yere düz basacak ve sırtınız düz olacak şekilde bir egzersiz topunun üzerine oturun.",
+      "Avucunuz içe bakacak şekilde ve dirseğiniz 90 derecelik bir açıyla bükülmüş halde bir elinizde bir dambıl tutun.",
+      "Denge sağlamak için diğer elinizi kalçanıza yerleştirin.",
+      "Kolunuzu tamamen uzatarak dambılı yukarı doğru bastırın.",
+      "Tepe noktasında bir süre duraklayın, ardından dambılı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından kolları değiştirin."
+    ],
+    "es": [
+      "Siéntate sobre un balón de ejercicio con los pies apoyados planos en el suelo y la espalda recta.",
+      "Sostén una mancuerna en una mano con la palma hacia adentro y el codo flexionado en un ángulo de 90 grados.",
+      "Coloca la otra mano en la cadera para mantener el equilibrio.",
+      "Empuja la mancuerna hacia arriba, extendiendo completamente el brazo.",
+      "Haz una pausa breve en la parte más alta, luego baja lentamente la mancuerna de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado, luego cambia de brazo."
+    ],
+    "ru": [
+      "Сядьте на гимнастический мяч, поставив ноги на землю и выпрямив спину.",
+      "Возьмите гантель в одну руку ладонью внутрь и согните локоть под углом 90 градусов.",
+      "Вторую руку положите на бедро для устойчивости.",
+      "Выжмите гантель вверх, полностью выпрямляя руку.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите гантель обратно в исходное положение.",
+      "Повторите желаемое количество повторений, затем поменяйте руки."
+    ],
+    "zh": [
+      "坐在健身球上，双脚平放在地上，背部挺直。",
+      "一只手握住哑铃，掌心向内，肘部弯曲成 90 度角。",
+      "将另一只手放在臀部上以保持稳定。",
+      "向上推哑铃，充分伸展手臂。",
+      "在最高点暂停片刻，然后慢慢将哑铃放回起始位置。",
+      "重复所需的重复次数，然后换臂。"
+    ],
+    "hi": [
+      "अपने पैरों को ज़मीन पर सपाट और अपनी पीठ को सीधा रखते हुए एक व्यायाम बॉल पर बैठें।",
+      "अपनी हथेली को अंदर की ओर रखते हुए और अपनी कोहनी को 90 डिग्री के कोण पर मोड़ते हुए एक हाथ में डंबल पकड़ें।",
+      "स्थिरता के लिए अपना दूसरा हाथ अपने कूल्हे पर रखें।",
+      "अपनी बांह को पूरी तरह फैलाते हुए डंबल को ऊपर की ओर दबाएं।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे डम्बल को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर हथियार बदल लें।"
+    ],
+    "pl": [
+      "Usiądź na piłce gimnastycznej, stopy oprzyj płasko na podłodze, a plecy trzymaj proste.",
+      "Trzymaj hantlę w jednej ręce, dłonią skierowaną do wewnątrz, z łokciem zgiętym pod kątem 90 stopni.",
+      "Połóż drugą rękę na biodrze dla stabilizacji.",
+      "Wypchnij hantlę do góry, w pełni prostując rękę.",
+      "Zatrzymaj się na chwilę na górze, a następnie powoli opuść hantlę z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń, a następnie zmień rękę."
+    ],
+    "ko": [
+      "익서사이즈 볼에 앉아 발을 땅에 고정하고 등을 곧게 유지합니다.",
+      "한쪽 손에 덤벨을 들고 손가락이 안쪽을 향하도록 팔꿈치를 90도로 굽힙니다.",
+      "안정성을 위해 반대쪽 손을 엉덩이에 올립니다.",
+      "덤벨을 위로 누르며 팔을 완전히 펼칩니다.",
+      "위에서 잠시 멈춘 후 천천히 덤벨을 처음 위치로 내립니다.",
+      "원하는 횟수만큼 반복한 후 반대쪽 팔로 바꿔 진행합니다."
+    ],
+    "fr": [
+      "Assieds-toi sur un ballon d'exercice, les pieds à plat sur le sol et le dos droit.",
+      "Tiens un haltère dans une main avec la paume tournée vers l'intérieur et le coude fléchi à un angle de 90 degrés.",
+      "Place ton autre main sur ta hanche pour plus de stabilité.",
+      "Pousse l'haltère vers le haut, en tendant complètement ton bras.",
+      "Marque une pause en haut, puis abaisse lentement l'haltère pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis change de bras."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "chest"
+  ],
+  "target": "triceps",
+  "image": "images/1621-VYmYxK5.jpg",
+  "gif_url": "videos/1621-VYmYxK5.gif",
+  "media_id": "VYmYxK5",
+  "created_at": "2026-03-18T12:31:32.879831+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

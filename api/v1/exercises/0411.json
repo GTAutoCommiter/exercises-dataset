@@ -1,0 +1,113 @@
+{
+  "id": "0411",
+  "name": "dumbbell single leg squat",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand. Extend one leg forward and keep it off the ground throughout the exercise. Bend your standing leg and lower your body down as if sitting back into a chair. Keep your chest up and your back straight. Pause for a moment at the bottom, then push through your heel to return to the starting position. Repeat for the desired number of repetitions, then switch legs.",
+    "it": "Stai con i piedi a larghezza delle spalle, tenendo un manubrio in ciascuna mano. Allunga una gamba in avanti e tienilo sollevato da terra durante l'esercizio. Piega la gamba in piedi e abbassa il corpo come se fossi seduto di nuovo su una sedia. Tieni il petto alto e la schiena dritta. Fermati un attimo in fondo, poi spingi attraverso il tallone per tornare alla posizione di partenza. Ripeti per il numero desiderato di ripetizioni, poi cambia gamba.",
+    "tr": "Ayaklarınız omuz genişliğinde açık, her iki elinizde de birer dambıl tutarak ayakta durun. Bir bacağınızı öne doğru uzatın ve egzersiz boyunca yerden yüksekte tutun. Ayakta duran bacağınızı bükün ve sanki bir sandalyeye oturuyormuş gibi vücudunuzu aşağıya doğru indirin. Göğsünüzü dik ve sırtınızı dik tutun. Altta bir an duraklayın, ardından başlangıç ​​pozisyonuna dönmek için topuğunuzu itin. İstenilen tekrar sayısı kadar tekrarlayın, ardından bacakları değiştirin.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros, sujetando una mancuerna en cada mano. Extiende una pierna hacia adelante y mantenla levantada del suelo durante todo el ejercicio. Flexiona la pierna de apoyo y baja el cuerpo como si te sentaras en una silla. Mantén el pecho arriba y la espalda recta. Haz una pausa por un momento en la posición más baja, luego empuja con el talón para volver a la posición inicial. Repite el número de repeticiones deseado, luego cambia de pierna.",
+    "ru": "Встаньте, ноги на ширине плеч, держа в каждой руке по гантели. Вытяните одну ногу вперед и держите ее над землей на протяжении всего упражнения. Согните стоящую ногу и опустите тело вниз, как будто садитесь на стул. Держите грудь поднятой, а спину прямой. Задержитесь на мгновение в нижней точке, затем оттолкнитесь пяткой, чтобы вернуться в исходное положение. Повторите необходимое количество повторений, затем поменяйте ногу.",
+    "zh": "双脚分开与肩同宽站立，每只手各握一个哑铃。 向前伸展一条腿，并在整个练习过程中保持其离开地面。 弯曲站立的腿并降低身体，就像坐回椅子上一样。 保持挺胸、背部挺直。 在底部停顿片刻，然后用脚跟推动回到起始位置。 重复所需的重复次数，然后换腿。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, प्रत्येक हाथ में डम्बल पकड़ें। Extend one leg forward and keep it off the ground throughout the exercise. Bend your standing leg and lower your body down as if sitting back into a chair. अपनी छाती ऊपर और पीठ सीधी रखें। Pause for a moment at the bottom, then push through your heel to return to the starting position. दोहराव की वांछित संख्या के लिए दोहराएं, फिर पैर बदल लें।",
+    "pl": "Stań w rozkroku na szerokość barków, trzymając hantle w obu dłoniach. Wyprostuj jedną nogę do przodu i utrzymuj ją nad podłogą przez cały czas trwania ćwiczenia. Zegnij nogę stojącą i opuść ciało, jakbyś siadał na krzesło. Trzymaj klatkę piersiową uniesioną, a plecy proste. Zatrzymaj się na chwilę na dole, a następnie wypchnij się przez piętę, wracając do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń, a następnie zmień nogi.",
+    "ko": "발을 어깨 너비로 벌리고 각 손에 덤벨을 들어 섭니다. 한 다리를 앞으로 펴서 운동 내내 바닥에서 떼어둡니다. 한쪽 다리를 구부려 의자에 앉는 것처럼 몸을 내립니다. 가슴을 펴고 등을 곧게 유지합니다. 아래에서 잠깐 멈추었다가 발뒤꿈치로 밀어 처음 위치로 돌아옵니다. 원하는 반복 횟수만큼 반복한 후 다리를 바꿉니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un haltère dans chaque main. Étends une jambe vers l'avant et garde-la décollée du sol tout au long de l'exercice. Fléchis ta jambe d'appui et abaisse ton corps comme si tu t'asseyais sur une chaise. Garde la poitrine relevée et le dos droit. Marque une pause en bas, puis pousse sur ton talon pour revenir à la position de départ. Répète le nombre de répétitions souhaité, puis change de jambe."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart, holding a dumbbell in each hand.",
+      "Extend one leg forward and keep it off the ground throughout the exercise.",
+      "Bend your standing leg and lower your body down as if sitting back into a chair.",
+      "Keep your chest up and your back straight.",
+      "Pause for a moment at the bottom, then push through your heel to return to the starting position.",
+      "Repeat for the desired number of repetitions, then switch legs."
+    ],
+    "it": [
+      "Stai con i piedi a larghezza delle spalle, tenendo un manubrio in ciascuna mano.",
+      "Allunga una gamba in avanti e tienilo sollevato da terra durante l'esercizio.",
+      "Piega la gamba in piedi e abbassa il corpo come se fossi seduto di nuovo su una sedia.",
+      "Tieni il petto alto e la schiena dritta.",
+      "Fermati un attimo in fondo, poi spingi attraverso il tallone per tornare alla posizione di partenza.",
+      "Ripeti per il numero desiderato di ripetizioni, poi cambia gamba."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık, her iki elinizde de birer dambıl tutarak ayakta durun.",
+      "Bir bacağınızı öne doğru uzatın ve egzersiz boyunca yerden yüksekte tutun.",
+      "Ayakta duran bacağınızı bükün ve sanki bir sandalyeye oturuyormuş gibi vücudunuzu aşağıya doğru indirin.",
+      "Göğsünüzü dik ve sırtınızı dik tutun.",
+      "Altta bir an duraklayın, ardından başlangıç ​​pozisyonuna dönmek için topuğunuzu itin.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından bacakları değiştirin."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros, sujetando una mancuerna en cada mano.",
+      "Extiende una pierna hacia adelante y mantenla levantada del suelo durante todo el ejercicio.",
+      "Flexiona la pierna de apoyo y baja el cuerpo como si te sentaras en una silla.",
+      "Mantén el pecho arriba y la espalda recta.",
+      "Haz una pausa por un momento en la posición más baja, luego empuja con el talón para volver a la posición inicial.",
+      "Repite el número de repeticiones deseado, luego cambia de pierna."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, держа в каждой руке по гантели.",
+      "Вытяните одну ногу вперед и держите ее над землей на протяжении всего упражнения.",
+      "Согните стоящую ногу и опустите тело вниз, как будто садитесь на стул.",
+      "Держите грудь поднятой, а спину прямой.",
+      "Задержитесь на мгновение в нижней точке, затем оттолкнитесь пяткой, чтобы вернуться в исходное положение.",
+      "Повторите необходимое количество повторений, затем поменяйте ногу."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，每只手各握一个哑铃。",
+      "向前伸展一条腿，并在整个练习过程中保持其离开地面。",
+      "弯曲站立的腿并降低身体，就像坐回椅子上一样。",
+      "保持挺胸、背部挺直。",
+      "在底部停顿片刻，然后用脚跟推动回到起始位置。",
+      "重复所需的重复次数，然后换腿。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, प्रत्येक हाथ में डम्बल पकड़ें।",
+      "पूरे अभ्यास के दौरान एक पैर को आगे बढ़ाएं और इसे जमीन से ऊपर रखें।",
+      "अपने खड़े पैर को मोड़ें और अपने शरीर को नीचे नीचे करें जैसे कि कुर्सी पर पीछे बैठे हों।",
+      "अपनी छाती ऊपर और पीठ सीधी रखें।",
+      "नीचे एक पल के लिए रुकें, फिर प्रारंभिक स्थिति में लौटने के लिए अपनी एड़ी से धक्का दें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर पैर बदल लें।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków, trzymając hantle w obu dłoniach.",
+      "Wyprostuj jedną nogę do przodu i utrzymuj ją nad podłogą przez cały czas trwania ćwiczenia.",
+      "Zegnij nogę stojącą i opuść ciało, jakbyś siadał na krzesło.",
+      "Trzymaj klatkę piersiową uniesioną, a plecy proste.",
+      "Zatrzymaj się na chwilę na dole, a następnie wypchnij się przez piętę, wracając do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń, a następnie zmień nogi."
+    ],
+    "ko": [
+      "발을 어깨 너비로 벌리고 각 손에 덤벨을 들어 섭니다.",
+      "한 다리를 앞으로 펴서 운동 내내 바닥에서 떼어둡니다.",
+      "한쪽 다리를 구부려 의자에 앉는 것처럼 몸을 내립니다.",
+      "가슴을 펴고 등을 곧게 유지합니다.",
+      "아래에서 잠깐 멈추었다가 발뒤꿈치로 밀어 처음 위치로 돌아옵니다.",
+      "원하는 반복 횟수만큼 반복한 후 다리를 바꿉니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un haltère dans chaque main.",
+      "Étends une jambe vers l'avant et garde-la décollée du sol tout au long de l'exercice.",
+      "Fléchis ta jambe d'appui et abaisse ton corps comme si tu t'asseyais sur une chaise.",
+      "Garde la poitrine relevée et le dos droit.",
+      "Marque une pause en bas, puis pousse sur ton talon pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis change de jambe."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "glutes",
+  "image": "images/0411-H6ybluc.jpg",
+  "gif_url": "videos/0411-H6ybluc.gif",
+  "media_id": "H6ybluc",
+  "created_at": "2026-03-18T12:31:32.881743+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

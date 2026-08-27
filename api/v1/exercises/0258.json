@@ -1,0 +1,113 @@
+{
+  "id": "0258",
+  "name": "clock push-up",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Start in a high plank position with your hands directly under your shoulders and your body in a straight line. Lower your body towards the ground by bending your elbows, keeping them close to your sides. As you lower, rotate your body to the left, extending your left arm straight out to the side. Push back up to the starting position, while rotating your body to the center. Repeat the push-up, this time rotating your body to the right and extending your right arm out to the side. Continue alternating sides with each repetition.",
+    "it": "Inizia in posizione di plank alta con le mani direttamente sotto le spalle e il corpo in linea retta. Abbassa il corpo verso il suolo piegando i gomiti, tenendoli vicini ai fianchi. Mentre ti abbassi, ruota il corpo verso sinistra, estendendo il braccio sinistro dritto di lato. Spingi di nuovo verso l'alto fino alla posizione iniziale, ruotando il corpo verso il centro. Ripeti il piegamenti, questa volta ruotando il corpo verso destra e estendendo il braccio destro di lato. Continua ad alternare i lati ad ogni ripetizione.",
+    "tr": "Elleriniz doğrudan omuzlarınızın altında ve vücudunuz düz bir çizgide olacak şekilde yüksek bir plank pozisyonuyla başlayın. Dirseklerinizi bükerek vücudunuzu yanlarınıza yakın tutarak yere doğru indirin. Alçalırken vücudunuzu sola döndürün ve sol kolunuzu düz bir şekilde yana doğru uzatın. Vücudunuzu merkeze doğru döndürürken başlangıç ​​pozisyonuna geri dönün. Şınavı tekrarlayın, bu sefer vücudunuzu sağa döndürün ve sağ kolunuzu yana doğru uzatın. Her tekrarda tarafları değiştirmeye devam edin.",
+    "es": "Comienza en una posición de plancha alta con las manos justo debajo de los hombros y el cuerpo en línea recta. Baja el cuerpo hacia el suelo flexionando los codos, manteniéndolos cerca de los costados. Mientras bajas, gira el cuerpo hacia la izquierda, extendiendo el brazo izquierdo recto hacia el lado. Empuja de vuelta hacia arriba hasta la posición inicial, mientras giras el cuerpo hacia el centro. Repite la flexión de brazos, esta vez girando el cuerpo hacia la derecha y extendiendo el brazo derecho hacia el lado. Continúa alternando lados en cada repetición.",
+    "ru": "Начните с позиции высокой планки, положив руки прямо под плечи, а тело образуя прямую линию. Опустите тело к земле, согнув локти и держа их близко к бокам. Опускаясь, поверните тело влево, вытягивая левую руку прямо в сторону. Вернитесь в исходное положение, одновременно поворачивая тело к центру. Повторите отжимание, на этот раз повернув тело вправо и вытянув правую руку в сторону. Продолжайте чередовать стороны с каждым повторением.",
+    "zh": "从高平板支撑位置开始，双手直接放在肩膀下方，身体呈一条直线。 弯曲肘部，使肘部靠近身体两侧，将身体降低到地面。 当你下降时，将你的身体向左旋转，将你的左臂伸直到侧面。 向上推回到起始位置，同时将身体旋转到中心。 重复俯卧撑，这次将身体向右旋转，并将右臂向侧面伸出。 每次重复时继续交替进行。",
+    "hi": "अपने हाथों को सीधे अपने कंधों के नीचे और अपने शरीर को एक सीधी रेखा में रखते हुए एक उच्च तख़्त स्थिति में शुरुआत करें। अपनी कोहनियों को मोड़कर, उन्हें अपनी भुजाओं के पास रखते हुए, अपने शरीर को ज़मीन की ओर नीचे लाएँ। जैसे ही आप नीचे आते हैं, अपने शरीर को बाईं ओर घुमाएं, अपने बाएं हाथ को सीधा बगल की ओर फैलाएं। अपने शरीर को केंद्र की ओर घुमाते हुए, प्रारंभिक स्थिति में वापस आएँ। पुश-अप को दोहराएं, इस बार अपने शरीर को दाईं ओर घुमाएं और अपने दाहिने हाथ को बगल की ओर फैलाएं। प्रत्येक पुनरावृत्ति के साथ पक्षों को बदलना जारी रखें।",
+    "pl": "Zacznij w pozycji wysokiej deski, dłonie bezpośrednio pod barkami, ciało w jednej linii prostej. Opuść ciało w kierunku podłogi, zginając łokcie, trzymając je blisko tułowia. Podczas opuszczania, obróć ciało w lewo, wyciągając lewe ramię prosto na bok. Wypchnij się z powrotem do pozycji wyjściowej, obracając ciało do środka. Powtórz pompkę, tym razem obracając ciało w prawo i wyciągając prawe ramię na bok. Kontynuuj zmianę stron przy każdym powtórzeniu.",
+    "ko": "손을 어깨 바로 아래에 놓고 몸을 곧게 한 상태로 높은 플랭크 자세를 시작합니다. 팔꿈치를 구부려서 지면을 향해 몸을 내려놓되 팔꿈치를 몸에 가깝게 유지합니다. 내려가면서 몸을 왼쪽으로 회전시키고 왼팔을 옆으로 펼칩니다. 몸의 중앙으로 회전하면서 시작 위치로 다시 올립니다. 이번에는 몸을 오른쪽으로 회전시키고 오른팔을 옆으로 펼치면서 푸시업을 반복합니다. 각 반복마다 양쪽을 번갈아가며 계속 반복합니다.",
+    "fr": "Commence en position de planche haute, les mains directement sous les épaules et le corps bien aligné. Abaisse ton corps vers le sol en fléchissant les coudes, en les gardant près de tes flancs. En descendant, fais pivoter ton corps vers la gauche en tendant ton bras gauche bien droit sur le côté. Repousse-toi vers la position de départ en faisant pivoter ton corps vers le centre. Répète la pompe, cette fois en faisant pivoter ton corps vers la droite et en étendant ton bras droit sur le côté. Continue à alterner les côtés à chaque répétition."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start in a high plank position with your hands directly under your shoulders and your body in a straight line.",
+      "Lower your body towards the ground by bending your elbows, keeping them close to your sides.",
+      "As you lower, rotate your body to the left, extending your left arm straight out to the side.",
+      "Push back up to the starting position, while rotating your body to the center.",
+      "Repeat the push-up, this time rotating your body to the right and extending your right arm out to the side.",
+      "Continue alternating sides with each repetition."
+    ],
+    "it": [
+      "Inizia in posizione di plank alta con le mani direttamente sotto le spalle e il corpo in linea retta.",
+      "Abbassa il corpo verso il suolo piegando i gomiti, tenendoli vicini ai fianchi.",
+      "Mentre ti abbassi, ruota il corpo verso sinistra, estendendo il braccio sinistro dritto di lato.",
+      "Spingi di nuovo verso l'alto fino alla posizione iniziale, ruotando il corpo verso il centro.",
+      "Ripeti il piegamenti, questa volta ruotando il corpo verso destra e estendendo il braccio destro di lato.",
+      "Continua ad alternare i lati ad ogni ripetizione."
+    ],
+    "tr": [
+      "Elleriniz doğrudan omuzlarınızın altında ve vücudunuz düz bir çizgide olacak şekilde yüksek bir plank pozisyonuyla başlayın.",
+      "Dirseklerinizi bükerek vücudunuzu yanlarınıza yakın tutarak yere doğru indirin.",
+      "Alçalırken vücudunuzu sola döndürün ve sol kolunuzu düz bir şekilde yana doğru uzatın.",
+      "Vücudunuzu merkeze doğru döndürürken başlangıç ​​pozisyonuna geri dönün.",
+      "Şınavı tekrarlayın, bu sefer vücudunuzu sağa döndürün ve sağ kolunuzu yana doğru uzatın.",
+      "Her tekrarda tarafları değiştirmeye devam edin."
+    ],
+    "es": [
+      "Comienza en una posición de plancha alta con las manos justo debajo de los hombros y el cuerpo en línea recta.",
+      "Baja el cuerpo hacia el suelo flexionando los codos, manteniéndolos cerca de los costados.",
+      "Mientras bajas, gira el cuerpo hacia la izquierda, extendiendo el brazo izquierdo recto hacia el lado.",
+      "Empuja de vuelta hacia arriba hasta la posición inicial, mientras giras el cuerpo hacia el centro.",
+      "Repite la flexión de brazos, esta vez girando el cuerpo hacia la derecha y extendiendo el brazo derecho hacia el lado.",
+      "Continúa alternando lados en cada repetición."
+    ],
+    "ru": [
+      "Начните с позиции высокой планки, положив руки прямо под плечи, а тело образуя прямую линию.",
+      "Опустите тело к земле, согнув локти и держа их близко к бокам.",
+      "Опускаясь, поверните тело влево, вытягивая левую руку прямо в сторону.",
+      "Вернитесь в исходное положение, одновременно поворачивая тело к центру.",
+      "Повторите отжимание, на этот раз повернув тело вправо и вытянув правую руку в сторону.",
+      "Продолжайте чередовать стороны с каждым повторением."
+    ],
+    "zh": [
+      "从高平板支撑位置开始，双手直接放在肩膀下方，身体呈一条直线。",
+      "弯曲肘部，使肘部靠近身体两侧，将身体降低到地面。",
+      "当你下降时，将你的身体向左旋转，将你的左臂伸直到侧面。",
+      "向上推回到起始位置，同时将身体旋转到中心。",
+      "重复俯卧撑，这次将身体向右旋转，并将右臂向侧面伸出。",
+      "每次重复时继续交替进行。"
+    ],
+    "hi": [
+      "अपने हाथों को सीधे अपने कंधों के नीचे और अपने शरीर को एक सीधी रेखा में रखते हुए एक उच्च तख़्त स्थिति में शुरुआत करें।",
+      "अपनी कोहनियों को मोड़कर, उन्हें अपनी भुजाओं के पास रखते हुए, अपने शरीर को ज़मीन की ओर नीचे लाएँ।",
+      "जैसे ही आप नीचे आते हैं, अपने शरीर को बाईं ओर घुमाएं, अपने बाएं हाथ को सीधा बगल की ओर फैलाएं।",
+      "अपने शरीर को केंद्र की ओर घुमाते हुए, प्रारंभिक स्थिति में वापस आएँ।",
+      "पुश-अप को दोहराएं, इस बार अपने शरीर को दाईं ओर घुमाएं और अपने दाहिने हाथ को बगल की ओर फैलाएं।",
+      "प्रत्येक पुनरावृत्ति के साथ पक्षों को बदलना जारी रखें।"
+    ],
+    "pl": [
+      "Zacznij w pozycji wysokiej deski, dłonie bezpośrednio pod barkami, ciało w jednej linii prostej.",
+      "Opuść ciało w kierunku podłogi, zginając łokcie, trzymając je blisko tułowia.",
+      "Podczas opuszczania, obróć ciało w lewo, wyciągając lewe ramię prosto na bok.",
+      "Wypchnij się z powrotem do pozycji wyjściowej, obracając ciało do środka.",
+      "Powtórz pompkę, tym razem obracając ciało w prawo i wyciągając prawe ramię na bok.",
+      "Kontynuuj zmianę stron przy każdym powtórzeniu."
+    ],
+    "ko": [
+      "손을 어깨 바로 아래에 놓고 몸을 곧게 한 상태로 높은 플랭크 자세를 시작합니다.",
+      "팔꿈치를 구부려서 지면을 향해 몸을 내려놓되 팔꿈치를 몸에 가깝게 유지합니다.",
+      "내려가면서 몸을 왼쪽으로 회전시키고 왼팔을 옆으로 펼칩니다.",
+      "몸의 중앙으로 회전하면서 시작 위치로 다시 올립니다.",
+      "이번에는 몸을 오른쪽으로 회전시키고 오른팔을 옆으로 펼치면서 푸시업을 반복합니다.",
+      "각 반복마다 양쪽을 번갈아가며 계속 반복합니다."
+    ],
+    "fr": [
+      "Commence en position de planche haute, les mains directement sous les épaules et le corps bien aligné.",
+      "Abaisse ton corps vers le sol en fléchissant les coudes, en les gardant près de tes flancs.",
+      "En descendant, fais pivoter ton corps vers la gauche en tendant ton bras gauche bien droit sur le côté.",
+      "Repousse-toi vers la position de départ en faisant pivoter ton corps vers le centre.",
+      "Répète la pompe, cette fois en faisant pivoter ton corps vers la droite et en étendant ton bras droit sur le côté.",
+      "Continue à alterner les côtés à chaque répétition."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "shoulders",
+    "core"
+  ],
+  "target": "pectorals",
+  "image": "images/0258-CMAxnsG.jpg",
+  "gif_url": "videos/0258-CMAxnsG.gif",
+  "media_id": "CMAxnsG",
+  "created_at": "2026-03-18T12:31:32.877116+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

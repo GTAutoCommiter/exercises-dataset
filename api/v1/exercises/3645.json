@@ -1,0 +1,102 @@
+{
+  "id": "3645",
+  "name": "single leg bridge with outstretched leg",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Lie on your back with your knees bent and feet flat on the ground. Extend one leg straight out in front of you. Engage your glutes and lift your hips off the ground, forming a straight line from your knees to your shoulders. Hold for a moment at the top, then slowly lower your hips back down to the starting position. Repeat for the desired number of repetitions, then switch legs.",
+    "it": "Sdraiati sulla schiena con le ginocchia piegate e i piedi appoggiati a terra. Estendi una gamba davanti a te. Coinvolgi i glutei e solleva i fianchi da terra, formando una linea retta dalle ginocchia alle spalle. Mantieni la posizione in alto per un momento, quindi abbassa lentamente i fianchi fino alla posizione iniziale. Ripeti per il numero di ripetizioni desiderato, quindi cambia gamba.",
+    "tr": "Dizleriniz bükülü ve ayaklarınız yere düz basacak şekilde sırt üstü yatın. Bir bacağınızı düz bir şekilde önünüze doğru uzatın. Kalça kaslarınızı devreye sokun ve kalçalarınızı yerden kaldırın, dizlerinizden omuzlarınıza kadar düz bir çizgi oluşturun. Üst noktada bir süre bekleyin, ardından kalçalarınızı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen tekrar sayısı kadar tekrarlayın, ardından bacakları değiştirin.",
+    "es": "Túmbate sobre tu espalda con las rodillas flexionadas y los pies apoyados en el suelo. Extiende una pierna recta hacia delante. Activa los glúteos y levanta las caderas del suelo, formando una línea recta desde las rodillas hasta los hombros. Mantén la posición alta por un momento, luego baja lentamente las caderas de nuevo a la posición inicial. Repite el número de repeticiones deseado, luego cambia de pierna.",
+    "ru": "Лягте на спину, согните колени и поставьте ступни на землю. Вытяните одну ногу прямо перед собой. Напрягите ягодицы и поднимите бедра от земли, образуя прямую линию от колен до плеч. Задержитесь на мгновение в верхней точке, затем медленно опустите бедра обратно в исходное положение. Повторите необходимое количество повторений, затем поменяйте ногу.",
+    "zh": "仰卧，膝盖弯曲，双脚平放在地上。 将一条腿伸直在您面前。 收紧臀部并将臀部抬离地面，从膝盖到肩膀形成一条直线。 在顶部保持片刻，然后慢慢将臀部放回起始位置。 重复所需的重复次数，然后换腿。",
+    "hi": "अपने घुटनों को मोड़कर और पैरों को ज़मीन पर सपाट रखते हुए अपनी पीठ के बल लेटें। एक पैर को अपने सामने सीधा फैलाएं। अपने ग्लूट्स को संलग्न करें और अपने कूल्हों को ज़मीन से ऊपर उठाएं, जिससे आपके घुटनों से लेकर आपके कंधों तक एक सीधी रेखा बन जाए। एक क्षण के लिए शीर्ष पर रुकें, फिर धीरे-धीरे अपने कूल्हों को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएं, फिर पैर बदल लें।",
+    "pl": "Połóż się na plecach z ugiętymi kolanami i stopami płasko opartymi na podłodze. Wyprostuj jedną nogę przed sobą. Napnij pośladki i unieś biodra nad podłogę, tworząc prostą linię od kolan do barków. Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść biodra z powrotem do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń, a następnie zmień nogę.",
+    "ko": "등을 바닥에 대고 누우세요. 무릎을 구부리고 발을 바닥에 올려놓습니다. 한쪽 다리를 앞으로 펼칩니다. 둔근을 활성화하고 엉덩이를 바닥에서 들어 올립니다. 무릎에서 어깨까지 일직선을 만듭니다. 위쪽에서 잠깐 멈춘 후 엉덩이를 천천히 시작 위치로 내립니다. 원하는 반복 횟수만큼 반복한 후 다리를 전환합니다.",
+    "fr": "Allonge-toi sur le dos, les genoux fléchis et les pieds à plat au sol. Étends une jambe droit devant toi. Contracte tes fessiers et soulève tes hanches du sol, en formant une ligne droite de tes genoux à tes épaules. Maintiens un moment en haut, puis abaisse lentement tes hanches jusqu'à la position de départ. Répète le nombre de répétitions souhaité, puis change de jambe."
+  },
+  "instruction_steps": {
+    "en": [
+      "Lie on your back with your knees bent and feet flat on the ground.",
+      "Extend one leg straight out in front of you.",
+      "Engage your glutes and lift your hips off the ground, forming a straight line from your knees to your shoulders.",
+      "Hold for a moment at the top, then slowly lower your hips back down to the starting position.",
+      "Repeat for the desired number of repetitions, then switch legs."
+    ],
+    "it": [
+      "Sdraiati sulla schiena con le ginocchia piegate e i piedi appoggiati a terra.",
+      "Estendi una gamba davanti a te.",
+      "Coinvolgi i glutei e solleva i fianchi da terra, formando una linea retta dalle ginocchia alle spalle.",
+      "Mantieni la posizione in alto per un momento, quindi abbassa lentamente i fianchi fino alla posizione iniziale.",
+      "Ripeti per il numero di ripetizioni desiderato, quindi cambia gamba."
+    ],
+    "tr": [
+      "Dizleriniz bükülü ve ayaklarınız yere düz basacak şekilde sırt üstü yatın.",
+      "Bir bacağınızı düz bir şekilde önünüze doğru uzatın.",
+      "Kalça kaslarınızı devreye sokun ve kalçalarınızı yerden kaldırın, dizlerinizden omuzlarınıza kadar düz bir çizgi oluşturun.",
+      "Üst noktada bir süre bekleyin, ardından kalçalarınızı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından bacakları değiştirin."
+    ],
+    "es": [
+      "Túmbate sobre tu espalda con las rodillas flexionadas y los pies apoyados en el suelo.",
+      "Extiende una pierna recta hacia delante.",
+      "Activa los glúteos y levanta las caderas del suelo, formando una línea recta desde las rodillas hasta los hombros.",
+      "Mantén la posición alta por un momento, luego baja lentamente las caderas de nuevo a la posición inicial.",
+      "Repite el número de repeticiones deseado, luego cambia de pierna."
+    ],
+    "ru": [
+      "Лягте на спину, согните колени и поставьте ступни на землю.",
+      "Вытяните одну ногу прямо перед собой.",
+      "Напрягите ягодицы и поднимите бедра от земли, образуя прямую линию от колен до плеч.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите бедра обратно в исходное положение.",
+      "Повторите необходимое количество повторений, затем поменяйте ногу."
+    ],
+    "zh": [
+      "仰卧，膝盖弯曲，双脚平放在地上。",
+      "将一条腿伸直在您面前。",
+      "收紧臀部并将臀部抬离地面，从膝盖到肩膀形成一条直线。",
+      "在顶部保持片刻，然后慢慢将臀部放回起始位置。",
+      "重复所需的重复次数，然后换腿。"
+    ],
+    "hi": [
+      "अपने घुटनों को मोड़कर और पैरों को ज़मीन पर सपाट रखते हुए अपनी पीठ के बल लेटें।",
+      "एक पैर को अपने सामने सीधा फैलाएं।",
+      "अपने ग्लूट्स को संलग्न करें और अपने कूल्हों को ज़मीन से ऊपर उठाएं, जिससे आपके घुटनों से लेकर आपके कंधों तक एक सीधी रेखा बन जाए।",
+      "एक क्षण के लिए शीर्ष पर रुकें, फिर धीरे-धीरे अपने कूल्हों को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर पैर बदल लें।"
+    ],
+    "pl": [
+      "Połóż się na plecach z ugiętymi kolanami i stopami płasko opartymi na podłodze.",
+      "Wyprostuj jedną nogę przed sobą.",
+      "Napnij pośladki i unieś biodra nad podłogę, tworząc prostą linię od kolan do barków.",
+      "Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść biodra z powrotem do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń, a następnie zmień nogę."
+    ],
+    "ko": [
+      "등을 바닥에 대고 누우세요. 무릎을 구부리고 발을 바닥에 올려놓습니다.",
+      "한쪽 다리를 앞으로 펼칩니다.",
+      "둔근을 활성화하고 엉덩이를 바닥에서 들어 올립니다. 무릎에서 어깨까지 일직선을 만듭니다.",
+      "위쪽에서 잠깐 멈춘 후 엉덩이를 천천히 시작 위치로 내립니다.",
+      "원하는 반복 횟수만큼 반복한 후 다리를 전환합니다."
+    ],
+    "fr": [
+      "Allonge-toi sur le dos, les genoux fléchis et les pieds à plat au sol.",
+      "Étends une jambe droit devant toi.",
+      "Contracte tes fessiers et soulève tes hanches du sol, en formant une ligne droite de tes genoux à tes épaules.",
+      "Maintiens un moment en haut, puis abaisse lentement tes hanches jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis change de jambe."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings",
+    "quadriceps"
+  ],
+  "target": "glutes",
+  "image": "images/3645-rmEukuS.jpg",
+  "gif_url": "videos/3645-rmEukuS.gif",
+  "media_id": "rmEukuS",
+  "created_at": "2026-03-18T12:31:32.889937+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

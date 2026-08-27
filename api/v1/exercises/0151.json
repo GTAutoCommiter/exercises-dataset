@@ -1,0 +1,132 @@
+{
+  "id": "0151",
+  "name": "cable bench press",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Adjust the cable machine to chest height and attach the handles. Stand facing away from the machine with your feet shoulder-width apart. Grasp the handles with an overhand grip and step forward to create tension in the cables. Position your feet firmly on the ground and engage your core. Bend your elbows and bring your hands to shoulder level, keeping your elbows at a 90-degree angle. Push the handles forward, extending your arms fully in front of you. Pause for a moment, then slowly reverse the movement, bringing your hands back to shoulder level. Repeat for the desired number of repetitions.",
+    "it": "Regola la macchina a cavo all'altezza del petto e fissa le maniglie. Mettiti di spalle alla macchina con i piedi a larghezza delle spalle. Afferra le maniglie con una presa sopra la mano e avanza per creare tensione nei cavi. Posiziona i piedi saldamente a terra e attiva il core. Piega i gomiti e porta le mani all'altezza delle spalle, mantenendo i gomiti a un angolo di 90 gradi. Spingi le maniglie in avanti, estendendo completamente le braccia davanti a te. Fermati un attimo, poi inverti lentamente il movimento, riportando le mani all'altezza delle spalle. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Kablo makinesini göğüs yüksekliğine ayarlayın ve kulpları takın. Ayaklarınız omuz genişliğinde açık olacak şekilde, yüzünüz makineden uzakta durun. Tutamaçları üstten kavrayın ve kablolarda gerginlik yaratmak için öne doğru bir adım atın. Ayaklarınızı yere sağlam bir şekilde yerleştirin ve çekirdeğinizi devreye sokun. Dirseklerinizi bükün ve ellerinizi omuz hizasına getirin, dirseklerinizi 90 derecelik bir açıyla tutun. Kollarınızı tamamen önünüze uzatarak kolları ileri doğru itin. Bir an duraklayın, ardından ellerinizi omuz hizasına getirerek hareketi yavaşça tersine çevirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta la máquina de cable a la altura del pecho y coloca las agarraderas. Ponte de pie de espaldas a la máquina con los pies separados a la altura de los hombros. Sujeta las agarraderas con agarre prono y da un paso hacia adelante para crear tensión en los cables. Coloca los pies firmemente en el suelo y activa el core. Flexiona los codos y lleva las manos a la altura de los hombros, manteniendo los codos en un ángulo de 90 grados. Empuja las agarraderas hacia adelante, extendiendo completamente los brazos frente a ti. Haz una pausa breve, luego invierte lentamente el movimiento, llevando las manos de vuelta a la altura de los hombros. Repite el número de repeticiones deseado.",
+    "ru": "Отрегулируйте канатную машину на высоту груди и прикрепите ручки. Встаньте лицом к тренажеру, поставив ноги на ширине плеч. Возьмитесь за рукоятки верхним хватом и сделайте шаг вперед, чтобы создать натяжение тросов. Твердо поставьте ноги на землю и задействуйте корпус. Согните руки в локтях и поднимите руки на уровень плеч, держа локти под углом 90 градусов. Выдвиньте рукоятки вперед, полностью вытянув руки перед собой. Сделайте паузу на мгновение, затем медленно поменяйте направление движения, возвращая руки на уровень плеч. Повторите необходимое количество повторений.",
+    "zh": "将绳索机调整至胸部高度并安装手柄。 背对机器站立，双脚与肩同宽。 正手握住手柄并向前迈一步，以在电缆中产生张力。 将双脚牢牢放在地面上并启动核心。 弯曲肘部，将双手置于肩部水平，保持肘部呈 90 度角。 向前推动手柄，将双臂完全伸展到身前。 暂停片刻，然后慢慢扭转动作，将双手放回肩部水平。 重复所需的重复次数。",
+    "hi": "केबल मशीन को छाती की ऊंचाई तक समायोजित करें और हैंडल संलग्न करें। अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए मशीन से दूर की ओर मुंह करके खड़े हो जाएं। हैंडल को ओवरहैंड ग्रिप से पकड़ें और केबलों में तनाव पैदा करने के लिए आगे बढ़ें। अपने पैरों को ज़मीन पर मजबूती से रखें और अपने कोर को संलग्न करें। अपनी कोहनियों को मोड़ें और अपने हाथों को कंधे के स्तर पर लाएं, अपनी कोहनियों को 90 डिग्री के कोण पर रखें। अपनी भुजाओं को अपने सामने पूरी तरह फैलाते हुए, हैंडल को आगे की ओर धकेलें। एक पल के लिए रुकें, फिर धीरे-धीरे गति को उल्टा करें, अपने हाथों को कंधे के स्तर पर वापस लाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Ustaw wyciąg na wysokości klatki piersiowej i zamocuj uchwyty. Stań tyłem do maszyny, ze stopami na szerokość barków. Chwyć uchwyty chwytem nachwytem i zrób krok do przodu, aby wytworzyć napięcie linek. Ustaw stopy stabilnie na podłodze i napnij mięśnie brzucha. Ugnij łokcie i przyciągnij dłonie na wysokość barków, trzymając łokcie pod kątem 90 stopni. Wypchnij uchwyty do przodu, w pełni prostując ramiona przed sobą. Zatrzymaj się na chwilę, a następnie powoli odwróć ruch, wracając dłońmi na wysokość barków. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "케이블 머신을 가슴 높이에 조정하고 핸들을 부착합니다. 머신과 등을 맞대고 발을 어깨 너비만큼 벌려 서 있습니다. 손등이 앞을 향하는 오버핸드 그립으로 핸들을 잡고 케이블에 긴장을 만들기 위해 앞으로 나아갑니다. 발을 바닥에 단단히 고정하고 코어를 engaged 합니다. 팔꿈치를 구부려 손을 어깨 높이로 올리되 팔꿈치가 90도 각도가 되도록 합니다. 핸들을 앞으로 밀어 팔을 완전히 펼칩니다. 잠시 멈춘 후 천천히 동작을 역으로 하며 손을 어깨 높이로 돌아옵니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Règle la machine à câble à hauteur de la poitrine et attache les poignées. Tiens-toi dos à la machine, les pieds écartés à la largeur des épaules. Saisis les poignées avec une prise en pronation et avance pour créer de la tension dans les câbles. Positionne tes pieds fermement sur le sol et gaine ta sangle abdominale. Plie tes coudes et amène tes mains à hauteur des épaules en gardant tes coudes à un angle de 90 degrés. Pousse les poignées vers l'avant en tendant complètement tes bras devant toi. Marque une pause, puis inverse lentement le mouvement en ramenant tes mains à la hauteur des épaules. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the cable machine to chest height and attach the handles.",
+      "Stand facing away from the machine with your feet shoulder-width apart.",
+      "Grasp the handles with an overhand grip and step forward to create tension in the cables.",
+      "Position your feet firmly on the ground and engage your core.",
+      "Bend your elbows and bring your hands to shoulder level, keeping your elbows at a 90-degree angle.",
+      "Push the handles forward, extending your arms fully in front of you.",
+      "Pause for a moment, then slowly reverse the movement, bringing your hands back to shoulder level.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Regola la macchina a cavo all'altezza del petto e fissa le maniglie.",
+      "Mettiti di spalle alla macchina con i piedi a larghezza delle spalle.",
+      "Afferra le maniglie con una presa sopra la mano e avanza per creare tensione nei cavi.",
+      "Posiziona i piedi saldamente a terra e attiva il core.",
+      "Piega i gomiti e porta le mani all'altezza delle spalle, mantenendo i gomiti a un angolo di 90 gradi.",
+      "Spingi le maniglie in avanti, estendendo completamente le braccia davanti a te.",
+      "Fermati un attimo, poi inverti lentamente il movimento, riportando le mani all'altezza delle spalle.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Kablo makinesini göğüs yüksekliğine ayarlayın ve kulpları takın.",
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde, yüzünüz makineden uzakta durun.",
+      "Tutamaçları üstten kavrayın ve kablolarda gerginlik yaratmak için öne doğru bir adım atın.",
+      "Ayaklarınızı yere sağlam bir şekilde yerleştirin ve çekirdeğinizi devreye sokun.",
+      "Dirseklerinizi bükün ve ellerinizi omuz hizasına getirin, dirseklerinizi 90 derecelik bir açıyla tutun.",
+      "Kollarınızı tamamen önünüze uzatarak kolları ileri doğru itin.",
+      "Bir an duraklayın, ardından ellerinizi omuz hizasına getirerek hareketi yavaşça tersine çevirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta la máquina de cable a la altura del pecho y coloca las agarraderas.",
+      "Ponte de pie de espaldas a la máquina con los pies separados a la altura de los hombros.",
+      "Sujeta las agarraderas con agarre prono y da un paso hacia adelante para crear tensión en los cables.",
+      "Coloca los pies firmemente en el suelo y activa el core.",
+      "Flexiona los codos y lleva las manos a la altura de los hombros, manteniendo los codos en un ángulo de 90 grados.",
+      "Empuja las agarraderas hacia adelante, extendiendo completamente los brazos frente a ti.",
+      "Haz una pausa breve, luego invierte lentamente el movimiento, llevando las manos de vuelta a la altura de los hombros.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Отрегулируйте канатную машину на высоту груди и прикрепите ручки.",
+      "Встаньте лицом к тренажеру, поставив ноги на ширине плеч.",
+      "Возьмитесь за рукоятки верхним хватом и сделайте шаг вперед, чтобы создать натяжение тросов.",
+      "Твердо поставьте ноги на землю и задействуйте корпус.",
+      "Согните руки в локтях и поднимите руки на уровень плеч, держа локти под углом 90 градусов.",
+      "Выдвиньте рукоятки вперед, полностью вытянув руки перед собой.",
+      "Сделайте паузу на мгновение, затем медленно поменяйте направление движения, возвращая руки на уровень плеч.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将绳索机调整至胸部高度并安装手柄。",
+      "背对机器站立，双脚与肩同宽。",
+      "正手握住手柄并向前迈一步，以在电缆中产生张力。",
+      "将双脚牢牢放在地面上并启动核心。",
+      "弯曲肘部，将双手置于肩部水平，保持肘部呈 90 度角。",
+      "向前推动手柄，将双臂完全伸展到身前。",
+      "暂停片刻，然后慢慢扭转动作，将双手放回肩部水平。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "केबल मशीन को छाती की ऊंचाई तक समायोजित करें और हैंडल संलग्न करें।",
+      "अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए मशीन से दूर की ओर मुंह करके खड़े हो जाएं।",
+      "हैंडल को ओवरहैंड ग्रिप से पकड़ें और केबलों में तनाव पैदा करने के लिए आगे बढ़ें।",
+      "अपने पैरों को ज़मीन पर मजबूती से रखें और अपने कोर को संलग्न करें।",
+      "अपनी कोहनियों को मोड़ें और अपने हाथों को कंधे के स्तर पर लाएं, अपनी कोहनियों को 90 डिग्री के कोण पर रखें।",
+      "अपनी भुजाओं को अपने सामने पूरी तरह फैलाते हुए, हैंडल को आगे की ओर धकेलें।",
+      "एक पल के लिए रुकें, फिर धीरे-धीरे गति को उल्टा करें, अपने हाथों को कंधे के स्तर पर वापस लाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Ustaw wyciąg na wysokości klatki piersiowej i zamocuj uchwyty.",
+      "Stań tyłem do maszyny, ze stopami na szerokość barków.",
+      "Chwyć uchwyty chwytem nachwytem i zrób krok do przodu, aby wytworzyć napięcie linek.",
+      "Ustaw stopy stabilnie na podłodze i napnij mięśnie brzucha.",
+      "Ugnij łokcie i przyciągnij dłonie na wysokość barków, trzymając łokcie pod kątem 90 stopni.",
+      "Wypchnij uchwyty do przodu, w pełni prostując ramiona przed sobą.",
+      "Zatrzymaj się na chwilę, a następnie powoli odwróć ruch, wracając dłońmi na wysokość barków.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "케이블 머신을 가슴 높이에 조정하고 핸들을 부착합니다.",
+      "머신과 등을 맞대고 발을 어깨 너비만큼 벌려 서 있습니다.",
+      "손등이 앞을 향하는 오버핸드 그립으로 핸들을 잡고 케이블에 긴장을 만들기 위해 앞으로 나아갑니다.",
+      "발을 바닥에 단단히 고정하고 코어를 engaged 합니다.",
+      "팔꿈치를 구부려 손을 어깨 높이로 올리되 팔꿈치가 90도 각도가 되도록 합니다.",
+      "핸들을 앞으로 밀어 팔을 완전히 펼칩니다.",
+      "잠시 멈춘 후 천천히 동작을 역으로 하며 손을 어깨 높이로 돌아옵니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Règle la machine à câble à hauteur de la poitrine et attache les poignées.",
+      "Tiens-toi dos à la machine, les pieds écartés à la largeur des épaules.",
+      "Saisis les poignées avec une prise en pronation et avance pour créer de la tension dans les câbles.",
+      "Positionne tes pieds fermement sur le sol et gaine ta sangle abdominale.",
+      "Plie tes coudes et amène tes mains à hauteur des épaules en gardant tes coudes à un angle de 90 degrés.",
+      "Pousse les poignées vers l'avant en tendant complètement tes bras devant toi.",
+      "Marque une pause, puis inverse lentement le mouvement en ramenant tes mains à la hauteur des épaules.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "target": "pectorals",
+  "image": "images/0151-7xI5MXA.jpg",
+  "gif_url": "videos/0151-7xI5MXA.gif",
+  "media_id": "7xI5MXA",
+  "created_at": "2026-03-18T12:31:32.874181+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

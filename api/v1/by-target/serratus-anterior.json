@@ -1,0 +1,52 @@
+[
+  {
+    "id": "0050",
+    "name": "barbell incline shoulder raise",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "barbell",
+    "target": "serratus anterior",
+    "image": "images/0050-xi0yckC.jpg",
+    "gif_url": "videos/0050-xi0yckC.gif"
+  },
+  {
+    "id": "0328",
+    "name": "dumbbell incline shoulder raise",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "serratus anterior",
+    "image": "images/0328-6e2DcYX.jpg",
+    "gif_url": "videos/0328-6e2DcYX.gif"
+  },
+  {
+    "id": "3011",
+    "name": "incline scapula push up",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "serratus anterior",
+    "image": "images/3011-GdMa1ET.jpg",
+    "gif_url": "videos/3011-GdMa1ET.gif"
+  },
+  {
+    "id": "3021",
+    "name": "scapula push-up",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "serratus anterior",
+    "image": "images/3021-jV65tKx.jpg",
+    "gif_url": "videos/3021-jV65tKx.gif"
+  },
+  {
+    "id": "0759",
+    "name": "smith incline shoulder raises",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "smith machine",
+    "target": "serratus anterior",
+    "image": "images/0759-ayAHcEm.jpg",
+    "gif_url": "videos/0759-ayAHcEm.gif"
+  }
+]

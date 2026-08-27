@@ -1,0 +1,112 @@
+{
+  "id": "3010",
+  "name": "ez bar lying bent arms pullover",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "ez barbell",
+  "instructions": {
+    "en": "Lie flat on a bench with your head at one end and your feet on the floor. Hold the EZ barbell with a pronated grip (palms facing away from you) and your hands shoulder-width apart. Extend your arms straight above your chest, keeping a slight bend in your elbows. Lower the barbell in an arc motion behind your head, maintaining the slight bend in your elbows. Pause for a moment, then return the barbell to the starting position by reversing the arc motion. Repeat for the desired number of repetitions.",
+    "it": "Sdraiati su una panca con la testa da un lato e i piedi sul pavimento. Tieni il bilanciere EZ con una presa prona (palmi rivolti lontano da te) e le mani alla larghezza delle spalle. Estendi le braccia dritte sopra il petto, mantenendo una leggera piegatura dei gomiti. Abbassa il bilanciere con un movimento ad arco dietro la testa, mantenendo la leggera piegatura dei gomiti. Fare una pausa per un momento, quindi riportare il bilanciere nella posizione iniziale invertendo il movimento dell'arco. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Başınız bir ucunda ve ayaklarınız yerde olacak şekilde bir bankın üzerine düz bir şekilde uzanın. EZ halterini pronasyonda (avuç içleriniz sizden uzağa bakacak şekilde) ve elleriniz omuz genişliğinde açık olacak şekilde tutun. Kollarınızı düz bir şekilde göğsünüzün üzerine uzatın, dirseklerinizi hafif bir şekilde bükün. Dirseklerinizdeki hafif kıvrımı koruyarak halterinizi başınızın arkasına yay hareketi yaparak indirin. Bir an duraklayın, ardından yay hareketini tersine çevirerek halteri başlangıç ​​pozisyonuna getirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Túmbate boca arriba en un banco con la cabeza en un extremo y los pies en el suelo. Sostén la barra EZ con agarre prono (palmas hacia afuera) y las manos separadas a la altura de los hombros. Extiende los brazos rectos por encima del pecho, manteniendo una ligera flexión en los codos. Baja la barra describiendo un arco detrás de la cabeza, manteniendo la ligera flexión en los codos. Haz una pausa breve, luego regresa la barra a la posición inicial invirtiendo el movimiento del arco. Repite el número de repeticiones deseado.",
+    "ru": "Лягте на скамью, положив голову на один конец и поставив ноги на пол. Держите штангу EZ пронированным хватом (ладонями от себя), руки на ширине плеч. Вытяните руки прямо над грудью, сохраняя небольшой изгиб в локтях. Опустите штангу дугообразным движением за голову, сохраняя небольшой изгиб в локтях. Сделайте паузу на мгновение, затем верните штангу в исходное положение, изменив движение по дуге. Повторите необходимое количество повторений.",
+    "zh": "平躺在长凳上，头放在一端，双脚放在地板上。 旋前握住 EZ 杠铃（手掌背向您），双手与肩同宽。 将手臂伸直至胸部上方，保持肘部轻微弯曲。 以弧线动作将杠铃降低到头后，保持肘部轻微弯曲。 暂停片刻，然后通过反向弧线运动将杠铃返回到起始位置。 重复所需的重复次数。",
+    "hi": "एक बेंच पर अपने सिर को एक छोर पर और अपने पैरों को फर्श पर रखकर सीधे लेट जाएं। ईज़ी बारबेल को एक उभरी हुई पकड़ (हथेलियाँ आपसे दूर की ओर) और अपने हाथों को कंधे की चौड़ाई से अलग करके पकड़ें। अपनी कोहनियों को हल्का सा मोड़ते हुए, अपनी बाहों को अपनी छाती के ऊपर सीधा फैलाएँ। अपनी कोहनियों में हल्का सा मोड़ बनाए रखते हुए बारबेल को अपने सिर के पीछे चाप की गति में नीचे लाएँ। एक पल के लिए रुकें, फिर चाप की गति को उलट कर बारबेल को शुरुआती स्थिति में लौटा दें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Połóż się płasko na ławce, głową na jednym końcu, a stopami opartymi o podłogę. Chwyć gryf EZ chwytem pronacyjnym (dłonie skierowane od siebie), ręce ustaw na szerokość barków. Wyprostuj ramiona prosto nad klatką piersiową, zachowując lekkie zgięcie w łokciach. Opuść sztangę ruchem łukowym za głowę, utrzymując lekkie zgięcie w łokciach. Zatrzymaj się na chwilę, a następnie wróć sztangą do pozycji wyjściowej, odwracając ruch łukowy. Powtórz zalecaną liczbę razy.",
+    "ko": "벤치에 누워 한쪽 끝에 머리를 놓고 발을 바닥에 올려놓으십시오. EZ 바벨을 손가락이 바깥쪽을 향하는 손가락 아래 그립으로 들되 손이 어깨 넓이로 떨어져있도록 하십시오. 팔을 가슴 위로 곧게 펴되 팔꿈치에 약간의 구부러짐을 유지하십시오. 바벨을 호 모양으로 머리 뒤로 내리되 팔꿈치의 약간의 구부러짐을 유지하십시오. 잠시 멈춘 후 호 모양의 반대 동작으로 바벨을 시작 위치로 돌아오십시오. 원하는 반복 횟수만큼 반복하십시오.",
+    "fr": "Allonge-toi à plat sur un banc, la tête à une extrémité et les pieds au sol. Tiens la barre EZ en prise pronation (paumes tournées vers l'extérieur), les mains écartées à la largeur des épaules. Étends tes bras droit au-dessus de ta poitrine, en gardant une légère flexion dans tes coudes. Abaisse la barre en arc de cercle derrière ta tête, en maintenant la légère flexion de tes coudes. Marque une pause, puis ramène la barre à la position de départ en inversant le mouvement en arc. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Lie flat on a bench with your head at one end and your feet on the floor.",
+      "Hold the EZ barbell with a pronated grip (palms facing away from you) and your hands shoulder-width apart.",
+      "Extend your arms straight above your chest, keeping a slight bend in your elbows.",
+      "Lower the barbell in an arc motion behind your head, maintaining the slight bend in your elbows.",
+      "Pause for a moment, then return the barbell to the starting position by reversing the arc motion.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Sdraiati su una panca con la testa da un lato e i piedi sul pavimento.",
+      "Tieni il bilanciere EZ con una presa prona (palmi rivolti lontano da te) e le mani alla larghezza delle spalle.",
+      "Estendi le braccia dritte sopra il petto, mantenendo una leggera piegatura dei gomiti.",
+      "Abbassa il bilanciere con un movimento ad arco dietro la testa, mantenendo la leggera piegatura dei gomiti.",
+      "Fare una pausa per un momento, quindi riportare il bilanciere nella posizione iniziale invertendo il movimento dell'arco.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Başınız bir ucunda ve ayaklarınız yerde olacak şekilde bir bankın üzerine düz bir şekilde uzanın.",
+      "EZ halterini pronasyonda (avuç içleriniz sizden uzağa bakacak şekilde) ve elleriniz omuz genişliğinde açık olacak şekilde tutun.",
+      "Kollarınızı düz bir şekilde göğsünüzün üzerine uzatın, dirseklerinizi hafif bir şekilde bükün.",
+      "Dirseklerinizdeki hafif kıvrımı koruyarak halterinizi başınızın arkasına yay hareketi yaparak indirin.",
+      "Bir an duraklayın, ardından yay hareketini tersine çevirerek halteri başlangıç ​​pozisyonuna getirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Túmbate boca arriba en un banco con la cabeza en un extremo y los pies en el suelo.",
+      "Sostén la barra EZ con agarre prono (palmas hacia afuera) y las manos separadas a la altura de los hombros.",
+      "Extiende los brazos rectos por encima del pecho, manteniendo una ligera flexión en los codos.",
+      "Baja la barra describiendo un arco detrás de la cabeza, manteniendo la ligera flexión en los codos.",
+      "Haz una pausa breve, luego regresa la barra a la posición inicial invirtiendo el movimiento del arco.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Лягте на скамью, положив голову на один конец и поставив ноги на пол.",
+      "Держите штангу EZ пронированным хватом (ладонями от себя), руки на ширине плеч.",
+      "Вытяните руки прямо над грудью, сохраняя небольшой изгиб в локтях.",
+      "Опустите штангу дугообразным движением за голову, сохраняя небольшой изгиб в локтях.",
+      "Сделайте паузу на мгновение, затем верните штангу в исходное положение, изменив движение по дуге.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "平躺在长凳上，头放在一端，双脚放在地板上。",
+      "旋前握住 EZ 杠铃（手掌背向您），双手与肩同宽。",
+      "将手臂伸直至胸部上方，保持肘部轻微弯曲。",
+      "以弧线动作将杠铃降低到头后，保持肘部轻微弯曲。",
+      "暂停片刻，然后通过反向弧线运动将杠铃返回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "एक बेंच पर अपने सिर को एक छोर पर और अपने पैरों को फर्श पर रखकर सीधे लेट जाएं।",
+      "ईज़ी बारबेल को एक उभरी हुई पकड़ (हथेलियाँ आपसे दूर की ओर) और अपने हाथों को कंधे की चौड़ाई से अलग करके पकड़ें।",
+      "अपनी कोहनियों को हल्का सा मोड़ते हुए, अपनी बाहों को अपनी छाती के ऊपर सीधा फैलाएँ।",
+      "अपनी कोहनियों में हल्का सा मोड़ बनाए रखते हुए बारबेल को अपने सिर के पीछे चाप की गति में नीचे लाएँ।",
+      "एक पल के लिए रुकें, फिर चाप की गति को उलट कर बारबेल को शुरुआती स्थिति में लौटा दें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Połóż się płasko na ławce, głową na jednym końcu, a stopami opartymi o podłogę.",
+      "Chwyć gryf EZ chwytem pronacyjnym (dłonie skierowane od siebie), ręce ustaw na szerokość barków.",
+      "Wyprostuj ramiona prosto nad klatką piersiową, zachowując lekkie zgięcie w łokciach.",
+      "Opuść sztangę ruchem łukowym za głowę, utrzymując lekkie zgięcie w łokciach.",
+      "Zatrzymaj się na chwilę, a następnie wróć sztangą do pozycji wyjściowej, odwracając ruch łukowy.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "벤치에 누워 한쪽 끝에 머리를 놓고 발을 바닥에 올려놓으십시오.",
+      "EZ 바벨을 손가락이 바깥쪽을 향하는 손가락 아래 그립으로 들되 손이 어깨 넓이로 떨어져있도록 하십시오.",
+      "팔을 가슴 위로 곧게 펴되 팔꿈치에 약간의 구부러짐을 유지하십시오.",
+      "바벨을 호 모양으로 머리 뒤로 내리되 팔꿈치의 약간의 구부러짐을 유지하십시오.",
+      "잠시 멈춘 후 호 모양의 반대 동작으로 바벨을 시작 위치로 돌아오십시오.",
+      "원하는 반복 횟수만큼 반복하십시오."
+    ],
+    "fr": [
+      "Allonge-toi à plat sur un banc, la tête à une extrémité et les pieds au sol.",
+      "Tiens la barre EZ en prise pronation (paumes tournées vers l'extérieur), les mains écartées à la largeur des épaules.",
+      "Étends tes bras droit au-dessus de ta poitrine, en gardant une légère flexion dans tes coudes.",
+      "Abaisse la barre en arc de cercle derrière ta tête, en maintenant la légère flexion de tes coudes.",
+      "Marque une pause, puis ramène la barre à la position de départ en inversant le mouvement en arc.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "chest"
+  ],
+  "target": "lats",
+  "image": "images/3010-nDK1HJ0.jpg",
+  "gif_url": "videos/3010-nDK1HJ0.gif",
+  "media_id": "nDK1HJ0",
+  "created_at": "2026-03-18T12:31:32.883028+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

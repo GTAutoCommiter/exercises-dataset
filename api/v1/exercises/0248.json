@@ -1,0 +1,102 @@
+{
+  "id": "0248",
+  "name": "cambered bar lying row",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Set up a barbell on the floor and lie face down on a bench with your chest just off the edge. Reach down and grab the barbell with an overhand grip, slightly wider than shoulder-width apart. With your legs straight and feet on the ground, lift the barbell off the floor by extending your arms. Pull the barbell towards your chest, squeezing your shoulder blades together. Lower the barbell back down to the starting position and repeat for the desired number of repetitions.",
+    "it": "Appoggia un bilanciere sul pavimento e sdraiati a faccia in giù su una panca con il petto appena fuori dal bordo. Allunga la mano e afferra il bilanciere con una presa sopra la mano, leggermente più larga della larghezza delle spalle. Con le gambe dritte e i piedi a terra, solleva il bilanciere da terra estendendo le braccia. Tira il bilanciere verso il petto, stringendo le scapole insieme. Abbassa il bilanciere fino alla posizione iniziale e ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Yere bir halter yerleştirin ve göğsünüz kenardan biraz uzakta olacak şekilde bir bankın üzerine yüzüstü yatın. Aşağıya doğru uzanın ve halteri omuz genişliğinden biraz daha geniş olacak şekilde üstten kavrayarak kavrayın. Bacaklarınız düz ve ayaklarınız yerdeyken kollarınızı uzatarak halteri yerden kaldırın. Halteri göğsünüze doğru çekin, kürek kemiklerinizi birbirine doğru sıkıştırın. Halteri başlangıç ​​pozisyonuna indirin ve istenilen sayıda tekrar yapın.",
+    "es": "Coloca una barra en el suelo y túmbate boca abajo en un banco con el pecho justo en el borde. Estírate hacia abajo y agarra la barra con un agarre prono, un poco más ancho que el ancho de los hombros. Con las piernas rectas y los pies en el suelo, levanta la barra del suelo extendiendo los brazos. Tira de la barra hacia el pecho, juntando los omóplatos. Baja la barra de vuelta a la posición inicial y repite el número de repeticiones deseado.",
+    "ru": "Поставьте штангу на пол и лягте лицом вниз на скамью так, чтобы грудь находилась рядом с краем. Наклонитесь вниз и возьмите штангу хватом сверху, на расстоянии чуть шире плеч. Поставив ноги прямо и поставив ступни на землю, поднимите штангу от пола, вытянув руки. Подтяните штангу к груди, сведя лопатки вместе. Опустите штангу обратно в исходное положение и повторите желаемое количество повторений.",
+    "zh": "在地板上放一个杠铃，脸朝下躺在长凳上，胸部刚好离开边缘。 向下伸手，正手抓住杠铃，距离略宽于肩宽。 双腿伸直，双脚着地，伸展双臂，将杠铃提离地面。 将杠铃拉向胸部，将肩胛骨挤压在一起。 将杠铃放回起始位置，然后重复所需的重复次数。",
+    "hi": "फर्श पर एक बारबेल स्थापित करें और अपनी छाती को किनारे से थोड़ा दूर रखते हुए एक बेंच पर मुंह करके लेट जाएं। नीचे पहुंचें और बारबेल को कंधे की चौड़ाई से थोड़ा अधिक चौड़ी पकड़ के साथ पकड़ें। अपने पैरों को सीधा और पैरों को जमीन पर रखते हुए, अपनी बाहों को फैलाकर बारबेल को फर्श से उठाएं। अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए, बारबेल को अपनी छाती की ओर खींचें। बारबेल को वापस प्रारंभिक स्थिति में लाएँ और वांछित संख्या में दोहराव के लिए दोहराएँ।",
+    "pl": "Ustaw sztangę na podłodze i połóż się twarzą w dół na ławce, tak aby klatka piersiowa znajdowała się tuż za jej krawędzią. Sięgnij i chwyć sztangę chwytem nachwytem, nieco szerzej niż na szerokość barków. Trzymając nogi proste, a stopy na podłodze, unieś sztangę z podłogi, prostując ramiona. Przyciągnij sztangę w kierunku klatki piersiowej, ściągając łopatki. Opuść sztangę z powrotem do pozycji wyjściowej i powtórz zalecaną liczbę powtórzeń.",
+    "ko": "바벨을 바닥에 놓고 벤치에 얼굴을 아래로 향하게 누워서 가슴을 벤치의 가장자리 바로 위에 위치시킵니다. 손가락이 위를 향하고 어깨 너비보다 약간 더 넓게 바벨을 잡으십시오. 다리를 곧게 펴고 발을 지면에 붙인 상태에서 팔을 펴서 바벨을 바닥에서 들어올립니다. 바벨을 가슴 쪽으로 당기면서 어깨 뼈를 함께 짜십시오. 바벨을 시작 위치로 다시 내려놓고 원하는 횟수만큼 반복합니다.",
+    "fr": "Installe une barre au sol et allonge-toi face contre le banc, la poitrine juste au bord. Penche-toi et saisis la barre en prise pronation, un peu plus large que la largeur des épaules. Les jambes tendues et les pieds au sol, soulève la barre du sol en tendant tes bras. Tire la barre vers ta poitrine, en contractant tes omoplates. Abaisse la barre jusqu'à la position de départ et répète pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Set up a barbell on the floor and lie face down on a bench with your chest just off the edge.",
+      "Reach down and grab the barbell with an overhand grip, slightly wider than shoulder-width apart.",
+      "With your legs straight and feet on the ground, lift the barbell off the floor by extending your arms.",
+      "Pull the barbell towards your chest, squeezing your shoulder blades together.",
+      "Lower the barbell back down to the starting position and repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Appoggia un bilanciere sul pavimento e sdraiati a faccia in giù su una panca con il petto appena fuori dal bordo.",
+      "Allunga la mano e afferra il bilanciere con una presa sopra la mano, leggermente più larga della larghezza delle spalle.",
+      "Con le gambe dritte e i piedi a terra, solleva il bilanciere da terra estendendo le braccia.",
+      "Tira il bilanciere verso il petto, stringendo le scapole insieme.",
+      "Abbassa il bilanciere fino alla posizione iniziale e ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Yere bir halter yerleştirin ve göğsünüz kenardan biraz uzakta olacak şekilde bir bankın üzerine yüzüstü yatın.",
+      "Aşağıya doğru uzanın ve halteri omuz genişliğinden biraz daha geniş olacak şekilde üstten kavrayarak kavrayın.",
+      "Bacaklarınız düz ve ayaklarınız yerdeyken kollarınızı uzatarak halteri yerden kaldırın.",
+      "Halteri göğsünüze doğru çekin, kürek kemiklerinizi birbirine doğru sıkıştırın.",
+      "Halteri başlangıç ​​pozisyonuna indirin ve istenilen sayıda tekrar yapın."
+    ],
+    "es": [
+      "Coloca una barra en el suelo y túmbate boca abajo en un banco con el pecho justo en el borde.",
+      "Estírate hacia abajo y agarra la barra con un agarre prono, un poco más ancho que el ancho de los hombros.",
+      "Con las piernas rectas y los pies en el suelo, levanta la barra del suelo extendiendo los brazos.",
+      "Tira de la barra hacia el pecho, juntando los omóplatos.",
+      "Baja la barra de vuelta a la posición inicial y repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Поставьте штангу на пол и лягте лицом вниз на скамью так, чтобы грудь находилась рядом с краем.",
+      "Наклонитесь вниз и возьмите штангу хватом сверху, на расстоянии чуть шире плеч.",
+      "Поставив ноги прямо и поставив ступни на землю, поднимите штангу от пола, вытянув руки.",
+      "Подтяните штангу к груди, сведя лопатки вместе.",
+      "Опустите штангу обратно в исходное положение и повторите желаемое количество повторений."
+    ],
+    "zh": [
+      "在地板上放一个杠铃，脸朝下躺在长凳上，胸部刚好离开边缘。",
+      "向下伸手，正手抓住杠铃，距离略宽于肩宽。",
+      "双腿伸直，双脚着地，伸展双臂，将杠铃提离地面。",
+      "将杠铃拉向胸部，将肩胛骨挤压在一起。",
+      "将杠铃放回起始位置，然后重复所需的重复次数。"
+    ],
+    "hi": [
+      "फर्श पर एक बारबेल स्थापित करें और अपनी छाती को किनारे से थोड़ा दूर रखते हुए एक बेंच पर मुंह करके लेट जाएं।",
+      "नीचे पहुंचें और बारबेल को कंधे की चौड़ाई से थोड़ा अधिक चौड़ी पकड़ के साथ पकड़ें।",
+      "अपने पैरों को सीधा और पैरों को जमीन पर रखते हुए, अपनी बाहों को फैलाकर बारबेल को फर्श से उठाएं।",
+      "अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए, बारबेल को अपनी छाती की ओर खींचें।",
+      "बारबेल को वापस प्रारंभिक स्थिति में लाएँ और वांछित संख्या में दोहराव के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Ustaw sztangę na podłodze i połóż się twarzą w dół na ławce, tak aby klatka piersiowa znajdowała się tuż za jej krawędzią.",
+      "Sięgnij i chwyć sztangę chwytem nachwytem, nieco szerzej niż na szerokość barków.",
+      "Trzymając nogi proste, a stopy na podłodze, unieś sztangę z podłogi, prostując ramiona.",
+      "Przyciągnij sztangę w kierunku klatki piersiowej, ściągając łopatki.",
+      "Opuść sztangę z powrotem do pozycji wyjściowej i powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "바벨을 바닥에 놓고 벤치에 얼굴을 아래로 향하게 누워서 가슴을 벤치의 가장자리 바로 위에 위치시킵니다.",
+      "손가락이 위를 향하고 어깨 너비보다 약간 더 넓게 바벨을 잡으십시오.",
+      "다리를 곧게 펴고 발을 지면에 붙인 상태에서 팔을 펴서 바벨을 바닥에서 들어올립니다.",
+      "바벨을 가슴 쪽으로 당기면서 어깨 뼈를 함께 짜십시오.",
+      "바벨을 시작 위치로 다시 내려놓고 원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Installe une barre au sol et allonge-toi face contre le banc, la poitrine juste au bord.",
+      "Penche-toi et saisis la barre en prise pronation, un peu plus large que la largeur des épaules.",
+      "Les jambes tendues et les pieds au sol, soulève la barre du sol en tendant tes bras.",
+      "Tire la barre vers ta poitrine, en contractant tes omoplates.",
+      "Abaisse la barre jusqu'à la position de départ et répète pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "forearms"
+  ],
+  "target": "upper back",
+  "image": "images/0248-R5swFnc.jpg",
+  "gif_url": "videos/0248-R5swFnc.gif",
+  "media_id": "R5swFnc",
+  "created_at": "2026-03-18T12:31:32.876877+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

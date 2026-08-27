@@ -1,0 +1,126 @@
+{
+  "id": "0501",
+  "name": "jack burpee",
+  "category": "cardio",
+  "body_part": "cardio",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Start in a standing position with your feet shoulder-width apart. Lower your body into a squat position, placing your hands on the ground in front of you. Kick your feet back, landing in a push-up position. Perform a push-up, lowering your chest to the ground and then pushing back up. Jump your feet forward, landing in a squat position. Jump up explosively, reaching your arms overhead. Land softly and immediately lower back into the squat position to begin the next repetition.",
+    "it": "Inizia in posizione eretta con i piedi alla larghezza delle spalle. Abbassa il corpo in una posizione tozza, appoggiando le mani a terra davanti a te. Calcia indietro i piedi, atterrando in una posizione push-up. Esegui un push-up, abbassando il petto a terra e poi spingendolo verso l'alto. Salta i piedi in avanti, atterrando in posizione tozza. Salta in modo esplosivo, portando le braccia sopra la testa. Atterra dolcemente e abbassati immediatamente nella posizione tozza per iniziare la ripetizione successiva.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durma pozisyonunda başlayın. Ellerinizi önünüzde yere koyarak vücudunuzu çömelme pozisyonuna indirin. Ayaklarınızı geriye doğru iterek şınav pozisyonuna inin. Şınav çekin, göğsünüzü yere indirin ve ardından tekrar yukarı doğru itin. Ayaklarınızı öne doğru atlayın ve çömelme pozisyonuna inin. Patlayıcı bir şekilde zıplayın, kollarınızı başınızın üzerine uzatın. Yumuşak bir şekilde inin ve bir sonraki tekrara başlamak için hemen çömelme pozisyonuna geri dönün.",
+    "es": "Comienza de pie con los pies separados a la altura de los hombros. Baja el cuerpo a una posición de sentadilla, colocando las manos en el suelo frente a ti. Lanza los pies hacia atrás, aterrizando en posición de flexión de brazos. Realiza una flexión de brazos, bajando el pecho hacia el suelo y luego empujando de nuevo hacia arriba. Salta con los pies hacia adelante, aterrizando en posición de sentadilla. Salta hacia arriba explosivamente, llevando los brazos por encima de la cabeza. Aterriza suavemente y baja de inmediato a una posición de sentadilla para comenzar la siguiente repetición.",
+    "ru": "Начните с положения стоя, поставив ноги на ширине плеч. Опустите тело в присед, положив руки на пол перед собой. Отведите ноги назад, приземлившись в положение для отжимания. Выполните отжимание, опуская грудь на землю, а затем снова поднимаясь вверх. Прыгните ногами вперед и приземлитесь в приседе. Резко подпрыгните вверх, вытянув руки над головой. Мягко приземлитесь и сразу же опуститесь обратно в положение приседа, чтобы начать следующее повторение.",
+    "zh": "从站立位置开始，双脚分开与肩同宽。 将身体降低至蹲姿，将双手放在身前的地面上。 双脚向后踢，以俯卧撑姿势落地。 进行俯卧撑，将胸部降低到地面，然后再向上推。 双脚向前跳，以蹲姿落地。 爆发性地跳起，将双臂举过头顶。 轻轻落地并立即回到蹲姿，开始下一次重复。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए खड़े होकर शुरुआत करें। अपने शरीर को स्क्वाट स्थिति में नीचे लाएँ, अपने हाथों को अपने सामने ज़मीन पर रखें। पुश-अप स्थिति में उतरते हुए अपने पैरों को पीछे किक करें। एक पुश-अप करें, अपनी छाती को ज़मीन पर झुकाएँ और फिर वापस ऊपर की ओर धकेलें। स्क्वाट स्थिति में उतरते हुए, अपने पैरों को आगे की ओर उछालें। अपनी भुजाओं को ऊपर की ओर पहुँचाते हुए, विस्फोटक तरीके से ऊपर उठें। अगली पुनरावृत्ति शुरू करने के लिए धीरे से उतरें और तुरंत वापस स्क्वाट स्थिति में आ जाएँ।",
+    "pl": "Zacznij w pozycji stojącej ze stopami rozstawionymi na szerokość barków. Opuść ciało do przysiadu, umieszczając dłonie na podłodze przed sobą. Wyrzuć nogi do tyłu, lądując w pozycji do pompki. Wykonaj pompkę, opuszczając klatkę piersiową do podłogi, a następnie odpychając się z powrotem. Podskocz stopami do przodu, lądując w pozycji przysiadu. Wyskocz w górę eksplozywnie, sięgając ramionami nad głowę. Wyląduj miękko i od razu przejdź do przysiadu, rozpoczynając kolejne powtórzenie.",
+    "ko": "발을 어깨너비로 벌려 선 상태에서 시작합니다. 손을 앞에 바닥에 놓으면서 몸을 스쿼트 자세로 낮춥니다. 발을 뒤로 차서 푸시업 자세에 착지합니다. 푸시업을 수행하여 가슴을 바닥까지 내린 후 다시 올립니다. 발을 앞으로 뛰어 스쿼트 자세에 착지합니다. 폭발적으로 뛰어올라 팔을 머리 위로 올립니다. 부드럽게 착지한 후 다음 반복을 시작하기 위해 즉시 스쿼트 자세로 내려갑니다.",
+    "fr": "Commence en position debout, les pieds écartés à la largeur des épaules. Descends en position accroupie, en posant les mains au sol devant toi. Renvoie tes pieds vers l'arrière, en atterrissant en position de pompe. Effectue une pompe, en abaissant ta poitrine vers le sol puis en te repoussant vers le haut. Ramène tes pieds vers l'avant en sautant, en atterrissant en position de squat. Saute vers le haut de manière explosive, en tendant les bras au-dessus de ta tête. Atterris en douceur et redescends immédiatement en position de squat pour commencer la répétition suivante."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start in a standing position with your feet shoulder-width apart.",
+      "Lower your body into a squat position, placing your hands on the ground in front of you.",
+      "Kick your feet back, landing in a push-up position.",
+      "Perform a push-up, lowering your chest to the ground and then pushing back up.",
+      "Jump your feet forward, landing in a squat position.",
+      "Jump up explosively, reaching your arms overhead.",
+      "Land softly and immediately lower back into the squat position to begin the next repetition."
+    ],
+    "it": [
+      "Inizia in posizione eretta con i piedi alla larghezza delle spalle.",
+      "Abbassa il corpo in una posizione tozza, appoggiando le mani a terra davanti a te.",
+      "Calcia indietro i piedi, atterrando in una posizione push-up.",
+      "Esegui un push-up, abbassando il petto a terra e poi spingendolo verso l'alto.",
+      "Salta i piedi in avanti, atterrando in posizione tozza.",
+      "Salta in modo esplosivo, portando le braccia sopra la testa.",
+      "Atterra dolcemente e abbassati immediatamente nella posizione tozza per iniziare la ripetizione successiva."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durma pozisyonunda başlayın.",
+      "Ellerinizi önünüzde yere koyarak vücudunuzu çömelme pozisyonuna indirin.",
+      "Ayaklarınızı geriye doğru iterek şınav pozisyonuna inin.",
+      "Şınav çekin, göğsünüzü yere indirin ve ardından tekrar yukarı doğru itin.",
+      "Ayaklarınızı öne doğru atlayın ve çömelme pozisyonuna inin.",
+      "Patlayıcı bir şekilde zıplayın, kollarınızı başınızın üzerine uzatın.",
+      "Yumuşak bir şekilde inin ve bir sonraki tekrara başlamak için hemen çömelme pozisyonuna geri dönün."
+    ],
+    "es": [
+      "Comienza de pie con los pies separados a la altura de los hombros.",
+      "Baja el cuerpo a una posición de sentadilla, colocando las manos en el suelo frente a ti.",
+      "Lanza los pies hacia atrás, aterrizando en posición de flexión de brazos.",
+      "Realiza una flexión de brazos, bajando el pecho hacia el suelo y luego empujando de nuevo hacia arriba.",
+      "Salta con los pies hacia adelante, aterrizando en posición de sentadilla.",
+      "Salta hacia arriba explosivamente, llevando los brazos por encima de la cabeza.",
+      "Aterriza suavemente y baja de inmediato a una posición de sentadilla para comenzar la siguiente repetición."
+    ],
+    "ru": [
+      "Начните с положения стоя, поставив ноги на ширине плеч.",
+      "Опустите тело в присед, положив руки на пол перед собой.",
+      "Отведите ноги назад, приземлившись в положение для отжимания.",
+      "Выполните отжимание, опуская грудь на землю, а затем снова поднимаясь вверх.",
+      "Прыгните ногами вперед и приземлитесь в приседе.",
+      "Резко подпрыгните вверх, вытянув руки над головой.",
+      "Мягко приземлитесь и сразу же опуститесь обратно в положение приседа, чтобы начать следующее повторение."
+    ],
+    "zh": [
+      "从站立位置开始，双脚分开与肩同宽。",
+      "将身体降低至蹲姿，将双手放在身前的地面上。",
+      "双脚向后踢，以俯卧撑姿势落地。",
+      "进行俯卧撑，将胸部降低到地面，然后再向上推。",
+      "双脚向前跳，以蹲姿落地。",
+      "爆发性地跳起，将双臂举过头顶。",
+      "轻轻落地并立即回到蹲姿，开始下一次重复。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए खड़े होकर शुरुआत करें।",
+      "अपने शरीर को स्क्वाट स्थिति में नीचे लाएँ, अपने हाथों को अपने सामने ज़मीन पर रखें।",
+      "पुश-अप स्थिति में उतरते हुए अपने पैरों को पीछे किक करें।",
+      "एक पुश-अप करें, अपनी छाती को ज़मीन पर झुकाएँ और फिर वापस ऊपर की ओर धकेलें।",
+      "स्क्वाट स्थिति में उतरते हुए, अपने पैरों को आगे की ओर उछालें।",
+      "अपनी भुजाओं को ऊपर की ओर पहुँचाते हुए, विस्फोटक तरीके से ऊपर उठें।",
+      "अगली पुनरावृत्ति शुरू करने के लिए धीरे से उतरें और तुरंत वापस स्क्वाट स्थिति में आ जाएँ।"
+    ],
+    "pl": [
+      "Zacznij w pozycji stojącej ze stopami rozstawionymi na szerokość barków.",
+      "Opuść ciało do przysiadu, umieszczając dłonie na podłodze przed sobą.",
+      "Wyrzuć nogi do tyłu, lądując w pozycji do pompki.",
+      "Wykonaj pompkę, opuszczając klatkę piersiową do podłogi, a następnie odpychając się z powrotem.",
+      "Podskocz stopami do przodu, lądując w pozycji przysiadu.",
+      "Wyskocz w górę eksplozywnie, sięgając ramionami nad głowę.",
+      "Wyląduj miękko i od razu przejdź do przysiadu, rozpoczynając kolejne powtórzenie."
+    ],
+    "ko": [
+      "발을 어깨너비로 벌려 선 상태에서 시작합니다.",
+      "손을 앞에 바닥에 놓으면서 몸을 스쿼트 자세로 낮춥니다.",
+      "발을 뒤로 차서 푸시업 자세에 착지합니다.",
+      "푸시업을 수행하여 가슴을 바닥까지 내린 후 다시 올립니다.",
+      "발을 앞으로 뛰어 스쿼트 자세에 착지합니다.",
+      "폭발적으로 뛰어올라 팔을 머리 위로 올립니다.",
+      "부드럽게 착지한 후 다음 반복을 시작하기 위해 즉시 스쿼트 자세로 내려갑니다."
+    ],
+    "fr": [
+      "Commence en position debout, les pieds écartés à la largeur des épaules.",
+      "Descends en position accroupie, en posant les mains au sol devant toi.",
+      "Renvoie tes pieds vers l'arrière, en atterrissant en position de pompe.",
+      "Effectue une pompe, en abaissant ta poitrine vers le sol puis en te repoussant vers le haut.",
+      "Ramène tes pieds vers l'avant en sautant, en atterrissant en position de squat.",
+      "Saute vers le haut de manière explosive, en tendant les bras au-dessus de ta tête.",
+      "Atterris en douceur et redescends immédiatement en position de squat pour commencer la répétition suivante."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves",
+    "shoulders",
+    "triceps",
+    "core"
+  ],
+  "target": "cardiovascular system",
+  "image": "images/0501-mr7pkqP.jpg",
+  "gif_url": "videos/0501-mr7pkqP.gif",
+  "media_id": "mr7pkqP",
+  "created_at": "2026-03-18T12:31:32.884774+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

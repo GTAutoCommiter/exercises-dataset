@@ -1,0 +1,124 @@
+{
+  "id": "3361",
+  "name": "skater hops",
+  "category": "cardio",
+  "body_part": "cardio",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart. Bend your knees slightly and jump to the right, landing on your right foot. As you land, swing your left leg behind your right leg and tap the ground with your left toes. Immediately jump to the left, landing on your left foot. As you land, swing your right leg behind your left leg and tap the ground with your right toes. Continue alternating sides, jumping and tapping the ground with each leg. Repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi alla larghezza delle spalle. Piega leggermente le ginocchia e salta a destra, atterrando sul piede destro. Mentre atterri, porta la gamba sinistra dietro quella destra e tocca il terreno con la punta del piede sinistro. Salta immediatamente a sinistra, atterrando con il piede sinistro. Mentre atterri, porta la gamba destra dietro quella sinistra e tocca il terreno con la punta del piede destro. Continua ad alternare i lati, saltando e toccando il terreno con ciascuna gamba. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durun. Dizlerinizi hafifçe bükün ve sağa doğru atlayarak sağ ayağınızın üzerine inin. İnerken sol bacağınızı sağ bacağınızın arkasına doğru sallayın ve sol ayak parmaklarınızla yere vurun. Hemen sola atlayın ve sol ayağınızın üzerine inin. İnerken sağ bacağınızı sol bacağınızın arkasına doğru sallayın ve sağ ayak parmaklarınızla yere vurun. Tarafları değiştirerek, zıplayarak ve her bacakla yere vurarak devam edin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros. Dobla ligeramente las rodillas y salta hacia la derecha, aterrizando sobre el pie derecho. Al aterrizar, balancea la pierna izquierda detrás de la pierna derecha y toca el suelo con los dedos del pie izquierdo. Salta inmediatamente hacia la izquierda, aterrizando sobre el pie izquierdo. Al aterrizar, balancea la pierna derecha detrás de la pierna izquierda y toca el suelo con los dedos del pie derecho. Continúa alternando los lados, saltando y tocando el suelo con cada pierna. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч. Слегка согните колени и прыгните вправо, приземлившись на правую ногу. При приземлении заведите левую ногу за правую и коснитесь земли пальцами левой ноги. Сразу же прыгните влево, приземлившись на левую ногу. При приземлении заведите правую ногу за левую и коснитесь земли пальцами правой ноги. Продолжайте чередовать стороны, подпрыгивая и постукивая по земле каждой ногой. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立。 稍微弯曲膝盖，向右跳，右脚着地。 落地时，将左腿摆动到右腿后面，并用左脚趾敲击地面。 立即向左侧跳跃，左脚着地。 落地时，将右腿摆动到左腿后面，并用右脚趾敲击地面。 继续交替两侧，跳跃并用每条腿敲击地面。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई की दूरी पर रखकर खड़े हो जाएं। अपने घुटनों को थोड़ा मोड़ें और अपने दाहिने पैर पर उतरते हुए दाईं ओर कूदें। जैसे ही आप उतरें, अपने बाएं पैर को अपने दाहिने पैर के पीछे झुकाएं और अपने बाएं पैर की उंगलियों से जमीन को थपथपाएं। अपने बाएं पैर पर उतरते हुए तुरंत बाईं ओर कूदें। जैसे ही आप उतरें, अपने दाहिने पैर को अपने बाएं पैर के पीछे झुकाएं और अपने दाहिने पैर की उंगलियों से जमीन को थपथपाएं। बारी-बारी से करवट बदलना जारी रखें, कूदें और प्रत्येक पैर से ज़मीन को थपथपाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań w rozkroku na szerokość barków. Ugnij lekko kolana i wykonaj skok w prawo, lądując na prawej stopie. Podczas lądowania przenieś lewą nogę za prawą i dotknij podłogi lewymi palcami stopy. Natychmiast wykonaj skok w lewo, lądując na lewej stopie. Podczas lądowania przenieś prawą nogę za lewą i dotknij podłogi prawymi palcami stopy. Kontynuuj naprzemienne skoki, dotykając podłogi każdą nogą. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "발을 어깨 너비만큼 벌려서 서세요. 무릎을 약간 구부려서 오른쪽으로 점프하여 오른발에 착지하세요. 착지할 때 왼쪽 다리를 오른쪽 다리 뒤로 스윙하고 왼발 발가락으로 땅을 톡톡 치세요. 즉시 왼쪽으로 점프하여 왼발에 착지하세요. 착지할 때 오른쪽 다리를 왼쪽 다리 뒤로 스윙하고 오른발 발가락으로 땅을 톡톡 치세요. 양쪽을 번갈아 가며 점프하고 각 다리로 땅을 톡톡 치세요. 원하는 반복 횟수만큼 반복하세요.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules. Fléchis légèrement les genoux et saute vers la droite en atterrissant sur ton pied droit. À l'atterrissage, balance ta jambe gauche derrière ta jambe droite et touche le sol avec les orteils de ton pied gauche. Saute immédiatement vers la gauche, en atterrissant sur ton pied gauche. À l'atterrissage, balance ta jambe droite derrière ta jambe gauche et touche le sol avec les orteils de ton pied droit. Continue à alterner les côtés, en sautant et en touchant le sol avec chaque jambe. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart.",
+      "Bend your knees slightly and jump to the right, landing on your right foot.",
+      "As you land, swing your left leg behind your right leg and tap the ground with your left toes.",
+      "Immediately jump to the left, landing on your left foot.",
+      "As you land, swing your right leg behind your left leg and tap the ground with your right toes.",
+      "Continue alternating sides, jumping and tapping the ground with each leg.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle.",
+      "Piega leggermente le ginocchia e salta a destra, atterrando sul piede destro.",
+      "Mentre atterri, porta la gamba sinistra dietro quella destra e tocca il terreno con la punta del piede sinistro.",
+      "Salta immediatamente a sinistra, atterrando con il piede sinistro.",
+      "Mentre atterri, porta la gamba destra dietro quella sinistra e tocca il terreno con la punta del piede destro.",
+      "Continua ad alternare i lati, saltando e toccando il terreno con ciascuna gamba.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durun.",
+      "Dizlerinizi hafifçe bükün ve sağa doğru atlayarak sağ ayağınızın üzerine inin.",
+      "İnerken sol bacağınızı sağ bacağınızın arkasına doğru sallayın ve sol ayak parmaklarınızla yere vurun.",
+      "Hemen sola atlayın ve sol ayağınızın üzerine inin.",
+      "İnerken sağ bacağınızı sol bacağınızın arkasına doğru sallayın ve sağ ayak parmaklarınızla yere vurun.",
+      "Tarafları değiştirerek, zıplayarak ve her bacakla yere vurarak devam edin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros.",
+      "Dobla ligeramente las rodillas y salta hacia la derecha, aterrizando sobre el pie derecho.",
+      "Al aterrizar, balancea la pierna izquierda detrás de la pierna derecha y toca el suelo con los dedos del pie izquierdo.",
+      "Salta inmediatamente hacia la izquierda, aterrizando sobre el pie izquierdo.",
+      "Al aterrizar, balancea la pierna derecha detrás de la pierna izquierda y toca el suelo con los dedos del pie derecho.",
+      "Continúa alternando los lados, saltando y tocando el suelo con cada pierna.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч.",
+      "Слегка согните колени и прыгните вправо, приземлившись на правую ногу.",
+      "При приземлении заведите левую ногу за правую и коснитесь земли пальцами левой ноги.",
+      "Сразу же прыгните влево, приземлившись на левую ногу.",
+      "При приземлении заведите правую ногу за левую и коснитесь земли пальцами правой ноги.",
+      "Продолжайте чередовать стороны, подпрыгивая и постукивая по земле каждой ногой.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立。",
+      "稍微弯曲膝盖，向右跳，右脚着地。",
+      "落地时，将左腿摆动到右腿后面，并用左脚趾敲击地面。",
+      "立即向左侧跳跃，左脚着地。",
+      "落地时，将右腿摆动到左腿后面，并用右脚趾敲击地面。",
+      "继续交替两侧，跳跃并用每条腿敲击地面。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई की दूरी पर रखकर खड़े हो जाएं।",
+      "अपने घुटनों को थोड़ा मोड़ें और अपने दाहिने पैर पर उतरते हुए दाईं ओर कूदें।",
+      "जैसे ही आप उतरें, अपने बाएं पैर को अपने दाहिने पैर के पीछे झुकाएं और अपने बाएं पैर की उंगलियों से जमीन को थपथपाएं।",
+      "अपने बाएं पैर पर उतरते हुए तुरंत बाईं ओर कूदें।",
+      "जैसे ही आप उतरें, अपने दाहिने पैर को अपने बाएं पैर के पीछे झुकाएं और अपने दाहिने पैर की उंगलियों से जमीन को थपथपाएं।",
+      "बारी-बारी से करवट बदलना जारी रखें, कूदें और प्रत्येक पैर से ज़मीन को थपथपाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków.",
+      "Ugnij lekko kolana i wykonaj skok w prawo, lądując na prawej stopie.",
+      "Podczas lądowania przenieś lewą nogę za prawą i dotknij podłogi lewymi palcami stopy.",
+      "Natychmiast wykonaj skok w lewo, lądując na lewej stopie.",
+      "Podczas lądowania przenieś prawą nogę za lewą i dotknij podłogi prawymi palcami stopy.",
+      "Kontynuuj naprzemienne skoki, dotykając podłogi każdą nogą.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 너비만큼 벌려서 서세요.",
+      "무릎을 약간 구부려서 오른쪽으로 점프하여 오른발에 착지하세요.",
+      "착지할 때 왼쪽 다리를 오른쪽 다리 뒤로 스윙하고 왼발 발가락으로 땅을 톡톡 치세요.",
+      "즉시 왼쪽으로 점프하여 왼발에 착지하세요.",
+      "착지할 때 오른쪽 다리를 왼쪽 다리 뒤로 스윙하고 오른발 발가락으로 땅을 톡톡 치세요.",
+      "양쪽을 번갈아 가며 점프하고 각 다리로 땅을 톡톡 치세요.",
+      "원하는 반복 횟수만큼 반복하세요."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules.",
+      "Fléchis légèrement les genoux et saute vers la droite en atterrissant sur ton pied droit.",
+      "À l'atterrissage, balance ta jambe gauche derrière ta jambe droite et touche le sol avec les orteils de ton pied gauche.",
+      "Saute immédiatement vers la gauche, en atterrissant sur ton pied gauche.",
+      "À l'atterrissage, balance ta jambe droite derrière ta jambe gauche et touche le sol avec les orteils de ton pied droit.",
+      "Continue à alterner les côtés, en sautant et en touchant le sol avec chaque jambe.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "glutes",
+    "calves"
+  ],
+  "target": "cardiovascular system",
+  "image": "images/3361-zfNHMN9.jpg",
+  "gif_url": "videos/3361-zfNHMN9.gif",
+  "media_id": "zfNHMN9",
+  "created_at": "2026-03-18T12:31:32.890062+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

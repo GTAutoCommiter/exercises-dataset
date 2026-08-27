@@ -1,0 +1,93 @@
+{
+  "id": "0663",
+  "name": "push-up medicine ball",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "medicine ball",
+  "instructions": {
+    "en": "Start in a high plank position with your hands on the medicine ball, shoulder-width apart. Engage your core and lower your body towards the ground by bending your elbows, keeping your back straight. Push through your palms to extend your arms and return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Inizia in una posizione di plancia alta con le mani sulla palla medica, alla larghezza delle spalle. Coinvolgi il core e abbassa il corpo verso terra piegando i gomiti e mantenendo la schiena dritta. Spingi attraverso i palmi delle mani per estendere le braccia e tornare alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Elleriniz sağlık topunun üzerinde, omuz genişliğinde açık olacak şekilde yüksek plank pozisyonunda başlayın. Merkez bölgenizi devreye sokun ve dirseklerinizi bükerek, sırtınızı düz tutarak vücudunuzu yere doğru indirin. Kollarınızı uzatmak ve başlangıç ​​pozisyonuna dönmek için avuçlarınızı itin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Comienza en una posición de plancha alta con las manos sobre el balón medicinal, separadas a la altura de los hombros. Activa el core y baja el cuerpo hacia el suelo flexionando los codos, manteniendo la espalda recta. Empuja con las palmas para extender los brazos y regresar a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Начните с позиции высокой планки, положив руки на медицинский мяч на ширине плеч. Напрягите корпус и опустите тело к земле, сгибая локти, сохраняя спину прямой. Оттолкнитесь ладонями, чтобы вытянуть руки и вернуться в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "从高平板支撑位置开始，双手放在健身球上，距离与肩同宽。 弯曲肘部，保持背部挺直，调动核心力量，将身体降低至地面。 推动手掌以伸展手臂并返回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने हाथों को मेडिसिन बॉल पर कंधे-चौड़ाई की दूरी पर रखकर ऊंची तख़्त स्थिति में शुरुआत करें। अपने कोर को संलग्न करें और अपनी कोहनियों को मोड़कर, अपनी पीठ को सीधा रखते हुए अपने शरीर को जमीन की ओर नीचे करें। अपनी हथेलियों से धक्का देकर अपनी भुजाओं को फैलाएं और प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Rozpocznij w wysokiej pozycji deski z dłońmi na piłce lekarskiej, w rozkroku na szerokość barków. Napnij mięśnie brzucha i opuść ciało w kierunku podłogi, uginając łokcie i trzymając plecy proste. Odepchnij się dłońmi, prostując ręce, aby wrócić do pozycji wyjściowej. Powtórz zalecaną liczbę razy.",
+    "ko": "손이 어깨 너비로 벌려져 의료용 공 위에 있으면서 높은 플랭크 자세를 취합니다. 코어를 조여 팔꿈치를 구부려 몸을 땅 쪽으로 낮추면서 등을 펴줍니다. 손바닥으로 밀어 팔을 펴고 처음 자세로 돌아옵니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Commence en position de planche haute, les mains sur le médecine-ball, écartées à la largeur des épaules. Gaine ta sangle abdominale et abaisse ton corps vers le sol en pliant tes coudes, en gardant ton dos droit. Pousse à travers tes paumes pour étendre tes bras et revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start in a high plank position with your hands on the medicine ball, shoulder-width apart.",
+      "Engage your core and lower your body towards the ground by bending your elbows, keeping your back straight.",
+      "Push through your palms to extend your arms and return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia in una posizione di plancia alta con le mani sulla palla medica, alla larghezza delle spalle.",
+      "Coinvolgi il core e abbassa il corpo verso terra piegando i gomiti e mantenendo la schiena dritta.",
+      "Spingi attraverso i palmi delle mani per estendere le braccia e tornare alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Elleriniz sağlık topunun üzerinde, omuz genişliğinde açık olacak şekilde yüksek plank pozisyonunda başlayın.",
+      "Merkez bölgenizi devreye sokun ve dirseklerinizi bükerek, sırtınızı düz tutarak vücudunuzu yere doğru indirin.",
+      "Kollarınızı uzatmak ve başlangıç ​​pozisyonuna dönmek için avuçlarınızı itin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Comienza en una posición de plancha alta con las manos sobre el balón medicinal, separadas a la altura de los hombros.",
+      "Activa el core y baja el cuerpo hacia el suelo flexionando los codos, manteniendo la espalda recta.",
+      "Empuja con las palmas para extender los brazos y regresar a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с позиции высокой планки, положив руки на медицинский мяч на ширине плеч.",
+      "Напрягите корпус и опустите тело к земле, сгибая локти, сохраняя спину прямой.",
+      "Оттолкнитесь ладонями, чтобы вытянуть руки и вернуться в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "从高平板支撑位置开始，双手放在健身球上，距离与肩同宽。",
+      "弯曲肘部，保持背部挺直，调动核心力量，将身体降低至地面。",
+      "推动手掌以伸展手臂并返回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने हाथों को मेडिसिन बॉल पर कंधे-चौड़ाई की दूरी पर रखकर ऊंची तख़्त स्थिति में शुरुआत करें।",
+      "अपने कोर को संलग्न करें और अपनी कोहनियों को मोड़कर, अपनी पीठ को सीधा रखते हुए अपने शरीर को जमीन की ओर नीचे करें।",
+      "अपनी हथेलियों से धक्का देकर अपनी भुजाओं को फैलाएं और प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Rozpocznij w wysokiej pozycji deski z dłońmi na piłce lekarskiej, w rozkroku na szerokość barków.",
+      "Napnij mięśnie brzucha i opuść ciało w kierunku podłogi, uginając łokcie i trzymając plecy proste.",
+      "Odepchnij się dłońmi, prostując ręce, aby wrócić do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "손이 어깨 너비로 벌려져 의료용 공 위에 있으면서 높은 플랭크 자세를 취합니다.",
+      "코어를 조여 팔꿈치를 구부려 몸을 땅 쪽으로 낮추면서 등을 펴줍니다.",
+      "손바닥으로 밀어 팔을 펴고 처음 자세로 돌아옵니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Commence en position de planche haute, les mains sur le médecine-ball, écartées à la largeur des épaules.",
+      "Gaine ta sangle abdominale et abaisse ton corps vers le sol en pliant tes coudes, en gardant ton dos droit.",
+      "Pousse à travers tes paumes pour étendre tes bras et revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "shoulders",
+    "core"
+  ],
+  "target": "pectorals",
+  "image": "images/0663-W8KAlkI.jpg",
+  "gif_url": "videos/0663-W8KAlkI.gif",
+  "media_id": "W8KAlkI",
+  "created_at": "2026-03-18T12:31:32.888626+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

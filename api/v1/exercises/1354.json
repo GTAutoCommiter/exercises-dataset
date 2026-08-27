@@ -1,0 +1,102 @@
+{
+  "id": "1354",
+  "name": "medicine ball overhead slam",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "medicine ball",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart, holding a medicine ball with both hands above your head. Engage your core and keep your back straight. Bend your knees slightly and forcefully slam the medicine ball down to the ground in front of you. As you slam the ball down, use your entire body to generate power, including your shoulders and core. Catch the ball on the bounce and repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi alla larghezza delle spalle, tenendo una palla medica con entrambe le mani sopra la testa. Coinvolgi il tuo core e mantieni la schiena dritta. Bend your knees slightly and forcefully slam the medicine ball down to the ground in front of you. Mentre sbatti la palla, usa tutto il corpo per generare potenza, comprese le spalle e il core. Prendi la palla sul rimbalzo e ripeti per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınızı omuz genişliğinde açın ve sağlık topunu iki elinizle başınızın üzerinde tutun. Merkez bölgenizi devreye sokun ve sırtınızı düz tutun. Dizlerinizi hafifçe bükün ve sağlık topunu önünüzdeki yere kuvvetli bir şekilde vurun. Topu yere vururken güç üretmek için omuzlarınız ve göbek bölgeniz dahil tüm vücudunuzu kullanın. Topu zıplarken yakalayın ve istediğiniz sayıda tekrar yapın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros, sosteniendo un balón medicinal con ambas manos por encima de la cabeza. Activa el core y mantén la espalda recta. Flexiona ligeramente las rodillas y lanza con fuerza el balón medicinal contra el suelo frente a ti. Al lanzar el balón al suelo, utiliza todo el cuerpo para generar potencia, incluidos los hombros y el core. Atrapa el balón al rebotar y repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, держите медицинский мяч обеими руками над головой. Напрягите корпус и держите спину прямо. Слегка согните ноги в коленях и с силой швырните медицинский мяч на землю перед собой. Когда вы бросаете мяч, используйте все свое тело для создания силы, включая плечи и корпус. Поймайте мяч на отскоке и повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，双手握住药球举过头顶。 启动你的核心并保持背部挺直。 稍微弯曲膝盖，用力将药球摔到你面前的地面上。 当你击球时，用你的整个身体来产生力量，包括你的肩膀和核心。 接住球的弹跳并重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, अपने सिर के ऊपर दोनों हाथों से एक मेडिसिन बॉल पकड़ें। अपने कोर को व्यस्त रखें और अपनी पीठ सीधी रखें। अपने घुटनों को थोड़ा मोड़ें और दवा की गेंद को अपने सामने जमीन पर जोर से पटकें। जैसे ही आप गेंद को नीचे पटकते हैं, अपने कंधों और कोर सहित, शक्ति उत्पन्न करने के लिए अपने पूरे शरीर का उपयोग करें। उछाल पर गेंद को पकड़ें और वांछित संख्या में दोहराव के लिए दोहराएं।",
+    "pl": "Stań w rozkroku na szerokość barków, trzymając piłkę lekarską oburącz nad głową. Napnij mięśnie tułowia i trzymaj plecy proste. Ugnij lekko kolana i z siłą uderz piłką lekarską o podłogę przed sobą. Uderzając piłką o podłogę, użyj całego ciała do generowania siły, w tym barków i tułowia. Złap piłkę po odbiciu i powtórz zadaną liczbę powtórzeń.",
+    "ko": "어깨 너비로 발을 벌리고 서서 양손으로 메디신볼을 머리 위에 들고 있습니다. 코어에 힘을 주고 등을 쭉 펴고 유지합니다. 무릎을 약간 구부려 메디신볼을 앞쪽 땅을 향해 힘껏 집어던집니다. 공을 내려치면서 어깨와 코어를 포함한 전체 몸을 사용해 파워를 생성합니다. 튀어나오는 공을 캐치해서 원하는 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un médecine-ball à deux mains au-dessus de ta tête. Gaine ta sangle abdominale et garde ton dos droit. Fléchis légèrement les genoux et projette avec force le médecine-ball au sol devant toi. En claquant le ballon vers le sol, utilise tout ton corps pour générer de la puissance, y compris tes épaules et ta sangle abdominale. Attrape la balle au rebond et répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart, holding a medicine ball with both hands above your head.",
+      "Engage your core and keep your back straight.",
+      "Bend your knees slightly and forcefully slam the medicine ball down to the ground in front of you.",
+      "As you slam the ball down, use your entire body to generate power, including your shoulders and core.",
+      "Catch the ball on the bounce and repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle, tenendo una palla medica con entrambe le mani sopra la testa.",
+      "Coinvolgi il tuo core e mantieni la schiena dritta.",
+      "Piega leggermente le ginocchia e sbatti con forza la palla medica a terra davanti a te.",
+      "Mentre sbatti la palla, usa tutto il corpo per generare potenza, comprese le spalle e il core.",
+      "Prendi la palla sul rimbalzo e ripeti per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınızı omuz genişliğinde açın ve sağlık topunu iki elinizle başınızın üzerinde tutun.",
+      "Merkez bölgenizi devreye sokun ve sırtınızı düz tutun.",
+      "Dizlerinizi hafifçe bükün ve sağlık topunu önünüzdeki yere kuvvetli bir şekilde vurun.",
+      "Topu yere vururken güç üretmek için omuzlarınız ve göbek bölgeniz dahil tüm vücudunuzu kullanın.",
+      "Topu zıplarken yakalayın ve istediğiniz sayıda tekrar yapın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros, sosteniendo un balón medicinal con ambas manos por encima de la cabeza.",
+      "Activa el core y mantén la espalda recta.",
+      "Flexiona ligeramente las rodillas y lanza con fuerza el balón medicinal contra el suelo frente a ti.",
+      "Al lanzar el balón al suelo, utiliza todo el cuerpo para generar potencia, incluidos los hombros y el core.",
+      "Atrapa el balón al rebotar y repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, держите медицинский мяч обеими руками над головой.",
+      "Напрягите корпус и держите спину прямо.",
+      "Слегка согните ноги в коленях и с силой швырните медицинский мяч на землю перед собой.",
+      "Когда вы бросаете мяч, используйте все свое тело для создания силы, включая плечи и корпус.",
+      "Поймайте мяч на отскоке и повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，双手握住药球举过头顶。",
+      "启动你的核心并保持背部挺直。",
+      "稍微弯曲膝盖，用力将药球摔到你面前的地面上。",
+      "当你击球时，用你的整个身体来产生力量，包括你的肩膀和核心。",
+      "接住球的弹跳并重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, अपने सिर के ऊपर दोनों हाथों से एक मेडिसिन बॉल पकड़ें।",
+      "अपने कोर को व्यस्त रखें और अपनी पीठ सीधी रखें।",
+      "अपने घुटनों को थोड़ा मोड़ें और दवा की गेंद को अपने सामने जमीन पर जोर से पटकें।",
+      "जैसे ही आप गेंद को नीचे पटकते हैं, अपने कंधों और कोर सहित, शक्ति उत्पन्न करने के लिए अपने पूरे शरीर का उपयोग करें।",
+      "उछाल पर गेंद को पकड़ें और वांछित संख्या में दोहराव के लिए दोहराएं।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków, trzymając piłkę lekarską oburącz nad głową.",
+      "Napnij mięśnie tułowia i trzymaj plecy proste.",
+      "Ugnij lekko kolana i z siłą uderz piłką lekarską o podłogę przed sobą.",
+      "Uderzając piłką o podłogę, użyj całego ciała do generowania siły, w tym barków i tułowia.",
+      "Złap piłkę po odbiciu i powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "어깨 너비로 발을 벌리고 서서 양손으로 메디신볼을 머리 위에 들고 있습니다.",
+      "코어에 힘을 주고 등을 쭉 펴고 유지합니다.",
+      "무릎을 약간 구부려 메디신볼을 앞쪽 땅을 향해 힘껏 집어던집니다.",
+      "공을 내려치면서 어깨와 코어를 포함한 전체 몸을 사용해 파워를 생성합니다.",
+      "튀어나오는 공을 캐치해서 원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un médecine-ball à deux mains au-dessus de ta tête.",
+      "Gaine ta sangle abdominale et garde ton dos droit.",
+      "Fléchis légèrement les genoux et projette avec force le médecine-ball au sol devant toi.",
+      "En claquant le ballon vers le sol, utilise tout ton corps pour générer de la puissance, y compris tes épaules et ta sangle abdominale.",
+      "Attrape la balle au rebond et répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "core"
+  ],
+  "target": "upper back",
+  "image": "images/1354-oHg8eop.jpg",
+  "gif_url": "videos/1354-oHg8eop.gif",
+  "media_id": "oHg8eop",
+  "created_at": "2026-03-18T12:31:32.887668+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

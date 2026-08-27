@@ -1,0 +1,112 @@
+{
+  "id": "0112",
+  "name": "barbell standing twist",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and hold a barbell in front of your chest with both hands, palms facing down. Engage your core and keep your back straight throughout the exercise. Slowly twist your torso to the right, pivoting on your feet and hips, while keeping your lower body stable. Pause for a moment at the end of the twist, then slowly return to the starting position. Repeat the twist to the left side. Continue alternating twists for the desired number of repetitions.",
+    "it": "Stai con i piedi a larghezza delle spalle e tieni un bilanciere davanti al petto con entrambe le mani, palmi rivolti verso il basso. Attiva il core e tieni la schiena dritta durante tutto l'esercizio. Ruota lentamente il busto verso destra, ruotando su piedi e fianchi, mantenendo stabile la parte inferiore del corpo. Fermati un attimo alla fine della torsione, poi torna lentamente alla posizione iniziale. Ripeti la torsione verso sinistra. Continua ad alternare le torsioni per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınızı omuz genişliğinde açın ve halterinizi avuçlarınız aşağıya bakacak şekilde iki elinizle göğsünüzün önünde tutun. Merkez bölgenizi devreye sokun ve egzersiz boyunca sırtınızı düz tutun. Alt vücudunuzu sabit tutarken, ayaklarınız ve kalçalarınız üzerinde dönerek gövdenizi yavaşça sağa doğru çevirin. Dönüşün sonunda bir süre duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün. Bükmeyi sol tarafa doğru tekrarlayın. İstenilen sayıda tekrar için dönüşümlü bükümlere devam edin.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y sujeta una barra frente al pecho con ambas manos, palmas hacia abajo. Activa el core y mantén la espalda recta durante todo el ejercicio. Gira lentamente el torso hacia la derecha, pivotando sobre los pies y las caderas, mientras mantienes estable la parte inferior del cuerpo. Haz una pausa por un momento al final de la rotación, luego regresa lentamente a la posición inicial. Repite el giro hacia el lado izquierdo. Continúa alternando los giros el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, держите штангу перед грудью обеими руками ладонями вниз. Напрягите корпус и держите спину прямо на протяжении всего упражнения. Медленно поверните туловище вправо, поворачиваясь на ступнях и бедрах, сохраняя при этом нижнюю часть тела устойчивой. Сделайте небольшую паузу в конце поворота, затем медленно вернитесь в исходное положение. Повторите поворот в левую сторону. Продолжайте чередовать скручивания желаемое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，双手握住杠铃于胸前，掌心朝下。 在整个练习过程中启动你的核心并保持背部挺直。 慢慢地将躯干向右扭转，以脚和臀部为轴，同时保持下半身稳定。 扭转结束时暂停片刻，然后慢慢回到起始位置。 向左侧重复扭转。 继续交替扭转所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई की दूरी पर फैलाकर खड़े हो जाएं और दोनों हाथों से अपनी छाती के सामने एक बारबेल पकड़ें, हथेलियाँ नीचे की ओर हों। पूरे अभ्यास के दौरान अपने कोर को व्यस्त रखें और अपनी पीठ सीधी रखें। धीरे-धीरे अपने धड़ को दाहिनी ओर मोड़ें, अपने पैरों और कूल्हों पर घुमाएँ, जबकि अपने निचले शरीर को स्थिर रखें। मोड़ के अंत में एक पल के लिए रुकें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं। बाईं ओर मोड़ को दोहराएं। पुनरावृत्ति की वांछित संख्या के लिए बारी-बारी से मोड़ जारी रखें।",
+    "pl": "Stań ze stopami na szerokość barków, trzymając sztangę przed klatką piersiową obiema rękami, dłońmi skierowanymi w dół. Napnij mięśnie brzucha i trzymaj plecy proste przez cały czas trwania ćwiczenia. Powoli skręć tułów w prawą stronę, obracając się na stopach i biodrach, jednocześnie utrzymując stabilność dolnej części ciała. Zatrzymaj się na chwilę na końcu skrętu, a następnie powoli wróć do pozycji wyjściowej. Powtórz skręt w lewą stronę. Kontynuuj naprzemienne skręty przez zadaną liczbę powtórzeń.",
+    "ko": "발을 어깨 너비로 벌리고 서서 바벨을 가슴 앞에서 양손으로 손바닥이 아래를 향하도록 들고 있습니다. 핵심부를 단단히 조이고 운동 내내 등을 펴서 유지합니다. 발과 골반을 축으로 하면서 몸의 아래쪽은 안정적으로 유지하고 오른쪽으로 천천히 상체를 트위스트합니다. 트위스트의 끝에서 잠시 멈춘 후 천천히 시작 위치로 돌아옵니다. 왼쪽으로 트위스트를 반복합니다. 원하는 반복 횟수만큼 트위스트를 교대로 계속합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens une barre devant ta poitrine à deux mains, paumes tournées vers le bas. Gaine ta sangle abdominale et garde ton dos droit tout au long de l'exercice. Tourne lentement ton torse vers la droite, en pivotant sur tes pieds et tes hanches, tout en gardant le bas de ton corps stable. Marque une pause à la fin de la torsion, puis reviens lentement à la position de départ. Répète la torsion vers le côté gauche. Continue à alterner les torsions pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and hold a barbell in front of your chest with both hands, palms facing down.",
+      "Engage your core and keep your back straight throughout the exercise.",
+      "Slowly twist your torso to the right, pivoting on your feet and hips, while keeping your lower body stable.",
+      "Pause for a moment at the end of the twist, then slowly return to the starting position.",
+      "Repeat the twist to the left side.",
+      "Continue alternating twists for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi a larghezza delle spalle e tieni un bilanciere davanti al petto con entrambe le mani, palmi rivolti verso il basso.",
+      "Attiva il core e tieni la schiena dritta durante tutto l'esercizio.",
+      "Ruota lentamente il busto verso destra, ruotando su piedi e fianchi, mantenendo stabile la parte inferiore del corpo.",
+      "Fermati un attimo alla fine della torsione, poi torna lentamente alla posizione iniziale.",
+      "Ripeti la torsione verso sinistra.",
+      "Continua ad alternare le torsioni per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınızı omuz genişliğinde açın ve halterinizi avuçlarınız aşağıya bakacak şekilde iki elinizle göğsünüzün önünde tutun.",
+      "Merkez bölgenizi devreye sokun ve egzersiz boyunca sırtınızı düz tutun.",
+      "Alt vücudunuzu sabit tutarken, ayaklarınız ve kalçalarınız üzerinde dönerek gövdenizi yavaşça sağa doğru çevirin.",
+      "Dönüşün sonunda bir süre duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün.",
+      "Bükmeyi sol tarafa doğru tekrarlayın.",
+      "İstenilen sayıda tekrar için dönüşümlü bükümlere devam edin."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y sujeta una barra frente al pecho con ambas manos, palmas hacia abajo.",
+      "Activa el core y mantén la espalda recta durante todo el ejercicio.",
+      "Gira lentamente el torso hacia la derecha, pivotando sobre los pies y las caderas, mientras mantienes estable la parte inferior del cuerpo.",
+      "Haz una pausa por un momento al final de la rotación, luego regresa lentamente a la posición inicial.",
+      "Repite el giro hacia el lado izquierdo.",
+      "Continúa alternando los giros el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, держите штангу перед грудью обеими руками ладонями вниз.",
+      "Напрягите корпус и держите спину прямо на протяжении всего упражнения.",
+      "Медленно поверните туловище вправо, поворачиваясь на ступнях и бедрах, сохраняя при этом нижнюю часть тела устойчивой.",
+      "Сделайте небольшую паузу в конце поворота, затем медленно вернитесь в исходное положение.",
+      "Повторите поворот в левую сторону.",
+      "Продолжайте чередовать скручивания желаемое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，双手握住杠铃于胸前，掌心朝下。",
+      "在整个练习过程中启动你的核心并保持背部挺直。",
+      "慢慢地将躯干向右扭转，以脚和臀部为轴，同时保持下半身稳定。",
+      "扭转结束时暂停片刻，然后慢慢回到起始位置。",
+      "向左侧重复扭转。",
+      "继续交替扭转所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई की दूरी पर फैलाकर खड़े हो जाएं और दोनों हाथों से अपनी छाती के सामने एक बारबेल पकड़ें, हथेलियाँ नीचे की ओर हों।",
+      "पूरे अभ्यास के दौरान अपने कोर को व्यस्त रखें और अपनी पीठ सीधी रखें।",
+      "धीरे-धीरे अपने धड़ को दाहिनी ओर मोड़ें, अपने पैरों और कूल्हों पर घुमाएँ, जबकि अपने निचले शरीर को स्थिर रखें।",
+      "मोड़ के अंत में एक पल के लिए रुकें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं।",
+      "बाईं ओर मोड़ को दोहराएं।",
+      "पुनरावृत्ति की वांछित संख्या के लिए बारी-बारी से मोड़ जारी रखें।"
+    ],
+    "pl": [
+      "Stań ze stopami na szerokość barków, trzymając sztangę przed klatką piersiową obiema rękami, dłońmi skierowanymi w dół.",
+      "Napnij mięśnie brzucha i trzymaj plecy proste przez cały czas trwania ćwiczenia.",
+      "Powoli skręć tułów w prawą stronę, obracając się na stopach i biodrach, jednocześnie utrzymując stabilność dolnej części ciała.",
+      "Zatrzymaj się na chwilę na końcu skrętu, a następnie powoli wróć do pozycji wyjściowej.",
+      "Powtórz skręt w lewą stronę.",
+      "Kontynuuj naprzemienne skręty przez zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 너비로 벌리고 서서 바벨을 가슴 앞에서 양손으로 손바닥이 아래를 향하도록 들고 있습니다.",
+      "핵심부를 단단히 조이고 운동 내내 등을 펴서 유지합니다.",
+      "발과 골반을 축으로 하면서 몸의 아래쪽은 안정적으로 유지하고 오른쪽으로 천천히 상체를 트위스트합니다.",
+      "트위스트의 끝에서 잠시 멈춘 후 천천히 시작 위치로 돌아옵니다.",
+      "왼쪽으로 트위스트를 반복합니다.",
+      "원하는 반복 횟수만큼 트위스트를 교대로 계속합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens une barre devant ta poitrine à deux mains, paumes tournées vers le bas.",
+      "Gaine ta sangle abdominale et garde ton dos droit tout au long de l'exercice.",
+      "Tourne lentement ton torse vers la droite, en pivotant sur tes pieds et tes hanches, tout en gardant le bas de ton corps stable.",
+      "Marque une pause à la fin de la torsion, puis reviens lentement à la position de départ.",
+      "Répète la torsion vers le côté gauche.",
+      "Continue à alterner les torsions pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "obliques",
+  "secondary_muscles": [
+    "obliques",
+    "lower back"
+  ],
+  "target": "abs",
+  "image": "images/0112-yQe5HpE.jpg",
+  "gif_url": "videos/0112-yQe5HpE.gif",
+  "media_id": "yQe5HpE",
+  "created_at": "2026-03-18T12:31:32.873228+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

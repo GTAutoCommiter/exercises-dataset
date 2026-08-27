@@ -1,0 +1,101 @@
+{
+  "id": "0406",
+  "name": "dumbbell shrug",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and hold a dumbbell in each hand with your palms facing your body. Keep your arms straight and let the dumbbells hang by your sides. Raise your shoulders as high as possible, as if you are trying to touch your ears with your shoulders. Hold the contraction for a second, then slowly lower your shoulders back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stai in piedi con i piedi alla larghezza delle spalle e tieni un manubrio in ciascuna mano con i palmi rivolti verso il corpo. Tieni le braccia dritte e lascia che i manubri pendano lungo i fianchi. Alza le spalle il più possibile, come se volessi toccare le orecchie con le spalle. Mantieni la contrazione per un secondo, poi abbassa lentamente le spalle fino alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınızı omuz genişliğinde açın ve avuçlarınız vücudunuza bakacak şekilde her iki elinizde birer dambıl tutun. Kollarınızı düz tutun ve dambılların yanlarınızda asılı kalmasına izin verin. Sanki omuzlarınızla kulaklarınıza dokunmaya çalışıyormuş gibi omuzlarınızı olabildiğince yükseğe kaldırın. Kasılmayı bir saniye kadar tutun, ardından omuzlarınızı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y sujeta una mancuerna en cada mano con las palmas hacia tu cuerpo. Mantén los brazos rectos y deja que las mancuernas cuelguen a tus costados. Eleva los hombros lo más alto posible, como si intentaras tocarte las orejas con ellos. Mantén la contracción durante un segundo, luego baja lentamente los hombros de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, возьмите в каждую руку по гантели ладонями к телу. Держите руки прямо и позвольте гантелям висеть по бокам. Поднимите плечи как можно выше, как будто пытаетесь коснуться плечами ушей. Удерживайте напряжение в течение секунды, затем медленно опустите плечи обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，双手各握一个哑铃，手掌朝向身体。 保持手臂伸直，让哑铃垂在身体两侧。 尽可能高地抬高肩膀，就像试图用肩膀触碰耳朵一样。 保持收缩一秒钟，然后慢慢将肩膀放回起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और अपनी हथेलियों को अपने शरीर की ओर रखते हुए प्रत्येक हाथ में डंबल पकड़ लें। अपनी भुजाओं को सीधा रखें और डम्बल को अपने बगल में लटका दें। अपने कंधों को जितना संभव हो उतना ऊपर उठाएं, जैसे कि आप अपने कंधों से अपने कानों को छूने की कोशिश कर रहे हों। एक सेकंड के लिए संकुचन को रोककर रखें, फिर धीरे-धीरे अपने कंधों को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań w rozkroku na szerokość barków i trzymaj hantle w obu dłoniach, dłonie skierowane do ciała. Trzymaj ramiona proste i pozwól hantlom swobodnie zwisać wzdłuż ciała. Unieś barki jak najwyżej, jakbyś próbował dotknąć nimi uszu. Zatrzymaj napięcie na sekundę, a następnie powoli opuść barki do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "발을 어깨 너비로 벌리고 섭니다. 각 손에 덤벨을 들되 손바닥이 몸 쪽을 향하도록 잡습니다. 팔을 곧게 펴고 덤벨을 옆에 내린 상태로 유지합니다. 어깨를 최대한 높이 올려 귀에 닿으려는 듯이 합니다. 수축을 1초간 유지한 후 어깨를 처음 위치로 천천히 내립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens un haltère dans chaque main, paumes tournées vers ton corps. Garde tes bras tendus et laisse les haltères pendre le long de tes flancs. Lève tes épaules aussi haut que possible, comme si tu essayais de toucher tes oreilles avec tes épaules. Maintiens la contraction une seconde, puis abaisse lentement tes épaules jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and hold a dumbbell in each hand with your palms facing your body.",
+      "Keep your arms straight and let the dumbbells hang by your sides.",
+      "Raise your shoulders as high as possible, as if you are trying to touch your ears with your shoulders.",
+      "Hold the contraction for a second, then slowly lower your shoulders back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai in piedi con i piedi alla larghezza delle spalle e tieni un manubrio in ciascuna mano con i palmi rivolti verso il corpo.",
+      "Tieni le braccia dritte e lascia che i manubri pendano lungo i fianchi.",
+      "Alza le spalle il più possibile, come se volessi toccare le orecchie con le spalle.",
+      "Mantieni la contrazione per un secondo, poi abbassa lentamente le spalle fino alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınızı omuz genişliğinde açın ve avuçlarınız vücudunuza bakacak şekilde her iki elinizde birer dambıl tutun.",
+      "Kollarınızı düz tutun ve dambılların yanlarınızda asılı kalmasına izin verin.",
+      "Sanki omuzlarınızla kulaklarınıza dokunmaya çalışıyormuş gibi omuzlarınızı olabildiğince yükseğe kaldırın.",
+      "Kasılmayı bir saniye kadar tutun, ardından omuzlarınızı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y sujeta una mancuerna en cada mano con las palmas hacia tu cuerpo.",
+      "Mantén los brazos rectos y deja que las mancuernas cuelguen a tus costados.",
+      "Eleva los hombros lo más alto posible, como si intentaras tocarte las orejas con ellos.",
+      "Mantén la contracción durante un segundo, luego baja lentamente los hombros de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, возьмите в каждую руку по гантели ладонями к телу.",
+      "Держите руки прямо и позвольте гантелям висеть по бокам.",
+      "Поднимите плечи как можно выше, как будто пытаетесь коснуться плечами ушей.",
+      "Удерживайте напряжение в течение секунды, затем медленно опустите плечи обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，双手各握一个哑铃，手掌朝向身体。",
+      "保持手臂伸直，让哑铃垂在身体两侧。",
+      "尽可能高地抬高肩膀，就像试图用肩膀触碰耳朵一样。",
+      "保持收缩一秒钟，然后慢慢将肩膀放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और अपनी हथेलियों को अपने शरीर की ओर रखते हुए प्रत्येक हाथ में डंबल पकड़ लें।",
+      "अपनी भुजाओं को सीधा रखें और डम्बल को अपने बगल में लटका दें।",
+      "अपने कंधों को जितना संभव हो उतना ऊपर उठाएं, जैसे कि आप अपने कंधों से अपने कानों को छूने की कोशिश कर रहे हों।",
+      "एक सेकंड के लिए संकुचन को रोककर रखें, फिर धीरे-धीरे अपने कंधों को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków i trzymaj hantle w obu dłoniach, dłonie skierowane do ciała.",
+      "Trzymaj ramiona proste i pozwól hantlom swobodnie zwisać wzdłuż ciała.",
+      "Unieś barki jak najwyżej, jakbyś próbował dotknąć nimi uszu.",
+      "Zatrzymaj napięcie na sekundę, a następnie powoli opuść barki do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 너비로 벌리고 섭니다.",
+      "각 손에 덤벨을 들되 손바닥이 몸 쪽을 향하도록 잡습니다.",
+      "팔을 곧게 펴고 덤벨을 옆에 내린 상태로 유지합니다.",
+      "어깨를 최대한 높이 올려 귀에 닿으려는 듯이 합니다.",
+      "수축을 1초간 유지한 후 어깨를 처음 위치로 천천히 내립니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens un haltère dans chaque main, paumes tournées vers ton corps.",
+      "Garde tes bras tendus et laisse les haltères pendre le long de tes flancs.",
+      "Lève tes épaules aussi haut que possible, comme si tu essayais de toucher tes oreilles avec tes épaules.",
+      "Maintiens la contraction une seconde, puis abaisse lentement tes épaules jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders"
+  ],
+  "target": "traps",
+  "image": "images/0406-NJzBsGJ.jpg",
+  "gif_url": "videos/0406-NJzBsGJ.gif",
+  "media_id": "NJzBsGJ",
+  "created_at": "2026-03-18T12:31:32.881581+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

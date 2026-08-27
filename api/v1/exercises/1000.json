@@ -1,0 +1,102 @@
+{
+  "id": "1000",
+  "name": "band single leg reverse calf raise",
+  "category": "lower legs",
+  "body_part": "lower legs",
+  "equipment": "band",
+  "instructions": {
+    "en": "Stand with your feet hip-width apart and place the band around the ball of your foot. Hold onto a stable object for balance. Slowly raise your heel off the ground, lifting your body weight onto the ball of your foot. Pause for a moment at the top, then slowly lower your heel back down to the starting position. Repeat for the desired number of repetitions, then switch to the other leg.",
+    "it": "Stai con i piedi alla larghezza dei fianchi e posiziona la fascia attorno alla pianta del piede. Aggrapparsi a un oggetto stabile per mantenere l'equilibrio. Solleva lentamente il tallone da terra, sollevando il peso del corpo sulla pianta del piede. Fai una pausa per un momento in alto, quindi abbassa lentamente il tallone fino alla posizione iniziale. Ripeti per il numero di ripetizioni desiderato, quindi passa all'altra gamba.",
+    "tr": "Ayaklarınızı kalça genişliğinde açın ve bandı ayak parmaklarınızın etrafına yerleştirin. Denge için sabit bir nesneye tutunun. Vücut ağırlığınızı ayak parmaklarınızın ucuna vererek topuğunuzu yavaşça yerden kaldırın. Tepe noktasında bir an duraklayın, ardından topuğunuzu yavaşça başlangıç ​​pozisyonuna indirin. İstenilen tekrar sayısı kadar tekrarlayın, ardından diğer bacağa geçin.",
+    "es": "Ponte de pie con los pies separados a la altura de las caderas y coloca la banda alrededor de la base de los dedos del pie. Sujétate de un objeto estable para mantener el equilibrio. Levanta lentamente el talón del suelo, llevando el peso del cuerpo hacia la punta del pie. Haz una pausa por un momento en la parte superior, luego baja lentamente el talón de vuelta a la posición inicial. Repite el número de repeticiones deseado, luego cambia a la otra pierna.",
+    "ru": "Встаньте, ноги на ширине плеч, и наденьте ленту на подушечку стопы. Держитесь за устойчивый предмет для равновесия. Медленно поднимите пятку от земли, перенеся вес тела на подушечки стопы. Задержитесь на мгновение в верхней точке, затем медленно опустите пятку обратно в исходное положение. Повторите желаемое количество повторений, затем переключитесь на другую ногу.",
+    "zh": "双脚分开站立，与臀部同宽，将弹力带放在脚掌周围。 抓住稳定的物体以保持平衡。 慢慢地将脚跟抬离地面，将身体重量转移到脚掌上。 在顶部暂停片刻，然后慢慢将脚跟放回起始位置。 重复所需的重复次数，然后换另一条腿。",
+    "hi": "अपने पैरों को कूल्हे-चौड़ाई से अलग करके खड़े हो जाएं और बैंड को अपने पैर की गेंद के चारों ओर रखें। संतुलन के लिए किसी स्थिर वस्तु को पकड़ें। धीरे-धीरे अपनी एड़ी को जमीन से ऊपर उठाएं, अपने शरीर का वजन अपने पैर की गेंद पर उठाएं। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपनी एड़ी को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ, फिर दूसरे चरण पर जाएँ।",
+    "pl": "Stań w rozkroku na szerokość bioder i umieść taśmę wokół podeszwy stopy. Chwyć się stabilnego obiektu dla równowagi. Powoli unieś piętę nad podłogę, przenosząc ciężar ciała na przednią część stopy. Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść piętę z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę razy, a następnie zmień nogę.",
+    "ko": "엉덩이 너비로 발을 벌리고 서서 밴드를 발 앞부분에 감습니다. 안정성을 위해 견고한 물체를 잡습니다. 천천히 발꿈치를 지면에서 들어 발 앞부분에 체중을 올립니다. 맨 위에서 잠시 멈춘 후, 천천히 발꿈치를 원래 위치로 내립니다. 원하는 횟수만큼 반복한 후 다른 다리로 전환합니다.",
+    "fr": "Tiens-toi les pieds écartés à la largeur des hanches et place l'élastique autour de la pointe de ton pied. Tiens-toi à un objet stable pour l'équilibre. Soulève lentement ton talon du sol, en élevant le poids de ton corps sur la pointe du pied. Marque une pause en haut, puis abaisse lentement ton talon pour revenir à la position de départ. Répète le nombre de répétitions souhaité, puis passe à l'autre jambe."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet hip-width apart and place the band around the ball of your foot.",
+      "Hold onto a stable object for balance.",
+      "Slowly raise your heel off the ground, lifting your body weight onto the ball of your foot.",
+      "Pause for a moment at the top, then slowly lower your heel back down to the starting position.",
+      "Repeat for the desired number of repetitions, then switch to the other leg."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza dei fianchi e posiziona la fascia attorno alla pianta del piede.",
+      "Aggrapparsi a un oggetto stabile per mantenere l'equilibrio.",
+      "Solleva lentamente il tallone da terra, sollevando il peso del corpo sulla pianta del piede.",
+      "Fai una pausa per un momento in alto, quindi abbassa lentamente il tallone fino alla posizione iniziale.",
+      "Ripeti per il numero di ripetizioni desiderato, quindi passa all'altra gamba."
+    ],
+    "tr": [
+      "Ayaklarınızı kalça genişliğinde açın ve bandı ayak parmaklarınızın etrafına yerleştirin.",
+      "Denge için sabit bir nesneye tutunun.",
+      "Vücut ağırlığınızı ayak parmaklarınızın ucuna vererek topuğunuzu yavaşça yerden kaldırın.",
+      "Tepe noktasında bir an duraklayın, ardından topuğunuzu yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından diğer bacağa geçin."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de las caderas y coloca la banda alrededor de la base de los dedos del pie.",
+      "Sujétate de un objeto estable para mantener el equilibrio.",
+      "Levanta lentamente el talón del suelo, llevando el peso del cuerpo hacia la punta del pie.",
+      "Haz una pausa por un momento en la parte superior, luego baja lentamente el talón de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado, luego cambia a la otra pierna."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, и наденьте ленту на подушечку стопы.",
+      "Держитесь за устойчивый предмет для равновесия.",
+      "Медленно поднимите пятку от земли, перенеся вес тела на подушечки стопы.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите пятку обратно в исходное положение.",
+      "Повторите желаемое количество повторений, затем переключитесь на другую ногу."
+    ],
+    "zh": [
+      "双脚分开站立，与臀部同宽，将弹力带放在脚掌周围。",
+      "抓住稳定的物体以保持平衡。",
+      "慢慢地将脚跟抬离地面，将身体重量转移到脚掌上。",
+      "在顶部暂停片刻，然后慢慢将脚跟放回起始位置。",
+      "重复所需的重复次数，然后换另一条腿。"
+    ],
+    "hi": [
+      "अपने पैरों को कूल्हे-चौड़ाई से अलग करके खड़े हो जाएं और बैंड को अपने पैर की गेंद के चारों ओर रखें।",
+      "संतुलन के लिए किसी स्थिर वस्तु को पकड़ें।",
+      "धीरे-धीरे अपनी एड़ी को जमीन से ऊपर उठाएं, अपने शरीर का वजन अपने पैर की गेंद पर उठाएं।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपनी एड़ी को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ, फिर दूसरे चरण पर जाएँ।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość bioder i umieść taśmę wokół podeszwy stopy.",
+      "Chwyć się stabilnego obiektu dla równowagi.",
+      "Powoli unieś piętę nad podłogę, przenosząc ciężar ciała na przednią część stopy.",
+      "Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść piętę z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę razy, a następnie zmień nogę."
+    ],
+    "ko": [
+      "엉덩이 너비로 발을 벌리고 서서 밴드를 발 앞부분에 감습니다.",
+      "안정성을 위해 견고한 물체를 잡습니다.",
+      "천천히 발꿈치를 지면에서 들어 발 앞부분에 체중을 올립니다.",
+      "맨 위에서 잠시 멈춘 후, 천천히 발꿈치를 원래 위치로 내립니다.",
+      "원하는 횟수만큼 반복한 후 다른 다리로 전환합니다."
+    ],
+    "fr": [
+      "Tiens-toi les pieds écartés à la largeur des hanches et place l'élastique autour de la pointe de ton pied.",
+      "Tiens-toi à un objet stable pour l'équilibre.",
+      "Soulève lentement ton talon du sol, en élevant le poids de ton corps sur la pointe du pied.",
+      "Marque une pause en haut, puis abaisse lentement ton talon pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis passe à l'autre jambe."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings",
+    "glutes"
+  ],
+  "target": "calves",
+  "image": "images/1000-QsSQWbf.jpg",
+  "gif_url": "videos/1000-QsSQWbf.gif",
+  "media_id": "QsSQWbf",
+  "created_at": "2026-03-18T12:31:32.8698+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,92 @@
+{
+  "id": "2363",
+  "name": "wide-grip chest dip on high parallel bars",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Position yourself on the parallel bars with your arms fully extended and your body suspended in the air. Lean forward slightly and lower your body by bending your elbows until your chest is just above the bars. Pause for a moment, then push yourself back up to the starting position by straightening your arms. Repeat for the desired number of repetitions.",
+    "it": "Posizionati sulle parallele con le braccia completamente distese e il corpo sospeso in aria. Inclinati leggermente in avanti e abbassa il corpo piegando i gomiti finché il petto non si trova appena sopra le sbarre. Fai una pausa per un momento, quindi ritorna alla posizione di partenza raddrizzando le braccia. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Kollarınız tamamen uzatılmış ve vücudunuz havada asılı kalacak şekilde kendinizi paralel çubukların üzerine konumlandırın. Hafifçe öne doğru eğilin ve dirseklerinizi göğsünüz barların hemen üzerine gelene kadar bükerek vücudunuzu indirin. Bir an duraklayın, ardından kollarınızı düzleştirerek kendinizi başlangıç ​​pozisyonuna doğru itin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Colócate sobre las barras paralelas con los brazos completamente extendidos y el cuerpo suspendido en el aire. Inclínate ligeramente hacia adelante y baja el cuerpo flexionando los codos hasta que el pecho quede justo por encima de las barras. Haz una pausa breve, luego empújate de nuevo hacia arriba a la posición inicial estirando los brazos. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте на параллельные брусья, полностью вытянув руки и подвешивая тело в воздухе. Слегка наклонитесь вперед и опустите тело, сгибая локти, пока грудь не окажется чуть выше перекладин. Сделайте паузу на мгновение, затем вернитесь в исходное положение, выпрямляя руки. Повторите необходимое количество повторений.",
+    "zh": "将自己置于双杠上，双臂完全伸展，身体悬浮在空中。 稍微向前倾，弯曲肘部降低身体，直到胸部位于杠铃上方。 暂停片刻，然后伸直手臂，将自己推回起始位置。 重复所需的重复次数。",
+    "hi": "अपनी भुजाओं को पूरी तरह फैलाकर और अपने शरीर को हवा में लटकाकर अपने आप को समानांतर सलाखों पर रखें। थोड़ा आगे झुकें और अपनी कोहनियों को मोड़कर अपने शरीर को तब तक नीचे करें जब तक कि आपकी छाती सलाखों के ठीक ऊपर न आ जाए। एक पल के लिए रुकें, फिर अपनी बाहों को सीधा करके खुद को शुरुआती स्थिति में वापस धकेलें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Ustaw się na poręczach równoległych z w pełni wyprostowanymi ramionami, a ciało zawieszone w powietrzu. Pochyl się lekko do przodu i opuść ciało, uginając łokcie, aż klatka piersiowa znajdzie się tuż nad poręczami. Zatrzymaj się na chwilę, a następnie wypchnij się z powrotem do pozycji wyjściowej, prostując ramiona. Powtórz zgodnie z żądaną liczbą powtórzeń.",
+    "ko": "평행 봉 위에 팔을 완전히 펴고 몸이 공중에 떠 있는 상태에서 위치합니다. 약간 앞으로 기울이고 팔꿈치를 구부려 가슴이 봉 바로 위에 올 때까지 몸을 내립니다. 잠깐 멈춘 후 팔을 펴서 시작 위치로 다시 올립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Positionne-toi sur les barres parallèles, les bras complètement tendus et le corps suspendu dans les airs. Penche-toi légèrement en avant et abaisse ton corps en fléchissant les coudes jusqu'à ce que ta poitrine soit juste au-dessus des barres. Marque une pause, puis repousse-toi vers le haut jusqu'à la position de départ en tendant tes bras. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Position yourself on the parallel bars with your arms fully extended and your body suspended in the air.",
+      "Lean forward slightly and lower your body by bending your elbows until your chest is just above the bars.",
+      "Pause for a moment, then push yourself back up to the starting position by straightening your arms.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Posizionati sulle parallele con le braccia completamente distese e il corpo sospeso in aria.",
+      "Inclinati leggermente in avanti e abbassa il corpo piegando i gomiti finché il petto non si trova appena sopra le sbarre.",
+      "Fai una pausa per un momento, quindi ritorna alla posizione di partenza raddrizzando le braccia.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Kollarınız tamamen uzatılmış ve vücudunuz havada asılı kalacak şekilde kendinizi paralel çubukların üzerine konumlandırın.",
+      "Hafifçe öne doğru eğilin ve dirseklerinizi göğsünüz barların hemen üzerine gelene kadar bükerek vücudunuzu indirin.",
+      "Bir an duraklayın, ardından kollarınızı düzleştirerek kendinizi başlangıç ​​pozisyonuna doğru itin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Colócate sobre las barras paralelas con los brazos completamente extendidos y el cuerpo suspendido en el aire.",
+      "Inclínate ligeramente hacia adelante y baja el cuerpo flexionando los codos hasta que el pecho quede justo por encima de las barras.",
+      "Haz una pausa breve, luego empújate de nuevo hacia arriba a la posición inicial estirando los brazos.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте на параллельные брусья, полностью вытянув руки и подвешивая тело в воздухе.",
+      "Слегка наклонитесь вперед и опустите тело, сгибая локти, пока грудь не окажется чуть выше перекладин.",
+      "Сделайте паузу на мгновение, затем вернитесь в исходное положение, выпрямляя руки.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将自己置于双杠上，双臂完全伸展，身体悬浮在空中。",
+      "稍微向前倾，弯曲肘部降低身体，直到胸部位于杠铃上方。",
+      "暂停片刻，然后伸直手臂，将自己推回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपनी भुजाओं को पूरी तरह फैलाकर और अपने शरीर को हवा में लटकाकर अपने आप को समानांतर सलाखों पर रखें।",
+      "थोड़ा आगे झुकें और अपनी कोहनियों को मोड़कर अपने शरीर को तब तक नीचे करें जब तक कि आपकी छाती सलाखों के ठीक ऊपर न आ जाए।",
+      "एक पल के लिए रुकें, फिर अपनी बाहों को सीधा करके खुद को शुरुआती स्थिति में वापस धकेलें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Ustaw się na poręczach równoległych z w pełni wyprostowanymi ramionami, a ciało zawieszone w powietrzu.",
+      "Pochyl się lekko do przodu i opuść ciało, uginając łokcie, aż klatka piersiowa znajdzie się tuż nad poręczami.",
+      "Zatrzymaj się na chwilę, a następnie wypchnij się z powrotem do pozycji wyjściowej, prostując ramiona.",
+      "Powtórz zgodnie z żądaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "평행 봉 위에 팔을 완전히 펴고 몸이 공중에 떠 있는 상태에서 위치합니다.",
+      "약간 앞으로 기울이고 팔꿈치를 구부려 가슴이 봉 바로 위에 올 때까지 몸을 내립니다.",
+      "잠깐 멈춘 후 팔을 펴서 시작 위치로 다시 올립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Positionne-toi sur les barres parallèles, les bras complètement tendus et le corps suspendu dans les airs.",
+      "Penche-toi légèrement en avant et abaisse ton corps en fléchissant les coudes jusqu'à ce que ta poitrine soit juste au-dessus des barres.",
+      "Marque une pause, puis repousse-toi vers le haut jusqu'à la position de départ en tendant tes bras.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "target": "pectorals",
+  "image": "images/2363-O2K9Vb5.jpg",
+  "gif_url": "videos/2363-O2K9Vb5.gif",
+  "media_id": "O2K9Vb5",
+  "created_at": "2026-03-18T12:31:32.906549+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

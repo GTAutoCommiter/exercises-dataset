@@ -1,0 +1,113 @@
+{
+  "id": "0492",
+  "name": "incline push up depth jump",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Find an elevated surface, such as a bench or step, and place your hands shoulder-width apart on the edge. Step your feet back, keeping your body in a straight line from head to heels. Lower your chest towards the edge of the surface, bending your elbows and keeping your body aligned. Push through your palms to extend your arms and return to the starting position. Jump off the edge of the surface, landing softly with your knees slightly bent. Repeat the push-up and depth jump for the desired number of repetitions.",
+    "it": "Trova una superficie rialzata, come una panca o un gradino, e posiziona le mani sul bordo alla larghezza delle spalle. Porta i piedi indietro, mantenendo il corpo in linea retta dalla testa ai talloni. Abbassa il petto verso il bordo della superficie, piegando i gomiti e mantenendo il corpo allineato. Spingi attraverso i palmi delle mani per estendere le braccia e tornare alla posizione di partenza. Salta dal bordo della superficie, atterrando dolcemente con le ginocchia leggermente piegate. Ripeti il ​​push-up e il salto in profondità per il numero di ripetizioni desiderato.",
+    "tr": "Bank veya basamak gibi yüksek bir yüzey bulun ve ellerinizi omuz genişliğinde açarak kenara koyun. Ayaklarınızı geriye doğru adım atın ve vücudunuzu baştan topuklara kadar düz bir çizgide tutun. Göğsünüzü yüzeyin kenarına doğru indirin, dirseklerinizi bükün ve vücudunuzu aynı hizada tutun. Kollarınızı uzatmak ve başlangıç ​​pozisyonuna dönmek için avuçlarınızı itin. Yüzeyin kenarından atlayın, dizleriniz hafifçe bükülmüş halde yumuşak bir şekilde yere inin. İstenilen sayıda tekrar için şınav ve derinlik atlamasını tekrarlayın.",
+    "es": "Busca una superficie elevada, como un banco o un escalón, y coloca las manos separadas a la altura de los hombros en el borde. Da un paso hacia atrás con los pies, manteniendo el cuerpo en línea recta desde la cabeza hasta los talones. Baja el pecho hacia el borde de la superficie, doblando los codos y manteniendo el cuerpo alineado. Empuja con las palmas para extender los brazos y regresar a la posición inicial. Salta desde el borde de la superficie, aterrizando suavemente con las rodillas ligeramente flexionadas. Repite la flexión de brazos y el salto en profundidad durante el número de repeticiones deseado.",
+    "ru": "Найдите возвышенную поверхность, например скамью или ступеньку, и поставьте на край руки на ширине плеч. Отведите ноги назад, удерживая тело от головы до пяток на прямой линии. Опустите грудь к краю поверхности, сгибая локти и удерживая тело ровным. Оттолкнитесь ладонями, чтобы вытянуть руки и вернуться в исходное положение. Спрыгните с края поверхности, мягко приземлившись, слегка согнув колени. Повторите отжимание и прыжок в глубину необходимое количество повторений.",
+    "zh": "找到一个较高的表面，例如长凳或台阶，并将双手与肩同宽放在边缘。 双脚向后退一步，保持身体从头到脚跟呈一条直线。 将胸部向水面边缘降低，弯曲肘部并保持身体对齐。 推动手掌以伸展手臂并返回到起始位置。 从水面边缘跳下，膝盖稍微弯曲，轻轻落地。 重复俯卧撑和深度跳跃达到所需的重复次数。",
+    "hi": "एक ऊंची सतह, जैसे कि बेंच या सीढ़ी ढूंढें, और अपने हाथों को किनारे पर कंधे की चौड़ाई से अलग रखें। अपने शरीर को सिर से एड़ी तक एक सीधी रेखा में रखते हुए अपने पैरों को पीछे ले जाएं। अपनी कोहनियों को मोड़ते हुए और अपने शरीर को संरेखित रखते हुए, अपनी छाती को सतह के किनारे की ओर नीचे करें। अपनी हथेलियों से धक्का देकर अपनी भुजाओं को फैलाएं और प्रारंभिक स्थिति में लौट आएं। सतह के किनारे से कूदें, अपने घुटनों को थोड़ा मोड़कर धीरे से उतरें। दोहराव की वांछित संख्या के लिए पुश-अप और डेप्थ जंप को दोहराएं।",
+    "pl": "Znajdź podwyższoną powierzchnię, taką jak ławka lub stopień, i umieść dłonie na jej krawędzi na szerokość barków. Cofnij stopy, utrzymując ciało w prostej linii od głowy do pięt. Opuść klatkę piersiową w stronę krawędzi powierzchni, zginając łokcie i utrzymując wyrównanie ciała. Odepchnij się dłońmi, prostując ramiona, aby wrócić do pozycji wyjściowej. Zeskocz z krawędzi powierzchni, lądując miękko z lekko ugiętymi kolanami. Powtórz pompkę i zeskok przez zalecaną liczbę powtórzeń.",
+    "ko": "벤치나 스텝 같은 높인 표면을 찾아 손을 어깨 너비만큼 모서리에 얹습니다. 발을 뒤로 빼서 머리부터 발까지 일직선이 되도록 합니다. 팔꿈치를 구부려 가슴을 표면 모서리 쪽으로 내립니다. 몸이 일직선으로 정렬되도록 유지합니다. 손으로 밀어 올려 팔을 펴서 시작 위치로 돌아옵니다. 표면 모서리에서 뛰어내려 무릎을 약간 구부려 부드럽게 착지합니다. 푸시업과 뎁스 점프를 반복하여 원하는 횟수만큼 진행합니다.",
+    "fr": "Trouve une surface surélevée, comme un banc ou une marche, et place tes mains écartées à la largeur des épaules sur le bord. Recule les pieds, en gardant le corps aligné de la tête aux talons. Abaisse ta poitrine vers le bord de la surface, en fléchissant les coudes et en gardant ton corps aligné. Pousse à travers tes paumes pour étendre tes bras et revenir à la position de départ. Saute du bord de la surface, en atterrissant en douceur, les genoux légèrement fléchis. Répète la pompe et le saut en profondeur pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Find an elevated surface, such as a bench or step, and place your hands shoulder-width apart on the edge.",
+      "Step your feet back, keeping your body in a straight line from head to heels.",
+      "Lower your chest towards the edge of the surface, bending your elbows and keeping your body aligned.",
+      "Push through your palms to extend your arms and return to the starting position.",
+      "Jump off the edge of the surface, landing softly with your knees slightly bent.",
+      "Repeat the push-up and depth jump for the desired number of repetitions."
+    ],
+    "it": [
+      "Trova una superficie rialzata, come una panca o un gradino, e posiziona le mani sul bordo alla larghezza delle spalle.",
+      "Porta i piedi indietro, mantenendo il corpo in linea retta dalla testa ai talloni.",
+      "Abbassa il petto verso il bordo della superficie, piegando i gomiti e mantenendo il corpo allineato.",
+      "Spingi attraverso i palmi delle mani per estendere le braccia e tornare alla posizione di partenza.",
+      "Salta dal bordo della superficie, atterrando dolcemente con le ginocchia leggermente piegate.",
+      "Ripeti il ​​push-up e il salto in profondità per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Bank veya basamak gibi yüksek bir yüzey bulun ve ellerinizi omuz genişliğinde açarak kenara koyun.",
+      "Ayaklarınızı geriye doğru adım atın ve vücudunuzu baştan topuklara kadar düz bir çizgide tutun.",
+      "Göğsünüzü yüzeyin kenarına doğru indirin, dirseklerinizi bükün ve vücudunuzu aynı hizada tutun.",
+      "Kollarınızı uzatmak ve başlangıç ​​pozisyonuna dönmek için avuçlarınızı itin.",
+      "Yüzeyin kenarından atlayın, dizleriniz hafifçe bükülmüş halde yumuşak bir şekilde yere inin.",
+      "İstenilen sayıda tekrar için şınav ve derinlik atlamasını tekrarlayın."
+    ],
+    "es": [
+      "Busca una superficie elevada, como un banco o un escalón, y coloca las manos separadas a la altura de los hombros en el borde.",
+      "Da un paso hacia atrás con los pies, manteniendo el cuerpo en línea recta desde la cabeza hasta los talones.",
+      "Baja el pecho hacia el borde de la superficie, doblando los codos y manteniendo el cuerpo alineado.",
+      "Empuja con las palmas para extender los brazos y regresar a la posición inicial.",
+      "Salta desde el borde de la superficie, aterrizando suavemente con las rodillas ligeramente flexionadas.",
+      "Repite la flexión de brazos y el salto en profundidad durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Найдите возвышенную поверхность, например скамью или ступеньку, и поставьте на край руки на ширине плеч.",
+      "Отведите ноги назад, удерживая тело от головы до пяток на прямой линии.",
+      "Опустите грудь к краю поверхности, сгибая локти и удерживая тело ровным.",
+      "Оттолкнитесь ладонями, чтобы вытянуть руки и вернуться в исходное положение.",
+      "Спрыгните с края поверхности, мягко приземлившись, слегка согнув колени.",
+      "Повторите отжимание и прыжок в глубину необходимое количество повторений."
+    ],
+    "zh": [
+      "找到一个较高的表面，例如长凳或台阶，并将双手与肩同宽放在边缘。",
+      "双脚向后退一步，保持身体从头到脚跟呈一条直线。",
+      "将胸部向水面边缘降低，弯曲肘部并保持身体对齐。",
+      "推动手掌以伸展手臂并返回到起始位置。",
+      "从水面边缘跳下，膝盖稍微弯曲，轻轻落地。",
+      "重复俯卧撑和深度跳跃达到所需的重复次数。"
+    ],
+    "hi": [
+      "एक ऊंची सतह, जैसे कि बेंच या सीढ़ी ढूंढें, और अपने हाथों को किनारे पर कंधे की चौड़ाई से अलग रखें।",
+      "अपने शरीर को सिर से एड़ी तक एक सीधी रेखा में रखते हुए अपने पैरों को पीछे ले जाएं।",
+      "अपनी कोहनियों को मोड़ते हुए और अपने शरीर को संरेखित रखते हुए, अपनी छाती को सतह के किनारे की ओर नीचे करें।",
+      "अपनी हथेलियों से धक्का देकर अपनी भुजाओं को फैलाएं और प्रारंभिक स्थिति में लौट आएं।",
+      "सतह के किनारे से कूदें, अपने घुटनों को थोड़ा मोड़कर धीरे से उतरें।",
+      "दोहराव की वांछित संख्या के लिए पुश-अप और डेप्थ जंप को दोहराएं।"
+    ],
+    "pl": [
+      "Znajdź podwyższoną powierzchnię, taką jak ławka lub stopień, i umieść dłonie na jej krawędzi na szerokość barków.",
+      "Cofnij stopy, utrzymując ciało w prostej linii od głowy do pięt.",
+      "Opuść klatkę piersiową w stronę krawędzi powierzchni, zginając łokcie i utrzymując wyrównanie ciała.",
+      "Odepchnij się dłońmi, prostując ramiona, aby wrócić do pozycji wyjściowej.",
+      "Zeskocz z krawędzi powierzchni, lądując miękko z lekko ugiętymi kolanami.",
+      "Powtórz pompkę i zeskok przez zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "벤치나 스텝 같은 높인 표면을 찾아 손을 어깨 너비만큼 모서리에 얹습니다.",
+      "발을 뒤로 빼서 머리부터 발까지 일직선이 되도록 합니다.",
+      "팔꿈치를 구부려 가슴을 표면 모서리 쪽으로 내립니다.",
+      "손으로 밀어 올려 팔을 펴서 시작 위치로 돌아옵니다.",
+      "표면 모서리에서 뛰어내려 무릎을 약간 구부려 부드럽게 착지합니다.",
+      "푸시업과 뎁스 점프를 반복하여 원하는 횟수만큼 진행합니다."
+    ],
+    "fr": [
+      "Trouve une surface surélevée, comme un banc ou une marche, et place tes mains écartées à la largeur des épaules sur le bord.",
+      "Recule les pieds, en gardant le corps aligné de la tête aux talons.",
+      "Abaisse ta poitrine vers le bord de la surface, en fléchissant les coudes et en gardant ton corps aligné.",
+      "Pousse à travers tes paumes pour étendre tes bras et revenir à la position de départ.",
+      "Saute du bord de la surface, en atterrissant en douceur, les genoux légèrement fléchis.",
+      "Répète la pompe et le saut en profondeur pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "shoulders",
+    "core"
+  ],
+  "target": "pectorals",
+  "image": "images/0492-CB8WET1.jpg",
+  "gif_url": "videos/0492-CB8WET1.gif",
+  "media_id": "CB8WET1",
+  "created_at": "2026-03-18T12:31:32.884464+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

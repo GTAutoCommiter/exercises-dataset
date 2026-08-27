@@ -1,0 +1,102 @@
+{
+  "id": "2136",
+  "name": "dumbbell cuban press v. 2",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand at shoulder height with your palms facing down. Keeping your core engaged and your back straight, press the dumbbells straight up overhead until your arms are fully extended. Rotate your wrists so that your palms are facing forward. Lower the dumbbells back down to shoulder height, rotating your wrists back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi a larghezza delle spalle, tenendo un manubrio in ogni mano all'altezza delle spalle con i palmi rivolti verso il basso. Tenendo il core impegnato e la schiena dritta, premi i manubri dritti sopra la testa finché le braccia non sono completamente estese. Ruota i polsi in modo che i palmi siano rivolti in avanti. Abbassa i manubri fino all'altezza delle spalle, ruotando i polsi di nuovo alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınızı omuz genişliğinde açın, avuçlarınız aşağıya bakacak şekilde her iki elinizde de omuz yüksekliğinde birer dambıl tutun. Merkez bölgenizi meşgul ve sırtınızı düz tutarak, kollarınız tamamen uzayana kadar dambılları başınızın üzerine doğru bastırın. Avuç içleriniz öne bakacak şekilde bileklerinizi çevirin. Bileklerinizi başlangıç ​​pozisyonuna döndürerek dambılları omuz yüksekliğine kadar indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros, sosteniendo una mancuerna en cada mano a la altura de los hombros con las palmas hacia abajo. Manteniendo el core activado y la espalda recta, empuja las mancuernas directamente hacia arriba por encima de la cabeza hasta que los brazos queden completamente extendidos. Gira las muñecas de modo que las palmas queden mirando hacia adelante. Baja las mancuernas de nuevo hasta la altura de los hombros, girando las muñecas de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, поставив ноги на ширине плеч, держа в каждой руке по гантели на уровне плеч ладонями вниз. Удерживая корпус напряженным, а спину прямой, поднимите гантели прямо над головой, пока руки полностью не выпрямятся. Поверните запястья так, чтобы ладони были направлены вперед. Опустите гантели обратно на высоту плеч, повернув запястья обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，双手各握一个哑铃，与肩同高，手掌朝下。 保持核心收紧，背部挺直，将哑铃垂直推过头顶，直到手臂完全伸展。 旋转手腕，使手掌朝前。 将哑铃放回至肩膀高度，将手腕旋转回起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, अपनी हथेलियों को नीचे की ओर रखते हुए प्रत्येक हाथ में कंधे की ऊंचाई पर डंबल पकड़ें। अपने कोर को व्यस्त रखते हुए और अपनी पीठ को सीधा रखते हुए, डम्बल को सीधे ऊपर की ओर दबाएं जब तक कि आपकी बाहें पूरी तरह से विस्तारित न हो जाएं। अपनी कलाइयों को इस प्रकार घुमाएँ कि आपकी हथेलियाँ आगे की ओर हों। डम्बल को वापस कंधे की ऊँचाई तक नीचे लाएँ, अपनी कलाइयों को वापस प्रारंभिक स्थिति में घुमाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań w rozkroku na szerokość barków, trzymając hantle w obu rękach na wysokości barków, dłonie skierowane w dół. Utrzymując napięty brzuch i proste plecy, wypchnij hantle prosto w górę nad głowę, aż ramiona będą całkowicie wyprostowane. Obróć nadgarstki tak, aby dłonie były skierowane do przodu. Opuść hantle z powrotem na wysokość barków, obracając nadgarstki do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "발을 어깨 너비로 벌리고 서서 각 손에 덤벨을 하나씩 들고 어깨 높이에서 손바닥이 아래를 향하도록 합니다. 코어에 힘을 주고 등을 곧게 유지하면서 덤벨을 위로 머리 위까지 곧게 프레스합니다. 팔은 완전히 펼쳐집니다. 손목을 회전하여 손바닥이 정면을 향하도록 합니다. 덤벨을 어깨 높이까지 내리면서 손목을 다시 시작 자세로 회전합니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un haltère dans chaque main à hauteur d'épaule, paumes tournées vers le bas. En gardant ta sangle abdominale gainée et le dos droit, presse les haltères droit au-dessus de ta tête jusqu'à ce que tes bras soient complètement tendus. Tourne tes poignets de sorte que tes paumes soient tournées vers l'avant. Abaisse les haltères à hauteur des épaules, en tournant tes poignets jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart, holding a dumbbell in each hand at shoulder height with your palms facing down.",
+      "Keeping your core engaged and your back straight, press the dumbbells straight up overhead until your arms are fully extended.",
+      "Rotate your wrists so that your palms are facing forward.",
+      "Lower the dumbbells back down to shoulder height, rotating your wrists back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi a larghezza delle spalle, tenendo un manubrio in ogni mano all'altezza delle spalle con i palmi rivolti verso il basso.",
+      "Tenendo il core impegnato e la schiena dritta, premi i manubri dritti sopra la testa finché le braccia non sono completamente estese.",
+      "Ruota i polsi in modo che i palmi siano rivolti in avanti.",
+      "Abbassa i manubri fino all'altezza delle spalle, ruotando i polsi di nuovo alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınızı omuz genişliğinde açın, avuçlarınız aşağıya bakacak şekilde her iki elinizde de omuz yüksekliğinde birer dambıl tutun.",
+      "Merkez bölgenizi meşgul ve sırtınızı düz tutarak, kollarınız tamamen uzayana kadar dambılları başınızın üzerine doğru bastırın.",
+      "Avuç içleriniz öne bakacak şekilde bileklerinizi çevirin.",
+      "Bileklerinizi başlangıç ​​pozisyonuna döndürerek dambılları omuz yüksekliğine kadar indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros, sosteniendo una mancuerna en cada mano a la altura de los hombros con las palmas hacia abajo.",
+      "Manteniendo el core activado y la espalda recta, empuja las mancuernas directamente hacia arriba por encima de la cabeza hasta que los brazos queden completamente extendidos.",
+      "Gira las muñecas de modo que las palmas queden mirando hacia adelante.",
+      "Baja las mancuernas de nuevo hasta la altura de los hombros, girando las muñecas de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, поставив ноги на ширине плеч, держа в каждой руке по гантели на уровне плеч ладонями вниз.",
+      "Удерживая корпус напряженным, а спину прямой, поднимите гантели прямо над головой, пока руки полностью не выпрямятся.",
+      "Поверните запястья так, чтобы ладони были направлены вперед.",
+      "Опустите гантели обратно на высоту плеч, повернув запястья обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，双手各握一个哑铃，与肩同高，手掌朝下。",
+      "保持核心收紧，背部挺直，将哑铃垂直推过头顶，直到手臂完全伸展。",
+      "旋转手腕，使手掌朝前。",
+      "将哑铃放回至肩膀高度，将手腕旋转回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, अपनी हथेलियों को नीचे की ओर रखते हुए प्रत्येक हाथ में कंधे की ऊंचाई पर डंबल पकड़ें।",
+      "अपने कोर को व्यस्त रखते हुए और अपनी पीठ को सीधा रखते हुए, डम्बल को सीधे ऊपर की ओर दबाएं जब तक कि आपकी बाहें पूरी तरह से विस्तारित न हो जाएं।",
+      "अपनी कलाइयों को इस प्रकार घुमाएँ कि आपकी हथेलियाँ आगे की ओर हों।",
+      "डम्बल को वापस कंधे की ऊँचाई तक नीचे लाएँ, अपनी कलाइयों को वापस प्रारंभिक स्थिति में घुमाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków, trzymając hantle w obu rękach na wysokości barków, dłonie skierowane w dół.",
+      "Utrzymując napięty brzuch i proste plecy, wypchnij hantle prosto w górę nad głowę, aż ramiona będą całkowicie wyprostowane.",
+      "Obróć nadgarstki tak, aby dłonie były skierowane do przodu.",
+      "Opuść hantle z powrotem na wysokość barków, obracając nadgarstki do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 너비로 벌리고 서서 각 손에 덤벨을 하나씩 들고 어깨 높이에서 손바닥이 아래를 향하도록 합니다.",
+      "코어에 힘을 주고 등을 곧게 유지하면서 덤벨을 위로 머리 위까지 곧게 프레스합니다. 팔은 완전히 펼쳐집니다.",
+      "손목을 회전하여 손바닥이 정면을 향하도록 합니다.",
+      "덤벨을 어깨 높이까지 내리면서 손목을 다시 시작 자세로 회전합니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un haltère dans chaque main à hauteur d'épaule, paumes tournées vers le bas.",
+      "En gardant ta sangle abdominale gainée et le dos droit, presse les haltères droit au-dessus de ta tête jusqu'à ce que tes bras soient complètement tendus.",
+      "Tourne tes poignets de sorte que tes paumes soient tournées vers l'avant.",
+      "Abaisse les haltères à hauteur des épaules, en tournant tes poignets jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "upper back"
+  ],
+  "target": "delts",
+  "image": "images/2136-BqgCRif.jpg",
+  "gif_url": "videos/2136-BqgCRif.gif",
+  "media_id": "BqgCRif",
+  "created_at": "2026-03-18T12:31:32.878082+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

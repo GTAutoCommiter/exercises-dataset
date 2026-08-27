@@ -1,0 +1,111 @@
+{
+  "id": "0423",
+  "name": "dumbbell standing one arm extension",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart, holding a dumbbell in one hand. Raise the dumbbell overhead, fully extending your arm. Keep your upper arm close to your head and perpendicular to the ground. Slowly lower the dumbbell behind your head, bending your elbow. Pause for a moment, then raise the dumbbell back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stai in piedi con i piedi alla larghezza delle spalle, tenendo un manubrio in una mano. Alza il manubrio sopra la testa, estendendo completamente il braccio. Tieni il braccio superiore vicino alla testa e perpendicolare al suolo. Abbassa lentamente il manubrio dietro la testa, piegando il gomito. Fermati un attimo, poi solleva il manubrio di nuovo alla posizione di partenza. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Bir elinizde bir dambıl tutarak ayaklarınızı omuz genişliğinde açın. Kolunuzu tamamen uzatarak dambılı başınızın üzerine kaldırın. Üst kolunuzu başınıza yakın ve yere dik tutun. Dirseğinizi bükerek dambılı başınızın arkasına yavaşça indirin. Bir an duraklayın ve dambılı tekrar başlangıç ​​pozisyonuna kaldırın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros, sujetando una mancuerna con una mano. Levanta la mancuerna por encima de la cabeza, extendiendo completamente el brazo. Mantén la parte superior del brazo cerca de la cabeza y perpendicular al suelo. Baja lentamente la mancuerna detrás de la cabeza, flexionando el codo. Haz una pausa por un momento, luego levanta la mancuerna de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, в одной руке держите гантель. Поднимите гантель над головой, полностью выпрямляя руку. Держите плечо близко к голове и перпендикулярно земле. Медленно опустите гантель за голову, сгибая локоть. Сделайте паузу на мгновение, затем поднимите гантель обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，一只手握住哑铃。 将哑铃举过头顶，充分伸展手臂。 保持上臂靠近头部并垂直于地面。 慢慢地将哑铃放到脑后，弯曲肘部。 暂停片刻，然后将哑铃举回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और एक हाथ में डंबल पकड़ लें। अपनी बांह को पूरी तरह फैलाते हुए डम्बल को ऊपर उठाएं। अपनी ऊपरी भुजा को अपने सिर के पास और ज़मीन से सीधा रखें। अपनी कोहनी को मोड़ते हुए धीरे-धीरे डम्बल को अपने सिर के पीछे नीचे लाएँ। एक पल के लिए रुकें, फिर डम्बल को वापस प्रारंभिक स्थिति में उठाएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań w rozkroku na szerokość barków, trzymając hantlę w jednej dłoni. Unieś hantlę nad głowę, całkowicie prostując ramię. Trzymaj ramię blisko głowy, prostopadle do podłogi. Powoli opuść hantlę za głowę, zginając łokieć. Zatrzymaj się na chwilę, a następnie unieś hantlę z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "어깨 너비로 발을 벌리고 한손에 덤벨을 들고 섭니다. 덤벨을 머리 위로 올려 팔을 완전히 뻗습니다. 위팔을 머리 가까이에 유지하고 바닥과 수직으로 유지합니다. 팔꿈치를 구부려 덤벨을 머리 뒤로 천천히 내립니다. 잠시 멈춘 후 덤벨을 시작 자세로 올립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un haltère d'une main. Lève l'haltère au-dessus de ta tête en tendant complètement ton bras. Garde le haut du bras près de la tête et perpendiculaire au sol. Abaisse lentement l'haltère derrière ta tête, en fléchissant le coude. Marque une pause, puis ramène l'haltère à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart, holding a dumbbell in one hand.",
+      "Raise the dumbbell overhead, fully extending your arm.",
+      "Keep your upper arm close to your head and perpendicular to the ground.",
+      "Slowly lower the dumbbell behind your head, bending your elbow.",
+      "Pause for a moment, then raise the dumbbell back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai in piedi con i piedi alla larghezza delle spalle, tenendo un manubrio in una mano.",
+      "Alza il manubrio sopra la testa, estendendo completamente il braccio.",
+      "Tieni il braccio superiore vicino alla testa e perpendicolare al suolo.",
+      "Abbassa lentamente il manubrio dietro la testa, piegando il gomito.",
+      "Fermati un attimo, poi solleva il manubrio di nuovo alla posizione di partenza.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Bir elinizde bir dambıl tutarak ayaklarınızı omuz genişliğinde açın.",
+      "Kolunuzu tamamen uzatarak dambılı başınızın üzerine kaldırın.",
+      "Üst kolunuzu başınıza yakın ve yere dik tutun.",
+      "Dirseğinizi bükerek dambılı başınızın arkasına yavaşça indirin.",
+      "Bir an duraklayın ve dambılı tekrar başlangıç ​​pozisyonuna kaldırın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros, sujetando una mancuerna con una mano.",
+      "Levanta la mancuerna por encima de la cabeza, extendiendo completamente el brazo.",
+      "Mantén la parte superior del brazo cerca de la cabeza y perpendicular al suelo.",
+      "Baja lentamente la mancuerna detrás de la cabeza, flexionando el codo.",
+      "Haz una pausa por un momento, luego levanta la mancuerna de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, в одной руке держите гантель.",
+      "Поднимите гантель над головой, полностью выпрямляя руку.",
+      "Держите плечо близко к голове и перпендикулярно земле.",
+      "Медленно опустите гантель за голову, сгибая локоть.",
+      "Сделайте паузу на мгновение, затем поднимите гантель обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，一只手握住哑铃。",
+      "将哑铃举过头顶，充分伸展手臂。",
+      "保持上臂靠近头部并垂直于地面。",
+      "慢慢地将哑铃放到脑后，弯曲肘部。",
+      "暂停片刻，然后将哑铃举回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और एक हाथ में डंबल पकड़ लें।",
+      "अपनी बांह को पूरी तरह फैलाते हुए डम्बल को ऊपर उठाएं।",
+      "अपनी ऊपरी भुजा को अपने सिर के पास और ज़मीन से सीधा रखें।",
+      "अपनी कोहनी को मोड़ते हुए धीरे-धीरे डम्बल को अपने सिर के पीछे नीचे लाएँ।",
+      "एक पल के लिए रुकें, फिर डम्बल को वापस प्रारंभिक स्थिति में उठाएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków, trzymając hantlę w jednej dłoni.",
+      "Unieś hantlę nad głowę, całkowicie prostując ramię.",
+      "Trzymaj ramię blisko głowy, prostopadle do podłogi.",
+      "Powoli opuść hantlę za głowę, zginając łokieć.",
+      "Zatrzymaj się na chwilę, a następnie unieś hantlę z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "어깨 너비로 발을 벌리고 한손에 덤벨을 들고 섭니다.",
+      "덤벨을 머리 위로 올려 팔을 완전히 뻗습니다.",
+      "위팔을 머리 가까이에 유지하고 바닥과 수직으로 유지합니다.",
+      "팔꿈치를 구부려 덤벨을 머리 뒤로 천천히 내립니다.",
+      "잠시 멈춘 후 덤벨을 시작 자세로 올립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un haltère d'une main.",
+      "Lève l'haltère au-dessus de ta tête en tendant complètement ton bras.",
+      "Garde le haut du bras près de la tête et perpendiculaire au sol.",
+      "Abaisse lentement l'haltère derrière ta tête, en fléchissant le coude.",
+      "Marque une pause, puis ramène l'haltère à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders"
+  ],
+  "target": "triceps",
+  "image": "images/0423-BCUR88E.jpg",
+  "gif_url": "videos/0423-BCUR88E.gif",
+  "media_id": "BCUR88E",
+  "created_at": "2026-03-18T12:31:32.882051+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

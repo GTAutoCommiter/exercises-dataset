@@ -1,0 +1,132 @@
+{
+  "id": "0244",
+  "name": "cable twisting pull",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Attach a cable handle to a low pulley and stand facing the machine. Grasp the handle with your left hand and step away from the machine, extending your arm fully. Position your feet shoulder-width apart, with your knees slightly bent. Keep your back straight and your core engaged throughout the exercise. Pull the handle towards your body, rotating your torso to the right as you do so. Squeeze your back muscles at the end of the movement. Slowly return to the starting position, keeping tension on the cable. Repeat for the desired number of repetitions, then switch sides and perform with your right hand.",
+    "it": "Attacca una maniglia del cavo a una carrucola bassa e mettiti di fronte alla macchina. Afferra il manico con la mano sinistra e allontanati dalla macchina, estendendo completamente il braccio. Posiziona i piedi alla larghezza delle spalle, con le ginocchia leggermente piegate. Mantieni la schiena dritta e il core attivo durante tutto l'esercizio. Tira la maniglia verso il corpo, ruotando il busto verso destra mentre lo fai. Stringi i muscoli della schiena alla fine del movimento. Torna lentamente alla posizione iniziale, mantenendo la tensione sul cavo. Ripeti per il numero desiderato di ripetizioni, poi cambia lato ed esegui con la mano destra.",
+    "tr": "Alçak makaraya bir kablo tutacağı takın ve makineye bakacak şekilde durun. Sol elinizle kolu kavrayın ve kolunuzu tamamen uzatarak makineden uzaklaşın. Ayaklarınızı omuz genişliğinde açın, dizleriniz hafifçe bükülü olsun. Egzersiz boyunca sırtınızı düz ve merkez bölgenizi meşgul tutun. Kolu vücudunuza doğru çekin ve bunu yaparken gövdenizi sağa döndürün. Hareketin sonunda sırt kaslarınızı sıkın. Kablonun gerginliğini koruyarak yavaşça başlangıç ​​pozisyonuna dönün. İstenilen tekrar sayısı kadar tekrarlayın, ardından taraf değiştirin ve sağ elinizle gerçekleştirin.",
+    "es": "Coloca un mango de cable en una polea baja y ponte de pie frente a la máquina. Agarra el mango con la mano izquierda y aléjate de la máquina, extendiendo completamente el brazo. Coloca los pies separados a la altura de los hombros, con las rodillas ligeramente flexionadas. Mantén la espalda recta y el core activado durante todo el ejercicio. Tira del mango hacia tu cuerpo, rotando el torso hacia la derecha al hacerlo. Aprieta los músculos de la espalda al final del movimiento. Regresa lentamente a la posición inicial, manteniendo la tensión en el cable. Repite el número de repeticiones deseado, luego cambia de lado y realiza el ejercicio con la mano derecha.",
+    "ru": "Прикрепите тросовую ручку к низкому шкиву и встаньте лицом к машине. Возьмитесь за рукоятку левой рукой и отойдите от тренажера, полностью вытянув руку. Поставьте ноги на ширине плеч, слегка согнув колени. На протяжении всего упражнения держите спину прямой и напряженным корпус. Потяните ручку к себе, поворачивая при этом туловище вправо. В конце движения напрягите мышцы спины. Медленно вернитесь в исходное положение, сохраняя натяжение троса. Повторите необходимое количество повторений, затем поменяйте сторону и выполните упражнение правой рукой.",
+    "zh": "将电缆手柄连接到低滑轮上并面向机器站立。 用左手抓住手柄，离开机器，完全伸展手臂。 双脚分开与肩同宽，膝盖稍微弯曲。 在整个练习过程中保持背部挺直，核心肌群参与其中。 将手柄拉向您的身体，同时将您的躯干向右旋转。 动作结束时挤压背部肌肉。 慢慢回到起始位置，保持绳索的张力。 重复所需的重复次数，然后换边并用右手执行。",
+    "hi": "एक केबल हैंडल को निचली पुली से जोड़ें और मशीन की ओर मुंह करके खड़े हो जाएं। अपने बाएं हाथ से हैंडल को पकड़ें और अपने हाथ को पूरी तरह फैलाते हुए मशीन से दूर हट जाएं। अपने पैरों को कंधे की चौड़ाई से अलग रखें, आपके घुटने थोड़े मुड़े हुए हों। पूरे अभ्यास के दौरान अपनी पीठ सीधी रखें और अपने कोर को व्यस्त रखें। ऐसा करते समय अपने धड़ को दाईं ओर घुमाते हुए, हैंडल को अपने शरीर की ओर खींचें। आंदोलन के अंत में अपनी पीठ की मांसपेशियों को निचोड़ें। केबल पर तनाव बनाए रखते हुए धीरे-धीरे प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएं, फिर पक्ष बदलें और अपने दाहिने हाथ से प्रदर्शन करें।",
+    "pl": "Podłącz uchwyt do dolnego bloku i stań przodem do maszyny. Chwyć uchwyt lewą ręką i odsuń się od maszyny, w pełni wyprostowując ramię. Ustaw stopy na szerokość barków, kolana lekko ugięte. Trzymaj plecy proste, a mięśnie brzucha napięte przez cały czas trwania ćwiczenia. Przyciągnij uchwyt do ciała, obracając tułów w prawo. Napnij mięśnie pleców na końcu ruchu. Powoli wróć do pozycji wyjściowej, utrzymując napięcie linki. Powtórz zalecaną liczbę powtórzeń, a następnie zmień stronę i wykonaj ćwiczenie prawą ręką.",
+    "ko": "저 도르래에 케이블 핸들을 연결하고 머신을 향해 섭니다. 왼손으로 핸들을 잡고 머신에서 물러나 팔을 완전히 뻗습니다. 어깨너비만큼 발을 벌리고 무릎을 약간 구부립니다. 등을 곧게 펴고 복부에 힘을 줍니다. 핸들을 몸 쪽으로 당기면서 몸통을 오른쪽으로 회전합니다. 동작의 끝에서 등 근육을 짜냅니다. 천천히 처음 위치로 돌아가면서 케이블의 긴장을 유지합니다. 원하는 횟수만큼 반복한 후 반대쪽으로 바꿔 오른손으로 진행합니다.",
+    "fr": "Fixe une poignée de câble à une poulie basse et tiens-toi face à la machine. Saisis la poignée avec ta main gauche et éloigne-toi de la machine, en étendant complètement ton bras. Positionne tes pieds écartés à la largeur des épaules, les genoux légèrement fléchis. Garde le dos droit et ta sangle abdominale gainée tout au long de l'exercice. Tire la poignée vers ton corps en faisant pivoter ton torse vers la droite pendant le mouvement. Contracte les muscles de ton dos à la fin du mouvement. Reviens lentement à la position de départ, en maintenant la tension sur le câble. Répète le nombre de répétitions souhaité, puis change de côté et effectue le mouvement avec ta main droite."
+  },
+  "instruction_steps": {
+    "en": [
+      "Attach a cable handle to a low pulley and stand facing the machine.",
+      "Grasp the handle with your left hand and step away from the machine, extending your arm fully.",
+      "Position your feet shoulder-width apart, with your knees slightly bent.",
+      "Keep your back straight and your core engaged throughout the exercise.",
+      "Pull the handle towards your body, rotating your torso to the right as you do so.",
+      "Squeeze your back muscles at the end of the movement.",
+      "Slowly return to the starting position, keeping tension on the cable.",
+      "Repeat for the desired number of repetitions, then switch sides and perform with your right hand."
+    ],
+    "it": [
+      "Attacca una maniglia del cavo a una carrucola bassa e mettiti di fronte alla macchina.",
+      "Afferra il manico con la mano sinistra e allontanati dalla macchina, estendendo completamente il braccio.",
+      "Posiziona i piedi alla larghezza delle spalle, con le ginocchia leggermente piegate.",
+      "Mantieni la schiena dritta e il core attivo durante tutto l'esercizio.",
+      "Tira la maniglia verso il corpo, ruotando il busto verso destra mentre lo fai.",
+      "Stringi i muscoli della schiena alla fine del movimento.",
+      "Torna lentamente alla posizione iniziale, mantenendo la tensione sul cavo.",
+      "Ripeti per il numero desiderato di ripetizioni, poi cambia lato ed esegui con la mano destra."
+    ],
+    "tr": [
+      "Alçak makaraya bir kablo tutacağı takın ve makineye bakacak şekilde durun.",
+      "Sol elinizle kolu kavrayın ve kolunuzu tamamen uzatarak makineden uzaklaşın.",
+      "Ayaklarınızı omuz genişliğinde açın, dizleriniz hafifçe bükülü olsun.",
+      "Egzersiz boyunca sırtınızı düz ve merkez bölgenizi meşgul tutun.",
+      "Kolu vücudunuza doğru çekin ve bunu yaparken gövdenizi sağa döndürün.",
+      "Hareketin sonunda sırt kaslarınızı sıkın.",
+      "Kablonun gerginliğini koruyarak yavaşça başlangıç ​​pozisyonuna dönün.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından taraf değiştirin ve sağ elinizle gerçekleştirin."
+    ],
+    "es": [
+      "Coloca un mango de cable en una polea baja y ponte de pie frente a la máquina.",
+      "Agarra el mango con la mano izquierda y aléjate de la máquina, extendiendo completamente el brazo.",
+      "Coloca los pies separados a la altura de los hombros, con las rodillas ligeramente flexionadas.",
+      "Mantén la espalda recta y el core activado durante todo el ejercicio.",
+      "Tira del mango hacia tu cuerpo, rotando el torso hacia la derecha al hacerlo.",
+      "Aprieta los músculos de la espalda al final del movimiento.",
+      "Regresa lentamente a la posición inicial, manteniendo la tensión en el cable.",
+      "Repite el número de repeticiones deseado, luego cambia de lado y realiza el ejercicio con la mano derecha."
+    ],
+    "ru": [
+      "Прикрепите тросовую ручку к низкому шкиву и встаньте лицом к машине.",
+      "Возьмитесь за рукоятку левой рукой и отойдите от тренажера, полностью вытянув руку.",
+      "Поставьте ноги на ширине плеч, слегка согнув колени.",
+      "На протяжении всего упражнения держите спину прямой и напряженным корпус.",
+      "Потяните ручку к себе, поворачивая при этом туловище вправо.",
+      "В конце движения напрягите мышцы спины.",
+      "Медленно вернитесь в исходное положение, сохраняя натяжение троса.",
+      "Повторите необходимое количество повторений, затем поменяйте сторону и выполните упражнение правой рукой."
+    ],
+    "zh": [
+      "将电缆手柄连接到低滑轮上并面向机器站立。",
+      "用左手抓住手柄，离开机器，完全伸展手臂。",
+      "双脚分开与肩同宽，膝盖稍微弯曲。",
+      "在整个练习过程中保持背部挺直，核心肌群参与其中。",
+      "将手柄拉向您的身体，同时将您的躯干向右旋转。",
+      "动作结束时挤压背部肌肉。",
+      "慢慢回到起始位置，保持绳索的张力。",
+      "重复所需的重复次数，然后换边并用右手执行。"
+    ],
+    "hi": [
+      "एक केबल हैंडल को निचली पुली से जोड़ें और मशीन की ओर मुंह करके खड़े हो जाएं।",
+      "अपने बाएं हाथ से हैंडल को पकड़ें और अपने हाथ को पूरी तरह फैलाते हुए मशीन से दूर हट जाएं।",
+      "अपने पैरों को कंधे की चौड़ाई से अलग रखें, आपके घुटने थोड़े मुड़े हुए हों।",
+      "पूरे अभ्यास के दौरान अपनी पीठ सीधी रखें और अपने कोर को व्यस्त रखें।",
+      "ऐसा करते समय अपने धड़ को दाईं ओर घुमाते हुए, हैंडल को अपने शरीर की ओर खींचें।",
+      "आंदोलन के अंत में अपनी पीठ की मांसपेशियों को निचोड़ें।",
+      "केबल पर तनाव बनाए रखते हुए धीरे-धीरे प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर पक्ष बदलें और अपने दाहिने हाथ से प्रदर्शन करें।"
+    ],
+    "pl": [
+      "Podłącz uchwyt do dolnego bloku i stań przodem do maszyny.",
+      "Chwyć uchwyt lewą ręką i odsuń się od maszyny, w pełni wyprostowując ramię.",
+      "Ustaw stopy na szerokość barków, kolana lekko ugięte.",
+      "Trzymaj plecy proste, a mięśnie brzucha napięte przez cały czas trwania ćwiczenia.",
+      "Przyciągnij uchwyt do ciała, obracając tułów w prawo.",
+      "Napnij mięśnie pleców na końcu ruchu.",
+      "Powoli wróć do pozycji wyjściowej, utrzymując napięcie linki.",
+      "Powtórz zalecaną liczbę powtórzeń, a następnie zmień stronę i wykonaj ćwiczenie prawą ręką."
+    ],
+    "ko": [
+      "저 도르래에 케이블 핸들을 연결하고 머신을 향해 섭니다.",
+      "왼손으로 핸들을 잡고 머신에서 물러나 팔을 완전히 뻗습니다.",
+      "어깨너비만큼 발을 벌리고 무릎을 약간 구부립니다.",
+      "등을 곧게 펴고 복부에 힘을 줍니다.",
+      "핸들을 몸 쪽으로 당기면서 몸통을 오른쪽으로 회전합니다.",
+      "동작의 끝에서 등 근육을 짜냅니다.",
+      "천천히 처음 위치로 돌아가면서 케이블의 긴장을 유지합니다.",
+      "원하는 횟수만큼 반복한 후 반대쪽으로 바꿔 오른손으로 진행합니다."
+    ],
+    "fr": [
+      "Fixe une poignée de câble à une poulie basse et tiens-toi face à la machine.",
+      "Saisis la poignée avec ta main gauche et éloigne-toi de la machine, en étendant complètement ton bras.",
+      "Positionne tes pieds écartés à la largeur des épaules, les genoux légèrement fléchis.",
+      "Garde le dos droit et ta sangle abdominale gainée tout au long de l'exercice.",
+      "Tire la poignée vers ton corps en faisant pivoter ton torse vers la droite pendant le mouvement.",
+      "Contracte les muscles de ton dos à la fin du mouvement.",
+      "Reviens lentement à la position de départ, en maintenant la tension sur le câble.",
+      "Répète le nombre de répétitions souhaité, puis change de côté et effectue le mouvement avec ta main droite."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "biceps"
+  ],
+  "target": "lats",
+  "image": "images/0244-zCgxPbV.jpg",
+  "gif_url": "videos/0244-zCgxPbV.gif",
+  "media_id": "zCgxPbV",
+  "created_at": "2026-03-18T12:31:32.876674+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

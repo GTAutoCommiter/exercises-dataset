@@ -1,0 +1,112 @@
+{
+  "id": "1346",
+  "name": "kneeling lat stretch",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Kneel on the ground with your knees hip-width apart and your toes pointing back. Extend your arms overhead and interlace your fingers. Keeping your back straight, slowly lean to the right side, feeling a stretch in your left lat muscle. Hold the stretch for 20-30 seconds, then return to the starting position. Repeat the stretch on the left side, leaning to the left and feeling a stretch in your right lat muscle. Continue alternating sides for the desired number of repetitions.",
+    "it": "Inginocchiati a terra con le ginocchia alla larghezza dei fianchi e le dita dei piedi rivolte all'indietro. Estendi le braccia sopra la testa e intreccia le dita. Tenendo la schiena dritta, inclinati lentamente verso il lato destro, avvertendo un allungamento nel muscolo lat sinistro. Mantieni l'allungamento per 20-30 secondi, quindi torna alla posizione di partenza. Ripeti l'allungamento sul lato sinistro, inclinandoti a sinistra e avvertendo un allungamento nel muscolo lat destro. Continua ad alternare i lati per il numero di ripetizioni desiderato.",
+    "tr": "Dizleriniz kalça genişliğinde açık ve ayak parmaklarınız geriye dönük olacak şekilde yere diz çökün. Kollarınızı yukarı doğru uzatın ve parmaklarınızı birbirine geçirin. Sırtınızı düz tutarak yavaşça sağ tarafa doğru eğin, sol lat kasınızda bir gerginlik hissedin. Gerdirmeyi 20-30 saniye kadar tutun, ardından başlangıç ​​pozisyonuna dönün. Sola doğru eğilerek ve sağ lat kasınızda bir gerginlik hissederek sol taraftaki esnemeyi tekrarlayın. İstenilen tekrar sayısı için alternatif taraflara devam edin.",
+    "es": "Arrodíllate en el suelo con las rodillas separadas a la altura de las caderas y los dedos de los pies apuntando hacia atrás. Extiende los brazos por encima de la cabeza y entrelaza los dedos. Manteniendo la espalda recta, inclínate lentamente hacia el lado derecho, sintiendo un estiramiento en el dorsal izquierdo. Mantén el estiramiento durante 20-30 segundos, luego vuelve a la posición inicial. Repite el estiramiento en el lado izquierdo, inclinándote hacia la izquierda y sintiendo un estiramiento en el dorsal derecho. Continúa alternando lados durante el número de repeticiones deseado.",
+    "ru": "Встаньте на колени, расставив колени на ширине плеч и носки ног назад. Вытяните руки над головой и переплетите пальцы. Держа спину прямо, медленно наклонитесь в правую сторону, чувствуя растяжение левой широчайшей мышцы. Удерживайте растяжку 20–30 секунд, затем вернитесь в исходное положение. Повторите растяжку с левой стороны, наклоняясь влево и чувствуя растяжение правой широчайшей мышцы. Продолжайте чередовать стороны желаемое количество повторений.",
+    "zh": "跪在地上，膝盖分开与臀部同宽，脚趾向后。 将双臂伸过头顶，手指交叉。 保持背部挺直，慢慢向右侧倾斜，感受左侧背阔肌的拉伸。 保持伸展动作 20-30 秒，然后回到起始位置。 在左侧重复该拉伸动作，向左侧倾斜，感受右侧背阔肌的拉伸。 继续交替进行所需的重复次数。",
+    "hi": "अपने घुटनों को कूल्हे-चौड़ाई पर अलग रखते हुए और अपने पैर की उंगलियों को पीछे की ओर रखते हुए जमीन पर झुकें। अपनी बाहों को ऊपर की ओर फैलाएं और अपनी उंगलियों को आपस में फंसा लें। अपनी पीठ को सीधा रखते हुए, धीरे-धीरे दाहिनी ओर झुकें, अपनी बाईं लैट मांसपेशी में खिंचाव महसूस करें। 20-30 सेकंड तक खिंचाव बनाए रखें, फिर प्रारंभिक स्थिति में लौट आएं। बाईं ओर के खिंचाव को दोहराएं, बाईं ओर झुकें और अपनी दाहिनी लैट मांसपेशी में खिंचाव महसूस करें। दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।",
+    "pl": "Uklęknij na podłodze, kolana rozstawione na szerokość bioder, palce stóp skierowane do tyłu. Wyciągnij ramiona nad głowę i spleć palce dłoni. Utrzymując proste plecy, powoli pochyl się w prawą stronę, odczuwając rozciąganie w lewym mięśniu najszerszym grzbietu. Przytrzymaj rozciąganie przez 20-30 sekund, a następnie wróć do pozycji wyjściowej. Powtórz rozciąganie po lewej stronie, pochylając się w lewo i odczuwając rozciąganie w prawym mięśniu najszerszym grzbietu. Kontynuuj naprzemienne rozciąganie zgodnie z zaplanowaną liczbą powtórzeń.",
+    "ko": "땅에 무릎을 꿇은 자세에서 무릎은 엉덩이너비로 벌리고 발가락은 뒤를 향하게 합니다. 팔을 머리 위로 펼치고 손가락을 깍지껴 연결합니다. 등을 곧게 유지하면서 오른쪽으로 천천히 몸을 기울여 왼쪽 광배근에 스트레치를 느낍니다. 스트레치를 20-30초 유지한 후 시작 위치로 돌아옵니다. 왼쪽으로 기울여 오른쪽 광배근에 스트레치를 느끼면서 양쪽을 교대로 계속합니다. 원하는 횟수만큼 양쪽을 반복합니다.",
+    "fr": "Mets-toi à genoux au sol, les genoux écartés à la largeur des hanches et les orteils pointés vers l'arrière. Étends tes bras au-dessus de la tête et entrelace tes doigts. En gardant le dos droit, penche-toi lentement vers le côté droit, en ressentant un étirement dans ton grand dorsal gauche. Maintiens l'étirement pendant 20 à 30 secondes, puis reviens à la position de départ. Répète l'étirement du côté gauche, en te penchant vers la gauche et en ressentant un étirement dans ton grand dorsal droit. Continue à alterner les côtés pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Kneel on the ground with your knees hip-width apart and your toes pointing back.",
+      "Extend your arms overhead and interlace your fingers.",
+      "Keeping your back straight, slowly lean to the right side, feeling a stretch in your left lat muscle.",
+      "Hold the stretch for 20-30 seconds, then return to the starting position.",
+      "Repeat the stretch on the left side, leaning to the left and feeling a stretch in your right lat muscle.",
+      "Continue alternating sides for the desired number of repetitions."
+    ],
+    "it": [
+      "Inginocchiati a terra con le ginocchia alla larghezza dei fianchi e le dita dei piedi rivolte all'indietro.",
+      "Estendi le braccia sopra la testa e intreccia le dita.",
+      "Tenendo la schiena dritta, inclinati lentamente verso il lato destro, avvertendo un allungamento nel muscolo lat sinistro.",
+      "Mantieni l'allungamento per 20-30 secondi, quindi torna alla posizione di partenza.",
+      "Ripeti l'allungamento sul lato sinistro, inclinandoti a sinistra e avvertendo un allungamento nel muscolo lat destro.",
+      "Continua ad alternare i lati per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Dizleriniz kalça genişliğinde açık ve ayak parmaklarınız geriye dönük olacak şekilde yere diz çökün.",
+      "Kollarınızı yukarı doğru uzatın ve parmaklarınızı birbirine geçirin.",
+      "Sırtınızı düz tutarak yavaşça sağ tarafa doğru eğin, sol lat kasınızda bir gerginlik hissedin.",
+      "Gerdirmeyi 20-30 saniye kadar tutun, ardından başlangıç ​​pozisyonuna dönün.",
+      "Sola doğru eğilerek ve sağ lat kasınızda bir gerginlik hissederek sol taraftaki esnemeyi tekrarlayın.",
+      "İstenilen tekrar sayısı için alternatif taraflara devam edin."
+    ],
+    "es": [
+      "Arrodíllate en el suelo con las rodillas separadas a la altura de las caderas y los dedos de los pies apuntando hacia atrás.",
+      "Extiende los brazos por encima de la cabeza y entrelaza los dedos.",
+      "Manteniendo la espalda recta, inclínate lentamente hacia el lado derecho, sintiendo un estiramiento en el dorsal izquierdo.",
+      "Mantén el estiramiento durante 20-30 segundos, luego vuelve a la posición inicial.",
+      "Repite el estiramiento en el lado izquierdo, inclinándote hacia la izquierda y sintiendo un estiramiento en el dorsal derecho.",
+      "Continúa alternando lados durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте на колени, расставив колени на ширине плеч и носки ног назад.",
+      "Вытяните руки над головой и переплетите пальцы.",
+      "Держа спину прямо, медленно наклонитесь в правую сторону, чувствуя растяжение левой широчайшей мышцы.",
+      "Удерживайте растяжку 20–30 секунд, затем вернитесь в исходное положение.",
+      "Повторите растяжку с левой стороны, наклоняясь влево и чувствуя растяжение правой широчайшей мышцы.",
+      "Продолжайте чередовать стороны желаемое количество повторений."
+    ],
+    "zh": [
+      "跪在地上，膝盖分开与臀部同宽，脚趾向后。",
+      "将双臂伸过头顶，手指交叉。",
+      "保持背部挺直，慢慢向右侧倾斜，感受左侧背阔肌的拉伸。",
+      "保持伸展动作 20-30 秒，然后回到起始位置。",
+      "在左侧重复该拉伸动作，向左侧倾斜，感受右侧背阔肌的拉伸。",
+      "继续交替进行所需的重复次数。"
+    ],
+    "hi": [
+      "अपने घुटनों को कूल्हे-चौड़ाई पर अलग रखते हुए और अपने पैर की उंगलियों को पीछे की ओर रखते हुए जमीन पर झुकें।",
+      "अपनी बाहों को ऊपर की ओर फैलाएं और अपनी उंगलियों को आपस में फंसा लें।",
+      "अपनी पीठ को सीधा रखते हुए, धीरे-धीरे दाहिनी ओर झुकें, अपनी बाईं लैट मांसपेशी में खिंचाव महसूस करें।",
+      "20-30 सेकंड तक खिंचाव बनाए रखें, फिर प्रारंभिक स्थिति में लौट आएं।",
+      "बाईं ओर के खिंचाव को दोहराएं, बाईं ओर झुकें और अपनी दाहिनी लैट मांसपेशी में खिंचाव महसूस करें।",
+      "दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।"
+    ],
+    "pl": [
+      "Uklęknij na podłodze, kolana rozstawione na szerokość bioder, palce stóp skierowane do tyłu.",
+      "Wyciągnij ramiona nad głowę i spleć palce dłoni.",
+      "Utrzymując proste plecy, powoli pochyl się w prawą stronę, odczuwając rozciąganie w lewym mięśniu najszerszym grzbietu.",
+      "Przytrzymaj rozciąganie przez 20-30 sekund, a następnie wróć do pozycji wyjściowej.",
+      "Powtórz rozciąganie po lewej stronie, pochylając się w lewo i odczuwając rozciąganie w prawym mięśniu najszerszym grzbietu.",
+      "Kontynuuj naprzemienne rozciąganie zgodnie z zaplanowaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "땅에 무릎을 꿇은 자세에서 무릎은 엉덩이너비로 벌리고 발가락은 뒤를 향하게 합니다.",
+      "팔을 머리 위로 펼치고 손가락을 깍지껴 연결합니다.",
+      "등을 곧게 유지하면서 오른쪽으로 천천히 몸을 기울여 왼쪽 광배근에 스트레치를 느낍니다.",
+      "스트레치를 20-30초 유지한 후 시작 위치로 돌아옵니다.",
+      "왼쪽으로 기울여 오른쪽 광배근에 스트레치를 느끼면서 양쪽을 교대로 계속합니다.",
+      "원하는 횟수만큼 양쪽을 반복합니다."
+    ],
+    "fr": [
+      "Mets-toi à genoux au sol, les genoux écartés à la largeur des hanches et les orteils pointés vers l'arrière.",
+      "Étends tes bras au-dessus de la tête et entrelace tes doigts.",
+      "En gardant le dos droit, penche-toi lentement vers le côté droit, en ressentant un étirement dans ton grand dorsal gauche.",
+      "Maintiens l'étirement pendant 20 à 30 secondes, puis reviens à la position de départ.",
+      "Répète l'étirement du côté gauche, en te penchant vers la gauche et en ressentant un étirement dans ton grand dorsal droit.",
+      "Continue à alterner les côtés pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "target": "lats",
+  "image": "images/1346-f38OEuO.jpg",
+  "gif_url": "videos/1346-f38OEuO.gif",
+  "media_id": "f38OEuO",
+  "created_at": "2026-03-18T12:31:32.885794+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

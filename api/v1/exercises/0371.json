@@ -1,0 +1,113 @@
+{
+  "id": "0371",
+  "name": "dumbbell plyo squat",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand at your sides. Lower your body into a squat position by bending your knees and pushing your hips back. As you reach the bottom of the squat, explode upward, jumping off the ground. While in the air, quickly switch the position of your feet, landing with your opposite foot forward. Immediately lower your body back into a squat position and repeat the jump, switching your feet again. Continue alternating the position of your feet with each jump for the desired number of repetitions.",
+    "it": "Stai con i piedi a larghezza delle spalle, tenendo un manubrio in ogni mano ai lati. Abbassa il corpo in posizione accovacciata piegando le ginocchia e spingendo i fianchi all'indietro. Quando arrivi in fondo allo squat, esplodi verso l'alto, saltando da terra. Mentre sei in aria, cambia rapidamente la posizione dei piedi, atterrando con il piede opposto in avanti. Abbassa subito il corpo in posizione accovacciata e ripeti il salto, cambiando di nuovo i piedi. Continua ad alternare la posizione dei piedi ad ogni salto per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durun, her iki elinizde de birer dambıl tutun. Dizlerinizi bükerek ve kalçalarınızı geriye doğru iterek vücudunuzu çömelme pozisyonuna indirin. Squat'ın dibine ulaştığınızda yerden atlayarak yukarıya doğru patlayın. Havadayken ayaklarınızın konumunu hızla değiştirin ve karşı ayağınız öne doğru inin. Hemen vücudunuzu tekrar çömelme pozisyonuna indirin ve ayaklarınızı tekrar değiştirerek atlamayı tekrarlayın. İstediğiniz tekrar sayısı için her atlamada ayaklarınızın konumunu değiştirmeye devam edin.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros, sosteniendo una mancuerna en cada mano a los costados. Baja el cuerpo hacia una posición de sentadilla flexionando las rodillas y empujando las caderas hacia atrás. Cuando llegues al punto más bajo de la sentadilla, impúlsate explosivamente hacia arriba, saltando del suelo. Mientras estás en el aire, cambia rápidamente la posición de los pies, aterrizando con el pie opuesto adelante. Baja inmediatamente el cuerpo de vuelta a la posición de sentadilla y repite el salto, cambiando de nuevo los pies. Continúa alternando la posición de los pies en cada salto durante el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, держа по гантели в каждой руке по бокам. Опустите тело в присед, согнув колени и отведя бедра назад. Достигнув нижней точки приседа, резко взлетайте вверх, отпрыгивая от земли. Находясь в воздухе, быстро поменяйте положение ног, приземлившись противоположной ногой вперед. Немедленно опустите тело обратно в положение приседа и повторите прыжок, снова поменяв ноги. Продолжайте менять положение ног при каждом прыжке желаемое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，双手各握一个哑铃放在身体两侧。 弯曲膝盖并将臀部向后推，将身体降低至蹲姿。 当你到达深蹲底部时，向上爆发，跳离地面。 在空中时，快速改变双脚的位置，落地时另一只脚向前。 立即将身体放回蹲姿，然后重复跳跃，再次换脚。 每次跳跃时继续交替双脚的位置，达到所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, दोनों हाथों में एक-एक डंबल पकड़ लें। अपने घुटनों को मोड़कर और अपने कूल्हों को पीछे धकेलते हुए अपने शरीर को स्क्वाट स्थिति में लाएँ। जैसे ही आप स्क्वाट के निचले भाग तक पहुँचते हैं, जमीन से कूदते हुए ऊपर की ओर विस्फोट करें। हवा में रहते हुए, अपने विपरीत पैर को आगे की ओर रखते हुए, जल्दी से अपने पैरों की स्थिति बदलें। तुरंत अपने शरीर को वापस स्क्वाट स्थिति में ले आएं और अपने पैरों को फिर से बदलते हुए छलांग दोहराएं। दोहराव की वांछित संख्या के लिए प्रत्येक छलांग के साथ अपने पैरों की स्थिति को बदलते रहें।",
+    "pl": "Stań w rozkroku na szerokość barków, trzymając w każdej dłoni hantlę wzdłuż ciała. Opuść ciało do pozycji przysiadu, uginając kolana i cofając biodra. Gdy osiągniesz najniższy punkt przysiadu, gwałtownie wybij się w górę, odrywając stopy od podłoża. W trakcie skoku szybko zamień ułożenie stóp, lądując z przeciwną nogą do przodu. Natychmiast opuść ciało z powrotem do przysiadu i powtórz skok, ponownie zamieniając nogi. Kontynuuj naprzemienne ustawianie stóp przy każdym skoku przez zalecaną liczbę powtórzeń.",
+    "ko": "발을 어깨 넓이로 벌리고 양손에 덤벨을 잡고 옆에 놓습니다. 무릎을 구부리고 엉덩이를 뒤로 밀면서 스쿼트 자세로 몸을 낮춥니다. 스쿼트의 최하점에 도달하면 폭발적으로 위로 솟아올라 바닥에서 뛰어올립니다. 공중에서 빠르게 발의 위치를 바꾸고 반대쪽 발이 앞으로 향하게 착지합니다. 즉시 몸을 다시 스쿼트 자세로 낮추고 뛰어올리면서 발을 다시 바꿉니다. 원하는 반복 횟수만큼 매 점프마다 발의 위치를 계속 번갈아 변경합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un haltère dans chaque main le long du corps. Abaisse ton corps en position de squat en fléchissant tes genoux et en poussant tes hanches vers l'arrière. Une fois au bas du squat, explose vers le haut en sautant du sol. En l'air, change rapidement la position de tes pieds pour atterrir avec le pied opposé devant. Abaisse immédiatement ton corps en position de squat et répète le saut, en changeant de nouveau de pieds. Continue à alterner la position de tes pieds à chaque saut pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart, holding a dumbbell in each hand at your sides.",
+      "Lower your body into a squat position by bending your knees and pushing your hips back.",
+      "As you reach the bottom of the squat, explode upward, jumping off the ground.",
+      "While in the air, quickly switch the position of your feet, landing with your opposite foot forward.",
+      "Immediately lower your body back into a squat position and repeat the jump, switching your feet again.",
+      "Continue alternating the position of your feet with each jump for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi a larghezza delle spalle, tenendo un manubrio in ogni mano ai lati.",
+      "Abbassa il corpo in posizione accovacciata piegando le ginocchia e spingendo i fianchi all'indietro.",
+      "Quando arrivi in fondo allo squat, esplodi verso l'alto, saltando da terra.",
+      "Mentre sei in aria, cambia rapidamente la posizione dei piedi, atterrando con il piede opposto in avanti.",
+      "Abbassa subito il corpo in posizione accovacciata e ripeti il salto, cambiando di nuovo i piedi.",
+      "Continua ad alternare la posizione dei piedi ad ogni salto per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durun, her iki elinizde de birer dambıl tutun.",
+      "Dizlerinizi bükerek ve kalçalarınızı geriye doğru iterek vücudunuzu çömelme pozisyonuna indirin.",
+      "Squat'ın dibine ulaştığınızda yerden atlayarak yukarıya doğru patlayın.",
+      "Havadayken ayaklarınızın konumunu hızla değiştirin ve karşı ayağınız öne doğru inin.",
+      "Hemen vücudunuzu tekrar çömelme pozisyonuna indirin ve ayaklarınızı tekrar değiştirerek atlamayı tekrarlayın.",
+      "İstediğiniz tekrar sayısı için her atlamada ayaklarınızın konumunu değiştirmeye devam edin."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros, sosteniendo una mancuerna en cada mano a los costados.",
+      "Baja el cuerpo hacia una posición de sentadilla flexionando las rodillas y empujando las caderas hacia atrás.",
+      "Cuando llegues al punto más bajo de la sentadilla, impúlsate explosivamente hacia arriba, saltando del suelo.",
+      "Mientras estás en el aire, cambia rápidamente la posición de los pies, aterrizando con el pie opuesto adelante.",
+      "Baja inmediatamente el cuerpo de vuelta a la posición de sentadilla y repite el salto, cambiando de nuevo los pies.",
+      "Continúa alternando la posición de los pies en cada salto durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, держа по гантели в каждой руке по бокам.",
+      "Опустите тело в присед, согнув колени и отведя бедра назад.",
+      "Достигнув нижней точки приседа, резко взлетайте вверх, отпрыгивая от земли.",
+      "Находясь в воздухе, быстро поменяйте положение ног, приземлившись противоположной ногой вперед.",
+      "Немедленно опустите тело обратно в положение приседа и повторите прыжок, снова поменяв ноги.",
+      "Продолжайте менять положение ног при каждом прыжке желаемое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，双手各握一个哑铃放在身体两侧。",
+      "弯曲膝盖并将臀部向后推，将身体降低至蹲姿。",
+      "当你到达深蹲底部时，向上爆发，跳离地面。",
+      "在空中时，快速改变双脚的位置，落地时另一只脚向前。",
+      "立即将身体放回蹲姿，然后重复跳跃，再次换脚。",
+      "每次跳跃时继续交替双脚的位置，达到所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, दोनों हाथों में एक-एक डंबल पकड़ लें।",
+      "अपने घुटनों को मोड़कर और अपने कूल्हों को पीछे धकेलते हुए अपने शरीर को स्क्वाट स्थिति में लाएँ।",
+      "जैसे ही आप स्क्वाट के निचले भाग तक पहुँचते हैं, जमीन से कूदते हुए ऊपर की ओर विस्फोट करें।",
+      "हवा में रहते हुए, अपने विपरीत पैर को आगे की ओर रखते हुए, जल्दी से अपने पैरों की स्थिति बदलें।",
+      "तुरंत अपने शरीर को वापस स्क्वाट स्थिति में ले आएं और अपने पैरों को फिर से बदलते हुए छलांग दोहराएं।",
+      "दोहराव की वांछित संख्या के लिए प्रत्येक छलांग के साथ अपने पैरों की स्थिति को बदलते रहें।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków, trzymając w każdej dłoni hantlę wzdłuż ciała.",
+      "Opuść ciało do pozycji przysiadu, uginając kolana i cofając biodra.",
+      "Gdy osiągniesz najniższy punkt przysiadu, gwałtownie wybij się w górę, odrywając stopy od podłoża.",
+      "W trakcie skoku szybko zamień ułożenie stóp, lądując z przeciwną nogą do przodu.",
+      "Natychmiast opuść ciało z powrotem do przysiadu i powtórz skok, ponownie zamieniając nogi.",
+      "Kontynuuj naprzemienne ustawianie stóp przy każdym skoku przez zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 넓이로 벌리고 양손에 덤벨을 잡고 옆에 놓습니다.",
+      "무릎을 구부리고 엉덩이를 뒤로 밀면서 스쿼트 자세로 몸을 낮춥니다.",
+      "스쿼트의 최하점에 도달하면 폭발적으로 위로 솟아올라 바닥에서 뛰어올립니다.",
+      "공중에서 빠르게 발의 위치를 바꾸고 반대쪽 발이 앞으로 향하게 착지합니다.",
+      "즉시 몸을 다시 스쿼트 자세로 낮추고 뛰어올리면서 발을 다시 바꿉니다.",
+      "원하는 반복 횟수만큼 매 점프마다 발의 위치를 계속 번갈아 변경합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un haltère dans chaque main le long du corps.",
+      "Abaisse ton corps en position de squat en fléchissant tes genoux et en poussant tes hanches vers l'arrière.",
+      "Une fois au bas du squat, explose vers le haut en sautant du sol.",
+      "En l'air, change rapidement la position de tes pieds pour atterrir avec le pied opposé devant.",
+      "Abaisse immédiatement ton corps en position de squat et répète le saut, en changeant de nouveau de pieds.",
+      "Continue à alterner la position de tes pieds à chaque saut pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "glutes",
+  "image": "images/0371-S4pwGlc.jpg",
+  "gif_url": "videos/0371-S4pwGlc.gif",
+  "media_id": "S4pwGlc",
+  "created_at": "2026-03-18T12:31:32.880478+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

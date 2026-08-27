@@ -1,0 +1,112 @@
+{
+  "id": "0096",
+  "name": "barbell side bent v. 2",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and hold a barbell with both hands, palms facing down. Keep your back straight and core engaged throughout the exercise. Slowly bend your torso to the right side, lowering the barbell towards your right knee. Pause for a moment, then return to the starting position. Repeat the movement on the left side. Continue alternating sides for the desired number of repetitions.",
+    "it": "Stai con i piedi a larghezza delle spalle e tieni un bilanciere con entrambe le mani, palmi rivolti verso il basso. Mantieni la schiena dritta e il core impegnato durante tutto l'esercizio. Piega lentamente il busto verso il lato destro, abbassando il bilanciere verso il ginocchio destro. Fermati un attimo, poi torna alla posizione iniziale. Ripeti il movimento sul lato sinistro. Continua ad alternare i lati per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınızı omuz genişliğinde açın ve halteri iki elinizle, avuçlarınız aşağıya bakacak şekilde tutun. Egzersiz boyunca sırtınızı düz ve göbek bölgenizi meşgul tutun. Gövdenizi yavaşça sağ tarafa doğru eğin ve halteri sağ dizinize doğru indirin. Bir an duraklayın, ardından başlangıç ​​pozisyonuna dönün. Hareketi sol tarafta tekrarlayın. İstenilen tekrar sayısı için alternatif taraflara devam edin.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y sujeta una barra con ambas manos, con las palmas hacia abajo. Mantén la espalda recta y el core activado durante todo el ejercicio. Inclina lentamente el torso hacia el lado derecho, bajando la barra hacia tu rodilla derecha. Haz una pausa breve y luego vuelve a la posición inicial. Repite el movimiento hacia el lado izquierdo. Continúa alternando lados durante el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, возьмите штангу обеими руками ладонями вниз. На протяжении всего упражнения держите спину прямой и напряженным корпус. Медленно наклоните туловище в правую сторону, опуская штангу к правому колену. Сделайте паузу на мгновение, затем вернитесь в исходное положение. Повторите движение с левой стороны. Продолжайте чередовать стороны желаемое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，双手握住杠铃，掌心朝下。 在整个练习过程中保持背部挺直并保持核心参与。 慢慢地将你的躯干弯曲到右侧，将杠铃向右膝方向降低。 暂停片刻，然后回到起始位置。 在左侧重复该动作。 继续交替进行所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और दोनों हाथों से बारबेल पकड़ें, हथेलियां नीचे की ओर हों। पूरे अभ्यास के दौरान अपनी पीठ सीधी रखें और मुख्य भाग को व्यस्त रखें। धीरे-धीरे अपने धड़ को दाहिनी ओर झुकाएं, बारबेल को अपने दाहिने घुटने की ओर नीचे करें। एक पल के लिए रुकें, फिर प्रारंभिक स्थिति में लौट आएं। बायीं ओर भी यही क्रिया दोहरायें। दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।",
+    "pl": "Stań ze stopami na szerokość barków, trzymając sztangę obiema rękami, dłońmi skierowanymi w dół. Trzymaj plecy proste, a mięśnie brzucha napięte przez cały czas trwania ćwiczenia. Powoli pochyl tułów w prawą stronę, opuszczając sztangę w kierunku prawego kolana. Zatrzymaj się na chwilę, a następnie wróć do pozycji wyjściowej. Powtórz ruch w lewą stronę. Kontynuuj naprzemienne pochylenia przez zadaną liczbę powtórzeń.",
+    "ko": "발을 어깨 너비로 벌리고 양손으로 바벨을 들며 손은 아래를 향합니다. 등을 곧게 펴고 코어에 힘을 줍니다. 천천히 몸을 오른쪽으로 굽혀 바벨을 오른쪽 무릎을 향해 내립니다. 잠시 멈춘 후 시작 위치로 돌아갑니다. 왼쪽으로 같은 동작을 반복합니다. 원하는 반복 횟수만큼 좌우를 번갈아 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens une barre à deux mains, paumes tournées vers le bas. Garde le dos droit et ta sangle abdominale gainée tout au long de l'exercice. Fléchis lentement ton torse vers le côté droit, en abaissant la barre vers ton genou droit. Marque une pause, puis reviens à la position de départ. Répète le mouvement du côté gauche. Continue à alterner les côtés pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and hold a barbell with both hands, palms facing down.",
+      "Keep your back straight and core engaged throughout the exercise.",
+      "Slowly bend your torso to the right side, lowering the barbell towards your right knee.",
+      "Pause for a moment, then return to the starting position.",
+      "Repeat the movement on the left side.",
+      "Continue alternating sides for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi a larghezza delle spalle e tieni un bilanciere con entrambe le mani, palmi rivolti verso il basso.",
+      "Mantieni la schiena dritta e il core impegnato durante tutto l'esercizio.",
+      "Piega lentamente il busto verso il lato destro, abbassando il bilanciere verso il ginocchio destro.",
+      "Fermati un attimo, poi torna alla posizione iniziale.",
+      "Ripeti il movimento sul lato sinistro.",
+      "Continua ad alternare i lati per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınızı omuz genişliğinde açın ve halteri iki elinizle, avuçlarınız aşağıya bakacak şekilde tutun.",
+      "Egzersiz boyunca sırtınızı düz ve göbek bölgenizi meşgul tutun.",
+      "Gövdenizi yavaşça sağ tarafa doğru eğin ve halteri sağ dizinize doğru indirin.",
+      "Bir an duraklayın, ardından başlangıç ​​pozisyonuna dönün.",
+      "Hareketi sol tarafta tekrarlayın.",
+      "İstenilen tekrar sayısı için alternatif taraflara devam edin."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y sujeta una barra con ambas manos, con las palmas hacia abajo.",
+      "Mantén la espalda recta y el core activado durante todo el ejercicio.",
+      "Inclina lentamente el torso hacia el lado derecho, bajando la barra hacia tu rodilla derecha.",
+      "Haz una pausa breve y luego vuelve a la posición inicial.",
+      "Repite el movimiento hacia el lado izquierdo.",
+      "Continúa alternando lados durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, возьмите штангу обеими руками ладонями вниз.",
+      "На протяжении всего упражнения держите спину прямой и напряженным корпус.",
+      "Медленно наклоните туловище в правую сторону, опуская штангу к правому колену.",
+      "Сделайте паузу на мгновение, затем вернитесь в исходное положение.",
+      "Повторите движение с левой стороны.",
+      "Продолжайте чередовать стороны желаемое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，双手握住杠铃，掌心朝下。",
+      "在整个练习过程中保持背部挺直并保持核心参与。",
+      "慢慢地将你的躯干弯曲到右侧，将杠铃向右膝方向降低。",
+      "暂停片刻，然后回到起始位置。",
+      "在左侧重复该动作。",
+      "继续交替进行所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और दोनों हाथों से बारबेल पकड़ें, हथेलियां नीचे की ओर हों।",
+      "पूरे अभ्यास के दौरान अपनी पीठ सीधी रखें और मुख्य भाग को व्यस्त रखें।",
+      "धीरे-धीरे अपने धड़ को दाहिनी ओर झुकाएं, बारबेल को अपने दाहिने घुटने की ओर नीचे करें।",
+      "एक पल के लिए रुकें, फिर प्रारंभिक स्थिति में लौट आएं।",
+      "बायीं ओर भी यही क्रिया दोहरायें।",
+      "दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।"
+    ],
+    "pl": [
+      "Stań ze stopami na szerokość barków, trzymając sztangę obiema rękami, dłońmi skierowanymi w dół.",
+      "Trzymaj plecy proste, a mięśnie brzucha napięte przez cały czas trwania ćwiczenia.",
+      "Powoli pochyl tułów w prawą stronę, opuszczając sztangę w kierunku prawego kolana.",
+      "Zatrzymaj się na chwilę, a następnie wróć do pozycji wyjściowej.",
+      "Powtórz ruch w lewą stronę.",
+      "Kontynuuj naprzemienne pochylenia przez zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 너비로 벌리고 양손으로 바벨을 들며 손은 아래를 향합니다.",
+      "등을 곧게 펴고 코어에 힘을 줍니다.",
+      "천천히 몸을 오른쪽으로 굽혀 바벨을 오른쪽 무릎을 향해 내립니다.",
+      "잠시 멈춘 후 시작 위치로 돌아갑니다.",
+      "왼쪽으로 같은 동작을 반복합니다.",
+      "원하는 반복 횟수만큼 좌우를 번갈아 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens une barre à deux mains, paumes tournées vers le bas.",
+      "Garde le dos droit et ta sangle abdominale gainée tout au long de l'exercice.",
+      "Fléchis lentement ton torse vers le côté droit, en abaissant la barre vers ton genou droit.",
+      "Marque une pause, puis reviens à la position de départ.",
+      "Répète le mouvement du côté gauche.",
+      "Continue à alterner les côtés pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "obliques",
+  "secondary_muscles": [
+    "obliques",
+    "lower back"
+  ],
+  "target": "abs",
+  "image": "images/0096-i4JkUaL.jpg",
+  "gif_url": "videos/0096-i4JkUaL.gif",
+  "media_id": "i4JkUaL",
+  "created_at": "2026-03-18T12:31:32.872821+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

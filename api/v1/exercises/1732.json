@@ -1,0 +1,122 @@
+{
+  "id": "1732",
+  "name": "dumbbell forward lunge triceps extension",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand. Take a step forward with your right foot, lowering your body into a lunge position. Keep your back straight and your chest up. Extend your arms straight overhead, keeping your elbows close to your ears. Lower the dumbbells behind your head by bending your elbows. Pause for a moment, then straighten your arms to return to the starting position. Repeat the movement for the desired number of repetitions, then switch legs and repeat.",
+    "it": "Stai con i piedi a larghezza delle spalle, tenendo un manubrio in ciascuna mano. Fai un passo avanti con il piede destro, abbassando il corpo in posizione di affondamento. Tieni la schiena dritta e il petto sollevato. Allunga le braccia dritte sopra la testa, tenendo i gomiti vicino alle orecchie. Abbassa i manubri dietro la testa piegando i gomiti. Fermati un attimo, poi raddrizza le braccia per tornare alla posizione iniziale. Ripeti il movimento per il numero desiderato di ripetizioni, poi cambia gamba e ripeti.",
+    "tr": "Ayaklarınız omuz genişliğinde açık, her iki elinizde de birer dambıl tutarak ayakta durun. Sağ ayağınızla öne doğru bir adım atın ve vücudunuzu hamle pozisyonuna indirin. Sırtınızı dik ve göğsünüzü dik tutun. Dirseklerinizi kulaklarınıza yakın tutarak kollarınızı düz bir şekilde yukarı doğru uzatın. Dirseklerinizi bükerek dambılları başınızın arkasına indirin. Bir an duraklayın ve ardından başlangıç ​​pozisyonuna dönmek için kollarınızı düzleştirin. Hareketi istediğiniz tekrar sayısı kadar tekrarlayın, ardından bacak değiştirin ve tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros, sujetando una mancuerna en cada mano. Da un paso adelante con el pie derecho, bajando el cuerpo hasta una posición de zancada. Mantén la espalda recta y el pecho elevado. Extiende los brazos rectos por encima de la cabeza, manteniendo los codos cerca de las orejas. Baja las mancuernas detrás de la cabeza flexionando los codos. Haz una pausa por un momento, luego estira los brazos para volver a la posición inicial. Repite el movimiento el número de repeticiones deseado, luego cambia de pierna y repite.",
+    "ru": "Встаньте, ноги на ширине плеч, держа в каждой руке по гантели. Сделайте шаг вперед правой ногой, опуская тело в положение выпада. Держите спину прямо и грудь вверх. Вытяните руки прямо над головой, держа локти близко к ушам. Опустите гантели за голову, согнув руки в локтях. Сделайте паузу на мгновение, затем выпрямите руки и вернитесь в исходное положение. Повторите движение желаемое количество повторений, затем поменяйте ноги и повторите.",
+    "zh": "双脚分开与肩同宽站立，每只手各握一个哑铃。 右脚向前迈出一步，将身体降低至弓步位置。 保持背部挺直，挺胸。 将手臂伸直过头顶，保持肘部靠近耳朵。 弯曲肘部，将哑铃降低到脑后。 暂停片刻，然后伸直手臂回到起始位置。 重复该动作达到所需的重复次数，然后换腿并重复。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, प्रत्येक हाथ में डम्बल पकड़ें। अपने दाहिने पैर से एक कदम आगे बढ़ाएं, अपने शरीर को नीचे झुकाकर स्थिति में लाएं। अपनी पीठ सीधी और छाती ऊपर रखें। अपनी कोहनियों को अपने कानों के पास रखते हुए, अपनी भुजाओं को ऊपर की ओर सीधा फैलाएँ। अपनी कोहनियों को मोड़कर डम्बल को अपने सिर के पीछे नीचे करें। एक पल के लिए रुकें, फिर प्रारंभिक स्थिति में लौटने के लिए अपनी भुजाओं को सीधा करें। वांछित संख्या में दोहराव के लिए आंदोलन को दोहराएं, फिर पैर बदलें और दोहराएं।",
+    "pl": "Stań w rozkroku na szerokość barków, trzymając hantle w obu rękach. Zrób krok w przód prawą nogą, opuszczając ciało do pozycji wypadu. Trzymaj proste plecy i uniesioną klatkę piersiową. Wyprostuj ramiona prosto nad głową, trzymając łokcie blisko uszu. Opuść hantle za głowę, uginając łokcie. Zatrzymaj się na chwilę, a następnie wyprostuj ramiona, aby wrócić do pozycji wyjściowej. Powtórz ruch przez zalecaną liczbę powtórzeń, następnie zmień nogę i powtórz.",
+    "ko": "어깨너비로 발을 벌리고 서서 각 손에 덤벨을 들고 있습니다. 오른쪽 발을 앞으로 내딛으면서 런지 자세로 몸을 내립니다. 등을 곧게 펴고 가슴을 위로 유지합니다. 팔을 머리 위로 곧게 펴되 팔꿈치를 귀에 가깝게 유지합니다. 팔꿈치를 굽혀 덤벨을 머리 뒤로 내립니다. 잠깐 멈춘 후 팔을 펴서 시작 위치로 돌아옵니다. 원하는 횟수만큼 반복한 후 다리를 바꿔서 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un haltère dans chaque main. Fais un pas en avant avec le pied droit, en abaissant ton corps en position de fente. Garde le dos droit et la poitrine relevée. Étends les bras droit au-dessus de la tête, en gardant les coudes près des oreilles. Abaisse les haltères derrière ta tête en fléchissant tes coudes. Marque une pause, puis tends tes bras pour revenir à la position de départ. Répète le mouvement le nombre de répétitions souhaité, puis change de jambe et recommence."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart, holding a dumbbell in each hand.",
+      "Take a step forward with your right foot, lowering your body into a lunge position.",
+      "Keep your back straight and your chest up.",
+      "Extend your arms straight overhead, keeping your elbows close to your ears.",
+      "Lower the dumbbells behind your head by bending your elbows.",
+      "Pause for a moment, then straighten your arms to return to the starting position.",
+      "Repeat the movement for the desired number of repetitions, then switch legs and repeat."
+    ],
+    "it": [
+      "Stai con i piedi a larghezza delle spalle, tenendo un manubrio in ciascuna mano.",
+      "Fai un passo avanti con il piede destro, abbassando il corpo in posizione di affondamento.",
+      "Tieni la schiena dritta e il petto sollevato.",
+      "Allunga le braccia dritte sopra la testa, tenendo i gomiti vicino alle orecchie.",
+      "Abbassa i manubri dietro la testa piegando i gomiti.",
+      "Fermati un attimo, poi raddrizza le braccia per tornare alla posizione iniziale.",
+      "Ripeti il movimento per il numero desiderato di ripetizioni, poi cambia gamba e ripeti."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık, her iki elinizde de birer dambıl tutarak ayakta durun.",
+      "Sağ ayağınızla öne doğru bir adım atın ve vücudunuzu hamle pozisyonuna indirin.",
+      "Sırtınızı dik ve göğsünüzü dik tutun.",
+      "Dirseklerinizi kulaklarınıza yakın tutarak kollarınızı düz bir şekilde yukarı doğru uzatın.",
+      "Dirseklerinizi bükerek dambılları başınızın arkasına indirin.",
+      "Bir an duraklayın ve ardından başlangıç ​​pozisyonuna dönmek için kollarınızı düzleştirin.",
+      "Hareketi istediğiniz tekrar sayısı kadar tekrarlayın, ardından bacak değiştirin ve tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros, sujetando una mancuerna en cada mano.",
+      "Da un paso adelante con el pie derecho, bajando el cuerpo hasta una posición de zancada.",
+      "Mantén la espalda recta y el pecho elevado.",
+      "Extiende los brazos rectos por encima de la cabeza, manteniendo los codos cerca de las orejas.",
+      "Baja las mancuernas detrás de la cabeza flexionando los codos.",
+      "Haz una pausa por un momento, luego estira los brazos para volver a la posición inicial.",
+      "Repite el movimiento el número de repeticiones deseado, luego cambia de pierna y repite."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, держа в каждой руке по гантели.",
+      "Сделайте шаг вперед правой ногой, опуская тело в положение выпада.",
+      "Держите спину прямо и грудь вверх.",
+      "Вытяните руки прямо над головой, держа локти близко к ушам.",
+      "Опустите гантели за голову, согнув руки в локтях.",
+      "Сделайте паузу на мгновение, затем выпрямите руки и вернитесь в исходное положение.",
+      "Повторите движение желаемое количество повторений, затем поменяйте ноги и повторите."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，每只手各握一个哑铃。",
+      "右脚向前迈出一步，将身体降低至弓步位置。",
+      "保持背部挺直，挺胸。",
+      "将手臂伸直过头顶，保持肘部靠近耳朵。",
+      "弯曲肘部，将哑铃降低到脑后。",
+      "暂停片刻，然后伸直手臂回到起始位置。",
+      "重复该动作达到所需的重复次数，然后换腿并重复。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, प्रत्येक हाथ में डम्बल पकड़ें।",
+      "अपने दाहिने पैर से एक कदम आगे बढ़ाएं, अपने शरीर को नीचे झुकाकर स्थिति में लाएं।",
+      "अपनी पीठ सीधी और छाती ऊपर रखें।",
+      "अपनी कोहनियों को अपने कानों के पास रखते हुए, अपनी भुजाओं को ऊपर की ओर सीधा फैलाएँ।",
+      "अपनी कोहनियों को मोड़कर डम्बल को अपने सिर के पीछे नीचे करें।",
+      "एक पल के लिए रुकें, फिर प्रारंभिक स्थिति में लौटने के लिए अपनी भुजाओं को सीधा करें।",
+      "वांछित संख्या में दोहराव के लिए आंदोलन को दोहराएं, फिर पैर बदलें और दोहराएं।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków, trzymając hantle w obu rękach.",
+      "Zrób krok w przód prawą nogą, opuszczając ciało do pozycji wypadu.",
+      "Trzymaj proste plecy i uniesioną klatkę piersiową.",
+      "Wyprostuj ramiona prosto nad głową, trzymając łokcie blisko uszu.",
+      "Opuść hantle za głowę, uginając łokcie.",
+      "Zatrzymaj się na chwilę, a następnie wyprostuj ramiona, aby wrócić do pozycji wyjściowej.",
+      "Powtórz ruch przez zalecaną liczbę powtórzeń, następnie zmień nogę i powtórz."
+    ],
+    "ko": [
+      "어깨너비로 발을 벌리고 서서 각 손에 덤벨을 들고 있습니다.",
+      "오른쪽 발을 앞으로 내딛으면서 런지 자세로 몸을 내립니다.",
+      "등을 곧게 펴고 가슴을 위로 유지합니다.",
+      "팔을 머리 위로 곧게 펴되 팔꿈치를 귀에 가깝게 유지합니다.",
+      "팔꿈치를 굽혀 덤벨을 머리 뒤로 내립니다.",
+      "잠깐 멈춘 후 팔을 펴서 시작 위치로 돌아옵니다.",
+      "원하는 횟수만큼 반복한 후 다리를 바꿔서 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un haltère dans chaque main.",
+      "Fais un pas en avant avec le pied droit, en abaissant ton corps en position de fente.",
+      "Garde le dos droit et la poitrine relevée.",
+      "Étends les bras droit au-dessus de la tête, en gardant les coudes près des oreilles.",
+      "Abaisse les haltères derrière ta tête en fléchissant tes coudes.",
+      "Marque une pause, puis tends tes bras pour revenir à la position de départ.",
+      "Répète le mouvement le nombre de répétitions souhaité, puis change de jambe et recommence."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "core"
+  ],
+  "target": "triceps",
+  "image": "images/1732-XalXcvM.jpg",
+  "gif_url": "videos/1732-XalXcvM.gif",
+  "media_id": "XalXcvM",
+  "created_at": "2026-03-18T12:31:32.878349+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

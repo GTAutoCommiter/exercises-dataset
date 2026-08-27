@@ -1,0 +1,121 @@
+{
+  "id": "2406",
+  "name": "cable reverse grip triceps pushdown (sz-bar) (with arm blaster)",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Attach a straight bar to the cable machine at the highest setting. Stand facing the cable machine with your feet shoulder-width apart. Grasp the bar with an underhand grip, palms facing up, and your hands shoulder-width apart. Keep your elbows close to your sides and your upper arms stationary throughout the exercise. Engage your triceps and slowly push the bar down until your arms are fully extended. Pause for a moment at the bottom, then slowly return the bar to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Fissa una barra dritta alla macchina a cavo con la massima regolazione. Stai di fronte alla macchina per cavi con i piedi a larghezza delle spalle. Afferra la barra con una presa sottomano, palmi rivolti verso l'alto e mani a larghezza delle spalle. Tieni i gomiti vicini ai fianchi e le braccia superiori ferme durante l'esercizio. Attiva i tricipiti e spingi lentamente la barra verso il basso finché le braccia non sono completamente estese. Fermati un attimo in basso, poi riporta lentamente la barra alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Kablo makinesine en yüksek ayarda düz bir çubuk takın. Ayaklarınız omuz genişliğinde açık olacak şekilde kablo makinesine dönük durun. Barı alttan kavrayın, avuçlarınız yukarı bakacak ve elleriniz omuz genişliğinde açık olsun. Egzersiz boyunca dirseklerinizi yanlarınıza yakın ve üst kollarınızı sabit tutun. Trisepslerinizi devreye sokun ve kollarınız tamamen uzayıncaya kadar çubuğu yavaşça aşağı doğru itin. Altta bir an duraklayın, ardından çubuğu yavaşça başlangıç ​​pozisyonuna getirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Sujeta una barra recta a la máquina de cable en el ajuste más alto. Ponte de pie frente a la máquina de cable con los pies separados a la altura de los hombros. Sujeta la barra con un agarre supino, con las palmas hacia arriba y las manos separadas a la altura de los hombros. Mantén los codos cerca de los costados y los brazos superiores quietos durante todo el ejercicio. Activa los tríceps y empuja lentamente la barra hacia abajo hasta que los brazos queden completamente extendidos. Haz una pausa por un momento en la parte baja y luego regresa lentamente la barra a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Прикрепите прямую штангу к канатному станку на самом высоком уровне. Встаньте лицом к канатному тренажеру, поставив ноги на ширине плеч. Возьмите перекладину хватом снизу, ладони вверх, руки на ширине плеч. На протяжении всего упражнения держите локти близко к бокам, а плечи неподвижными. Задействуйте трицепсы и медленно толкайте штангу вниз, пока руки полностью не выпрямятся. Задержитесь на мгновение в нижней точке, затем медленно верните штангу в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "在最高设置下将直杆连接到电缆机上。 面对电缆机站立，双脚与肩同宽。 反手握住杠铃，手掌朝上，双手与肩同宽。 在整个练习过程中，保持肘部靠近身体两侧，上臂保持静止。 启动你的三头肌，慢慢地向下推杠铃，直到你的手臂完全伸展。 在底部暂停片刻，然后慢慢地将杠铃返回到起始位置。 重复所需的重复次数。",
+    "hi": "उच्चतम सेटिंग पर केबल मशीन में एक सीधी पट्टी संलग्न करें। अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए केबल मशीन की ओर मुंह करके खड़े हो जाएं। बार को अंडरहैंड ग्रिप से पकड़ें, हथेलियाँ ऊपर की ओर हों और आपके हाथ कंधे की चौड़ाई से अलग हों। पूरे अभ्यास के दौरान अपनी कोहनियों को अपनी भुजाओं के पास और अपनी ऊपरी भुजाओं को स्थिर रखें। अपने ट्राइसेप्स को संलग्न करें और धीरे-धीरे बार को तब तक नीचे धकेलें जब तक कि आपकी बाहें पूरी तरह विस्तारित न हो जाएं। नीचे एक पल के लिए रुकें, फिर धीरे-धीरे बार को शुरुआती स्थिति में लौटा दें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Podłącz prostą drążkę do wyciągu na najwyższym ustawieniu. Stań przodem do wyciągu, stopy rozstawione na szerokość barków. Chwyć drążek podchwytem, dłonie skierowane do góry, rozstawione na szerokość barków. Trzymaj łokcie blisko boków, a ramiona górne nieruchomo przez cały czas trwania ćwiczenia. Napnij triceps i powoli pchnij drążek w dół, aż ramiona będą całkowicie wyprostowane. Zatrzymaj się na moment na dole, a następnie powoli wróć z drążkiem do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "케이블 머신의 가장 높은 위치에 일자 바를 장착합니다. 케이블 머신을 향해 서서 발을 어깨너비만큼 벌립니다. 손가락이 위를 향하는 언더그립으로 바를 잡고 손은 어깨너비만큼 벌립니다. 운동 내내 팔꿈치를 옆에 붙이고 상박을 고정시킵니다. 삼두근을 활성화시켜 팔을 완전히 펴질 때까지 바를 천천히 아래로 밀어냅니다. 맨 아래에서 잠시 멈추었다가 바를 천천히 시작 위치로 돌려올립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Fixe une barre droite à la machine à câble au réglage le plus haut. Tiens-toi face à la machine à câble, les pieds écartés à la largeur des épaules. Saisis la barre avec une prise en supination, les paumes tournées vers le haut et les mains écartées à la largeur des épaules. Garde tes coudes près de tes flancs et le haut de tes bras immobile tout au long de l'exercice. Contracte tes triceps et pousse lentement la barre vers le bas jusqu'à ce que tes bras soient complètement tendus. Marque une pause en bas, puis ramène lentement la barre à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Attach a straight bar to the cable machine at the highest setting.",
+      "Stand facing the cable machine with your feet shoulder-width apart.",
+      "Grasp the bar with an underhand grip, palms facing up, and your hands shoulder-width apart.",
+      "Keep your elbows close to your sides and your upper arms stationary throughout the exercise.",
+      "Engage your triceps and slowly push the bar down until your arms are fully extended.",
+      "Pause for a moment at the bottom, then slowly return the bar to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Fissa una barra dritta alla macchina a cavo con la massima regolazione.",
+      "Stai di fronte alla macchina per cavi con i piedi a larghezza delle spalle.",
+      "Afferra la barra con una presa sottomano, palmi rivolti verso l'alto e mani a larghezza delle spalle.",
+      "Tieni i gomiti vicini ai fianchi e le braccia superiori ferme durante l'esercizio.",
+      "Attiva i tricipiti e spingi lentamente la barra verso il basso finché le braccia non sono completamente estese.",
+      "Fermati un attimo in basso, poi riporta lentamente la barra alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Kablo makinesine en yüksek ayarda düz bir çubuk takın.",
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde kablo makinesine dönük durun.",
+      "Barı alttan kavrayın, avuçlarınız yukarı bakacak ve elleriniz omuz genişliğinde açık olsun.",
+      "Egzersiz boyunca dirseklerinizi yanlarınıza yakın ve üst kollarınızı sabit tutun.",
+      "Trisepslerinizi devreye sokun ve kollarınız tamamen uzayıncaya kadar çubuğu yavaşça aşağı doğru itin.",
+      "Altta bir an duraklayın, ardından çubuğu yavaşça başlangıç ​​pozisyonuna getirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Sujeta una barra recta a la máquina de cable en el ajuste más alto.",
+      "Ponte de pie frente a la máquina de cable con los pies separados a la altura de los hombros.",
+      "Sujeta la barra con un agarre supino, con las palmas hacia arriba y las manos separadas a la altura de los hombros.",
+      "Mantén los codos cerca de los costados y los brazos superiores quietos durante todo el ejercicio.",
+      "Activa los tríceps y empuja lentamente la barra hacia abajo hasta que los brazos queden completamente extendidos.",
+      "Haz una pausa por un momento en la parte baja y luego regresa lentamente la barra a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Прикрепите прямую штангу к канатному станку на самом высоком уровне.",
+      "Встаньте лицом к канатному тренажеру, поставив ноги на ширине плеч.",
+      "Возьмите перекладину хватом снизу, ладони вверх, руки на ширине плеч.",
+      "На протяжении всего упражнения держите локти близко к бокам, а плечи неподвижными.",
+      "Задействуйте трицепсы и медленно толкайте штангу вниз, пока руки полностью не выпрямятся.",
+      "Задержитесь на мгновение в нижней точке, затем медленно верните штангу в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "在最高设置下将直杆连接到电缆机上。",
+      "面对电缆机站立，双脚与肩同宽。",
+      "反手握住杠铃，手掌朝上，双手与肩同宽。",
+      "在整个练习过程中，保持肘部靠近身体两侧，上臂保持静止。",
+      "启动你的三头肌，慢慢地向下推杠铃，直到你的手臂完全伸展。",
+      "在底部暂停片刻，然后慢慢地将杠铃返回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "उच्चतम सेटिंग पर केबल मशीन में एक सीधी पट्टी संलग्न करें।",
+      "अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए केबल मशीन की ओर मुंह करके खड़े हो जाएं।",
+      "बार को अंडरहैंड ग्रिप से पकड़ें, हथेलियाँ ऊपर की ओर हों और आपके हाथ कंधे की चौड़ाई से अलग हों।",
+      "पूरे अभ्यास के दौरान अपनी कोहनियों को अपनी भुजाओं के पास और अपनी ऊपरी भुजाओं को स्थिर रखें।",
+      "अपने ट्राइसेप्स को संलग्न करें और धीरे-धीरे बार को तब तक नीचे धकेलें जब तक कि आपकी बाहें पूरी तरह विस्तारित न हो जाएं।",
+      "नीचे एक पल के लिए रुकें, फिर धीरे-धीरे बार को शुरुआती स्थिति में लौटा दें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Podłącz prostą drążkę do wyciągu na najwyższym ustawieniu.",
+      "Stań przodem do wyciągu, stopy rozstawione na szerokość barków.",
+      "Chwyć drążek podchwytem, dłonie skierowane do góry, rozstawione na szerokość barków.",
+      "Trzymaj łokcie blisko boków, a ramiona górne nieruchomo przez cały czas trwania ćwiczenia.",
+      "Napnij triceps i powoli pchnij drążek w dół, aż ramiona będą całkowicie wyprostowane.",
+      "Zatrzymaj się na moment na dole, a następnie powoli wróć z drążkiem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "케이블 머신의 가장 높은 위치에 일자 바를 장착합니다.",
+      "케이블 머신을 향해 서서 발을 어깨너비만큼 벌립니다.",
+      "손가락이 위를 향하는 언더그립으로 바를 잡고 손은 어깨너비만큼 벌립니다.",
+      "운동 내내 팔꿈치를 옆에 붙이고 상박을 고정시킵니다.",
+      "삼두근을 활성화시켜 팔을 완전히 펴질 때까지 바를 천천히 아래로 밀어냅니다.",
+      "맨 아래에서 잠시 멈추었다가 바를 천천히 시작 위치로 돌려올립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Fixe une barre droite à la machine à câble au réglage le plus haut.",
+      "Tiens-toi face à la machine à câble, les pieds écartés à la largeur des épaules.",
+      "Saisis la barre avec une prise en supination, les paumes tournées vers le haut et les mains écartées à la largeur des épaules.",
+      "Garde tes coudes près de tes flancs et le haut de tes bras immobile tout au long de l'exercice.",
+      "Contracte tes triceps et pousse lentement la barre vers le bas jusqu'à ce que tes bras soient complètement tendus.",
+      "Marque une pause en bas, puis ramène lentement la barre à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "forearms",
+  "secondary_muscles": [
+    "forearms"
+  ],
+  "target": "triceps",
+  "image": "images/2406-ThKP69G.jpg",
+  "gif_url": "videos/2406-ThKP69G.gif",
+  "media_id": "ThKP69G",
+  "created_at": "2026-03-18T12:31:32.875586+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

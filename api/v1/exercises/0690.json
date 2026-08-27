@@ -1,0 +1,102 @@
+{
+  "id": "0690",
+  "name": "seated lower back stretch",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Sit on the edge of a chair with your feet flat on the ground. Place your hands on your thighs or on the sides of the chair for support. Slowly lean forward from your hips, keeping your back straight. Feel the stretch in your lower back and hold for 20-30 seconds. Slowly return to the starting position and repeat for the desired number of repetitions.",
+    "it": "Siediti sul bordo di una sedia con i piedi appoggiati a terra. Metti le mani sulle cosce o sui lati della sedia per sostenerti. Piegati lentamente in avanti dai fianchi, mantenendo la schiena dritta. Senti l'allungamento nella parte bassa della schiena e mantieni la posizione per 20-30 secondi. Ritorna lentamente alla posizione iniziale e ripeti per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız yere düz basacak şekilde bir sandalyenin kenarına oturun. Destek için ellerinizi kalçalarınıza veya sandalyenin yanlarına koyun. Sırtınızı düz tutarak kalçalarınızdan yavaşça öne doğru eğilin. Sırtınızın alt kısmındaki gerginliği hissedin ve 20-30 saniye bu şekilde kalın. Yavaşça başlangıç ​​pozisyonuna dönün ve istenilen sayıda tekrar yapın.",
+    "es": "Siéntate en el borde de una silla con los pies planos sobre el suelo. Coloca las manos sobre los muslos o a los lados de la silla para apoyarte. Inclínate lentamente hacia delante desde la cadera, manteniendo la espalda recta. Siente el estiramiento en la zona lumbar y mantén la posición durante 20-30 segundos. Regresa lentamente a la posición inicial y repite el número de repeticiones deseado.",
+    "ru": "Сядьте на край стула, поставив ноги на землю. Положите руки на бедра или по бокам стула для поддержки. Медленно наклонитесь вперед от бедер, сохраняя спину прямой. Почувствуйте растяжение в пояснице и задержитесь на 20–30 секунд. Медленно вернитесь в исходное положение и повторите необходимое количество повторений.",
+    "zh": "坐在椅子边缘，双脚平放在地面上。 将双手放在大腿上或椅子两侧以获得支撑。 从臀部开始慢慢向前倾斜，保持背部挺直。 感受下背部的拉伸并保持 20-30 秒。 慢慢回到起始位置并重复所需的重复次数。",
+    "hi": "अपने पैरों को ज़मीन पर सपाट करके कुर्सी के किनारे पर बैठें। समर्थन के लिए अपने हाथों को अपनी जांघों पर या कुर्सी के किनारों पर रखें। अपनी पीठ को सीधा रखते हुए धीरे-धीरे अपने कूल्हों से आगे की ओर झुकें। अपनी पीठ के निचले हिस्से में खिंचाव महसूस करें और 20-30 सेकंड तक रुकें। धीरे-धीरे प्रारंभिक स्थिति में लौटें और वांछित संख्या में दोहराव के लिए दोहराएं।",
+    "pl": "Usiądź na krawędzi krzesła ze stopami płasko opartymi na podłodze. Oprzyj ręce na udach lub po bokach krzesła dla wsparcia. Powoli pochyl się do przodu od bioder, trzymając plecy proste. Poczuj rozciąganie w dolnej części pleców i przytrzymaj przez 20-30 sekund. Powoli wróć do pozycji wyjściowej i powtórz zalecaną liczbę razy.",
+    "ko": "의자의 끝에 앉아 발을 땅에 평평하게 놓습니다. 지지를 위해 양 손을 허벅지 또는 의자의 옆에 올립니다. 천천히 엉덩이에서 접으며 등을 곧게 유지합니다. 하부 등에서의 스트레칭을 느낍니다. 20-30초간 유지합니다. 천천히 시작 위치로 돌아가 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Assieds-toi au bord d'une chaise, les pieds à plat sur le sol. Place tes mains sur tes cuisses ou sur les côtés de la chaise pour te soutenir. Penche-toi lentement vers l'avant à partir des hanches, en gardant le dos droit. Sens l'étirement dans le bas de ton dos et maintiens pendant 20 à 30 secondes. Reviens lentement à la position de départ et répète pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on the edge of a chair with your feet flat on the ground.",
+      "Place your hands on your thighs or on the sides of the chair for support.",
+      "Slowly lean forward from your hips, keeping your back straight.",
+      "Feel the stretch in your lower back and hold for 20-30 seconds.",
+      "Slowly return to the starting position and repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Siediti sul bordo di una sedia con i piedi appoggiati a terra.",
+      "Metti le mani sulle cosce o sui lati della sedia per sostenerti.",
+      "Piegati lentamente in avanti dai fianchi, mantenendo la schiena dritta.",
+      "Senti l'allungamento nella parte bassa della schiena e mantieni la posizione per 20-30 secondi.",
+      "Ritorna lentamente alla posizione iniziale e ripeti per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız yere düz basacak şekilde bir sandalyenin kenarına oturun.",
+      "Destek için ellerinizi kalçalarınıza veya sandalyenin yanlarına koyun.",
+      "Sırtınızı düz tutarak kalçalarınızdan yavaşça öne doğru eğilin.",
+      "Sırtınızın alt kısmındaki gerginliği hissedin ve 20-30 saniye bu şekilde kalın.",
+      "Yavaşça başlangıç ​​pozisyonuna dönün ve istenilen sayıda tekrar yapın."
+    ],
+    "es": [
+      "Siéntate en el borde de una silla con los pies planos sobre el suelo.",
+      "Coloca las manos sobre los muslos o a los lados de la silla para apoyarte.",
+      "Inclínate lentamente hacia delante desde la cadera, manteniendo la espalda recta.",
+      "Siente el estiramiento en la zona lumbar y mantén la posición durante 20-30 segundos.",
+      "Regresa lentamente a la posición inicial y repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на край стула, поставив ноги на землю.",
+      "Положите руки на бедра или по бокам стула для поддержки.",
+      "Медленно наклонитесь вперед от бедер, сохраняя спину прямой.",
+      "Почувствуйте растяжение в пояснице и задержитесь на 20–30 секунд.",
+      "Медленно вернитесь в исходное положение и повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "坐在椅子边缘，双脚平放在地面上。",
+      "将双手放在大腿上或椅子两侧以获得支撑。",
+      "从臀部开始慢慢向前倾斜，保持背部挺直。",
+      "感受下背部的拉伸并保持 20-30 秒。",
+      "慢慢回到起始位置并重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को ज़मीन पर सपाट करके कुर्सी के किनारे पर बैठें।",
+      "समर्थन के लिए अपने हाथों को अपनी जांघों पर या कुर्सी के किनारों पर रखें।",
+      "अपनी पीठ को सीधा रखते हुए धीरे-धीरे अपने कूल्हों से आगे की ओर झुकें।",
+      "अपनी पीठ के निचले हिस्से में खिंचाव महसूस करें और 20-30 सेकंड तक रुकें।",
+      "धीरे-धीरे प्रारंभिक स्थिति में लौटें और वांछित संख्या में दोहराव के लिए दोहराएं।"
+    ],
+    "pl": [
+      "Usiądź na krawędzi krzesła ze stopami płasko opartymi na podłodze.",
+      "Oprzyj ręce na udach lub po bokach krzesła dla wsparcia.",
+      "Powoli pochyl się do przodu od bioder, trzymając plecy proste.",
+      "Poczuj rozciąganie w dolnej części pleców i przytrzymaj przez 20-30 sekund.",
+      "Powoli wróć do pozycji wyjściowej i powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "의자의 끝에 앉아 발을 땅에 평평하게 놓습니다.",
+      "지지를 위해 양 손을 허벅지 또는 의자의 옆에 올립니다.",
+      "천천히 엉덩이에서 접으며 등을 곧게 유지합니다.",
+      "하부 등에서의 스트레칭을 느낍니다. 20-30초간 유지합니다.",
+      "천천히 시작 위치로 돌아가 원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Assieds-toi au bord d'une chaise, les pieds à plat sur le sol.",
+      "Place tes mains sur tes cuisses ou sur les côtés de la chaise pour te soutenir.",
+      "Penche-toi lentement vers l'avant à partir des hanches, en gardant le dos droit.",
+      "Sens l'étirement dans le bas de ton dos et maintiens pendant 20 à 30 secondes.",
+      "Reviens lentement à la position de départ et répète pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "glutes",
+  "secondary_muscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "target": "lats",
+  "image": "images/0690-QFmz6ch.jpg",
+  "gif_url": "videos/0690-QFmz6ch.gif",
+  "media_id": "QFmz6ch",
+  "created_at": "2026-03-18T12:31:32.88949+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

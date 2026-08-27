@@ -1,0 +1,113 @@
+{
+  "id": "1296",
+  "name": "exercise ball pike push up",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "stability ball",
+  "instructions": {
+    "en": "Start in a push-up position with your hands on the floor and your shins resting on the stability ball. Engage your core and lift your hips up towards the ceiling, rolling the ball towards your hands. Keep your legs straight and your body in a pike position, forming an inverted V shape. Bend your elbows and lower your upper body towards the floor, keeping your head in line with your hands. Push through your hands and extend your arms to return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Inizia in una posizione push-up con le mani sul pavimento e gli stinchi appoggiati sulla palla stabilizzante. Coinvolgi il tuo core e solleva i fianchi verso il soffitto, facendo rotolare la palla verso le mani. Mantieni le gambe dritte e il corpo in posizione picca, formando una forma a V rovesciata. Piega i gomiti e abbassa la parte superiore del corpo verso il pavimento, mantenendo la testa in linea con le mani. Spingi attraverso le mani ed estendi le braccia per tornare alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Elleriniz yerde ve kaval kemikleriniz denge topunun üzerinde olacak şekilde şınav pozisyonunda başlayın. Merkez bölgenizi devreye sokun ve kalçalarınızı tavana doğru kaldırın, topu ellerinize doğru yuvarlayın. Bacaklarınızı düz tutun ve vücudunuzu ters V şekli oluşturacak şekilde mızrak pozisyonunda tutun. Dirseklerinizi bükün ve başınızı ellerinizle aynı hizada tutarak üst vücudunuzu yere doğru indirin. Başlangıç ​​pozisyonuna dönmek için ellerinizi itin ve kollarınızı uzatın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Comienza en posición de flexión de brazos con las manos en el suelo y las espinillas apoyadas sobre el balón de estabilidad. Activa el core y levanta las caderas hacia el techo, haciendo rodar el balón hacia las manos. Mantén las piernas rectas y el cuerpo en posición de pica, formando una V invertida. Dobla los codos y baja la parte superior del cuerpo hacia el suelo, manteniendo la cabeza alineada con las manos. Empuja con las manos y extiende los brazos para volver a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Начните с позиции для отжиманий, положив руки на пол и положив голени на мяч для стабилизации. Напрягите корпус и поднимите бедра к потолку, катя мяч к рукам. Держите ноги прямыми, а тело в положении пики, образуя перевернутую V-образную форму. Согните локти и опустите верхнюю часть тела к полу, удерживая голову на одной линии с руками. Оттолкнитесь руками и вытяните руки, чтобы вернуться в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "从俯卧撑位置开始，双手放在地板上，小腿放在稳定球上。 收紧核心肌群，将臀部抬向天花板，将球滚向双手。 保持双腿伸直，身体呈屈体姿势，形成倒V字形。 弯曲肘部，将上半身降低到地板上，保持头部与双手在一条直线上。 用手推动并伸展双臂以返回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने हाथों को फर्श पर और अपनी पिंडलियों को स्टेबिलिटी बॉल पर टिकाकर पुश-अप स्थिति में शुरुआत करें। अपने कोर को संलग्न करें और अपने कूल्हों को छत की ओर उठाएं, गेंद को अपने हाथों की ओर घुमाएं। अपने पैरों को सीधा रखें और अपने शरीर को उल्टे वी आकार बनाते हुए पाईक स्थिति में रखें। अपनी कोहनियों को मोड़ें और अपने सिर को अपने हाथों की सीध में रखते हुए अपने ऊपरी शरीर को फर्श की ओर नीचे करें। प्रारंभिक स्थिति में लौटने के लिए अपने हाथों से धक्का दें और अपनी भुजाओं को फैलाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Zacznij w pozycji do pompki, dłonie oprzyj na podłodze, a golenie na piłce stabilizacyjnej. Napnij mięśnie brzucha i unieś biodra w kierunku sufitu, tocząc piłkę w stronę dłoni. Trzymaj nogi wyprostowane, a ciało w pozycji „daszku\", tworząc odwrócony kształt litery V. Zegnij łokcie i opuść górną część ciała w stronę podłogi, utrzymując głowę w linii z dłońmi. Odepchnij się dłońmi i wyprostuj ramiona, aby wrócić do pozycji wyjściowej. Powtórz zalecaną liczbę razy.",
+    "ko": "손을 바닥에 놓고 종아리를 짐볼 위에 올려놓은 푸시업 자세에서 시작하십시오. 코어를 조이고 엉덩이를 천장 쪽으로 들어올려 볼을 손 쪽으로 굴리십시오. 다리를 곧게 펴고 몸을 파이크 자세로 유지하며 역 V자 모양을 만드십시오. 팔꿈치를 구부려 상체를 천천히 바닥 쪽으로 내리되 머리를 손과 일직선으로 유지하십시오. 손으로 밀어 팔을 펴서 시작 위치로 돌아오십시오. 원하는 반복 횟수만큼 반복하십시오.",
+    "fr": "Commence en position de pompe, les mains sur le sol et les tibias posés sur le ballon de stabilité. Gaine ta sangle abdominale et lève tes hanches vers le plafond, en faisant rouler le ballon vers tes mains. Garde les jambes tendues et le corps en position de pique, formant un V inversé. Plie tes coudes et abaisse le haut de ton corps vers le sol en gardant ta tête alignée avec tes mains. Pousse à travers tes mains et étends tes bras pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start in a push-up position with your hands on the floor and your shins resting on the stability ball.",
+      "Engage your core and lift your hips up towards the ceiling, rolling the ball towards your hands.",
+      "Keep your legs straight and your body in a pike position, forming an inverted V shape.",
+      "Bend your elbows and lower your upper body towards the floor, keeping your head in line with your hands.",
+      "Push through your hands and extend your arms to return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia in una posizione push-up con le mani sul pavimento e gli stinchi appoggiati sulla palla stabilizzante.",
+      "Coinvolgi il tuo core e solleva i fianchi verso il soffitto, facendo rotolare la palla verso le mani.",
+      "Mantieni le gambe dritte e il corpo in posizione picca, formando una forma a V rovesciata.",
+      "Piega i gomiti e abbassa la parte superiore del corpo verso il pavimento, mantenendo la testa in linea con le mani.",
+      "Spingi attraverso le mani ed estendi le braccia per tornare alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Elleriniz yerde ve kaval kemikleriniz denge topunun üzerinde olacak şekilde şınav pozisyonunda başlayın.",
+      "Merkez bölgenizi devreye sokun ve kalçalarınızı tavana doğru kaldırın, topu ellerinize doğru yuvarlayın.",
+      "Bacaklarınızı düz tutun ve vücudunuzu ters V şekli oluşturacak şekilde mızrak pozisyonunda tutun.",
+      "Dirseklerinizi bükün ve başınızı ellerinizle aynı hizada tutarak üst vücudunuzu yere doğru indirin.",
+      "Başlangıç ​​pozisyonuna dönmek için ellerinizi itin ve kollarınızı uzatın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Comienza en posición de flexión de brazos con las manos en el suelo y las espinillas apoyadas sobre el balón de estabilidad.",
+      "Activa el core y levanta las caderas hacia el techo, haciendo rodar el balón hacia las manos.",
+      "Mantén las piernas rectas y el cuerpo en posición de pica, formando una V invertida.",
+      "Dobla los codos y baja la parte superior del cuerpo hacia el suelo, manteniendo la cabeza alineada con las manos.",
+      "Empuja con las manos y extiende los brazos para volver a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с позиции для отжиманий, положив руки на пол и положив голени на мяч для стабилизации.",
+      "Напрягите корпус и поднимите бедра к потолку, катя мяч к рукам.",
+      "Держите ноги прямыми, а тело в положении пики, образуя перевернутую V-образную форму.",
+      "Согните локти и опустите верхнюю часть тела к полу, удерживая голову на одной линии с руками.",
+      "Оттолкнитесь руками и вытяните руки, чтобы вернуться в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "从俯卧撑位置开始，双手放在地板上，小腿放在稳定球上。",
+      "收紧核心肌群，将臀部抬向天花板，将球滚向双手。",
+      "保持双腿伸直，身体呈屈体姿势，形成倒V字形。",
+      "弯曲肘部，将上半身降低到地板上，保持头部与双手在一条直线上。",
+      "用手推动并伸展双臂以返回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने हाथों को फर्श पर और अपनी पिंडलियों को स्टेबिलिटी बॉल पर टिकाकर पुश-अप स्थिति में शुरुआत करें।",
+      "अपने कोर को संलग्न करें और अपने कूल्हों को छत की ओर उठाएं, गेंद को अपने हाथों की ओर घुमाएं।",
+      "अपने पैरों को सीधा रखें और अपने शरीर को उल्टे वी आकार बनाते हुए पाईक स्थिति में रखें।",
+      "अपनी कोहनियों को मोड़ें और अपने सिर को अपने हाथों की सीध में रखते हुए अपने ऊपरी शरीर को फर्श की ओर नीचे करें।",
+      "प्रारंभिक स्थिति में लौटने के लिए अपने हाथों से धक्का दें और अपनी भुजाओं को फैलाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Zacznij w pozycji do pompki, dłonie oprzyj na podłodze, a golenie na piłce stabilizacyjnej.",
+      "Napnij mięśnie brzucha i unieś biodra w kierunku sufitu, tocząc piłkę w stronę dłoni.",
+      "Trzymaj nogi wyprostowane, a ciało w pozycji „daszku\", tworząc odwrócony kształt litery V.",
+      "Zegnij łokcie i opuść górną część ciała w stronę podłogi, utrzymując głowę w linii z dłońmi.",
+      "Odepchnij się dłońmi i wyprostuj ramiona, aby wrócić do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "손을 바닥에 놓고 종아리를 짐볼 위에 올려놓은 푸시업 자세에서 시작하십시오.",
+      "코어를 조이고 엉덩이를 천장 쪽으로 들어올려 볼을 손 쪽으로 굴리십시오.",
+      "다리를 곧게 펴고 몸을 파이크 자세로 유지하며 역 V자 모양을 만드십시오.",
+      "팔꿈치를 구부려 상체를 천천히 바닥 쪽으로 내리되 머리를 손과 일직선으로 유지하십시오.",
+      "손으로 밀어 팔을 펴서 시작 위치로 돌아오십시오.",
+      "원하는 반복 횟수만큼 반복하십시오."
+    ],
+    "fr": [
+      "Commence en position de pompe, les mains sur le sol et les tibias posés sur le ballon de stabilité.",
+      "Gaine ta sangle abdominale et lève tes hanches vers le plafond, en faisant rouler le ballon vers tes mains.",
+      "Garde les jambes tendues et le corps en position de pique, formant un V inversé.",
+      "Plie tes coudes et abaisse le haut de ton corps vers le sol en gardant ta tête alignée avec tes mains.",
+      "Pousse à travers tes mains et étends tes bras pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "triceps",
+    "core"
+  ],
+  "target": "pectorals",
+  "image": "images/1296-sVvXT5J.jpg",
+  "gif_url": "videos/1296-sVvXT5J.gif",
+  "media_id": "sVvXT5J",
+  "created_at": "2026-03-18T12:31:32.882921+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,102 @@
+{
+  "id": "0854",
+  "name": "weighted standing hand squeeze",
+  "category": "lower arms",
+  "body_part": "lower arms",
+  "equipment": "weighted",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and hold a weight in each hand. Extend your arms straight in front of you, palms facing each other. Squeeze your hands together as hard as you can, engaging your forearms. Hold the squeeze for a few seconds, then release. Repeat for the desired number of repetitions.",
+    "it": "Stare con i piedi alla larghezza delle spalle e tenere un peso in ciascuna mano. Estendi le braccia dritte davanti a te, con i palmi rivolti l'uno verso l'altro. Stringi le mani più forte che puoi, impegnando gli avambracci. Mantieni la pressione per alcuni secondi, quindi rilascia. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınızı omuz genişliğinde açın ve her elinize bir ağırlık tutun. Kollarınızı düz bir şekilde önünüze doğru uzatın, avuçlarınız birbirine baksın. Ellerinizi mümkün olduğu kadar sıkın, önkollarınızı birbirine geçirin. Sıkmayı birkaç saniye basılı tutun, sonra bırakın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y sostén un peso en cada mano. Extiende los brazos rectos hacia adelante, con las palmas mirándose entre sí. Aprieta las manos entre sí con la mayor fuerza posible, activando los antebrazos. Mantén la contracción durante unos segundos y luego suelta. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, возьмите в каждую руку по гире. Вытяните руки прямо перед собой, ладони обращены друг к другу. Сожмите руки вместе как можно сильнее, задействуя предплечья. Удерживайте сжатие несколько секунд, затем отпустите. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，每只手各握一个重物。 将双臂伸直在身前，手掌相对。 尽可能用力将双手握在一起，用力接触前臂。 按住挤压几秒钟，然后松开。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और प्रत्येक हाथ में वजन पकड़ लें। अपनी बाहों को अपने सामने सीधा फैलाएं, हथेलियाँ एक-दूसरे के सामने हों। जितना हो सके अपने हाथों को एक साथ निचोड़ें, अपने अग्रबाहुओं को जोड़ते हुए। कुछ सेकंड के लिए निचोड़ को रोककर रखें, फिर छोड़ दें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań ze stopami rozstawionymi na szerokość barków, trzymając obciążenie w każdej dłoni. Wyciągnij ramiona prosto przed siebie, dłońmi zwróconymi do siebie. Ściśnij dłonie razem tak mocno, jak potrafisz, angażując przedramiona. Przytrzymaj ściśnięcie przez kilka sekund, a następnie zwolnij. Powtórz zgodnie z żądaną liczbą powtórzeń.",
+    "ko": "발을 어깨 너비만큼 떨어뜨리고 각 손에 웨이트를 들고 서 있습니다. 팔을 앞으로 곧게 뻗어 손가락이 마주보도록 합니다. 전완근을 활성화하면서 가능한 한 세게 손을 함께 조입니다. 몇 초 동안 조임을 유지한 후 놓습니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens un poids dans chaque main. Étends les bras droit devant toi, les paumes tournées l'une vers l'autre. Serre tes mains l'une contre l'autre aussi fort que possible, en engageant tes avant-bras. Maintiens la contraction pendant quelques secondes, puis relâche. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and hold a weight in each hand.",
+      "Extend your arms straight in front of you, palms facing each other.",
+      "Squeeze your hands together as hard as you can, engaging your forearms.",
+      "Hold the squeeze for a few seconds, then release.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stare con i piedi alla larghezza delle spalle e tenere un peso in ciascuna mano.",
+      "Estendi le braccia dritte davanti a te, con i palmi rivolti l'uno verso l'altro.",
+      "Stringi le mani più forte che puoi, impegnando gli avambracci.",
+      "Mantieni la pressione per alcuni secondi, quindi rilascia.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınızı omuz genişliğinde açın ve her elinize bir ağırlık tutun.",
+      "Kollarınızı düz bir şekilde önünüze doğru uzatın, avuçlarınız birbirine baksın.",
+      "Ellerinizi mümkün olduğu kadar sıkın, önkollarınızı birbirine geçirin.",
+      "Sıkmayı birkaç saniye basılı tutun, sonra bırakın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y sostén un peso en cada mano.",
+      "Extiende los brazos rectos hacia adelante, con las palmas mirándose entre sí.",
+      "Aprieta las manos entre sí con la mayor fuerza posible, activando los antebrazos.",
+      "Mantén la contracción durante unos segundos y luego suelta.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, возьмите в каждую руку по гире.",
+      "Вытяните руки прямо перед собой, ладони обращены друг к другу.",
+      "Сожмите руки вместе как можно сильнее, задействуя предплечья.",
+      "Удерживайте сжатие несколько секунд, затем отпустите.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，每只手各握一个重物。",
+      "将双臂伸直在身前，手掌相对。",
+      "尽可能用力将双手握在一起，用力接触前臂。",
+      "按住挤压几秒钟，然后松开。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और प्रत्येक हाथ में वजन पकड़ लें।",
+      "अपनी बाहों को अपने सामने सीधा फैलाएं, हथेलियाँ एक-दूसरे के सामने हों।",
+      "जितना हो सके अपने हाथों को एक साथ निचोड़ें, अपने अग्रबाहुओं को जोड़ते हुए।",
+      "कुछ सेकंड के लिए निचोड़ को रोककर रखें, फिर छोड़ दें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań ze stopami rozstawionymi na szerokość barków, trzymając obciążenie w każdej dłoni.",
+      "Wyciągnij ramiona prosto przed siebie, dłońmi zwróconymi do siebie.",
+      "Ściśnij dłonie razem tak mocno, jak potrafisz, angażując przedramiona.",
+      "Przytrzymaj ściśnięcie przez kilka sekund, a następnie zwolnij.",
+      "Powtórz zgodnie z żądaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 너비만큼 떨어뜨리고 각 손에 웨이트를 들고 서 있습니다.",
+      "팔을 앞으로 곧게 뻗어 손가락이 마주보도록 합니다.",
+      "전완근을 활성화하면서 가능한 한 세게 손을 함께 조입니다.",
+      "몇 초 동안 조임을 유지한 후 놓습니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens un poids dans chaque main.",
+      "Étends les bras droit devant toi, les paumes tournées l'une vers l'autre.",
+      "Serre tes mains l'une contre l'autre aussi fort que possible, en engageant tes avant-bras.",
+      "Maintiens la contraction pendant quelques secondes, puis relâche.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "triceps"
+  ],
+  "target": "forearms",
+  "image": "images/0854-bjqbauy.jpg",
+  "gif_url": "videos/0854-bjqbauy.gif",
+  "media_id": "bjqbauy",
+  "created_at": "2026-03-18T12:31:32.906303+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

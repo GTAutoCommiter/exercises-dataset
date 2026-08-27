@@ -1,0 +1,102 @@
+{
+  "id": "1637",
+  "name": "cable overhead curl on exercise ball",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Sit on an exercise ball and hold the cable handle with an underhand grip. Extend your arms fully overhead, keeping your elbows close to your ears. Slowly curl the cable down towards your forehead, keeping your upper arms stationary. Pause for a moment at the bottom of the movement, then slowly return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Siediti su una palla da ginnastica e tieni il manico del cavo con una presa sottomano. Allunga completamente le braccia sopra la testa, tenendo i gomiti vicini alle orecchie. Arrotola lentamente il cavo verso la fronte, mantenendo ferme le braccia superiori. Fermati un attimo alla fine del movimento, poi torna lentamente alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Bir egzersiz topunun üzerine oturun ve kablonun kolunu alttan kavrayarak tutun. Dirseklerinizi kulaklarınıza yakın tutarak kollarınızı tamamen yukarı doğru uzatın. Üst kollarınızı sabit tutarak kabloyu yavaşça alnınıza doğru kıvırın. Hareketin alt noktasında bir süre duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Siéntate sobre un balón de ejercicio y sujeta la agarradera del cable con un agarre supino. Extiende los brazos completamente por encima de la cabeza, manteniendo los codos cerca de las orejas. Curva lentamente el cable hacia la frente, manteniendo la parte superior de los brazos inmóvil. Haz una pausa breve en la parte más baja del movimiento, luego vuelve lentamente a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Сядьте на мяч для упражнений и возьмитесь за рукоятку троса хватом снизу. Вытяните руки полностью над головой, держа локти близко к ушам. Медленно скрутите трос ко лбу, сохраняя плечи неподвижными. Сделайте паузу на мгновение в нижней части движения, затем медленно вернитесь в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "坐在健身球上，用反手握住电缆手柄。 将手臂完全伸过头顶，保持肘部靠近耳朵。 慢慢地将电缆朝前额卷曲，保持上臂静止。 在动作底部暂停片刻，然后慢慢回到起始位置。 重复所需的重复次数。",
+    "hi": "एक्सरसाइज बॉल पर बैठें और केबल के हैंडल को हल्के से पकड़ें। अपनी कोहनियों को अपने कानों के पास रखते हुए, अपनी भुजाओं को पूरी तरह ऊपर की ओर फैलाएँ। अपनी ऊपरी भुजाओं को स्थिर रखते हुए धीरे-धीरे केबल को अपने माथे की ओर नीचे की ओर मोड़ें। गति के निचले भाग पर एक पल के लिए रुकें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Usiądź na piłce gimnastycznej i chwyć uchwyt wyciągu podchwytem. Całkowicie wyprostuj ramiona nad głową, trzymając łokcie blisko uszu. Powoli opuść linę w kierunku czoła, trzymając ramiona górne nieruchomo. Zatrzymaj się na moment na dole ruchu, a następnie powoli wróć do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "운동공 위에 앉아 손가락이 위를 향하는 그립으로 케이블 손잡이를 잡습니다. 팔꿈치를 귀 옆에 붙인 채로 팔을 완전히 들어올립니다. 상완을 고정한 채로 천천히 케이블을 이마 방향으로 구부립니다. 움직임의 최하점에서 잠깐 멈춘 후 천천히 시작 위치로 돌립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Assieds-toi sur un ballon d'exercice et tiens la poignée de câble avec une prise en supination. Étends complètement tes bras au-dessus de la tête, en gardant tes coudes près de tes oreilles. Enroule lentement le câble vers ton front, en gardant le haut des bras immobile. Marque une pause en bas du mouvement, puis reviens lentement à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on an exercise ball and hold the cable handle with an underhand grip.",
+      "Extend your arms fully overhead, keeping your elbows close to your ears.",
+      "Slowly curl the cable down towards your forehead, keeping your upper arms stationary.",
+      "Pause for a moment at the bottom of the movement, then slowly return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Siediti su una palla da ginnastica e tieni il manico del cavo con una presa sottomano.",
+      "Allunga completamente le braccia sopra la testa, tenendo i gomiti vicini alle orecchie.",
+      "Arrotola lentamente il cavo verso la fronte, mantenendo ferme le braccia superiori.",
+      "Fermati un attimo alla fine del movimento, poi torna lentamente alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Bir egzersiz topunun üzerine oturun ve kablonun kolunu alttan kavrayarak tutun.",
+      "Dirseklerinizi kulaklarınıza yakın tutarak kollarınızı tamamen yukarı doğru uzatın.",
+      "Üst kollarınızı sabit tutarak kabloyu yavaşça alnınıza doğru kıvırın.",
+      "Hareketin alt noktasında bir süre duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Siéntate sobre un balón de ejercicio y sujeta la agarradera del cable con un agarre supino.",
+      "Extiende los brazos completamente por encima de la cabeza, manteniendo los codos cerca de las orejas.",
+      "Curva lentamente el cable hacia la frente, manteniendo la parte superior de los brazos inmóvil.",
+      "Haz una pausa breve en la parte más baja del movimiento, luego vuelve lentamente a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на мяч для упражнений и возьмитесь за рукоятку троса хватом снизу.",
+      "Вытяните руки полностью над головой, держа локти близко к ушам.",
+      "Медленно скрутите трос ко лбу, сохраняя плечи неподвижными.",
+      "Сделайте паузу на мгновение в нижней части движения, затем медленно вернитесь в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "坐在健身球上，用反手握住电缆手柄。",
+      "将手臂完全伸过头顶，保持肘部靠近耳朵。",
+      "慢慢地将电缆朝前额卷曲，保持上臂静止。",
+      "在动作底部暂停片刻，然后慢慢回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "एक्सरसाइज बॉल पर बैठें और केबल के हैंडल को हल्के से पकड़ें।",
+      "अपनी कोहनियों को अपने कानों के पास रखते हुए, अपनी भुजाओं को पूरी तरह ऊपर की ओर फैलाएँ।",
+      "अपनी ऊपरी भुजाओं को स्थिर रखते हुए धीरे-धीरे केबल को अपने माथे की ओर नीचे की ओर मोड़ें।",
+      "गति के निचले भाग पर एक पल के लिए रुकें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Usiądź na piłce gimnastycznej i chwyć uchwyt wyciągu podchwytem.",
+      "Całkowicie wyprostuj ramiona nad głową, trzymając łokcie blisko uszu.",
+      "Powoli opuść linę w kierunku czoła, trzymając ramiona górne nieruchomo.",
+      "Zatrzymaj się na moment na dole ruchu, a następnie powoli wróć do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "운동공 위에 앉아 손가락이 위를 향하는 그립으로 케이블 손잡이를 잡습니다.",
+      "팔꿈치를 귀 옆에 붙인 채로 팔을 완전히 들어올립니다.",
+      "상완을 고정한 채로 천천히 케이블을 이마 방향으로 구부립니다.",
+      "움직임의 최하점에서 잠깐 멈춘 후 천천히 시작 위치로 돌립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Assieds-toi sur un ballon d'exercice et tiens la poignée de câble avec une prise en supination.",
+      "Étends complètement tes bras au-dessus de la tête, en gardant tes coudes près de tes oreilles.",
+      "Enroule lentement le câble vers ton front, en gardant le haut des bras immobile.",
+      "Marque une pause en bas du mouvement, puis reviens lentement à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "forearms",
+  "secondary_muscles": [
+    "forearms",
+    "shoulders"
+  ],
+  "target": "biceps",
+  "image": "images/1637-ioTf098.jpg",
+  "gif_url": "videos/1637-ioTf098.gif",
+  "media_id": "ioTf098",
+  "created_at": "2026-03-18T12:31:32.875284+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

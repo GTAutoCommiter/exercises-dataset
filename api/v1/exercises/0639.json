@@ -1,0 +1,112 @@
+{
+  "id": "0639",
+  "name": "one arm dip",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand facing away from a bench or chair, with your feet shoulder-width apart. Place one hand on the bench or chair behind you, fingers pointing towards your body. Extend your legs out in front of you, keeping your heels on the ground. Bend your elbows and lower your body towards the ground, keeping your back close to the bench or chair. Pause for a moment at the bottom, then push through your palms to straighten your arms and return to the starting position. Repeat for the desired number of repetitions, then switch sides and repeat with the other arm.",
+    "it": "Stai in piedi di fronte a una panca o una sedia, con i piedi alla larghezza delle spalle. Metti una mano sulla panca o sulla sedia dietro di te, con le dita rivolte verso il tuo corpo. Estendi le gambe davanti a te, mantenendo i talloni a terra. Piega i gomiti e abbassa il corpo verso terra, mantenendo la schiena vicina alla panca o alla sedia. Fai una pausa per un momento in basso, quindi spingi attraverso i palmi delle mani per raddrizzare le braccia e tornare alla posizione di partenza. Ripeti per il numero di ripetizioni desiderato, quindi cambia lato e ripeti con l'altro braccio.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde, bir bank veya sandalyeye dönük olarak ayakta durun. Bir elinizi arkanızdaki bankın veya sandalyenin üzerine, parmaklarınız vücudunuza bakacak şekilde yerleştirin. Topuklarınızı yerde tutarak bacaklarınızı önünüze doğru uzatın. Dirseklerinizi bükün ve sırtınızı bank veya sandalyeye yakın tutarak vücudunuzu yere doğru indirin. Altta bir an duraklayın, ardından avuçlarınızı iterek kollarınızı düzleştirin ve başlangıç ​​pozisyonuna dönün. İstenilen tekrar sayısı kadar tekrarlayın, ardından taraf değiştirin ve diğer kolla tekrarlayın.",
+    "es": "Ponte de pie de espaldas a un banco o silla, con los pies separados a la altura de los hombros. Coloca una mano en el banco o silla detrás de ti, con los dedos apuntando hacia tu cuerpo. Extiende las piernas hacia adelante, manteniendo los talones en el suelo. Flexiona los codos y baja el cuerpo hacia el suelo, manteniendo la espalda cerca del banco o silla. Haz una pausa por un momento en la parte baja y luego empuja con las palmas para estirar los brazos y volver a la posición inicial. Repite el número de repeticiones deseado, luego cambia de lado y repite con el otro brazo.",
+    "ru": "Встаньте лицом от скамьи или стула, поставив ноги на ширине плеч. Положите одну руку на скамью или стул позади себя, пальцами направив ее к себе. Вытяните ноги перед собой, удерживая пятки на земле. Согните локти и опустите тело к земле, держа спину близко к скамье или стулу. Задержитесь на мгновение в нижней точке, затем оттолкнитесь ладонями, чтобы выпрямить руки и вернуться в исходное положение. Повторите желаемое количество повторений, затем поменяйте сторону и повторите с другой рукой.",
+    "zh": "背对长凳或椅子站立，双脚分开与肩同宽。 将一只手放在身后的长凳或椅子上，手指指向您的身体。 将双腿向前方伸展，脚跟保持在地面上。 弯曲肘部，将身体放低至地面，使背部靠近长凳或椅子。 在底部停顿片刻，然后用手掌推直手臂，回到起始位置。 重复所需的重复次数，然后换边并用另一只手臂重复。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई की दूरी पर रखते हुए, किसी बेंच या कुर्सी से दूर की ओर मुंह करके खड़े हो जाएं। एक हाथ अपने पीछे बेंच या कुर्सी पर रखें, उंगलियाँ आपके शरीर की ओर हों। अपनी एड़ियों को ज़मीन पर रखते हुए, अपने पैरों को अपने सामने फैलाएँ। अपनी कोहनियों को मोड़ें और अपने शरीर को ज़मीन की ओर नीचे करें, अपनी पीठ को बेंच या कुर्सी के पास रखें। नीचे एक पल के लिए रुकें, फिर अपनी हथेलियों से धक्का देकर अपनी भुजाओं को सीधा करें और प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएं, फिर पक्ष बदलें और दूसरे हाथ से दोहराएं।",
+    "pl": "Stań tyłem do ławki lub krzesła, stopy na szerokość barków. Umieść jedną dłoń na ławce lub krześle za sobą, palce skierowane w stronę ciała. Wyprostuj nogi przed sobą, trzymając pięty na podłodze. Ugnij łokcie i opuść ciało w kierunku podłogi, trzymając plecy blisko ławki lub krzesła. Zatrzymaj się na chwilę w dolnej pozycji, a następnie wypchnij się przez dłonie, aby wyprostować ramiona i wrócić do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń, a następnie zmień stronę i powtórz drugą ręką.",
+    "ko": "벤치나 의자에서 등을 향해 발을 어깨 너비로 벌리고 서서 섭니다. 한손을 몸을 향해 손가락이 향하도록 뒤의 벤치나 의자에 놓습니다. 발을 앞으로 펼쳐 발뒤꿈치를 바닥에 유지합니다. 팔꿈치를 구부려 몸을 바닥 쪽으로 내리면서 등을 벤치나 의자에 가깝게 유지합니다. 맨 아래에서 잠시 멈춘 후 손바닥으로 밀어 팔을 펼쳐 시작 위치로 돌아옵니다. 원하는 횟수만큼 반복한 후 반대편으로 바꿔 반복합니다.",
+    "fr": "Tiens-toi dos à un banc ou une chaise, les pieds écartés à la largeur des épaules. Place une main sur le banc ou la chaise derrière toi, les doigts pointés vers ton corps. Étends tes jambes devant toi, en gardant les talons au sol. Plie tes coudes et abaisse ton corps vers le sol en gardant ton dos près du banc ou de la chaise. Marque une pause en bas, puis pousse sur tes paumes pour tendre tes bras et revenir à la position de départ. Répète le nombre de répétitions souhaité, puis change de côté et recommence avec l'autre bras."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand facing away from a bench or chair, with your feet shoulder-width apart.",
+      "Place one hand on the bench or chair behind you, fingers pointing towards your body.",
+      "Extend your legs out in front of you, keeping your heels on the ground.",
+      "Bend your elbows and lower your body towards the ground, keeping your back close to the bench or chair.",
+      "Pause for a moment at the bottom, then push through your palms to straighten your arms and return to the starting position.",
+      "Repeat for the desired number of repetitions, then switch sides and repeat with the other arm."
+    ],
+    "it": [
+      "Stai in piedi di fronte a una panca o una sedia, con i piedi alla larghezza delle spalle.",
+      "Metti una mano sulla panca o sulla sedia dietro di te, con le dita rivolte verso il tuo corpo.",
+      "Estendi le gambe davanti a te, mantenendo i talloni a terra.",
+      "Piega i gomiti e abbassa il corpo verso terra, mantenendo la schiena vicina alla panca o alla sedia.",
+      "Fai una pausa per un momento in basso, quindi spingi attraverso i palmi delle mani per raddrizzare le braccia e tornare alla posizione di partenza.",
+      "Ripeti per il numero di ripetizioni desiderato, quindi cambia lato e ripeti con l'altro braccio."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde, bir bank veya sandalyeye dönük olarak ayakta durun.",
+      "Bir elinizi arkanızdaki bankın veya sandalyenin üzerine, parmaklarınız vücudunuza bakacak şekilde yerleştirin.",
+      "Topuklarınızı yerde tutarak bacaklarınızı önünüze doğru uzatın.",
+      "Dirseklerinizi bükün ve sırtınızı bank veya sandalyeye yakın tutarak vücudunuzu yere doğru indirin.",
+      "Altta bir an duraklayın, ardından avuçlarınızı iterek kollarınızı düzleştirin ve başlangıç ​​pozisyonuna dönün.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından taraf değiştirin ve diğer kolla tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie de espaldas a un banco o silla, con los pies separados a la altura de los hombros.",
+      "Coloca una mano en el banco o silla detrás de ti, con los dedos apuntando hacia tu cuerpo.",
+      "Extiende las piernas hacia adelante, manteniendo los talones en el suelo.",
+      "Flexiona los codos y baja el cuerpo hacia el suelo, manteniendo la espalda cerca del banco o silla.",
+      "Haz una pausa por un momento en la parte baja y luego empuja con las palmas para estirar los brazos y volver a la posición inicial.",
+      "Repite el número de repeticiones deseado, luego cambia de lado y repite con el otro brazo."
+    ],
+    "ru": [
+      "Встаньте лицом от скамьи или стула, поставив ноги на ширине плеч.",
+      "Положите одну руку на скамью или стул позади себя, пальцами направив ее к себе.",
+      "Вытяните ноги перед собой, удерживая пятки на земле.",
+      "Согните локти и опустите тело к земле, держа спину близко к скамье или стулу.",
+      "Задержитесь на мгновение в нижней точке, затем оттолкнитесь ладонями, чтобы выпрямить руки и вернуться в исходное положение.",
+      "Повторите желаемое количество повторений, затем поменяйте сторону и повторите с другой рукой."
+    ],
+    "zh": [
+      "背对长凳或椅子站立，双脚分开与肩同宽。",
+      "将一只手放在身后的长凳或椅子上，手指指向您的身体。",
+      "将双腿向前方伸展，脚跟保持在地面上。",
+      "弯曲肘部，将身体放低至地面，使背部靠近长凳或椅子。",
+      "在底部停顿片刻，然后用手掌推直手臂，回到起始位置。",
+      "重复所需的重复次数，然后换边并用另一只手臂重复。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई की दूरी पर रखते हुए, किसी बेंच या कुर्सी से दूर की ओर मुंह करके खड़े हो जाएं।",
+      "एक हाथ अपने पीछे बेंच या कुर्सी पर रखें, उंगलियाँ आपके शरीर की ओर हों।",
+      "अपनी एड़ियों को ज़मीन पर रखते हुए, अपने पैरों को अपने सामने फैलाएँ।",
+      "अपनी कोहनियों को मोड़ें और अपने शरीर को ज़मीन की ओर नीचे करें, अपनी पीठ को बेंच या कुर्सी के पास रखें।",
+      "नीचे एक पल के लिए रुकें, फिर अपनी हथेलियों से धक्का देकर अपनी भुजाओं को सीधा करें और प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर पक्ष बदलें और दूसरे हाथ से दोहराएं।"
+    ],
+    "pl": [
+      "Stań tyłem do ławki lub krzesła, stopy na szerokość barków.",
+      "Umieść jedną dłoń na ławce lub krześle za sobą, palce skierowane w stronę ciała.",
+      "Wyprostuj nogi przed sobą, trzymając pięty na podłodze.",
+      "Ugnij łokcie i opuść ciało w kierunku podłogi, trzymając plecy blisko ławki lub krzesła.",
+      "Zatrzymaj się na chwilę w dolnej pozycji, a następnie wypchnij się przez dłonie, aby wyprostować ramiona i wrócić do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń, a następnie zmień stronę i powtórz drugą ręką."
+    ],
+    "ko": [
+      "벤치나 의자에서 등을 향해 발을 어깨 너비로 벌리고 서서 섭니다.",
+      "한손을 몸을 향해 손가락이 향하도록 뒤의 벤치나 의자에 놓습니다.",
+      "발을 앞으로 펼쳐 발뒤꿈치를 바닥에 유지합니다.",
+      "팔꿈치를 구부려 몸을 바닥 쪽으로 내리면서 등을 벤치나 의자에 가깝게 유지합니다.",
+      "맨 아래에서 잠시 멈춘 후 손바닥으로 밀어 팔을 펼쳐 시작 위치로 돌아옵니다.",
+      "원하는 횟수만큼 반복한 후 반대편으로 바꿔 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi dos à un banc ou une chaise, les pieds écartés à la largeur des épaules.",
+      "Place une main sur le banc ou la chaise derrière toi, les doigts pointés vers ton corps.",
+      "Étends tes jambes devant toi, en gardant les talons au sol.",
+      "Plie tes coudes et abaisse ton corps vers le sol en gardant ton dos près du banc ou de la chaise.",
+      "Marque une pause en bas, puis pousse sur tes paumes pour tendre tes bras et revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis change de côté et recommence avec l'autre bras."
+    ]
+  },
+  "muscle_group": "chest",
+  "secondary_muscles": [
+    "chest",
+    "shoulders"
+  ],
+  "target": "triceps",
+  "image": "images/0639-FAoIFMw.jpg",
+  "gif_url": "videos/0639-FAoIFMw.gif",
+  "media_id": "FAoIFMw",
+  "created_at": "2026-03-18T12:31:32.887985+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

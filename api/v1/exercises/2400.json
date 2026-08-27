@@ -1,0 +1,112 @@
+{
+  "id": "2400",
+  "name": "inverse leg curl (on pull-up cable machine)",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Adjust the cable machine so that the ankle straps are at the lowest setting. Lie face down on the bench with your legs extended and the ankle straps attached to your feet. Hold onto the handles of the bench for stability. Bend your knees and curl your legs towards your glutes, squeezing your hamstrings. Pause for a moment at the top of the movement, then slowly lower your legs back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Regolare la macchina per cavi in ​​modo che le cinghie della caviglia siano nella posizione più bassa. Sdraiati a faccia in giù sulla panca con le gambe distese e le cinghie alla caviglia attaccate ai piedi. Aggrapparsi alle maniglie della panca per stabilità. Piega le ginocchia e piega le gambe verso i glutei, contraendo i muscoli posteriori della coscia. Fai una pausa per un momento nella parte superiore del movimento, quindi abbassa lentamente le gambe nella posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Kablo makinesini ayak bileği kayışları en düşük ayarda olacak şekilde ayarlayın. Bacaklarınız uzatılmış ve ayak bileği kayışları ayaklarınıza bağlı olarak bankta yüzüstü uzanın. Denge için bankın tutamaklarını tutun. Dizlerinizi bükün ve bacaklarınızı kalça kaslarınıza doğru kıvırarak hamstringlerinizi sıkın. Hareketin en üst noktasında bir süre duraklayın, ardından bacaklarınızı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta la máquina de cable para que las correas de tobillo estén en el ajuste más bajo. Túmbate boca abajo en el banco con las piernas extendidas y las correas de tobillo sujetas a los pies. Sujétate de las agarraderas del banco para mantener la estabilidad. Dobla las rodillas y curva las piernas hacia los glúteos, contrayendo los isquiotibiales. Haz una pausa breve en la parte superior del movimiento, luego baja lentamente las piernas de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Отрегулируйте блочный тренажер так, чтобы ремни на щиколотках находились в самом нижнем положении. Лягте лицом вниз на скамью, вытянув ноги и прикрепив к ступням ремни на щиколотках. Держитесь за ручки скамьи для устойчивости. Согните колени и согните ноги к ягодицам, сжимая мышцы задней поверхности бедра. Задержитесь на мгновение в верхней точке движения, затем медленно опустите ноги обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "调整缆绳机，使踝带处于最低设置。 面朝下躺在长凳上，双腿伸展，脚踝带固定在脚上。 握住长凳的把手以保持稳定。 弯曲膝盖，将双腿向臀部弯曲，挤压腿筋。 在动作的最高点暂停片刻，然后慢慢将双腿放回起始位置。 重复所需的重复次数。",
+    "hi": "केबल मशीन को समायोजित करें ताकि टखने की पट्टियाँ सबसे कम सेटिंग पर हों। अपने पैरों को फैलाकर और टखने की पट्टियों को अपने पैरों से जोड़कर बेंच पर मुंह के बल लेट जाएं। स्थिरता के लिए बेंच के हैंडल को पकड़ें। अपने घुटनों को मोड़ें और अपने पैरों को अपने ग्लूट्स की ओर मोड़ें, जिससे आपकी हैमस्ट्रिंग दब जाए। गति के शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने पैरों को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Wyreguluj wyciąg linowy tak, aby paski na kostki znajdowały się na najniższym ustawieniu. Połóż się twarzą w dół na ławce z nogami wyprostowanymi i paskami na kostki zapiętymi na stopach. Chwyć uchwyty ławki dla stabilizacji. Ugnij kolana i przyciągnij nogi w stronę pośladków, mocno napinając mięśnie dwugłowe uda. Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść nogi do pozycji wyjściowej. Powtórz zgodnie z zaplanowaną liczbą powtórzeń.",
+    "ko": "케이블 머신을 조정하여 발목 스트랩이 가장 낮은 위치에 오도록 합니다. 벤치 위에 엎드려 누워 다리를 뻗고 발목 스트랩을 발에 부착합니다. 벤치의 손잡이를 잡아 안정성을 유지합니다. 무릎을 구부려 다리를 둔근 쪽으로 구부리면서 햄스트링을 조입니다. 동작의 위쪽에서 잠시 멈춘 후 다리를 천천히 시작 자세로 낮춥니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Règle la machine à câble de sorte que les sangles de cheville soient au réglage le plus bas. Allonge-toi face vers le bas sur le banc, les jambes tendues et les sangles de chevilles attachées à tes pieds. Tiens-toi aux poignées du banc pour la stabilité. Fléchis les genoux et enroule tes jambes vers tes fessiers en contractant tes ischio-jambiers. Marque une pause en haut du mouvement, puis abaisse lentement tes jambes pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the cable machine so that the ankle straps are at the lowest setting.",
+      "Lie face down on the bench with your legs extended and the ankle straps attached to your feet.",
+      "Hold onto the handles of the bench for stability.",
+      "Bend your knees and curl your legs towards your glutes, squeezing your hamstrings.",
+      "Pause for a moment at the top of the movement, then slowly lower your legs back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Regolare la macchina per cavi in ​​modo che le cinghie della caviglia siano nella posizione più bassa.",
+      "Sdraiati a faccia in giù sulla panca con le gambe distese e le cinghie alla caviglia attaccate ai piedi.",
+      "Aggrapparsi alle maniglie della panca per stabilità.",
+      "Piega le ginocchia e piega le gambe verso i glutei, contraendo i muscoli posteriori della coscia.",
+      "Fai una pausa per un momento nella parte superiore del movimento, quindi abbassa lentamente le gambe nella posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Kablo makinesini ayak bileği kayışları en düşük ayarda olacak şekilde ayarlayın.",
+      "Bacaklarınız uzatılmış ve ayak bileği kayışları ayaklarınıza bağlı olarak bankta yüzüstü uzanın.",
+      "Denge için bankın tutamaklarını tutun.",
+      "Dizlerinizi bükün ve bacaklarınızı kalça kaslarınıza doğru kıvırarak hamstringlerinizi sıkın.",
+      "Hareketin en üst noktasında bir süre duraklayın, ardından bacaklarınızı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta la máquina de cable para que las correas de tobillo estén en el ajuste más bajo.",
+      "Túmbate boca abajo en el banco con las piernas extendidas y las correas de tobillo sujetas a los pies.",
+      "Sujétate de las agarraderas del banco para mantener la estabilidad.",
+      "Dobla las rodillas y curva las piernas hacia los glúteos, contrayendo los isquiotibiales.",
+      "Haz una pausa breve en la parte superior del movimiento, luego baja lentamente las piernas de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Отрегулируйте блочный тренажер так, чтобы ремни на щиколотках находились в самом нижнем положении.",
+      "Лягте лицом вниз на скамью, вытянув ноги и прикрепив к ступням ремни на щиколотках.",
+      "Держитесь за ручки скамьи для устойчивости.",
+      "Согните колени и согните ноги к ягодицам, сжимая мышцы задней поверхности бедра.",
+      "Сделайте паузу на мгновение в верхней точке движения, затем медленно опустите ноги обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "调整缆绳机，使踝带处于最低设置。",
+      "面朝下躺在长凳上，双腿伸展，脚踝带固定在脚上。",
+      "握住长凳的把手以保持稳定。",
+      "弯曲膝盖，将双腿向臀部弯曲，挤压腿筋。",
+      "在动作的最高点暂停片刻，然后慢慢将双腿放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "केबल मशीन को समायोजित करें ताकि टखने की पट्टियाँ सबसे कम सेटिंग पर हों।",
+      "अपने पैरों को फैलाकर और टखने की पट्टियों को अपने पैरों से जोड़कर बेंच पर मुंह के बल लेट जाएं।",
+      "स्थिरता के लिए बेंच के हैंडल को पकड़ें।",
+      "अपने घुटनों को मोड़ें और अपने पैरों को अपने ग्लूट्स की ओर मोड़ें, जिससे आपकी हैमस्ट्रिंग दब जाए।",
+      "गति के शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने पैरों को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Wyreguluj wyciąg linowy tak, aby paski na kostki znajdowały się na najniższym ustawieniu.",
+      "Połóż się twarzą w dół na ławce z nogami wyprostowanymi i paskami na kostki zapiętymi na stopach.",
+      "Chwyć uchwyty ławki dla stabilizacji.",
+      "Ugnij kolana i przyciągnij nogi w stronę pośladków, mocno napinając mięśnie dwugłowe uda.",
+      "Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść nogi do pozycji wyjściowej.",
+      "Powtórz zgodnie z zaplanowaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "케이블 머신을 조정하여 발목 스트랩이 가장 낮은 위치에 오도록 합니다.",
+      "벤치 위에 엎드려 누워 다리를 뻗고 발목 스트랩을 발에 부착합니다.",
+      "벤치의 손잡이를 잡아 안정성을 유지합니다.",
+      "무릎을 구부려 다리를 둔근 쪽으로 구부리면서 햄스트링을 조입니다.",
+      "동작의 위쪽에서 잠시 멈춘 후 다리를 천천히 시작 자세로 낮춥니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Règle la machine à câble de sorte que les sangles de cheville soient au réglage le plus bas.",
+      "Allonge-toi face vers le bas sur le banc, les jambes tendues et les sangles de chevilles attachées à tes pieds.",
+      "Tiens-toi aux poignées du banc pour la stabilité.",
+      "Fléchis les genoux et enroule tes jambes vers tes fessiers en contractant tes ischio-jambiers.",
+      "Marque une pause en haut du mouvement, puis abaisse lentement tes jambes pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "glutes",
+  "secondary_muscles": [
+    "glutes",
+    "calves"
+  ],
+  "target": "hamstrings",
+  "image": "images/2400-0rHfvy9.jpg",
+  "gif_url": "videos/2400-0rHfvy9.gif",
+  "media_id": "0rHfvy9",
+  "created_at": "2026-03-18T12:31:32.884608+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

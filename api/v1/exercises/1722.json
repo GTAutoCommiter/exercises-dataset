@@ -1,0 +1,111 @@
+{
+  "id": "1722",
+  "name": "cable high pulley overhead tricep extension",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Attach a rope to a high pulley and stand facing away from the machine. Grasp the rope with both hands and extend your arms overhead. Keep your elbows close to your head and your upper arms stationary. Slowly lower the rope behind your head by bending your elbows. Pause for a moment, then extend your arms back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Attacca una corda a una carrucola alta e mettiti di spalle alla macchina. Afferra la corda con entrambe le mani e estendi le braccia sopra la testa. Tieni i gomiti vicini alla testa e le braccia superiori ferme. Abbassa lentamente la corda dietro la testa piegando i gomiti. Fermati un attimo, poi riporta le braccia alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Yüksek bir makaraya bir halat bağlayın ve yüzünüz makineden uzakta durun. Halatı iki elinizle kavrayın ve kollarınızı yukarı doğru uzatın. Dirseklerinizi başınıza yakın tutun ve üst kollarınızı sabit tutun. Dirseklerinizi bükerek ipi yavaşça başınızın arkasına indirin. Bir an duraklayın, ardından kollarınızı başlangıç ​​pozisyonuna geri uzatın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Coloca una cuerda en una polea alta y ponte de pie de espaldas a la máquina. Sujeta la cuerda con ambas manos y extiende los brazos por encima de la cabeza. Mantén los codos cerca de la cabeza y la parte superior de los brazos inmóvil. Baja lentamente la cuerda detrás de la cabeza flexionando los codos. Haz una pausa por un momento y luego extiende los brazos de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Прикрепите веревку к высокому шкиву и встаньте лицом от машины. Возьмите веревку обеими руками и вытяните руки над головой. Держите локти близко к голове, а плечи неподвижно. Медленно опустите веревку за голову, сгибая локти. Сделайте паузу на мгновение, затем вытяните руки обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "将绳子连接到高滑轮上，背对机器站立。 双手抓住绳子，并将双臂伸过头顶。 保持肘部靠近头部，上臂保持静止。 弯曲肘部，慢慢将绳子降低到头后。 暂停片刻，然后将手臂伸回到起始位置。 重复所需的重复次数。",
+    "hi": "एक ऊंची चरखी में रस्सी बांधें और मशीन से दूर की ओर मुंह करके खड़े हो जाएं। दोनों हाथों से रस्सी को पकड़ें और अपनी बाहों को ऊपर की ओर फैलाएं। अपनी कोहनियों को अपने सिर के पास रखें और अपनी ऊपरी भुजाओं को स्थिर रखें। अपनी कोहनियों को मोड़कर धीरे-धीरे रस्सी को अपने सिर के पीछे नीचे लाएँ। एक पल के लिए रुकें, फिर अपनी भुजाओं को वापस प्रारंभिक स्थिति में फैलाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Podłącz linę do górnego bloczka i stań tyłem do maszyny. Chwyć linę obiema rękami i wyprostuj ramiona nad głową. Trzymaj łokcie blisko głowy, a ramiona górne nieruchomo. Powoli opuść linę za głowę, uginając łokcie. Zatrzymaj się na moment, a następnie wyprostuj ramiona, wracając do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "로프를 높은 풀리에 부착하고 머신을 등지고 섭니다. 양손으로 로프를 잡고 팔을 머리 위로 쭉 펼칩니다. 팔꿈치를 머리 가까이에 붙이고 상팔을 고정시킵니다. 팔꿈치를 구부려 로프를 머리 뒤로 천천히 내립니다. 잠깐 멈추었다가 팔을 시작 위치로 펼쳐 올립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Fixe une corde à une poulie haute et tiens-toi dos à la machine. Saisis la corde des deux mains et étends les bras au-dessus de ta tête. Garde tes coudes près de ta tête et le haut de tes bras immobile. Abaisse lentement la corde derrière ta tête en fléchissant les coudes. Marque une pause, puis étends tes bras pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Attach a rope to a high pulley and stand facing away from the machine.",
+      "Grasp the rope with both hands and extend your arms overhead.",
+      "Keep your elbows close to your head and your upper arms stationary.",
+      "Slowly lower the rope behind your head by bending your elbows.",
+      "Pause for a moment, then extend your arms back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Attacca una corda a una carrucola alta e mettiti di spalle alla macchina.",
+      "Afferra la corda con entrambe le mani e estendi le braccia sopra la testa.",
+      "Tieni i gomiti vicini alla testa e le braccia superiori ferme.",
+      "Abbassa lentamente la corda dietro la testa piegando i gomiti.",
+      "Fermati un attimo, poi riporta le braccia alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Yüksek bir makaraya bir halat bağlayın ve yüzünüz makineden uzakta durun.",
+      "Halatı iki elinizle kavrayın ve kollarınızı yukarı doğru uzatın.",
+      "Dirseklerinizi başınıza yakın tutun ve üst kollarınızı sabit tutun.",
+      "Dirseklerinizi bükerek ipi yavaşça başınızın arkasına indirin.",
+      "Bir an duraklayın, ardından kollarınızı başlangıç ​​pozisyonuna geri uzatın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Coloca una cuerda en una polea alta y ponte de pie de espaldas a la máquina.",
+      "Sujeta la cuerda con ambas manos y extiende los brazos por encima de la cabeza.",
+      "Mantén los codos cerca de la cabeza y la parte superior de los brazos inmóvil.",
+      "Baja lentamente la cuerda detrás de la cabeza flexionando los codos.",
+      "Haz una pausa por un momento y luego extiende los brazos de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Прикрепите веревку к высокому шкиву и встаньте лицом от машины.",
+      "Возьмите веревку обеими руками и вытяните руки над головой.",
+      "Держите локти близко к голове, а плечи неподвижно.",
+      "Медленно опустите веревку за голову, сгибая локти.",
+      "Сделайте паузу на мгновение, затем вытяните руки обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将绳子连接到高滑轮上，背对机器站立。",
+      "双手抓住绳子，并将双臂伸过头顶。",
+      "保持肘部靠近头部，上臂保持静止。",
+      "弯曲肘部，慢慢将绳子降低到头后。",
+      "暂停片刻，然后将手臂伸回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "एक ऊंची चरखी में रस्सी बांधें और मशीन से दूर की ओर मुंह करके खड़े हो जाएं।",
+      "दोनों हाथों से रस्सी को पकड़ें और अपनी बाहों को ऊपर की ओर फैलाएं।",
+      "अपनी कोहनियों को अपने सिर के पास रखें और अपनी ऊपरी भुजाओं को स्थिर रखें।",
+      "अपनी कोहनियों को मोड़कर धीरे-धीरे रस्सी को अपने सिर के पीछे नीचे लाएँ।",
+      "एक पल के लिए रुकें, फिर अपनी भुजाओं को वापस प्रारंभिक स्थिति में फैलाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Podłącz linę do górnego bloczka i stań tyłem do maszyny.",
+      "Chwyć linę obiema rękami i wyprostuj ramiona nad głową.",
+      "Trzymaj łokcie blisko głowy, a ramiona górne nieruchomo.",
+      "Powoli opuść linę za głowę, uginając łokcie.",
+      "Zatrzymaj się na moment, a następnie wyprostuj ramiona, wracając do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "로프를 높은 풀리에 부착하고 머신을 등지고 섭니다.",
+      "양손으로 로프를 잡고 팔을 머리 위로 쭉 펼칩니다.",
+      "팔꿈치를 머리 가까이에 붙이고 상팔을 고정시킵니다.",
+      "팔꿈치를 구부려 로프를 머리 뒤로 천천히 내립니다.",
+      "잠깐 멈추었다가 팔을 시작 위치로 펼쳐 올립니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Fixe une corde à une poulie haute et tiens-toi dos à la machine.",
+      "Saisis la corde des deux mains et étends les bras au-dessus de ta tête.",
+      "Garde tes coudes près de ta tête et le haut de tes bras immobile.",
+      "Abaisse lentement la corde derrière ta tête en fléchissant les coudes.",
+      "Marque une pause, puis étends tes bras pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders"
+  ],
+  "target": "triceps",
+  "image": "images/1722-1xHyxys.jpg",
+  "gif_url": "videos/1722-1xHyxys.gif",
+  "media_id": "1xHyxys",
+  "created_at": "2026-03-18T12:31:32.87451+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,123 @@
+{
+  "id": "0769",
+  "name": "smith sprint lunge",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "smith machine",
+  "instructions": {
+    "en": "Set up the smith machine with the barbell at hip height. Stand facing away from the machine with your feet shoulder-width apart. Step back with your right foot and place it on the barbell, resting the top of your foot on the bar. Bend your left knee and lower your body into a lunge position, keeping your back straight. Push through your left heel to return to the starting position. Repeat on the other side, stepping back with your left foot. Continue alternating sides for the desired number of repetitions.",
+    "it": "Posiziona la Smith Machine con il bilanciere all'altezza dei fianchi. Stai di fronte alla macchina con i piedi alla larghezza delle spalle. Fai un passo indietro con il piede destro e posizionalo sul bilanciere, appoggiando la parte superiore del piede sulla barra. Piega il ginocchio sinistro e abbassa il corpo in una posizione di affondo, mantenendo la schiena dritta. Spingi attraverso il tallone sinistro per tornare alla posizione di partenza. Ripeti dall'altro lato, facendo un passo indietro con il piede sinistro. Continua ad alternare i lati per il numero di ripetizioni desiderato.",
+    "tr": "Demirci makinesini halter kalça hizasında olacak şekilde kurun. Ayaklarınız omuz genişliğinde açık olacak şekilde, yüzünüz makineden uzakta durun. Sağ ayağınızla geriye adım atın ve halterin üzerine yerleştirin, ayağınızın üst kısmını bara dayayın. Sol dizinizi bükün ve sırtınızı düz tutarak vücudunuzu hamle pozisyonuna indirin. Başlangıç ​​pozisyonuna dönmek için sol topuğunuzu itin. Sol ayağınızla geriye adım atarak diğer tarafta tekrarlayın. İstenilen tekrar sayısı için alternatif taraflara devam edin.",
+    "es": "Configura la máquina Smith con la barra a la altura de la cadera. Ponte de pie de espaldas a la máquina con los pies separados a la altura de los hombros. Da un paso atrás con el pie derecho y colócalo sobre la barra, apoyando la parte superior del pie en ella. Dobla la rodilla izquierda y baja el cuerpo hacia una posición de zancada, manteniendo la espalda recta. Empuja con el talón izquierdo para volver a la posición inicial. Repite del otro lado, dando un paso hacia atrás con el pie izquierdo. Continúa alternando lados durante el número de repeticiones deseado.",
+    "ru": "Установите машину Смита так, чтобы штанга находилась на уровне бедер. Встаньте лицом к тренажеру, поставив ноги на ширине плеч. Сделайте шаг назад правой ногой и поставьте ее на штангу, положив верхнюю часть стопы на перекладину. Согните левое колено и опустите тело в положение выпада, сохраняя спину прямой. Оттолкнитесь левой пяткой, чтобы вернуться в исходное положение. Повторите то же самое в другую сторону, отступив левой ногой назад. Продолжайте чередовать стороны желаемое количество повторений.",
+    "zh": "将杠铃置于臀部高度的史密斯机上。 背对机器站立，双脚与肩同宽。 右脚向后退一步，将其放在杠铃上，将脚尖放在杠上。 弯曲左膝，将身体降低到弓步位置，保持背部挺直。 推动左脚跟返回到起始位置。 在另一侧重复，左脚向后退一步。 继续交替进行所需的重复次数。",
+    "hi": "कूल्हे की ऊंचाई पर बारबेल के साथ स्मिथ मशीन स्थापित करें। अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए मशीन से दूर की ओर मुंह करके खड़े हो जाएं। अपने दाहिने पैर के साथ पीछे हटें और इसे बारबेल पर रखें, अपने पैर के शीर्ष को बार पर टिकाएं। अपने बाएं घुटने को मोड़ें और अपनी पीठ को सीधा रखते हुए अपने शरीर को लंज स्थिति में नीचे लाएं। प्रारंभिक स्थिति में लौटने के लिए अपनी बायीं एड़ी को धक्का दें। अपने बाएं पैर से पीछे हटते हुए दूसरी तरफ भी दोहराएं। दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।",
+    "pl": "Ustaw suwnicę Smitha ze sztangą na wysokości bioder. Stań tyłem do maszyny, ze stopami rozstawionymi na szerokość barków. Cofnij prawą stopę i oprzyj ją na sztandze, opierając wierzch stopy na drążku. Ugnij lewe kolano i opuść ciało w pozycję wykroku, trzymając plecy proste. Odepchnij się przez lewą piętę, aby wrócić do pozycji wyjściowej. Powtórz po drugiej stronie, cofając lewą stopę. Kontynuuj naprzemienne zmienianie stron przez zadaną liczbę powtórzeń.",
+    "ko": "스미스 머신의 바를 엉덩이 높이로 세팅합니다. 머신을 마주 보지 않고 발을 어깨 너비만큼 벌려진 위치에 서 있습니다. 오른쪽 발을 뒤로 물러 바 위에 올리고 발 윗부분을 바에 올립니다. 왼쪽 무릎을 구부려 몸을 런지 위치로 내리되 등은 펴진 상태를 유지합니다. 왼쪽 뒤꿈치로 밀어 시작 위치로 돌아옵니다. 다른 쪽도 반복하여 왼쪽 발을 뒤로 물러 런지를 합니다. 원하는 횟수만큼 양쪽을 번갈아 반복합니다.",
+    "fr": "Règle la machine Smith avec la barre à hauteur de hanche. Tiens-toi dos à la machine, les pieds écartés à la largeur des épaules. Recule le pied droit et pose-le sur la barre, en faisant reposer le dessus du pied sur la barre. Fléchis ton genou gauche et abaisse ton corps en position de fente en gardant le dos droit. Pousse à travers ton talon gauche pour revenir à la position de départ. Répète de l'autre côté en reculant ton pied gauche. Continue à alterner les côtés pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Set up the smith machine with the barbell at hip height.",
+      "Stand facing away from the machine with your feet shoulder-width apart.",
+      "Step back with your right foot and place it on the barbell, resting the top of your foot on the bar.",
+      "Bend your left knee and lower your body into a lunge position, keeping your back straight.",
+      "Push through your left heel to return to the starting position.",
+      "Repeat on the other side, stepping back with your left foot.",
+      "Continue alternating sides for the desired number of repetitions."
+    ],
+    "it": [
+      "Posiziona la Smith Machine con il bilanciere all'altezza dei fianchi.",
+      "Stai di fronte alla macchina con i piedi alla larghezza delle spalle.",
+      "Fai un passo indietro con il piede destro e posizionalo sul bilanciere, appoggiando la parte superiore del piede sulla barra.",
+      "Piega il ginocchio sinistro e abbassa il corpo in una posizione di affondo, mantenendo la schiena dritta.",
+      "Spingi attraverso il tallone sinistro per tornare alla posizione di partenza.",
+      "Ripeti dall'altro lato, facendo un passo indietro con il piede sinistro.",
+      "Continua ad alternare i lati per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Demirci makinesini halter kalça hizasında olacak şekilde kurun.",
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde, yüzünüz makineden uzakta durun.",
+      "Sağ ayağınızla geriye adım atın ve halterin üzerine yerleştirin, ayağınızın üst kısmını bara dayayın.",
+      "Sol dizinizi bükün ve sırtınızı düz tutarak vücudunuzu hamle pozisyonuna indirin.",
+      "Başlangıç ​​pozisyonuna dönmek için sol topuğunuzu itin.",
+      "Sol ayağınızla geriye adım atarak diğer tarafta tekrarlayın.",
+      "İstenilen tekrar sayısı için alternatif taraflara devam edin."
+    ],
+    "es": [
+      "Configura la máquina Smith con la barra a la altura de la cadera.",
+      "Ponte de pie de espaldas a la máquina con los pies separados a la altura de los hombros.",
+      "Da un paso atrás con el pie derecho y colócalo sobre la barra, apoyando la parte superior del pie en ella.",
+      "Dobla la rodilla izquierda y baja el cuerpo hacia una posición de zancada, manteniendo la espalda recta.",
+      "Empuja con el talón izquierdo para volver a la posición inicial.",
+      "Repite del otro lado, dando un paso hacia atrás con el pie izquierdo.",
+      "Continúa alternando lados durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Установите машину Смита так, чтобы штанга находилась на уровне бедер.",
+      "Встаньте лицом к тренажеру, поставив ноги на ширине плеч.",
+      "Сделайте шаг назад правой ногой и поставьте ее на штангу, положив верхнюю часть стопы на перекладину.",
+      "Согните левое колено и опустите тело в положение выпада, сохраняя спину прямой.",
+      "Оттолкнитесь левой пяткой, чтобы вернуться в исходное положение.",
+      "Повторите то же самое в другую сторону, отступив левой ногой назад.",
+      "Продолжайте чередовать стороны желаемое количество повторений."
+    ],
+    "zh": [
+      "将杠铃置于臀部高度的史密斯机上。",
+      "背对机器站立，双脚与肩同宽。",
+      "右脚向后退一步，将其放在杠铃上，将脚尖放在杠上。",
+      "弯曲左膝，将身体降低到弓步位置，保持背部挺直。",
+      "推动左脚跟返回到起始位置。",
+      "在另一侧重复，左脚向后退一步。",
+      "继续交替进行所需的重复次数。"
+    ],
+    "hi": [
+      "कूल्हे की ऊंचाई पर बारबेल के साथ स्मिथ मशीन स्थापित करें।",
+      "अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए मशीन से दूर की ओर मुंह करके खड़े हो जाएं।",
+      "अपने दाहिने पैर के साथ पीछे हटें और इसे बारबेल पर रखें, अपने पैर के शीर्ष को बार पर टिकाएं।",
+      "अपने बाएं घुटने को मोड़ें और अपनी पीठ को सीधा रखते हुए अपने शरीर को लंज स्थिति में नीचे लाएं।",
+      "प्रारंभिक स्थिति में लौटने के लिए अपनी बायीं एड़ी को धक्का दें।",
+      "अपने बाएं पैर से पीछे हटते हुए दूसरी तरफ भी दोहराएं।",
+      "दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।"
+    ],
+    "pl": [
+      "Ustaw suwnicę Smitha ze sztangą na wysokości bioder.",
+      "Stań tyłem do maszyny, ze stopami rozstawionymi na szerokość barków.",
+      "Cofnij prawą stopę i oprzyj ją na sztandze, opierając wierzch stopy na drążku.",
+      "Ugnij lewe kolano i opuść ciało w pozycję wykroku, trzymając plecy proste.",
+      "Odepchnij się przez lewą piętę, aby wrócić do pozycji wyjściowej.",
+      "Powtórz po drugiej stronie, cofając lewą stopę.",
+      "Kontynuuj naprzemienne zmienianie stron przez zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "스미스 머신의 바를 엉덩이 높이로 세팅합니다.",
+      "머신을 마주 보지 않고 발을 어깨 너비만큼 벌려진 위치에 서 있습니다.",
+      "오른쪽 발을 뒤로 물러 바 위에 올리고 발 윗부분을 바에 올립니다.",
+      "왼쪽 무릎을 구부려 몸을 런지 위치로 내리되 등은 펴진 상태를 유지합니다.",
+      "왼쪽 뒤꿈치로 밀어 시작 위치로 돌아옵니다.",
+      "다른 쪽도 반복하여 왼쪽 발을 뒤로 물러 런지를 합니다.",
+      "원하는 횟수만큼 양쪽을 번갈아 반복합니다."
+    ],
+    "fr": [
+      "Règle la machine Smith avec la barre à hauteur de hanche.",
+      "Tiens-toi dos à la machine, les pieds écartés à la largeur des épaules.",
+      "Recule le pied droit et pose-le sur la barre, en faisant reposer le dessus du pied sur la barre.",
+      "Fléchis ton genou gauche et abaisse ton corps en position de fente en gardant le dos droit.",
+      "Pousse à travers ton talon gauche pour revenir à la position de départ.",
+      "Répète de l'autre côté en reculant ton pied gauche.",
+      "Continue à alterner les côtés pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "glutes",
+  "image": "images/0769-HsjbB1z.jpg",
+  "gif_url": "videos/0769-HsjbB1z.gif",
+  "media_id": "HsjbB1z",
+  "created_at": "2026-03-18T12:31:32.89106+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

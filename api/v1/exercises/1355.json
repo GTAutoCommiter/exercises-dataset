@@ -1,0 +1,102 @@
+{
+  "id": "1355",
+  "name": "one arm against wall",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand facing a wall with your feet shoulder-width apart. Extend one arm straight out in front of you and place your palm against the wall. Engage your core and lean your body forward, keeping your arm straight and your back flat. Slowly push against the wall with your palm, activating your lat muscles. Hold the position for a few seconds, then release and repeat with the other arm.",
+    "it": "Mettiti di fronte a un muro con i piedi alla larghezza delle spalle. Estendi un braccio davanti a te e posiziona il palmo della mano contro il muro. Coinvolgi il core e inclina il corpo in avanti, mantenendo il braccio dritto e la schiena piatta. Spingi lentamente contro il muro con il palmo della mano, attivando i muscoli dorsali. Mantieni la posizione per qualche secondo, poi rilascia e ripeti con l'altro braccio.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde duvara dönük durun. Bir kolunuzu düz bir şekilde önünüze doğru uzatın ve avucunuzu duvara dayayın. Merkez bölgenizi devreye sokun ve kolunuzu ve sırtınızı düz tutarak vücudunuzu öne doğru eğin. Avucunuzla yavaşça duvarı iterek lat kaslarınızı harekete geçirin. Konumu birkaç saniye basılı tutun, ardından bırakın ve diğer kolla tekrarlayın.",
+    "es": "Ponte de pie frente a una pared con los pies separados a la altura de los hombros. Extiende un brazo recto hacia adelante y coloca la palma contra la pared. Activa el core e inclina el cuerpo hacia adelante, manteniendo el brazo recto y la espalda plana. Empuja lentamente la pared con la palma, activando los dorsales. Mantén la posición durante unos segundos, luego suelta y repite con el otro brazo.",
+    "ru": "Встаньте лицом к стене, ноги на ширине плеч. Вытяните одну руку прямо перед собой и прижмите ладонь к стене. Напрягите корпус и наклоните тело вперед, держа руку прямой, а спину ровной. Медленно прижмите ладонь к стене, активируя широчайшие мышцы. Удерживайте положение несколько секунд, затем отпустите и повторите то же самое с другой рукой.",
+    "zh": "面向墙壁站立，双脚分开与肩同宽。 将一只手臂伸直到身前，将手掌靠在墙上。 启动你的核心，身体向前倾斜，保持手臂伸直，背部平坦。 用手掌慢慢推向墙壁，激活背阔肌。 保持该姿势几秒钟，然后松开并用另一只手臂重复该动作。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए दीवार की ओर मुंह करके खड़े हो जाएं। एक हाथ को अपने सामने सीधा फैलाएं और अपनी हथेली को दीवार से सटाकर रखें। अपने कोर को संलग्न करें और अपने शरीर को आगे की ओर झुकाएं, अपनी बांह को सीधा और अपनी पीठ को सपाट रखें। धीरे-धीरे अपनी हथेली से दीवार को धक्का दें, जिससे आपकी अंडकोश की मांसपेशियां सक्रिय हो जाएंगी। कुछ सेकंड के लिए इस स्थिति में रहें, फिर छोड़ें और दूसरे हाथ से दोहराएं।",
+    "pl": "Stań przodem do ściany, stopy na szerokość barków. Wyprostuj jedną rękę przed sobą i przyłóż dłoń do ściany. Napnij mięśnie tułowia i pochyl ciało do przodu, trzymając ramię proste, a plecy płaskie. Powoli naciśnij dłonią na ścianę, aktywując mięsień najszerszy grzbietu. Przytrzymaj pozycję przez kilka sekund, a następnie zwolnij i powtórz drugą ręką.",
+    "ko": "발을 어깨 너비로 벌리고 벽을 마주 서서 섭니다. 한팔을 앞으로 곧게 펼쳐서 손바닥을 벽에 밀착시킵니다. 코어를 활성화하고 팔을 곧게 유지하면서 몸을 앞으로 기울이고 등은 평평하게 유지합니다. 손바닥으로 벽을 천천히 밀어 광배근을 활성화합니다. 잠시 위치를 유지한 후 반대팔로 반복합니다.",
+    "fr": "Tiens-toi face à un mur, les pieds écartés à la largeur des épaules. Étends un bras droit devant toi et place ta paume contre le mur. Gaine ta sangle abdominale et penche ton corps vers l'avant, en gardant ton bras droit et ton dos plat. Pousse lentement contre le mur avec ta paume, en activant tes grands dorsaux. Maintiens la position pendant quelques secondes, puis relâche et répète avec l'autre bras."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand facing a wall with your feet shoulder-width apart.",
+      "Extend one arm straight out in front of you and place your palm against the wall.",
+      "Engage your core and lean your body forward, keeping your arm straight and your back flat.",
+      "Slowly push against the wall with your palm, activating your lat muscles.",
+      "Hold the position for a few seconds, then release and repeat with the other arm."
+    ],
+    "it": [
+      "Mettiti di fronte a un muro con i piedi alla larghezza delle spalle.",
+      "Estendi un braccio davanti a te e posiziona il palmo della mano contro il muro.",
+      "Coinvolgi il core e inclina il corpo in avanti, mantenendo il braccio dritto e la schiena piatta.",
+      "Spingi lentamente contro il muro con il palmo della mano, attivando i muscoli dorsali.",
+      "Mantieni la posizione per qualche secondo, poi rilascia e ripeti con l'altro braccio."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde duvara dönük durun.",
+      "Bir kolunuzu düz bir şekilde önünüze doğru uzatın ve avucunuzu duvara dayayın.",
+      "Merkez bölgenizi devreye sokun ve kolunuzu ve sırtınızı düz tutarak vücudunuzu öne doğru eğin.",
+      "Avucunuzla yavaşça duvarı iterek lat kaslarınızı harekete geçirin.",
+      "Konumu birkaç saniye basılı tutun, ardından bırakın ve diğer kolla tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie frente a una pared con los pies separados a la altura de los hombros.",
+      "Extiende un brazo recto hacia adelante y coloca la palma contra la pared.",
+      "Activa el core e inclina el cuerpo hacia adelante, manteniendo el brazo recto y la espalda plana.",
+      "Empuja lentamente la pared con la palma, activando los dorsales.",
+      "Mantén la posición durante unos segundos, luego suelta y repite con el otro brazo."
+    ],
+    "ru": [
+      "Встаньте лицом к стене, ноги на ширине плеч.",
+      "Вытяните одну руку прямо перед собой и прижмите ладонь к стене.",
+      "Напрягите корпус и наклоните тело вперед, держа руку прямой, а спину ровной.",
+      "Медленно прижмите ладонь к стене, активируя широчайшие мышцы.",
+      "Удерживайте положение несколько секунд, затем отпустите и повторите то же самое с другой рукой."
+    ],
+    "zh": [
+      "面向墙壁站立，双脚分开与肩同宽。",
+      "将一只手臂伸直到身前，将手掌靠在墙上。",
+      "启动你的核心，身体向前倾斜，保持手臂伸直，背部平坦。",
+      "用手掌慢慢推向墙壁，激活背阔肌。",
+      "保持该姿势几秒钟，然后松开并用另一只手臂重复该动作。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए दीवार की ओर मुंह करके खड़े हो जाएं।",
+      "एक हाथ को अपने सामने सीधा फैलाएं और अपनी हथेली को दीवार से सटाकर रखें।",
+      "अपने कोर को संलग्न करें और अपने शरीर को आगे की ओर झुकाएं, अपनी बांह को सीधा और अपनी पीठ को सपाट रखें।",
+      "धीरे-धीरे अपनी हथेली से दीवार को धक्का दें, जिससे आपकी अंडकोश की मांसपेशियां सक्रिय हो जाएंगी।",
+      "कुछ सेकंड के लिए इस स्थिति में रहें, फिर छोड़ें और दूसरे हाथ से दोहराएं।"
+    ],
+    "pl": [
+      "Stań przodem do ściany, stopy na szerokość barków.",
+      "Wyprostuj jedną rękę przed sobą i przyłóż dłoń do ściany.",
+      "Napnij mięśnie tułowia i pochyl ciało do przodu, trzymając ramię proste, a plecy płaskie.",
+      "Powoli naciśnij dłonią na ścianę, aktywując mięsień najszerszy grzbietu.",
+      "Przytrzymaj pozycję przez kilka sekund, a następnie zwolnij i powtórz drugą ręką."
+    ],
+    "ko": [
+      "발을 어깨 너비로 벌리고 벽을 마주 서서 섭니다.",
+      "한팔을 앞으로 곧게 펼쳐서 손바닥을 벽에 밀착시킵니다.",
+      "코어를 활성화하고 팔을 곧게 유지하면서 몸을 앞으로 기울이고 등은 평평하게 유지합니다.",
+      "손바닥으로 벽을 천천히 밀어 광배근을 활성화합니다.",
+      "잠시 위치를 유지한 후 반대팔로 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi face à un mur, les pieds écartés à la largeur des épaules.",
+      "Étends un bras droit devant toi et place ta paume contre le mur.",
+      "Gaine ta sangle abdominale et penche ton corps vers l'avant, en gardant ton bras droit et ton dos plat.",
+      "Pousse lentement contre le mur avec ta paume, en activant tes grands dorsaux.",
+      "Maintiens la position pendant quelques secondes, puis relâche et répète avec l'autre bras."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "target": "lats",
+  "image": "images/1355-ZZTGMKh.jpg",
+  "gif_url": "videos/1355-ZZTGMKh.gif",
+  "media_id": "ZZTGMKh",
+  "created_at": "2026-03-18T12:31:32.88795+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

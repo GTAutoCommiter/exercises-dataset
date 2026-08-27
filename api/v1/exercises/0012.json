@@ -1,0 +1,122 @@
+{
+  "id": "0012",
+  "name": "assisted lying leg raise with lateral throw down",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "assisted",
+  "instructions": {
+    "en": "Lie flat on your back with your legs extended and your arms by your sides. Place your hands under your glutes for support. Engage your abs and lift your legs off the ground, keeping them straight. While keeping your legs together, lower them to one side until they are a few inches above the ground. Pause for a moment, then lift your legs back to the starting position. Repeat the movement to the other side. Continue alternating sides for the desired number of repetitions.",
+    "it": "Sdraiati sulla schiena con le gambe distese e le braccia lungo i fianchi. Metti le mani sotto i glutei per supporto. Coinvolgi gli addominali e solleva le gambe da terra, mantenendole dritte. Tenendo le gambe unite, abbassale da un lato finché non si trovano a pochi centimetri dal suolo. Fai una pausa per un momento, quindi riporta le gambe nella posizione di partenza. Ripeti il ​​movimento dall'altro lato. Continua ad alternare i lati per il numero di ripetizioni desiderato.",
+    "tr": "Bacaklarınız uzatılmış ve kollarınız yanlarınızda olacak şekilde sırt üstü yatın. Destek için ellerinizi kalça kaslarınızın altına yerleştirin. Karın kaslarınızı devreye sokun ve bacaklarınızı düz tutarak yerden kaldırın. Bacaklarınızı bir arada tutarken yerden birkaç santim yüksekte olana kadar onları bir tarafa indirin. Bir an duraklayın ve bacaklarınızı tekrar başlangıç ​​pozisyonuna kaldırın. Hareketi diğer tarafa doğru tekrarlayın. İstenilen tekrar sayısı için alternatif taraflara devam edin.",
+    "es": "Túmbate sobre tu espalda con las piernas extendidas y los brazos a los lados. Coloca las manos debajo de los glúteos como apoyo. Activa el abdomen y levanta las piernas del suelo, manteniéndolas rectas. Manteniendo las piernas juntas, bájalas hacia un lado hasta que queden a pocos centímetros del suelo. Haz una pausa por un momento, luego levanta las piernas de vuelta a la posición inicial. Repite el movimiento hacia el otro lado. Continúa alternando lados durante el número de repeticiones deseado.",
+    "ru": "Лягте на спину, вытянув ноги и положив руки по бокам. Положите руки под ягодицы для поддержки. Напрягите пресс и поднимите ноги от земли, сохраняя их прямыми. Держа ноги вместе, опустите их в сторону, пока они не окажутся на несколько дюймов над землей. Сделайте паузу на мгновение, затем поднимите ноги обратно в исходное положение. Повторите движение в другую сторону. Продолжайте чередовать стороны желаемое количество повторений.",
+    "zh": "平躺，双腿伸展，双臂放在身体两侧。 将双手放在臀部下方以获得支撑。 收紧腹肌，将双腿抬离地面，保持伸直。 双腿并拢的同时，将它们降低到一侧，直到离地几英寸。 暂停片刻，然后抬起双腿回到起始位置。 到另一侧重复该动作。 继续交替进行所需的重复次数。",
+    "hi": "अपने पैरों को फैलाकर और अपनी भुजाओं को बगल में रखकर अपनी पीठ के बल सीधे लेट जाएँ। समर्थन के लिए अपने हाथों को अपने ग्लूट्स के नीचे रखें। अपने पेट को संलग्न करें और अपने पैरों को सीधा रखते हुए जमीन से ऊपर उठाएं। अपने पैरों को एक साथ रखते हुए, उन्हें एक तरफ नीचे करें जब तक कि वे जमीन से कुछ इंच ऊपर न हो जाएं। एक पल के लिए रुकें, फिर अपने पैरों को वापस प्रारंभिक स्थिति में उठाएं। इस क्रिया को दूसरी ओर भी दोहराएँ। दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।",
+    "pl": "Połóż się płasko na plecach z wyciągniętymi nogami i ramionami wzdłuż tułowia. Umieść dłonie pod pośladkami dla wsparcia. Napnij mięśnie brzucha i unieś nogi nad podłogę, utrzymując je proste. Trzymając nogi razem, opuść je na bok, aż znajdą się kilka centymetrów nad podłogą. Zatrzymaj się na chwilę, a następnie unieś nogi z powrotem do pozycji wyjściowej. Powtórz ruch po drugiej stronie. Kontynuuj naprzemienne wykonywanie ruchu na obie strony przez zalecaną liczbę powtórzeń.",
+    "ko": "등을 바닥에 누워 다리를 펼치고 팔을 양쪽에 내립니다. 손을 둔부 아래에 받쳐 놓습니다. 복근을 긴장시키고 다리를 바닥에서 들어 곧게 펼친 상태로 유지합니다. 다리를 모은 상태로 한쪽으로 내려 바닥에서 몇 센티 정도 떨어진 위치까지 내립니다. 잠깐 멈춰 다리를 시작 자세로 올립니다. 반대쪽으로도 같은 동작을 반복합니다. 원하는 반복 횟수만큼 좌우를 번갈아가며 계속합니다.",
+    "fr": "Allonge-toi sur le dos, les jambes tendues et les bras le long du corps. Place tes mains sous tes fessiers pour te soutenir. Gaine tes abdominaux et lève tes jambes du sol, en les gardant droites. Tout en gardant tes jambes serrées, abaisse-les d'un côté jusqu'à quelques centimètres au-dessus du sol. Marque une pause, puis relève tes jambes à la position de départ. Répète le mouvement de l'autre côté. Continue à alterner les côtés pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Lie flat on your back with your legs extended and your arms by your sides.",
+      "Place your hands under your glutes for support.",
+      "Engage your abs and lift your legs off the ground, keeping them straight.",
+      "While keeping your legs together, lower them to one side until they are a few inches above the ground.",
+      "Pause for a moment, then lift your legs back to the starting position.",
+      "Repeat the movement to the other side.",
+      "Continue alternating sides for the desired number of repetitions."
+    ],
+    "it": [
+      "Sdraiati sulla schiena con le gambe distese e le braccia lungo i fianchi.",
+      "Metti le mani sotto i glutei per supporto.",
+      "Coinvolgi gli addominali e solleva le gambe da terra, mantenendole dritte.",
+      "Tenendo le gambe unite, abbassale da un lato finché non si trovano a pochi centimetri dal suolo.",
+      "Fai una pausa per un momento, quindi riporta le gambe nella posizione di partenza.",
+      "Ripeti il ​​movimento dall'altro lato.",
+      "Continua ad alternare i lati per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Bacaklarınız uzatılmış ve kollarınız yanlarınızda olacak şekilde sırt üstü yatın.",
+      "Destek için ellerinizi kalça kaslarınızın altına yerleştirin.",
+      "Karın kaslarınızı devreye sokun ve bacaklarınızı düz tutarak yerden kaldırın.",
+      "Bacaklarınızı bir arada tutarken yerden birkaç santim yüksekte olana kadar onları bir tarafa indirin.",
+      "Bir an duraklayın ve bacaklarınızı tekrar başlangıç ​​pozisyonuna kaldırın.",
+      "Hareketi diğer tarafa doğru tekrarlayın.",
+      "İstenilen tekrar sayısı için alternatif taraflara devam edin."
+    ],
+    "es": [
+      "Túmbate sobre tu espalda con las piernas extendidas y los brazos a los lados.",
+      "Coloca las manos debajo de los glúteos como apoyo.",
+      "Activa el abdomen y levanta las piernas del suelo, manteniéndolas rectas.",
+      "Manteniendo las piernas juntas, bájalas hacia un lado hasta que queden a pocos centímetros del suelo.",
+      "Haz una pausa por un momento, luego levanta las piernas de vuelta a la posición inicial.",
+      "Repite el movimiento hacia el otro lado.",
+      "Continúa alternando lados durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Лягте на спину, вытянув ноги и положив руки по бокам.",
+      "Положите руки под ягодицы для поддержки.",
+      "Напрягите пресс и поднимите ноги от земли, сохраняя их прямыми.",
+      "Держа ноги вместе, опустите их в сторону, пока они не окажутся на несколько дюймов над землей.",
+      "Сделайте паузу на мгновение, затем поднимите ноги обратно в исходное положение.",
+      "Повторите движение в другую сторону.",
+      "Продолжайте чередовать стороны желаемое количество повторений."
+    ],
+    "zh": [
+      "平躺，双腿伸展，双臂放在身体两侧。",
+      "将双手放在臀部下方以获得支撑。",
+      "收紧腹肌，将双腿抬离地面，保持伸直。",
+      "双腿并拢的同时，将它们降低到一侧，直到离地几英寸。",
+      "暂停片刻，然后抬起双腿回到起始位置。",
+      "到另一侧重复该动作。",
+      "继续交替进行所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को फैलाकर और अपनी भुजाओं को बगल में रखकर अपनी पीठ के बल सीधे लेट जाएँ।",
+      "समर्थन के लिए अपने हाथों को अपने ग्लूट्स के नीचे रखें।",
+      "अपने पेट को संलग्न करें और अपने पैरों को सीधा रखते हुए जमीन से ऊपर उठाएं।",
+      "अपने पैरों को एक साथ रखते हुए, उन्हें एक तरफ नीचे करें जब तक कि वे जमीन से कुछ इंच ऊपर न हो जाएं।",
+      "एक पल के लिए रुकें, फिर अपने पैरों को वापस प्रारंभिक स्थिति में उठाएं।",
+      "इस क्रिया को दूसरी ओर भी दोहराएँ।",
+      "दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।"
+    ],
+    "pl": [
+      "Połóż się płasko na plecach z wyciągniętymi nogami i ramionami wzdłuż tułowia.",
+      "Umieść dłonie pod pośladkami dla wsparcia.",
+      "Napnij mięśnie brzucha i unieś nogi nad podłogę, utrzymując je proste.",
+      "Trzymając nogi razem, opuść je na bok, aż znajdą się kilka centymetrów nad podłogą.",
+      "Zatrzymaj się na chwilę, a następnie unieś nogi z powrotem do pozycji wyjściowej.",
+      "Powtórz ruch po drugiej stronie.",
+      "Kontynuuj naprzemienne wykonywanie ruchu na obie strony przez zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "등을 바닥에 누워 다리를 펼치고 팔을 양쪽에 내립니다.",
+      "손을 둔부 아래에 받쳐 놓습니다.",
+      "복근을 긴장시키고 다리를 바닥에서 들어 곧게 펼친 상태로 유지합니다.",
+      "다리를 모은 상태로 한쪽으로 내려 바닥에서 몇 센티 정도 떨어진 위치까지 내립니다.",
+      "잠깐 멈춰 다리를 시작 자세로 올립니다.",
+      "반대쪽으로도 같은 동작을 반복합니다.",
+      "원하는 반복 횟수만큼 좌우를 번갈아가며 계속합니다."
+    ],
+    "fr": [
+      "Allonge-toi sur le dos, les jambes tendues et les bras le long du corps.",
+      "Place tes mains sous tes fessiers pour te soutenir.",
+      "Gaine tes abdominaux et lève tes jambes du sol, en les gardant droites.",
+      "Tout en gardant tes jambes serrées, abaisse-les d'un côté jusqu'à quelques centimètres au-dessus du sol.",
+      "Marque une pause, puis relève tes jambes à la position de départ.",
+      "Répète le mouvement de l'autre côté.",
+      "Continue à alterner les côtés pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hip flexors",
+  "secondary_muscles": [
+    "hip flexors",
+    "obliques"
+  ],
+  "target": "abs",
+  "image": "images/0012-UGhRD1A.jpg",
+  "gif_url": "videos/0012-UGhRD1A.gif",
+  "media_id": "UGhRD1A",
+  "created_at": "2026-03-18T12:31:32.855311+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,113 @@
+{
+  "id": "3543",
+  "name": "bodyweight drop jump squat",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart. Lower your body into a squat position by bending your knees and pushing your hips back. Jump up explosively, extending your hips, knees, and ankles. While in mid-air, quickly bring your feet together. Land softly on the balls of your feet and immediately drop back into a squat position. Repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi a larghezza delle spalle. Abbassa il corpo in posizione accovacciata piegando le ginocchia e spingendo i fianchi all'indietro. Salta in modo esplosivo, estendendo anche fianchi, ginocchia e caviglie. Mentre sei a mezz'aria, unisci rapidamente i piedi. Atterra dolcemente sulle punte dei piedi e subito torna in posizione accovacciata. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durun. Dizlerinizi bükerek ve kalçalarınızı geriye doğru iterek vücudunuzu çömelme pozisyonuna indirin. Kalçalarınızı, dizlerinizi ve ayak bileklerinizi uzatarak patlayıcı bir şekilde zıplayın. Havadayken hızla ayaklarınızı bir araya getirin. Ayak parmaklarınızın üzerine yumuşak bir şekilde inin ve hemen çömelme pozisyonuna geri dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros. Baja el cuerpo hacia una posición de sentadilla flexionando las rodillas y empujando las caderas hacia atrás. Salta hacia arriba explosivamente, extendiendo las caderas, las rodillas y los tobillos. Mientras estás en el aire, junta rápidamente los pies. Aterriza suavemente sobre las puntas de los pies y de inmediato vuelve a bajar a una posición de sentadilla. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч. Опустите тело в присед, согнув колени и отведя бедра назад. Резко подпрыгните вверх, вытягивая бедра, колени и лодыжки. Находясь в воздухе, быстро сведите ноги вместе. Мягко приземлитесь на подушечки стоп и сразу же вернитесь в присед. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立。 弯曲膝盖并将臀部向后推，将身体降低至蹲姿。 爆发性地跳起来，伸展臀部、膝盖和脚踝。 在半空中时，快速将双脚并拢。 脚掌轻轻着地，然后立即回到蹲姿。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई की दूरी पर रखकर खड़े हो जाएं। अपने घुटनों को मोड़कर और अपने कूल्हों को पीछे धकेलते हुए अपने शरीर को स्क्वाट स्थिति में लाएँ। अपने कूल्हों, घुटनों और टखनों को फैलाते हुए विस्फोटक तरीके से ऊपर कूदें। हवा के बीच में रहते हुए, जल्दी से अपने पैरों को एक साथ लाएं। अपने पैरों की उंगलियों पर धीरे से उतरें और तुरंत वापस बैठने की स्थिति में आ जाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań ze stopami na szerokość barków. Opuść ciało w pozycję przysiadu, uginając kolana i cofając biodra. Wyskocz w górę wybuchowo, prostując biodra, kolana i kostki. Będąc w powietrzu, szybko złącz stopy. Wyląduj miękko na palcach stóp i natychmiast wróć do pozycji przysiadu. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "발을 어깨 너비만큼 벌려 서 있습니다. 무릎을 구부리고 엉덩이를 뒤로 밀며 몸을 스쿼트 자세로 낮춥니다. 엉덩이, 무릎, 발목을 확장하며 폭발적으로 뛰어올립니다. 공중에 있을 때 빠르게 발을 모아줍니다. 발의 공 부분으로 부드럽게 착지한 후 즉시 스쿼트 자세로 내려갑니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules. Abaisse ton corps en position de squat en fléchissant tes genoux et en poussant tes hanches vers l'arrière. Saute vers le haut de manière explosive, en étendant tes hanches, tes genoux et tes chevilles. En plein saut, ramène rapidement tes pieds l'un contre l'autre. Atterris en douceur sur la pointe des pieds et redescends immédiatement en position de squat. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart.",
+      "Lower your body into a squat position by bending your knees and pushing your hips back.",
+      "Jump up explosively, extending your hips, knees, and ankles.",
+      "While in mid-air, quickly bring your feet together.",
+      "Land softly on the balls of your feet and immediately drop back into a squat position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi a larghezza delle spalle.",
+      "Abbassa il corpo in posizione accovacciata piegando le ginocchia e spingendo i fianchi all'indietro.",
+      "Salta in modo esplosivo, estendendo anche fianchi, ginocchia e caviglie.",
+      "Mentre sei a mezz'aria, unisci rapidamente i piedi.",
+      "Atterra dolcemente sulle punte dei piedi e subito torna in posizione accovacciata.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durun.",
+      "Dizlerinizi bükerek ve kalçalarınızı geriye doğru iterek vücudunuzu çömelme pozisyonuna indirin.",
+      "Kalçalarınızı, dizlerinizi ve ayak bileklerinizi uzatarak patlayıcı bir şekilde zıplayın.",
+      "Havadayken hızla ayaklarınızı bir araya getirin.",
+      "Ayak parmaklarınızın üzerine yumuşak bir şekilde inin ve hemen çömelme pozisyonuna geri dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros.",
+      "Baja el cuerpo hacia una posición de sentadilla flexionando las rodillas y empujando las caderas hacia atrás.",
+      "Salta hacia arriba explosivamente, extendiendo las caderas, las rodillas y los tobillos.",
+      "Mientras estás en el aire, junta rápidamente los pies.",
+      "Aterriza suavemente sobre las puntas de los pies y de inmediato vuelve a bajar a una posición de sentadilla.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч.",
+      "Опустите тело в присед, согнув колени и отведя бедра назад.",
+      "Резко подпрыгните вверх, вытягивая бедра, колени и лодыжки.",
+      "Находясь в воздухе, быстро сведите ноги вместе.",
+      "Мягко приземлитесь на подушечки стоп и сразу же вернитесь в присед.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立。",
+      "弯曲膝盖并将臀部向后推，将身体降低至蹲姿。",
+      "爆发性地跳起来，伸展臀部、膝盖和脚踝。",
+      "在半空中时，快速将双脚并拢。",
+      "脚掌轻轻着地，然后立即回到蹲姿。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई की दूरी पर रखकर खड़े हो जाएं।",
+      "अपने घुटनों को मोड़कर और अपने कूल्हों को पीछे धकेलते हुए अपने शरीर को स्क्वाट स्थिति में लाएँ।",
+      "अपने कूल्हों, घुटनों और टखनों को फैलाते हुए विस्फोटक तरीके से ऊपर कूदें।",
+      "हवा के बीच में रहते हुए, जल्दी से अपने पैरों को एक साथ लाएं।",
+      "अपने पैरों की उंगलियों पर धीरे से उतरें और तुरंत वापस बैठने की स्थिति में आ जाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań ze stopami na szerokość barków.",
+      "Opuść ciało w pozycję przysiadu, uginając kolana i cofając biodra.",
+      "Wyskocz w górę wybuchowo, prostując biodra, kolana i kostki.",
+      "Będąc w powietrzu, szybko złącz stopy.",
+      "Wyląduj miękko na palcach stóp i natychmiast wróć do pozycji przysiadu.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 너비만큼 벌려 서 있습니다.",
+      "무릎을 구부리고 엉덩이를 뒤로 밀며 몸을 스쿼트 자세로 낮춥니다.",
+      "엉덩이, 무릎, 발목을 확장하며 폭발적으로 뛰어올립니다.",
+      "공중에 있을 때 빠르게 발을 모아줍니다.",
+      "발의 공 부분으로 부드럽게 착지한 후 즉시 스쿼트 자세로 내려갑니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules.",
+      "Abaisse ton corps en position de squat en fléchissant tes genoux et en poussant tes hanches vers l'arrière.",
+      "Saute vers le haut de manière explosive, en étendant tes hanches, tes genoux et tes chevilles.",
+      "En plein saut, ramène rapidement tes pieds l'un contre l'autre.",
+      "Atterris en douceur sur la pointe des pieds et redescends immédiatement en position de squat.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "glutes",
+  "image": "images/3543-wfotm7S.jpg",
+  "gif_url": "videos/3543-wfotm7S.gif",
+  "media_id": "wfotm7S",
+  "created_at": "2026-03-18T12:31:32.873776+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

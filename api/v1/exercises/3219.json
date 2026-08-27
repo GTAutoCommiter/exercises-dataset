@@ -1,0 +1,103 @@
+{
+  "id": "3219",
+  "name": "scissor jumps (male)",
+  "category": "cardio",
+  "body_part": "cardio",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart. Jump off the ground and simultaneously cross your right leg in front of your left leg. As you land, quickly switch legs, crossing your left leg in front of your right leg. Continue alternating legs and jumping as quickly as possible. Repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi alla larghezza delle spalle. Salta da terra e contemporaneamente incrocia la gamba destra davanti alla gamba sinistra. Mentre atterri, cambia rapidamente gamba, incrociando la gamba sinistra davanti a quella destra. Continua ad alternare le gambe e a saltare il più velocemente possibile. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durun. Yerden atlayın ve aynı anda sağ bacağınızı sol bacağınızın önünde çaprazlayın. Yere inerken hızla bacak değiştirin, sol bacağınızı sağ bacağınızın önünde çaprazlayın. Bacaklarınızı değiştirerek ve mümkün olduğunca çabuk zıplamaya devam edin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros. Salta del suelo y al mismo tiempo cruza la pierna derecha por delante de la pierna izquierda. Al aterrizar, cambia rápidamente de pierna, cruzando la pierna izquierda por delante de la pierna derecha. Continúa alternando las piernas y saltando lo más rápido posible. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч. Спрыгните с земли и одновременно скрестите правую ногу перед левой ногой. При приземлении быстро поменяйте ноги, скрещивая левую ногу перед правой ногой. Продолжайте чередовать ноги и прыгать как можно быстрее. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立。 跳离地面，同时将右腿交叉到左腿前面。 落地时，快速换腿，将左腿交叉在右腿前面。 继续交替双腿并尽可能快地跳跃。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई की दूरी पर रखकर खड़े हो जाएं। ज़मीन से कूदें और साथ ही अपने दाहिने पैर को अपने बाएँ पैर के सामने से पार करें। जैसे ही आप उतरें, जल्दी से पैर बदलें, अपने बाएं पैर को अपने दाहिने पैर के सामने से पार करें। जितनी जल्दी हो सके पैरों को बदलना और कूदना जारी रखें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań w rozkroku na szerokość barków. Odbij się od podłogi i jednocześnie skrzyżuj prawą nogę przed lewą. Podczas lądowania szybko zmień nogi, krzyżując lewą nogę przed prawą. Kontynuuj naprzemienną zmianę nóg, skacząc tak szybko, jak to możliwe. Powtórz zalecaną liczbę razy.",
+    "ko": "양 발을 어깨 너비로 벌려 섭니다. 지면에서 뛰어올라 동시에 오른쪽 다리를 왼쪽 다리 앞으로 교차시킵니다. 착지하면서 빠르게 다리를 전환하여 왼쪽 다리를 오른쪽 다리 앞으로 교차시킵니다. 다리를 계속 교차시키며 최대한 빠르게 뛰면서 반복합니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules. Saute du sol et croise simultanément ta jambe droite devant ta jambe gauche. À l'atterrissage, change rapidement de jambe en croisant ta jambe gauche devant ta jambe droite. Continue à alterner les jambes et à sauter aussi vite que possible. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart.",
+      "Jump off the ground and simultaneously cross your right leg in front of your left leg.",
+      "As you land, quickly switch legs, crossing your left leg in front of your right leg.",
+      "Continue alternating legs and jumping as quickly as possible.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle.",
+      "Salta da terra e contemporaneamente incrocia la gamba destra davanti alla gamba sinistra.",
+      "Mentre atterri, cambia rapidamente gamba, incrociando la gamba sinistra davanti a quella destra.",
+      "Continua ad alternare le gambe e a saltare il più velocemente possibile.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durun.",
+      "Yerden atlayın ve aynı anda sağ bacağınızı sol bacağınızın önünde çaprazlayın.",
+      "Yere inerken hızla bacak değiştirin, sol bacağınızı sağ bacağınızın önünde çaprazlayın.",
+      "Bacaklarınızı değiştirerek ve mümkün olduğunca çabuk zıplamaya devam edin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros.",
+      "Salta del suelo y al mismo tiempo cruza la pierna derecha por delante de la pierna izquierda.",
+      "Al aterrizar, cambia rápidamente de pierna, cruzando la pierna izquierda por delante de la pierna derecha.",
+      "Continúa alternando las piernas y saltando lo más rápido posible.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч.",
+      "Спрыгните с земли и одновременно скрестите правую ногу перед левой ногой.",
+      "При приземлении быстро поменяйте ноги, скрещивая левую ногу перед правой ногой.",
+      "Продолжайте чередовать ноги и прыгать как можно быстрее.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立。",
+      "跳离地面，同时将右腿交叉到左腿前面。",
+      "落地时，快速换腿，将左腿交叉在右腿前面。",
+      "继续交替双腿并尽可能快地跳跃。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई की दूरी पर रखकर खड़े हो जाएं।",
+      "ज़मीन से कूदें और साथ ही अपने दाहिने पैर को अपने बाएँ पैर के सामने से पार करें।",
+      "जैसे ही आप उतरें, जल्दी से पैर बदलें, अपने बाएं पैर को अपने दाहिने पैर के सामने से पार करें।",
+      "जितनी जल्दी हो सके पैरों को बदलना और कूदना जारी रखें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków.",
+      "Odbij się od podłogi i jednocześnie skrzyżuj prawą nogę przed lewą.",
+      "Podczas lądowania szybko zmień nogi, krzyżując lewą nogę przed prawą.",
+      "Kontynuuj naprzemienną zmianę nóg, skacząc tak szybko, jak to możliwe.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "양 발을 어깨 너비로 벌려 섭니다.",
+      "지면에서 뛰어올라 동시에 오른쪽 다리를 왼쪽 다리 앞으로 교차시킵니다.",
+      "착지하면서 빠르게 다리를 전환하여 왼쪽 다리를 오른쪽 다리 앞으로 교차시킵니다.",
+      "다리를 계속 교차시키며 최대한 빠르게 뛰면서 반복합니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules.",
+      "Saute du sol et croise simultanément ta jambe droite devant ta jambe gauche.",
+      "À l'atterrissage, change rapidement de jambe en croisant ta jambe gauche devant ta jambe droite.",
+      "Continue à alterner les jambes et à sauter aussi vite que possible.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "cardiovascular system",
+  "image": "images/3219-Eh2v5Iu.jpg",
+  "gif_url": "videos/3219-Eh2v5Iu.gif",
+  "media_id": "Eh2v5Iu",
+  "created_at": "2026-03-18T12:31:32.889417+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

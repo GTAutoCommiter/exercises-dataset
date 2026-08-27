@@ -1,0 +1,112 @@
+{
+  "id": "2144",
+  "name": "cable seated chest press",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Adjust the seat height and cable handles to a comfortable position. Sit on the bench with your back straight and feet flat on the floor. Grasp the cable handles with an overhand grip at shoulder height. Push the handles forward and away from your body, extending your arms fully. Pause for a moment, then slowly bring the handles back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Regola l'altezza del sedile e le maniglie dei cavi in una posizione comoda. Siediti sulla panca con la schiena dritta e i piedi piatti sul pavimento. Afferra le maniglie del cavo con una presa sopra la mano all'altezza delle spalle. Spingi le maniglie in avanti e lontano dal corpo, estendendo completamente le braccia. Fermati un attimo, poi riporta lentamente le maniglie alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Koltuk yüksekliğini ve kablo tutamaklarını rahat bir konuma ayarlayın. Sırtınız düz ve ayaklarınız yere düz basacak şekilde bankta oturun. Kablo tutamaklarını omuz yüksekliğinde üstten kavrayarak kavrayın. Kollarınızı tamamen uzatarak kolları ileri ve vücudunuzdan uzağa doğru itin. Bir an duraklayın, ardından kolları yavaşça başlangıç ​​pozisyonuna getirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta la altura del asiento y las agarraderas del cable a una posición cómoda. Siéntate en el banco con la espalda recta y los pies apoyados planos en el suelo. Sujeta las agarraderas del cable con un agarre prono a la altura del hombro. Empuja las agarraderas hacia adelante y alejándolas del cuerpo, extendiendo los brazos por completo. Haz una pausa por un momento y luego regresa lentamente las agarraderas a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Отрегулируйте высоту сиденья и ручки троса в удобное положение. Сядьте на скамью, выпрямив спину и поставив ступни на пол. Возьмитесь за рукоятки троса верхним хватом на уровне плеч. Толкайте рукоятки вперед и в сторону от тела, полностью выпрямляя руки. Сделайте паузу на мгновение, затем медленно верните ручки в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "将座椅高度和电缆手柄调整至舒适的位置。 坐在长凳上，背部挺直，双脚平放在地板上。 正手握住电缆手柄，与肩同高。 向前推动手柄并使其远离身体，充分伸展双臂。 暂停片刻，然后慢慢将手柄放回起始位置。 重复所需的重复次数。",
+    "hi": "सीट की ऊंचाई और केबल हैंडल को आरामदायक स्थिति में समायोजित करें। अपनी पीठ सीधी और पैर फर्श पर सपाट करके बेंच पर बैठें। केबल के हैंडल को कंधे की ऊंचाई पर ओवरहैंड ग्रिप से पकड़ें। अपनी भुजाओं को पूरी तरह फैलाते हुए, हैंडल को अपने शरीर से आगे और दूर धकेलें। एक पल के लिए रुकें, फिर धीरे-धीरे हैंडल को शुरुआती स्थिति में वापस लाएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Wyreguluj wysokość siedziska i uchwyty wyciągu do wygodnej pozycji. Usiądź na ławce, plecy proste, stopy płasko na podłodze. Chwyć uchwyty wyciągu nachwytem na wysokości barków. Wypchnij uchwyty do przodu i z dala od ciała, całkowicie prostując ramiona. Zatrzymaj się na moment, a następnie powoli wróć z uchwytami do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "시트 높이와 케이블 핸들을 편안한 위치로 조정합니다. 벤치에 앉아 등을 곧게 펴고 발을 바닥에 평평하게 놓습니다. 어깨 높이에서 오버그립으로 케이블 핸들을 잡습니다. 핸들을 몸에서 앞으로 밀어내면서 팔을 완전히 펼칩니다. 잠시 멈추었다가 핸들을 천천히 시작 위치로 가져옵니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Règle la hauteur du siège et les poignées de câble dans une position confortable. Assieds-toi sur le banc, le dos droit et les pieds à plat sur le sol. Saisis les poignées du câble avec une prise en pronation à hauteur d'épaules. Pousse les poignées vers l'avant et loin de ton corps en tendant complètement tes bras. Marque une pause, puis ramène lentement les poignées à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the seat height and cable handles to a comfortable position.",
+      "Sit on the bench with your back straight and feet flat on the floor.",
+      "Grasp the cable handles with an overhand grip at shoulder height.",
+      "Push the handles forward and away from your body, extending your arms fully.",
+      "Pause for a moment, then slowly bring the handles back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Regola l'altezza del sedile e le maniglie dei cavi in una posizione comoda.",
+      "Siediti sulla panca con la schiena dritta e i piedi piatti sul pavimento.",
+      "Afferra le maniglie del cavo con una presa sopra la mano all'altezza delle spalle.",
+      "Spingi le maniglie in avanti e lontano dal corpo, estendendo completamente le braccia.",
+      "Fermati un attimo, poi riporta lentamente le maniglie alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Koltuk yüksekliğini ve kablo tutamaklarını rahat bir konuma ayarlayın.",
+      "Sırtınız düz ve ayaklarınız yere düz basacak şekilde bankta oturun.",
+      "Kablo tutamaklarını omuz yüksekliğinde üstten kavrayarak kavrayın.",
+      "Kollarınızı tamamen uzatarak kolları ileri ve vücudunuzdan uzağa doğru itin.",
+      "Bir an duraklayın, ardından kolları yavaşça başlangıç ​​pozisyonuna getirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta la altura del asiento y las agarraderas del cable a una posición cómoda.",
+      "Siéntate en el banco con la espalda recta y los pies apoyados planos en el suelo.",
+      "Sujeta las agarraderas del cable con un agarre prono a la altura del hombro.",
+      "Empuja las agarraderas hacia adelante y alejándolas del cuerpo, extendiendo los brazos por completo.",
+      "Haz una pausa por un momento y luego regresa lentamente las agarraderas a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Отрегулируйте высоту сиденья и ручки троса в удобное положение.",
+      "Сядьте на скамью, выпрямив спину и поставив ступни на пол.",
+      "Возьмитесь за рукоятки троса верхним хватом на уровне плеч.",
+      "Толкайте рукоятки вперед и в сторону от тела, полностью выпрямляя руки.",
+      "Сделайте паузу на мгновение, затем медленно верните ручки в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将座椅高度和电缆手柄调整至舒适的位置。",
+      "坐在长凳上，背部挺直，双脚平放在地板上。",
+      "正手握住电缆手柄，与肩同高。",
+      "向前推动手柄并使其远离身体，充分伸展双臂。",
+      "暂停片刻，然后慢慢将手柄放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "सीट की ऊंचाई और केबल हैंडल को आरामदायक स्थिति में समायोजित करें।",
+      "अपनी पीठ सीधी और पैर फर्श पर सपाट करके बेंच पर बैठें।",
+      "केबल के हैंडल को कंधे की ऊंचाई पर ओवरहैंड ग्रिप से पकड़ें।",
+      "अपनी भुजाओं को पूरी तरह फैलाते हुए, हैंडल को अपने शरीर से आगे और दूर धकेलें।",
+      "एक पल के लिए रुकें, फिर धीरे-धीरे हैंडल को शुरुआती स्थिति में वापस लाएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Wyreguluj wysokość siedziska i uchwyty wyciągu do wygodnej pozycji.",
+      "Usiądź na ławce, plecy proste, stopy płasko na podłodze.",
+      "Chwyć uchwyty wyciągu nachwytem na wysokości barków.",
+      "Wypchnij uchwyty do przodu i z dala od ciała, całkowicie prostując ramiona.",
+      "Zatrzymaj się na moment, a następnie powoli wróć z uchwytami do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "시트 높이와 케이블 핸들을 편안한 위치로 조정합니다.",
+      "벤치에 앉아 등을 곧게 펴고 발을 바닥에 평평하게 놓습니다.",
+      "어깨 높이에서 오버그립으로 케이블 핸들을 잡습니다.",
+      "핸들을 몸에서 앞으로 밀어내면서 팔을 완전히 펼칩니다.",
+      "잠시 멈추었다가 핸들을 천천히 시작 위치로 가져옵니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Règle la hauteur du siège et les poignées de câble dans une position confortable.",
+      "Assieds-toi sur le banc, le dos droit et les pieds à plat sur le sol.",
+      "Saisis les poignées du câble avec une prise en pronation à hauteur d'épaules.",
+      "Pousse les poignées vers l'avant et loin de ton corps en tendant complètement tes bras.",
+      "Marque une pause, puis ramène lentement les poignées à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "target": "pectorals",
+  "image": "images/2144-nIR4Rwl.jpg",
+  "gif_url": "videos/2144-nIR4Rwl.gif",
+  "media_id": "nIR4Rwl",
+  "created_at": "2026-03-18T12:31:32.875854+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

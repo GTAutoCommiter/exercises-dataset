@@ -1,0 +1,542 @@
+[
+  {
+    "id": "0968",
+    "name": "band alternating biceps curl",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "band",
+    "target": "biceps",
+    "image": "images/0968-3omWx6P.jpg",
+    "gif_url": "videos/0968-3omWx6P.gif"
+  },
+  {
+    "id": "0969",
+    "name": "band alternating v-up",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "band",
+    "target": "abs",
+    "image": "images/0969-ztAa1RK.jpg",
+    "gif_url": "videos/0969-ztAa1RK.gif"
+  },
+  {
+    "id": "0970",
+    "name": "band assisted pull-up",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "band",
+    "target": "lats",
+    "image": "images/0970-r1XNRYB.jpg",
+    "gif_url": "videos/0970-r1XNRYB.gif"
+  },
+  {
+    "id": "0971",
+    "name": "band assisted wheel rollerout",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "band",
+    "target": "abs",
+    "image": "images/0971-zhF9lW4.jpg",
+    "gif_url": "videos/0971-zhF9lW4.gif"
+  },
+  {
+    "id": "1254",
+    "name": "band bench press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "band",
+    "target": "pectorals",
+    "image": "images/1254-khlHMqs.jpg",
+    "gif_url": "videos/1254-khlHMqs.gif"
+  },
+  {
+    "id": "0980",
+    "name": "band bent-over hip extension",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "band",
+    "target": "glutes",
+    "image": "images/0980-wSScovH.jpg",
+    "gif_url": "videos/0980-wSScovH.gif"
+  },
+  {
+    "id": "0972",
+    "name": "band bicycle crunch",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "band",
+    "target": "abs",
+    "image": "images/0972-tZkGYZ9.jpg",
+    "gif_url": "videos/0972-tZkGYZ9.gif"
+  },
+  {
+    "id": "0974",
+    "name": "band close-grip pulldown",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "band",
+    "target": "lats",
+    "image": "images/0974-DptumMx.jpg",
+    "gif_url": "videos/0974-DptumMx.gif"
+  },
+  {
+    "id": "0975",
+    "name": "band close-grip push-up",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "band",
+    "target": "triceps",
+    "image": "images/0975-ufaxB52.jpg",
+    "gif_url": "videos/0975-ufaxB52.gif"
+  },
+  {
+    "id": "0976",
+    "name": "band concentration curl",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "band",
+    "target": "biceps",
+    "image": "images/0976-kmVVAfu.jpg",
+    "gif_url": "videos/0976-kmVVAfu.gif"
+  },
+  {
+    "id": "3117",
+    "name": "band fixed back close grip pulldown",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "band",
+    "target": "lats",
+    "image": "images/3117-4LoWllp.jpg",
+    "gif_url": "videos/3117-4LoWllp.gif"
+  },
+  {
+    "id": "3116",
+    "name": "band fixed back underhand pulldown",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "band",
+    "target": "lats",
+    "image": "images/3116-ZH68exZ.jpg",
+    "gif_url": "videos/3116-ZH68exZ.gif"
+  },
+  {
+    "id": "0977",
+    "name": "band front lateral raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "band",
+    "target": "delts",
+    "image": "images/0977-sTg7iys.jpg",
+    "gif_url": "videos/0977-sTg7iys.gif"
+  },
+  {
+    "id": "0978",
+    "name": "band front raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "band",
+    "target": "delts",
+    "image": "images/0978-TFA88iB.jpg",
+    "gif_url": "videos/0978-TFA88iB.gif"
+  },
+  {
+    "id": "1408",
+    "name": "band hip lift",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "band",
+    "target": "glutes",
+    "image": "images/1408-E4R8Hz1.jpg",
+    "gif_url": "videos/1408-E4R8Hz1.gif"
+  },
+  {
+    "id": "0979",
+    "name": "band horizontal pallof press",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "band",
+    "target": "abs",
+    "image": "images/0979-9pa4H5m.jpg",
+    "gif_url": "videos/0979-9pa4H5m.gif"
+  },
+  {
+    "id": "0981",
+    "name": "band jack knife sit-up",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "band",
+    "target": "abs",
+    "image": "images/0981-KCBKjma.jpg",
+    "gif_url": "videos/0981-KCBKjma.gif"
+  },
+  {
+    "id": "0983",
+    "name": "band kneeling one arm pulldown",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "band",
+    "target": "lats",
+    "image": "images/0983-pmnrOp0.jpg",
+    "gif_url": "videos/0983-pmnrOp0.gif"
+  },
+  {
+    "id": "0985",
+    "name": "band kneeling twisting crunch",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "band",
+    "target": "abs",
+    "image": "images/0985-225x2Vd.jpg",
+    "gif_url": "videos/0985-225x2Vd.gif"
+  },
+  {
+    "id": "0984",
+    "name": "band lying hip internal rotation",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "band",
+    "target": "glutes",
+    "image": "images/0984-vIICElP.jpg",
+    "gif_url": "videos/0984-vIICElP.gif"
+  },
+  {
+    "id": "1002",
+    "name": "band lying straight leg raise",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "band",
+    "target": "abs",
+    "image": "images/1002-bbLR7fB.jpg",
+    "gif_url": "videos/1002-bbLR7fB.gif"
+  },
+  {
+    "id": "0986",
+    "name": "band one arm overhead biceps curl",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "band",
+    "target": "biceps",
+    "image": "images/0986-UNAB8ak.jpg",
+    "gif_url": "videos/0986-UNAB8ak.gif"
+  },
+  {
+    "id": "0987",
+    "name": "band one arm single leg split squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "band",
+    "target": "quads",
+    "image": "images/0987-arsYEd3.jpg",
+    "gif_url": "videos/0987-arsYEd3.gif"
+  },
+  {
+    "id": "0988",
+    "name": "band one arm standing low row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "band",
+    "target": "upper back",
+    "image": "images/0988-km0sQC0.jpg",
+    "gif_url": "videos/0988-km0sQC0.gif"
+  },
+  {
+    "id": "0989",
+    "name": "band one arm twisting chest press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "band",
+    "target": "pectorals",
+    "image": "images/0989-c16nYGA.jpg",
+    "gif_url": "videos/0989-c16nYGA.gif"
+  },
+  {
+    "id": "0990",
+    "name": "band one arm twisting seated row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "band",
+    "target": "upper back",
+    "image": "images/0990-DKBwJrL.jpg",
+    "gif_url": "videos/0990-DKBwJrL.gif"
+  },
+  {
+    "id": "0991",
+    "name": "band pull through",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "band",
+    "target": "glutes",
+    "image": "images/0991-VtTbiP3.jpg",
+    "gif_url": "videos/0991-VtTbiP3.gif"
+  },
+  {
+    "id": "0992",
+    "name": "band push sit-up",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "band",
+    "target": "abs",
+    "image": "images/0992-zFzbBfL.jpg",
+    "gif_url": "videos/0992-zFzbBfL.gif"
+  },
+  {
+    "id": "0993",
+    "name": "band reverse fly",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "band",
+    "target": "delts",
+    "image": "images/0993-sTfvVsG.jpg",
+    "gif_url": "videos/0993-sTfvVsG.gif"
+  },
+  {
+    "id": "0994",
+    "name": "band reverse wrist curl",
+    "category": "lower arms",
+    "body_part": "lower arms",
+    "equipment": "band",
+    "target": "forearms",
+    "image": "images/0994-Ezpnw9d.jpg",
+    "gif_url": "videos/0994-Ezpnw9d.gif"
+  },
+  {
+    "id": "0996",
+    "name": "band seated hip internal rotation",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "band",
+    "target": "glutes",
+    "image": "images/0996-9gbyYKk.jpg",
+    "gif_url": "videos/0996-9gbyYKk.gif"
+  },
+  {
+    "id": "1011",
+    "name": "band seated twist",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "band",
+    "target": "abs",
+    "image": "images/1011-S1JXDAG.jpg",
+    "gif_url": "videos/1011-S1JXDAG.gif"
+  },
+  {
+    "id": "0997",
+    "name": "band shoulder press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "band",
+    "target": "delts",
+    "image": "images/0997-peAeMR3.jpg",
+    "gif_url": "videos/0997-peAeMR3.gif"
+  },
+  {
+    "id": "1018",
+    "name": "band shrug",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "band",
+    "target": "traps",
+    "image": "images/1018-trmte8s.jpg",
+    "gif_url": "videos/1018-trmte8s.gif"
+  },
+  {
+    "id": "0998",
+    "name": "band side triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "band",
+    "target": "triceps",
+    "image": "images/0998-obe5LMq.jpg",
+    "gif_url": "videos/0998-obe5LMq.gif"
+  },
+  {
+    "id": "0999",
+    "name": "band single leg calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "band",
+    "target": "calves",
+    "image": "images/0999-9JprnPh.jpg",
+    "gif_url": "videos/0999-9JprnPh.gif"
+  },
+  {
+    "id": "1000",
+    "name": "band single leg reverse calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "band",
+    "target": "calves",
+    "image": "images/1000-QsSQWbf.jpg",
+    "gif_url": "videos/1000-QsSQWbf.gif"
+  },
+  {
+    "id": "1001",
+    "name": "band single leg split squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "band",
+    "target": "quads",
+    "image": "images/1001-y8bYM8w.jpg",
+    "gif_url": "videos/1001-y8bYM8w.gif"
+  },
+  {
+    "id": "1004",
+    "name": "band squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "band",
+    "target": "glutes",
+    "image": "images/1004-TUZLh71.jpg",
+    "gif_url": "videos/1004-TUZLh71.gif"
+  },
+  {
+    "id": "1003",
+    "name": "band squat row",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "band",
+    "target": "glutes",
+    "image": "images/1003-w1NOByi.jpg",
+    "gif_url": "videos/1003-w1NOByi.gif"
+  },
+  {
+    "id": "1005",
+    "name": "band standing crunch",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "band",
+    "target": "abs",
+    "image": "images/1005-Kzg30R7.jpg",
+    "gif_url": "videos/1005-Kzg30R7.gif"
+  },
+  {
+    "id": "1022",
+    "name": "band standing rear delt row",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "band",
+    "target": "delts",
+    "image": "images/1022-tc5dYrf.jpg",
+    "gif_url": "videos/1022-tc5dYrf.gif"
+  },
+  {
+    "id": "1007",
+    "name": "band standing twisting crunch",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "band",
+    "target": "abs",
+    "image": "images/1007-euq4pwp.jpg",
+    "gif_url": "videos/1007-euq4pwp.gif"
+  },
+  {
+    "id": "1008",
+    "name": "band step-up",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "band",
+    "target": "glutes",
+    "image": "images/1008-d5bTEPV.jpg",
+    "gif_url": "videos/1008-d5bTEPV.gif"
+  },
+  {
+    "id": "1009",
+    "name": "band stiff leg deadlift",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "band",
+    "target": "glutes",
+    "image": "images/1009-kuMiR2T.jpg",
+    "gif_url": "videos/1009-kuMiR2T.gif"
+  },
+  {
+    "id": "1023",
+    "name": "band straight back stiff leg deadlift",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "band",
+    "target": "glutes",
+    "image": "images/1023-lHeUULr.jpg",
+    "gif_url": "videos/1023-lHeUULr.gif"
+  },
+  {
+    "id": "1010",
+    "name": "band straight leg deadlift",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "band",
+    "target": "spine",
+    "image": "images/1010-KUaoUV8.jpg",
+    "gif_url": "videos/1010-KUaoUV8.gif"
+  },
+  {
+    "id": "1012",
+    "name": "band twisting overhead press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "band",
+    "target": "delts",
+    "image": "images/1012-u4bAmKp.jpg",
+    "gif_url": "videos/1012-u4bAmKp.gif"
+  },
+  {
+    "id": "1369",
+    "name": "band two legs calf raise - (band under both legs) v. 2",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "band",
+    "target": "calves",
+    "image": "images/1369-jl6uxZV.jpg",
+    "gif_url": "videos/1369-jl6uxZV.gif"
+  },
+  {
+    "id": "1013",
+    "name": "band underhand pulldown",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "band",
+    "target": "lats",
+    "image": "images/1013-k6tUeqS.jpg",
+    "gif_url": "videos/1013-k6tUeqS.gif"
+  },
+  {
+    "id": "1014",
+    "name": "band v-up",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "band",
+    "target": "abs",
+    "image": "images/1014-H6ETwO9.jpg",
+    "gif_url": "videos/1014-H6ETwO9.gif"
+  },
+  {
+    "id": "1015",
+    "name": "band vertical pallof press",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "band",
+    "target": "abs",
+    "image": "images/1015-G7PXMlT.jpg",
+    "gif_url": "videos/1015-G7PXMlT.gif"
+  },
+  {
+    "id": "1016",
+    "name": "band wrist curl",
+    "category": "lower arms",
+    "body_part": "lower arms",
+    "equipment": "band",
+    "target": "forearms",
+    "image": "images/1016-vUTfFHw.jpg",
+    "gif_url": "videos/1016-vUTfFHw.gif"
+  },
+  {
+    "id": "1017",
+    "name": "band y-raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "band",
+    "target": "delts",
+    "image": "images/1017-aHDy5O5.jpg",
+    "gif_url": "videos/1017-aHDy5O5.gif"
+  }
+]

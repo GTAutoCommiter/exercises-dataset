@@ -1,0 +1,112 @@
+{
+  "id": "1323",
+  "name": "cable rope seated row",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Sit on the rowing machine with your feet flat on the footrests and knees slightly bent. Grasp the cable ropes with an overhand grip, palms facing each other. Keep your back straight and lean slightly forward, maintaining a slight bend in your elbows. Pull the cable ropes towards your body, squeezing your shoulder blades together. Pause for a moment at the peak of the movement, then slowly release the tension and return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Siediti sul vogatore con i piedi appoggiati sui piedi e le ginocchia leggermente piegate. Afferra le corde del cavo con una presa sopra la mano, palmi rivolti uno verso l'altro. Mantieni la schiena dritta e inclinati leggermente in avanti, mantenendo una leggera piega dei gomiti. Tira le corde dei cavi verso il corpo, stringendo le scapole insieme. Fermati un attimo al picco del movimento, poi rilassa lentamente la tensione e torna alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız ayaklıkların üzerinde düz ve dizleriniz hafifçe bükülmüş şekilde kürek makinesine oturun. Kablo halatlarını avuçlarınız birbirine bakacak şekilde üstten kavrayın. Sırtınızı düz tutun ve dirseklerinizi hafifçe bükerek hafifçe öne doğru eğin. Kürek kemiklerinizi birbirine sıkıştırarak kablo halatlarını vücudunuza doğru çekin. Hareketin zirvesinde bir an duraklayın, ardından yavaş yavaş gerilimi bırakın ve başlangıç ​​pozisyonuna dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Siéntate en la máquina de remo con los pies planos sobre los apoyapiés y las rodillas ligeramente flexionadas. Sujeta las cuerdas del cable con un agarre prono, con las palmas una frente a la otra. Mantén la espalda recta e inclínate ligeramente hacia adelante, manteniendo una ligera flexión en los codos. Jala las cuerdas del cable hacia el cuerpo, apretando los omóplatos entre sí. Haz una pausa por un momento en el punto más alto del movimiento, luego libera lentamente la tensión y regresa a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Сядьте на гребной тренажер, поставьте ноги на подножки и слегка согните колени. Возьмитесь за канаты верхним хватом, ладони обращены друг к другу. Держите спину прямо и слегка наклонитесь вперед, сохраняя небольшой изгиб в локтях. Потяните тросы к себе, сжимая лопатки вместе. Задержитесь на мгновение на пике движения, затем медленно ослабьте напряжение и вернитесь в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "坐在划船机上，双脚平放在脚踏板上，膝盖稍微弯曲。 正手握住缆绳，手掌相对。 保持背部挺直，稍微向前倾斜，肘部保持轻微弯曲。 将缆绳拉向身体，将肩胛骨挤压在一起。 在动作的最高点停顿片刻，然后慢慢释放张力，回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को फुटरेस्ट पर सपाट करके और घुटनों को थोड़ा मोड़कर रोइंग मशीन पर बैठें। केबल रस्सियों को ओवरहैंड ग्रिप से पकड़ें, हथेलियाँ एक-दूसरे के सामने हों। अपनी पीठ सीधी रखें और अपनी कोहनियों को हल्का सा मोड़ते हुए थोड़ा आगे की ओर झुकें। अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए, केबल रस्सियों को अपने शरीर की ओर खींचें। गति के चरम पर एक पल के लिए रुकें, फिर धीरे-धीरे तनाव छोड़ें और प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Usiądź na maszynie wioślarskiej, stopy płasko na podnóżkach, kolana lekko ugięte. Chwyć liny wyciągu nachwytem, dłonie zwrócone do siebie. Trzymaj proste plecy i pochyl się lekko do przodu, zachowując lekkie ugięcie w łokciach. Przyciągnij liny wyciągu do ciała, ściągając łopatki. Zatrzymaj się na moment w szczytowym punkcie ruchu, a następnie powoli zwolnij napięcie i wróć do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "로잉 머신에 앉아 발을 발판에 평평하게 놓고 무릎을 약간 구부립니다. 오버그립으로 케이블 로프를 잡고 손가락이 서로를 향합니다. 등을 곧게 펴고 약간 앞으로 기울이면서 팔꿈치에 약간의 구부러짐을 유지합니다. 케이블 로프를 몸통을 향해 당기면서 어깨 뼈를 모아 짜줍니다. 동작의 최고점에서 잠시 멈춘 후 천천히 긴장을 풀고 시작 위치로 돌아옵니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Assieds-toi sur le rameur, les pieds à plat sur les repose-pieds et les genoux légèrement fléchis. Saisis les cordes du câble avec une prise en pronation, les paumes tournées l'une vers l'autre. Garde le dos droit et penche-toi légèrement vers l'avant, en gardant une légère flexion dans tes coudes. Tire les cordes du câble vers ton corps, en contractant tes omoplates. Marque une pause au sommet du mouvement, puis relâche lentement la tension et reviens à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on the rowing machine with your feet flat on the footrests and knees slightly bent.",
+      "Grasp the cable ropes with an overhand grip, palms facing each other.",
+      "Keep your back straight and lean slightly forward, maintaining a slight bend in your elbows.",
+      "Pull the cable ropes towards your body, squeezing your shoulder blades together.",
+      "Pause for a moment at the peak of the movement, then slowly release the tension and return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Siediti sul vogatore con i piedi appoggiati sui piedi e le ginocchia leggermente piegate.",
+      "Afferra le corde del cavo con una presa sopra la mano, palmi rivolti uno verso l'altro.",
+      "Mantieni la schiena dritta e inclinati leggermente in avanti, mantenendo una leggera piega dei gomiti.",
+      "Tira le corde dei cavi verso il corpo, stringendo le scapole insieme.",
+      "Fermati un attimo al picco del movimento, poi rilassa lentamente la tensione e torna alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız ayaklıkların üzerinde düz ve dizleriniz hafifçe bükülmüş şekilde kürek makinesine oturun.",
+      "Kablo halatlarını avuçlarınız birbirine bakacak şekilde üstten kavrayın.",
+      "Sırtınızı düz tutun ve dirseklerinizi hafifçe bükerek hafifçe öne doğru eğin.",
+      "Kürek kemiklerinizi birbirine sıkıştırarak kablo halatlarını vücudunuza doğru çekin.",
+      "Hareketin zirvesinde bir an duraklayın, ardından yavaş yavaş gerilimi bırakın ve başlangıç ​​pozisyonuna dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Siéntate en la máquina de remo con los pies planos sobre los apoyapiés y las rodillas ligeramente flexionadas.",
+      "Sujeta las cuerdas del cable con un agarre prono, con las palmas una frente a la otra.",
+      "Mantén la espalda recta e inclínate ligeramente hacia adelante, manteniendo una ligera flexión en los codos.",
+      "Jala las cuerdas del cable hacia el cuerpo, apretando los omóplatos entre sí.",
+      "Haz una pausa por un momento en el punto más alto del movimiento, luego libera lentamente la tensión y regresa a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на гребной тренажер, поставьте ноги на подножки и слегка согните колени.",
+      "Возьмитесь за канаты верхним хватом, ладони обращены друг к другу.",
+      "Держите спину прямо и слегка наклонитесь вперед, сохраняя небольшой изгиб в локтях.",
+      "Потяните тросы к себе, сжимая лопатки вместе.",
+      "Задержитесь на мгновение на пике движения, затем медленно ослабьте напряжение и вернитесь в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "坐在划船机上，双脚平放在脚踏板上，膝盖稍微弯曲。",
+      "正手握住缆绳，手掌相对。",
+      "保持背部挺直，稍微向前倾斜，肘部保持轻微弯曲。",
+      "将缆绳拉向身体，将肩胛骨挤压在一起。",
+      "在动作的最高点停顿片刻，然后慢慢释放张力，回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को फुटरेस्ट पर सपाट करके और घुटनों को थोड़ा मोड़कर रोइंग मशीन पर बैठें।",
+      "केबल रस्सियों को ओवरहैंड ग्रिप से पकड़ें, हथेलियाँ एक-दूसरे के सामने हों।",
+      "अपनी पीठ सीधी रखें और अपनी कोहनियों को हल्का सा मोड़ते हुए थोड़ा आगे की ओर झुकें।",
+      "अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए, केबल रस्सियों को अपने शरीर की ओर खींचें।",
+      "गति के चरम पर एक पल के लिए रुकें, फिर धीरे-धीरे तनाव छोड़ें और प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Usiądź na maszynie wioślarskiej, stopy płasko na podnóżkach, kolana lekko ugięte.",
+      "Chwyć liny wyciągu nachwytem, dłonie zwrócone do siebie.",
+      "Trzymaj proste plecy i pochyl się lekko do przodu, zachowując lekkie ugięcie w łokciach.",
+      "Przyciągnij liny wyciągu do ciała, ściągając łopatki.",
+      "Zatrzymaj się na moment w szczytowym punkcie ruchu, a następnie powoli zwolnij napięcie i wróć do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "로잉 머신에 앉아 발을 발판에 평평하게 놓고 무릎을 약간 구부립니다.",
+      "오버그립으로 케이블 로프를 잡고 손가락이 서로를 향합니다.",
+      "등을 곧게 펴고 약간 앞으로 기울이면서 팔꿈치에 약간의 구부러짐을 유지합니다.",
+      "케이블 로프를 몸통을 향해 당기면서 어깨 뼈를 모아 짜줍니다.",
+      "동작의 최고점에서 잠시 멈춘 후 천천히 긴장을 풀고 시작 위치로 돌아옵니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Assieds-toi sur le rameur, les pieds à plat sur les repose-pieds et les genoux légèrement fléchis.",
+      "Saisis les cordes du câble avec une prise en pronation, les paumes tournées l'une vers l'autre.",
+      "Garde le dos droit et penche-toi légèrement vers l'avant, en gardant une légère flexion dans tes coudes.",
+      "Tire les cordes du câble vers ton corps, en contractant tes omoplates.",
+      "Marque une pause au sommet du mouvement, puis relâche lentement la tension et reviens à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "forearms"
+  ],
+  "target": "upper back",
+  "image": "images/1323-SJqRxOt.jpg",
+  "gif_url": "videos/1323-SJqRxOt.gif",
+  "media_id": "SJqRxOt",
+  "created_at": "2026-03-18T12:31:32.87582+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

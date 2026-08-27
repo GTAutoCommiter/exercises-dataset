@@ -1,0 +1,124 @@
+{
+  "id": "2311",
+  "name": "walking on stepmill",
+  "category": "cardio",
+  "body_part": "cardio",
+  "equipment": "stepmill machine",
+  "instructions": {
+    "en": "Adjust the stepmill machine to a comfortable level. Step onto the machine and place your hands on the handrails for support. Start walking by placing one foot on a step and then the other, alternating between legs. Maintain an upright posture and engage your core muscles. Continue walking for the desired duration or distance. Gradually increase the intensity or speed as you become more comfortable with the exercise. Remember to cool down and stretch after completing the exercise.",
+    "it": "Regolare la macchina stepmill ad un livello confortevole. Salire sulla macchina e appoggiare le mani sui corrimano per sostenersi. Inizia a camminare posizionando un piede su un gradino e poi l'altro, alternando le gambe. Mantieni una postura eretta e coinvolgi i muscoli centrali. Continua a camminare per la durata o la distanza desiderata. Aumenta gradualmente l'intensità o la velocità man mano che ti senti più a tuo agio con l'esercizio. Ricordarsi di rinfrescarsi e fare stretching dopo aver completato l'esercizio.",
+    "tr": "Stepmill makinesini rahat bir seviyeye ayarlayın. Makinenin üzerine çıkın ve destek için ellerinizi korkulukların üzerine koyun. Bir ayağınızı bir basamağa, sonra diğer ayağınızı koyarak, bacaklar arasında geçiş yaparak yürümeye başlayın. Dik bir duruş sergileyin ve çekirdek kaslarınızı çalıştırın. İstediğiniz süre veya mesafe boyunca yürümeye devam edin. Egzersizde daha rahat hale geldikçe yoğunluğu veya hızı yavaş yavaş artırın. Egzersizi tamamladıktan sonra soğumayı ve esnemeyi unutmayın.",
+    "es": "Ajusta la máquina de escalones a un nivel cómodo. Sube a la máquina y coloca las manos sobre los pasamanos para apoyarte. Comienza a caminar colocando un pie en un escalón y luego el otro, alternando entre las piernas. Mantén una postura erguida y activa los músculos del core. Continúa caminando durante la duración o distancia deseada. Aumenta gradualmente la intensidad o la velocidad a medida que te sientas más cómodo con el ejercicio. Recuerda enfriar y estirar después de completar el ejercicio.",
+    "ru": "Отрегулируйте шаговую дорожку до комфортного уровня. Встаньте на тренажер и положите руки на поручни для поддержки. Начните ходьбу, поставив одну ногу на ступеньку, а затем другую, чередуя ноги. Сохраняйте вертикальное положение и задействуйте мышцы корпуса. Продолжайте идти желаемое время или расстояние. Постепенно увеличивайте интенсивность или скорость по мере того, как вы будете чувствовать себя более комфортно в выполнении упражнения. Не забудьте остыть и растянуться после завершения упражнения.",
+    "zh": "将步进机调整到舒适的水平。 走上机器，将双手放在扶手上以获得支撑。 开始行走时，将一只脚放在台阶上，然后将另一只脚放在台阶上，双腿交替。 保持直立姿势并锻炼核心肌肉。 继续步行所需的时间或距离。 当您对锻炼感到更加舒适时，逐渐增加强度或速度。 完成练习后记得冷静下来并伸展身体。",
+    "hi": "स्टेपमिल मशीन को आरामदायक स्तर पर समायोजित करें। मशीन पर कदम रखें और सहारे के लिए अपने हाथों को रेलिंग पर रखें। एक पैर को एक सीढ़ी पर और फिर दूसरे को, पैरों के बीच बारी-बारी से रखकर चलना शुरू करें। सीधी मुद्रा बनाए रखें और अपनी मुख्य मांसपेशियों को शामिल करें। वांछित अवधि या दूरी तक चलते रहें। जैसे-जैसे आप व्यायाम के साथ अधिक सहज होते जाएं, धीरे-धीरे तीव्रता या गति बढ़ाएं। व्यायाम पूरा करने के बाद ठंडा होना और स्ट्रेच करना याद रखें।",
+    "pl": "Wyreguluj maszynę stepmill na komfortowy poziom. Wejdź na maszynę i oprzyj dłonie na poręczach dla wsparcia. Zacznij chodzić, stawiając jedną stopę na stopniu, a następnie drugą, naprzemiennie zmieniając nogi. Utrzymuj wyprostowaną postawę i napinaj mięśnie brzucha. Kontynuuj chodzenie przez żądany czas lub dystans. Stopniowo zwiększaj intensywność lub prędkość, gdy poczujesz się bardziej komfortowo z ćwiczeniem. Pamiętaj o schłodzeniu i rozciągnięciu po zakończeniu ćwiczenia.",
+    "ko": "스텝밀 머신을 편안한 수준으로 조정합니다. 머신 위에 올라가 손잡이를 잡아 몸을 지지합니다. 한 발을 계단에 올려놓고 다른 발을 번갈아 올려놓아 걷기를 시작합니다. 곧은 자세를 유지하고 코어 근육에 힘을 주어 안정성을 확보합니다. 원하는 시간이나 거리 동안 계속 걷습니다. 운동이 편해지면 강도나 속도를 점차 높입니다. 운동을 마친 후 정리 운동과 스트레칭을 잊지 않습니다.",
+    "fr": "Règle le stepmill à un niveau confortable. Monte sur la machine et pose les mains sur les rampes pour te soutenir. Commence à marcher en posant un pied sur une marche puis l'autre, en alternant les jambes. Maintiens une posture bien droite et gaine tes muscles abdominaux. Continue à marcher pendant la durée ou la distance souhaitée. Augmente progressivement l'intensité ou la vitesse à mesure que tu te sens plus à l'aise avec l'exercice. Pense à récupérer et à t'étirer après avoir terminé l'exercice."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the stepmill machine to a comfortable level.",
+      "Step onto the machine and place your hands on the handrails for support.",
+      "Start walking by placing one foot on a step and then the other, alternating between legs.",
+      "Maintain an upright posture and engage your core muscles.",
+      "Continue walking for the desired duration or distance.",
+      "Gradually increase the intensity or speed as you become more comfortable with the exercise.",
+      "Remember to cool down and stretch after completing the exercise."
+    ],
+    "it": [
+      "Regolare la macchina stepmill ad un livello confortevole.",
+      "Salire sulla macchina e appoggiare le mani sui corrimano per sostenersi.",
+      "Inizia a camminare posizionando un piede su un gradino e poi l'altro, alternando le gambe.",
+      "Mantieni una postura eretta e coinvolgi i muscoli centrali.",
+      "Continua a camminare per la durata o la distanza desiderata.",
+      "Aumenta gradualmente l'intensità o la velocità man mano che ti senti più a tuo agio con l'esercizio.",
+      "Ricordarsi di rinfrescarsi e fare stretching dopo aver completato l'esercizio."
+    ],
+    "tr": [
+      "Stepmill makinesini rahat bir seviyeye ayarlayın.",
+      "Makinenin üzerine çıkın ve destek için ellerinizi korkulukların üzerine koyun.",
+      "Bir ayağınızı bir basamağa, sonra diğer ayağınızı koyarak, bacaklar arasında geçiş yaparak yürümeye başlayın.",
+      "Dik bir duruş sergileyin ve çekirdek kaslarınızı çalıştırın.",
+      "İstediğiniz süre veya mesafe boyunca yürümeye devam edin.",
+      "Egzersizde daha rahat hale geldikçe yoğunluğu veya hızı yavaş yavaş artırın.",
+      "Egzersizi tamamladıktan sonra soğumayı ve esnemeyi unutmayın."
+    ],
+    "es": [
+      "Ajusta la máquina de escalones a un nivel cómodo.",
+      "Sube a la máquina y coloca las manos sobre los pasamanos para apoyarte.",
+      "Comienza a caminar colocando un pie en un escalón y luego el otro, alternando entre las piernas.",
+      "Mantén una postura erguida y activa los músculos del core.",
+      "Continúa caminando durante la duración o distancia deseada.",
+      "Aumenta gradualmente la intensidad o la velocidad a medida que te sientas más cómodo con el ejercicio.",
+      "Recuerda enfriar y estirar después de completar el ejercicio."
+    ],
+    "ru": [
+      "Отрегулируйте шаговую дорожку до комфортного уровня.",
+      "Встаньте на тренажер и положите руки на поручни для поддержки.",
+      "Начните ходьбу, поставив одну ногу на ступеньку, а затем другую, чередуя ноги.",
+      "Сохраняйте вертикальное положение и задействуйте мышцы корпуса.",
+      "Продолжайте идти желаемое время или расстояние.",
+      "Постепенно увеличивайте интенсивность или скорость по мере того, как вы будете чувствовать себя более комфортно в выполнении упражнения.",
+      "Не забудьте остыть и растянуться после завершения упражнения."
+    ],
+    "zh": [
+      "将步进机调整到舒适的水平。",
+      "走上机器，将双手放在扶手上以获得支撑。",
+      "开始行走时，将一只脚放在台阶上，然后将另一只脚放在台阶上，双腿交替。",
+      "保持直立姿势并锻炼核心肌肉。",
+      "继续步行所需的时间或距离。",
+      "当您对锻炼感到更加舒适时，逐渐增加强度或速度。",
+      "完成练习后记得冷静下来并伸展身体。"
+    ],
+    "hi": [
+      "स्टेपमिल मशीन को आरामदायक स्तर पर समायोजित करें।",
+      "मशीन पर कदम रखें और सहारे के लिए अपने हाथों को रेलिंग पर रखें।",
+      "एक पैर को एक सीढ़ी पर और फिर दूसरे को, पैरों के बीच बारी-बारी से रखकर चलना शुरू करें।",
+      "सीधी मुद्रा बनाए रखें और अपनी मुख्य मांसपेशियों को शामिल करें।",
+      "वांछित अवधि या दूरी तक चलते रहें।",
+      "जैसे-जैसे आप व्यायाम के साथ अधिक सहज होते जाएं, धीरे-धीरे तीव्रता या गति बढ़ाएं।",
+      "व्यायाम पूरा करने के बाद ठंडा होना और स्ट्रेच करना याद रखें।"
+    ],
+    "pl": [
+      "Wyreguluj maszynę stepmill na komfortowy poziom.",
+      "Wejdź na maszynę i oprzyj dłonie na poręczach dla wsparcia.",
+      "Zacznij chodzić, stawiając jedną stopę na stopniu, a następnie drugą, naprzemiennie zmieniając nogi.",
+      "Utrzymuj wyprostowaną postawę i napinaj mięśnie brzucha.",
+      "Kontynuuj chodzenie przez żądany czas lub dystans.",
+      "Stopniowo zwiększaj intensywność lub prędkość, gdy poczujesz się bardziej komfortowo z ćwiczeniem.",
+      "Pamiętaj o schłodzeniu i rozciągnięciu po zakończeniu ćwiczenia."
+    ],
+    "ko": [
+      "스텝밀 머신을 편안한 수준으로 조정합니다.",
+      "머신 위에 올라가 손잡이를 잡아 몸을 지지합니다.",
+      "한 발을 계단에 올려놓고 다른 발을 번갈아 올려놓아 걷기를 시작합니다.",
+      "곧은 자세를 유지하고 코어 근육에 힘을 주어 안정성을 확보합니다.",
+      "원하는 시간이나 거리 동안 계속 걷습니다.",
+      "운동이 편해지면 강도나 속도를 점차 높입니다.",
+      "운동을 마친 후 정리 운동과 스트레칭을 잊지 않습니다."
+    ],
+    "fr": [
+      "Règle le stepmill à un niveau confortable.",
+      "Monte sur la machine et pose les mains sur les rampes pour te soutenir.",
+      "Commence à marcher en posant un pied sur une marche puis l'autre, en alternant les jambes.",
+      "Maintiens une posture bien droite et gaine tes muscles abdominaux.",
+      "Continue à marcher pendant la durée ou la distance souhaitée.",
+      "Augmente progressivement l'intensité ou la vitesse à mesure que tu te sens plus à l'aise avec l'exercice.",
+      "Pense à récupérer et à t'étirer après avoir terminé l'exercice."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "glutes",
+    "calves"
+  ],
+  "target": "cardiovascular system",
+  "image": "images/2311-j9Q5crt.jpg",
+  "gif_url": "videos/2311-j9Q5crt.gif",
+  "media_id": "j9Q5crt",
+  "created_at": "2026-03-18T12:31:32.905703+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

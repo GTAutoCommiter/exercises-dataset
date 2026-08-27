@@ -1,0 +1,111 @@
+{
+  "id": "2399",
+  "name": "cable seated twist",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Sit on a cable machine with your feet flat on the ground and your knees slightly bent. Hold the cable handle with both hands and extend your arms straight in front of you. Keeping your core engaged, slowly rotate your torso to one side, pulling the cable across your body. Pause for a moment at the end of the range of motion, then slowly rotate back to the starting position. Repeat on the other side. Continue alternating sides for the desired number of repetitions.",
+    "it": "Siediti su una macchina a cavo con i piedi piatti a terra e le ginocchia leggermente piegate. Tieni la maniglia del cavo con entrambe le mani e estendi le braccia dritte davanti a te. Mantenendo il core attivo, ruota lentamente il busto di lato, tirando il cavo attraverso il corpo. Fermati un attimo alla fine del movimento, poi ruota lentamente tornando alla posizione iniziale. Ripeti dall'altra parte. Continua ad alternare i lati per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız yere düz basacak ve dizleriniz hafifçe bükülmüş olacak şekilde bir kablo makinesinin üzerine oturun. Kablo tutamağını iki elinizle tutun ve kollarınızı düz bir şekilde önünüze uzatın. Merkez bölgenizi meşgul tutarak, kabloyu vücudunuz boyunca çekerek gövdenizi yavaşça bir tarafa döndürün. Hareket aralığının sonunda bir an duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün. Diğer tarafta tekrarlayın. İstenilen tekrar sayısı için alternatif taraflara devam edin.",
+    "es": "Siéntate en una máquina de cable con los pies apoyados planos en el suelo y las rodillas ligeramente flexionadas. Sujeta la agarradera del cable con ambas manos y extiende los brazos rectos frente a ti. Manteniendo el core activado, rota lentamente el torso hacia un lado, jalando el cable a través del cuerpo. Haz una pausa por un momento al final del rango de movimiento y luego rota lentamente de vuelta a la posición inicial. Repite del otro lado. Continúa alternando lados durante el número de repeticiones deseado.",
+    "ru": "Сядьте на канатный тренажер, поставьте ступни на землю и слегка согните колени. Возьмите рукоятку троса обеими руками и вытяните руки прямо перед собой. Удерживая корпус в напряжении, медленно поверните туловище в сторону, протягивая трос через тело. Сделайте паузу на мгновение в конце диапазона движения, затем медленно поверните обратно в исходное положение. Повторите с другой стороны. Продолжайте чередовать стороны желаемое количество повторений.",
+    "zh": "坐在缆绳机上，双脚平放在地面上，膝盖稍微弯曲。 双手握住电缆手柄，并将双臂伸直至身前。 保持核心参与，慢慢地将躯干旋转到一侧，将电缆拉过身体。 在动作范围结束时暂停片刻，然后慢慢旋转回到起始位置。 在另一侧重复。 继续交替进行所需的重复次数。",
+    "hi": "अपने पैरों को ज़मीन पर सपाट करके और अपने घुटनों को थोड़ा मोड़कर एक केबल मशीन पर बैठें। केबल के हैंडल को दोनों हाथों से पकड़ें और अपनी बाहों को अपने सामने सीधा फैलाएं। अपने कोर को व्यस्त रखते हुए, धीरे-धीरे अपने धड़ को एक तरफ घुमाएं, केबल को अपने शरीर पर खींचें। गति की सीमा के अंत में एक पल के लिए रुकें, फिर धीरे-धीरे प्रारंभिक स्थिति में वापस आएँ। दूसरी तरफ दोहराएं। दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।",
+    "pl": "Usiądź przy wyciągu, stopy płasko na podłodze, kolana lekko ugięte. Trzymaj uchwyt wyciągu obiema rękami i wyprostuj ramiona prosto przed sobą. Utrzymując napięty tułów, powoli obróć tułów w jedną stronę, przyciągając linę w poprzek ciała. Zatrzymaj się na moment na końcu zakresu ruchu, a następnie powoli obróć się z powrotem do pozycji wyjściowej. Powtórz po drugiej stronie. Kontynuuj naprzemienne powtórzenia po obu stronach przez zalecaną liczbę powtórzeń.",
+    "ko": "케이블 머신에 앉아 발을 바닥에 평평하게 놓고 무릎을 약간 구부립니다. 케이블 핸들을 양손으로 잡고 팔을 앞으로 쭉 펴 놓습니다. 복부에 힘을 주고 천천히 몸통을 한쪽으로 회전하여 케이블을 몸 위로 당깁니다. 운동 범위의 끝지점에서 잠시 멈춘 후 천천히 처음 위치로 회전합니다. 다른 쪽으로 반복합니다. 원하는 반복 횟수만큼 양쪽을 번갈아가며 반복합니다.",
+    "fr": "Assieds-toi sur une machine à câble, les pieds à plat sur le sol et les genoux légèrement fléchis. Tiens la poignée de câble des deux mains et étends tes bras droit devant toi. En gardant ta sangle abdominale gainée, fais lentement pivoter ton torse sur un côté, en tirant le câble à travers ton corps. Marque une pause à la fin de l'amplitude de mouvement, puis tourne lentement pour revenir à la position de départ. Répète de l'autre côté. Continue à alterner les côtés pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on a cable machine with your feet flat on the ground and your knees slightly bent.",
+      "Hold the cable handle with both hands and extend your arms straight in front of you.",
+      "Keeping your core engaged, slowly rotate your torso to one side, pulling the cable across your body.",
+      "Pause for a moment at the end of the range of motion, then slowly rotate back to the starting position.",
+      "Repeat on the other side.",
+      "Continue alternating sides for the desired number of repetitions."
+    ],
+    "it": [
+      "Siediti su una macchina a cavo con i piedi piatti a terra e le ginocchia leggermente piegate.",
+      "Tieni la maniglia del cavo con entrambe le mani e estendi le braccia dritte davanti a te.",
+      "Mantenendo il core attivo, ruota lentamente il busto di lato, tirando il cavo attraverso il corpo.",
+      "Fermati un attimo alla fine del movimento, poi ruota lentamente tornando alla posizione iniziale.",
+      "Ripeti dall'altra parte.",
+      "Continua ad alternare i lati per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız yere düz basacak ve dizleriniz hafifçe bükülmüş olacak şekilde bir kablo makinesinin üzerine oturun.",
+      "Kablo tutamağını iki elinizle tutun ve kollarınızı düz bir şekilde önünüze uzatın.",
+      "Merkez bölgenizi meşgul tutarak, kabloyu vücudunuz boyunca çekerek gövdenizi yavaşça bir tarafa döndürün.",
+      "Hareket aralığının sonunda bir an duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün.",
+      "Diğer tarafta tekrarlayın.",
+      "İstenilen tekrar sayısı için alternatif taraflara devam edin."
+    ],
+    "es": [
+      "Siéntate en una máquina de cable con los pies apoyados planos en el suelo y las rodillas ligeramente flexionadas.",
+      "Sujeta la agarradera del cable con ambas manos y extiende los brazos rectos frente a ti.",
+      "Manteniendo el core activado, rota lentamente el torso hacia un lado, jalando el cable a través del cuerpo.",
+      "Haz una pausa por un momento al final del rango de movimiento y luego rota lentamente de vuelta a la posición inicial.",
+      "Repite del otro lado.",
+      "Continúa alternando lados durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на канатный тренажер, поставьте ступни на землю и слегка согните колени.",
+      "Возьмите рукоятку троса обеими руками и вытяните руки прямо перед собой.",
+      "Удерживая корпус в напряжении, медленно поверните туловище в сторону, протягивая трос через тело.",
+      "Сделайте паузу на мгновение в конце диапазона движения, затем медленно поверните обратно в исходное положение.",
+      "Повторите с другой стороны.",
+      "Продолжайте чередовать стороны желаемое количество повторений."
+    ],
+    "zh": [
+      "坐在缆绳机上，双脚平放在地面上，膝盖稍微弯曲。",
+      "双手握住电缆手柄，并将双臂伸直至身前。",
+      "保持核心参与，慢慢地将躯干旋转到一侧，将电缆拉过身体。",
+      "在动作范围结束时暂停片刻，然后慢慢旋转回到起始位置。",
+      "在另一侧重复。",
+      "继续交替进行所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को ज़मीन पर सपाट करके और अपने घुटनों को थोड़ा मोड़कर एक केबल मशीन पर बैठें।",
+      "केबल के हैंडल को दोनों हाथों से पकड़ें और अपनी बाहों को अपने सामने सीधा फैलाएं।",
+      "अपने कोर को व्यस्त रखते हुए, धीरे-धीरे अपने धड़ को एक तरफ घुमाएं, केबल को अपने शरीर पर खींचें।",
+      "गति की सीमा के अंत में एक पल के लिए रुकें, फिर धीरे-धीरे प्रारंभिक स्थिति में वापस आएँ।",
+      "दूसरी तरफ दोहराएं।",
+      "दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।"
+    ],
+    "pl": [
+      "Usiądź przy wyciągu, stopy płasko na podłodze, kolana lekko ugięte.",
+      "Trzymaj uchwyt wyciągu obiema rękami i wyprostuj ramiona prosto przed sobą.",
+      "Utrzymując napięty tułów, powoli obróć tułów w jedną stronę, przyciągając linę w poprzek ciała.",
+      "Zatrzymaj się na moment na końcu zakresu ruchu, a następnie powoli obróć się z powrotem do pozycji wyjściowej.",
+      "Powtórz po drugiej stronie.",
+      "Kontynuuj naprzemienne powtórzenia po obu stronach przez zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "케이블 머신에 앉아 발을 바닥에 평평하게 놓고 무릎을 약간 구부립니다.",
+      "케이블 핸들을 양손으로 잡고 팔을 앞으로 쭉 펴 놓습니다.",
+      "복부에 힘을 주고 천천히 몸통을 한쪽으로 회전하여 케이블을 몸 위로 당깁니다.",
+      "운동 범위의 끝지점에서 잠시 멈춘 후 천천히 처음 위치로 회전합니다.",
+      "다른 쪽으로 반복합니다.",
+      "원하는 반복 횟수만큼 양쪽을 번갈아가며 반복합니다."
+    ],
+    "fr": [
+      "Assieds-toi sur une machine à câble, les pieds à plat sur le sol et les genoux légèrement fléchis.",
+      "Tiens la poignée de câble des deux mains et étends tes bras droit devant toi.",
+      "En gardant ta sangle abdominale gainée, fais lentement pivoter ton torse sur un côté, en tirant le câble à travers ton corps.",
+      "Marque une pause à la fin de l'amplitude de mouvement, puis tourne lentement pour revenir à la position de départ.",
+      "Répète de l'autre côté.",
+      "Continue à alterner les côtés pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "obliques",
+  "secondary_muscles": [
+    "obliques"
+  ],
+  "target": "abs",
+  "image": "images/2399-UEjSrKI.jpg",
+  "gif_url": "videos/2399-UEjSrKI.gif",
+  "media_id": "UEjSrKI",
+  "created_at": "2026-03-18T12:31:32.876032+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

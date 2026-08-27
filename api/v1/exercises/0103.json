@@ -1,0 +1,102 @@
+{
+  "id": "0103",
+  "name": "barbell standing ab rollerout",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Stand upright with your feet shoulder-width apart and hold the barbell with both hands in front of your thighs. Engage your core and slowly roll the barbell down towards the ground, keeping your back straight and your arms extended. Continue rolling the barbell forward until your body is fully extended and your hands are directly above your head. Pause for a moment, then slowly roll the barbell back towards your thighs, maintaining control and keeping your core engaged. Repeat for the desired number of repetitions.",
+    "it": "Stai in piedi dritto con i piedi larghi le spalle e tieni il bilanciere con entrambe le mani davanti alle cosce. Attiva il core e fai rotolare lentamente la barra verso terra, mantenendo la schiena dritta e le braccia estese. Continua a far rotolare il bilanciere in avanti finché il corpo non è completamente esteso e le mani sono direttamente sopra la testa. Fermati un attimo, poi fai ruotare lentamente il bilanciere verso le cosce, mantenendo il controllo e il core attivo. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde dik durun ve halteri iki elinizle uyluklarınızın önünde tutun. Merkez bölgenizi devreye sokun ve halterinizi yavaşça yere doğru yuvarlayın; sırtınızı düz ve kollarınızı uzatın. Vücudunuz tamamen uzayıncaya ve elleriniz doğrudan başınızın üstüne gelinceye kadar halteri ileri doğru yuvarlamaya devam edin. Bir an duraklayın, ardından halteri yavaşça kalçalarınıza doğru yuvarlayın, kontrolü koruyun ve merkez bölgenizi meşgul tutun. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y sujeta la barra con ambas manos frente a los muslos. Activa el core y enrolla lentamente la barra hacia el suelo, manteniendo la espalda recta y los brazos extendidos. Continúa enrollando la barra hacia adelante hasta que el cuerpo esté completamente extendido y las manos queden justo sobre la cabeza. Haz una pausa breve, luego enrolla lentamente la barra de vuelta hacia los muslos, manteniendo el control y el core activado. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте прямо, ноги на ширине плеч и держите штангу обеими руками перед бедрами. Напрягите корпус и медленно катите штангу вниз к земле, держа спину прямо и руки вытянутыми. Продолжайте катить штангу вперед до тех пор, пока ваше тело не будет полностью выпрямлено, а руки не окажутся прямо над головой. Сделайте паузу на мгновение, затем медленно перекатите штангу обратно к бедрам, сохраняя контроль и напрягая корпус. Повторите необходимое количество повторений.",
+    "zh": "站直，双脚分开与肩同宽，双手握住杠铃于大腿前方。 启动你的核心肌群，慢慢地将杠铃向地面滚动，保持背部挺直，手臂伸展。 继续向前滚动杠铃，直到身体完全伸展，双手位于头顶正上方。 暂停片刻，然后慢慢地将杠铃向大腿方向滚动，保持控制并保持核心参与。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर सीधे खड़े हो जाएं और दोनों हाथों से बारबेल को अपनी जांघों के सामने पकड़ लें। अपने कोर को संलग्न करें और धीरे-धीरे बारबेल को जमीन की ओर घुमाएं, अपनी पीठ को सीधा रखें और अपनी बाहों को फैलाएं। जब तक आपका शरीर पूरी तरह से विस्तारित न हो जाए और आपके हाथ सीधे आपके सिर के ऊपर न आ जाएं, तब तक बारबेल को आगे की ओर घुमाते रहें। एक पल के लिए रुकें, फिर धीरे-धीरे बारबेल को वापस अपनी जांघों की ओर घुमाएं, नियंत्रण बनाए रखें और अपने कोर को व्यस्त रखें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań w pozycji wyprostowanej, ze stopami na szerokość barków, trzymając sztangę obiema rękami przed udami. Napnij mięśnie brzucha i powoli tocz sztangę w kierunku podłogi, trzymając plecy proste, a ramiona wyprostowane. Kontynuuj toczenie sztangi do przodu, aż ciało będzie w pełni wyprostowane, a dłonie znajdą się bezpośrednio nad głową. Zatrzymaj się na chwilę, a następnie powoli tocz sztangę z powrotem w kierunku ud, zachowując kontrolę i napięte mięśnie brzucha. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "발을 어깨 너비로 벌리고 서서 바벨을 양손으로 다리 앞에 들고 있습니다. 핵심부를 단단히 조이고 천천히 바벨을 지면 쪽으로 굴립니다. 등을 펴서 유지하고 팔을 쭉 펼칩니다. 몸이 완전히 펼쳐지고 손이 머리 바로 위에 올 때까지 바벨을 계속 굴립니다. 잠시 멈춘 후 핵심부를 계속 조이면서 천천히 바벨을 다리 쪽으로 굴려 시작 위치로 돌아옵니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout bien droit, les pieds écartés à la largeur des épaules, et tiens la barre à deux mains devant tes cuisses. Gaine ta sangle abdominale et fais rouler lentement la barre vers le sol, en gardant le dos droit et les bras tendus. Continue à faire rouler la barre vers l'avant jusqu'à ce que ton corps soit complètement étendu et que tes mains soient directement au-dessus de ta tête. Marque une pause, puis fais rouler lentement la barre vers tes cuisses, en gardant le contrôle et en gainant ta sangle abdominale. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand upright with your feet shoulder-width apart and hold the barbell with both hands in front of your thighs.",
+      "Engage your core and slowly roll the barbell down towards the ground, keeping your back straight and your arms extended.",
+      "Continue rolling the barbell forward until your body is fully extended and your hands are directly above your head.",
+      "Pause for a moment, then slowly roll the barbell back towards your thighs, maintaining control and keeping your core engaged.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai in piedi dritto con i piedi larghi le spalle e tieni il bilanciere con entrambe le mani davanti alle cosce.",
+      "Attiva il core e fai rotolare lentamente la barra verso terra, mantenendo la schiena dritta e le braccia estese.",
+      "Continua a far rotolare il bilanciere in avanti finché il corpo non è completamente esteso e le mani sono direttamente sopra la testa.",
+      "Fermati un attimo, poi fai ruotare lentamente il bilanciere verso le cosce, mantenendo il controllo e il core attivo.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde dik durun ve halteri iki elinizle uyluklarınızın önünde tutun.",
+      "Merkez bölgenizi devreye sokun ve halterinizi yavaşça yere doğru yuvarlayın; sırtınızı düz ve kollarınızı uzatın.",
+      "Vücudunuz tamamen uzayıncaya ve elleriniz doğrudan başınızın üstüne gelinceye kadar halteri ileri doğru yuvarlamaya devam edin.",
+      "Bir an duraklayın, ardından halteri yavaşça kalçalarınıza doğru yuvarlayın, kontrolü koruyun ve merkez bölgenizi meşgul tutun.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y sujeta la barra con ambas manos frente a los muslos.",
+      "Activa el core y enrolla lentamente la barra hacia el suelo, manteniendo la espalda recta y los brazos extendidos.",
+      "Continúa enrollando la barra hacia adelante hasta que el cuerpo esté completamente extendido y las manos queden justo sobre la cabeza.",
+      "Haz una pausa breve, luego enrolla lentamente la barra de vuelta hacia los muslos, manteniendo el control y el core activado.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте прямо, ноги на ширине плеч и держите штангу обеими руками перед бедрами.",
+      "Напрягите корпус и медленно катите штангу вниз к земле, держа спину прямо и руки вытянутыми.",
+      "Продолжайте катить штангу вперед до тех пор, пока ваше тело не будет полностью выпрямлено, а руки не окажутся прямо над головой.",
+      "Сделайте паузу на мгновение, затем медленно перекатите штангу обратно к бедрам, сохраняя контроль и напрягая корпус.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "站直，双脚分开与肩同宽，双手握住杠铃于大腿前方。",
+      "启动你的核心肌群，慢慢地将杠铃向地面滚动，保持背部挺直，手臂伸展。",
+      "继续向前滚动杠铃，直到身体完全伸展，双手位于头顶正上方。",
+      "暂停片刻，然后慢慢地将杠铃向大腿方向滚动，保持控制并保持核心参与。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर सीधे खड़े हो जाएं और दोनों हाथों से बारबेल को अपनी जांघों के सामने पकड़ लें।",
+      "अपने कोर को संलग्न करें और धीरे-धीरे बारबेल को जमीन की ओर घुमाएं, अपनी पीठ को सीधा रखें और अपनी बाहों को फैलाएं।",
+      "जब तक आपका शरीर पूरी तरह से विस्तारित न हो जाए और आपके हाथ सीधे आपके सिर के ऊपर न आ जाएं, तब तक बारबेल को आगे की ओर घुमाते रहें।",
+      "एक पल के लिए रुकें, फिर धीरे-धीरे बारबेल को वापस अपनी जांघों की ओर घुमाएं, नियंत्रण बनाए रखें और अपने कोर को व्यस्त रखें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w pozycji wyprostowanej, ze stopami na szerokość barków, trzymając sztangę obiema rękami przed udami.",
+      "Napnij mięśnie brzucha i powoli tocz sztangę w kierunku podłogi, trzymając plecy proste, a ramiona wyprostowane.",
+      "Kontynuuj toczenie sztangi do przodu, aż ciało będzie w pełni wyprostowane, a dłonie znajdą się bezpośrednio nad głową.",
+      "Zatrzymaj się na chwilę, a następnie powoli tocz sztangę z powrotem w kierunku ud, zachowując kontrolę i napięte mięśnie brzucha.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 너비로 벌리고 서서 바벨을 양손으로 다리 앞에 들고 있습니다.",
+      "핵심부를 단단히 조이고 천천히 바벨을 지면 쪽으로 굴립니다.",
+      "몸이 완전히 펼쳐지고 손이 머리 바로 위에 올 때까지 바벨을 계속 굴립니다.",
+      "잠시 멈춘 후 핵심부를 계속 조이면서 천천히 바벨을 다리 쪽으로 굴려 시작 위치로 돌아옵니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout bien droit, les pieds écartés à la largeur des épaules, et tiens la barre à deux mains devant tes cuisses.",
+      "Gaine ta sangle abdominale et fais rouler lentement la barre vers le sol, en gardant le dos droit et les bras tendus.",
+      "Continue à faire rouler la barre vers l'avant jusqu'à ce que ton corps soit complètement étendu et que tes mains soient directement au-dessus de ta tête.",
+      "Marque une pause, puis fais rouler lentement la barre vers tes cuisses, en gardant le contrôle et en gainant ta sangle abdominale.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "lower back"
+  ],
+  "target": "abs",
+  "image": "images/0103-xnInPfE.jpg",
+  "gif_url": "videos/0103-xnInPfE.gif",
+  "media_id": "xnInPfE",
+  "created_at": "2026-03-18T12:31:32.873026+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

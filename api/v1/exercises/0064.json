@@ -1,0 +1,102 @@
+{
+  "id": "0064",
+  "name": "barbell one arm bent over row",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart, knees slightly bent, and hold a barbell with one hand using an overhand grip. Bend forward at the hips, keeping your back straight and your head in a neutral position. Pull the barbell up towards your chest, keeping your elbow close to your body and squeezing your shoulder blades together. Lower the barbell back down to the starting position in a controlled manner. Repeat for the desired number of repetitions, then switch to the other arm.",
+    "it": "Stare con i piedi alla larghezza delle spalle, le ginocchia leggermente piegate e tenere un bilanciere con una mano utilizzando una presa prona. Piegati in avanti sui fianchi, mantenendo la schiena dritta e la testa in posizione neutra. Tira il bilanciere verso il petto, tenendo il gomito vicino al corpo e unendo le scapole. Abbassare nuovamente il bilanciere nella posizione iniziale in modo controllato. Ripeti per il numero di ripetizioni desiderato, quindi passa all'altro braccio.",
+    "tr": "Ayaklarınız omuz genişliğinde açık, dizleriniz hafifçe bükülü olarak ayakta durun ve halteri bir elinizle üstten kavrayarak tutun. Sırtınızı düz ve başınızı nötr pozisyonda tutarak kalçalarınızdan öne doğru eğin. Halterinizi göğsünüze doğru çekin, dirseğinizi vücudunuza yakın tutun ve kürek kemiklerinizi birbirine doğru sıkıştırın. Halteri kontrollü bir şekilde başlangıç ​​pozisyonuna indirin. İstenilen tekrar sayısı kadar tekrarlayın, ardından diğer kola geçin.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros, las rodillas ligeramente flexionadas, y sujeta una barra con una mano usando un agarre pronado. Inclínate hacia delante desde las caderas, manteniendo la espalda recta y la cabeza en posición neutral. Tira de la barra hacia el pecho, manteniendo el codo cerca del cuerpo y juntando los omóplatos. Baja la barra de vuelta a la posición inicial de forma controlada. Repite el número de repeticiones deseado, luego cambia al otro brazo.",
+    "ru": "Встаньте, ноги на ширине плеч, колени слегка согнуты, возьмите штангу одной рукой хватом сверху. Наклонитесь вперед в бедрах, сохраняя спину прямой и голову в нейтральном положении. Подтяните штангу к груди, держа локоть близко к телу и сжимая лопатки вместе. Контролируемым образом опустите штангу обратно в исходное положение. Повторите желаемое количество повторений, затем переключитесь на другую руку.",
+    "zh": "双脚分开与肩同宽站立，膝盖稍微弯曲，用一只手正握握住杠铃。 臀部向前弯曲，保持背部挺直，头部处于中立位置。 将杠铃向上拉向胸部，保持肘部靠近身体并将肩胛骨挤压在一起。 以受控的方式将杠铃降低回起始位置。 重复所需的重复次数，然后换到另一只手臂。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, घुटने थोड़े मुड़े हुए हों और ओवरहैंड ग्रिप का उपयोग करके एक हाथ से बारबेल को पकड़ें। अपनी पीठ को सीधा रखते हुए और अपने सिर को तटस्थ स्थिति में रखते हुए, कूल्हों के बल आगे की ओर झुकें। अपनी कोहनी को अपने शरीर के पास रखते हुए और अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए, बारबेल को अपनी छाती की ओर खींचें। नियंत्रित तरीके से बारबेल को वापस प्रारंभिक स्थिति में नीचे लाएँ। दोहराव की वांछित संख्या के लिए दोहराएं, फिर दूसरे हाथ पर स्विच करें।",
+    "pl": "Stań w rozkroku na szerokość barków, kolana lekko ugięte, i chwyć sztangę jedną ręką chwytem nachwytem. Pochyl się do przodu w biodrach, utrzymując proste plecy i głowę w pozycji neutralnej. Przyciągnij sztangę w kierunku klatki piersiowej, trzymając łokieć blisko ciała i ściskając łopatki. Opuść sztangę z powrotem do pozycji wyjściowej w kontrolowany sposób. Powtórz odpowiednią liczbę razy, a następnie zmień rękę.",
+    "ko": "어깨너비로 발을 벌리고 무릎을 약간 구부린 후 한손으로 바벨을 오버그립으로 잡습니다. 엉덩이에서 구부려 앞으로 숙인 후 등을 곧게 펴고 머리는 중립 위치에 둡니다. 바벨을 가슴 방향으로 당기되, 팔꿈치를 몸 가까이 유지하고 어깨뼈를 모으면서 짜냅니다. 통제된 방식으로 바벨을 시작 위치로 내립니다. 원하는 반복 횟수만큼 반복한 후 다른 팔로 전환합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules, les genoux légèrement fléchis, et tiens une barre d'une main en prise pronation. Penche-toi vers l'avant au niveau des hanches en gardant ton dos droit et ta tête en position neutre. Tire la barre vers le haut en direction de ta poitrine, en gardant ton coude près de ton corps et en contractant tes omoplates. Abaisse la barre jusqu'à la position de départ de manière contrôlée. Répète le nombre de répétitions souhaité, puis passe à l'autre bras."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart, knees slightly bent, and hold a barbell with one hand using an overhand grip.",
+      "Bend forward at the hips, keeping your back straight and your head in a neutral position.",
+      "Pull the barbell up towards your chest, keeping your elbow close to your body and squeezing your shoulder blades together.",
+      "Lower the barbell back down to the starting position in a controlled manner.",
+      "Repeat for the desired number of repetitions, then switch to the other arm."
+    ],
+    "it": [
+      "Stare con i piedi alla larghezza delle spalle, le ginocchia leggermente piegate e tenere un bilanciere con una mano utilizzando una presa prona.",
+      "Piegati in avanti sui fianchi, mantenendo la schiena dritta e la testa in posizione neutra.",
+      "Tira il bilanciere verso il petto, tenendo il gomito vicino al corpo e unendo le scapole.",
+      "Abbassare nuovamente il bilanciere nella posizione iniziale in modo controllato.",
+      "Ripeti per il numero di ripetizioni desiderato, quindi passa all'altro braccio."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık, dizleriniz hafifçe bükülü olarak ayakta durun ve halteri bir elinizle üstten kavrayarak tutun.",
+      "Sırtınızı düz ve başınızı nötr pozisyonda tutarak kalçalarınızdan öne doğru eğin.",
+      "Halterinizi göğsünüze doğru çekin, dirseğinizi vücudunuza yakın tutun ve kürek kemiklerinizi birbirine doğru sıkıştırın.",
+      "Halteri kontrollü bir şekilde başlangıç ​​pozisyonuna indirin.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından diğer kola geçin."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros, las rodillas ligeramente flexionadas, y sujeta una barra con una mano usando un agarre pronado.",
+      "Inclínate hacia delante desde las caderas, manteniendo la espalda recta y la cabeza en posición neutral.",
+      "Tira de la barra hacia el pecho, manteniendo el codo cerca del cuerpo y juntando los omóplatos.",
+      "Baja la barra de vuelta a la posición inicial de forma controlada.",
+      "Repite el número de repeticiones deseado, luego cambia al otro brazo."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, колени слегка согнуты, возьмите штангу одной рукой хватом сверху.",
+      "Наклонитесь вперед в бедрах, сохраняя спину прямой и голову в нейтральном положении.",
+      "Подтяните штангу к груди, держа локоть близко к телу и сжимая лопатки вместе.",
+      "Контролируемым образом опустите штангу обратно в исходное положение.",
+      "Повторите желаемое количество повторений, затем переключитесь на другую руку."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，膝盖稍微弯曲，用一只手正握握住杠铃。",
+      "臀部向前弯曲，保持背部挺直，头部处于中立位置。",
+      "将杠铃向上拉向胸部，保持肘部靠近身体并将肩胛骨挤压在一起。",
+      "以受控的方式将杠铃降低回起始位置。",
+      "重复所需的重复次数，然后换到另一只手臂。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, घुटने थोड़े मुड़े हुए हों और ओवरहैंड ग्रिप का उपयोग करके एक हाथ से बारबेल को पकड़ें।",
+      "अपनी पीठ को सीधा रखते हुए और अपने सिर को तटस्थ स्थिति में रखते हुए, कूल्हों के बल आगे की ओर झुकें।",
+      "अपनी कोहनी को अपने शरीर के पास रखते हुए और अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए, बारबेल को अपनी छाती की ओर खींचें।",
+      "नियंत्रित तरीके से बारबेल को वापस प्रारंभिक स्थिति में नीचे लाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर दूसरे हाथ पर स्विच करें।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków, kolana lekko ugięte, i chwyć sztangę jedną ręką chwytem nachwytem.",
+      "Pochyl się do przodu w biodrach, utrzymując proste plecy i głowę w pozycji neutralnej.",
+      "Przyciągnij sztangę w kierunku klatki piersiowej, trzymając łokieć blisko ciała i ściskając łopatki.",
+      "Opuść sztangę z powrotem do pozycji wyjściowej w kontrolowany sposób.",
+      "Powtórz odpowiednią liczbę razy, a następnie zmień rękę."
+    ],
+    "ko": [
+      "어깨너비로 발을 벌리고 무릎을 약간 구부린 후 한손으로 바벨을 오버그립으로 잡습니다.",
+      "엉덩이에서 구부려 앞으로 숙인 후 등을 곧게 펴고 머리는 중립 위치에 둡니다.",
+      "바벨을 가슴 방향으로 당기되, 팔꿈치를 몸 가까이 유지하고 어깨뼈를 모으면서 짜냅니다.",
+      "통제된 방식으로 바벨을 시작 위치로 내립니다.",
+      "원하는 반복 횟수만큼 반복한 후 다른 팔로 전환합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules, les genoux légèrement fléchis, et tiens une barre d'une main en prise pronation.",
+      "Penche-toi vers l'avant au niveau des hanches en gardant ton dos droit et ta tête en position neutre.",
+      "Tire la barre vers le haut en direction de ta poitrine, en gardant ton coude près de ton corps et en contractant tes omoplates.",
+      "Abaisse la barre jusqu'à la position de départ de manière contrôlée.",
+      "Répète le nombre de répétitions souhaité, puis passe à l'autre bras."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "forearms"
+  ],
+  "target": "upper back",
+  "image": "images/0064-Jsgsc27.jpg",
+  "gif_url": "videos/0064-Jsgsc27.gif",
+  "media_id": "Jsgsc27",
+  "created_at": "2026-03-18T12:31:32.872057+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

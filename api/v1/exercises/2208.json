@@ -1,0 +1,112 @@
+{
+  "id": "2208",
+  "name": "roller back stretch",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "roller",
+  "instructions": {
+    "en": "Start by sitting on the ground with your legs extended in front of you. Place the roller perpendicular to your body, just below your glutes. Slowly roll your body backwards, allowing the roller to move up your back. Continue rolling until the roller reaches your upper back. Pause for a moment, then slowly roll back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Inizia sedendoti a terra con le gambe distese davanti a te. Posiziona il rullo perpendicolare al corpo, appena sotto i glutei. Ruota lentamente il corpo all'indietro, permettendo al rullo di risalire lungo la schiena. Continua a rotolare finché il rullo non raggiunge la parte superiore della schiena. Fai una pausa per un momento, quindi torna lentamente alla posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Bacaklarınız önünüzde uzatılmış halde yere oturarak başlayın. Silindiri vücudunuza dik olarak kalça kaslarınızın hemen altına yerleştirin. Vücudunuzu yavaşça geriye doğru yuvarlayın, silindirin sırtınıza doğru hareket etmesine izin verin. Silindir sırtınızın üst kısmına ulaşana kadar yuvarlanmaya devam edin. Bir an duraklayın ve ardından yavaşça başlangıç ​​pozisyonuna dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Comienza sentándote en el suelo con las piernas extendidas frente a ti. Coloca el rodillo perpendicular a tu cuerpo, justo debajo de los glúteos. Rueda lentamente el cuerpo hacia atrás, dejando que el rodillo se desplace hacia arriba por tu espalda. Continúa rodando hasta que el rodillo llegue a la parte superior de tu espalda. Haz una pausa por un momento y luego rueda lentamente de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Начните с того, что сядьте на землю, вытянув ноги перед собой. Поместите валик перпендикулярно телу, чуть ниже ягодиц. Медленно перекатите тело назад, позволяя ролику двигаться вверх по спине. Продолжайте кататься, пока ролик не достигнет верхней части спины. Сделайте паузу на мгновение, затем медленно вернитесь в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "首先坐在地上，双腿在身前伸展。 将滚轮垂直于您的身体放置，位于臀部下方。 慢慢向后滚动你的身体，让滚轮向上移动你的背部。 继续滚动，直到滚轮到达您的上背部。 暂停片刻，然后慢慢滚回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को अपने सामने फैलाकर जमीन पर बैठकर शुरुआत करें। रोलर को अपने शरीर के लंबवत रखें, अपने ग्लूट्स के ठीक नीचे। धीरे-धीरे अपने शरीर को पीछे की ओर घुमाएं, जिससे रोलर आपकी पीठ तक ऊपर जा सके। तब तक घुमाते रहें जब तक कि रोलर आपकी पीठ के ऊपरी हिस्से तक न पहुंच जाए। एक पल के लिए रुकें, फिर धीरे-धीरे प्रारंभिक स्थिति में वापस आ जाएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Rozpocznij, siedząc na podłodze z nogami wyprostowanymi przed sobą. Umieść wałek prostopadle do ciała, tuż pod pośladkami. Powoli przetocz ciało do tyłu, pozwalając wałkowi przesuwać się w górę pleców. Kontynuuj toczenie, aż wałek dotrze do górnej części pleców. Zatrzymaj się na chwilę, a następnie powoli wróć do pozycji wyjściowej. Powtórz zalecaną liczbę razy.",
+    "ko": "지면에 앉은 상태에서 두 다리를 앞으로 쭉 뻗습니다. 롤러를 몸에 수직으로 위치시켜 엉덩이 바로 아래에 놓습니다. 천천히 몸을 뒤로 굴리며 롤러가 등을 따라 올라가게 합니다. 롤러가 상부 등에 도달할 때까지 계속 굴립니다. 잠시 멈추었다가 천천히 시작 위치로 돌아갑니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Commence assis au sol, les jambes tendues devant toi. Place le rouleau perpendiculaire à ton corps, juste en dessous de tes fessiers. Fais rouler lentement ton corps vers l'arrière, en laissant le rouleau remonter le long de ton dos. Continue à rouler jusqu'à ce que le rouleau atteigne le haut de ton dos. Marque une pause, puis roule lentement jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start by sitting on the ground with your legs extended in front of you.",
+      "Place the roller perpendicular to your body, just below your glutes.",
+      "Slowly roll your body backwards, allowing the roller to move up your back.",
+      "Continue rolling until the roller reaches your upper back.",
+      "Pause for a moment, then slowly roll back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia sedendoti a terra con le gambe distese davanti a te.",
+      "Posiziona il rullo perpendicolare al corpo, appena sotto i glutei.",
+      "Ruota lentamente il corpo all'indietro, permettendo al rullo di risalire lungo la schiena.",
+      "Continua a rotolare finché il rullo non raggiunge la parte superiore della schiena.",
+      "Fai una pausa per un momento, quindi torna lentamente alla posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Bacaklarınız önünüzde uzatılmış halde yere oturarak başlayın.",
+      "Silindiri vücudunuza dik olarak kalça kaslarınızın hemen altına yerleştirin.",
+      "Vücudunuzu yavaşça geriye doğru yuvarlayın, silindirin sırtınıza doğru hareket etmesine izin verin.",
+      "Silindir sırtınızın üst kısmına ulaşana kadar yuvarlanmaya devam edin.",
+      "Bir an duraklayın ve ardından yavaşça başlangıç ​​pozisyonuna dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Comienza sentándote en el suelo con las piernas extendidas frente a ti.",
+      "Coloca el rodillo perpendicular a tu cuerpo, justo debajo de los glúteos.",
+      "Rueda lentamente el cuerpo hacia atrás, dejando que el rodillo se desplace hacia arriba por tu espalda.",
+      "Continúa rodando hasta que el rodillo llegue a la parte superior de tu espalda.",
+      "Haz una pausa por un momento y luego rueda lentamente de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с того, что сядьте на землю, вытянув ноги перед собой.",
+      "Поместите валик перпендикулярно телу, чуть ниже ягодиц.",
+      "Медленно перекатите тело назад, позволяя ролику двигаться вверх по спине.",
+      "Продолжайте кататься, пока ролик не достигнет верхней части спины.",
+      "Сделайте паузу на мгновение, затем медленно вернитесь в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "首先坐在地上，双腿在身前伸展。",
+      "将滚轮垂直于您的身体放置，位于臀部下方。",
+      "慢慢向后滚动你的身体，让滚轮向上移动你的背部。",
+      "继续滚动，直到滚轮到达您的上背部。",
+      "暂停片刻，然后慢慢滚回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को अपने सामने फैलाकर जमीन पर बैठकर शुरुआत करें।",
+      "रोलर को अपने शरीर के लंबवत रखें, अपने ग्लूट्स के ठीक नीचे।",
+      "धीरे-धीरे अपने शरीर को पीछे की ओर घुमाएं, जिससे रोलर आपकी पीठ तक ऊपर जा सके।",
+      "तब तक घुमाते रहें जब तक कि रोलर आपकी पीठ के ऊपरी हिस्से तक न पहुंच जाए।",
+      "एक पल के लिए रुकें, फिर धीरे-धीरे प्रारंभिक स्थिति में वापस आ जाएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Rozpocznij, siedząc na podłodze z nogami wyprostowanymi przed sobą.",
+      "Umieść wałek prostopadle do ciała, tuż pod pośladkami.",
+      "Powoli przetocz ciało do tyłu, pozwalając wałkowi przesuwać się w górę pleców.",
+      "Kontynuuj toczenie, aż wałek dotrze do górnej części pleców.",
+      "Zatrzymaj się na chwilę, a następnie powoli wróć do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "지면에 앉은 상태에서 두 다리를 앞으로 쭉 뻗습니다.",
+      "롤러를 몸에 수직으로 위치시켜 엉덩이 바로 아래에 놓습니다.",
+      "천천히 몸을 뒤로 굴리며 롤러가 등을 따라 올라가게 합니다.",
+      "롤러가 상부 등에 도달할 때까지 계속 굴립니다.",
+      "잠시 멈추었다가 천천히 시작 위치로 돌아갑니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Commence assis au sol, les jambes tendues devant toi.",
+      "Place le rouleau perpendiculaire à ton corps, juste en dessous de tes fessiers.",
+      "Fais rouler lentement ton corps vers l'arrière, en laissant le rouleau remonter le long de ton dos.",
+      "Continue à rouler jusqu'à ce que le rouleau atteigne le haut de ton dos.",
+      "Marque une pause, puis roule lentement jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings",
+    "glutes"
+  ],
+  "target": "spine",
+  "image": "images/2208-isofgzg.jpg",
+  "gif_url": "videos/2208-isofgzg.gif",
+  "media_id": "isofgzg",
+  "created_at": "2026-03-18T12:31:32.889136+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

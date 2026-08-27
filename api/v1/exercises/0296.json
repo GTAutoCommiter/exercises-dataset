@@ -1,0 +1,112 @@
+{
+  "id": "0296",
+  "name": "dumbbell close-grip press",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Sit on a flat bench with a dumbbell in each hand, resting on your thighs. Using your thighs to help raise the dumbbells, lift the dumbbells one at a time so that you can hold them in front of you at shoulder width. Once at shoulder width, rotate your wrists forward so that the palms of your hands are facing away from you. This will be your starting position. As you breathe in, slowly lower the dumbbells to your side until they are about level with your chest. As you exhale, use your triceps to lift the dumbbells back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Siediti su una panca piatta con un manubrio in ogni mano, appoggiato sulle cosce. Usando le cosce per aiutare a sollevare i manubri, solleva i manubri uno alla volta così da poterli tenere davanti a te alla larghezza delle spalle. Una volta a larghezza delle spalle, ruota i polsi in avanti in modo che i palmi delle mani siano rivolti lontano. Questa sarà la tua posizione di partenza. Mentre inspiri, abbassa lentamente i manubri ai lati finché non saranno all'altezza del petto. Mentre espiri, usa i tricipiti per sollevare i manubri fino alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Her iki elinizde bir dambıl olacak şekilde düz bir bankta oturun ve uyluklarınıza yaslanın. Dambılları kaldırmaya yardımcı olmak için uyluklarınızı kullanarak dambılları birer birer kaldırın, böylece onları omuz genişliğinde önünüzde tutabilirsiniz. Omuz genişliğine ulaştığınızda, avuçlarınız sizden uzağa bakacak şekilde bileklerinizi öne doğru çevirin. Bu sizin başlangıç ​​pozisyonunuz olacaktır. Nefes alırken dambılları göğsünüzle aynı hizaya gelene kadar yavaşça yanınıza indirin. Nefes verirken trisepslerinizi kullanarak dambılları başlangıç ​​pozisyonuna geri kaldırın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Siéntate en un banco plano con una mancuerna en cada mano, apoyadas en los muslos. Usando los muslos para ayudar a levantar las mancuernas, levanta las mancuernas una a la vez para poder sostenerlas frente a ti a la altura de los hombros. Una vez a la altura de los hombros, rota las muñecas hacia adelante de modo que las palmas de las manos miren hacia afuera de ti. Esta será tu posición inicial. Mientras inhalas, baja lentamente las mancuernas hacia tu lado hasta que queden aproximadamente a la altura del pecho. Mientras exhalas, usa los tríceps para levantar las mancuernas de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Сядьте на ровную скамью, взяв в каждую руку по гантели, положив их на бедра. Используя бедра для поднятия гантелей, поднимайте гантели по одной так, чтобы вы могли держать их перед собой на ширине плеч. Оказавшись на ширине плеч, поверните запястья вперед так, чтобы ладони были обращены от вас. Это будет ваша исходная позиция. На вдохе медленно опустите гантели в сторону, пока они не окажутся примерно на уровне груди. На выдохе с помощью трицепсов поднимите гантели обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "坐在平坦的长凳上，每只手各拿一个哑铃，放在大腿上。 用你的大腿帮助举起哑铃，一次举起一个哑铃，这样你就可以将它们保持在与肩同宽的位置。 一旦与肩同宽，向前旋转手腕，使手掌背向自己。这将是您的起始位置。 当你吸气时，慢慢地将哑铃降低到你的身边，直到它们与你的胸部齐平。 呼气时，用三头肌将哑铃举回到起始位置。 重复所需的重复次数。",
+    "hi": "प्रत्येक हाथ में डम्बल लेकर अपनी जांघों पर आराम करते हुए एक सपाट बेंच पर बैठें। डम्बल उठाने में मदद के लिए अपनी जांघों का उपयोग करते हुए, डम्बल को एक-एक करके उठाएं ताकि आप उन्हें कंधे की चौड़ाई पर अपने सामने पकड़ सकें। एक बार कंधे की चौड़ाई पर, अपनी कलाइयों को आगे की ओर घुमाएँ ताकि आपके हाथों की हथेलियाँ आपसे दूर की ओर हों। यह आपकी प्रारंभिक स्थिति होगी. जैसे ही आप सांस लेते हैं, धीरे-धीरे डम्बल को अपनी तरफ नीचे करें जब तक कि वे आपकी छाती के बराबर न हो जाएं। जैसे ही आप साँस छोड़ते हैं, डम्बल को प्रारंभिक स्थिति में वापस उठाने के लिए अपने ट्राइसेप्स का उपयोग करें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Usiądź na płaskiej ławce, trzymając hantle w obu rękach opartych na udach. Wykorzystując uda do pomocy, unieś hantle jedna po drugiej, tak aby trzymać je przed sobą na szerokość barków. Będąc na wysokości barków, obróć nadgarstki do przodu, tak aby dłonie były skierowane w stronę przeciwną do ciebie. To będzie twoja pozycja wyjściowa. Wdychając powietrze, powoli opuść hantle w bok, aż znajdą się mniej więcej na wysokości klatki piersiowej. Wydychając powietrze, użyj tricepsów, aby unieść hantle z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "평평한 벤치에 앉아 각 손에 덤벨을 하나씩 들고 허벅지에 얹습니다. 허벅지의 도움을 받아 덤벨을 한 번에 하나씩 들어올려 어깨 너비 정도에서 가슴 앞에 들 수 있도록 합니다. 어깨 너비에 도달하면 손목을 앞으로 회전하여 손바닥이 멀어지도록 합니다. 이것이 시작 자세입니다. 숨을 들이쉬면서 천천히 덤벨을 옆으로 내려 가슴 높이 정도까지 내립니다. 숨을 내쉬면서 삼두근을 사용하여 덤벨을 시작 자세로 다시 올립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Assieds-toi sur un banc plat avec un haltère dans chaque main, posés sur tes cuisses. En utilisant tes cuisses pour aider à monter les haltères, soulève-les un à la fois de sorte que tu puisses les tenir devant toi à hauteur des épaules. Une fois à la largeur des épaules, tourne tes poignets vers l'avant de façon à ce que les paumes de tes mains soient tournées vers l'extérieur. Ce sera ta position de départ. En inspirant, abaisse lentement les haltères sur les côtés jusqu'à ce qu'ils soient à peu près à hauteur de ta poitrine. En expirant, utilise tes triceps pour ramener les haltères à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on a flat bench with a dumbbell in each hand, resting on your thighs.",
+      "Using your thighs to help raise the dumbbells, lift the dumbbells one at a time so that you can hold them in front of you at shoulder width.",
+      "Once at shoulder width, rotate your wrists forward so that the palms of your hands are facing away from you. This will be your starting position.",
+      "As you breathe in, slowly lower the dumbbells to your side until they are about level with your chest.",
+      "As you exhale, use your triceps to lift the dumbbells back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Siediti su una panca piatta con un manubrio in ogni mano, appoggiato sulle cosce.",
+      "Usando le cosce per aiutare a sollevare i manubri, solleva i manubri uno alla volta così da poterli tenere davanti a te alla larghezza delle spalle.",
+      "Una volta a larghezza delle spalle, ruota i polsi in avanti in modo che i palmi delle mani siano rivolti lontano. Questa sarà la tua posizione di partenza.",
+      "Mentre inspiri, abbassa lentamente i manubri ai lati finché non saranno all'altezza del petto.",
+      "Mentre espiri, usa i tricipiti per sollevare i manubri fino alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Her iki elinizde bir dambıl olacak şekilde düz bir bankta oturun ve uyluklarınıza yaslanın.",
+      "Dambılları kaldırmaya yardımcı olmak için uyluklarınızı kullanarak dambılları birer birer kaldırın, böylece onları omuz genişliğinde önünüzde tutabilirsiniz.",
+      "Omuz genişliğine ulaştığınızda, avuçlarınız sizden uzağa bakacak şekilde bileklerinizi öne doğru çevirin. Bu sizin başlangıç ​​pozisyonunuz olacaktır.",
+      "Nefes alırken dambılları göğsünüzle aynı hizaya gelene kadar yavaşça yanınıza indirin.",
+      "Nefes verirken trisepslerinizi kullanarak dambılları başlangıç ​​pozisyonuna geri kaldırın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Siéntate en un banco plano con una mancuerna en cada mano, apoyadas en los muslos.",
+      "Usando los muslos para ayudar a levantar las mancuernas, levanta las mancuernas una a la vez para poder sostenerlas frente a ti a la altura de los hombros.",
+      "Una vez a la altura de los hombros, rota las muñecas hacia adelante de modo que las palmas de las manos miren hacia afuera de ti. Esta será tu posición inicial.",
+      "Mientras inhalas, baja lentamente las mancuernas hacia tu lado hasta que queden aproximadamente a la altura del pecho.",
+      "Mientras exhalas, usa los tríceps para levantar las mancuernas de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на ровную скамью, взяв в каждую руку по гантели, положив их на бедра.",
+      "Используя бедра для поднятия гантелей, поднимайте гантели по одной так, чтобы вы могли держать их перед собой на ширине плеч.",
+      "Оказавшись на ширине плеч, поверните запястья вперед так, чтобы ладони были обращены от вас. Это будет ваша исходная позиция.",
+      "На вдохе медленно опустите гантели в сторону, пока они не окажутся примерно на уровне груди.",
+      "На выдохе с помощью трицепсов поднимите гантели обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "坐在平坦的长凳上，每只手各拿一个哑铃，放在大腿上。",
+      "用你的大腿帮助举起哑铃，一次举起一个哑铃，这样你就可以将它们保持在与肩同宽的位置。",
+      "一旦与肩同宽，向前旋转手腕，使手掌背向自己。这将是您的起始位置。",
+      "当你吸气时，慢慢地将哑铃降低到你的身边，直到它们与你的胸部齐平。",
+      "呼气时，用三头肌将哑铃举回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "प्रत्येक हाथ में डम्बल लेकर अपनी जांघों पर आराम करते हुए एक सपाट बेंच पर बैठें।",
+      "डम्बल उठाने में मदद के लिए अपनी जांघों का उपयोग करते हुए, डम्बल को एक-एक करके उठाएं ताकि आप उन्हें कंधे की चौड़ाई पर अपने सामने पकड़ सकें।",
+      "एक बार कंधे की चौड़ाई पर, अपनी कलाइयों को आगे की ओर घुमाएँ ताकि आपके हाथों की हथेलियाँ आपसे दूर की ओर हों। यह आपकी प्रारंभिक स्थिति होगी.",
+      "जैसे ही आप सांस लेते हैं, धीरे-धीरे डम्बल को अपनी तरफ नीचे करें जब तक कि वे आपकी छाती के बराबर न हो जाएं।",
+      "जैसे ही आप साँस छोड़ते हैं, डम्बल को प्रारंभिक स्थिति में वापस उठाने के लिए अपने ट्राइसेप्स का उपयोग करें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Usiądź na płaskiej ławce, trzymając hantle w obu rękach opartych na udach.",
+      "Wykorzystując uda do pomocy, unieś hantle jedna po drugiej, tak aby trzymać je przed sobą na szerokość barków.",
+      "Będąc na wysokości barków, obróć nadgarstki do przodu, tak aby dłonie były skierowane w stronę przeciwną do ciebie. To będzie twoja pozycja wyjściowa.",
+      "Wdychając powietrze, powoli opuść hantle w bok, aż znajdą się mniej więcej na wysokości klatki piersiowej.",
+      "Wydychając powietrze, użyj tricepsów, aby unieść hantle z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "평평한 벤치에 앉아 각 손에 덤벨을 하나씩 들고 허벅지에 얹습니다.",
+      "허벅지의 도움을 받아 덤벨을 한 번에 하나씩 들어올려 어깨 너비 정도에서 가슴 앞에 들 수 있도록 합니다.",
+      "어깨 너비에 도달하면 손목을 앞으로 회전하여 손바닥이 멀어지도록 합니다. 이것이 시작 자세입니다.",
+      "숨을 들이쉬면서 천천히 덤벨을 옆으로 내려 가슴 높이 정도까지 내립니다.",
+      "숨을 내쉬면서 삼두근을 사용하여 덤벨을 시작 자세로 다시 올립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Assieds-toi sur un banc plat avec un haltère dans chaque main, posés sur tes cuisses.",
+      "En utilisant tes cuisses pour aider à monter les haltères, soulève-les un à la fois de sorte que tu puisses les tenir devant toi à hauteur des épaules.",
+      "Une fois à la largeur des épaules, tourne tes poignets vers l'avant de façon à ce que les paumes de tes mains soient tournées vers l'extérieur. Ce sera ta position de départ.",
+      "En inspirant, abaisse lentement les haltères sur les côtés jusqu'à ce qu'ils soient à peu près à hauteur de ta poitrine.",
+      "En expirant, utilise tes triceps pour ramener les haltères à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "chest",
+  "secondary_muscles": [
+    "chest",
+    "shoulders"
+  ],
+  "target": "triceps",
+  "image": "images/0296-RxayqAZ.jpg",
+  "gif_url": "videos/0296-RxayqAZ.gif",
+  "media_id": "RxayqAZ",
+  "created_at": "2026-03-18T12:31:32.877969+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

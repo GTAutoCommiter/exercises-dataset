@@ -1,0 +1,112 @@
+{
+  "id": "2209",
+  "name": "roller seated single leg shoulder flexor depresor retractor",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "roller",
+  "instructions": {
+    "en": "Sit on a flat surface with your legs extended in front of you. Hold the roller with both hands, palms facing down, and place it on your thighs. Lean back slightly and engage your core muscles. Raise the roller up to shoulder level, keeping your arms straight. Slowly lower the roller back down to your thighs. Repeat for the desired number of repetitions.",
+    "it": "Siediti su una superficie piana con le gambe distese davanti a te. Tieni il rullo con entrambe le mani, con i palmi rivolti verso il basso, e posizionalo sulle cosce. Rilassati leggermente e coinvolgi i muscoli centrali. Sollevare il rullo fino all'altezza delle spalle, mantenendo le braccia tese. Abbassa lentamente il rullo fino alle cosce. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Bacaklarınız önünüzde uzatılmış şekilde düz bir yüzeye oturun. Silindiri iki elinizle, avuçlarınız aşağıya bakacak şekilde tutun ve uyluklarınızın üzerine yerleştirin. Hafifçe geriye yaslanın ve çekirdek kaslarınızı çalıştırın. Kollarınızı düz tutarak silindiri omuz hizasına kadar kaldırın. Silindiri yavaşça kalçalarınıza doğru indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Siéntate sobre una superficie plana con las piernas extendidas frente a ti. Sostén el rodillo con ambas manos, con las palmas hacia abajo, y colócalo sobre tus muslos. Inclínate ligeramente hacia atrás y contrae los músculos del core. Eleva el rodillo hasta la altura de los hombros, manteniendo los brazos rectos. Baja lentamente el rodillo de nuevo hacia los muslos. Repite el número de repeticiones deseado.",
+    "ru": "Сядьте на ровную поверхность, вытянув ноги перед собой. Возьмите валик обеими руками ладонями вниз и положите его на бедра. Слегка откиньтесь назад и задействуйте мышцы корпуса. Поднимите валик до уровня плеч, держа руки прямыми. Медленно опустите валик обратно на бедра. Повторите необходимое количество повторений.",
+    "zh": "坐在平坦的表面上，双腿在身前伸展。 双手握住滚轮，掌心朝下，将其放在大腿上。 稍微向后倾斜并锻炼核心肌肉。 将滚轮抬高至肩部高度，保持手臂伸直。 慢慢地将滚轮放回到大腿处。 重复所需的重复次数。",
+    "hi": "अपने पैरों को अपने सामने फैलाकर समतल सतह पर बैठें। रोलर को दोनों हाथों से पकड़ें, हथेलियाँ नीचे की ओर हों और इसे अपनी जाँघों पर रखें। थोड़ा पीछे झुकें और अपनी मुख्य मांसपेशियों को शामिल करें। अपनी बाहों को सीधा रखते हुए रोलर को कंधे के स्तर तक उठाएं। धीरे-धीरे रोलर को वापस अपनी जाँघों तक नीचे लाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Usiądź na płaskiej powierzchni z nogami wyprostowanymi przed sobą. Trzymaj wałek obiema rękami, dłońmi skierowanymi w dół, i umieść go na udach. Odchyl się lekko do tyłu i napnij mięśnie brzucha. Unieś wałek na wysokość barków, trzymając ręce proste. Powoli opuść wałek z powrotem na uda. Powtórz zalecaną liczbę razy.",
+    "ko": "다리를 앞으로 쭉 뻗고 평평한 표면에 앉습니다. 양 손으로 롤러를 잡아 손바닥이 아래를 향하게 하고 허벅지 위에 놓습니다. 약간 뒤로 기울이고 코어 근육을 수축시킵니다. 롤러를 어깨 높이까지 들어올리되 팔은 곧게 유지합니다. 천천히 롤러를 허벅지 아래로 내려놓습니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Assieds-toi sur une surface plane, les jambes tendues devant toi. Tiens le rouleau des deux mains, les paumes tournées vers le bas, et place-le sur tes cuisses. Penche-toi légèrement en arrière et gaine ta sangle abdominale. Lève le rouleau à hauteur des épaules en gardant tes bras tendus. Abaisse lentement le rouleau vers tes cuisses. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on a flat surface with your legs extended in front of you.",
+      "Hold the roller with both hands, palms facing down, and place it on your thighs.",
+      "Lean back slightly and engage your core muscles.",
+      "Raise the roller up to shoulder level, keeping your arms straight.",
+      "Slowly lower the roller back down to your thighs.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Siediti su una superficie piana con le gambe distese davanti a te.",
+      "Tieni il rullo con entrambe le mani, con i palmi rivolti verso il basso, e posizionalo sulle cosce.",
+      "Rilassati leggermente e coinvolgi i muscoli centrali.",
+      "Sollevare il rullo fino all'altezza delle spalle, mantenendo le braccia tese.",
+      "Abbassa lentamente il rullo fino alle cosce.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Bacaklarınız önünüzde uzatılmış şekilde düz bir yüzeye oturun.",
+      "Silindiri iki elinizle, avuçlarınız aşağıya bakacak şekilde tutun ve uyluklarınızın üzerine yerleştirin.",
+      "Hafifçe geriye yaslanın ve çekirdek kaslarınızı çalıştırın.",
+      "Kollarınızı düz tutarak silindiri omuz hizasına kadar kaldırın.",
+      "Silindiri yavaşça kalçalarınıza doğru indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Siéntate sobre una superficie plana con las piernas extendidas frente a ti.",
+      "Sostén el rodillo con ambas manos, con las palmas hacia abajo, y colócalo sobre tus muslos.",
+      "Inclínate ligeramente hacia atrás y contrae los músculos del core.",
+      "Eleva el rodillo hasta la altura de los hombros, manteniendo los brazos rectos.",
+      "Baja lentamente el rodillo de nuevo hacia los muslos.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на ровную поверхность, вытянув ноги перед собой.",
+      "Возьмите валик обеими руками ладонями вниз и положите его на бедра.",
+      "Слегка откиньтесь назад и задействуйте мышцы корпуса.",
+      "Поднимите валик до уровня плеч, держа руки прямыми.",
+      "Медленно опустите валик обратно на бедра.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "坐在平坦的表面上，双腿在身前伸展。",
+      "双手握住滚轮，掌心朝下，将其放在大腿上。",
+      "稍微向后倾斜并锻炼核心肌肉。",
+      "将滚轮抬高至肩部高度，保持手臂伸直。",
+      "慢慢地将滚轮放回到大腿处。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को अपने सामने फैलाकर समतल सतह पर बैठें।",
+      "रोलर को दोनों हाथों से पकड़ें, हथेलियाँ नीचे की ओर हों और इसे अपनी जाँघों पर रखें।",
+      "थोड़ा पीछे झुकें और अपनी मुख्य मांसपेशियों को शामिल करें।",
+      "अपनी बाहों को सीधा रखते हुए रोलर को कंधे के स्तर तक उठाएं।",
+      "धीरे-धीरे रोलर को वापस अपनी जाँघों तक नीचे लाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Usiądź na płaskiej powierzchni z nogami wyprostowanymi przed sobą.",
+      "Trzymaj wałek obiema rękami, dłońmi skierowanymi w dół, i umieść go na udach.",
+      "Odchyl się lekko do tyłu i napnij mięśnie brzucha.",
+      "Unieś wałek na wysokość barków, trzymając ręce proste.",
+      "Powoli opuść wałek z powrotem na uda.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "다리를 앞으로 쭉 뻗고 평평한 표면에 앉습니다.",
+      "양 손으로 롤러를 잡아 손바닥이 아래를 향하게 하고 허벅지 위에 놓습니다.",
+      "약간 뒤로 기울이고 코어 근육을 수축시킵니다.",
+      "롤러를 어깨 높이까지 들어올리되 팔은 곧게 유지합니다.",
+      "천천히 롤러를 허벅지 아래로 내려놓습니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Assieds-toi sur une surface plane, les jambes tendues devant toi.",
+      "Tiens le rouleau des deux mains, les paumes tournées vers le bas, et place-le sur tes cuisses.",
+      "Penche-toi légèrement en arrière et gaine ta sangle abdominale.",
+      "Lève le rouleau à hauteur des épaules en gardant tes bras tendus.",
+      "Abaisse lentement le rouleau vers tes cuisses.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "deltoids",
+  "secondary_muscles": [
+    "deltoids",
+    "triceps"
+  ],
+  "target": "pectorals",
+  "image": "images/2209-CjETvlw.jpg",
+  "gif_url": "videos/2209-CjETvlw.gif",
+  "media_id": "CjETvlw",
+  "created_at": "2026-03-18T12:31:32.889246+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

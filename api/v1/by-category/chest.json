@@ -1,0 +1,1632 @@
+[
+  {
+    "id": "3294",
+    "name": "archer push up",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "pectorals",
+    "image": "images/3294-A9qxk2F.jpg",
+    "gif_url": "videos/3294-A9qxk2F.gif"
+  },
+  {
+    "id": "0009",
+    "name": "assisted chest dip (kneeling)",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "leverage machine",
+    "target": "pectorals",
+    "image": "images/0009-PAgTVaK.jpg",
+    "gif_url": "videos/0009-PAgTVaK.gif"
+  },
+  {
+    "id": "1716",
+    "name": "assisted seated pectoralis major stretch with stability ball",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "assisted",
+    "target": "pectorals",
+    "image": "images/1716-RoV1Rfa.jpg",
+    "gif_url": "videos/1716-RoV1Rfa.gif"
+  },
+  {
+    "id": "2364",
+    "name": "assisted wide-grip chest dip (kneeling)",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "leverage machine",
+    "target": "pectorals",
+    "image": "images/2364-PnZJIrk.jpg",
+    "gif_url": "videos/2364-PnZJIrk.gif"
+  },
+  {
+    "id": "1254",
+    "name": "band bench press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "band",
+    "target": "pectorals",
+    "image": "images/1254-khlHMqs.jpg",
+    "gif_url": "videos/1254-khlHMqs.gif"
+  },
+  {
+    "id": "0989",
+    "name": "band one arm twisting chest press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "band",
+    "target": "pectorals",
+    "image": "images/0989-c16nYGA.jpg",
+    "gif_url": "videos/0989-c16nYGA.gif"
+  },
+  {
+    "id": "0025",
+    "name": "barbell bench press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "barbell",
+    "target": "pectorals",
+    "image": "images/0025-EIeI8Vf.jpg",
+    "gif_url": "videos/0025-EIeI8Vf.gif"
+  },
+  {
+    "id": "0033",
+    "name": "barbell decline bench press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "barbell",
+    "target": "pectorals",
+    "image": "images/0033-GrO65fd.jpg",
+    "gif_url": "videos/0033-GrO65fd.gif"
+  },
+  {
+    "id": "1255",
+    "name": "barbell decline pullover",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "barbell",
+    "target": "pectorals",
+    "image": "images/1255-9sgNE2O.jpg",
+    "gif_url": "videos/1255-9sgNE2O.gif"
+  },
+  {
+    "id": "0036",
+    "name": "barbell decline wide-grip press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "barbell",
+    "target": "pectorals",
+    "image": "images/0036-hl8DUh8.jpg",
+    "gif_url": "videos/0036-hl8DUh8.gif"
+  },
+  {
+    "id": "0040",
+    "name": "barbell front raise and pullover",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "barbell",
+    "target": "pectorals",
+    "image": "images/0040-33AzZeV.jpg",
+    "gif_url": "videos/0040-33AzZeV.gif"
+  },
+  {
+    "id": "0045",
+    "name": "barbell guillotine bench press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "barbell",
+    "target": "pectorals",
+    "image": "images/0045-GXoaSgn.jpg",
+    "gif_url": "videos/0045-GXoaSgn.gif"
+  },
+  {
+    "id": "0047",
+    "name": "barbell incline bench press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "barbell",
+    "target": "pectorals",
+    "image": "images/0047-3TZduzM.jpg",
+    "gif_url": "videos/0047-3TZduzM.gif"
+  },
+  {
+    "id": "0050",
+    "name": "barbell incline shoulder raise",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "barbell",
+    "target": "serratus anterior",
+    "image": "images/0050-xi0yckC.jpg",
+    "gif_url": "videos/0050-xi0yckC.gif"
+  },
+  {
+    "id": "1256",
+    "name": "barbell reverse grip decline bench press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "barbell",
+    "target": "pectorals",
+    "image": "images/1256-DotAgEF.jpg",
+    "gif_url": "videos/1256-DotAgEF.gif"
+  },
+  {
+    "id": "1257",
+    "name": "barbell reverse grip incline bench press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "barbell",
+    "target": "pectorals",
+    "image": "images/1257-DU7I633.jpg",
+    "gif_url": "videos/1257-DU7I633.gif"
+  },
+  {
+    "id": "0122",
+    "name": "barbell wide bench press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "barbell",
+    "target": "pectorals",
+    "image": "images/0122-JsKq9so.jpg",
+    "gif_url": "videos/0122-JsKq9so.gif"
+  },
+  {
+    "id": "1258",
+    "name": "barbell wide reverse grip bench press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "barbell",
+    "target": "pectorals",
+    "image": "images/1258-945zpRg.jpg",
+    "gif_url": "videos/1258-945zpRg.gif"
+  },
+  {
+    "id": "1259",
+    "name": "behind head chest stretch",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "assisted",
+    "target": "pectorals",
+    "image": "images/1259-QoHIhPl.jpg",
+    "gif_url": "videos/1259-QoHIhPl.gif"
+  },
+  {
+    "id": "0151",
+    "name": "cable bench press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "cable",
+    "target": "pectorals",
+    "image": "images/0151-7xI5MXA.jpg",
+    "gif_url": "videos/0151-7xI5MXA.gif"
+  },
+  {
+    "id": "0155",
+    "name": "cable cross-over variation",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "cable",
+    "target": "pectorals",
+    "image": "images/0155-0CXGHya.jpg",
+    "gif_url": "videos/0155-0CXGHya.gif"
+  },
+  {
+    "id": "0158",
+    "name": "cable decline fly",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "cable",
+    "target": "pectorals",
+    "image": "images/0158-7saC5zz.jpg",
+    "gif_url": "videos/0158-7saC5zz.gif"
+  },
+  {
+    "id": "1260",
+    "name": "cable decline one arm press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "cable",
+    "target": "pectorals",
+    "image": "images/1260-KHGNa16.jpg",
+    "gif_url": "videos/1260-KHGNa16.gif"
+  },
+  {
+    "id": "1261",
+    "name": "cable decline press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "cable",
+    "target": "pectorals",
+    "image": "images/1261-2Pya1cP.jpg",
+    "gif_url": "videos/1261-2Pya1cP.gif"
+  },
+  {
+    "id": "0169",
+    "name": "cable incline bench press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "cable",
+    "target": "pectorals",
+    "image": "images/0169-Vh0GsK4.jpg",
+    "gif_url": "videos/0169-Vh0GsK4.gif"
+  },
+  {
+    "id": "0171",
+    "name": "cable incline fly",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "cable",
+    "target": "pectorals",
+    "image": "images/0171-tBWXbIT.jpg",
+    "gif_url": "videos/0171-tBWXbIT.gif"
+  },
+  {
+    "id": "0170",
+    "name": "cable incline fly (on stability ball)",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "cable",
+    "target": "pectorals",
+    "image": "images/0170-27NNGFr.jpg",
+    "gif_url": "videos/0170-27NNGFr.gif"
+  },
+  {
+    "id": "0179",
+    "name": "cable low fly",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "cable",
+    "target": "pectorals",
+    "image": "images/0179-FVmZVhk.jpg",
+    "gif_url": "videos/0179-FVmZVhk.gif"
+  },
+  {
+    "id": "0185",
+    "name": "cable lying fly",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "cable",
+    "target": "pectorals",
+    "image": "images/0185-lJJ7Yq8.jpg",
+    "gif_url": "videos/0185-lJJ7Yq8.gif"
+  },
+  {
+    "id": "0188",
+    "name": "cable middle fly",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "cable",
+    "target": "pectorals",
+    "image": "images/0188-xLYSdtg.jpg",
+    "gif_url": "videos/0188-xLYSdtg.gif"
+  },
+  {
+    "id": "1262",
+    "name": "cable one arm decline chest fly",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "cable",
+    "target": "pectorals",
+    "image": "images/1262-w4dLzSx.jpg",
+    "gif_url": "videos/1262-w4dLzSx.gif"
+  },
+  {
+    "id": "1263",
+    "name": "cable one arm fly on exercise ball",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "cable",
+    "target": "pectorals",
+    "image": "images/1263-hHy8tQG.jpg",
+    "gif_url": "videos/1263-hHy8tQG.gif"
+  },
+  {
+    "id": "1264",
+    "name": "cable one arm incline fly on exercise ball",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "cable",
+    "target": "pectorals",
+    "image": "images/1264-P14Dz9D.jpg",
+    "gif_url": "videos/1264-P14Dz9D.gif"
+  },
+  {
+    "id": "1265",
+    "name": "cable one arm incline press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "cable",
+    "target": "pectorals",
+    "image": "images/1265-GKEH6jj.jpg",
+    "gif_url": "videos/1265-GKEH6jj.gif"
+  },
+  {
+    "id": "1266",
+    "name": "cable one arm incline press on exercise ball",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "cable",
+    "target": "pectorals",
+    "image": "images/1266-6t00BsF.jpg",
+    "gif_url": "videos/1266-6t00BsF.gif"
+  },
+  {
+    "id": "0191",
+    "name": "cable one arm lateral bent-over",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "cable",
+    "target": "pectorals",
+    "image": "images/0191-dB07vDu.jpg",
+    "gif_url": "videos/0191-dB07vDu.gif"
+  },
+  {
+    "id": "1267",
+    "name": "cable one arm press on exercise ball",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "cable",
+    "target": "pectorals",
+    "image": "images/1267-MKIelrR.jpg",
+    "gif_url": "videos/1267-MKIelrR.gif"
+  },
+  {
+    "id": "1268",
+    "name": "cable press on exercise ball",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "cable",
+    "target": "pectorals",
+    "image": "images/1268-vAwm6rK.jpg",
+    "gif_url": "videos/1268-vAwm6rK.gif"
+  },
+  {
+    "id": "2144",
+    "name": "cable seated chest press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "cable",
+    "target": "pectorals",
+    "image": "images/2144-nIR4Rwl.jpg",
+    "gif_url": "videos/2144-nIR4Rwl.gif"
+  },
+  {
+    "id": "0227",
+    "name": "cable standing fly",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "cable",
+    "target": "pectorals",
+    "image": "images/0227-Pr9Rhf4.jpg",
+    "gif_url": "videos/0227-Pr9Rhf4.gif"
+  },
+  {
+    "id": "1269",
+    "name": "cable standing up straight crossovers",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "cable",
+    "target": "pectorals",
+    "image": "images/1269-UKWTJWR.jpg",
+    "gif_url": "videos/1269-UKWTJWR.gif"
+  },
+  {
+    "id": "1270",
+    "name": "cable upper chest crossovers",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "cable",
+    "target": "pectorals",
+    "image": "images/1270-j7XMAyn.jpg",
+    "gif_url": "videos/1270-j7XMAyn.gif"
+  },
+  {
+    "id": "1271",
+    "name": "chest and front of shoulder stretch",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "pectorals",
+    "image": "images/1271-Uto7l43.jpg",
+    "gif_url": "videos/1271-Uto7l43.gif"
+  },
+  {
+    "id": "0251",
+    "name": "chest dip",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "pectorals",
+    "image": "images/0251-9WTm7dq.jpg",
+    "gif_url": "videos/0251-9WTm7dq.gif"
+  },
+  {
+    "id": "1430",
+    "name": "chest dip (on dip-pull-up cage)",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "pectorals",
+    "image": "images/1430-XgWyAiA.jpg",
+    "gif_url": "videos/1430-XgWyAiA.gif"
+  },
+  {
+    "id": "2462",
+    "name": "chest dip on straight bar",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "pectorals",
+    "image": "images/2462-LQFOrMn.jpg",
+    "gif_url": "videos/2462-LQFOrMn.gif"
+  },
+  {
+    "id": "1272",
+    "name": "chest stretch with exercise ball",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "stability ball",
+    "target": "pectorals",
+    "image": "images/1272-ykA5tU7.jpg",
+    "gif_url": "videos/1272-ykA5tU7.gif"
+  },
+  {
+    "id": "3216",
+    "name": "chest tap push-up (male)",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "pectorals",
+    "image": "images/3216-7E06s6d.jpg",
+    "gif_url": "videos/3216-7E06s6d.gif"
+  },
+  {
+    "id": "1273",
+    "name": "clap push up",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "pectorals",
+    "image": "images/1273-wigSg76.jpg",
+    "gif_url": "videos/1273-wigSg76.gif"
+  },
+  {
+    "id": "0258",
+    "name": "clock push-up",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "pectorals",
+    "image": "images/0258-CMAxnsG.jpg",
+    "gif_url": "videos/0258-CMAxnsG.gif"
+  },
+  {
+    "id": "0279",
+    "name": "decline push-up",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "pectorals",
+    "image": "images/0279-i5cEhka.jpg",
+    "gif_url": "videos/0279-i5cEhka.gif"
+  },
+  {
+    "id": "1274",
+    "name": "deep push up",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/1274-vptOQ4N.jpg",
+    "gif_url": "videos/1274-vptOQ4N.gif"
+  },
+  {
+    "id": "1275",
+    "name": "drop push up",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "pectorals",
+    "image": "images/1275-Q497lAE.jpg",
+    "gif_url": "videos/1275-Q497lAE.gif"
+  },
+  {
+    "id": "0288",
+    "name": "dumbbell around pullover",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/0288-vi8EhoE.jpg",
+    "gif_url": "videos/0288-vi8EhoE.gif"
+  },
+  {
+    "id": "0289",
+    "name": "dumbbell bench press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/0289-SpYC0Kp.jpg",
+    "gif_url": "videos/0289-SpYC0Kp.gif"
+  },
+  {
+    "id": "0301",
+    "name": "dumbbell decline bench press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/0301-DwhEmmE.jpg",
+    "gif_url": "videos/0301-DwhEmmE.gif"
+  },
+  {
+    "id": "0302",
+    "name": "dumbbell decline fly",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/0302-xXm4nYq.jpg",
+    "gif_url": "videos/0302-xXm4nYq.gif"
+  },
+  {
+    "id": "0303",
+    "name": "dumbbell decline hammer press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/0303-1qrWgZ2.jpg",
+    "gif_url": "videos/0303-1qrWgZ2.gif"
+  },
+  {
+    "id": "1276",
+    "name": "dumbbell decline one arm fly",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/1276-NL6YBwN.jpg",
+    "gif_url": "videos/1276-NL6YBwN.gif"
+  },
+  {
+    "id": "0307",
+    "name": "dumbbell decline twist fly",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/0307-reFHapa.jpg",
+    "gif_url": "videos/0307-reFHapa.gif"
+  },
+  {
+    "id": "0308",
+    "name": "dumbbell fly",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/0308-yz9nUhF.jpg",
+    "gif_url": "videos/0308-yz9nUhF.gif"
+  },
+  {
+    "id": "1277",
+    "name": "dumbbell fly on exercise ball",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/1277-Lt3iWnf.jpg",
+    "gif_url": "videos/1277-Lt3iWnf.gif"
+  },
+  {
+    "id": "3545",
+    "name": "dumbbell incline alternate press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/3545-TVdivgY.jpg",
+    "gif_url": "videos/3545-TVdivgY.gif"
+  },
+  {
+    "id": "0314",
+    "name": "dumbbell incline bench press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/0314-ns0SIbU.jpg",
+    "gif_url": "videos/0314-ns0SIbU.gif"
+  },
+  {
+    "id": "0316",
+    "name": "dumbbell incline breeding",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/0316-B3Rxp6L.jpg",
+    "gif_url": "videos/0316-B3Rxp6L.gif"
+  },
+  {
+    "id": "0319",
+    "name": "dumbbell incline fly",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/0319-ESOd5Pl.jpg",
+    "gif_url": "videos/0319-ESOd5Pl.gif"
+  },
+  {
+    "id": "1278",
+    "name": "dumbbell incline fly on exercise ball",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/1278-HYe1ZqR.jpg",
+    "gif_url": "videos/1278-HYe1ZqR.gif"
+  },
+  {
+    "id": "0321",
+    "name": "dumbbell incline hammer press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/0321-PG1kcIb.jpg",
+    "gif_url": "videos/0321-PG1kcIb.gif"
+  },
+  {
+    "id": "1279",
+    "name": "dumbbell incline one arm fly",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/1279-Gw2HFvW.jpg",
+    "gif_url": "videos/1279-Gw2HFvW.gif"
+  },
+  {
+    "id": "1280",
+    "name": "dumbbell incline one arm fly on exercise ball",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/1280-LLNh6q5.jpg",
+    "gif_url": "videos/1280-LLNh6q5.gif"
+  },
+  {
+    "id": "1281",
+    "name": "dumbbell incline one arm press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/1281-rDAiRf9.jpg",
+    "gif_url": "videos/1281-rDAiRf9.gif"
+  },
+  {
+    "id": "1282",
+    "name": "dumbbell incline one arm press on exercise ball",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/1282-Bg5JKSH.jpg",
+    "gif_url": "videos/1282-Bg5JKSH.gif"
+  },
+  {
+    "id": "0324",
+    "name": "dumbbell incline palm-in press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/0324-OVLmUuL.jpg",
+    "gif_url": "videos/0324-OVLmUuL.gif"
+  },
+  {
+    "id": "1283",
+    "name": "dumbbell incline press on exercise ball",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/1283-bfiHMpI.jpg",
+    "gif_url": "videos/1283-bfiHMpI.gif"
+  },
+  {
+    "id": "0328",
+    "name": "dumbbell incline shoulder raise",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "serratus anterior",
+    "image": "images/0328-6e2DcYX.jpg",
+    "gif_url": "videos/0328-6e2DcYX.gif"
+  },
+  {
+    "id": "0331",
+    "name": "dumbbell incline twisted flyes",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/0331-1PLE8e9.jpg",
+    "gif_url": "videos/0331-1PLE8e9.gif"
+  },
+  {
+    "id": "0340",
+    "name": "dumbbell lying hammer press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/0340-7gdLIXa.jpg",
+    "gif_url": "videos/0340-7gdLIXa.gif"
+  },
+  {
+    "id": "0343",
+    "name": "dumbbell lying one arm press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/0343-zGSIWQi.jpg",
+    "gif_url": "videos/0343-zGSIWQi.gif"
+  },
+  {
+    "id": "0342",
+    "name": "dumbbell lying one arm press v. 2",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/0342-K3dIO25.jpg",
+    "gif_url": "videos/0342-K3dIO25.gif"
+  },
+  {
+    "id": "1284",
+    "name": "dumbbell lying pullover on exercise ball",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/1284-iK59oEA.jpg",
+    "gif_url": "videos/1284-iK59oEA.gif"
+  },
+  {
+    "id": "1285",
+    "name": "dumbbell one arm bench fly",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/1285-o5Jsk92.jpg",
+    "gif_url": "videos/1285-o5Jsk92.gif"
+  },
+  {
+    "id": "1286",
+    "name": "dumbbell one arm chest fly on exercise ball",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/1286-Bpkf41o.jpg",
+    "gif_url": "videos/1286-Bpkf41o.gif"
+  },
+  {
+    "id": "1287",
+    "name": "dumbbell one arm decline chest press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/1287-REGM1dE.jpg",
+    "gif_url": "videos/1287-REGM1dE.gif"
+  },
+  {
+    "id": "1288",
+    "name": "dumbbell one arm fly on exercise ball",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/1288-Am02iPd.jpg",
+    "gif_url": "videos/1288-Am02iPd.gif"
+  },
+  {
+    "id": "1289",
+    "name": "dumbbell one arm incline chest press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/1289-PDaMuyV.jpg",
+    "gif_url": "videos/1289-PDaMuyV.gif"
+  },
+  {
+    "id": "1290",
+    "name": "dumbbell one arm press on exercise ball",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/1290-QZFv5ui.jpg",
+    "gif_url": "videos/1290-QZFv5ui.gif"
+  },
+  {
+    "id": "1291",
+    "name": "dumbbell one arm pullover on exercise ball",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/1291-bQHPBU3.jpg",
+    "gif_url": "videos/1291-bQHPBU3.gif"
+  },
+  {
+    "id": "1622",
+    "name": "dumbbell one arm reverse grip press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/1622-Ze7MoIb.jpg",
+    "gif_url": "videos/1622-Ze7MoIb.gif"
+  },
+  {
+    "id": "1292",
+    "name": "dumbbell one leg fly on exercise ball",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/1292-pH2x2jj.jpg",
+    "gif_url": "videos/1292-pH2x2jj.gif"
+  },
+  {
+    "id": "1293",
+    "name": "dumbbell press on exercise ball",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/1293-O8o7q4d.jpg",
+    "gif_url": "videos/1293-O8o7q4d.gif"
+  },
+  {
+    "id": "0375",
+    "name": "dumbbell pullover",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/0375-9XjtHvS.jpg",
+    "gif_url": "videos/0375-9XjtHvS.gif"
+  },
+  {
+    "id": "1294",
+    "name": "dumbbell pullover hip extension on exercise ball",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/1294-lI7easp.jpg",
+    "gif_url": "videos/1294-lI7easp.gif"
+  },
+  {
+    "id": "1295",
+    "name": "dumbbell pullover on exercise ball",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/1295-FSD6PGL.jpg",
+    "gif_url": "videos/1295-FSD6PGL.gif"
+  },
+  {
+    "id": "1624",
+    "name": "dumbbell reverse bench press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/1624-UIbGx6H.jpg",
+    "gif_url": "videos/1624-UIbGx6H.gif"
+  },
+  {
+    "id": "0433",
+    "name": "dumbbell straight arm pullover",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/0433-i8BdLTK.jpg",
+    "gif_url": "videos/0433-i8BdLTK.gif"
+  },
+  {
+    "id": "1167",
+    "name": "dynamic chest stretch (male)",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "pectorals",
+    "image": "images/1167-3uj0Ozg.jpg",
+    "gif_url": "videos/1167-3uj0Ozg.gif"
+  },
+  {
+    "id": "1296",
+    "name": "exercise ball pike push up",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "stability ball",
+    "target": "pectorals",
+    "image": "images/1296-sVvXT5J.jpg",
+    "gif_url": "videos/1296-sVvXT5J.gif"
+  },
+  {
+    "id": "0458",
+    "name": "floor fly (with barbell)",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "barbell",
+    "target": "pectorals",
+    "image": "images/0458-neonEDL.jpg",
+    "gif_url": "videos/0458-neonEDL.gif"
+  },
+  {
+    "id": "3327",
+    "name": "full planche push-up",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "pectorals",
+    "image": "images/3327-gw9PqGk.jpg",
+    "gif_url": "videos/3327-gw9PqGk.gif"
+  },
+  {
+    "id": "2139",
+    "name": "hands bike",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "upper body ergometer",
+    "target": "pectorals",
+    "image": "images/2139-pAIWRGu.jpg",
+    "gif_url": "videos/2139-pAIWRGu.gif"
+  },
+  {
+    "id": "3234",
+    "name": "hyght dumbbell fly",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "dumbbell",
+    "target": "pectorals",
+    "image": "images/3234-P9ZRyLT.jpg",
+    "gif_url": "videos/3234-P9ZRyLT.gif"
+  },
+  {
+    "id": "0492",
+    "name": "incline push up depth jump",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "pectorals",
+    "image": "images/0492-CB8WET1.jpg",
+    "gif_url": "videos/0492-CB8WET1.gif"
+  },
+  {
+    "id": "0493",
+    "name": "incline push-up",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "pectorals",
+    "image": "images/0493-B1EVP9F.jpg",
+    "gif_url": "videos/0493-B1EVP9F.gif"
+  },
+  {
+    "id": "3785",
+    "name": "incline push-up (on box)",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "pectorals",
+    "image": "images/3785-F7vjXqT.jpg",
+    "gif_url": "videos/3785-F7vjXqT.gif"
+  },
+  {
+    "id": "0494",
+    "name": "incline reverse grip push-up",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "pectorals",
+    "image": "images/0494-XaaRnRn.jpg",
+    "gif_url": "videos/0494-XaaRnRn.gif"
+  },
+  {
+    "id": "3011",
+    "name": "incline scapula push up",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "serratus anterior",
+    "image": "images/3011-GdMa1ET.jpg",
+    "gif_url": "videos/3011-GdMa1ET.gif"
+  },
+  {
+    "id": "1297",
+    "name": "isometric chest squeeze",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "pectorals",
+    "image": "images/1297-HbSG1Pw.jpg",
+    "gif_url": "videos/1297-HbSG1Pw.gif"
+  },
+  {
+    "id": "0500",
+    "name": "isometric wipers",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "pectorals",
+    "image": "images/0500-11wrviz.jpg",
+    "gif_url": "videos/0500-11wrviz.gif"
+  },
+  {
+    "id": "0519",
+    "name": "kettlebell alternating press on floor",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "kettlebell",
+    "target": "pectorals",
+    "image": "images/0519-7w6i0vE.jpg",
+    "gif_url": "videos/0519-7w6i0vE.gif"
+  },
+  {
+    "id": "0531",
+    "name": "kettlebell extended range one arm press on floor",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "kettlebell",
+    "target": "pectorals",
+    "image": "images/0531-rseLfH3.jpg",
+    "gif_url": "videos/0531-rseLfH3.gif"
+  },
+  {
+    "id": "1298",
+    "name": "kettlebell one arm floor press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "kettlebell",
+    "target": "pectorals",
+    "image": "images/1298-rg59QCH.jpg",
+    "gif_url": "videos/1298-rg59QCH.gif"
+  },
+  {
+    "id": "0545",
+    "name": "kettlebell plyo push-up",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "kettlebell",
+    "target": "pectorals",
+    "image": "images/0545-ktf3nvW.jpg",
+    "gif_url": "videos/0545-ktf3nvW.gif"
+  },
+  {
+    "id": "3211",
+    "name": "kneeling push-up (male)",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "pectorals",
+    "image": "images/3211-ZOuKWir.jpg",
+    "gif_url": "videos/3211-ZOuKWir.gif"
+  },
+  {
+    "id": "3288",
+    "name": "korean dips",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "pectorals",
+    "image": "images/3288-rWoBmi5.jpg",
+    "gif_url": "videos/3288-rWoBmi5.gif"
+  },
+  {
+    "id": "0577",
+    "name": "lever chest press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "leverage machine",
+    "target": "pectorals",
+    "image": "images/0577-T0yTjgW.jpg",
+    "gif_url": "videos/0577-T0yTjgW.gif"
+  },
+  {
+    "id": "0576",
+    "name": "lever chest press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "leverage machine",
+    "target": "pectorals",
+    "image": "images/0576-DOoWcnA.jpg",
+    "gif_url": "videos/0576-DOoWcnA.gif"
+  },
+  {
+    "id": "1300",
+    "name": "lever decline chest press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "leverage machine",
+    "target": "pectorals",
+    "image": "images/1300-vsVoPHt.jpg",
+    "gif_url": "videos/1300-vsVoPHt.gif"
+  },
+  {
+    "id": "1299",
+    "name": "lever incline chest press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "leverage machine",
+    "target": "pectorals",
+    "image": "images/1299-jHAnWmT.jpg",
+    "gif_url": "videos/1299-jHAnWmT.gif"
+  },
+  {
+    "id": "1479",
+    "name": "lever incline chest press v. 2",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "leverage machine",
+    "target": "pectorals",
+    "image": "images/1479-o17Jfkt.jpg",
+    "gif_url": "videos/1479-o17Jfkt.gif"
+  },
+  {
+    "id": "0596",
+    "name": "lever seated fly",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "leverage machine",
+    "target": "pectorals",
+    "image": "images/0596-v3xmPAR.jpg",
+    "gif_url": "videos/0596-v3xmPAR.gif"
+  },
+  {
+    "id": "3758",
+    "name": "lever standing chest press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "leverage machine",
+    "target": "pectorals",
+    "image": "images/3758-WbNq5Xu.jpg",
+    "gif_url": "videos/3758-WbNq5Xu.gif"
+  },
+  {
+    "id": "1301",
+    "name": "machine inner chest press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "leverage machine",
+    "target": "pectorals",
+    "image": "images/1301-wDN97Ca.jpg",
+    "gif_url": "videos/1301-wDN97Ca.gif"
+  },
+  {
+    "id": "1302",
+    "name": "medicine ball chest pass",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "medicine ball",
+    "target": "pectorals",
+    "image": "images/1302-aDoFKrE.jpg",
+    "gif_url": "videos/1302-aDoFKrE.gif"
+  },
+  {
+    "id": "1303",
+    "name": "medicine ball chest push from 3 point stance",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "medicine ball",
+    "target": "pectorals",
+    "image": "images/1303-dCJnuVq.jpg",
+    "gif_url": "videos/1303-dCJnuVq.gif"
+  },
+  {
+    "id": "1304",
+    "name": "medicine ball chest push multiple response",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "medicine ball",
+    "target": "pectorals",
+    "image": "images/1304-7aolH9D.jpg",
+    "gif_url": "videos/1304-7aolH9D.gif"
+  },
+  {
+    "id": "1305",
+    "name": "medicine ball chest push single response",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "medicine ball",
+    "target": "pectorals",
+    "image": "images/1305-jeHtrlO.jpg",
+    "gif_url": "videos/1305-jeHtrlO.gif"
+  },
+  {
+    "id": "1312",
+    "name": "medicine ball chest push with run release",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "medicine ball",
+    "target": "pectorals",
+    "image": "images/1312-pX9Elbe.jpg",
+    "gif_url": "videos/1312-pX9Elbe.gif"
+  },
+  {
+    "id": "3217",
+    "name": "modified hindu push-up (male)",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "pectorals",
+    "image": "images/3217-epOSYUZ.jpg",
+    "gif_url": "videos/3217-epOSYUZ.gif"
+  },
+  {
+    "id": "1306",
+    "name": "plyo push up",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "pectorals",
+    "image": "images/1306-Snj1wSv.jpg",
+    "gif_url": "videos/1306-Snj1wSv.gif"
+  },
+  {
+    "id": "1689",
+    "name": "push and pull bodyweight",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "pectorals",
+    "image": "images/1689-wXvUZC8.jpg",
+    "gif_url": "videos/1689-wXvUZC8.gif"
+  },
+  {
+    "id": "1307",
+    "name": "push up on bosu ball",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "bosu ball",
+    "target": "pectorals",
+    "image": "images/1307-wVompEp.jpg",
+    "gif_url": "videos/1307-wVompEp.gif"
+  },
+  {
+    "id": "0662",
+    "name": "push-up",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "pectorals",
+    "image": "images/0662-I4hDWkc.jpg",
+    "gif_url": "videos/0662-I4hDWkc.gif"
+  },
+  {
+    "id": "0653",
+    "name": "push-up (bosu ball)",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "bosu ball",
+    "target": "pectorals",
+    "image": "images/0653-2kr2lWy.jpg",
+    "gif_url": "videos/0653-2kr2lWy.gif"
+  },
+  {
+    "id": "0655",
+    "name": "push-up (on stability ball)",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "stability ball",
+    "target": "pectorals",
+    "image": "images/0655-Y4BRNQF.jpg",
+    "gif_url": "videos/0655-Y4BRNQF.gif"
+  },
+  {
+    "id": "0656",
+    "name": "push-up (on stability ball)",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "stability ball",
+    "target": "pectorals",
+    "image": "images/0656-tgryw5Y.jpg",
+    "gif_url": "videos/0656-tgryw5Y.gif"
+  },
+  {
+    "id": "0659",
+    "name": "push-up (wall)",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "pectorals",
+    "image": "images/0659-LEH9jxP.jpg",
+    "gif_url": "videos/0659-LEH9jxP.gif"
+  },
+  {
+    "id": "0658",
+    "name": "push-up (wall) v. 2",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "pectorals",
+    "image": "images/0658-NCmbLCw.jpg",
+    "gif_url": "videos/0658-NCmbLCw.gif"
+  },
+  {
+    "id": "0663",
+    "name": "push-up medicine ball",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "medicine ball",
+    "target": "pectorals",
+    "image": "images/0663-W8KAlkI.jpg",
+    "gif_url": "videos/0663-W8KAlkI.gif"
+  },
+  {
+    "id": "3145",
+    "name": "push-up plus",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "pectorals",
+    "image": "images/3145-pvBMLHA.jpg",
+    "gif_url": "videos/3145-pvBMLHA.gif"
+  },
+  {
+    "id": "0666",
+    "name": "raise single arm push-up",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "pectorals",
+    "image": "images/0666-13TpY4H.jpg",
+    "gif_url": "videos/0666-13TpY4H.gif"
+  },
+  {
+    "id": "3124",
+    "name": "resistance band seated chest press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "resistance band",
+    "target": "pectorals",
+    "image": "images/3124-4x5Okof.jpg",
+    "gif_url": "videos/3124-4x5Okof.gif"
+  },
+  {
+    "id": "2203",
+    "name": "roller seated shoulder flexor depresor retractor",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "roller",
+    "target": "pectorals",
+    "image": "images/2203-8coXSYU.jpg",
+    "gif_url": "videos/2203-8coXSYU.gif"
+  },
+  {
+    "id": "2209",
+    "name": "roller seated single leg shoulder flexor depresor retractor",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "roller",
+    "target": "pectorals",
+    "image": "images/2209-CjETvlw.jpg",
+    "gif_url": "videos/2209-CjETvlw.gif"
+  },
+  {
+    "id": "3021",
+    "name": "scapula push-up",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "serratus anterior",
+    "image": "images/3021-jV65tKx.jpg",
+    "gif_url": "videos/3021-jV65tKx.gif"
+  },
+  {
+    "id": "0699",
+    "name": "shoulder tap push-up",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "pectorals",
+    "image": "images/0699-qEse6fe.jpg",
+    "gif_url": "videos/0699-qEse6fe.gif"
+  },
+  {
+    "id": "0725",
+    "name": "single arm push-up",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "pectorals",
+    "image": "images/0725-MUic5zN.jpg",
+    "gif_url": "videos/0725-MUic5zN.gif"
+  },
+  {
+    "id": "0748",
+    "name": "smith bench press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "smith machine",
+    "target": "pectorals",
+    "image": "images/0748-trqKQv2.jpg",
+    "gif_url": "videos/0748-trqKQv2.gif"
+  },
+  {
+    "id": "0753",
+    "name": "smith decline bench press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "smith machine",
+    "target": "pectorals",
+    "image": "images/0753-ETZfAbZ.jpg",
+    "gif_url": "videos/0753-ETZfAbZ.gif"
+  },
+  {
+    "id": "0754",
+    "name": "smith decline reverse-grip press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "smith machine",
+    "target": "pectorals",
+    "image": "images/0754-MY9P1WA.jpg",
+    "gif_url": "videos/0754-MY9P1WA.gif"
+  },
+  {
+    "id": "0757",
+    "name": "smith incline bench press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "smith machine",
+    "target": "pectorals",
+    "image": "images/0757-5v7KYld.jpg",
+    "gif_url": "videos/0757-5v7KYld.gif"
+  },
+  {
+    "id": "0758",
+    "name": "smith incline reverse-grip press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "smith machine",
+    "target": "pectorals",
+    "image": "images/0758-78VqWQK.jpg",
+    "gif_url": "videos/0758-78VqWQK.gif"
+  },
+  {
+    "id": "0759",
+    "name": "smith incline shoulder raises",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "smith machine",
+    "target": "serratus anterior",
+    "image": "images/0759-ayAHcEm.jpg",
+    "gif_url": "videos/0759-ayAHcEm.gif"
+  },
+  {
+    "id": "1626",
+    "name": "smith machine reverse decline close grip bench press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "smith machine",
+    "target": "pectorals",
+    "image": "images/1626-QyO6Uma.jpg",
+    "gif_url": "videos/1626-QyO6Uma.gif"
+  },
+  {
+    "id": "0764",
+    "name": "smith reverse-grip press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "smith machine",
+    "target": "pectorals",
+    "image": "images/0764-zK8Fu1W.jpg",
+    "gif_url": "videos/0764-zK8Fu1W.gif"
+  },
+  {
+    "id": "1308",
+    "name": "smith wide grip bench press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "smith machine",
+    "target": "pectorals",
+    "image": "images/1308-zoOvPcx.jpg",
+    "gif_url": "videos/1308-zoOvPcx.gif"
+  },
+  {
+    "id": "1309",
+    "name": "smith wide grip decline bench press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "smith machine",
+    "target": "pectorals",
+    "image": "images/1309-wi2H9QX.jpg",
+    "gif_url": "videos/1309-wi2H9QX.gif"
+  },
+  {
+    "id": "0803",
+    "name": "superman push-up",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "pectorals",
+    "image": "images/0803-4GqRrAk.jpg",
+    "gif_url": "videos/0803-4GqRrAk.gif"
+  },
+  {
+    "id": "0806",
+    "name": "suspended push-up",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "pectorals",
+    "image": "images/0806-IaGQCrC.jpg",
+    "gif_url": "videos/0806-IaGQCrC.gif"
+  },
+  {
+    "id": "1310",
+    "name": "weighted drop push up",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "weighted",
+    "target": "pectorals",
+    "image": "images/1310-PSlvNMs.jpg",
+    "gif_url": "videos/1310-PSlvNMs.gif"
+  },
+  {
+    "id": "3313",
+    "name": "weighted straight bar dip",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "weighted",
+    "target": "pectorals",
+    "image": "images/3313-Ff18ItA.jpg",
+    "gif_url": "videos/3313-Ff18ItA.gif"
+  },
+  {
+    "id": "0856",
+    "name": "weighted svend press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "weighted",
+    "target": "pectorals",
+    "image": "images/0856-I1OBLnn.jpg",
+    "gif_url": "videos/0856-I1OBLnn.gif"
+  },
+  {
+    "id": "1311",
+    "name": "wide hand push up",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "pectorals",
+    "image": "images/1311-JmMVpR3.jpg",
+    "gif_url": "videos/1311-JmMVpR3.gif"
+  },
+  {
+    "id": "2363",
+    "name": "wide-grip chest dip on high parallel bars",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "body weight",
+    "target": "pectorals",
+    "image": "images/2363-O2K9Vb5.jpg",
+    "gif_url": "videos/2363-O2K9Vb5.gif"
+  }
+]

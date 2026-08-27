@@ -1,0 +1,102 @@
+{
+  "id": "0037",
+  "name": "barbell decline wide-grip pullover",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Lie on a decline bench with your head lower than your hips and your feet secured. Hold a barbell with a wide grip and extend your arms straight above your chest. Lower the barbell behind your head in a controlled manner, keeping your arms straight. Pause for a moment, then raise the barbell back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Sdraiati su una panca declinata con la testa più in basso rispetto ai fianchi e i piedi fissati. Tieni un bilanciere con una presa ampia ed estendi le braccia direttamente sopra il petto. Abbassa il bilanciere dietro la testa in modo controllato, mantenendo le braccia tese. Fare una pausa per un momento, quindi riportare il bilanciere nella posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Başınız kalçalarınızdan aşağıda ve ayaklarınız sağlam olacak şekilde bir bench sehpasına uzanın. Geniş tutuşlu bir halter tutun ve kollarınızı göğsünüzün üzerine düz bir şekilde uzatın. Kollarınızı düz tutarak halteri başınızın arkasına kontrollü bir şekilde indirin. Bir süre duraklayın, ardından halteri tekrar başlangıç ​​pozisyonuna kaldırın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Túmbate en un banco declinado con la cabeza más baja que las caderas y los pies sujetos. Sujeta una barra con un agarre amplio y extiende los brazos rectos por encima del pecho. Baja la barra detrás de la cabeza de forma controlada, manteniendo los brazos rectos. Haz una pausa breve y luego levanta la barra de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Лягте на наклонную скамью, опустив голову ниже бедер и зафиксировав ступни. Возьмите штангу широким хватом и вытяните руки прямо над грудью. Контролируемо опустите штангу за голову, держа руки прямыми. Сделайте паузу на мгновение, затем поднимите штангу обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "躺在倾斜的长凳上，头部低于臀部，双脚固定。 宽握距握住杠铃，并将双臂伸直至胸部上方。 有控制地将杠铃降低到头后，保持手臂伸直。 暂停片刻，然后将杠铃举回起始位置。 重复所需的重复次数。",
+    "hi": "अपने सिर को अपने कूल्हों से नीचे और अपने पैरों को सुरक्षित रखते हुए एक डिक्लाइन बेंच पर लेटें। एक बारबेल को चौड़ी पकड़ से पकड़ें और अपनी बाहों को सीधे अपनी छाती के ऊपर फैलाएँ। अपनी भुजाओं को सीधा रखते हुए बारबेल को अपने सिर के पीछे नियंत्रित तरीके से नीचे लाएँ। एक पल के लिए रुकें, फिर बारबेल को वापस प्रारंभिक स्थिति में उठाएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Połóż się na ławce skośnej ujemnej, tak aby głowa znajdowała się niżej niż biodra, a stopy były zabezpieczone. Chwyć sztangę szerokim chwytem i wyprostuj ręce nad klatką piersiową. Opuszczaj sztangę za głowę w kontrolowany sposób, utrzymując ręce proste. Zatrzymaj się na chwilę, a następnie unieś sztangę z powrotem do pozycji wyjściowej. Powtórz odpowiednią liczbę razy.",
+    "ko": "머리가 허리보다 아래에 위치하도록 하강 벤치에 누우면서 발을 고정합니다. 넓은 그립으로 바벨을 잡고 팔을 가슴 위로 펼칩니다. 팔을 곧게 유지하면서 제어된 동작으로 바벨을 머리 뒤로 내립니다. 잠시 멈춘 후 바벨을 시작 위치로 올립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Allonge-toi sur un banc décliné, la tête plus basse que les hanches et les pieds bloqués. Tiens une barre avec une prise large et étends les bras droit au-dessus de ta poitrine. Abaisse la barre derrière ta tête de manière contrôlée, en gardant tes bras tendus. Marque une pause, puis ramène la barre à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Lie on a decline bench with your head lower than your hips and your feet secured.",
+      "Hold a barbell with a wide grip and extend your arms straight above your chest.",
+      "Lower the barbell behind your head in a controlled manner, keeping your arms straight.",
+      "Pause for a moment, then raise the barbell back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Sdraiati su una panca declinata con la testa più in basso rispetto ai fianchi e i piedi fissati.",
+      "Tieni un bilanciere con una presa ampia ed estendi le braccia direttamente sopra il petto.",
+      "Abbassa il bilanciere dietro la testa in modo controllato, mantenendo le braccia tese.",
+      "Fare una pausa per un momento, quindi riportare il bilanciere nella posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Başınız kalçalarınızdan aşağıda ve ayaklarınız sağlam olacak şekilde bir bench sehpasına uzanın.",
+      "Geniş tutuşlu bir halter tutun ve kollarınızı göğsünüzün üzerine düz bir şekilde uzatın.",
+      "Kollarınızı düz tutarak halteri başınızın arkasına kontrollü bir şekilde indirin.",
+      "Bir süre duraklayın, ardından halteri tekrar başlangıç ​​pozisyonuna kaldırın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Túmbate en un banco declinado con la cabeza más baja que las caderas y los pies sujetos.",
+      "Sujeta una barra con un agarre amplio y extiende los brazos rectos por encima del pecho.",
+      "Baja la barra detrás de la cabeza de forma controlada, manteniendo los brazos rectos.",
+      "Haz una pausa breve y luego levanta la barra de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Лягте на наклонную скамью, опустив голову ниже бедер и зафиксировав ступни.",
+      "Возьмите штангу широким хватом и вытяните руки прямо над грудью.",
+      "Контролируемо опустите штангу за голову, держа руки прямыми.",
+      "Сделайте паузу на мгновение, затем поднимите штангу обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "躺在倾斜的长凳上，头部低于臀部，双脚固定。",
+      "宽握距握住杠铃，并将双臂伸直至胸部上方。",
+      "有控制地将杠铃降低到头后，保持手臂伸直。",
+      "暂停片刻，然后将杠铃举回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने सिर को अपने कूल्हों से नीचे और अपने पैरों को सुरक्षित रखते हुए एक डिक्लाइन बेंच पर लेटें।",
+      "एक बारबेल को चौड़ी पकड़ से पकड़ें और अपनी बाहों को सीधे अपनी छाती के ऊपर फैलाएँ।",
+      "अपनी भुजाओं को सीधा रखते हुए बारबेल को अपने सिर के पीछे नियंत्रित तरीके से नीचे लाएँ।",
+      "एक पल के लिए रुकें, फिर बारबेल को वापस प्रारंभिक स्थिति में उठाएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Połóż się na ławce skośnej ujemnej, tak aby głowa znajdowała się niżej niż biodra, a stopy były zabezpieczone.",
+      "Chwyć sztangę szerokim chwytem i wyprostuj ręce nad klatką piersiową.",
+      "Opuszczaj sztangę za głowę w kontrolowany sposób, utrzymując ręce proste.",
+      "Zatrzymaj się na chwilę, a następnie unieś sztangę z powrotem do pozycji wyjściowej.",
+      "Powtórz odpowiednią liczbę razy."
+    ],
+    "ko": [
+      "머리가 허리보다 아래에 위치하도록 하강 벤치에 누우면서 발을 고정합니다.",
+      "넓은 그립으로 바벨을 잡고 팔을 가슴 위로 펼칩니다.",
+      "팔을 곧게 유지하면서 제어된 동작으로 바벨을 머리 뒤로 내립니다.",
+      "잠시 멈춘 후 바벨을 시작 위치로 올립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Allonge-toi sur un banc décliné, la tête plus basse que les hanches et les pieds bloqués.",
+      "Tiens une barre avec une prise large et étends les bras droit au-dessus de ta poitrine.",
+      "Abaisse la barre derrière ta tête de manière contrôlée, en gardant tes bras tendus.",
+      "Marque une pause, puis ramène la barre à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "chest"
+  ],
+  "target": "lats",
+  "image": "images/0037-Hj4FOCd.jpg",
+  "gif_url": "videos/0037-Hj4FOCd.gif",
+  "media_id": "Hj4FOCd",
+  "created_at": "2026-03-18T12:31:32.871421+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

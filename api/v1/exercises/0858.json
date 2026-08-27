@@ -1,0 +1,103 @@
+{
+  "id": "0858",
+  "name": "wind sprints",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Find an open space or a track to perform the exercise. Start by standing with your feet shoulder-width apart. Begin running as fast as you can, pumping your arms and driving your knees up. Continue sprinting for a specific distance or time period. Rest and repeat for the desired number of repetitions.",
+    "it": "Trova uno spazio aperto o una pista per eseguire l'esercizio. Inizia stando in piedi con i piedi alla larghezza delle spalle. Inizia a correre il più velocemente possibile, pompando le braccia e sollevando le ginocchia. Continua a correre per una distanza o un periodo di tempo specifico. Riposa e ripeti per il numero di ripetizioni desiderato.",
+    "tr": "Egzersizi gerçekleştirmek için açık bir alan veya parkur bulun. Ayaklarınızı omuz genişliğinde açarak ayakta durmaya başlayın. Olabildiğince hızlı koşmaya başlayın, kollarınızı pompalayın ve dizlerinizi yukarı kaldırın. Belirli bir mesafe veya süre boyunca sprint yapmaya devam edin. İstenilen sayıda tekrar için dinlenin ve tekrarlayın.",
+    "es": "Busca un espacio abierto o una pista para realizar el ejercicio. Comienza de pie con los pies separados a la altura de los hombros. Comienza a correr lo más rápido que puedas, bombeando los brazos y elevando las rodillas. Continúa el sprint durante una distancia o periodo de tiempo específico. Descansa y repite el número de repeticiones deseado.",
+    "ru": "Найдите открытое пространство или дорожку для выполнения упражнения. Начните с того, что встаньте, поставив ноги на ширине плеч. Начните бежать как можно быстрее, размахивая руками и поднимая колени. Продолжайте бежать на определенную дистанцию ​​или в течение определенного периода времени. Отдохните и повторите необходимое количество повторений.",
+    "zh": "找一个空地或跑道来进行练习。 首先站立，双脚分开与肩同宽。 开始尽可能快地跑步，挥动手臂并抬起膝盖。 继续冲刺特定的距离或时间。 休息并重复所需的重复次数。",
+    "hi": "व्यायाम करने के लिए एक खुली जगह या ट्रैक ढूंढें। अपने पैरों को कंधे की चौड़ाई से अलग करके खड़े होकर शुरुआत करें। जितना हो सके उतनी तेजी से दौड़ना शुरू करें, अपनी बाहों को पंप करें और अपने घुटनों को ऊपर उठाएं। एक विशिष्ट दूरी या समय अवधि तक दौड़ना जारी रखें। आराम करें और दोहराव की वांछित संख्या के लिए दोहराएं।",
+    "pl": "Znajdź otwartą przestrzeń lub bieżnię, aby wykonać ćwiczenie. Zacznij, stojąc ze stopami rozstawionymi na szerokość barków. Zacznij biec tak szybko, jak potrafisz, pompując ramionami i unosząc kolana. Kontynuuj sprint przez określony dystans lub czas. Odpocznij i powtórz zgodnie z żądaną liczbą powtórzeń.",
+    "ko": "운동을 수행할 열린 공간이나 트랙을 찾습니다. 발을 어깨 너비만큼 떨어뜨리고 서 있는 상태로 시작합니다. 팔을 펌프질하고 무릎을 높이 올리면서 최대한 빠르게 달립니다. 특정 거리나 시간 동안 스프린트를 계속합니다. 휴식을 취하고 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Trouve un espace dégagé ou une piste pour effectuer l'exercice. Commence debout, les pieds écartés à la largeur des épaules. Commence à courir aussi vite que possible en pompant avec tes bras et en montant tes genoux. Continue à sprinter pendant une distance ou une durée précise. Repose-toi et répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Find an open space or a track to perform the exercise.",
+      "Start by standing with your feet shoulder-width apart.",
+      "Begin running as fast as you can, pumping your arms and driving your knees up.",
+      "Continue sprinting for a specific distance or time period.",
+      "Rest and repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Trova uno spazio aperto o una pista per eseguire l'esercizio.",
+      "Inizia stando in piedi con i piedi alla larghezza delle spalle.",
+      "Inizia a correre il più velocemente possibile, pompando le braccia e sollevando le ginocchia.",
+      "Continua a correre per una distanza o un periodo di tempo specifico.",
+      "Riposa e ripeti per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Egzersizi gerçekleştirmek için açık bir alan veya parkur bulun.",
+      "Ayaklarınızı omuz genişliğinde açarak ayakta durmaya başlayın.",
+      "Olabildiğince hızlı koşmaya başlayın, kollarınızı pompalayın ve dizlerinizi yukarı kaldırın.",
+      "Belirli bir mesafe veya süre boyunca sprint yapmaya devam edin.",
+      "İstenilen sayıda tekrar için dinlenin ve tekrarlayın."
+    ],
+    "es": [
+      "Busca un espacio abierto o una pista para realizar el ejercicio.",
+      "Comienza de pie con los pies separados a la altura de los hombros.",
+      "Comienza a correr lo más rápido que puedas, bombeando los brazos y elevando las rodillas.",
+      "Continúa el sprint durante una distancia o periodo de tiempo específico.",
+      "Descansa y repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Найдите открытое пространство или дорожку для выполнения упражнения.",
+      "Начните с того, что встаньте, поставив ноги на ширине плеч.",
+      "Начните бежать как можно быстрее, размахивая руками и поднимая колени.",
+      "Продолжайте бежать на определенную дистанцию ​​или в течение определенного периода времени.",
+      "Отдохните и повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "找一个空地或跑道来进行练习。",
+      "首先站立，双脚分开与肩同宽。",
+      "开始尽可能快地跑步，挥动手臂并抬起膝盖。",
+      "继续冲刺特定的距离或时间。",
+      "休息并重复所需的重复次数。"
+    ],
+    "hi": [
+      "व्यायाम करने के लिए एक खुली जगह या ट्रैक ढूंढें।",
+      "अपने पैरों को कंधे की चौड़ाई से अलग करके खड़े होकर शुरुआत करें।",
+      "जितना हो सके उतनी तेजी से दौड़ना शुरू करें, अपनी बाहों को पंप करें और अपने घुटनों को ऊपर उठाएं।",
+      "एक विशिष्ट दूरी या समय अवधि तक दौड़ना जारी रखें।",
+      "आराम करें और दोहराव की वांछित संख्या के लिए दोहराएं।"
+    ],
+    "pl": [
+      "Znajdź otwartą przestrzeń lub bieżnię, aby wykonać ćwiczenie.",
+      "Zacznij, stojąc ze stopami rozstawionymi na szerokość barków.",
+      "Zacznij biec tak szybko, jak potrafisz, pompując ramionami i unosząc kolana.",
+      "Kontynuuj sprint przez określony dystans lub czas.",
+      "Odpocznij i powtórz zgodnie z żądaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "운동을 수행할 열린 공간이나 트랙을 찾습니다.",
+      "발을 어깨 너비만큼 떨어뜨리고 서 있는 상태로 시작합니다.",
+      "팔을 펌프질하고 무릎을 높이 올리면서 최대한 빠르게 달립니다.",
+      "특정 거리나 시간 동안 스프린트를 계속합니다.",
+      "휴식을 취하고 원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Trouve un espace dégagé ou une piste pour effectuer l'exercice.",
+      "Commence debout, les pieds écartés à la largeur des épaules.",
+      "Commence à courir aussi vite que possible en pompant avec tes bras et en montant tes genoux.",
+      "Continue à sprinter pendant une distance ou une durée précise.",
+      "Repose-toi et répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "abs",
+  "image": "images/0858-Qoujh3Q.jpg",
+  "gif_url": "videos/0858-Qoujh3Q.gif",
+  "media_id": "Qoujh3Q",
+  "created_at": "2026-03-18T12:31:32.906568+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

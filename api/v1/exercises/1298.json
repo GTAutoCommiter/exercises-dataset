@@ -1,0 +1,102 @@
+{
+  "id": "1298",
+  "name": "kettlebell one arm floor press",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "kettlebell",
+  "instructions": {
+    "en": "Lie flat on your back on the floor with your knees bent and feet flat on the ground. Hold the kettlebell in one hand with your palm facing towards your feet and your arm extended straight up towards the ceiling. Slowly lower the kettlebell towards your chest by bending your elbow, keeping your upper arm close to your body. Pause for a moment when the kettlebell is just above your chest, then push it back up to the starting position by extending your elbow. Repeat for the desired number of repetitions, then switch to the other arm.",
+    "it": "Sdraiati sulla schiena sul pavimento con le ginocchia piegate e i piedi appoggiati a terra. Tieni il kettlebell in una mano con il palmo rivolto verso i piedi e il braccio teso verso il soffitto. Abbassa lentamente il kettlebell verso il petto piegando il gomito, mantenendo la parte superiore del braccio vicino al corpo. Fai una pausa per un momento quando il kettlebell è appena sopra il petto, quindi spingilo nuovamente nella posizione iniziale estendendo il gomito. Ripeti per il numero di ripetizioni desiderato, quindi passa all'altro braccio.",
+    "tr": "Dizleriniz bükülü ve ayaklarınız yere düz basacak şekilde yere sırt üstü yatın. Avucunuz ayaklarınıza bakacak ve kolunuz tavana doğru uzatılacak şekilde kettlebell'i bir elinizde tutun. Dirseğinizi bükerek, üst kolunuzu vücudunuza yakın tutarak kettlebell'i yavaşça göğsünüze doğru indirin. Kettlebell göğsünüzün hemen üzerindeyken bir an duraklayın, ardından dirseğinizi uzatarak başlangıç ​​pozisyonuna geri itin. İstenilen tekrar sayısı kadar tekrarlayın, ardından diğer kola geçin.",
+    "es": "Túmbate boca arriba en el suelo con las rodillas flexionadas y los pies planos sobre el suelo. Sujeta la pesa rusa con una mano con la palma hacia los pies y el brazo extendido recto hacia el techo. Baja lentamente la pesa rusa hacia el pecho flexionando el codo, manteniendo el brazo superior cerca del cuerpo. Haz una pausa cuando la pesa rusa esté justo encima del pecho, luego empújala de vuelta hacia arriba a la posición inicial extendiendo el codo. Repite el número de repeticiones deseado, luego cambia al otro brazo.",
+    "ru": "Лягте на спину на пол, согните колени и поставьте ступни на землю. Держите гирю в одной руке ладонью к ногам, а руку вытяните прямо к потолку. Медленно опустите гирю к груди, согнув локоть, держа плечо близко к телу. Сделайте паузу на мгновение, когда гиря окажется чуть выше груди, затем поднимите ее обратно в исходное положение, вытянув локоть. Повторите желаемое количество повторений, затем переключитесь на другую руку.",
+    "zh": "仰卧在地板上，膝盖弯曲，双脚平放在地面上。 一只手握住壶铃，手掌朝向脚部，手臂笔直向上伸向天花板。 弯曲肘部，慢慢将壶铃降低到胸部，保持上臂靠近身体。 当壶铃位于胸部正上方时暂停片刻，然后通过伸展肘部将壶铃推回起始位置。 重复所需的重复次数，然后换到另一只手臂。",
+    "hi": "अपने घुटनों को मोड़कर और पैरों को जमीन पर सपाट रखते हुए फर्श पर अपनी पीठ के बल लेट जाएं। केटलबेल को एक हाथ में पकड़ें, अपनी हथेली को अपने पैरों की ओर रखें और आपका हाथ छत की ओर सीधा फैला हुआ हो। अपनी कोहनी को मोड़कर, अपनी ऊपरी भुजा को अपने शरीर के पास रखते हुए केटलबेल को धीरे-धीरे अपनी छाती की ओर नीचे लाएँ। जब केटलबेल आपकी छाती के ठीक ऊपर हो तो एक पल के लिए रुकें, फिर अपनी कोहनी बढ़ाकर इसे वापस प्रारंभिक स्थिति में धकेलें। दोहराव की वांछित संख्या के लिए दोहराएं, फिर दूसरे हाथ पर स्विच करें।",
+    "pl": "Połóż się płasko na plecach na podłodze z ugiętymi kolanami i stopami płasko opartymi o podłogę. Trzymaj kettlebell w jednej dłoni, dłoń skierowana w stronę stóp, ramię wyprostowane prosto w kierunku sufitu. Powoli opuść kettlebell w stronę klatki piersiowej, uginając łokieć i trzymając ramię blisko ciała. Zatrzymaj się na chwilę, gdy kettlebell znajdzie się tuż nad klatką piersiową, a następnie wypchnij go z powrotem do pozycji wyjściowej, prostując łokieć. Powtórz zgodnie z zaplanowaną liczbą powtórzeń, a następnie zmień rękę.",
+    "ko": "바닥에 등을 대고 누워 무릎을 구부리고 발을 땅에 놓습니다. 한 손으로 케틀벨을 잡되 손바닥이 발을 향하고 팔을 천장을 향해 쭉 펼칩니다. 팔꿈치를 구부리면서 케틀벨을 천천히 가슴 쪽으로 낮춥니다. 팔을 몸에 가깝게 유지합니다. 케틀벨이 가슴 바로 위에 오면 잠깐 멈춘 후 팔꿈치를 펴면서 처음 위치로 밀어 올립니다. 원하는 반복 횟수를 완료한 후 반대쪽 팔로 반복합니다.",
+    "fr": "Allonge-toi sur le dos au sol, les genoux fléchis et les pieds à plat au sol. Tiens le kettlebell dans une main, la paume tournée vers tes pieds et le bras étendu droit vers le plafond. Abaisse lentement le kettlebell vers ta poitrine en fléchissant le coude, en gardant le haut de ton bras près de ton corps. Marque une pause lorsque le kettlebell est juste au-dessus de ta poitrine, puis repousse-le vers le haut pour revenir à la position de départ en étendant ton coude. Répète le nombre de répétitions souhaité, puis passe à l'autre bras."
+  },
+  "instruction_steps": {
+    "en": [
+      "Lie flat on your back on the floor with your knees bent and feet flat on the ground.",
+      "Hold the kettlebell in one hand with your palm facing towards your feet and your arm extended straight up towards the ceiling.",
+      "Slowly lower the kettlebell towards your chest by bending your elbow, keeping your upper arm close to your body.",
+      "Pause for a moment when the kettlebell is just above your chest, then push it back up to the starting position by extending your elbow.",
+      "Repeat for the desired number of repetitions, then switch to the other arm."
+    ],
+    "it": [
+      "Sdraiati sulla schiena sul pavimento con le ginocchia piegate e i piedi appoggiati a terra.",
+      "Tieni il kettlebell in una mano con il palmo rivolto verso i piedi e il braccio teso verso il soffitto.",
+      "Abbassa lentamente il kettlebell verso il petto piegando il gomito, mantenendo la parte superiore del braccio vicino al corpo.",
+      "Fai una pausa per un momento quando il kettlebell è appena sopra il petto, quindi spingilo nuovamente nella posizione iniziale estendendo il gomito.",
+      "Ripeti per il numero di ripetizioni desiderato, quindi passa all'altro braccio."
+    ],
+    "tr": [
+      "Dizleriniz bükülü ve ayaklarınız yere düz basacak şekilde yere sırt üstü yatın.",
+      "Avucunuz ayaklarınıza bakacak ve kolunuz tavana doğru uzatılacak şekilde kettlebell'i bir elinizde tutun.",
+      "Dirseğinizi bükerek, üst kolunuzu vücudunuza yakın tutarak kettlebell'i yavaşça göğsünüze doğru indirin.",
+      "Kettlebell göğsünüzün hemen üzerindeyken bir an duraklayın, ardından dirseğinizi uzatarak başlangıç ​​pozisyonuna geri itin.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından diğer kola geçin."
+    ],
+    "es": [
+      "Túmbate boca arriba en el suelo con las rodillas flexionadas y los pies planos sobre el suelo.",
+      "Sujeta la pesa rusa con una mano con la palma hacia los pies y el brazo extendido recto hacia el techo.",
+      "Baja lentamente la pesa rusa hacia el pecho flexionando el codo, manteniendo el brazo superior cerca del cuerpo.",
+      "Haz una pausa cuando la pesa rusa esté justo encima del pecho, luego empújala de vuelta hacia arriba a la posición inicial extendiendo el codo.",
+      "Repite el número de repeticiones deseado, luego cambia al otro brazo."
+    ],
+    "ru": [
+      "Лягте на спину на пол, согните колени и поставьте ступни на землю.",
+      "Держите гирю в одной руке ладонью к ногам, а руку вытяните прямо к потолку.",
+      "Медленно опустите гирю к груди, согнув локоть, держа плечо близко к телу.",
+      "Сделайте паузу на мгновение, когда гиря окажется чуть выше груди, затем поднимите ее обратно в исходное положение, вытянув локоть.",
+      "Повторите желаемое количество повторений, затем переключитесь на другую руку."
+    ],
+    "zh": [
+      "仰卧在地板上，膝盖弯曲，双脚平放在地面上。",
+      "一只手握住壶铃，手掌朝向脚部，手臂笔直向上伸向天花板。",
+      "弯曲肘部，慢慢将壶铃降低到胸部，保持上臂靠近身体。",
+      "当壶铃位于胸部正上方时暂停片刻，然后通过伸展肘部将壶铃推回起始位置。",
+      "重复所需的重复次数，然后换到另一只手臂。"
+    ],
+    "hi": [
+      "अपने घुटनों को मोड़कर और पैरों को जमीन पर सपाट रखते हुए फर्श पर अपनी पीठ के बल लेट जाएं।",
+      "केटलबेल को एक हाथ में पकड़ें, अपनी हथेली को अपने पैरों की ओर रखें और आपका हाथ छत की ओर सीधा फैला हुआ हो।",
+      "अपनी कोहनी को मोड़कर, अपनी ऊपरी भुजा को अपने शरीर के पास रखते हुए केटलबेल को धीरे-धीरे अपनी छाती की ओर नीचे लाएँ।",
+      "जब केटलबेल आपकी छाती के ठीक ऊपर हो तो एक क्षण के लिए रुकें, फिर अपनी कोहनी बढ़ाकर इसे वापस प्रारंभिक स्थिति में धकेलें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर दूसरे हाथ पर स्विच करें।"
+    ],
+    "pl": [
+      "Połóż się płasko na plecach na podłodze z ugiętymi kolanami i stopami płasko opartymi o podłogę.",
+      "Trzymaj kettlebell w jednej dłoni, dłoń skierowana w stronę stóp, ramię wyprostowane prosto w kierunku sufitu.",
+      "Powoli opuść kettlebell w stronę klatki piersiowej, uginając łokieć i trzymając ramię blisko ciała.",
+      "Zatrzymaj się na chwilę, gdy kettlebell znajdzie się tuż nad klatką piersiową, a następnie wypchnij go z powrotem do pozycji wyjściowej, prostując łokieć.",
+      "Powtórz zgodnie z zaplanowaną liczbą powtórzeń, a następnie zmień rękę."
+    ],
+    "ko": [
+      "바닥에 등을 대고 누워 무릎을 구부리고 발을 땅에 놓습니다.",
+      "한 손으로 케틀벨을 잡되 손바닥이 발을 향하고 팔을 천장을 향해 쭉 펼칩니다.",
+      "팔꿈치를 구부리면서 케틀벨을 천천히 가슴 쪽으로 낮춥니다. 팔을 몸에 가깝게 유지합니다.",
+      "케틀벨이 가슴 바로 위에 오면 잠깐 멈춘 후 팔꿈치를 펴면서 처음 위치로 밀어 올립니다.",
+      "원하는 반복 횟수를 완료한 후 반대쪽 팔로 반복합니다."
+    ],
+    "fr": [
+      "Allonge-toi sur le dos au sol, les genoux fléchis et les pieds à plat au sol.",
+      "Tiens le kettlebell dans une main, la paume tournée vers tes pieds et le bras étendu droit vers le plafond.",
+      "Abaisse lentement le kettlebell vers ta poitrine en fléchissant le coude, en gardant le haut de ton bras près de ton corps.",
+      "Marque une pause lorsque le kettlebell est juste au-dessus de ta poitrine, puis repousse-le vers le haut pour revenir à la position de départ en étendant ton coude.",
+      "Répète le nombre de répétitions souhaité, puis passe à l'autre bras."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "target": "pectorals",
+  "image": "images/1298-rg59QCH.jpg",
+  "gif_url": "videos/1298-rg59QCH.gif",
+  "media_id": "rg59QCH",
+  "created_at": "2026-03-18T12:31:32.885327+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

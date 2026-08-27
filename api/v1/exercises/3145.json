@@ -1,0 +1,112 @@
+{
+  "id": "3145",
+  "name": "push-up plus",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Start in a high plank position with your hands slightly wider than shoulder-width apart and your body in a straight line from head to heels. Lower your body towards the ground by bending your elbows, keeping them close to your sides. Once your chest is just above the ground, push through your hands to extend your arms and lift your upper body up. At the top of the movement, protract your shoulder blades by pushing your upper back towards the ceiling. Pause for a moment, then reverse the movement by retracting your shoulder blades and lowering your body back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Inizia in una posizione di plancia alta con le mani leggermente più larghe della larghezza delle spalle e il corpo in linea retta dalla testa ai talloni. Abbassa il corpo verso terra piegando i gomiti, tenendoli vicini ai fianchi. Una volta che il petto è appena sopra il suolo, spingi con le mani per estendere le braccia e sollevare la parte superiore del corpo. Nella parte superiore del movimento, protrarre le scapole spingendo la parte superiore della schiena verso il soffitto. Fai una pausa per un momento, quindi inverti il ​​movimento ritraendo le scapole e abbassando il corpo nella posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Elleriniz omuz genişliğinden biraz daha açık ve vücudunuz baştan topuklara kadar düz bir çizgide olacak şekilde yüksek bir plank pozisyonuyla başlayın. Dirseklerinizi bükerek vücudunuzu yanlarınıza yakın tutarak yere doğru indirin. Göğsünüz yerden hemen yukarıda olduğunda, kollarınızı uzatmak ve üst vücudunuzu yukarı kaldırmak için ellerinizi itin. Hareketin en üst noktasında sırtınızın üst kısmını tavana doğru iterek kürek kemiklerinizi uzatın. Bir an duraklayın, ardından kürek kemiklerinizi geri çekerek ve vücudunuzu tekrar başlangıç ​​pozisyonuna indirerek hareketi tersine çevirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Comienza en una posición de plancha alta con las manos un poco más separadas que la anchura de los hombros y el cuerpo en línea recta desde la cabeza hasta los talones. Baja el cuerpo hacia el suelo flexionando los codos, manteniéndolos cerca de los costados. Cuando el pecho esté justo por encima del suelo, empuja con las manos para extender los brazos y levantar la parte superior del cuerpo. En la parte alta del movimiento, separa las escápulas empujando la parte superior de la espalda hacia el techo. Haz una pausa por un momento y luego invierte el movimiento juntando las escápulas y bajando el cuerpo de nuevo a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Начните с положения высокой планки, расставив руки чуть шире плеч, а тело образуя прямую линию от головы до пяток. Опустите тело к земле, согнув локти и держа их близко к бокам. Как только ваша грудь окажется чуть выше земли, протолкните руки, чтобы вытянуть руки и поднять верхнюю часть тела вверх. В верхней точке движения вытяните лопатки, подталкивая верхнюю часть спины к потолку. Сделайте паузу на мгновение, затем поменяйте направление движения, сводя лопатки и опуская тело обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "从高位平板支撑开始，双手分开略宽于肩宽，身体从头到脚跟呈一条直线。 弯曲肘部，使肘部靠近身体两侧，将身体降低到地面。 一旦你的胸部刚好高于地面，用力推动你的手臂，伸展你的手臂并抬起你的上半身。 在动作的最高点，将上背部推向天花板，从而伸展肩胛骨。 暂停片刻，然后通过缩回肩胛骨并将身体放回起始位置来反转动作。 重复所需的重复次数。",
+    "hi": "अपने हाथों को कंधे की चौड़ाई से थोड़ा अधिक चौड़ा करके और अपने शरीर को सिर से एड़ी तक एक सीधी रेखा में रखते हुए एक उच्च तख़्त स्थिति में शुरुआत करें। अपनी कोहनियों को मोड़कर, उन्हें अपनी भुजाओं के पास रखते हुए, अपने शरीर को ज़मीन की ओर नीचे लाएँ। एक बार जब आपकी छाती जमीन से ठीक ऊपर हो, तो अपने हाथों से धक्का देकर अपनी भुजाओं को फैलाएं और अपने ऊपरी शरीर को ऊपर उठाएं। आंदोलन के शीर्ष पर, अपनी ऊपरी पीठ को छत की ओर धकेलते हुए अपने कंधे के ब्लेड को फैलाएं। एक पल के लिए रुकें, फिर अपने कंधे के ब्लेड को पीछे खींचकर और अपने शरीर को वापस प्रारंभिक स्थिति में लाकर गति को उलट दें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Rozpocznij w wysokiej pozycji deski z dłońmi ustawionymi nieco szerzej niż barki i ciałem w linii prostej od głowy do pięt. Opuść ciało w kierunku podłogi, uginając łokcie i trzymając je blisko tułowia. Gdy klatka piersiowa znajdzie się tuż nad podłogą, odepchnij się dłońmi, prostując ręce i unosząc górną część ciała. Na szczycie ruchu wysuń łopatki do przodu, popychając górną część pleców w kierunku sufitu. Zatrzymaj się na chwilę, a następnie odwróć ruch, cofając łopatki i opuszczając ciało z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę razy.",
+    "ko": "손이 어깨 너비보다 약간 넓고 머리에서 발뒤꿈치까지 일직선인 높은 플랭크 자세에서 시작합니다. 팔꿈치를 구부려 가슴을 땅 쪽으로 낮추면서 팔꿈치를 옆에 가깝게 유지합니다. 가슴이 땅 바로 위에 있으면 손을 밀어 팔을 펴고 상체를 들어올립니다. 움직임의 맨 위에서 견갑골을 앞으로 당겨 상체를 천장 쪽으로 밀어올립니다. 잠깐 멈춘 후 견갑골을 뒤로 당기고 몸을 처음 자세로 낮춤으로써 움직임을 역방향으로 합니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Commence en position de planche haute, les mains un peu plus écartées que la largeur des épaules et le corps aligné de la tête aux talons. Abaisse ton corps vers le sol en fléchissant les coudes, en les gardant près de tes flancs. Une fois ta poitrine juste au-dessus du sol, pousse sur tes mains pour tendre les bras et soulever le haut de ton corps. En haut du mouvement, projette tes omoplates vers l'avant en poussant le haut de ton dos vers le plafond. Marque une pause, puis inverse le mouvement en rétractant tes omoplates et en abaissant ton corps jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start in a high plank position with your hands slightly wider than shoulder-width apart and your body in a straight line from head to heels.",
+      "Lower your body towards the ground by bending your elbows, keeping them close to your sides.",
+      "Once your chest is just above the ground, push through your hands to extend your arms and lift your upper body up.",
+      "At the top of the movement, protract your shoulder blades by pushing your upper back towards the ceiling.",
+      "Pause for a moment, then reverse the movement by retracting your shoulder blades and lowering your body back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia in una posizione di plancia alta con le mani leggermente più larghe della larghezza delle spalle e il corpo in linea retta dalla testa ai talloni.",
+      "Abbassa il corpo verso terra piegando i gomiti, tenendoli vicini ai fianchi.",
+      "Una volta che il petto è appena sopra il suolo, spingi con le mani per estendere le braccia e sollevare la parte superiore del corpo.",
+      "Nella parte superiore del movimento, protrarre le scapole spingendo la parte superiore della schiena verso il soffitto.",
+      "Fai una pausa per un momento, quindi inverti il ​​movimento ritraendo le scapole e abbassando il corpo nella posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Elleriniz omuz genişliğinden biraz daha açık ve vücudunuz baştan topuklara kadar düz bir çizgide olacak şekilde yüksek bir plank pozisyonuyla başlayın.",
+      "Dirseklerinizi bükerek vücudunuzu yanlarınıza yakın tutarak yere doğru indirin.",
+      "Göğsünüz yerden hemen yukarıda olduğunda, kollarınızı uzatmak ve üst vücudunuzu yukarı kaldırmak için ellerinizi itin.",
+      "Hareketin en üst noktasında sırtınızın üst kısmını tavana doğru iterek kürek kemiklerinizi uzatın.",
+      "Bir an duraklayın, ardından kürek kemiklerinizi geri çekerek ve vücudunuzu tekrar başlangıç ​​pozisyonuna indirerek hareketi tersine çevirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Comienza en una posición de plancha alta con las manos un poco más separadas que la anchura de los hombros y el cuerpo en línea recta desde la cabeza hasta los talones.",
+      "Baja el cuerpo hacia el suelo flexionando los codos, manteniéndolos cerca de los costados.",
+      "Cuando el pecho esté justo por encima del suelo, empuja con las manos para extender los brazos y levantar la parte superior del cuerpo.",
+      "En la parte alta del movimiento, separa las escápulas empujando la parte superior de la espalda hacia el techo.",
+      "Haz una pausa por un momento y luego invierte el movimiento juntando las escápulas y bajando el cuerpo de nuevo a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с положения высокой планки, расставив руки чуть шире плеч, а тело образуя прямую линию от головы до пяток.",
+      "Опустите тело к земле, согнув локти и держа их близко к бокам.",
+      "Как только ваша грудь окажется чуть выше земли, протолкните руки, чтобы вытянуть руки и поднять верхнюю часть тела вверх.",
+      "В верхней точке движения вытяните лопатки, подталкивая верхнюю часть спины к потолку.",
+      "Сделайте паузу на мгновение, затем поменяйте направление движения, сводя лопатки и опуская тело обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "从高位平板支撑开始，双手分开略宽于肩宽，身体从头到脚跟呈一条直线。",
+      "弯曲肘部，使肘部靠近身体两侧，将身体降低到地面。",
+      "一旦你的胸部刚好高于地面，用力推动你的手臂，伸展你的手臂并抬起你的上半身。",
+      "在动作的最高点，将上背部推向天花板，从而伸展肩胛骨。",
+      "暂停片刻，然后通过缩回肩胛骨并将身体放回起始位置来反转动作。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने हाथों को कंधे की चौड़ाई से थोड़ा अधिक चौड़ा करके और अपने शरीर को सिर से एड़ी तक एक सीधी रेखा में रखते हुए एक उच्च तख़्त स्थिति में शुरुआत करें।",
+      "अपनी कोहनियों को मोड़कर, उन्हें अपनी भुजाओं के पास रखते हुए, अपने शरीर को ज़मीन की ओर नीचे लाएँ।",
+      "एक बार जब आपकी छाती जमीन से ठीक ऊपर हो, तो अपने हाथों से धक्का देकर अपनी भुजाओं को फैलाएं और अपने ऊपरी शरीर को ऊपर उठाएं।",
+      "आंदोलन के शीर्ष पर, अपनी ऊपरी पीठ को छत की ओर धकेलते हुए अपने कंधे के ब्लेड को फैलाएं।",
+      "एक पल के लिए रुकें, फिर अपने कंधे के ब्लेड को पीछे खींचकर और अपने शरीर को वापस प्रारंभिक स्थिति में लाकर गति को उलट दें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Rozpocznij w wysokiej pozycji deski z dłońmi ustawionymi nieco szerzej niż barki i ciałem w linii prostej od głowy do pięt.",
+      "Opuść ciało w kierunku podłogi, uginając łokcie i trzymając je blisko tułowia.",
+      "Gdy klatka piersiowa znajdzie się tuż nad podłogą, odepchnij się dłońmi, prostując ręce i unosząc górną część ciała.",
+      "Na szczycie ruchu wysuń łopatki do przodu, popychając górną część pleców w kierunku sufitu.",
+      "Zatrzymaj się na chwilę, a następnie odwróć ruch, cofając łopatki i opuszczając ciało z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "손이 어깨 너비보다 약간 넓고 머리에서 발뒤꿈치까지 일직선인 높은 플랭크 자세에서 시작합니다.",
+      "팔꿈치를 구부려 가슴을 땅 쪽으로 낮추면서 팔꿈치를 옆에 가깝게 유지합니다.",
+      "가슴이 땅 바로 위에 있으면 손을 밀어 팔을 펴고 상체를 들어올립니다.",
+      "움직임의 맨 위에서 견갑골을 앞으로 당겨 상체를 천장 쪽으로 밀어올립니다.",
+      "잠깐 멈춘 후 견갑골을 뒤로 당기고 몸을 처음 자세로 낮춤으로써 움직임을 역방향으로 합니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Commence en position de planche haute, les mains un peu plus écartées que la largeur des épaules et le corps aligné de la tête aux talons.",
+      "Abaisse ton corps vers le sol en fléchissant les coudes, en les gardant près de tes flancs.",
+      "Une fois ta poitrine juste au-dessus du sol, pousse sur tes mains pour tendre les bras et soulever le haut de ton corps.",
+      "En haut du mouvement, projette tes omoplates vers l'avant en poussant le haut de ton dos vers le plafond.",
+      "Marque une pause, puis inverse le mouvement en rétractant tes omoplates et en abaissant ton corps jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "target": "pectorals",
+  "image": "images/3145-pvBMLHA.jpg",
+  "gif_url": "videos/3145-pvBMLHA.gif",
+  "media_id": "pvBMLHA",
+  "created_at": "2026-03-18T12:31:32.888662+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

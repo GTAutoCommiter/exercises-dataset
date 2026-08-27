@@ -1,0 +1,103 @@
+{
+  "id": "0291",
+  "name": "dumbbell bench squat",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Place a dumbbell on the ground in front of a bench. Stand facing away from the bench with your feet shoulder-width apart. Bend at the knees and hips to lower yourself down towards the bench, keeping your chest up and back straight. Once your glutes touch the bench, push through your heels to stand back up to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Metti un manubrio a terra davanti a una panchina. Stai rivolto dall'altra parte della panca con i piedi a larghezza delle spalle. Fleetta ginocchia e fianchi per abbassarti verso la panca, tenendo il petto alzato e la schiena dritta. Quando i glutei toccano la panca, spingi attraverso i talloni per rialzarti fino alla posizione di partenza. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Bankın önünde yere bir dambıl yerleştirin. Ayaklarınız omuz genişliğinde açık olacak şekilde benchten uzağa bakacak şekilde ayakta durun. Göğsünüzü yukarıda ve sırtınızı düz tutarak kendinizi benche doğru indirmek için dizlerinizi ve kalçalarınızı bükün. Kalça kaslarınız benche değdiğinde topuklarınızı iterek başlangıç ​​pozisyonuna dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Coloca una mancuerna en el suelo frente a un banco. Ponte de pie de espaldas al banco con los pies separados a la altura de los hombros. Flexiona las rodillas y las caderas para bajar hacia el banco, manteniendo el pecho elevado y la espalda recta. Una vez que los glúteos toquen el banco, empuja con los talones para volver a ponerte de pie en la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Положите гантель на землю перед скамьей. Встаньте лицом от скамьи, поставив ноги на ширине плеч. Согните колени и бедра, чтобы опуститься к скамье, держа грудь вверх и спину прямо. Как только ваши ягодицы коснутся скамьи, оттолкнитесь пятками, чтобы вернуться в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "将哑铃放在长凳前的地面上。 背对长凳站立，双脚与肩同宽。 弯曲膝盖和臀部，将自己降低到长凳上，保持胸部挺直，背部挺直。 一旦你的臀部接触到长凳，就用脚后跟站起来，回到起始位置。 重复所需的重复次数。",
+    "hi": "डंबल को बेंच के सामने जमीन पर रखें। अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए बेंच से दूर की ओर मुंह करके खड़े हो जाएं। घुटनों और कूल्हों के बल झुकें और अपने आप को बेंच की ओर नीचे करें, अपनी छाती को ऊपर और पीठ को सीधा रखें। एक बार जब आपके ग्लूट्स बेंच को छू लें, तो प्रारंभिक स्थिति में वापस खड़े होने के लिए अपनी एड़ियों को धक्का दें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Połóż hantlę na podłodze przed ławką. Stań tyłem do ławki, ustawiając stopy na szerokość barków. Ugnij kolana i biodra, aby opuścić ciało w kierunku ławki, utrzymując uniesioną klatkę piersiową i proste plecy. Gdy pośladki dotkną ławki, odepchnij się piętami, aby wrócić do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "벤치 앞에 덤벨을 놓습니다. 벤치를 향해 서서 발을 어깨 너비로 벌립니다. 무릎과 엉덩이를 구부려 벤치 쪽으로 몸을 내립니다. 가슴을 펴고 등을 곧게 유지합니다. 둔근이 벤치에 닿으면 발꿈치로 밀어 서서 시작 자세로 돌아갑니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Place un haltère au sol devant un banc. Tiens-toi dos au banc, les pieds écartés à la largeur des épaules. Fléchis les genoux et les hanches pour descendre vers le banc, en gardant ta poitrine haute et ton dos droit. Une fois tes fessiers en contact avec le banc, pousse sur tes talons pour te relever jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Place a dumbbell on the ground in front of a bench.",
+      "Stand facing away from the bench with your feet shoulder-width apart.",
+      "Bend at the knees and hips to lower yourself down towards the bench, keeping your chest up and back straight.",
+      "Once your glutes touch the bench, push through your heels to stand back up to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Metti un manubrio a terra davanti a una panchina.",
+      "Stai rivolto dall'altra parte della panca con i piedi a larghezza delle spalle.",
+      "Fleetta ginocchia e fianchi per abbassarti verso la panca, tenendo il petto alzato e la schiena dritta.",
+      "Quando i glutei toccano la panca, spingi attraverso i talloni per rialzarti fino alla posizione di partenza.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Bankın önünde yere bir dambıl yerleştirin.",
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde benchten uzağa bakacak şekilde ayakta durun.",
+      "Göğsünüzü yukarıda ve sırtınızı düz tutarak kendinizi benche doğru indirmek için dizlerinizi ve kalçalarınızı bükün.",
+      "Kalça kaslarınız benche değdiğinde topuklarınızı iterek başlangıç ​​pozisyonuna dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Coloca una mancuerna en el suelo frente a un banco.",
+      "Ponte de pie de espaldas al banco con los pies separados a la altura de los hombros.",
+      "Flexiona las rodillas y las caderas para bajar hacia el banco, manteniendo el pecho elevado y la espalda recta.",
+      "Una vez que los glúteos toquen el banco, empuja con los talones para volver a ponerte de pie en la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Положите гантель на землю перед скамьей.",
+      "Встаньте лицом от скамьи, поставив ноги на ширине плеч.",
+      "Согните колени и бедра, чтобы опуститься к скамье, держа грудь вверх и спину прямо.",
+      "Как только ваши ягодицы коснутся скамьи, оттолкнитесь пятками, чтобы вернуться в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将哑铃放在长凳前的地面上。",
+      "背对长凳站立，双脚与肩同宽。",
+      "弯曲膝盖和臀部，将自己降低到长凳上，保持胸部挺直，背部挺直。",
+      "一旦你的臀部接触到长凳，就用脚后跟站起来，回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "डंबल को बेंच के सामने जमीन पर रखें।",
+      "अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए बेंच से दूर की ओर मुंह करके खड़े हो जाएं।",
+      "घुटनों और कूल्हों के बल झुकें और अपने आप को बेंच की ओर नीचे करें, अपनी छाती को ऊपर और पीठ को सीधा रखें।",
+      "एक बार जब आपके ग्लूट्स बेंच को छू लें, तो प्रारंभिक स्थिति में वापस खड़े होने के लिए अपनी एड़ियों को धक्का दें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Połóż hantlę na podłodze przed ławką.",
+      "Stań tyłem do ławki, ustawiając stopy na szerokość barków.",
+      "Ugnij kolana i biodra, aby opuścić ciało w kierunku ławki, utrzymując uniesioną klatkę piersiową i proste plecy.",
+      "Gdy pośladki dotkną ławki, odepchnij się piętami, aby wrócić do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "벤치 앞에 덤벨을 놓습니다.",
+      "벤치를 향해 서서 발을 어깨 너비로 벌립니다.",
+      "무릎과 엉덩이를 구부려 벤치 쪽으로 몸을 내립니다. 가슴을 펴고 등을 곧게 유지합니다.",
+      "둔근이 벤치에 닿으면 발꿈치로 밀어 서서 시작 자세로 돌아갑니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Place un haltère au sol devant un banc.",
+      "Tiens-toi dos au banc, les pieds écartés à la largeur des épaules.",
+      "Fléchis les genoux et les hanches pour descendre vers le banc, en gardant ta poitrine haute et ton dos droit.",
+      "Une fois tes fessiers en contact avec le banc, pousse sur tes talons pour te relever jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "glutes",
+  "image": "images/0291-mnzcrIB.jpg",
+  "gif_url": "videos/0291-mnzcrIB.gif",
+  "media_id": "mnzcrIB",
+  "created_at": "2026-03-18T12:31:32.877716+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

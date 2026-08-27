@@ -1,0 +1,1542 @@
+[
+  {
+    "id": "0023",
+    "name": "barbell alternate biceps curl",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "biceps",
+    "image": "images/0023-Yza7XrQ.jpg",
+    "gif_url": "videos/0023-Yza7XrQ.gif"
+  },
+  {
+    "id": "0024",
+    "name": "barbell bench front squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "quads",
+    "image": "images/0024-Y7YcmIJ.jpg",
+    "gif_url": "videos/0024-Y7YcmIJ.gif"
+  },
+  {
+    "id": "0025",
+    "name": "barbell bench press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "barbell",
+    "target": "pectorals",
+    "image": "images/0025-EIeI8Vf.jpg",
+    "gif_url": "videos/0025-EIeI8Vf.gif"
+  },
+  {
+    "id": "0026",
+    "name": "barbell bench squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "quads",
+    "image": "images/0026-W9pFVv1.jpg",
+    "gif_url": "videos/0026-W9pFVv1.gif"
+  },
+  {
+    "id": "1316",
+    "name": "barbell bent arm pullover",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "barbell",
+    "target": "lats",
+    "image": "images/1316-cA9FuWG.jpg",
+    "gif_url": "videos/1316-cA9FuWG.gif"
+  },
+  {
+    "id": "0027",
+    "name": "barbell bent over row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "barbell",
+    "target": "upper back",
+    "image": "images/0027-eZyBC3j.jpg",
+    "gif_url": "videos/0027-eZyBC3j.gif"
+  },
+  {
+    "id": "2407",
+    "name": "barbell biceps curl (with arm blaster)",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "biceps",
+    "image": "images/2407-aee2Fcj.jpg",
+    "gif_url": "videos/2407-aee2Fcj.gif"
+  },
+  {
+    "id": "0028",
+    "name": "barbell clean and press",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "quads",
+    "image": "images/0028-SGY8Zui.jpg",
+    "gif_url": "videos/0028-SGY8Zui.gif"
+  },
+  {
+    "id": "0029",
+    "name": "barbell clean-grip front squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0029-qi996YS.jpg",
+    "gif_url": "videos/0029-qi996YS.gif"
+  },
+  {
+    "id": "0030",
+    "name": "barbell close-grip bench press",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps",
+    "image": "images/0030-J6Dx1Mu.jpg",
+    "gif_url": "videos/0030-J6Dx1Mu.gif"
+  },
+  {
+    "id": "0031",
+    "name": "barbell curl",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "biceps",
+    "image": "images/0031-25GPyDY.jpg",
+    "gif_url": "videos/0031-25GPyDY.gif"
+  },
+  {
+    "id": "0032",
+    "name": "barbell deadlift",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0032-ila4NZS.jpg",
+    "gif_url": "videos/0032-ila4NZS.gif"
+  },
+  {
+    "id": "0033",
+    "name": "barbell decline bench press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "barbell",
+    "target": "pectorals",
+    "image": "images/0033-GrO65fd.jpg",
+    "gif_url": "videos/0033-GrO65fd.gif"
+  },
+  {
+    "id": "0034",
+    "name": "barbell decline bent arm pullover",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "barbell",
+    "target": "lats",
+    "image": "images/0034-hMEptv0.jpg",
+    "gif_url": "videos/0034-hMEptv0.gif"
+  },
+  {
+    "id": "0035",
+    "name": "barbell decline close grip to skull press",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps",
+    "image": "images/0035-LMGXZn8.jpg",
+    "gif_url": "videos/0035-LMGXZn8.gif"
+  },
+  {
+    "id": "1255",
+    "name": "barbell decline pullover",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "barbell",
+    "target": "pectorals",
+    "image": "images/1255-9sgNE2O.jpg",
+    "gif_url": "videos/1255-9sgNE2O.gif"
+  },
+  {
+    "id": "0036",
+    "name": "barbell decline wide-grip press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "barbell",
+    "target": "pectorals",
+    "image": "images/0036-hl8DUh8.jpg",
+    "gif_url": "videos/0036-hl8DUh8.gif"
+  },
+  {
+    "id": "0037",
+    "name": "barbell decline wide-grip pullover",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "barbell",
+    "target": "lats",
+    "image": "images/0037-Hj4FOCd.jpg",
+    "gif_url": "videos/0037-Hj4FOCd.gif"
+  },
+  {
+    "id": "0038",
+    "name": "barbell drag curl",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "biceps",
+    "image": "images/0038-IENzBdA.jpg",
+    "gif_url": "videos/0038-IENzBdA.gif"
+  },
+  {
+    "id": "1370",
+    "name": "barbell floor calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "barbell",
+    "target": "calves",
+    "image": "images/1370-2IHEa2T.jpg",
+    "gif_url": "videos/1370-2IHEa2T.gif"
+  },
+  {
+    "id": "0039",
+    "name": "barbell front chest squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0039-IeTIEqg.jpg",
+    "gif_url": "videos/0039-IeTIEqg.gif"
+  },
+  {
+    "id": "0041",
+    "name": "barbell front raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/0041-b2Uoz54.jpg",
+    "gif_url": "videos/0041-b2Uoz54.gif"
+  },
+  {
+    "id": "0040",
+    "name": "barbell front raise and pullover",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "barbell",
+    "target": "pectorals",
+    "image": "images/0040-33AzZeV.jpg",
+    "gif_url": "videos/0040-33AzZeV.gif"
+  },
+  {
+    "id": "0042",
+    "name": "barbell front squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0042-zG0zs85.jpg",
+    "gif_url": "videos/0042-zG0zs85.gif"
+  },
+  {
+    "id": "0043",
+    "name": "barbell full squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0043-qXTaZnJ.jpg",
+    "gif_url": "videos/0043-qXTaZnJ.gif"
+  },
+  {
+    "id": "1461",
+    "name": "barbell full squat (back pov)",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/1461-DhMl549.jpg",
+    "gif_url": "videos/1461-DhMl549.gif"
+  },
+  {
+    "id": "1462",
+    "name": "barbell full squat (side pov)",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/1462-iYzB0Cz.jpg",
+    "gif_url": "videos/1462-iYzB0Cz.gif"
+  },
+  {
+    "id": "1545",
+    "name": "barbell full zercher squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/1545-vR1vold.jpg",
+    "gif_url": "videos/1545-vR1vold.gif"
+  },
+  {
+    "id": "1409",
+    "name": "barbell glute bridge",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/1409-qKBpF7I.jpg",
+    "gif_url": "videos/1409-qKBpF7I.gif"
+  },
+  {
+    "id": "3562",
+    "name": "barbell glute bridge two legs on bench (male)",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/3562-qg2PGl6.jpg",
+    "gif_url": "videos/3562-qg2PGl6.gif"
+  },
+  {
+    "id": "0044",
+    "name": "barbell good morning",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "hamstrings",
+    "image": "images/0044-XlZ4lAC.jpg",
+    "gif_url": "videos/0044-XlZ4lAC.gif"
+  },
+  {
+    "id": "0045",
+    "name": "barbell guillotine bench press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "barbell",
+    "target": "pectorals",
+    "image": "images/0045-GXoaSgn.jpg",
+    "gif_url": "videos/0045-GXoaSgn.gif"
+  },
+  {
+    "id": "0046",
+    "name": "barbell hack squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0046-5VCj6iH.jpg",
+    "gif_url": "videos/0046-5VCj6iH.gif"
+  },
+  {
+    "id": "1436",
+    "name": "barbell high bar squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/1436-Gnfo4FM.jpg",
+    "gif_url": "videos/1436-Gnfo4FM.gif"
+  },
+  {
+    "id": "0047",
+    "name": "barbell incline bench press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "barbell",
+    "target": "pectorals",
+    "image": "images/0047-3TZduzM.jpg",
+    "gif_url": "videos/0047-3TZduzM.gif"
+  },
+  {
+    "id": "1719",
+    "name": "barbell incline close grip bench press",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps",
+    "image": "images/1719-gx7s7uF.jpg",
+    "gif_url": "videos/1719-gx7s7uF.gif"
+  },
+  {
+    "id": "0048",
+    "name": "barbell incline reverse-grip press",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps",
+    "image": "images/0048-641mIfk.jpg",
+    "gif_url": "videos/0048-641mIfk.gif"
+  },
+  {
+    "id": "0049",
+    "name": "barbell incline row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "barbell",
+    "target": "upper back",
+    "image": "images/0049-dmgMp3n.jpg",
+    "gif_url": "videos/0049-dmgMp3n.gif"
+  },
+  {
+    "id": "0050",
+    "name": "barbell incline shoulder raise",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "barbell",
+    "target": "serratus anterior",
+    "image": "images/0050-xi0yckC.jpg",
+    "gif_url": "videos/0050-xi0yckC.gif"
+  },
+  {
+    "id": "0051",
+    "name": "barbell jefferson squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0051-pkSoCW9.jpg",
+    "gif_url": "videos/0051-pkSoCW9.gif"
+  },
+  {
+    "id": "0052",
+    "name": "barbell jm bench press",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps",
+    "image": "images/0052-ZsiqXYa.jpg",
+    "gif_url": "videos/0052-ZsiqXYa.gif"
+  },
+  {
+    "id": "0053",
+    "name": "barbell jump squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0053-1gFNTZV.jpg",
+    "gif_url": "videos/0053-1gFNTZV.gif"
+  },
+  {
+    "id": "1410",
+    "name": "barbell lateral lunge",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/1410-py1HSzx.jpg",
+    "gif_url": "videos/1410-py1HSzx.gif"
+  },
+  {
+    "id": "1435",
+    "name": "barbell low bar squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/1435-bTpEUcm.jpg",
+    "gif_url": "videos/1435-bTpEUcm.gif"
+  },
+  {
+    "id": "0054",
+    "name": "barbell lunge",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0054-t8iSghb.jpg",
+    "gif_url": "videos/0054-t8iSghb.gif"
+  },
+  {
+    "id": "1720",
+    "name": "barbell lying back of the head tricep extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps",
+    "image": "images/1720-yg8Totb.jpg",
+    "gif_url": "videos/1720-yg8Totb.gif"
+  },
+  {
+    "id": "0055",
+    "name": "barbell lying close-grip press",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps",
+    "image": "images/0055-EcaV7aL.jpg",
+    "gif_url": "videos/0055-EcaV7aL.gif"
+  },
+  {
+    "id": "0056",
+    "name": "barbell lying close-grip triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps",
+    "image": "images/0056-HJ63mSO.jpg",
+    "gif_url": "videos/0056-HJ63mSO.gif"
+  },
+  {
+    "id": "0057",
+    "name": "barbell lying extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps",
+    "image": "images/0057-EMpUwRI.jpg",
+    "gif_url": "videos/0057-EMpUwRI.gif"
+  },
+  {
+    "id": "0058",
+    "name": "barbell lying lifting (on hip)",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0058-SNFfUff.jpg",
+    "gif_url": "videos/0058-SNFfUff.gif"
+  },
+  {
+    "id": "0059",
+    "name": "barbell lying preacher curl",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "biceps",
+    "image": "images/0059-SYJ4Bkt.jpg",
+    "gif_url": "videos/0059-SYJ4Bkt.gif"
+  },
+  {
+    "id": "0061",
+    "name": "barbell lying triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps",
+    "image": "images/0061-iZop9xO.jpg",
+    "gif_url": "videos/0061-iZop9xO.gif"
+  },
+  {
+    "id": "0060",
+    "name": "barbell lying triceps extension skull crusher",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps",
+    "image": "images/0060-h8LFzo9.jpg",
+    "gif_url": "videos/0060-h8LFzo9.gif"
+  },
+  {
+    "id": "0063",
+    "name": "barbell narrow stance squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0063-elhhVgj.jpg",
+    "gif_url": "videos/0063-elhhVgj.gif"
+  },
+  {
+    "id": "0064",
+    "name": "barbell one arm bent over row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "barbell",
+    "target": "upper back",
+    "image": "images/0064-Jsgsc27.jpg",
+    "gif_url": "videos/0064-Jsgsc27.gif"
+  },
+  {
+    "id": "0065",
+    "name": "barbell one arm floor press",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps",
+    "image": "images/0065-vtusOWT.jpg",
+    "gif_url": "videos/0065-vtusOWT.gif"
+  },
+  {
+    "id": "0066",
+    "name": "barbell one arm side deadlift",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0066-2DxtqHL.jpg",
+    "gif_url": "videos/0066-2DxtqHL.gif"
+  },
+  {
+    "id": "0067",
+    "name": "barbell one arm snatch",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/0067-xHKN2s8.jpg",
+    "gif_url": "videos/0067-xHKN2s8.gif"
+  },
+  {
+    "id": "0068",
+    "name": "barbell one leg squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "quads",
+    "image": "images/0068-uKyN64F.jpg",
+    "gif_url": "videos/0068-uKyN64F.gif"
+  },
+  {
+    "id": "0069",
+    "name": "barbell overhead squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "quads",
+    "image": "images/0069-gfk9kD4.jpg",
+    "gif_url": "videos/0069-gfk9kD4.gif"
+  },
+  {
+    "id": "1411",
+    "name": "barbell palms down wrist curl over a bench",
+    "category": "lower arms",
+    "body_part": "lower arms",
+    "equipment": "barbell",
+    "target": "forearms",
+    "image": "images/1411-yzYH9pI.jpg",
+    "gif_url": "videos/1411-yzYH9pI.gif"
+  },
+  {
+    "id": "1412",
+    "name": "barbell palms up wrist curl over a bench",
+    "category": "lower arms",
+    "body_part": "lower arms",
+    "equipment": "barbell",
+    "target": "forearms",
+    "image": "images/1412-SJAA2IQ.jpg",
+    "gif_url": "videos/1412-SJAA2IQ.gif"
+  },
+  {
+    "id": "3017",
+    "name": "barbell pendlay row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "barbell",
+    "target": "upper back",
+    "image": "images/3017-r0z6xzQ.jpg",
+    "gif_url": "videos/3017-r0z6xzQ.gif"
+  },
+  {
+    "id": "1751",
+    "name": "barbell pin presses",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps",
+    "image": "images/1751-bndCa3Q.jpg",
+    "gif_url": "videos/1751-bndCa3Q.gif"
+  },
+  {
+    "id": "0070",
+    "name": "barbell preacher curl",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "biceps",
+    "image": "images/0070-qOgPVf6.jpg",
+    "gif_url": "videos/0070-qOgPVf6.gif"
+  },
+  {
+    "id": "0071",
+    "name": "barbell press sit-up",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "barbell",
+    "target": "abs",
+    "image": "images/0071-wnEscH8.jpg",
+    "gif_url": "videos/0071-wnEscH8.gif"
+  },
+  {
+    "id": "0072",
+    "name": "barbell prone incline curl",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "biceps",
+    "image": "images/0072-WLvTAv5.jpg",
+    "gif_url": "videos/0072-WLvTAv5.gif"
+  },
+  {
+    "id": "0073",
+    "name": "barbell pullover",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "barbell",
+    "target": "lats",
+    "image": "images/0073-i6LWjok.jpg",
+    "gif_url": "videos/0073-i6LWjok.gif"
+  },
+  {
+    "id": "0022",
+    "name": "barbell pullover to press",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "barbell",
+    "target": "lats",
+    "image": "images/0022-znLogoF.jpg",
+    "gif_url": "videos/0022-znLogoF.gif"
+  },
+  {
+    "id": "0074",
+    "name": "barbell rack pull",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0074-za9Ni4z.jpg",
+    "gif_url": "videos/0074-za9Ni4z.gif"
+  },
+  {
+    "id": "0075",
+    "name": "barbell rear delt raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/0075-Ln9iTbU.jpg",
+    "gif_url": "videos/0075-Ln9iTbU.gif"
+  },
+  {
+    "id": "0076",
+    "name": "barbell rear delt row",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/0076-S9zHIvU.jpg",
+    "gif_url": "videos/0076-S9zHIvU.gif"
+  },
+  {
+    "id": "0078",
+    "name": "barbell rear lunge",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0078-VaP75jl.jpg",
+    "gif_url": "videos/0078-VaP75jl.gif"
+  },
+  {
+    "id": "0077",
+    "name": "barbell rear lunge v. 2",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0077-62Nw60O.jpg",
+    "gif_url": "videos/0077-62Nw60O.gif"
+  },
+  {
+    "id": "0079",
+    "name": "barbell revers wrist curl v. 2",
+    "category": "lower arms",
+    "body_part": "lower arms",
+    "equipment": "barbell",
+    "target": "forearms",
+    "image": "images/0079-qDnGfDb.jpg",
+    "gif_url": "videos/0079-qDnGfDb.gif"
+  },
+  {
+    "id": "2187",
+    "name": "barbell reverse close-grip bench press",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps",
+    "image": "images/2187-YqJw82s.jpg",
+    "gif_url": "videos/2187-YqJw82s.gif"
+  },
+  {
+    "id": "0080",
+    "name": "barbell reverse curl",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "biceps",
+    "image": "images/0080-xNrS20v.jpg",
+    "gif_url": "videos/0080-xNrS20v.gif"
+  },
+  {
+    "id": "0118",
+    "name": "barbell reverse grip bent over row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "barbell",
+    "target": "upper back",
+    "image": "images/0118-SzX3uzM.jpg",
+    "gif_url": "videos/0118-SzX3uzM.gif"
+  },
+  {
+    "id": "1256",
+    "name": "barbell reverse grip decline bench press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "barbell",
+    "target": "pectorals",
+    "image": "images/1256-DotAgEF.jpg",
+    "gif_url": "videos/1256-DotAgEF.gif"
+  },
+  {
+    "id": "1257",
+    "name": "barbell reverse grip incline bench press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "barbell",
+    "target": "pectorals",
+    "image": "images/1257-DU7I633.jpg",
+    "gif_url": "videos/1257-DU7I633.gif"
+  },
+  {
+    "id": "1317",
+    "name": "barbell reverse grip incline bench row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "barbell",
+    "target": "upper back",
+    "image": "images/1317-8d8qJQI.jpg",
+    "gif_url": "videos/1317-8d8qJQI.gif"
+  },
+  {
+    "id": "1721",
+    "name": "barbell reverse grip skullcrusher",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps",
+    "image": "images/1721-yRLPCLu.jpg",
+    "gif_url": "videos/1721-yRLPCLu.gif"
+  },
+  {
+    "id": "0081",
+    "name": "barbell reverse preacher curl",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "biceps",
+    "image": "images/0081-4LIG9xr.jpg",
+    "gif_url": "videos/0081-4LIG9xr.gif"
+  },
+  {
+    "id": "0082",
+    "name": "barbell reverse wrist curl",
+    "category": "lower arms",
+    "body_part": "lower arms",
+    "equipment": "barbell",
+    "target": "forearms",
+    "image": "images/0082-LsZkfU6.jpg",
+    "gif_url": "videos/0082-LsZkfU6.gif"
+  },
+  {
+    "id": "0084",
+    "name": "barbell rollerout",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "barbell",
+    "target": "abs",
+    "image": "images/0084-7M66AVi.jpg",
+    "gif_url": "videos/0084-7M66AVi.gif"
+  },
+  {
+    "id": "0083",
+    "name": "barbell rollerout from bench",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "barbell",
+    "target": "abs",
+    "image": "images/0083-Gxg9lDc.jpg",
+    "gif_url": "videos/0083-Gxg9lDc.gif"
+  },
+  {
+    "id": "0085",
+    "name": "barbell romanian deadlift",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0085-wQ2c4XD.jpg",
+    "gif_url": "videos/0085-wQ2c4XD.gif"
+  },
+  {
+    "id": "0086",
+    "name": "barbell seated behind head military press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/0086-ngPpyRS.jpg",
+    "gif_url": "videos/0086-ngPpyRS.gif"
+  },
+  {
+    "id": "0087",
+    "name": "barbell seated bradford rocky press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/0087-0dCyly0.jpg",
+    "gif_url": "videos/0087-0dCyly0.gif"
+  },
+  {
+    "id": "0088",
+    "name": "barbell seated calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "barbell",
+    "target": "calves",
+    "image": "images/0088-ktsFQAZ.jpg",
+    "gif_url": "videos/0088-ktsFQAZ.gif"
+  },
+  {
+    "id": "1371",
+    "name": "barbell seated calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "barbell",
+    "target": "calves",
+    "image": "images/1371-ipvgBnC.jpg",
+    "gif_url": "videos/1371-ipvgBnC.gif"
+  },
+  {
+    "id": "1718",
+    "name": "barbell seated close grip behind neck triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps",
+    "image": "images/1718-4CBIBOM.jpg",
+    "gif_url": "videos/1718-4CBIBOM.gif"
+  },
+  {
+    "id": "0089",
+    "name": "barbell seated close-grip concentration curl",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "biceps",
+    "image": "images/0089-1V1gj1u.jpg",
+    "gif_url": "videos/0089-1V1gj1u.gif"
+  },
+  {
+    "id": "0090",
+    "name": "barbell seated good morning",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0090-d960PgE.jpg",
+    "gif_url": "videos/0090-d960PgE.gif"
+  },
+  {
+    "id": "0091",
+    "name": "barbell seated overhead press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/0091-kTbSH9h.jpg",
+    "gif_url": "videos/0091-kTbSH9h.gif"
+  },
+  {
+    "id": "0092",
+    "name": "barbell seated overhead triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps",
+    "image": "images/0092-5uFK1xr.jpg",
+    "gif_url": "videos/0092-5uFK1xr.gif"
+  },
+  {
+    "id": "0094",
+    "name": "barbell seated twist",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "barbell",
+    "target": "abs",
+    "image": "images/0094-dFSNDOA.jpg",
+    "gif_url": "videos/0094-dFSNDOA.gif"
+  },
+  {
+    "id": "0095",
+    "name": "barbell shrug",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "barbell",
+    "target": "traps",
+    "image": "images/0095-dG7tG5y.jpg",
+    "gif_url": "videos/0095-dG7tG5y.gif"
+  },
+  {
+    "id": "0096",
+    "name": "barbell side bent v. 2",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "barbell",
+    "target": "abs",
+    "image": "images/0096-i4JkUaL.jpg",
+    "gif_url": "videos/0096-i4JkUaL.gif"
+  },
+  {
+    "id": "0098",
+    "name": "barbell side split squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "quads",
+    "image": "images/0098-W31mMjd.jpg",
+    "gif_url": "videos/0098-W31mMjd.gif"
+  },
+  {
+    "id": "0097",
+    "name": "barbell side split squat v. 2",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "quads",
+    "image": "images/0097-HUEqZ1y.jpg",
+    "gif_url": "videos/0097-HUEqZ1y.gif"
+  },
+  {
+    "id": "1756",
+    "name": "barbell single leg deadlift",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/1756-gEyURal.jpg",
+    "gif_url": "videos/1756-gEyURal.gif"
+  },
+  {
+    "id": "0099",
+    "name": "barbell single leg split squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "quads",
+    "image": "images/0099-gGNQmVt.jpg",
+    "gif_url": "videos/0099-gGNQmVt.gif"
+  },
+  {
+    "id": "2799",
+    "name": "barbell sitted alternate leg raise",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "barbell",
+    "target": "abs",
+    "image": "images/2799-G7xoEzr.jpg",
+    "gif_url": "videos/2799-G7xoEzr.gif"
+  },
+  {
+    "id": "2800",
+    "name": "barbell sitted alternate leg raise (female)",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "barbell",
+    "target": "abs",
+    "image": "images/2800-BCs0G2F.jpg",
+    "gif_url": "videos/2800-BCs0G2F.gif"
+  },
+  {
+    "id": "0100",
+    "name": "barbell skier",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/0100-4Leypho.jpg",
+    "gif_url": "videos/0100-4Leypho.gif"
+  },
+  {
+    "id": "0101",
+    "name": "barbell speed squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0101-euI1BwR.jpg",
+    "gif_url": "videos/0101-euI1BwR.gif"
+  },
+  {
+    "id": "2810",
+    "name": "barbell split squat v. 2",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "quads",
+    "image": "images/2810-HBYyX94.jpg",
+    "gif_url": "videos/2810-HBYyX94.gif"
+  },
+  {
+    "id": "0102",
+    "name": "barbell squat (on knees)",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "quads",
+    "image": "images/0102-oR7O9LW.jpg",
+    "gif_url": "videos/0102-oR7O9LW.gif"
+  },
+  {
+    "id": "2798",
+    "name": "barbell squat jump step rear lunge",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "quads",
+    "image": "images/2798-RYcV1kH.jpg",
+    "gif_url": "videos/2798-RYcV1kH.gif"
+  },
+  {
+    "id": "0103",
+    "name": "barbell standing ab rollerout",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "barbell",
+    "target": "abs",
+    "image": "images/0103-xnInPfE.jpg",
+    "gif_url": "videos/0103-xnInPfE.gif"
+  },
+  {
+    "id": "0104",
+    "name": "barbell standing back wrist curl",
+    "category": "lower arms",
+    "body_part": "lower arms",
+    "equipment": "barbell",
+    "target": "forearms",
+    "image": "images/0104-2qTvJAZ.jpg",
+    "gif_url": "videos/0104-2qTvJAZ.gif"
+  },
+  {
+    "id": "0105",
+    "name": "barbell standing bradford press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/0105-dCPESfR.jpg",
+    "gif_url": "videos/0105-dCPESfR.gif"
+  },
+  {
+    "id": "1372",
+    "name": "barbell standing calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "barbell",
+    "target": "calves",
+    "image": "images/1372-8ozhUIZ.jpg",
+    "gif_url": "videos/1372-8ozhUIZ.gif"
+  },
+  {
+    "id": "0106",
+    "name": "barbell standing close grip curl",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "biceps",
+    "image": "images/0106-4dUn2iv.jpg",
+    "gif_url": "videos/0106-4dUn2iv.gif"
+  },
+  {
+    "id": "1456",
+    "name": "barbell standing close grip military press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/1456-wdRZISl.jpg",
+    "gif_url": "videos/1456-wdRZISl.gif"
+  },
+  {
+    "id": "2414",
+    "name": "barbell standing concentration curl",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "biceps",
+    "image": "images/2414-vsMcDi9.jpg",
+    "gif_url": "videos/2414-vsMcDi9.gif"
+  },
+  {
+    "id": "0107",
+    "name": "barbell standing front raise over head",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/0107-S8mo30S.jpg",
+    "gif_url": "videos/0107-S8mo30S.gif"
+  },
+  {
+    "id": "0108",
+    "name": "barbell standing leg calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "barbell",
+    "target": "calves",
+    "image": "images/0108-rGwhJ5o.jpg",
+    "gif_url": "videos/0108-rGwhJ5o.gif"
+  },
+  {
+    "id": "0109",
+    "name": "barbell standing overhead triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps",
+    "image": "images/0109-dZl9Q27.jpg",
+    "gif_url": "videos/0109-dZl9Q27.gif"
+  },
+  {
+    "id": "0110",
+    "name": "barbell standing reverse grip curl",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "biceps",
+    "image": "images/0110-LWuA3aZ.jpg",
+    "gif_url": "videos/0110-LWuA3aZ.gif"
+  },
+  {
+    "id": "0111",
+    "name": "barbell standing rocking leg calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "barbell",
+    "target": "calves",
+    "image": "images/0111-6HiHHe0.jpg",
+    "gif_url": "videos/0111-6HiHHe0.gif"
+  },
+  {
+    "id": "0112",
+    "name": "barbell standing twist",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "barbell",
+    "target": "abs",
+    "image": "images/0112-yQe5HpE.jpg",
+    "gif_url": "videos/0112-yQe5HpE.gif"
+  },
+  {
+    "id": "1629",
+    "name": "barbell standing wide grip biceps curl",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "biceps",
+    "image": "images/1629-faHKVkK.jpg",
+    "gif_url": "videos/1629-faHKVkK.gif"
+  },
+  {
+    "id": "1457",
+    "name": "barbell standing wide military press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/1457-Kyd9Rz5.jpg",
+    "gif_url": "videos/1457-Kyd9Rz5.gif"
+  },
+  {
+    "id": "0113",
+    "name": "barbell standing wide-grip curl",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "biceps",
+    "image": "images/0113-NdIb5Z1.jpg",
+    "gif_url": "videos/0113-NdIb5Z1.gif"
+  },
+  {
+    "id": "0114",
+    "name": "barbell step-up",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0114-Kxquu2E.jpg",
+    "gif_url": "videos/0114-Kxquu2E.gif"
+  },
+  {
+    "id": "0115",
+    "name": "barbell stiff leg good morning",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0115-JrOHAZc.jpg",
+    "gif_url": "videos/0115-JrOHAZc.gif"
+  },
+  {
+    "id": "0116",
+    "name": "barbell straight leg deadlift",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "hamstrings",
+    "image": "images/0116-hrVQWvE.jpg",
+    "gif_url": "videos/0116-hrVQWvE.gif"
+  },
+  {
+    "id": "0117",
+    "name": "barbell sumo deadlift",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0117-KgI0tqW.jpg",
+    "gif_url": "videos/0117-KgI0tqW.gif"
+  },
+  {
+    "id": "3305",
+    "name": "barbell thruster",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/3305-f7Y9eDZ.jpg",
+    "gif_url": "videos/3305-f7Y9eDZ.gif"
+  },
+  {
+    "id": "0120",
+    "name": "barbell upright row",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/0120-UDlhcO8.jpg",
+    "gif_url": "videos/0120-UDlhcO8.gif"
+  },
+  {
+    "id": "0119",
+    "name": "barbell upright row v. 2",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/0119-83HoW9X.jpg",
+    "gif_url": "videos/0119-83HoW9X.gif"
+  },
+  {
+    "id": "0121",
+    "name": "barbell upright row v. 3",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/0121-fI18Rbc.jpg",
+    "gif_url": "videos/0121-fI18Rbc.gif"
+  },
+  {
+    "id": "0122",
+    "name": "barbell wide bench press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "barbell",
+    "target": "pectorals",
+    "image": "images/0122-JsKq9so.jpg",
+    "gif_url": "videos/0122-JsKq9so.gif"
+  },
+  {
+    "id": "1258",
+    "name": "barbell wide reverse grip bench press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "barbell",
+    "target": "pectorals",
+    "image": "images/1258-945zpRg.jpg",
+    "gif_url": "videos/1258-945zpRg.gif"
+  },
+  {
+    "id": "0124",
+    "name": "barbell wide squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "quads",
+    "image": "images/0124-s7HX1BY.jpg",
+    "gif_url": "videos/0124-s7HX1BY.gif"
+  },
+  {
+    "id": "0123",
+    "name": "barbell wide-grip upright row",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/0123-RgJDRR1.jpg",
+    "gif_url": "videos/0123-RgJDRR1.gif"
+  },
+  {
+    "id": "0126",
+    "name": "barbell wrist curl",
+    "category": "lower arms",
+    "body_part": "lower arms",
+    "equipment": "barbell",
+    "target": "forearms",
+    "image": "images/0126-82LxxkW.jpg",
+    "gif_url": "videos/0126-82LxxkW.gif"
+  },
+  {
+    "id": "0125",
+    "name": "barbell wrist curl v. 2",
+    "category": "lower arms",
+    "body_part": "lower arms",
+    "equipment": "barbell",
+    "target": "forearms",
+    "image": "images/0125-6kSxYnw.jpg",
+    "gif_url": "videos/0125-6kSxYnw.gif"
+  },
+  {
+    "id": "0127",
+    "name": "barbell zercher squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/0127-LSTChY9.jpg",
+    "gif_url": "videos/0127-LSTChY9.gif"
+  },
+  {
+    "id": "0248",
+    "name": "cambered bar lying row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "barbell",
+    "target": "upper back",
+    "image": "images/0248-R5swFnc.jpg",
+    "gif_url": "videos/0248-R5swFnc.gif"
+  },
+  {
+    "id": "0455",
+    "name": "finger curls",
+    "category": "lower arms",
+    "body_part": "lower arms",
+    "equipment": "barbell",
+    "target": "forearms",
+    "image": "images/0455-awG04cF.jpg",
+    "gif_url": "videos/0455-awG04cF.gif"
+  },
+  {
+    "id": "0458",
+    "name": "floor fly (with barbell)",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "barbell",
+    "target": "pectorals",
+    "image": "images/0458-neonEDL.jpg",
+    "gif_url": "videos/0458-neonEDL.gif"
+  },
+  {
+    "id": "3194",
+    "name": "frankenstein squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/3194-bdWcbaU.jpg",
+    "gif_url": "videos/3194-bdWcbaU.gif"
+  },
+  {
+    "id": "1420",
+    "name": "kneeling jump squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes",
+    "image": "images/1420-UgDm3oy.jpg",
+    "gif_url": "videos/1420-UgDm3oy.gif"
+  },
+  {
+    "id": "0562",
+    "name": "landmine 180",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "barbell",
+    "target": "abs",
+    "image": "images/0562-QYysSLV.jpg",
+    "gif_url": "videos/0562-QYysSLV.gif"
+  },
+  {
+    "id": "3237",
+    "name": "landmine lateral raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/3237-eXMFHww.jpg",
+    "gif_url": "videos/3237-eXMFHww.gif"
+  },
+  {
+    "id": "0574",
+    "name": "lever bent over row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "barbell",
+    "target": "upper back",
+    "image": "images/0574-X3cqyXz.jpg",
+    "gif_url": "videos/0574-X3cqyXz.gif"
+  },
+  {
+    "id": "0589",
+    "name": "lever one arm bent over row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "barbell",
+    "target": "upper back",
+    "image": "images/0589-Fhdtwf3.jpg",
+    "gif_url": "videos/0589-Fhdtwf3.gif"
+  },
+  {
+    "id": "0648",
+    "name": "power clean",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "hamstrings",
+    "image": "images/0648-SiWCcTN.jpg",
+    "gif_url": "videos/0648-SiWCcTN.gif"
+  },
+  {
+    "id": "0776",
+    "name": "snatch pull",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "quads",
+    "image": "images/0776-dG5Smob.jpg",
+    "gif_url": "videos/0776-dG5Smob.gif"
+  },
+  {
+    "id": "0786",
+    "name": "squat jerk",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "quads",
+    "image": "images/0786-IMRsOCn.jpg",
+    "gif_url": "videos/0786-IMRsOCn.gif"
+  },
+  {
+    "id": "0788",
+    "name": "standing behind neck press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "barbell",
+    "target": "delts",
+    "image": "images/0788-xDh0lJr.jpg",
+    "gif_url": "videos/0788-xDh0lJr.gif"
+  }
+]

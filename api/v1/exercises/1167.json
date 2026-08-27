@@ -1,0 +1,112 @@
+{
+  "id": "1167",
+  "name": "dynamic chest stretch (male)",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand tall with your feet shoulder-width apart. Extend your arms straight out to the sides, parallel to the ground. Slowly bring your arms forward, crossing them in front of your body. Feel the stretch in your chest muscles. Hold the stretch for 10-30 seconds. Return to the starting position and repeat for the desired number of repetitions.",
+    "it": "Stai dritto con i piedi a larghezza delle spalle. Allunga le braccia dritte ai lati, parallele al suolo. Porta lentamente le braccia in avanti, incrociandole davanti al corpo. Senti l'allungamento nei muscoli del petto. Mantieni lo stretch per 10-30 secondi. Torna alla posizione iniziale e ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde dik durun. Kollarınızı yere paralel olarak yanlara doğru uzatın. Kollarınızı yavaşça öne doğru uzatın ve vücudunuzun önünde çaprazlayın. Göğüs kaslarınızdaki gerginliği hissedin. Uzatmayı 10-30 saniye kadar tutun. Başlangıç ​​pozisyonuna dönün ve istenilen sayıda tekrar yapın.",
+    "es": "Ponte de pie con la espalda recta y los pies separados a la altura de los hombros. Extiende los brazos hacia los lados, paralelos al suelo. Lleva lentamente los brazos hacia adelante, cruzándolos frente al cuerpo. Siente el estiramiento en los músculos del pecho. Mantén el estiramiento durante 10-30 segundos. Vuelve a la posición inicial y repite el número de repeticiones deseado.",
+    "ru": "Встаньте прямо, ноги на ширине плеч. Вытяните руки прямо в стороны, параллельно земле. Медленно вытяните руки вперед, скрестив их перед телом. Почувствуйте растяжение мышц груди. Удерживайте растяжку 10–30 секунд. Вернитесь в исходное положение и повторите необходимое количество повторений.",
+    "zh": "站直，双脚分开与肩同宽。 将双臂伸直至两侧，与地面平行。 慢慢地将双臂向前伸，交叉在身体前面。 感受胸部肌肉的伸展。 保持拉伸 10-30 秒。 返回起始位置并重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर सीधे खड़े रहें। अपनी भुजाओं को ज़मीन के समानांतर, भुजाओं तक सीधा फैलाएँ। धीरे-धीरे अपनी भुजाओं को अपने शरीर के सामने क्रॉस करते हुए आगे लाएँ। अपनी छाती की मांसपेशियों में खिंचाव महसूस करें। 10-30 सेकंड तक खिंचाव बनाए रखें। प्रारंभिक स्थिति पर लौटें और वांछित संख्या में दोहराव के लिए दोहराएं।",
+    "pl": "Stań prosto w rozkroku na szerokość barków. Wyprostuj ramiona w bok, równolegle do podłogi. Powoli przenieś ramiona do przodu, krzyżując je przed ciałem. Poczuj rozciąganie mięśni klatki piersiowej. Utrzymaj rozciąganie przez 10-30 sekund. Wróć do pozycji wyjściowej i powtórz zalecaną liczbę powtórzeń.",
+    "ko": "어깨너비로 발을 벌리고 서서 팔을 완전히 펼쳐 옆으로 땅과 평행하게 합니다. 팔을 천천히 앞으로 가져가 몸 앞에서 교차시킵니다. 가슴 근육에 스트레칭을 느낍니다. 10-30초간 스트레칭을 유지합니다. 시작 위치로 돌아가 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi bien droit, les pieds écartés à la largeur des épaules. Étends les bras droit sur les côtés, parallèles au sol. Ramène lentement tes bras vers l'avant, en les croisant devant ton corps. Sens l'étirement dans les muscles de ta poitrine. Maintiens l'étirement pendant 10 à 30 secondes. Reviens à la position de départ et répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand tall with your feet shoulder-width apart.",
+      "Extend your arms straight out to the sides, parallel to the ground.",
+      "Slowly bring your arms forward, crossing them in front of your body.",
+      "Feel the stretch in your chest muscles.",
+      "Hold the stretch for 10-30 seconds.",
+      "Return to the starting position and repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai dritto con i piedi a larghezza delle spalle.",
+      "Allunga le braccia dritte ai lati, parallele al suolo.",
+      "Porta lentamente le braccia in avanti, incrociandole davanti al corpo.",
+      "Senti l'allungamento nei muscoli del petto.",
+      "Mantieni lo stretch per 10-30 secondi.",
+      "Torna alla posizione iniziale e ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde dik durun.",
+      "Kollarınızı yere paralel olarak yanlara doğru uzatın.",
+      "Kollarınızı yavaşça öne doğru uzatın ve vücudunuzun önünde çaprazlayın.",
+      "Göğüs kaslarınızdaki gerginliği hissedin.",
+      "Uzatmayı 10-30 saniye kadar tutun.",
+      "Başlangıç ​​pozisyonuna dönün ve istenilen sayıda tekrar yapın."
+    ],
+    "es": [
+      "Ponte de pie con la espalda recta y los pies separados a la altura de los hombros.",
+      "Extiende los brazos hacia los lados, paralelos al suelo.",
+      "Lleva lentamente los brazos hacia adelante, cruzándolos frente al cuerpo.",
+      "Siente el estiramiento en los músculos del pecho.",
+      "Mantén el estiramiento durante 10-30 segundos.",
+      "Vuelve a la posición inicial y repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте прямо, ноги на ширине плеч.",
+      "Вытяните руки прямо в стороны, параллельно земле.",
+      "Медленно вытяните руки вперед, скрестив их перед телом.",
+      "Почувствуйте растяжение мышц груди.",
+      "Удерживайте растяжку 10–30 секунд.",
+      "Вернитесь в исходное положение и повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "站直，双脚分开与肩同宽。",
+      "将双臂伸直至两侧，与地面平行。",
+      "慢慢地将双臂向前伸，交叉在身体前面。",
+      "感受胸部肌肉的伸展。",
+      "保持拉伸 10-30 秒。",
+      "返回起始位置并重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर सीधे खड़े रहें।",
+      "अपनी भुजाओं को ज़मीन के समानांतर, भुजाओं तक सीधा फैलाएँ।",
+      "धीरे-धीरे अपनी भुजाओं को अपने शरीर के सामने क्रॉस करते हुए आगे लाएँ।",
+      "अपनी छाती की मांसपेशियों में खिंचाव महसूस करें।",
+      "10-30 सेकंड तक खिंचाव बनाए रखें।",
+      "प्रारंभिक स्थिति पर लौटें और वांछित संख्या में दोहराव के लिए दोहराएं।"
+    ],
+    "pl": [
+      "Stań prosto w rozkroku na szerokość barków.",
+      "Wyprostuj ramiona w bok, równolegle do podłogi.",
+      "Powoli przenieś ramiona do przodu, krzyżując je przed ciałem.",
+      "Poczuj rozciąganie mięśni klatki piersiowej.",
+      "Utrzymaj rozciąganie przez 10-30 sekund.",
+      "Wróć do pozycji wyjściowej i powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "어깨너비로 발을 벌리고 서 있습니다.",
+      "팔을 완전히 펼쳐 옆으로 땅과 평행하게 합니다.",
+      "팔을 천천히 앞으로 가져가 몸 앞에서 교차시킵니다.",
+      "가슴 근육에 스트레칭을 느낍니다.",
+      "10-30초간 스트레칭을 유지합니다.",
+      "시작 위치로 돌아가 원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi bien droit, les pieds écartés à la largeur des épaules.",
+      "Étends les bras droit sur les côtés, parallèles au sol.",
+      "Ramène lentement tes bras vers l'avant, en les croisant devant ton corps.",
+      "Sens l'étirement dans les muscles de ta poitrine.",
+      "Maintiens l'étirement pendant 10 à 30 secondes.",
+      "Reviens à la position de départ et répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "target": "pectorals",
+  "image": "images/1167-3uj0Ozg.jpg",
+  "gif_url": "videos/1167-3uj0Ozg.gif",
+  "media_id": "3uj0Ozg",
+  "created_at": "2026-03-18T12:31:32.882554+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

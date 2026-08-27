@@ -1,0 +1,123 @@
+{
+  "id": "0097",
+  "name": "barbell side split squat v. 2",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Stand with your feet wider than shoulder-width apart, toes pointing slightly outwards. Hold a barbell across your upper back, resting it on your shoulders. Take a big step to the side with your right foot, keeping your left foot planted. Bend your right knee and lower your body down into a squat position, keeping your chest up and your back straight. Push through your right heel to return to the starting position. Repeat on the other side, stepping out with your left foot. Continue alternating sides for the desired number of repetitions.",
+    "it": "Stai in piedi con i piedi più larghi delle spalle, con le dita leggermente rivolte verso l'esterno. Tieni un bilanciere sulla parte alta della schiena, appoggiandolo sulle spalle. Fai un grande passo di lato con il piede destro, mantenendo il sinistro piantato. Flette il ginocchio destro e abbassa il corpo in posizione accovacciata, mantenendo il petto sollevato e la schiena dritta. Spingi attraverso il tallone destro per tornare alla posizione di partenza. Ripeti dall'altro lato, facendo un passo avanti con il piede sinistro. Continua ad alternare i lati per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız omuz genişliğinden daha geniş, ayak parmaklarınız hafifçe dışarı bakacak şekilde ayakta durun. Sırtınızın üst kısmına bir halter tutun ve omuzlarınıza yaslayın. Sol ayağınızı dik tutarak sağ ayağınızla yana doğru büyük bir adım atın. Sağ dizinizi bükün ve göğsünüzü yukarıda ve sırtınızı düz tutarak vücudunuzu çömelme pozisyonuna indirin. Başlangıç ​​pozisyonuna dönmek için sağ topuğunuzu itin. Sol ayağınızla dışarı çıkarak diğer tarafta tekrarlayın. İstenilen tekrar sayısı için alternatif taraflara devam edin.",
+    "es": "Ponte de pie con los pies más separados que el ancho de los hombros, con las puntas de los pies ligeramente hacia afuera. Sujeta una barra sobre la parte superior de la espalda, apoyándola en los hombros. Da un paso grande hacia el lado con el pie derecho, manteniendo el pie izquierdo fijo en el suelo. Flexiona la rodilla derecha y baja el cuerpo hacia una posición de sentadilla, manteniendo el pecho elevado y la espalda recta. Empuja con el talón derecho para regresar a la posición inicial. Repite hacia el otro lado, dando el paso con el pie izquierdo. Continúa alternando lados durante el número de repeticiones deseado.",
+    "ru": "Встаньте, поставив ноги шире плеч, носки слегка направлены наружу. Держите штангу через верхнюю часть спины, положив ее на плечи. Сделайте большой шаг в сторону правой ногой, удерживая левую ногу на месте. Согните правое колено и опустите тело в положение приседа, удерживая грудь поднятой, а спину прямой. Оттолкнитесь правой пяткой, чтобы вернуться в исходное положение. Повторите то же самое с другой стороны, выставив левую ногу. Продолжайте чередовать стороны желаемое количество повторений.",
+    "zh": "站立，双脚分开比肩宽，脚趾稍微向外。 将杠铃放在上背部，将其放在肩膀上。 右脚向一侧迈出一大步，保持左脚踩地。 弯曲右膝，将身体放低至蹲姿，保持挺胸、背部挺直。 推动右脚跟回到起始位置。 在另一侧重复，左脚迈出。 继续交替进行所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई से अधिक चौड़ा करके खड़े रहें, पैर की उंगलियां थोड़ी बाहर की ओर हों। अपनी ऊपरी पीठ पर एक बारबेल पकड़ें, इसे अपने कंधों पर टिकाएं। अपने दाहिने पैर को बगल में रखते हुए एक बड़ा कदम उठाएं, अपने बाएं पैर को सीधा रखें। अपने दाहिने घुटने को मोड़ें और अपने शरीर को स्क्वाट स्थिति में नीचे लाएँ, अपनी छाती को ऊपर और अपनी पीठ को सीधा रखें। प्रारंभिक स्थिति में लौटने के लिए अपनी दाहिनी एड़ी को धक्का दें। अपने बाएं पैर से बाहर निकलते हुए दूसरी तरफ भी दोहराएं। दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।",
+    "pl": "Stań ze stopami rozstawionymi szerzej niż barki, ze stopami skierowanymi lekko na zewnątrz. Trzymaj sztangę na górnej części pleców, opierając ją na barkach. Zrób duży krok w bok prawą stopą, trzymając lewą stopę nieruchomo na podłożu. Ugnij prawe kolano i opuść ciało w przysiad, trzymając klatkę piersiową uniesioną, a plecy proste. Wypchnij się przez prawą piętę, wracając do pozycji wyjściowej. Powtórz w drugą stronę, wykonując krok lewą stopą. Kontynuuj naprzemienne strony przez zadaną liczbę powtórzeń.",
+    "ko": "발을 어깨 너비보다 넓게 벌리고 발끝은 약간 바깥쪽을 향합니다. 바벨을 상등에 올려 어깨에 올립니다. 오른발로 옆으로 한 발을 크게 디딥니다. 왼발은 그대로 고정합니다. 오른쪽 무릎을 구부려 스쿼트 자세로 몸을 내립니다. 가슴을 올리고 등을 곧게 유지합니다. 오른쪽 발뒤꿈치를 통해 밀어 시작 위치로 돌아갑니다. 다른 쪽, 왼발로 옆으로 디디며 반복합니다. 원하는 반복 횟수만큼 좌우를 번갈아 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds plus écartés que la largeur des épaules, les orteils légèrement tournés vers l'extérieur. Tiens une barre en travers du haut de ton dos, en la posant sur tes épaules. Fais un grand pas sur le côté avec le pied droit, en gardant le pied gauche bien ancré. Fléchis ton genou droit et abaisse ton corps en position accroupie en gardant la poitrine relevée et le dos droit. Pousse à travers ton talon droit pour revenir à la position de départ. Répète de l'autre côté en faisant un pas sur le côté avec ton pied gauche. Continue à alterner les côtés pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet wider than shoulder-width apart, toes pointing slightly outwards.",
+      "Hold a barbell across your upper back, resting it on your shoulders.",
+      "Take a big step to the side with your right foot, keeping your left foot planted.",
+      "Bend your right knee and lower your body down into a squat position, keeping your chest up and your back straight.",
+      "Push through your right heel to return to the starting position.",
+      "Repeat on the other side, stepping out with your left foot.",
+      "Continue alternating sides for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai in piedi con i piedi più larghi delle spalle, con le dita leggermente rivolte verso l'esterno.",
+      "Tieni un bilanciere sulla parte alta della schiena, appoggiandolo sulle spalle.",
+      "Fai un grande passo di lato con il piede destro, mantenendo il sinistro piantato.",
+      "Flette il ginocchio destro e abbassa il corpo in posizione accovacciata, mantenendo il petto sollevato e la schiena dritta.",
+      "Spingi attraverso il tallone destro per tornare alla posizione di partenza.",
+      "Ripeti dall'altro lato, facendo un passo avanti con il piede sinistro.",
+      "Continua ad alternare i lati per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinden daha geniş, ayak parmaklarınız hafifçe dışarı bakacak şekilde ayakta durun.",
+      "Sırtınızın üst kısmına bir halter tutun ve omuzlarınıza yaslayın.",
+      "Sol ayağınızı dik tutarak sağ ayağınızla yana doğru büyük bir adım atın.",
+      "Sağ dizinizi bükün ve göğsünüzü yukarıda ve sırtınızı düz tutarak vücudunuzu çömelme pozisyonuna indirin.",
+      "Başlangıç ​​pozisyonuna dönmek için sağ topuğunuzu itin.",
+      "Sol ayağınızla dışarı çıkarak diğer tarafta tekrarlayın.",
+      "İstenilen tekrar sayısı için alternatif taraflara devam edin."
+    ],
+    "es": [
+      "Ponte de pie con los pies más separados que el ancho de los hombros, con las puntas de los pies ligeramente hacia afuera.",
+      "Sujeta una barra sobre la parte superior de la espalda, apoyándola en los hombros.",
+      "Da un paso grande hacia el lado con el pie derecho, manteniendo el pie izquierdo fijo en el suelo.",
+      "Flexiona la rodilla derecha y baja el cuerpo hacia una posición de sentadilla, manteniendo el pecho elevado y la espalda recta.",
+      "Empuja con el talón derecho para regresar a la posición inicial.",
+      "Repite hacia el otro lado, dando el paso con el pie izquierdo.",
+      "Continúa alternando lados durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, поставив ноги шире плеч, носки слегка направлены наружу.",
+      "Держите штангу через верхнюю часть спины, положив ее на плечи.",
+      "Сделайте большой шаг в сторону правой ногой, удерживая левую ногу на месте.",
+      "Согните правое колено и опустите тело в положение приседа, удерживая грудь поднятой, а спину прямой.",
+      "Оттолкнитесь правой пяткой, чтобы вернуться в исходное положение.",
+      "Повторите то же самое с другой стороны, выставив левую ногу.",
+      "Продолжайте чередовать стороны желаемое количество повторений."
+    ],
+    "zh": [
+      "站立，双脚分开比肩宽，脚趾稍微向外。",
+      "将杠铃放在上背部，将其放在肩膀上。",
+      "右脚向一侧迈出一大步，保持左脚踩地。",
+      "弯曲右膝，将身体放低至蹲姿，保持挺胸、背部挺直。",
+      "推动右脚跟回到起始位置。",
+      "在另一侧重复，左脚迈出。",
+      "继续交替进行所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई से अधिक चौड़ा करके खड़े रहें, पैर की उंगलियां थोड़ी बाहर की ओर हों।",
+      "अपनी ऊपरी पीठ पर एक बारबेल पकड़ें, इसे अपने कंधों पर टिकाएं।",
+      "अपने दाहिने पैर को बगल में रखते हुए एक बड़ा कदम उठाएं, अपने बाएं पैर को सीधा रखें।",
+      "अपने दाहिने घुटने को मोड़ें और अपने शरीर को स्क्वाट स्थिति में नीचे लाएँ, अपनी छाती को ऊपर और अपनी पीठ को सीधा रखें।",
+      "प्रारंभिक स्थिति में लौटने के लिए अपनी दाहिनी एड़ी को धक्का दें।",
+      "अपने बाएं पैर से बाहर निकलते हुए दूसरी तरफ भी दोहराएं।",
+      "दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।"
+    ],
+    "pl": [
+      "Stań ze stopami rozstawionymi szerzej niż barki, ze stopami skierowanymi lekko na zewnątrz.",
+      "Trzymaj sztangę na górnej części pleców, opierając ją na barkach.",
+      "Zrób duży krok w bok prawą stopą, trzymając lewą stopę nieruchomo na podłożu.",
+      "Ugnij prawe kolano i opuść ciało w przysiad, trzymając klatkę piersiową uniesioną, a plecy proste.",
+      "Wypchnij się przez prawą piętę, wracając do pozycji wyjściowej.",
+      "Powtórz w drugą stronę, wykonując krok lewą stopą.",
+      "Kontynuuj naprzemienne strony przez zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 너비보다 넓게 벌리고 발끝은 약간 바깥쪽을 향합니다.",
+      "바벨을 상등에 올려 어깨에 올립니다.",
+      "오른발로 옆으로 한 발을 크게 디딥니다.",
+      "오른쪽 무릎을 구부려 스쿼트 자세로 몸을 내립니다.",
+      "가슴을 올리고 등을 곧게 유지합니다.",
+      "오른쪽 발뒤꿈치를 통해 밀어 시작 위치로 돌아갑니다.",
+      "원하는 반복 횟수만큼 좌우를 번갈아 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds plus écartés que la largeur des épaules, les orteils légèrement tournés vers l'extérieur.",
+      "Tiens une barre en travers du haut de ton dos, en la posant sur tes épaules.",
+      "Fais un grand pas sur le côté avec le pied droit, en gardant le pied gauche bien ancré.",
+      "Fléchis ton genou droit et abaisse ton corps en position accroupie en gardant la poitrine relevée et le dos droit.",
+      "Pousse à travers ton talon droit pour revenir à la position de départ.",
+      "Répète de l'autre côté en faisant un pas sur le côté avec ton pied gauche.",
+      "Continue à alterner les côtés pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "glutes",
+  "secondary_muscles": [
+    "glutes",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "quads",
+  "image": "images/0097-HUEqZ1y.jpg",
+  "gif_url": "videos/0097-HUEqZ1y.gif",
+  "media_id": "HUEqZ1y",
+  "created_at": "2026-03-18T12:31:32.872857+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

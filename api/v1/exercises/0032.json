@@ -1,0 +1,112 @@
+{
+  "id": "0032",
+  "name": "barbell deadlift",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and the barbell on the ground in front of you. Bend your knees and hinge at the hips to lower your torso and grip the barbell with an overhand grip, hands slightly wider than shoulder-width apart. Keep your back straight and chest lifted as you drive through your heels to lift the barbell off the ground, extending your hips and knees. As you stand up straight, squeeze your glutes and keep your core engaged. Lower the barbell back down to the ground by bending at the hips and knees, keeping your back straight. Repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi alla larghezza delle spalle e il bilanciere a terra davanti a te. Piega le ginocchia e fai perno sui fianchi per abbassare il busto e afferrare il bilanciere con una presa prona, con le mani leggermente più larghe della larghezza delle spalle. Tieni la schiena dritta e il petto sollevato mentre spingi i talloni per sollevare il bilanciere da terra, estendendo i fianchi e le ginocchia. Mentre stai in piedi, contrai i glutei e mantieni il core impegnato. Abbassa il bilanciere a terra piegando le anche e le ginocchia, mantenendo la schiena dritta. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız omuz genişliğinde açık ve halter önünüzde yerde olacak şekilde ayakta durun. Dizlerinizi bükün ve kalçalarınızı menteşeleyerek gövdenizi indirin ve halteri üstten kavrayarak, eller omuz genişliğinden biraz daha geniş olacak şekilde kavrayın. Halteri yerden kaldırmak için topuklarınızın üzerinden geçerken sırtınızı düz ve göğsünüzü yukarıda tutun, kalçalarınızı ve dizlerinizi uzatın. Dik dururken kalça kaslarınızı sıkın ve merkez bölgenizi meşgul tutun. Sırtınızı düz tutarak, kalçalarınızı ve dizlerinizi bükerek halteri yere indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y la barra en el suelo frente a ti. Flexiona las rodillas y las caderas para bajar el torso y agarra la barra con un agarre pronado, con las manos un poco más separadas que el ancho de los hombros. Mantén la espalda recta y el pecho elevado mientras empujas con los talones para levantar la barra del suelo, extendiendo las caderas y las rodillas. Al ponerte de pie, aprieta los glúteos y mantén el core activado. Baja la barra de vuelta al suelo flexionando las caderas y las rodillas, manteniendo la espalda recta. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, положите штангу на землю перед собой. Согните колени и наклоните бедра, чтобы опустить туловище и взять штангу хватом сверху, руки на расстоянии чуть шире плеч. Держите спину прямо, а грудь приподнятой, пока вы двигаетесь пятками, чтобы поднять штангу с земли, вытягивая бедра и колени. Вставая прямо, сожмите ягодицы и держите корпус напряженным. Опустите штангу обратно на землю, сгибая бедра и колени, сохраняя спину прямой. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，杠铃放在你面前的地面上。 弯曲膝盖并以臀部为铰链，降低躯干，正手握住杠铃，双手分开略宽于肩宽。 当你通过脚后跟将杠铃抬离地面时，保持背部挺直，胸部抬起，伸展臀部和膝盖。 当你站直时，挤压你的臀部并保持你的核心参与。 弯曲臀部和膝盖，将杠铃放回地面，保持背部挺直。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और बारबेल आपके सामने जमीन पर हो। अपने घुटनों को मोड़ें और अपने धड़ को नीचे करने के लिए कूल्हों पर टिकाएं और बारबेल को ओवरहैंड ग्रिप से पकड़ें, हाथों को कंधे की चौड़ाई से थोड़ा चौड़ा रखें। बारबेल को जमीन से ऊपर उठाने के लिए अपनी एड़ी के माध्यम से ड्राइव करते समय अपनी पीठ सीधी और छाती ऊपर रखें, अपने कूल्हों और घुटनों को फैलाएं। जैसे ही आप सीधे खड़े हों, अपने ग्लूट्स को निचोड़ें और अपने कोर को व्यस्त रखें। अपनी पीठ को सीधा रखते हुए, कूल्हों और घुटनों पर झुकते हुए बारबेल को वापस ज़मीन पर नीचे लाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań w rozkroku na szerokość barków, ze sztangą leżącą na podłodze przed tobą. Ugnij kolana i pochyl się w biodrach, aby opuścić tułów i chwycić sztangę chwytem nachwytem, dłonie nieco szerzej niż szerokość barków. Utrzymując proste plecy i uniesioną klatkę piersiową, odepchnij się piętami, unosząc sztangę z podłogi, prostując biodra i kolana. Gdy staniesz prosto, ściśnij pośladki i utrzymuj napięcie mięśni tułowia. Opuść sztangę z powrotem na podłogę, uginając biodra i kolana, utrzymując proste plecy. Powtórz odpowiednią liczbę razy.",
+    "ko": "발을 어깨넓이로 벌리고 서서 바벨을 몸 앞 바닥에 놓습니다. 무릎을 굽혀 허리를 숙이면서 손가락이 앞을 향하도록 바벨을 잡고 손은 어깨넓이보다 약간 넓게 위치시킵니다. 등을 곧게 유지하고 가슴을 펴면서 발 뒤꿈치로 힘을 주어 바벨을 들어올리고 허리와 무릎을 펼칩니다. 서서 일어나면서 둔근을 조이고 복부에 힘을 줍니다. 바벨을 내릴 때는 허리와 무릎을 구부려 바닥으로 낮추면서 등을 곧게 유지합니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et la barre au sol devant toi. Fléchis les genoux et bascule au niveau des hanches pour abaisser ton torse et saisir la barre en prise pronation, les mains légèrement plus écartées que la largeur des épaules. Garde le dos droit et la poitrine relevée pendant que tu pousses sur tes talons pour soulever la barre du sol, en étendant tes hanches et tes genoux. En te redressant, contracte tes fessiers et garde ta sangle abdominale gainée. Abaisse la barre jusqu'au sol en fléchissant les hanches et les genoux, en gardant ton dos droit. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and the barbell on the ground in front of you.",
+      "Bend your knees and hinge at the hips to lower your torso and grip the barbell with an overhand grip, hands slightly wider than shoulder-width apart.",
+      "Keep your back straight and chest lifted as you drive through your heels to lift the barbell off the ground, extending your hips and knees.",
+      "As you stand up straight, squeeze your glutes and keep your core engaged.",
+      "Lower the barbell back down to the ground by bending at the hips and knees, keeping your back straight.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle e il bilanciere a terra davanti a te.",
+      "Piega le ginocchia e fai perno sui fianchi per abbassare il busto e afferrare il bilanciere con una presa prona, con le mani leggermente più larghe della larghezza delle spalle.",
+      "Tieni la schiena dritta e il petto sollevato mentre spingi i talloni per sollevare il bilanciere da terra, estendendo i fianchi e le ginocchia.",
+      "Mentre stai in piedi, contrai i glutei e mantieni il core impegnato.",
+      "Abbassa il bilanciere a terra piegando le anche e le ginocchia, mantenendo la schiena dritta.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık ve halter önünüzde yerde olacak şekilde ayakta durun.",
+      "Dizlerinizi bükün ve kalçalarınızı menteşeleyerek gövdenizi indirin ve halteri üstten kavrayarak, eller omuz genişliğinden biraz daha geniş olacak şekilde kavrayın.",
+      "Halteri yerden kaldırmak için topuklarınızın üzerinden geçerken sırtınızı düz ve göğsünüzü yukarıda tutun, kalçalarınızı ve dizlerinizi uzatın.",
+      "Dik dururken kalça kaslarınızı sıkın ve merkez bölgenizi meşgul tutun.",
+      "Sırtınızı düz tutarak, kalçalarınızı ve dizlerinizi bükerek halteri yere indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y la barra en el suelo frente a ti.",
+      "Flexiona las rodillas y las caderas para bajar el torso y agarra la barra con un agarre pronado, con las manos un poco más separadas que el ancho de los hombros.",
+      "Mantén la espalda recta y el pecho elevado mientras empujas con los talones para levantar la barra del suelo, extendiendo las caderas y las rodillas.",
+      "Al ponerte de pie, aprieta los glúteos y mantén el core activado.",
+      "Baja la barra de vuelta al suelo flexionando las caderas y las rodillas, manteniendo la espalda recta.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, положите штангу на землю перед собой.",
+      "Согните колени и наклоните бедра, чтобы опустить туловище и взять штангу хватом сверху, руки на расстоянии чуть шире плеч.",
+      "Держите спину прямо, а грудь приподнятой, пока вы двигаетесь пятками, чтобы поднять штангу с земли, вытягивая бедра и колени.",
+      "Вставая прямо, сожмите ягодицы и держите корпус напряженным.",
+      "Опустите штангу обратно на землю, сгибая бедра и колени, сохраняя спину прямой.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，杠铃放在你面前的地面上。",
+      "弯曲膝盖并以臀部为铰链，降低躯干，正手握住杠铃，双手分开略宽于肩宽。",
+      "当你通过脚后跟将杠铃抬离地面时，保持背部挺直，胸部抬起，伸展臀部和膝盖。",
+      "当你站直时，挤压你的臀部并保持你的核心参与。",
+      "弯曲臀部和膝盖，将杠铃放回地面，保持背部挺直。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और बारबेल आपके सामने जमीन पर हो।",
+      "अपने घुटनों को मोड़ें और अपने धड़ को नीचे करने के लिए कूल्हों पर टिकाएं और बारबेल को ओवरहैंड ग्रिप से पकड़ें, हाथों को कंधे की चौड़ाई से थोड़ा चौड़ा रखें।",
+      "बारबेल को जमीन से ऊपर उठाने के लिए अपनी एड़ी के माध्यम से ड्राइव करते समय अपनी पीठ सीधी और छाती ऊपर रखें, अपने कूल्हों और घुटनों को फैलाएं।",
+      "जैसे ही आप सीधे खड़े हों, अपने ग्लूट्स को निचोड़ें और अपने कोर को व्यस्त रखें।",
+      "अपनी पीठ को सीधा रखते हुए, कूल्हों और घुटनों पर झुकते हुए बारबेल को वापस ज़मीन पर नीचे लाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków, ze sztangą leżącą na podłodze przed tobą.",
+      "Ugnij kolana i pochyl się w biodrach, aby opuścić tułów i chwycić sztangę chwytem nachwytem, dłonie nieco szerzej niż szerokość barków.",
+      "Utrzymując proste plecy i uniesioną klatkę piersiową, odepchnij się piętami, unosząc sztangę z podłogi, prostując biodra i kolana.",
+      "Gdy staniesz prosto, ściśnij pośladki i utrzymuj napięcie mięśni tułowia.",
+      "Opuść sztangę z powrotem na podłogę, uginając biodra i kolana, utrzymując proste plecy.",
+      "Powtórz odpowiednią liczbę razy."
+    ],
+    "ko": [
+      "발을 어깨넓이로 벌리고 서서 바벨을 몸 앞 바닥에 놓습니다.",
+      "무릎을 굽혀 허리를 숙이면서 손가락이 앞을 향하도록 바벨을 잡고 손은 어깨넓이보다 약간 넓게 위치시킵니다.",
+      "등을 곧게 유지하고 가슴을 펴면서 발 뒤꿈치로 힘을 주어 바벨을 들어올리고 허리와 무릎을 펼칩니다.",
+      "서서 일어나면서 둔근을 조이고 복부에 힘을 줍니다.",
+      "바벨을 내릴 때는 허리와 무릎을 구부려 바닥으로 낮추면서 등을 곧게 유지합니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et la barre au sol devant toi.",
+      "Fléchis les genoux et bascule au niveau des hanches pour abaisser ton torse et saisir la barre en prise pronation, les mains légèrement plus écartées que la largeur des épaules.",
+      "Garde le dos droit et la poitrine relevée pendant que tu pousses sur tes talons pour soulever la barre du sol, en étendant tes hanches et tes genoux.",
+      "En te redressant, contracte tes fessiers et garde ta sangle abdominale gainée.",
+      "Abaisse la barre jusqu'au sol en fléchissant les hanches et les genoux, en gardant ton dos droit.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings",
+    "lower back"
+  ],
+  "target": "glutes",
+  "image": "images/0032-ila4NZS.jpg",
+  "gif_url": "videos/0032-ila4NZS.gif",
+  "media_id": "ila4NZS",
+  "created_at": "2026-03-18T12:31:32.870425+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

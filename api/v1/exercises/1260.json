@@ -1,0 +1,112 @@
+{
+  "id": "1260",
+  "name": "cable decline one arm press",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Adjust the cable machine to a decline position. Stand facing away from the machine and grab the handle with one hand. Position yourself with your back against the decline bench and your arm extended straight in front of you. Bend your elbow and lower the handle towards your chest while keeping your upper arm stationary. Pause for a moment at the bottom, then push the handle back up to the starting position. Repeat for the desired number of repetitions, then switch arms.",
+    "it": "Regola la macchina a cavo in posizione declinante. Mettiti di spalle alla macchina e afferra la maniglia con una mano. Posizionati con la schiena contro la panca di declino e il braccio teso davanti a te. Piega il gomito e abbassa il manico verso il petto mantenendo fermo il braccio superiore. Fermati un attimo in fondo, poi spingi la maniglia di nuovo verso la posizione iniziale. Ripeti per il numero desiderato di ripetizioni, poi cambia braccio.",
+    "tr": "Kablo makinesini reddetme konumuna ayarlayın. Makineden uzağa bakacak şekilde durun ve kolu bir elinizle tutun. Sırtınızı düşüş bankına yaslayacak ve kolunuz düz bir şekilde önünüzde uzatılacak şekilde kendinizi konumlandırın. Dirseğinizi bükün ve üst kolunuzu sabit tutarak kolu göğsünüze doğru indirin. Altta bir an duraklayın, ardından kolu başlangıç ​​pozisyonuna geri itin. İstenilen tekrar sayısı kadar tekrarlayın, ardından kolları değiştirin.",
+    "es": "Ajusta la máquina de cable a una posición declinada. Ponte de pie de espaldas a la máquina y sujeta la agarradera con una mano. Colócate con la espalda contra el banco declinado y el brazo extendido recto frente a ti. Flexiona el codo y baja la agarradera hacia el pecho, manteniendo el brazo superior quieto. Haz una pausa breve en la parte más baja, luego empuja la agarradera de vuelta hacia la posición inicial. Repite el número de repeticiones deseado, luego cambia de brazo.",
+    "ru": "Отрегулируйте тросную машину в положение опускания. Встаньте лицом к машине и возьмитесь за ручку одной рукой. Встаньте спиной к скамье для наклонов и вытяните руку прямо перед собой. Согните локоть и опустите рукоятку к груди, сохраняя плечо неподвижным. Задержитесь на мгновение внизу, затем верните ручку вверх в исходное положение. Повторите желаемое количество повторений, затем поменяйте руки.",
+    "zh": "将拉线机调整至下降位置。 背对机器站立，用一只手抓住手柄。 将背部靠在下斜长凳上，手臂伸直在身前。 弯曲肘部，将手柄向胸部方向降低，同时保持上臂静止。 在底部暂停片刻，然后将手柄推回到起始位置。 重复所需的重复次数，然后换臂。",
+    "hi": "केबल मशीन को गिरावट की स्थिति में समायोजित करें। मशीन से दूर की ओर मुंह करके खड़े हो जाएं और एक हाथ से हैंडल को पकड़ लें। अपने आप को डिक्लाइन बेंच के सामने अपनी पीठ के साथ रखें और आपका हाथ आपके सामने सीधा फैला हुआ हो। अपनी कोहनी मोड़ें और अपने ऊपरी बांह को स्थिर रखते हुए हैंडल को अपनी छाती की ओर नीचे करें। नीचे एक क्षण के लिए रुकें, फिर हैंडल को वापस प्रारंभिक स्थिति में धकेलें। दोहराव की वांछित संख्या के लिए दोहराएं, फिर हथियार बदल लें।",
+    "pl": "Ustaw wyciąg w pozycji skośnej w dół. Stań tyłem do maszyny i chwyć uchwyt jedną ręką. Ustaw się plecami do skośnej ławki, z ramieniem wyprostowanym prosto przed sobą. Ugnij łokieć i opuść uchwyt w kierunku klatki piersiowej, trzymając ramię nieruchomo. Zatrzymaj się na chwilę w dolnej pozycji, a następnie wypchnij uchwyt z powrotem do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń, a następnie zmień rękę.",
+    "ko": "케이블 머신을 디클라인 위치로 조정합니다. 머신을 등지고 서서 한쪽 손으로 핸들을 잡습니다. 디클라인 벤치에 등을 기대고 팔을 앞으로 곧게 펼칩니다. 팔꿈치를 구부려 핸들을 가슴 방향으로 내리되 상팔을 고정시킵니다. 최하단에서 잠깐 멈추었다가 핸들을 시작 위치로 밀어 올립니다. 원하는 횟수만큼 반복한 후 팔을 바꿔 진행합니다.",
+    "fr": "Règle la machine à câble en position déclinée. Tiens-toi dos à la machine et attrape la poignée d'une main. Positionne-toi le dos contre le banc décliné et ton bras tendu droit devant toi. Plie ton coude et abaisse la poignée vers ta poitrine tout en gardant le haut de ton bras immobile. Marque une pause en bas, puis pousse la poignée vers le haut jusqu'à la position de départ. Répète le nombre de répétitions souhaité, puis change de bras."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the cable machine to a decline position.",
+      "Stand facing away from the machine and grab the handle with one hand.",
+      "Position yourself with your back against the decline bench and your arm extended straight in front of you.",
+      "Bend your elbow and lower the handle towards your chest while keeping your upper arm stationary.",
+      "Pause for a moment at the bottom, then push the handle back up to the starting position.",
+      "Repeat for the desired number of repetitions, then switch arms."
+    ],
+    "it": [
+      "Regola la macchina a cavo in posizione declinante.",
+      "Mettiti di spalle alla macchina e afferra la maniglia con una mano.",
+      "Posizionati con la schiena contro la panca di declino e il braccio teso davanti a te.",
+      "Piega il gomito e abbassa il manico verso il petto mantenendo fermo il braccio superiore.",
+      "Fermati un attimo in fondo, poi spingi la maniglia di nuovo verso la posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni, poi cambia braccio."
+    ],
+    "tr": [
+      "Kablo makinesini reddetme konumuna ayarlayın.",
+      "Makineden uzağa bakacak şekilde durun ve kolu bir elinizle tutun.",
+      "Sırtınızı düşüş bankına yaslayacak ve kolunuz düz bir şekilde önünüzde uzatılacak şekilde kendinizi konumlandırın.",
+      "Dirseğinizi bükün ve üst kolunuzu sabit tutarak kolu göğsünüze doğru indirin.",
+      "Altta bir an duraklayın, ardından kolu başlangıç ​​pozisyonuna geri itin.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından kolları değiştirin."
+    ],
+    "es": [
+      "Ajusta la máquina de cable a una posición declinada.",
+      "Ponte de pie de espaldas a la máquina y sujeta la agarradera con una mano.",
+      "Colócate con la espalda contra el banco declinado y el brazo extendido recto frente a ti.",
+      "Flexiona el codo y baja la agarradera hacia el pecho, manteniendo el brazo superior quieto.",
+      "Haz una pausa breve en la parte más baja, luego empuja la agarradera de vuelta hacia la posición inicial.",
+      "Repite el número de repeticiones deseado, luego cambia de brazo."
+    ],
+    "ru": [
+      "Отрегулируйте тросную машину в положение опускания.",
+      "Встаньте лицом к машине и возьмитесь за ручку одной рукой.",
+      "Встаньте спиной к скамье для наклонов и вытяните руку прямо перед собой.",
+      "Согните локоть и опустите рукоятку к груди, сохраняя плечо неподвижным.",
+      "Задержитесь на мгновение внизу, затем верните ручку вверх в исходное положение.",
+      "Повторите желаемое количество повторений, затем поменяйте руки."
+    ],
+    "zh": [
+      "将拉线机调整至下降位置。",
+      "背对机器站立，用一只手抓住手柄。",
+      "将背部靠在下斜长凳上，手臂伸直在身前。",
+      "弯曲肘部，将手柄向胸部方向降低，同时保持上臂静止。",
+      "在底部暂停片刻，然后将手柄推回到起始位置。",
+      "重复所需的重复次数，然后换臂。"
+    ],
+    "hi": [
+      "केबल मशीन को गिरावट की स्थिति में समायोजित करें।",
+      "मशीन से दूर की ओर मुंह करके खड़े हो जाएं और एक हाथ से हैंडल को पकड़ लें।",
+      "अपने आप को डिक्लाइन बेंच के सामने अपनी पीठ के साथ रखें और आपका हाथ आपके सामने सीधा फैला हुआ हो।",
+      "अपनी कोहनी मोड़ें और अपने ऊपरी बांह को स्थिर रखते हुए हैंडल को अपनी छाती की ओर नीचे करें।",
+      "नीचे एक क्षण के लिए रुकें, फिर हैंडल को वापस प्रारंभिक स्थिति में धकेलें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर हथियार बदल लें।"
+    ],
+    "pl": [
+      "Ustaw wyciąg w pozycji skośnej w dół.",
+      "Stań tyłem do maszyny i chwyć uchwyt jedną ręką.",
+      "Ustaw się plecami do skośnej ławki, z ramieniem wyprostowanym prosto przed sobą.",
+      "Ugnij łokieć i opuść uchwyt w kierunku klatki piersiowej, trzymając ramię nieruchomo.",
+      "Zatrzymaj się na chwilę w dolnej pozycji, a następnie wypchnij uchwyt z powrotem do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń, a następnie zmień rękę."
+    ],
+    "ko": [
+      "케이블 머신을 디클라인 위치로 조정합니다.",
+      "머신을 등지고 서서 한쪽 손으로 핸들을 잡습니다.",
+      "디클라인 벤치에 등을 기대고 팔을 앞으로 곧게 펼칩니다.",
+      "팔꿈치를 구부려 핸들을 가슴 방향으로 내리되 상팔을 고정시킵니다.",
+      "최하단에서 잠깐 멈추었다가 핸들을 시작 위치로 밀어 올립니다.",
+      "원하는 횟수만큼 반복한 후 팔을 바꿔 진행합니다."
+    ],
+    "fr": [
+      "Règle la machine à câble en position déclinée.",
+      "Tiens-toi dos à la machine et attrape la poignée d'une main.",
+      "Positionne-toi le dos contre le banc décliné et ton bras tendu droit devant toi.",
+      "Plie ton coude et abaisse la poignée vers ta poitrine tout en gardant le haut de ton bras immobile.",
+      "Marque une pause en bas, puis pousse la poignée vers le haut jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis change de bras."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "target": "pectorals",
+  "image": "images/1260-KHGNa16.jpg",
+  "gif_url": "videos/1260-KHGNa16.gif",
+  "media_id": "KHGNa16",
+  "created_at": "2026-03-18T12:31:32.874351+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

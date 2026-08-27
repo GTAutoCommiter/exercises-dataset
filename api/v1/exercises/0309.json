@@ -1,0 +1,102 @@
+{
+  "id": "0309",
+  "name": "dumbbell front raise v. 2",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand with your palms facing your thighs. Keep your back straight and engage your core. Slowly lift the dumbbells in front of you, with your arms straight, until they are at shoulder level. Pause for a moment at the top, then slowly lower the dumbbells back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi a larghezza delle spalle, tenendo un manubrio in ogni mano con i palmi rivolti verso le cosce. Tieni la schiena dritta e attiva il core. Solleva lentamente i manubri davanti a te, con le braccia dritte, finché non saranno all'altezza delle spalle. Fermati un attimo in cima, poi abbassa lentamente i manubri fino alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınızı omuz genişliğinde açın, avuçlarınız uyluklarınıza bakacak şekilde her iki elinizde birer dambıl tutun. Sırtınızı düz tutun ve çekirdeğinizi meşgul edin. Önünüzdeki dambılları kollarınız düz olacak şekilde omuz hizasına gelene kadar yavaşça kaldırın. Tepe noktasında bir süre duraklayın, ardından dambılları yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros, sosteniendo una mancuerna en cada mano con las palmas hacia los muslos. Mantén la espalda recta y activa el core. Levanta lentamente las mancuernas frente a ti, con los brazos rectos, hasta que queden a la altura de los hombros. Haz una pausa breve en la parte alta, luego baja lentamente las mancuernas de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, держите по гантели в каждой руке ладонями к бедрам. Держите спину прямо и задействуйте корпус. Медленно поднимите гантели перед собой, выпрямив руки, пока они не окажутся на уровне плеч. Задержитесь на мгновение в верхней точке, затем медленно опустите гантели обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，双手各握一个哑铃，手掌朝向大腿。 保持背部挺直并启动核心肌群。 慢慢举起你面前的哑铃，手臂伸直，直到与肩齐平。 在顶部停顿片刻，然后慢慢将哑铃放回起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, प्रत्येक हाथ में डंबल पकड़ें और अपनी हथेलियों को अपनी जांघों की ओर रखें। अपनी पीठ सीधी रखें और अपने कोर को संलग्न रखें। अपनी भुजाओं को सीधा रखते हुए धीरे-धीरे अपने सामने डम्बल उठाएँ, जब तक कि वे कंधे के स्तर पर न आ जाएँ। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे डम्बल को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań w rozkroku na szerokość barków, trzymając hantle w obu rękach, dłonie skierowane do ud. Trzymaj proste plecy i napnij brzuch. Powoli unieś hantle przed sobą, z prostymi ramionami, aż znajdą się na wysokości barków. Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść hantle do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "어깨너비로 발을 벌리고 서서 각 손에 덤벨을 들되 손바닥이 허벅지를 향하도록 합니다. 등을 곧게 펴고 코어를 조입니다. 팔을 곧게 펴서 덤벨을 앞으로 천천히 들어 어깨 높이까지 올립니다. 맨 위에서 잠깐 멈춘 후 천천히 덤벨을 시작 위치로 내립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un haltère dans chaque main, paumes tournées vers tes cuisses. Garde le dos droit et gaine ta sangle abdominale. Soulève lentement les haltères devant toi, les bras tendus, jusqu'à ce qu'ils soient à hauteur des épaules. Marque une pause en haut, puis abaisse lentement les haltères pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart, holding a dumbbell in each hand with your palms facing your thighs.",
+      "Keep your back straight and engage your core.",
+      "Slowly lift the dumbbells in front of you, with your arms straight, until they are at shoulder level.",
+      "Pause for a moment at the top, then slowly lower the dumbbells back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi a larghezza delle spalle, tenendo un manubrio in ogni mano con i palmi rivolti verso le cosce.",
+      "Tieni la schiena dritta e attiva il core.",
+      "Solleva lentamente i manubri davanti a te, con le braccia dritte, finché non saranno all'altezza delle spalle.",
+      "Fermati un attimo in cima, poi abbassa lentamente i manubri fino alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınızı omuz genişliğinde açın, avuçlarınız uyluklarınıza bakacak şekilde her iki elinizde birer dambıl tutun.",
+      "Sırtınızı düz tutun ve çekirdeğinizi meşgul edin.",
+      "Önünüzdeki dambılları kollarınız düz olacak şekilde omuz hizasına gelene kadar yavaşça kaldırın.",
+      "Tepe noktasında bir süre duraklayın, ardından dambılları yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros, sosteniendo una mancuerna en cada mano con las palmas hacia los muslos.",
+      "Mantén la espalda recta y activa el core.",
+      "Levanta lentamente las mancuernas frente a ti, con los brazos rectos, hasta que queden a la altura de los hombros.",
+      "Haz una pausa breve en la parte alta, luego baja lentamente las mancuernas de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, держите по гантели в каждой руке ладонями к бедрам.",
+      "Держите спину прямо и задействуйте корпус.",
+      "Медленно поднимите гантели перед собой, выпрямив руки, пока они не окажутся на уровне плеч.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите гантели обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，双手各握一个哑铃，手掌朝向大腿。",
+      "保持背部挺直并启动核心肌群。",
+      "慢慢举起你面前的哑铃，手臂伸直，直到与肩齐平。",
+      "在顶部停顿片刻，然后慢慢将哑铃放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, प्रत्येक हाथ में डंबल पकड़ें और अपनी हथेलियों को अपनी जांघों की ओर रखें।",
+      "अपनी पीठ सीधी रखें और अपने कोर को संलग्न रखें।",
+      "अपनी भुजाओं को सीधा रखते हुए धीरे-धीरे अपने सामने डम्बल उठाएँ, जब तक कि वे कंधे के स्तर पर न आ जाएँ।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे डम्बल को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków, trzymając hantle w obu rękach, dłonie skierowane do ud.",
+      "Trzymaj proste plecy i napnij brzuch.",
+      "Powoli unieś hantle przed sobą, z prostymi ramionami, aż znajdą się na wysokości barków.",
+      "Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść hantle do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "어깨너비로 발을 벌리고 서서 각 손에 덤벨을 들되 손바닥이 허벅지를 향하도록 합니다.",
+      "등을 곧게 펴고 코어를 조입니다.",
+      "팔을 곧게 펴서 덤벨을 앞으로 천천히 들어 어깨 높이까지 올립니다.",
+      "맨 위에서 잠깐 멈춘 후 천천히 덤벨을 시작 위치로 내립니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un haltère dans chaque main, paumes tournées vers tes cuisses.",
+      "Garde le dos droit et gaine ta sangle abdominale.",
+      "Soulève lentement les haltères devant toi, les bras tendus, jusqu'à ce qu'ils soient à hauteur des épaules.",
+      "Marque une pause en haut, puis abaisse lentement les haltères pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "trapezius",
+  "secondary_muscles": [
+    "trapezius",
+    "biceps"
+  ],
+  "target": "delts",
+  "image": "images/0309-Rr7S3yg.jpg",
+  "gif_url": "videos/0309-Rr7S3yg.gif",
+  "media_id": "Rr7S3yg",
+  "created_at": "2026-03-18T12:31:32.878386+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

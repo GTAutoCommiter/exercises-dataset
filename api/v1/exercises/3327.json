@@ -1,0 +1,123 @@
+{
+  "id": "3327",
+  "name": "full planche push-up",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Start in a push-up position with your hands placed slightly wider than shoulder-width apart. Engage your core and lower your body down towards the ground, keeping your elbows close to your sides. As you lower yourself, lean your body forward and lift your feet off the ground, balancing on your hands. Continue to lower your body until your chest is just above the ground. Push through your hands and extend your arms to lift your body back up to the starting position. Maintain a straight line from your head to your heels throughout the movement. Repeat for the desired number of repetitions.",
+    "it": "Inizia in una posizione push-up con le mani posizionate leggermente più larghe della larghezza delle spalle. Coinvolgi il core e abbassa il corpo verso terra, mantenendo i gomiti vicini ai fianchi. Mentre ti abbassi, inclina il corpo in avanti e solleva i piedi da terra, in equilibrio sulle mani. Continua ad abbassare il corpo finché il petto non si trova appena sopra il suolo. Spingi attraverso le mani ed estendi le braccia per riportare il corpo alla posizione di partenza. Mantieni una linea retta dalla testa ai talloni durante tutto il movimento. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Elleriniz omuz genişliğinden biraz daha geniş olacak şekilde şınav pozisyonuna başlayın. Merkez bölgenizi devreye sokun ve dirseklerinizi yanlarınıza yakın tutarak vücudunuzu yere doğru indirin. Kendinizi indirirken vücudunuzu öne doğru eğin ve ellerinizi dengeleyerek ayaklarınızı yerden kaldırın. Göğsünüz yerden hemen yukarı çıkana kadar vücudunuzu indirmeye devam edin. Vücudunuzu başlangıç ​​pozisyonuna geri kaldırmak için ellerinizi itin ve kollarınızı uzatın. Hareket boyunca başınızdan topuklarınıza kadar düz bir çizgi koruyun. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Comienza en posición de flexión de brazos con las manos un poco más separadas que el ancho de los hombros. Activa el core y baja el cuerpo hacia el suelo, manteniendo los codos cerca de los costados. Mientras te bajas, inclina el cuerpo hacia adelante y levanta los pies del suelo, equilibrándote sobre las manos. Continúa bajando el cuerpo hasta que el pecho quede justo por encima del suelo. Empuja con las manos y extiende los brazos para volver a subir el cuerpo a la posición inicial. Mantén una línea recta desde la cabeza hasta los talones durante todo el movimiento. Repite el número de repeticiones deseado.",
+    "ru": "Начните с позиции отжимания, поставив руки чуть шире плеч. Напрягите корпус и опустите тело вниз к земле, держа локти близко к бокам. Опускаясь, наклоните тело вперед и оторвите ноги от земли, балансируя на руках. Продолжайте опускать тело до тех пор, пока грудь не окажется чуть выше земли. Оттолкнитесь руками и вытяните руки, чтобы поднять тело обратно в исходное положение. На протяжении всего движения сохраняйте прямую линию от головы до пят. Повторите необходимое количество повторений.",
+    "zh": "从俯卧撑位置开始，双手分开略宽于肩宽。 收紧核心肌群，将身体放低至地面，保持肘部靠近身体两侧。 当你降低身体高度时，身体向前倾斜，双脚离开地面，用双手保持平衡。 继续降低身体，直到胸部略高于地面。 用手推动并伸展双臂，将身体抬回到起始位置。 在整个运动过程中，从头部到脚后跟保持一条直线。 重复所需的重复次数。",
+    "hi": "अपने हाथों को कंधे की चौड़ाई से थोड़ा अधिक फैलाकर पुश-अप स्थिति में शुरू करें। अपने कोर को संलग्न करें और अपने शरीर को जमीन की ओर नीचे करें, अपनी कोहनियों को अपने किनारों के करीब रखें। जैसे ही आप खुद को नीचे करते हैं, अपने शरीर को आगे की ओर झुकाएं और अपने हाथों पर संतुलन बनाते हुए अपने पैरों को जमीन से ऊपर उठाएं। अपने शरीर को तब तक नीचे करना जारी रखें जब तक कि आपकी छाती ज़मीन से ठीक ऊपर न आ जाए। अपने हाथों से धक्का दें और अपने शरीर को वापस प्रारंभिक स्थिति में उठाने के लिए अपनी भुजाओं को फैलाएँ। पूरे आंदोलन के दौरान अपने सिर से एड़ी तक एक सीधी रेखा बनाए रखें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Zacznij w pozycji do pompki, dłonie ustaw nieco szerzej niż barki. Napnij mięśnie brzucha i opuszczaj ciało w stronę podłogi, trzymając łokcie blisko boków. Opuszczając się, pochyl ciało do przodu i unieś stopy nad podłogę, balansując na dłoniach. Kontynuuj opuszczanie ciała, aż klatka piersiowa znajdzie się tuż nad podłogą. Odepchnij się dłońmi i wyprostuj ramiona, aby unieść ciało z powrotem do pozycji wyjściowej. Utrzymuj prostą linię od głowy do pięt przez cały ruch. Powtórz zalecaną liczbę razy.",
+    "ko": "팔을 어깨너비보다 약간 넓게 벌려 푸시업 자세에서 시작합니다. 복부를 조여 팔꿈치를 몸에 가깝게 유지하면서 몸을 땅 쪽으로 내립니다. 내릴 때 몸통을 앞으로 기울이고 발을 들어올려 손으로 균형을 잡습니다. 가슴이 거의 땅에 닿을 때까지 계속 내립니다. 손으로 밀어 팔을 펴 몸을 시작 위치로 들어올립니다. 머리에서 발뒤꿈치까지 일직선을 유지하며 움직입니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Commence en position de pompe, les mains posées un peu plus écartées que la largeur des épaules. Gaine ta sangle abdominale et abaisse ton corps vers le sol, en gardant tes coudes près de tes flancs. En te baissant, penche ton corps vers l'avant et décolle tes pieds du sol en t'équilibrant sur tes mains. Continue à abaisser ton corps jusqu'à ce que ta poitrine soit juste au-dessus du sol. Pousse à travers tes mains et étends tes bras pour ramener ton corps vers le haut jusqu'à la position de départ. Maintiens une ligne droite de ta tête à tes talons pendant tout le mouvement. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start in a push-up position with your hands placed slightly wider than shoulder-width apart.",
+      "Engage your core and lower your body down towards the ground, keeping your elbows close to your sides.",
+      "As you lower yourself, lean your body forward and lift your feet off the ground, balancing on your hands.",
+      "Continue to lower your body until your chest is just above the ground.",
+      "Push through your hands and extend your arms to lift your body back up to the starting position.",
+      "Maintain a straight line from your head to your heels throughout the movement.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia in una posizione push-up con le mani posizionate leggermente più larghe della larghezza delle spalle.",
+      "Coinvolgi il core e abbassa il corpo verso terra, mantenendo i gomiti vicini ai fianchi.",
+      "Mentre ti abbassi, inclina il corpo in avanti e solleva i piedi da terra, in equilibrio sulle mani.",
+      "Continua ad abbassare il corpo finché il petto non si trova appena sopra il suolo.",
+      "Spingi attraverso le mani ed estendi le braccia per riportare il corpo alla posizione di partenza.",
+      "Mantieni una linea retta dalla testa ai talloni durante tutto il movimento.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Elleriniz omuz genişliğinden biraz daha geniş olacak şekilde şınav pozisyonuna başlayın.",
+      "Merkez bölgenizi devreye sokun ve dirseklerinizi yanlarınıza yakın tutarak vücudunuzu yere doğru indirin.",
+      "Kendinizi indirirken vücudunuzu öne doğru eğin ve ellerinizi dengeleyerek ayaklarınızı yerden kaldırın.",
+      "Göğsünüz yerden hemen yukarı çıkana kadar vücudunuzu indirmeye devam edin.",
+      "Vücudunuzu başlangıç ​​pozisyonuna geri kaldırmak için ellerinizi itin ve kollarınızı uzatın.",
+      "Hareket boyunca başınızdan topuklarınıza kadar düz bir çizgi koruyun.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Comienza en posición de flexión de brazos con las manos un poco más separadas que el ancho de los hombros.",
+      "Activa el core y baja el cuerpo hacia el suelo, manteniendo los codos cerca de los costados.",
+      "Mientras te bajas, inclina el cuerpo hacia adelante y levanta los pies del suelo, equilibrándote sobre las manos.",
+      "Continúa bajando el cuerpo hasta que el pecho quede justo por encima del suelo.",
+      "Empuja con las manos y extiende los brazos para volver a subir el cuerpo a la posición inicial.",
+      "Mantén una línea recta desde la cabeza hasta los talones durante todo el movimiento.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с позиции отжимания, поставив руки чуть шире плеч.",
+      "Напрягите корпус и опустите тело вниз к земле, держа локти близко к бокам.",
+      "Опускаясь, наклоните тело вперед и оторвите ноги от земли, балансируя на руках.",
+      "Продолжайте опускать тело до тех пор, пока грудь не окажется чуть выше земли.",
+      "Оттолкнитесь руками и вытяните руки, чтобы поднять тело обратно в исходное положение.",
+      "На протяжении всего движения сохраняйте прямую линию от головы до пят.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "从俯卧撑位置开始，双手分开略宽于肩宽。",
+      "收紧核心肌群，将身体放低至地面，保持肘部靠近身体两侧。",
+      "当你降低身体高度时，身体向前倾斜，双脚离开地面，用双手保持平衡。",
+      "继续降低身体，直到胸部略高于地面。",
+      "用手推动并伸展双臂，将身体抬回到起始位置。",
+      "在整个运动过程中，从头部到脚后跟保持一条直线。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने हाथों को कंधे की चौड़ाई से थोड़ा अधिक फैलाकर पुश-अप स्थिति में शुरू करें।",
+      "अपने कोर को संलग्न करें और अपने शरीर को जमीन की ओर नीचे करें, अपनी कोहनियों को अपने किनारों के करीब रखें।",
+      "जैसे ही आप खुद को नीचे करते हैं, अपने शरीर को आगे की ओर झुकाएं और अपने हाथों पर संतुलन बनाते हुए अपने पैरों को जमीन से ऊपर उठाएं।",
+      "अपने शरीर को तब तक नीचे करना जारी रखें जब तक कि आपकी छाती ज़मीन से ठीक ऊपर न आ जाए।",
+      "अपने हाथों से धक्का दें और अपने शरीर को वापस प्रारंभिक स्थिति में उठाने के लिए अपनी भुजाओं को फैलाएँ।",
+      "पूरे आंदोलन के दौरान अपने सिर से एड़ी तक एक सीधी रेखा बनाए रखें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Zacznij w pozycji do pompki, dłonie ustaw nieco szerzej niż barki.",
+      "Napnij mięśnie brzucha i opuszczaj ciało w stronę podłogi, trzymając łokcie blisko boków.",
+      "Opuszczając się, pochyl ciało do przodu i unieś stopy nad podłogę, balansując na dłoniach.",
+      "Kontynuuj opuszczanie ciała, aż klatka piersiowa znajdzie się tuż nad podłogą.",
+      "Odepchnij się dłońmi i wyprostuj ramiona, aby unieść ciało z powrotem do pozycji wyjściowej.",
+      "Utrzymuj prostą linię od głowy do pięt przez cały ruch.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "팔을 어깨너비보다 약간 넓게 벌려 푸시업 자세에서 시작합니다.",
+      "복부를 조여 팔꿈치를 몸에 가깝게 유지하면서 몸을 땅 쪽으로 내립니다.",
+      "내릴 때 몸통을 앞으로 기울이고 발을 들어올려 손으로 균형을 잡습니다.",
+      "가슴이 거의 땅에 닿을 때까지 계속 내립니다.",
+      "손으로 밀어 팔을 펴 몸을 시작 위치로 들어올립니다.",
+      "머리에서 발뒤꿈치까지 일직선을 유지하며 움직입니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Commence en position de pompe, les mains posées un peu plus écartées que la largeur des épaules.",
+      "Gaine ta sangle abdominale et abaisse ton corps vers le sol, en gardant tes coudes près de tes flancs.",
+      "En te baissant, penche ton corps vers l'avant et décolle tes pieds du sol en t'équilibrant sur tes mains.",
+      "Continue à abaisser ton corps jusqu'à ce que ta poitrine soit juste au-dessus du sol.",
+      "Pousse à travers tes mains et étends tes bras pour ramener ton corps vers le haut jusqu'à la position de départ.",
+      "Maintiens une ligne droite de ta tête à tes talons pendant tout le mouvement.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "triceps",
+    "core"
+  ],
+  "target": "pectorals",
+  "image": "images/3327-gw9PqGk.jpg",
+  "gif_url": "videos/3327-gw9PqGk.gif",
+  "media_id": "gw9PqGk",
+  "created_at": "2026-03-18T12:31:32.883847+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

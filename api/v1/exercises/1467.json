@@ -1,0 +1,102 @@
+{
+  "id": "1467",
+  "name": "push-up on lower arms",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Start in a plank position with your forearms on the ground and elbows directly below your shoulders. Engage your core and keep your body in a straight line from head to toe. Lower your chest towards the ground by bending your elbows, keeping them close to your body. Pause for a moment at the bottom, then push yourself back up to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Inizia in una posizione di plancia con gli avambracci a terra e i gomiti direttamente sotto le spalle. Coinvolgi il tuo core e mantieni il corpo in linea retta dalla testa ai piedi. Abbassa il petto verso terra piegando i gomiti, tenendoli vicini al corpo. Fai una pausa per un momento in basso, quindi spingiti indietro fino alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ön kollarınız yerde ve dirsekleriniz doğrudan omuzlarınızın altında olacak şekilde plank pozisyonunda başlayın. Merkez bölgenizi harekete geçirin ve vücudunuzu baştan ayağa düz bir çizgide tutun. Dirseklerinizi bükerek, vücudunuza yakın tutarak göğsünüzü yere doğru indirin. Altta bir an duraklayın, ardından kendinizi başlangıç ​​pozisyonuna doğru itin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Comienza en posición de plancha con los antebrazos en el suelo y los codos directamente debajo de los hombros. Activa el core y mantén el cuerpo en línea recta de la cabeza a los pies. Baja el pecho hacia el suelo flexionando los codos, manteniéndolos cerca del cuerpo. Haz una pausa por un momento en la parte inferior, luego empuja tu cuerpo de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Начните с положения планки, положив предплечья на землю и локти прямо под плечами. Напрягите корпус и держите тело на прямой линии от головы до пят. Опустите грудь к земле, согнув локти и удерживая их близко к телу. Задержитесь на мгновение в нижней точке, затем вернитесь в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "从平板支撑位置开始，前臂放在地面上，肘部位于肩膀正下方。 调动你的核心力量，让你的身体从头到脚保持在一条直线上。 弯曲肘部，使胸部靠近地面，使胸部靠近地面。 在底部暂停片刻，然后将自己推回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने अग्रबाहुओं को ज़मीन पर और कोहनियों को सीधे अपने कंधों के नीचे रखते हुए तख़्त स्थिति में शुरुआत करें। अपने कोर को व्यस्त रखें और अपने शरीर को सिर से पैर तक एक सीधी रेखा में रखें। अपनी कोहनियों को मोड़कर, उन्हें अपने शरीर के पास रखते हुए, अपनी छाती को ज़मीन की ओर नीचे करें। नीचे एक पल के लिए रुकें, फिर अपने आप को वापस प्रारंभिक स्थिति में धकेलें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Rozpocznij w pozycji deski z przedramionami na podłodze i łokciami dokładnie pod barkami. Napnij mięśnie brzucha i trzymaj ciało w linii prostej od głowy do stóp. Opuść klatkę piersiową w kierunku podłogi, uginając łokcie i trzymając je blisko tułowia. Zatrzymaj się na chwilę na dole, a następnie odepchnij się z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę razy.",
+    "ko": "전완부가 땅에 있고 팔꿈치가 어깨 바로 아래 있으면서 플랭크 자세를 취합니다. 코어를 조여 머리에서 발끝까지 일직선을 유지합니다. 팔꿈치를 구부려 가슴을 땅 쪽으로 낮추면서 팔꿈치를 몸 가까이 유지합니다. 바닥에서 잠깐 멈춘 후 처음 자세로 밀어올립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Commence en position de planche, les avant-bras sur le sol et les coudes directement sous les épaules. Gaine ta sangle abdominale et garde ton corps en ligne droite de la tête aux pieds. Abaisse ta poitrine vers le sol en fléchissant les coudes, en les gardant près de ton corps. Marque une pause en bas, puis pousse-toi vers le haut jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start in a plank position with your forearms on the ground and elbows directly below your shoulders.",
+      "Engage your core and keep your body in a straight line from head to toe.",
+      "Lower your chest towards the ground by bending your elbows, keeping them close to your body.",
+      "Pause for a moment at the bottom, then push yourself back up to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia in una posizione di plancia con gli avambracci a terra e i gomiti direttamente sotto le spalle.",
+      "Coinvolgi il tuo core e mantieni il corpo in linea retta dalla testa ai piedi.",
+      "Abbassa il petto verso terra piegando i gomiti, tenendoli vicini al corpo.",
+      "Fai una pausa per un momento in basso, quindi spingiti indietro fino alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ön kollarınız yerde ve dirsekleriniz doğrudan omuzlarınızın altında olacak şekilde plank pozisyonunda başlayın.",
+      "Merkez bölgenizi harekete geçirin ve vücudunuzu baştan ayağa düz bir çizgide tutun.",
+      "Dirseklerinizi bükerek, vücudunuza yakın tutarak göğsünüzü yere doğru indirin.",
+      "Altta bir an duraklayın, ardından kendinizi başlangıç ​​pozisyonuna doğru itin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Comienza en posición de plancha con los antebrazos en el suelo y los codos directamente debajo de los hombros.",
+      "Activa el core y mantén el cuerpo en línea recta de la cabeza a los pies.",
+      "Baja el pecho hacia el suelo flexionando los codos, manteniéndolos cerca del cuerpo.",
+      "Haz una pausa por un momento en la parte inferior, luego empuja tu cuerpo de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с положения планки, положив предплечья на землю и локти прямо под плечами.",
+      "Напрягите корпус и держите тело на прямой линии от головы до пят.",
+      "Опустите грудь к земле, согнув локти и удерживая их близко к телу.",
+      "Задержитесь на мгновение в нижней точке, затем вернитесь в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "从平板支撑位置开始，前臂放在地面上，肘部位于肩膀正下方。",
+      "调动你的核心力量，让你的身体从头到脚保持在一条直线上。",
+      "弯曲肘部，使胸部靠近地面，使胸部靠近地面。",
+      "在底部暂停片刻，然后将自己推回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने अग्रबाहुओं को ज़मीन पर और कोहनियों को सीधे अपने कंधों के नीचे रखते हुए तख़्त स्थिति में शुरुआत करें।",
+      "अपने कोर को व्यस्त रखें और अपने शरीर को सिर से पैर तक एक सीधी रेखा में रखें।",
+      "अपनी कोहनियों को मोड़कर, उन्हें अपने शरीर के पास रखते हुए, अपनी छाती को ज़मीन की ओर नीचे करें।",
+      "नीचे एक पल के लिए रुकें, फिर अपने आप को वापस प्रारंभिक स्थिति में धकेलें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Rozpocznij w pozycji deski z przedramionami na podłodze i łokciami dokładnie pod barkami.",
+      "Napnij mięśnie brzucha i trzymaj ciało w linii prostej od głowy do stóp.",
+      "Opuść klatkę piersiową w kierunku podłogi, uginając łokcie i trzymając je blisko tułowia.",
+      "Zatrzymaj się na chwilę na dole, a następnie odepchnij się z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "전완부가 땅에 있고 팔꿈치가 어깨 바로 아래 있으면서 플랭크 자세를 취합니다.",
+      "코어를 조여 머리에서 발끝까지 일직선을 유지합니다.",
+      "팔꿈치를 구부려 가슴을 땅 쪽으로 낮추면서 팔꿈치를 몸 가까이 유지합니다.",
+      "바닥에서 잠깐 멈춘 후 처음 자세로 밀어올립니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Commence en position de planche, les avant-bras sur le sol et les coudes directement sous les épaules.",
+      "Gaine ta sangle abdominale et garde ton corps en ligne droite de la tête aux pieds.",
+      "Abaisse ta poitrine vers le sol en fléchissant les coudes, en les gardant près de ton corps.",
+      "Marque une pause en bas, puis pousse-toi vers le haut jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "chest",
+  "secondary_muscles": [
+    "chest",
+    "shoulders"
+  ],
+  "target": "triceps",
+  "image": "images/1467-4Jt8QsQ.jpg",
+  "gif_url": "videos/1467-4Jt8QsQ.gif",
+  "media_id": "4Jt8QsQ",
+  "created_at": "2026-03-18T12:31:32.888644+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

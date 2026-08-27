@@ -1,0 +1,170 @@
+[
+  {
+    "name": "assisted",
+    "slug": "assisted",
+    "count": 15,
+    "url": "api/v1/by-equipment/assisted.json"
+  },
+  {
+    "name": "band",
+    "slug": "band",
+    "count": 54,
+    "url": "api/v1/by-equipment/band.json"
+  },
+  {
+    "name": "barbell",
+    "slug": "barbell",
+    "count": 154,
+    "url": "api/v1/by-equipment/barbell.json"
+  },
+  {
+    "name": "body weight",
+    "slug": "body-weight",
+    "count": 325,
+    "url": "api/v1/by-equipment/body-weight.json"
+  },
+  {
+    "name": "bosu ball",
+    "slug": "bosu-ball",
+    "count": 3,
+    "url": "api/v1/by-equipment/bosu-ball.json"
+  },
+  {
+    "name": "cable",
+    "slug": "cable",
+    "count": 157,
+    "url": "api/v1/by-equipment/cable.json"
+  },
+  {
+    "name": "dumbbell",
+    "slug": "dumbbell",
+    "count": 294,
+    "url": "api/v1/by-equipment/dumbbell.json"
+  },
+  {
+    "name": "elliptical machine",
+    "slug": "elliptical-machine",
+    "count": 1,
+    "url": "api/v1/by-equipment/elliptical-machine.json"
+  },
+  {
+    "name": "ez barbell",
+    "slug": "ez-barbell",
+    "count": 23,
+    "url": "api/v1/by-equipment/ez-barbell.json"
+  },
+  {
+    "name": "hammer",
+    "slug": "hammer",
+    "count": 1,
+    "url": "api/v1/by-equipment/hammer.json"
+  },
+  {
+    "name": "kettlebell",
+    "slug": "kettlebell",
+    "count": 41,
+    "url": "api/v1/by-equipment/kettlebell.json"
+  },
+  {
+    "name": "leverage machine",
+    "slug": "leverage-machine",
+    "count": 81,
+    "url": "api/v1/by-equipment/leverage-machine.json"
+  },
+  {
+    "name": "medicine ball",
+    "slug": "medicine-ball",
+    "count": 13,
+    "url": "api/v1/by-equipment/medicine-ball.json"
+  },
+  {
+    "name": "olympic barbell",
+    "slug": "olympic-barbell",
+    "count": 2,
+    "url": "api/v1/by-equipment/olympic-barbell.json"
+  },
+  {
+    "name": "resistance band",
+    "slug": "resistance-band",
+    "count": 7,
+    "url": "api/v1/by-equipment/resistance-band.json"
+  },
+  {
+    "name": "roller",
+    "slug": "roller",
+    "count": 8,
+    "url": "api/v1/by-equipment/roller.json"
+  },
+  {
+    "name": "rope",
+    "slug": "rope",
+    "count": 10,
+    "url": "api/v1/by-equipment/rope.json"
+  },
+  {
+    "name": "skierg machine",
+    "slug": "skierg-machine",
+    "count": 1,
+    "url": "api/v1/by-equipment/skierg-machine.json"
+  },
+  {
+    "name": "sled machine",
+    "slug": "sled-machine",
+    "count": 15,
+    "url": "api/v1/by-equipment/sled-machine.json"
+  },
+  {
+    "name": "smith machine",
+    "slug": "smith-machine",
+    "count": 48,
+    "url": "api/v1/by-equipment/smith-machine.json"
+  },
+  {
+    "name": "stability ball",
+    "slug": "stability-ball",
+    "count": 28,
+    "url": "api/v1/by-equipment/stability-ball.json"
+  },
+  {
+    "name": "stationary bike",
+    "slug": "stationary-bike",
+    "count": 1,
+    "url": "api/v1/by-equipment/stationary-bike.json"
+  },
+  {
+    "name": "stepmill machine",
+    "slug": "stepmill-machine",
+    "count": 1,
+    "url": "api/v1/by-equipment/stepmill-machine.json"
+  },
+  {
+    "name": "tire",
+    "slug": "tire",
+    "count": 1,
+    "url": "api/v1/by-equipment/tire.json"
+  },
+  {
+    "name": "trap bar",
+    "slug": "trap-bar",
+    "count": 1,
+    "url": "api/v1/by-equipment/trap-bar.json"
+  },
+  {
+    "name": "upper body ergometer",
+    "slug": "upper-body-ergometer",
+    "count": 1,
+    "url": "api/v1/by-equipment/upper-body-ergometer.json"
+  },
+  {
+    "name": "weighted",
+    "slug": "weighted",
+    "count": 36,
+    "url": "api/v1/by-equipment/weighted.json"
+  },
+  {
+    "name": "wheel roller",
+    "slug": "wheel-roller",
+    "count": 2,
+    "url": "api/v1/by-equipment/wheel-roller.json"
+  }
+]

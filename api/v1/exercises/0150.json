@@ -1,0 +1,123 @@
+{
+  "id": "0150",
+  "name": "cable bar lateral pulldown",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Adjust the cable pulley to a high position and attach a straight bar. Sit facing the cable machine with your feet flat on the ground and your knees slightly bent. Grasp the bar with an overhand grip, slightly wider than shoulder-width apart. Lean back slightly and keep your chest up, maintaining a slight arch in your lower back. Pull the bar down towards your chest, leading with your elbows and squeezing your shoulder blades together. Pause for a moment at the bottom of the movement, then slowly return the bar to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Regola la puleggia del cavo in una posizione alta e fissa una barra dritta. Siediti di fronte alla macchina a cavo con i piedi piatti a terra e le ginocchia leggermente piegate. Afferra la barra con una presa sopra la mano, leggermente più larga della larghezza delle spalle. Inclinati leggermente all'indietro e tieni il petto sollevato, mantenendo un leggero arco nella parte bassa della schiena. Tira la barra verso il petto, guidando con i gomiti e stringendo le scapole insieme. Fermati un attimo alla parte bassa del movimento, poi riporta lentamente la barra alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Kablo makarasını yüksek konuma ayarlayın ve düz bir çubuk takın. Ayaklarınız yere düz basacak ve dizleriniz hafifçe bükülmüş olacak şekilde kablo makinesine dönük olarak oturun. Çubuğu omuz genişliğinden biraz daha geniş olacak şekilde üstten kavrayın. Hafifçe geriye yaslanın ve göğsünüzü yukarıda tutun, belinizin alt kısmında hafif bir kemer tutun. Dirseklerinizi kullanarak ve kürek kemiklerinizi birbirine doğru sıkıştırarak barı göğsünüze doğru çekin. Hareketin alt noktasında bir süre duraklayın, ardından çubuğu yavaşça başlangıç ​​pozisyonuna getirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta la polea del cable a una posición alta y coloca una barra recta. Siéntate frente a la máquina de cable con los pies planos en el suelo y las rodillas ligeramente flexionadas. Sujeta la barra con agarre prono, un poco más separado que el ancho de los hombros. Inclínate ligeramente hacia atrás y mantén el pecho elevado, conservando un ligero arco en la zona lumbar. Tira de la barra hacia el pecho, guiando el movimiento con los codos y juntando los omóplatos. Haz una pausa breve en la parte más baja del movimiento, luego vuelve lentamente la barra a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Установите тросовый шкив в верхнее положение и прикрепите прямую штангу. Сядьте лицом к канатной машине, поставьте ступни на землю и слегка согните колени. Возьмите штангу хватом сверху, на расстоянии чуть шире ширины плеч. Слегка откиньтесь назад и держите грудь вверх, сохраняя небольшой изгиб в пояснице. Потяните штангу вниз к груди, ведя локти и сжимая лопатки вместе. Сделайте паузу на мгновение в нижней части движения, затем медленно верните штангу в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "将电缆滑轮调整至较高位置并安装直杆。 面向缆绳机坐着，双脚平放在地面上，膝盖稍微弯曲。 正手握住杠铃，握距略宽于肩宽。 稍微向后倾斜，挺胸，保持下背部轻微的拱形。 将杠铃向下拉向胸部，用肘部引导并将肩胛骨挤压在一起。 在动作底部暂停片刻，然后慢慢地将杠铃返回到起始位置。 重复所需的重复次数。",
+    "hi": "केबल पुली को ऊंचे स्थान पर समायोजित करें और एक सीधी पट्टी संलग्न करें। अपने पैरों को ज़मीन पर सपाट करके और अपने घुटनों को थोड़ा मोड़कर केबल मशीन के सामने बैठें। बार को ओवरहैंड पकड़ से पकड़ें, कंधे की चौड़ाई से थोड़ा अधिक चौड़ा। थोड़ा पीछे झुकें और अपनी छाती को ऊपर रखें, अपनी पीठ के निचले हिस्से में हल्का सा आर्क बनाए रखें। बार को अपनी छाती की ओर नीचे खींचें, अपनी कोहनियों से आगे बढ़ते हुए और अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए। गति के निचले भाग पर एक पल के लिए रुकें, फिर धीरे-धीरे बार को प्रारंभिक स्थिति में लौटाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Ustaw wyciąg górny i zamocuj prostą drążek. Usiądź przodem do wyciągu, ze stopami płasko na podłodze, a kolanami lekko ugiętymi. Chwyć drążek chwytem nachwytem, nieco szerzej niż na szerokość barków. Odchyl się lekko do tyłu, trzymając klatkę piersiową uniesioną i lekkie wygięcie w dolnej części pleców. Przyciągnij drążek w kierunku klatki piersiowej, prowadząc łokciami i ściągając łopatki. Zatrzymaj się na chwilę w dolnej pozycji ruchu, a następnie powoli wróć drążkiem do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "케이블 풀리를 높은 위치에 조정한 후 스트레이트 바를 부착합니다. 발을 바닥에 평평하게 놓고 무릎을 약간 구부린 상태로 케이블 머신을 향해 앉아 있습니다. 손등이 아래를 향하는 오버핸드 그립으로 바를 잡으면서 어깨 너비보다 약간 넓게 벌립니다. 약간 뒤로 기울이면서 가슴을 위로 유지하고 허리의 약간의 아치를 유지합니다. 팔꿈치를 주도하면서 바를 가슴 쪽으로 내려 견갑골을 모아줍니다. 동작의 맨 아래에서 잠시 멈춘 후 천천히 바를 시작 자세로 올립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Règle la poulie du câble en position haute et attache une barre droite. Assieds-toi face à la machine à câble, les pieds à plat sur le sol et les genoux légèrement fléchis. Saisis la barre avec une prise en pronation, un peu plus large que la largeur des épaules. Penche-toi légèrement en arrière et garde la poitrine ouverte, en maintenant une légère cambrure dans le bas du dos. Tire la barre vers ta poitrine, en menant avec tes coudes et en contractant tes omoplates. Marque une pause en bas du mouvement, puis ramène lentement la barre à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the cable pulley to a high position and attach a straight bar.",
+      "Sit facing the cable machine with your feet flat on the ground and your knees slightly bent.",
+      "Grasp the bar with an overhand grip, slightly wider than shoulder-width apart.",
+      "Lean back slightly and keep your chest up, maintaining a slight arch in your lower back.",
+      "Pull the bar down towards your chest, leading with your elbows and squeezing your shoulder blades together.",
+      "Pause for a moment at the bottom of the movement, then slowly return the bar to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Regola la puleggia del cavo in una posizione alta e fissa una barra dritta.",
+      "Siediti di fronte alla macchina a cavo con i piedi piatti a terra e le ginocchia leggermente piegate.",
+      "Afferra la barra con una presa sopra la mano, leggermente più larga della larghezza delle spalle.",
+      "Inclinati leggermente all'indietro e tieni il petto sollevato, mantenendo un leggero arco nella parte bassa della schiena.",
+      "Tira la barra verso il petto, guidando con i gomiti e stringendo le scapole insieme.",
+      "Fermati un attimo alla parte bassa del movimento, poi riporta lentamente la barra alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Kablo makarasını yüksek konuma ayarlayın ve düz bir çubuk takın.",
+      "Ayaklarınız yere düz basacak ve dizleriniz hafifçe bükülmüş olacak şekilde kablo makinesine dönük olarak oturun.",
+      "Çubuğu omuz genişliğinden biraz daha geniş olacak şekilde üstten kavrayın.",
+      "Hafifçe geriye yaslanın ve göğsünüzü yukarıda tutun, belinizin alt kısmında hafif bir kemer tutun.",
+      "Dirseklerinizi kullanarak ve kürek kemiklerinizi birbirine doğru sıkıştırarak barı göğsünüze doğru çekin.",
+      "Hareketin alt noktasında bir süre duraklayın, ardından çubuğu yavaşça başlangıç ​​pozisyonuna getirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta la polea del cable a una posición alta y coloca una barra recta.",
+      "Siéntate frente a la máquina de cable con los pies planos en el suelo y las rodillas ligeramente flexionadas.",
+      "Sujeta la barra con agarre prono, un poco más separado que el ancho de los hombros.",
+      "Inclínate ligeramente hacia atrás y mantén el pecho elevado, conservando un ligero arco en la zona lumbar.",
+      "Tira de la barra hacia el pecho, guiando el movimiento con los codos y juntando los omóplatos.",
+      "Haz una pausa breve en la parte más baja del movimiento, luego vuelve lentamente la barra a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Установите тросовый шкив в верхнее положение и прикрепите прямую штангу.",
+      "Сядьте лицом к канатной машине, поставьте ступни на землю и слегка согните колени.",
+      "Возьмите штангу хватом сверху, на расстоянии чуть шире ширины плеч.",
+      "Слегка откиньтесь назад и держите грудь вверх, сохраняя небольшой изгиб в пояснице.",
+      "Потяните штангу вниз к груди, ведя локти и сжимая лопатки вместе.",
+      "Сделайте паузу на мгновение в нижней части движения, затем медленно верните штангу в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将电缆滑轮调整至较高位置并安装直杆。",
+      "面向缆绳机坐着，双脚平放在地面上，膝盖稍微弯曲。",
+      "正手握住杠铃，握距略宽于肩宽。",
+      "稍微向后倾斜，挺胸，保持下背部轻微的拱形。",
+      "将杠铃向下拉向胸部，用肘部引导并将肩胛骨挤压在一起。",
+      "在动作底部暂停片刻，然后慢慢地将杠铃返回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "केबल पुली को ऊंचे स्थान पर समायोजित करें और एक सीधी पट्टी संलग्न करें।",
+      "अपने पैरों को ज़मीन पर सपाट करके और अपने घुटनों को थोड़ा मोड़कर केबल मशीन के सामने बैठें।",
+      "बार को ओवरहैंड पकड़ से पकड़ें, कंधे की चौड़ाई से थोड़ा अधिक चौड़ा।",
+      "थोड़ा पीछे झुकें और अपनी छाती को ऊपर रखें, अपनी पीठ के निचले हिस्से में हल्का सा आर्क बनाए रखें।",
+      "बार को अपनी छाती की ओर नीचे खींचें, अपनी कोहनियों से आगे बढ़ते हुए और अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए।",
+      "गति के निचले भाग पर एक पल के लिए रुकें, फिर धीरे-धीरे बार को प्रारंभिक स्थिति में लौटाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Ustaw wyciąg górny i zamocuj prostą drążek.",
+      "Usiądź przodem do wyciągu, ze stopami płasko na podłodze, a kolanami lekko ugiętymi.",
+      "Chwyć drążek chwytem nachwytem, nieco szerzej niż na szerokość barków.",
+      "Odchyl się lekko do tyłu, trzymając klatkę piersiową uniesioną i lekkie wygięcie w dolnej części pleców.",
+      "Przyciągnij drążek w kierunku klatki piersiowej, prowadząc łokciami i ściągając łopatki.",
+      "Zatrzymaj się na chwilę w dolnej pozycji ruchu, a następnie powoli wróć drążkiem do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "케이블 풀리를 높은 위치에 조정한 후 스트레이트 바를 부착합니다.",
+      "발을 바닥에 평평하게 놓고 무릎을 약간 구부린 상태로 케이블 머신을 향해 앉아 있습니다.",
+      "손등이 아래를 향하는 오버핸드 그립으로 바를 잡으면서 어깨 너비보다 약간 넓게 벌립니다.",
+      "약간 뒤로 기울이면서 가슴을 위로 유지하고 허리의 약간의 아치를 유지합니다.",
+      "팔꿈치를 주도하면서 바를 가슴 쪽으로 내려 견갑골을 모아줍니다.",
+      "동작의 맨 아래에서 잠시 멈춘 후 천천히 바를 시작 자세로 올립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Règle la poulie du câble en position haute et attache une barre droite.",
+      "Assieds-toi face à la machine à câble, les pieds à plat sur le sol et les genoux légèrement fléchis.",
+      "Saisis la barre avec une prise en pronation, un peu plus large que la largeur des épaules.",
+      "Penche-toi légèrement en arrière et garde la poitrine ouverte, en maintenant une légère cambrure dans le bas du dos.",
+      "Tire la barre vers ta poitrine, en menant avec tes coudes et en contractant tes omoplates.",
+      "Marque une pause en bas du mouvement, puis ramène lentement la barre à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "rhomboids",
+    "rear deltoids"
+  ],
+  "target": "lats",
+  "image": "images/0150-eYnzaCm.jpg",
+  "gif_url": "videos/0150-eYnzaCm.gif",
+  "media_id": "eYnzaCm",
+  "created_at": "2026-03-18T12:31:32.874157+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

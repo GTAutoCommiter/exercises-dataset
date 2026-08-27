@@ -1,0 +1,121 @@
+{
+  "id": "0165",
+  "name": "cable hammer curl (with rope)",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Stand upright with your feet shoulder-width apart and a slight bend in your knees. Hold the cable rope attachment with an underhand grip, palms facing each other, and your arms fully extended. Keeping your upper arms stationary, exhale and curl the weights while contracting your biceps. Continue to raise the cable rope attachment until your biceps are fully contracted and the rope is at shoulder level. Hold the contracted position for a brief pause as you squeeze your biceps. Inhale and slowly begin to lower the cable rope attachment back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stai in piedi dritti con i piedi larghi alle spalle e con una leggera piega delle ginocchia. Tieni l'attacco della corda con una presa sotto, palmi rivolti l'uno verso l'altro e le braccia completamente estese. Mantenendo ferme le braccia superiori, espira e arriccia i pesi mentre contrahi i bicipiti. Continua ad alzare l'attacco della corda del cavo finché i bicipiti non sono completamente contratti e la corda non è all'altezza delle spalle. Mantieni la posizione contratta per una breve pausa mentre stringi i bicipiti. Inspira e inizia lentamente ad abbassare il collegamento della corda del cavo fino alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız omuz genişliğinde açık ve dizleriniz hafif bükülü olacak şekilde dik durun. Kablo halatı ataşmanını alttan kavrayarak, avuçlarınız birbirine bakacak şekilde ve kollarınız tamamen uzatılmış şekilde tutun. Üst kollarınızı sabit tutarak, bicepslerinizi kasarken ağırlıkları nefes verin ve kıvırın. Bisepsleriniz tamamen kasılana ve halat omuz hizasına gelinceye kadar kablo halatı eklentisini kaldırmaya devam edin. Bicepslerinizi sıkarken kasılmış pozisyonu kısa bir süre koruyun. Nefes alın ve kablo halatı ataşmanını yavaşça başlangıç ​​pozisyonuna indirmeye başlayın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y una ligera flexión en las rodillas. Sujeta el accesorio de cuerda del cable con agarre supino, palmas mirándose entre sí, y los brazos completamente extendidos. Manteniendo los brazos superiores fijos, exhala y levanta el peso mientras contraes los bíceps. Continúa levantando el accesorio de cuerda del cable hasta que los bíceps estén completamente contraídos y la cuerda esté a la altura de los hombros. Mantén la posición contraída durante una breve pausa mientras aprietas los bíceps. Inhala y comienza a bajar lentamente el accesorio de cuerda del cable de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте прямо, ноги на ширине плеч и слегка согните колени. Держите тросовое крепление обратным хватом снизу, ладони обращены друг к другу, руки полностью выпрямлены. Удерживая плечи неподвижно, выдохните и согните гантели, одновременно сокращая бицепсы. Продолжайте поднимать веревку до тех пор, пока ваши бицепсы полностью не сократятся и веревка не окажется на уровне плеч. Задержитесь в сокращенном положении на короткую паузу, одновременно сжимая бицепсы. Вдохните и медленно начните опускать трос обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "站直，双脚分开与肩同宽，膝盖稍微弯曲。 双手握住缆绳附件，手掌相对，手臂完全伸展。 保持上臂静止，呼气并弯举哑铃，同时收缩二头肌。 继续提升缆绳附件，直到您的二头肌完全收缩并且绳索与肩部齐平。 挤压二头肌时，保持收缩位置短暂停顿。 吸气并慢慢开始将缆绳附件降低回起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर और घुटनों को थोड़ा मोड़कर सीधे खड़े हो जाएं। केबल रस्सी के अटेचमेंट को हाथ से पकड़ें, हथेलियाँ एक-दूसरे के सामने हों और आपकी भुजाएँ पूरी तरह फैली हुई हों। अपनी ऊपरी बांहों को स्थिर रखते हुए, सांस छोड़ें और अपने बाइसेप्स को सिकोड़ते हुए वजन को मोड़ें। केबल रस्सी के लगाव को तब तक ऊपर उठाना जारी रखें जब तक कि आपके बाइसेप्स पूरी तरह से सिकुड़ न जाएं और रस्सी कंधे के स्तर पर न आ जाए। जब आप अपने बाइसेप्स को निचोड़ते हैं तो थोड़ी देर के लिए अनुबंधित स्थिति में रहें। श्वास लें और धीरे-धीरे केबल रस्सी के लगाव को वापस प्रारंभिक स्थिति में लाना शुरू करें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań w pozycji wyprostowanej, stopy rozstawione na szerokość barków, kolana lekko ugięte. Trzymaj linę wyciągu podchwytem, dłonie skierowane do siebie, ramiona całkowicie wyprostowane. Utrzymując nieruchome ramiona górne, wydychaj powietrze i unoś ciężar, napinając bicepsy. Kontynuuj unoszenie liny, aż bicepsy będą maksymalnie napięte, a lina znajdzie się na wysokości barków. Zatrzymaj napiętą pozycję na chwilę, mocno napinając bicepsy. Wdychaj powietrze i powoli zacznij opuszczać linę do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "발을 어깨 너비로 벌리고 무릎을 약간 구부린 상태로 곧게 섭니다. 언더핸드 그립(손바닥이 서로 마주봄)으로 케이블 로프 어태치먼트를 잡고 팔을 완전히 펼칩니다. 상팔을 고정시킨 상태에서 숨을 내쉬면서 가중치를 말아올리고 이두근을 수축시킵니다. 케이블 로프 어태치먼트를 이두근이 완전히 수축되고 로프가 어깨 높이에 올 때까지 계속 올립니다. 수축된 위치에서 이두근을 짜내며 잠깐 멈춥니다. 숨을 들이마시면서 케이블 로프 어태치먼트를 천천히 시작 위치로 내립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout bien droit, les pieds écartés à la largeur des épaules et les genoux légèrement fléchis. Tiens l'accessoire corde du câble en prise supination, les paumes tournées l'une vers l'autre et les bras complètement étendus. En gardant le haut des bras immobile, expire et fléchis les poids en contractant tes biceps. Continue à lever la corde attachée au câble jusqu'à ce que tes biceps soient complètement contractés et que la corde soit à hauteur d'épaule. Maintiens la position contractée pendant une brève pause en contractant tes biceps. Inspire et commence lentement à abaisser la corde du câble jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand upright with your feet shoulder-width apart and a slight bend in your knees.",
+      "Hold the cable rope attachment with an underhand grip, palms facing each other, and your arms fully extended.",
+      "Keeping your upper arms stationary, exhale and curl the weights while contracting your biceps.",
+      "Continue to raise the cable rope attachment until your biceps are fully contracted and the rope is at shoulder level.",
+      "Hold the contracted position for a brief pause as you squeeze your biceps.",
+      "Inhale and slowly begin to lower the cable rope attachment back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai in piedi dritti con i piedi larghi alle spalle e con una leggera piega delle ginocchia.",
+      "Tieni l'attacco della corda con una presa sotto, palmi rivolti l'uno verso l'altro e le braccia completamente estese.",
+      "Mantenendo ferme le braccia superiori, espira e arriccia i pesi mentre contrahi i bicipiti.",
+      "Continua ad alzare l'attacco della corda del cavo finché i bicipiti non sono completamente contratti e la corda non è all'altezza delle spalle.",
+      "Mantieni la posizione contratta per una breve pausa mentre stringi i bicipiti.",
+      "Inspira e inizia lentamente ad abbassare il collegamento della corda del cavo fino alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık ve dizleriniz hafif bükülü olacak şekilde dik durun.",
+      "Kablo halatı ataşmanını alttan kavrayarak, avuçlarınız birbirine bakacak şekilde ve kollarınız tamamen uzatılmış şekilde tutun.",
+      "Üst kollarınızı sabit tutarak, bicepslerinizi kasarken ağırlıkları nefes verin ve kıvırın.",
+      "Bisepsleriniz tamamen kasılana ve halat omuz hizasına gelinceye kadar kablo halatı eklentisini kaldırmaya devam edin.",
+      "Bicepslerinizi sıkarken kasılmış pozisyonu kısa bir süre koruyun.",
+      "Nefes alın ve kablo halatı ataşmanını yavaşça başlangıç ​​pozisyonuna indirmeye başlayın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y una ligera flexión en las rodillas.",
+      "Sujeta el accesorio de cuerda del cable con agarre supino, palmas mirándose entre sí, y los brazos completamente extendidos.",
+      "Manteniendo los brazos superiores fijos, exhala y levanta el peso mientras contraes los bíceps.",
+      "Continúa levantando el accesorio de cuerda del cable hasta que los bíceps estén completamente contraídos y la cuerda esté a la altura de los hombros.",
+      "Mantén la posición contraída durante una breve pausa mientras aprietas los bíceps.",
+      "Inhala y comienza a bajar lentamente el accesorio de cuerda del cable de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте прямо, ноги на ширине плеч и слегка согните колени.",
+      "Держите тросовое крепление обратным хватом снизу, ладони обращены друг к другу, руки полностью выпрямлены.",
+      "Удерживая плечи неподвижно, выдохните и согните гантели, одновременно сокращая бицепсы.",
+      "Продолжайте поднимать веревку до тех пор, пока ваши бицепсы полностью не сократятся и веревка не окажется на уровне плеч.",
+      "Задержитесь в сокращенном положении на короткую паузу, одновременно сжимая бицепсы.",
+      "Вдохните и медленно начните опускать трос обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "站直，双脚分开与肩同宽，膝盖稍微弯曲。",
+      "双手握住缆绳附件，手掌相对，手臂完全伸展。",
+      "保持上臂静止，呼气并弯举哑铃，同时收缩二头肌。",
+      "继续提升缆绳附件，直到您的二头肌完全收缩并且绳索与肩部齐平。",
+      "挤压二头肌时，保持收缩位置短暂停顿。",
+      "吸气并慢慢开始将缆绳附件降低回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर और घुटनों को थोड़ा मोड़कर सीधे खड़े हो जाएं।",
+      "केबल रस्सी के अटेचमेंट को हाथ से पकड़ें, हथेलियाँ एक-दूसरे के सामने हों और आपकी भुजाएँ पूरी तरह फैली हुई हों।",
+      "अपनी ऊपरी बांहों को स्थिर रखते हुए, सांस छोड़ें और अपने बाइसेप्स को सिकोड़ते हुए वजन को मोड़ें।",
+      "केबल रस्सी के लगाव को तब तक ऊपर उठाना जारी रखें जब तक कि आपके बाइसेप्स पूरी तरह से सिकुड़ न जाएं और रस्सी कंधे के स्तर पर न आ जाए।",
+      "जब आप अपने बाइसेप्स को निचोड़ते हैं तो थोड़ी देर के लिए अनुबंधित स्थिति में रहें।",
+      "श्वास लें और धीरे-धीरे केबल रस्सी के लगाव को वापस प्रारंभिक स्थिति में लाना शुरू करें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w pozycji wyprostowanej, stopy rozstawione na szerokość barków, kolana lekko ugięte.",
+      "Trzymaj linę wyciągu podchwytem, dłonie skierowane do siebie, ramiona całkowicie wyprostowane.",
+      "Utrzymując nieruchome ramiona górne, wydychaj powietrze i unoś ciężar, napinając bicepsy.",
+      "Kontynuuj unoszenie liny, aż bicepsy będą maksymalnie napięte, a lina znajdzie się na wysokości barków.",
+      "Zatrzymaj napiętą pozycję na chwilę, mocno napinając bicepsy.",
+      "Wdychaj powietrze i powoli zacznij opuszczać linę do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 너비로 벌리고 무릎을 약간 구부린 상태로 곧게 섭니다.",
+      "언더핸드 그립(손바닥이 서로 마주봄)으로 케이블 로프 어태치먼트를 잡고 팔을 완전히 펼칩니다.",
+      "상팔을 고정시킨 상태에서 숨을 내쉬면서 가중치를 말아올리고 이두근을 수축시킵니다.",
+      "케이블 로프 어태치먼트를 이두근이 완전히 수축되고 로프가 어깨 높이에 올 때까지 계속 올립니다.",
+      "수축된 위치에서 이두근을 짜내며 잠깐 멈춥니다.",
+      "숨을 들이마시면서 케이블 로프 어태치먼트를 천천히 시작 위치로 내립니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout bien droit, les pieds écartés à la largeur des épaules et les genoux légèrement fléchis.",
+      "Tiens l'accessoire corde du câble en prise supination, les paumes tournées l'une vers l'autre et les bras complètement étendus.",
+      "En gardant le haut des bras immobile, expire et fléchis les poids en contractant tes biceps.",
+      "Continue à lever la corde attachée au câble jusqu'à ce que tes biceps soient complètement contractés et que la corde soit à hauteur d'épaule.",
+      "Maintiens la position contractée pendant une brève pause en contractant tes biceps.",
+      "Inspire et commence lentement à abaisser la corde du câble jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "forearms",
+  "secondary_muscles": [
+    "forearms"
+  ],
+  "target": "biceps",
+  "image": "images/0165-HPlPoQA.jpg",
+  "gif_url": "videos/0165-HPlPoQA.gif",
+  "media_id": "HPlPoQA",
+  "created_at": "2026-03-18T12:31:32.87449+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

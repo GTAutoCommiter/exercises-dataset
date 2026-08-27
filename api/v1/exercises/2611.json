@@ -1,0 +1,113 @@
+{
+  "id": "2611",
+  "name": "lever horizontal one leg press",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "leverage machine",
+  "instructions": {
+    "en": "Adjust the seat of the machine so that your knees are at a 90-degree angle when your feet are on the footplate. Sit on the machine with your back against the backrest and your feet shoulder-width apart on the footplate. Place your hands on the handles or sides of the machine for stability. Push the footplate away from your body by extending your leg, keeping your back against the backrest. Pause for a moment at the fully extended position, then slowly bend your leg to return to the starting position. Repeat for the desired number of repetitions, then switch legs.",
+    "it": "Regolare il sedile della macchina in modo che le ginocchia formino un angolo di 90 gradi quando i piedi sono sulla pedana. Sedersi sulla macchina con la schiena contro lo schienale e i piedi sulla pedana alla larghezza delle spalle. Metti le mani sulle maniglie o sui lati della macchina per stabilità. Allontanare la pedana dal corpo estendendo la gamba e mantenendo la schiena contro lo schienale. Fermati per un momento nella posizione completamente estesa, quindi piega lentamente la gamba per tornare alla posizione di partenza. Ripeti per il numero di ripetizioni desiderato, quindi cambia gamba.",
+    "tr": "Makinenin koltuğunu, ayaklarınız taban plakası üzerindeyken dizleriniz 90 derecelik bir açıda olacak şekilde ayarlayın. Sırtınız koltuk arkalığına dayalı ve ayaklarınız taban plakası üzerinde omuz genişliğinde açık olacak şekilde makineye oturun. Dengeyi sağlamak için ellerinizi makinenin kollarına veya yanlarına yerleştirin. Sırtınızı koltuk arkalığına yaslayarak bacağınızı uzatarak ayak plakasını vücudunuzdan uzağa doğru itin. Tamamen uzatılmış pozisyonda bir an duraklayın, ardından bacağınızı yavaşça bükerek başlangıç ​​pozisyonuna dönün. İstenilen tekrar sayısı kadar tekrarlayın, ardından bacakları değiştirin.",
+    "es": "Ajusta el asiento de la máquina de modo que las rodillas queden en un ángulo de 90 grados cuando los pies estén sobre la placa para los pies. Siéntate en la máquina con la espalda apoyada en el respaldo y los pies separados a la altura de los hombros sobre la placa para los pies. Coloca las manos en las asas o en los lados de la máquina para mayor estabilidad. Empuja la placa para los pies alejándola del cuerpo extendiendo la pierna, manteniendo la espalda apoyada en el respaldo. Haz una pausa breve en la posición completamente extendida, luego flexiona lentamente la pierna para volver a la posición inicial. Repite el número de repeticiones deseado, luego cambia de pierna.",
+    "ru": "Отрегулируйте сиденье тренажера так, чтобы колени находились под углом 90 градусов, когда ступни стоят на подножке. Сядьте на тренажер спиной к спинке и поставьте ноги на подножку на ширине плеч. Положите руки на ручки или по бокам машины для устойчивости. Отодвиньте подножку от тела, вытянув ногу и прижав спину к спинке. Задержитесь на мгновение в полностью выпрямленном положении, затем медленно согните ногу, чтобы вернуться в исходное положение. Повторите необходимое количество повторений, затем поменяйте ногу.",
+    "zh": "调整机器座椅，使双脚放在踏板上时膝盖呈 90 度角。 坐在机器上，背部靠在靠背上，双脚与肩同宽放在踏板上。 将手放在机器的手柄或侧面以保持稳定性。 伸展腿，使背部紧靠靠背，将踏板推离身体。 在完全伸展位置暂停片刻，然后慢慢弯曲腿回到起始位置。 重复所需的重复次数，然后换腿。",
+    "hi": "मशीन की सीट को इस तरह समायोजित करें कि जब आपके पैर फ़ुटप्लेट पर हों तो आपके घुटने 90 डिग्री के कोण पर हों। मशीन पर अपनी पीठ बैकरेस्ट से सटाकर बैठें और आपके पैर फ़ुटप्लेट पर कंधे की चौड़ाई से अलग हों। स्थिरता के लिए अपने हाथों को मशीन के हैंडल या किनारों पर रखें। अपने पैर को फैलाकर, अपनी पीठ को बैकरेस्ट के सामने रखकर फ़ुटप्लेट को अपने शरीर से दूर धकेलें। पूरी तरह से विस्तारित स्थिति में एक पल के लिए रुकें, फिर धीरे-धीरे अपने पैर को मोड़कर प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएं, फिर पैर बदल लें।",
+    "pl": "Wyreguluj siedzisko maszyny tak, aby kolana znajdowały się pod kątem 90 stopni, gdy stopy są na płycie. Usiądź na maszynie, opierając plecy o oparcie, a stopy rozstawione na szerokość barków na płycie. Umieść dłonie na uchwytach lub bokach maszyny dla stabilizacji. Odepchnij płytę od ciała, prostując nogę, utrzymując plecy oparte o oparcie. Zatrzymaj się na chwilę w pozycji pełnego wyprostu, a następnie powoli ugnij nogę, wracając do pozycji wyjściowej. Powtórz zgodnie z zaplanowaną liczbą powtórzeń, a następnie zmień nogę.",
+    "ko": "머신의 시트를 발이 발판에 있을 때 무릎이 90도 각도가 되도록 조정한다. 머신에 앉아 등을 등받이에 기대고 발을 발판에 어깨 너비로 벌린다. 안정성을 위해 손잡이나 머신 옆을 잡는다. 다리를 펼쳐 발판을 몸에서 밀어내고 등을 등받이에 붙인 상태를 유지한다. 완전히 펼친 위치에서 잠시 멈춘 후, 천천히 다리를 구부려 시작 위치로 돌아온다. 원하는 횟수만큼 반복한 후 다리를 바꾼다.",
+    "fr": "Règle le siège de la machine de sorte que tes genoux forment un angle de 90 degrés lorsque tes pieds sont sur le repose-pieds. Assieds-toi sur la machine, le dos contre le dossier et les pieds écartés à la largeur des épaules sur la plaque de pied. Place tes mains sur les poignées ou les côtés de la machine pour plus de stabilité. Pousse le repose-pieds loin de ton corps en étendant ta jambe, en gardant ton dos contre le dossier. Marque une pause en position complètement étendue, puis fléchis lentement ta jambe pour revenir à la position de départ. Répète le nombre de répétitions souhaité, puis change de jambe."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the seat of the machine so that your knees are at a 90-degree angle when your feet are on the footplate.",
+      "Sit on the machine with your back against the backrest and your feet shoulder-width apart on the footplate.",
+      "Place your hands on the handles or sides of the machine for stability.",
+      "Push the footplate away from your body by extending your leg, keeping your back against the backrest.",
+      "Pause for a moment at the fully extended position, then slowly bend your leg to return to the starting position.",
+      "Repeat for the desired number of repetitions, then switch legs."
+    ],
+    "it": [
+      "Regolare il sedile della macchina in modo che le ginocchia formino un angolo di 90 gradi quando i piedi sono sulla pedana.",
+      "Sedersi sulla macchina con la schiena contro lo schienale e i piedi sulla pedana alla larghezza delle spalle.",
+      "Metti le mani sulle maniglie o sui lati della macchina per stabilità.",
+      "Allontanare la pedana dal corpo estendendo la gamba e mantenendo la schiena contro lo schienale.",
+      "Fermati per un momento nella posizione completamente estesa, quindi piega lentamente la gamba per tornare alla posizione di partenza.",
+      "Ripeti per il numero di ripetizioni desiderato, quindi cambia gamba."
+    ],
+    "tr": [
+      "Makinenin koltuğunu, ayaklarınız taban plakası üzerindeyken dizleriniz 90 derecelik bir açıda olacak şekilde ayarlayın.",
+      "Sırtınız koltuk arkalığına dayalı ve ayaklarınız taban plakası üzerinde omuz genişliğinde açık olacak şekilde makineye oturun.",
+      "Dengeyi sağlamak için ellerinizi makinenin kollarına veya yanlarına yerleştirin.",
+      "Sırtınızı koltuk arkalığına yaslayarak bacağınızı uzatarak ayak plakasını vücudunuzdan uzağa doğru itin.",
+      "Tamamen uzatılmış pozisyonda bir an duraklayın, ardından bacağınızı yavaşça bükerek başlangıç ​​pozisyonuna dönün.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından bacakları değiştirin."
+    ],
+    "es": [
+      "Ajusta el asiento de la máquina de modo que las rodillas queden en un ángulo de 90 grados cuando los pies estén sobre la placa para los pies.",
+      "Siéntate en la máquina con la espalda apoyada en el respaldo y los pies separados a la altura de los hombros sobre la placa para los pies.",
+      "Coloca las manos en las asas o en los lados de la máquina para mayor estabilidad.",
+      "Empuja la placa para los pies alejándola del cuerpo extendiendo la pierna, manteniendo la espalda apoyada en el respaldo.",
+      "Haz una pausa breve en la posición completamente extendida, luego flexiona lentamente la pierna para volver a la posición inicial.",
+      "Repite el número de repeticiones deseado, luego cambia de pierna."
+    ],
+    "ru": [
+      "Отрегулируйте сиденье тренажера так, чтобы колени находились под углом 90 градусов, когда ступни стоят на подножке.",
+      "Сядьте на тренажер спиной к спинке и поставьте ноги на подножку на ширине плеч.",
+      "Положите руки на ручки или по бокам машины для устойчивости.",
+      "Отодвиньте подножку от тела, вытянув ногу и прижав спину к спинке.",
+      "Задержитесь на мгновение в полностью выпрямленном положении, затем медленно согните ногу, чтобы вернуться в исходное положение.",
+      "Повторите необходимое количество повторений, затем поменяйте ногу."
+    ],
+    "zh": [
+      "调整机器座椅，使双脚放在踏板上时膝盖呈 90 度角。",
+      "坐在机器上，背部靠在靠背上，双脚与肩同宽放在踏板上。",
+      "将手放在机器的手柄或侧面以保持稳定性。",
+      "伸展腿，使背部紧靠靠背，将踏板推离身体。",
+      "在完全伸展位置暂停片刻，然后慢慢弯曲腿回到起始位置。",
+      "重复所需的重复次数，然后换腿。"
+    ],
+    "hi": [
+      "मशीन की सीट को इस तरह समायोजित करें कि जब आपके पैर फ़ुटप्लेट पर हों तो आपके घुटने 90 डिग्री के कोण पर हों।",
+      "मशीन पर अपनी पीठ बैकरेस्ट से सटाकर बैठें और आपके पैर फ़ुटप्लेट पर कंधे की चौड़ाई से अलग हों।",
+      "स्थिरता के लिए अपने हाथों को मशीन के हैंडल या किनारों पर रखें।",
+      "अपने पैर को फैलाकर, अपनी पीठ को बैकरेस्ट के सामने रखकर फ़ुटप्लेट को अपने शरीर से दूर धकेलें।",
+      "पूरी तरह से विस्तारित स्थिति में एक पल के लिए रुकें, फिर धीरे-धीरे अपने पैर को मोड़कर प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर पैर बदल लें।"
+    ],
+    "pl": [
+      "Wyreguluj siedzisko maszyny tak, aby kolana znajdowały się pod kątem 90 stopni, gdy stopy są na płycie.",
+      "Usiądź na maszynie, opierając plecy o oparcie, a stopy rozstawione na szerokość barków na płycie.",
+      "Umieść dłonie na uchwytach lub bokach maszyny dla stabilizacji.",
+      "Odepchnij płytę od ciała, prostując nogę, utrzymując plecy oparte o oparcie.",
+      "Zatrzymaj się na chwilę w pozycji pełnego wyprostu, a następnie powoli ugnij nogę, wracając do pozycji wyjściowej.",
+      "Powtórz zgodnie z zaplanowaną liczbą powtórzeń, a następnie zmień nogę."
+    ],
+    "ko": [
+      "머신의 시트를 발이 발판에 있을 때 무릎이 90도 각도가 되도록 조정한다.",
+      "머신에 앉아 등을 등받이에 기대고 발을 발판에 어깨 너비로 벌린다.",
+      "안정성을 위해 손잡이나 머신 옆을 잡는다.",
+      "다리를 펼쳐 발판을 몸에서 밀어내고 등을 등받이에 붙인 상태를 유지한다.",
+      "완전히 펼친 위치에서 잠시 멈춘 후, 천천히 다리를 구부려 시작 위치로 돌아온다.",
+      "원하는 횟수만큼 반복한 후 다리를 바꾼다."
+    ],
+    "fr": [
+      "Règle le siège de la machine de sorte que tes genoux forment un angle de 90 degrés lorsque tes pieds sont sur le repose-pieds.",
+      "Assieds-toi sur la machine, le dos contre le dossier et les pieds écartés à la largeur des épaules sur la plaque de pied.",
+      "Place tes mains sur les poignées ou les côtés de la machine pour plus de stabilité.",
+      "Pousse le repose-pieds loin de ton corps en étendant ta jambe, en gardant ton dos contre le dossier.",
+      "Marque une pause en position complètement étendue, puis fléchis lentement ta jambe pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis change de jambe."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "glutes",
+  "image": "images/2611-9KU9TYF.jpg",
+  "gif_url": "videos/2611-9KU9TYF.gif",
+  "media_id": "9KU9TYF",
+  "created_at": "2026-03-18T12:31:32.8864+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

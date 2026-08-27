@@ -1,0 +1,102 @@
+{
+  "id": "1741",
+  "name": "dumbbell standing bent over two arm triceps extension",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and hold a dumbbell in each hand. Bend forward at the waist, keeping your back straight and your knees slightly bent. Extend your arms straight back, keeping your elbows close to your body. Slowly lower the dumbbells back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi distanti alla larghezza delle spalle e tieni un manubrio in ciascuna mano. Piegati in avanti in vita, tenendo la schiena dritta e le ginocchia leggermente piegate. Allunga le braccia dritte all'indietro, tenendo i gomiti vicini al corpo. Abbassa lentamente i manubri fino alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınızı omuz genişliğinde açın ve her iki elinize de birer dambıl alın. Belinizi öne doğru eğin, sırtınızı düz tutun ve dizlerinizi hafifçe bükün. Dirseklerinizi vücudunuza yakın tutarak kollarınızı düz bir şekilde geriye doğru uzatın. Dambılları yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y sostén una mancuerna en cada mano. Inclínate hacia adelante desde la cintura, manteniendo la espalda recta y las rodillas ligeramente flexionadas. Extiende los brazos rectos hacia atrás, manteniendo los codos cerca del cuerpo. Baja lentamente las mancuernas de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, возьмите в каждую руку по гантели. Наклонитесь вперед в талии, сохраняя спину прямой и слегка согнутыми в коленях. Вытяните руки прямо назад, держа локти близко к телу. Медленно опустите гантели обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，每只手各握一个哑铃。 腰部向前弯曲，保持背部挺直，膝盖稍微弯曲。 双臂向后伸直，保持肘部靠近身体。 慢慢地将哑铃放回起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और प्रत्येक हाथ में डंबल पकड़ लें। अपनी पीठ सीधी और घुटने थोड़े मुड़े हुए रखते हुए कमर के बल आगे की ओर झुकें। अपनी कोहनियों को अपने शरीर के करीब रखते हुए, अपनी भुजाओं को पीछे की ओर सीधा फैलाएँ। धीरे-धीरे डम्बल को वापस प्रारंभिक स्थिति में लाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań w rozkroku na szerokość barków i trzymaj hantle w obu dłoniach. Pochyl tułów do przodu w pasie, trzymając plecy proste, a kolana lekko zgięte. Wyprostuj ramiona do tyłu, trzymając łokcie blisko ciała. Powoli opuść hantle do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "어깨 너비로 발을 벌리고 양손에 덤벨을 들고 섭니다. 허리에서 앞으로 숙이면서 등을 펴고 무릎을 약간 구부립니다. 팔꿈치를 몸에 가깝게 유지하면서 팔을 뒤쪽으로 완전히 뻗습니다. 덤벨을 천천히 시작 자세로 내립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens un haltère dans chaque main. Penche-toi vers l'avant au niveau de la taille en gardant ton dos droit et tes genoux légèrement fléchis. Étends les bras droit vers l'arrière, en gardant les coudes près du corps. Abaisse lentement les haltères vers la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and hold a dumbbell in each hand.",
+      "Bend forward at the waist, keeping your back straight and your knees slightly bent.",
+      "Extend your arms straight back, keeping your elbows close to your body.",
+      "Slowly lower the dumbbells back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi distanti alla larghezza delle spalle e tieni un manubrio in ciascuna mano.",
+      "Piegati in avanti in vita, tenendo la schiena dritta e le ginocchia leggermente piegate.",
+      "Allunga le braccia dritte all'indietro, tenendo i gomiti vicini al corpo.",
+      "Abbassa lentamente i manubri fino alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınızı omuz genişliğinde açın ve her iki elinize de birer dambıl alın.",
+      "Belinizi öne doğru eğin, sırtınızı düz tutun ve dizlerinizi hafifçe bükün.",
+      "Dirseklerinizi vücudunuza yakın tutarak kollarınızı düz bir şekilde geriye doğru uzatın.",
+      "Dambılları yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y sostén una mancuerna en cada mano.",
+      "Inclínate hacia adelante desde la cintura, manteniendo la espalda recta y las rodillas ligeramente flexionadas.",
+      "Extiende los brazos rectos hacia atrás, manteniendo los codos cerca del cuerpo.",
+      "Baja lentamente las mancuernas de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, возьмите в каждую руку по гантели.",
+      "Наклонитесь вперед в талии, сохраняя спину прямой и слегка согнутыми в коленях.",
+      "Вытяните руки прямо назад, держа локти близко к телу.",
+      "Медленно опустите гантели обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，每只手各握一个哑铃。",
+      "腰部向前弯曲，保持背部挺直，膝盖稍微弯曲。",
+      "双臂向后伸直，保持肘部靠近身体。",
+      "慢慢地将哑铃放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और प्रत्येक हाथ में डंबल पकड़ लें।",
+      "अपनी पीठ सीधी और घुटने थोड़े मुड़े हुए रखते हुए कमर के बल आगे की ओर झुकें।",
+      "अपनी कोहनियों को अपने शरीर के करीब रखते हुए, अपनी भुजाओं को पीछे की ओर सीधा फैलाएँ।",
+      "धीरे-धीरे डम्बल को वापस प्रारंभिक स्थिति में लाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków i trzymaj hantle w obu dłoniach.",
+      "Pochyl tułów do przodu w pasie, trzymając plecy proste, a kolana lekko zgięte.",
+      "Wyprostuj ramiona do tyłu, trzymając łokcie blisko ciała.",
+      "Powoli opuść hantle do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "어깨 너비로 발을 벌리고 양손에 덤벨을 들고 섭니다.",
+      "허리에서 앞으로 숙이면서 등을 펴고 무릎을 약간 구부립니다.",
+      "팔꿈치를 몸에 가깝게 유지하면서 팔을 뒤쪽으로 완전히 뻗습니다.",
+      "덤벨을 천천히 시작 자세로 내립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens un haltère dans chaque main.",
+      "Penche-toi vers l'avant au niveau de la taille en gardant ton dos droit et tes genoux légèrement fléchis.",
+      "Étends les bras droit vers l'arrière, en gardant les coudes près du corps.",
+      "Abaisse lentement les haltères vers la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "back"
+  ],
+  "target": "triceps",
+  "image": "images/1741-3T12T87.jpg",
+  "gif_url": "videos/1741-3T12T87.gif",
+  "media_id": "3T12T87",
+  "created_at": "2026-03-18T12:31:32.881876+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

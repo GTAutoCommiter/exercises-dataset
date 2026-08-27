@@ -1,0 +1,112 @@
+{
+  "id": "0768",
+  "name": "smith single leg split squat",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "smith machine",
+  "instructions": {
+    "en": "Stand in front of the smith machine with your feet shoulder-width apart. Place one foot behind you on a bench or step, with your toes pointing forward. Hold onto the smith machine bar for stability. Bend your front knee and lower your body down into a lunge position, keeping your back straight. Pause for a moment at the bottom, then push through your front heel to return to the starting position. Repeat for the desired number of repetitions, then switch legs.",
+    "it": "Mettiti di fronte alla macchina da fabbro con i piedi alla larghezza delle spalle. Metti un piede dietro di te su una panca o su un gradino, con le dita dei piedi rivolte in avanti. Tieni la barra della Smith Machine per stabilità. Piega il ginocchio anteriore e abbassa il corpo in una posizione di affondo, mantenendo la schiena dritta. Fermati per un momento in basso, quindi spingi il tallone anteriore per tornare alla posizione di partenza. Ripeti per il numero di ripetizioni desiderato, quindi cambia gamba.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde demirci makinesinin önünde durun. Bir ayağınızı arkanıza, ayak parmaklarınız ileriyi gösterecek şekilde bir bankın veya basamağın üzerine koyun. Denge için demirci makinesi çubuğuna tutunun. Öndeki dizinizi bükün ve sırtınızı düz tutarak vücudunuzu hamle pozisyonuna indirin. Altta bir an duraklayın, ardından başlangıç ​​pozisyonuna dönmek için ön topuğunuzu itin. İstenilen tekrar sayısı kadar tekrarlayın, ardından bacakları değiştirin.",
+    "es": "Ponte de pie frente a la máquina Smith con los pies separados a la altura de los hombros. Coloca un pie detrás de ti sobre un banco o escalón, con los dedos del pie apuntando hacia delante. Sujétate de la barra de la máquina Smith para mayor estabilidad. Dobla la rodilla delantera y baja el cuerpo hacia una posición de zancada, manteniendo la espalda recta. Haz una pausa por un momento en la posición baja, luego empuja con el talón delantero para volver a la posición inicial. Repite el número de repeticiones deseado, luego cambia de pierna.",
+    "ru": "Встаньте перед машиной Смита, поставив ноги на ширине плеч. Поставьте одну ногу позади себя на скамью или ступеньку так, чтобы пальцы ног были направлены вперед. Держитесь за стержень машины Смита для устойчивости. Согните переднее колено и опустите тело в положение выпада, сохраняя спину прямой. Задержитесь на мгновение внизу, затем оттолкнитесь передней пяткой, чтобы вернуться в исходное положение. Повторите необходимое количество повторений, затем поменяйте ногу.",
+    "zh": "站在史密斯机前，双脚分开与肩同宽。 将一只脚放在身后的长凳或台阶上，脚趾向前。 握住史密斯机杆以保持稳定性。 弯曲前膝盖，将身体降低到弓步位置，保持背部挺直。 在底部停顿片刻，然后推动前脚跟回到起始位置。 重复所需的重复次数，然后换腿。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए स्मिथ मशीन के सामने खड़े हो जाएं। एक पैर को अपने पीछे किसी बेंच या सीढ़ी पर रखें, जिसमें आपके पैर की उंगलियां आगे की ओर हों। स्थिरता के लिए स्मिथ मशीन बार को पकड़ें। अपने सामने के घुटने को मोड़ें और अपनी पीठ को सीधा रखते हुए अपने शरीर को नीचे की ओर झुकें। नीचे एक पल के लिए रुकें, फिर प्रारंभिक स्थिति में लौटने के लिए अपनी सामने की एड़ी से धक्का दें। दोहराव की वांछित संख्या के लिए दोहराएं, फिर पैर बदल लें।",
+    "pl": "Stań przed suwnicą Smitha, ze stopami rozstawionymi na szerokość barków. Umieść jedną stopę za sobą na ławce lub stopniu, palcami skierowanymi do przodu. Przytrzymaj się sztangi suwnicy Smitha dla stabilności. Ugnij przednie kolano i opuść ciało w pozycję wykroku, trzymając plecy proste. Zatrzymaj się na chwilę na dole, a następnie odepchnij się przez przednią piętę, aby wrócić do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń, a następnie zmień nogę.",
+    "ko": "스미스 머신 앞에 발을 어깨 너비만큼 벌려진 위치에 서 있습니다. 한쪽 발을 벤치나 스텝 위에 뒤로 올리되 발가락이 앞을 향합니다. 안정성을 위해 스미스 머신 바를 잡습니다. 앞다리의 무릎을 구부려 몸을 런지 위치로 내리되 등은 펴진 상태를 유지합니다. 아래에서 잠깐 멈추고 앞다리의 뒤꿈치로 밀어 시작 위치로 돌아옵니다. 원하는 횟수만큼 반복한 다음 다리를 바꿔 반복합니다.",
+    "fr": "Tiens-toi devant la machine Smith, les pieds écartés à la largeur des épaules. Place un pied derrière toi sur un banc ou une marche, les orteils pointés vers l'avant. Tiens-toi à la barre de la machine Smith pour la stabilité. Plie ton genou avant et abaisse ton corps en position de fente en gardant ton dos droit. Marque une pause en bas, puis pousse sur ton talon avant pour revenir à la position de départ. Répète le nombre de répétitions souhaité, puis change de jambe."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand in front of the smith machine with your feet shoulder-width apart.",
+      "Place one foot behind you on a bench or step, with your toes pointing forward.",
+      "Hold onto the smith machine bar for stability.",
+      "Bend your front knee and lower your body down into a lunge position, keeping your back straight.",
+      "Pause for a moment at the bottom, then push through your front heel to return to the starting position.",
+      "Repeat for the desired number of repetitions, then switch legs."
+    ],
+    "it": [
+      "Mettiti di fronte alla macchina da fabbro con i piedi alla larghezza delle spalle.",
+      "Metti un piede dietro di te su una panca o su un gradino, con le dita dei piedi rivolte in avanti.",
+      "Tieni la barra della Smith Machine per stabilità.",
+      "Piega il ginocchio anteriore e abbassa il corpo in una posizione di affondo, mantenendo la schiena dritta.",
+      "Fermati per un momento in basso, quindi spingi il tallone anteriore per tornare alla posizione di partenza.",
+      "Ripeti per il numero di ripetizioni desiderato, quindi cambia gamba."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde demirci makinesinin önünde durun.",
+      "Bir ayağınızı arkanıza, ayak parmaklarınız ileriyi gösterecek şekilde bir bankın veya basamağın üzerine koyun.",
+      "Denge için demirci makinesi çubuğuna tutunun.",
+      "Öndeki dizinizi bükün ve sırtınızı düz tutarak vücudunuzu hamle pozisyonuna indirin.",
+      "Altta bir an duraklayın, ardından başlangıç ​​pozisyonuna dönmek için ön topuğunuzu itin.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından bacakları değiştirin."
+    ],
+    "es": [
+      "Ponte de pie frente a la máquina Smith con los pies separados a la altura de los hombros.",
+      "Coloca un pie detrás de ti sobre un banco o escalón, con los dedos del pie apuntando hacia delante.",
+      "Sujétate de la barra de la máquina Smith para mayor estabilidad.",
+      "Dobla la rodilla delantera y baja el cuerpo hacia una posición de zancada, manteniendo la espalda recta.",
+      "Haz una pausa por un momento en la posición baja, luego empuja con el talón delantero para volver a la posición inicial.",
+      "Repite el número de repeticiones deseado, luego cambia de pierna."
+    ],
+    "ru": [
+      "Встаньте перед машиной Смита, поставив ноги на ширине плеч.",
+      "Поставьте одну ногу позади себя на скамью или ступеньку так, чтобы пальцы ног были направлены вперед.",
+      "Держитесь за стержень машины Смита для устойчивости.",
+      "Согните переднее колено и опустите тело в положение выпада, сохраняя спину прямой.",
+      "Задержитесь на мгновение внизу, затем оттолкнитесь передней пяткой, чтобы вернуться в исходное положение.",
+      "Повторите необходимое количество повторений, затем поменяйте ногу."
+    ],
+    "zh": [
+      "站在史密斯机前，双脚分开与肩同宽。",
+      "将一只脚放在身后的长凳或台阶上，脚趾向前。",
+      "握住史密斯机杆以保持稳定性。",
+      "弯曲前膝盖，将身体降低到弓步位置，保持背部挺直。",
+      "在底部停顿片刻，然后推动前脚跟回到起始位置。",
+      "重复所需的重复次数，然后换腿。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए स्मिथ मशीन के सामने खड़े हो जाएं।",
+      "एक पैर को अपने पीछे किसी बेंच या सीढ़ी पर रखें, जिसमें आपके पैर की उंगलियां आगे की ओर हों।",
+      "स्थिरता के लिए स्मिथ मशीन बार को पकड़ें।",
+      "अपने सामने के घुटने को मोड़ें और अपनी पीठ को सीधा रखते हुए अपने शरीर को नीचे की ओर झुकें।",
+      "नीचे एक पल के लिए रुकें, फिर प्रारंभिक स्थिति में लौटने के लिए अपनी सामने की एड़ी से धक्का दें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर पैर बदल लें।"
+    ],
+    "pl": [
+      "Stań przed suwnicą Smitha, ze stopami rozstawionymi na szerokość barków.",
+      "Umieść jedną stopę za sobą na ławce lub stopniu, palcami skierowanymi do przodu.",
+      "Przytrzymaj się sztangi suwnicy Smitha dla stabilności.",
+      "Ugnij przednie kolano i opuść ciało w pozycję wykroku, trzymając plecy proste.",
+      "Zatrzymaj się na chwilę na dole, a następnie odepchnij się przez przednią piętę, aby wrócić do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń, a następnie zmień nogę."
+    ],
+    "ko": [
+      "스미스 머신 앞에 발을 어깨 너비만큼 벌려진 위치에 서 있습니다.",
+      "한쪽 발을 벤치나 스텝 위에 뒤로 올리되 발가락이 앞을 향합니다.",
+      "안정성을 위해 스미스 머신 바를 잡습니다.",
+      "앞다리의 무릎을 구부려 몸을 런지 위치로 내리되 등은 펴진 상태를 유지합니다.",
+      "아래에서 잠깐 멈추고 앞다리의 뒤꿈치로 밀어 시작 위치로 돌아옵니다.",
+      "원하는 횟수만큼 반복한 다음 다리를 바꿔 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi devant la machine Smith, les pieds écartés à la largeur des épaules.",
+      "Place un pied derrière toi sur un banc ou une marche, les orteils pointés vers l'avant.",
+      "Tiens-toi à la barre de la machine Smith pour la stabilité.",
+      "Plie ton genou avant et abaisse ton corps en position de fente en gardant ton dos droit.",
+      "Marque une pause en bas, puis pousse sur ton talon avant pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis change de jambe."
+    ]
+  },
+  "muscle_group": "glutes",
+  "secondary_muscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "target": "quads",
+  "image": "images/0768-wWFspEi.jpg",
+  "gif_url": "videos/0768-wWFspEi.gif",
+  "media_id": "wWFspEi",
+  "created_at": "2026-03-18T12:31:32.89104+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

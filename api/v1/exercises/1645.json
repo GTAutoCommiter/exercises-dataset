@@ -1,0 +1,111 @@
+{
+  "id": "1645",
+  "name": "cable two arm curl on incline bench",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Sit on an incline bench with your back against the pad and your feet flat on the ground. Grasp the cable handles with an underhand grip, palms facing up, and your arms fully extended. Keeping your upper arms stationary, exhale and curl the handles towards your shoulders while contracting your biceps. Pause for a moment at the top of the movement, squeezing your biceps. Inhale and slowly lower the handles back to the starting position, fully extending your arms. Repeat for the desired number of repetitions.",
+    "it": "Siediti su una panca inclinata con la schiena appoggiata al pad e i piedi piatti a terra. Afferra le maniglie del cavo con una presa sotto, palmi rivolti verso l'alto e le braccia completamente estese. Mantenendo ferme le braccia superiori, espira e arriccia le maniglie verso le spalle mentre contrahi i bicipiti. Fermati un attimo all'inizio del movimento, stringendo i bicipiti. Inspira e abbassa lentamente le maniglie fino alla posizione iniziale, estendendo completamente le braccia. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Sırtınız yastığa dayalı ve ayaklarınız yere düz basacak şekilde eğimli bir bankta oturun. Kablo tutamaklarını alttan kavrayın, avuç içleriniz yukarıya bakacak ve kollarınız tamamen uzatılmış olsun. Üst kollarınızı sabit tutarak nefes verin ve bicepslerinizi kasarken kolları omuzlarınıza doğru kıvırın. Hareketin en üst noktasında bicepslerinizi sıkarak bir an duraklayın. Nefes alın ve kolları yavaşça başlangıç ​​pozisyonuna indirin, kollarınızı tamamen uzatın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Siéntate en un banco inclinado con la espalda apoyada en el respaldo y los pies planos en el suelo. Agarra los mangos del cable con un agarre supino, con las palmas hacia arriba y los brazos completamente extendidos. Manteniendo los brazos superiores quietos, exhala y flexiona los mangos hacia los hombros mientras contraes los bíceps. Haz una pausa breve en la parte más alta del movimiento, contrayendo los bíceps. Inhala y baja lentamente los mangos de vuelta a la posición inicial, extendiendo completamente los brazos. Repite el número de repeticiones deseado.",
+    "ru": "Сядьте на наклонную скамью, прислонившись спиной к подушке, а ступни поставьте на землю. Возьмитесь за рукоятки троса обратным хватом ладонями вверх и полностью выпрямите руки. Удерживая плечи неподвижно, выдохните и согните рукоятки к плечам, одновременно напрягая бицепсы. Задержитесь на мгновение в верхней точке движения, напрягая бицепсы. Вдохните и медленно опустите рукоятки обратно в исходное положение, полностью выпрямляя руки. Повторите необходимое количество повторений.",
+    "zh": "坐在倾斜的长凳上，背部靠在垫子上，双脚平放在地面上。 反手握住电缆手柄，手掌朝上，手臂完全伸展。 保持上臂静止，呼气并将手柄向肩膀弯曲，同时收缩二头肌。 在动作的最高点暂停片刻，挤压你的二头肌。 吸气，慢慢将手柄放回起始位置，充分伸展双臂。 重复所需的重复次数。",
+    "hi": "एक झुकी हुई बेंच पर अपनी पीठ पैड से सटाकर और अपने पैरों को ज़मीन पर सपाट करके बैठें। केबल के हैंडल को अंडरहैंड ग्रिप से पकड़ें, हथेलियाँ ऊपर की ओर हों और आपकी भुजाएँ पूरी तरह फैली हुई हों। अपनी ऊपरी भुजाओं को स्थिर रखते हुए, सांस छोड़ें और अपने बाइसेप्स को सिकोड़ते हुए हैंडल को अपने कंधों की ओर मोड़ें। अपने बाइसेप्स को निचोड़ते हुए, गति के शीर्ष पर एक पल के लिए रुकें। श्वास लें और धीरे-धीरे अपनी बाहों को पूरी तरह फैलाते हुए हैंडल को शुरुआती स्थिति में वापस लाएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Usiądź na ławce skośnej, opierając plecy o oparcie, stopy płasko na podłodze. Chwyć uchwyty wyciągu chwytem podchwytem, dłonie skierowane do góry, ramiona w pełni wyprostowane. Trzymając ramiona górne nieruchomo, wykonaj wydech i przyciągnij uchwyty w kierunku barków, napinając biceps. Zatrzymaj się na chwilę w górnej fazie ruchu, napinając biceps. Wykonaj wdech i powoli opuść uchwyty z powrotem do pozycji wyjściowej, w pełni prostując ramiona. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "인클라인 벤치에 앉아 등을 패드에 기대고 발을 바닥에 평평히 놓습니다. 역그립으로 케이블 핸들을 잡고 손바닥이 위를 향하게 하며 팔을 완전히 뻗습니다. 상완을 고정한 상태로 숨을 내쉬면서 핸들을 어깨 쪽으로 말아올려 이두근을 수축합니다. 동작의 최상단에서 잠시 멈춰 이두근을 짜냅니다. 숨을 들이마시면서 핸들을 처음 위치로 천천히 내려 팔을 완전히 뻗습니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Assieds-toi sur un banc incliné, le dos contre le coussin et les pieds à plat sur le sol. Saisis les poignées du câble avec une prise en supination, les paumes tournées vers le haut et les bras complètement tendus. En gardant le haut des bras immobile, expire et fléchis les poignées vers tes épaules en contractant tes biceps. Marque une pause en haut du mouvement, en contractant tes biceps. Inspire et abaisse lentement les poignées jusqu'à la position de départ, en tendant complètement les bras. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on an incline bench with your back against the pad and your feet flat on the ground.",
+      "Grasp the cable handles with an underhand grip, palms facing up, and your arms fully extended.",
+      "Keeping your upper arms stationary, exhale and curl the handles towards your shoulders while contracting your biceps.",
+      "Pause for a moment at the top of the movement, squeezing your biceps.",
+      "Inhale and slowly lower the handles back to the starting position, fully extending your arms.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Siediti su una panca inclinata con la schiena appoggiata al pad e i piedi piatti a terra.",
+      "Afferra le maniglie del cavo con una presa sotto, palmi rivolti verso l'alto e le braccia completamente estese.",
+      "Mantenendo ferme le braccia superiori, espira e arriccia le maniglie verso le spalle mentre contrahi i bicipiti.",
+      "Fermati un attimo all'inizio del movimento, stringendo i bicipiti.",
+      "Inspira e abbassa lentamente le maniglie fino alla posizione iniziale, estendendo completamente le braccia.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Sırtınız yastığa dayalı ve ayaklarınız yere düz basacak şekilde eğimli bir bankta oturun.",
+      "Kablo tutamaklarını alttan kavrayın, avuç içleriniz yukarıya bakacak ve kollarınız tamamen uzatılmış olsun.",
+      "Üst kollarınızı sabit tutarak nefes verin ve bicepslerinizi kasarken kolları omuzlarınıza doğru kıvırın.",
+      "Hareketin en üst noktasında bicepslerinizi sıkarak bir an duraklayın.",
+      "Nefes alın ve kolları yavaşça başlangıç ​​pozisyonuna indirin, kollarınızı tamamen uzatın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Siéntate en un banco inclinado con la espalda apoyada en el respaldo y los pies planos en el suelo.",
+      "Agarra los mangos del cable con un agarre supino, con las palmas hacia arriba y los brazos completamente extendidos.",
+      "Manteniendo los brazos superiores quietos, exhala y flexiona los mangos hacia los hombros mientras contraes los bíceps.",
+      "Haz una pausa breve en la parte más alta del movimiento, contrayendo los bíceps.",
+      "Inhala y baja lentamente los mangos de vuelta a la posición inicial, extendiendo completamente los brazos.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на наклонную скамью, прислонившись спиной к подушке, а ступни поставьте на землю.",
+      "Возьмитесь за рукоятки троса обратным хватом ладонями вверх и полностью выпрямите руки.",
+      "Удерживая плечи неподвижно, выдохните и согните рукоятки к плечам, одновременно напрягая бицепсы.",
+      "Задержитесь на мгновение в верхней точке движения, напрягая бицепсы.",
+      "Вдохните и медленно опустите рукоятки обратно в исходное положение, полностью выпрямляя руки.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "坐在倾斜的长凳上，背部靠在垫子上，双脚平放在地面上。",
+      "反手握住电缆手柄，手掌朝上，手臂完全伸展。",
+      "保持上臂静止，呼气并将手柄向肩膀弯曲，同时收缩二头肌。",
+      "在动作的最高点暂停片刻，挤压你的二头肌。",
+      "吸气，慢慢将手柄放回起始位置，充分伸展双臂。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "एक झुकी हुई बेंच पर अपनी पीठ पैड से सटाकर और अपने पैरों को ज़मीन पर सपाट करके बैठें।",
+      "केबल के हैंडल को अंडरहैंड ग्रिप से पकड़ें, हथेलियाँ ऊपर की ओर हों और आपकी भुजाएँ पूरी तरह फैली हुई हों।",
+      "अपनी ऊपरी भुजाओं को स्थिर रखते हुए, सांस छोड़ें और अपने बाइसेप्स को सिकोड़ते हुए हैंडल को अपने कंधों की ओर मोड़ें।",
+      "अपने बाइसेप्स को निचोड़ते हुए, गति के शीर्ष पर एक पल के लिए रुकें।",
+      "श्वास लें और धीरे-धीरे अपनी बाहों को पूरी तरह फैलाते हुए हैंडल को शुरुआती स्थिति में वापस लाएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Usiądź na ławce skośnej, opierając plecy o oparcie, stopy płasko na podłodze.",
+      "Chwyć uchwyty wyciągu chwytem podchwytem, dłonie skierowane do góry, ramiona w pełni wyprostowane.",
+      "Trzymając ramiona górne nieruchomo, wykonaj wydech i przyciągnij uchwyty w kierunku barków, napinając biceps.",
+      "Zatrzymaj się na chwilę w górnej fazie ruchu, napinając biceps.",
+      "Wykonaj wdech i powoli opuść uchwyty z powrotem do pozycji wyjściowej, w pełni prostując ramiona.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "인클라인 벤치에 앉아 등을 패드에 기대고 발을 바닥에 평평히 놓습니다.",
+      "역그립으로 케이블 핸들을 잡고 손바닥이 위를 향하게 하며 팔을 완전히 뻗습니다.",
+      "상완을 고정한 상태로 숨을 내쉬면서 핸들을 어깨 쪽으로 말아올려 이두근을 수축합니다.",
+      "동작의 최상단에서 잠시 멈춰 이두근을 짜냅니다.",
+      "숨을 들이마시면서 핸들을 처음 위치로 천천히 내려 팔을 완전히 뻗습니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Assieds-toi sur un banc incliné, le dos contre le coussin et les pieds à plat sur le sol.",
+      "Saisis les poignées du câble avec une prise en supination, les paumes tournées vers le haut et les bras complètement tendus.",
+      "En gardant le haut des bras immobile, expire et fléchis les poignées vers tes épaules en contractant tes biceps.",
+      "Marque une pause en haut du mouvement, en contractant tes biceps.",
+      "Inspire et abaisse lentement les poignées jusqu'à la position de départ, en tendant complètement les bras.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "forearms",
+  "secondary_muscles": [
+    "forearms"
+  ],
+  "target": "biceps",
+  "image": "images/1645-H9y3Dkr.jpg",
+  "gif_url": "videos/1645-H9y3Dkr.gif",
+  "media_id": "H9y3Dkr",
+  "created_at": "2026-03-18T12:31:32.876692+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

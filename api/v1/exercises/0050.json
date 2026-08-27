@@ -1,0 +1,122 @@
+{
+  "id": "0050",
+  "name": "barbell incline shoulder raise",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Set up an incline bench at a 45-degree angle. Sit on the bench with your back against the pad and feet flat on the ground. Hold a barbell with an overhand grip, slightly wider than shoulder-width apart. Lift the barbell up to shoulder height, keeping your elbows slightly bent. Slowly raise the barbell overhead, extending your arms fully. Pause for a moment at the top, then slowly lower the barbell back to shoulder height. Repeat for the desired number of repetitions.",
+    "it": "Installa una panca inclinata con un angolo di 45 gradi. Siediti sulla panca con la schiena appoggiata al cuscino e i piedi appoggiati a terra. Tieni un bilanciere con una presa prona, leggermente più largo della larghezza delle spalle. Sollevare il bilanciere all'altezza delle spalle, mantenendo i gomiti leggermente piegati. Solleva lentamente il bilanciere sopra la testa, estendendo completamente le braccia. Fermati per un momento in alto, quindi abbassa lentamente il bilanciere all'altezza delle spalle. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "45 derecelik bir açıyla eğimli bir tezgah kurun. Sırtınız yastığa dayalı ve ayaklarınız yere düz basacak şekilde bankta oturun. Halteri omuz genişliğinden biraz daha geniş olacak şekilde üstten tutuşla tutun. Dirseklerinizi hafifçe bükerek halteri omuz yüksekliğine kadar kaldırın. Kollarınızı tamamen uzatarak halteri başınızın üzerine yavaşça kaldırın. Tepe noktasında bir an duraklayın, ardından halteri yavaşça omuz yüksekliğine indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Coloca un banco inclinado a un ángulo de 45 grados. Siéntate en el banco con la espalda apoyada en el respaldo y los pies planos sobre el suelo. Sujeta una barra con un agarre pronado, un poco más ancho que la separación de los hombros. Levanta la barra hasta la altura de los hombros, manteniendo los codos ligeramente flexionados. Levanta lentamente la barra por encima de la cabeza, extendiendo completamente los brazos. Haz una pausa breve en la parte alta y luego baja lentamente la barra de vuelta a la altura de los hombros. Repite el número de repeticiones deseado.",
+    "ru": "Установите наклонную скамью под углом 45 градусов. Сядьте на скамью, прислонившись спиной к подушке, а ступни поставьте на землю. Возьмите штангу хватом сверху, на расстоянии чуть шире ширины плеч. Поднимите штангу до уровня плеч, слегка согнув локти. Медленно поднимите штангу над головой, полностью выпрямляя руки. Задержитесь на мгновение в верхней точке, затем медленно опустите штангу обратно на высоту плеч. Повторите необходимое количество повторений.",
+    "zh": "设置一个 45 度角的上斜凳。 坐在长凳上，背部靠在垫子上，双脚平放在地面上。 正手握住杠铃，杠铃间距略宽于肩宽。 将杠铃举至肩膀高度，保持肘部稍微弯曲。 慢慢地将杠铃举过头顶，充分伸展双臂。 在顶部停顿片刻，然后慢慢将杠铃放回肩部高度。 重复所需的重复次数。",
+    "hi": "45 डिग्री के कोण पर एक झुकी हुई बेंच स्थापित करें। बेंच पर अपनी पीठ पैड से सटाकर और पैरों को ज़मीन पर सपाट करके बैठें। बारबेल को कंधे की चौड़ाई से थोड़ा अधिक चौड़ी पकड़ के साथ पकड़ें। अपनी कोहनियों को थोड़ा मोड़ते हुए बारबेल को कंधे की ऊंचाई तक उठाएं। अपनी भुजाओं को पूरी तरह फैलाते हुए धीरे-धीरे बारबेल को ऊपर उठाएं। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे बारबेल को वापस कंधे की ऊंचाई तक नीचे लाएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Ustaw ławkę skośną (dodatnią) pod kątem 45 stopni. Usiądź na ławce, opierając plecy o poduszkę, a stopy ustaw płasko na podłodze. Chwyć sztangę chwytem nachwytem, nieco szerszym niż szerokość barków. Unieś sztangę do wysokości barków, utrzymując łokcie lekko ugięte. Powoli unieś sztangę nad głowę, w pełni prostując ręce. Zatrzymaj się na chwilę na górze, a następnie powoli opuść sztangę z powrotem do wysokości barków. Powtórz odpowiednią liczbę razy.",
+    "ko": "인클라인 벤치를 45도로 설정합니다. 벤치에 앉아 등을 패드에 붙이고 양발을 바닥에 놓습니다. 바벨을 어깨너비보다 약간 넓은 너비로 오버핸드 그립으로 잡습니다. 바벨을 어깨 높이까지 올리면서 팔꿈치를 약간 굽힌 상태로 유지합니다. 바벨을 천천히 머리 위로 들어올리며 팔을 완전히 펼칩니다. 맨 위에서 잠깐 멈춘 후 바벨을 천천히 어깨 높이로 내립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Installe un banc incliné à un angle de 45 degrés. Assieds-toi sur le banc, le dos contre le coussin et les pieds à plat sur le sol. Tiens une barre avec une prise en pronation, légèrement plus écartée que la largeur des épaules. Soulève la barre jusqu'à hauteur des épaules, en gardant tes coudes légèrement fléchis. Soulève lentement la barre au-dessus de ta tête, en tendant complètement tes bras. Marque une pause en haut, puis abaisse lentement la barre à hauteur des épaules. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Set up an incline bench at a 45-degree angle.",
+      "Sit on the bench with your back against the pad and feet flat on the ground.",
+      "Hold a barbell with an overhand grip, slightly wider than shoulder-width apart.",
+      "Lift the barbell up to shoulder height, keeping your elbows slightly bent.",
+      "Slowly raise the barbell overhead, extending your arms fully.",
+      "Pause for a moment at the top, then slowly lower the barbell back to shoulder height.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Installa una panca inclinata con un angolo di 45 gradi.",
+      "Siediti sulla panca con la schiena appoggiata al cuscino e i piedi appoggiati a terra.",
+      "Tieni un bilanciere con una presa prona, leggermente più largo della larghezza delle spalle.",
+      "Sollevare il bilanciere all'altezza delle spalle, mantenendo i gomiti leggermente piegati.",
+      "Solleva lentamente il bilanciere sopra la testa, estendendo completamente le braccia.",
+      "Fermati per un momento in alto, quindi abbassa lentamente il bilanciere all'altezza delle spalle.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "45 derecelik bir açıyla eğimli bir tezgah kurun.",
+      "Sırtınız yastığa dayalı ve ayaklarınız yere düz basacak şekilde bankta oturun.",
+      "Halteri omuz genişliğinden biraz daha geniş olacak şekilde üstten tutuşla tutun.",
+      "Dirseklerinizi hafifçe bükerek halteri omuz yüksekliğine kadar kaldırın.",
+      "Kollarınızı tamamen uzatarak halteri başınızın üzerine yavaşça kaldırın.",
+      "Tepe noktasında bir an duraklayın, ardından halteri yavaşça omuz yüksekliğine indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Coloca un banco inclinado a un ángulo de 45 grados.",
+      "Siéntate en el banco con la espalda apoyada en el respaldo y los pies planos sobre el suelo.",
+      "Sujeta una barra con un agarre pronado, un poco más ancho que la separación de los hombros.",
+      "Levanta la barra hasta la altura de los hombros, manteniendo los codos ligeramente flexionados.",
+      "Levanta lentamente la barra por encima de la cabeza, extendiendo completamente los brazos.",
+      "Haz una pausa breve en la parte alta y luego baja lentamente la barra de vuelta a la altura de los hombros.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Установите наклонную скамью под углом 45 градусов.",
+      "Сядьте на скамью, прислонившись спиной к подушке, а ступни поставьте на землю.",
+      "Возьмите штангу хватом сверху, на расстоянии чуть шире ширины плеч.",
+      "Поднимите штангу до уровня плеч, слегка согнув локти.",
+      "Медленно поднимите штангу над головой, полностью выпрямляя руки.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите штангу обратно на высоту плеч.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "设置一个 45 度角的上斜凳。",
+      "坐在长凳上，背部靠在垫子上，双脚平放在地面上。",
+      "正手握住杠铃，杠铃间距略宽于肩宽。",
+      "将杠铃举至肩膀高度，保持肘部稍微弯曲。",
+      "慢慢地将杠铃举过头顶，充分伸展双臂。",
+      "在顶部停顿片刻，然后慢慢将杠铃放回肩部高度。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "45 डिग्री के कोण पर एक झुकी हुई बेंच स्थापित करें।",
+      "बेंच पर अपनी पीठ पैड से सटाकर और पैरों को ज़मीन पर सपाट करके बैठें।",
+      "बारबेल को कंधे की चौड़ाई से थोड़ा अधिक चौड़ी पकड़ के साथ पकड़ें।",
+      "अपनी कोहनियों को थोड़ा मोड़ते हुए बारबेल को कंधे की ऊंचाई तक उठाएं।",
+      "अपनी भुजाओं को पूरी तरह फैलाते हुए धीरे-धीरे बारबेल को ऊपर उठाएं।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे बारबेल को वापस कंधे की ऊंचाई तक नीचे लाएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Ustaw ławkę skośną (dodatnią) pod kątem 45 stopni.",
+      "Usiądź na ławce, opierając plecy o poduszkę, a stopy ustaw płasko na podłodze.",
+      "Chwyć sztangę chwytem nachwytem, nieco szerszym niż szerokość barków.",
+      "Unieś sztangę do wysokości barków, utrzymując łokcie lekko ugięte.",
+      "Powoli unieś sztangę nad głowę, w pełni prostując ręce.",
+      "Zatrzymaj się na chwilę na górze, a następnie powoli opuść sztangę z powrotem do wysokości barków.",
+      "Powtórz odpowiednią liczbę razy."
+    ],
+    "ko": [
+      "인클라인 벤치를 45도로 설정합니다.",
+      "벤치에 앉아 등을 패드에 붙이고 양발을 바닥에 놓습니다.",
+      "바벨을 어깨너비보다 약간 넓은 너비로 오버핸드 그립으로 잡습니다.",
+      "바벨을 어깨 높이까지 올리면서 팔꿈치를 약간 굽힌 상태로 유지합니다.",
+      "바벨을 천천히 머리 위로 들어올리며 팔을 완전히 펼칩니다.",
+      "맨 위에서 잠깐 멈춘 후 바벨을 천천히 어깨 높이로 내립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Installe un banc incliné à un angle de 45 degrés.",
+      "Assieds-toi sur le banc, le dos contre le coussin et les pieds à plat sur le sol.",
+      "Tiens une barre avec une prise en pronation, légèrement plus écartée que la largeur des épaules.",
+      "Soulève la barre jusqu'à hauteur des épaules, en gardant tes coudes légèrement fléchis.",
+      "Soulève lentement la barre au-dessus de ta tête, en tendant complètement tes bras.",
+      "Marque une pause en haut, puis abaisse lentement la barre à hauteur des épaules.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "deltoids",
+  "secondary_muscles": [
+    "deltoids",
+    "trapezius"
+  ],
+  "target": "serratus anterior",
+  "image": "images/0050-xi0yckC.jpg",
+  "gif_url": "videos/0050-xi0yckC.gif",
+  "media_id": "xi0yckC",
+  "created_at": "2026-03-18T12:31:32.871785+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

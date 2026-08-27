@@ -1,0 +1,102 @@
+{
+  "id": "0009",
+  "name": "assisted chest dip (kneeling)",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "leverage machine",
+  "instructions": {
+    "en": "Adjust the machine to your desired height and secure your knees on the pad. Grasp the handles with your palms facing down and your arms fully extended. Lower your body by bending your elbows until your upper arms are parallel to the floor. Pause for a moment, then push yourself back up to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Regola la macchina all'altezza desiderata e fissa le ginocchia sul cuscinetto. Afferrare le maniglie con i palmi rivolti verso il basso e le braccia completamente distese. Abbassa il corpo piegando i gomiti finché la parte superiore delle braccia non è parallela al pavimento. Fai una pausa per un momento, quindi ritorna alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Makineyi istediğiniz yüksekliğe ayarlayın ve dizlerinizi yastığa sabitleyin. Avuç içleriniz aşağıya bakacak ve kollarınız tamamen uzatılmış halde tutacakları kavrayın. Üst kollarınız yere paralel oluncaya kadar dirseklerinizi bükerek vücudunuzu indirin. Bir an duraklayın ve ardından kendinizi başlangıç ​​pozisyonuna doğru itin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta la máquina a la altura deseada y asegura las rodillas sobre la almohadilla. Agarra las agarraderas con las palmas hacia abajo y los brazos completamente extendidos. Baja el cuerpo flexionando los codos hasta que los brazos queden paralelos al suelo. Haz una pausa por un momento, luego empuja tu cuerpo de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Отрегулируйте машину на желаемую высоту и зафиксируйте колени на подставке. Возьмитесь за ручки ладонями вниз и полностью выпрямите руки. Опустите тело, сгибая локти, пока плечи не станут параллельны полу. Сделайте паузу на мгновение, затем вернитесь в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "将机器调整到您想要的高度，并将膝盖固定在垫子上。 手掌朝下，抓住手柄，双臂完全伸展。 弯曲肘部降低身体，直到上臂与地板平行。 暂停片刻，然后将自己推回到起始位置。 重复所需的重复次数。",
+    "hi": "मशीन को अपनी इच्छित ऊंचाई पर समायोजित करें और अपने घुटनों को पैड पर सुरक्षित करें। अपनी हथेलियों को नीचे की ओर रखते हुए और अपनी बाहों को पूरी तरह फैलाकर हैंडल को पकड़ें। अपनी कोहनियों को मोड़कर अपने शरीर को तब तक नीचे लाएँ जब तक कि आपकी ऊपरी भुजाएँ फर्श के समानांतर न हो जाएँ। एक पल के लिए रुकें, फिर अपने आप को वापस प्रारंभिक स्थिति में धकेलें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Ustaw maszynę na odpowiednią wysokość i oprzyj kolana na poduszce. Chwyć uchwyty dłońmi skierowanymi w dół, ramiona w pełni wyprostowane. Opuść ciało, uginając łokcie, aż ramiona będą równoległe do podłogi. Zatrzymaj się na chwilę, a następnie wypchnij się z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę razy.",
+    "ko": "머신을 원하는 높이로 조절하고 무릎을 패드에 고정합니다. 손으로 손잡이를 손바닥이 아래를 향하도록 잡고 팔을 완전히 펼칩니다. 팔꿈치를 구부려 몸을 내리되 팔뚝이 바닥과 평행하게 될 때까지 내립니다. 잠깐 멈췄다가 몸을 시작 자세로 밀어 올립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Règle la machine à la hauteur souhaitée et cale tes genoux sur le coussin. Saisis les poignées avec les paumes tournées vers le bas et les bras complètement étendus. Abaisse ton corps en fléchissant tes coudes jusqu'à ce que le haut de tes bras soit parallèle au sol. Marque une pause, puis repousse-toi vers le haut jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the machine to your desired height and secure your knees on the pad.",
+      "Grasp the handles with your palms facing down and your arms fully extended.",
+      "Lower your body by bending your elbows until your upper arms are parallel to the floor.",
+      "Pause for a moment, then push yourself back up to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Regola la macchina all'altezza desiderata e fissa le ginocchia sul cuscinetto.",
+      "Afferrare le maniglie con i palmi rivolti verso il basso e le braccia completamente distese.",
+      "Abbassa il corpo piegando i gomiti finché la parte superiore delle braccia non è parallela al pavimento.",
+      "Fai una pausa per un momento, quindi ritorna alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Makineyi istediğiniz yüksekliğe ayarlayın ve dizlerinizi yastığa sabitleyin.",
+      "Avuç içleriniz aşağıya bakacak ve kollarınız tamamen uzatılmış halde tutacakları kavrayın.",
+      "Üst kollarınız yere paralel oluncaya kadar dirseklerinizi bükerek vücudunuzu indirin.",
+      "Bir an duraklayın ve ardından kendinizi başlangıç ​​pozisyonuna doğru itin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta la máquina a la altura deseada y asegura las rodillas sobre la almohadilla.",
+      "Agarra las agarraderas con las palmas hacia abajo y los brazos completamente extendidos.",
+      "Baja el cuerpo flexionando los codos hasta que los brazos queden paralelos al suelo.",
+      "Haz una pausa por un momento, luego empuja tu cuerpo de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Отрегулируйте машину на желаемую высоту и зафиксируйте колени на подставке.",
+      "Возьмитесь за ручки ладонями вниз и полностью выпрямите руки.",
+      "Опустите тело, сгибая локти, пока плечи не станут параллельны полу.",
+      "Сделайте паузу на мгновение, затем вернитесь в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将机器调整到您想要的高度，并将膝盖固定在垫子上。",
+      "手掌朝下，抓住手柄，双臂完全伸展。",
+      "弯曲肘部降低身体，直到上臂与地板平行。",
+      "暂停片刻，然后将自己推回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "मशीन को अपनी इच्छित ऊंचाई पर समायोजित करें और अपने घुटनों को पैड पर सुरक्षित करें।",
+      "अपनी हथेलियों को नीचे की ओर रखते हुए और अपनी बाहों को पूरी तरह फैलाकर हैंडल को पकड़ें।",
+      "अपनी कोहनियों को मोड़कर अपने शरीर को तब तक नीचे लाएँ जब तक कि आपकी ऊपरी भुजाएँ फर्श के समानांतर न हो जाएँ।",
+      "एक पल के लिए रुकें, फिर अपने आप को वापस प्रारंभिक स्थिति में धकेलें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Ustaw maszynę na odpowiednią wysokość i oprzyj kolana na poduszce.",
+      "Chwyć uchwyty dłońmi skierowanymi w dół, ramiona w pełni wyprostowane.",
+      "Opuść ciało, uginając łokcie, aż ramiona będą równoległe do podłogi.",
+      "Zatrzymaj się na chwilę, a następnie wypchnij się z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "머신을 원하는 높이로 조절하고 무릎을 패드에 고정합니다.",
+      "손으로 손잡이를 손바닥이 아래를 향하도록 잡고 팔을 완전히 펼칩니다.",
+      "팔꿈치를 구부려 몸을 내리되 팔뚝이 바닥과 평행하게 될 때까지 내립니다.",
+      "잠깐 멈췄다가 몸을 시작 자세로 밀어 올립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Règle la machine à la hauteur souhaitée et cale tes genoux sur le coussin.",
+      "Saisis les poignées avec les paumes tournées vers le bas et les bras complètement étendus.",
+      "Abaisse ton corps en fléchissant tes coudes jusqu'à ce que le haut de tes bras soit parallèle au sol.",
+      "Marque une pause, puis repousse-toi vers le haut jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "target": "pectorals",
+  "image": "images/0009-PAgTVaK.jpg",
+  "gif_url": "videos/0009-PAgTVaK.gif",
+  "media_id": "PAgTVaK",
+  "created_at": "2026-03-18T12:31:32.855196+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

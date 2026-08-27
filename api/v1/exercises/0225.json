@@ -1,0 +1,123 @@
+{
+  "id": "0225",
+  "name": "cable standing cross-over high reverse fly",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Attach a D-handle to each side of a cable machine at shoulder height. Stand in the middle of the cable machine with your feet shoulder-width apart. Grasp the handles with an overhand grip and extend your arms out to the sides, palms facing forward. Keep a slight bend in your elbows and maintain a straight back throughout the exercise. Engage your shoulder muscles and squeeze your shoulder blades together as you pull the handles towards the front of your body. Pause for a moment at the peak of the movement, then slowly return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Fissa una maniglia a D su ciascun lato di una macchina a cavo all'altezza della spalla. Mettiti al centro della macchina per cavi con i piedi alla larghezza delle spalle. Afferra le maniglie con una presa sopra la mano e estendi le braccia ai lati, palmi rivolti in avanti. Mantieni una leggera piega dei gomiti e la schiena dritta durante tutto l'esercizio. Attiva i muscoli delle spalle e stringi le scapole mentre tiri le maniglie verso la parte anteriore del corpo. Fermati un attimo al picco del movimento, poi torna lentamente alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Kablo makinesinin her iki tarafına omuz yüksekliğinde bir D kolu takın. Ayaklarınız omuz genişliğinde açık olacak şekilde kablo makinesinin ortasında durun. Tutma yerlerini üstten kavrayın ve kollarınızı avuçlarınız öne bakacak şekilde yanlara doğru uzatın. Egzersiz boyunca dirseklerinizi hafif bir şekilde bükün ve sırtınızı düz tutun. Omuz kaslarınızı devreye sokun ve kolları vücudunuzun önüne doğru çekerken kürek kemiklerinizi birbirine doğru sıkıştırın. Hareketin zirvesinde bir süre duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Coloca un mango en D en cada lado de una máquina de cable a la altura de los hombros. Ponte de pie en el medio de la máquina de cable con los pies separados a la altura de los hombros. Agarra los mangos con un agarre prono y extiende los brazos hacia los lados, con las palmas hacia adelante. Mantén una ligera flexión en los codos y conserva la espalda recta durante todo el ejercicio. Activa los músculos de los hombros y aprieta los omóplatos entre sí mientras tiras de los mangos hacia la parte delantera de tu cuerpo. Haz una pausa breve en el punto máximo del movimiento, luego regresa lentamente a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Прикрепите D-образную рукоятку к каждой стороне канатной машины на высоте плеч. Встаньте посередине канатной машины, поставив ноги на ширине плеч. Возьмитесь за рукоятки хватом сверху и вытяните руки в стороны ладонями вперед. Сохраняйте небольшой изгиб в локтях и сохраняйте прямую спину на протяжении всего упражнения. Напрягите мышцы плеч и сведите лопатки вместе, потянув рукоятки к передней части тела. Задержитесь на мгновение на пике движения, затем медленно вернитесь в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "将 D 形手柄安装到缆绳机两侧与肩同高的位置。 站在缆绳机的中间，双脚分开与肩同宽。 正手握住手柄，并将手臂向两侧伸展，手掌朝前。 在整个练习过程中保持肘部轻微弯曲并保持背部挺直。 当您将手柄拉向身体前方时，收紧肩部肌肉并将肩胛骨挤压在一起。 在动作的最高点停顿片刻，然后慢慢回到起始位置。 重复所需的重复次数。",
+    "hi": "केबल मशीन के प्रत्येक तरफ कंधे की ऊंचाई पर एक डी-हैंडल संलग्न करें। अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए केबल मशीन के बीच में खड़े हो जाएं। हैंडल को ओवरहैंड ग्रिप से पकड़ें और अपनी भुजाओं को बगल की ओर फैलाएं, हथेलियाँ आगे की ओर हों। अपनी कोहनियों को थोड़ा मोड़ें और पूरे अभ्यास के दौरान अपनी पीठ सीधी रखें। अपने कंधे की मांसपेशियों को संलग्न करें और हैंडल को अपने शरीर के सामने की ओर खींचते हुए अपने कंधे के ब्लेड को एक साथ निचोड़ें। गति के चरम पर एक पल के लिए रुकें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Podłącz uchwyt typu D do każdej strony wyciągu na wysokości barków. Stań pośrodku maszyny, ustawiając stopy na szerokość barków. Chwyć uchwyty chwytem nachwytem i wyciągnij ramiona na boki, dłonie skierowane do przodu. Utrzymuj lekkie ugięcie w łokciach i trzymaj plecy proste przez cały czas trwania ćwiczenia. Napnij mięśnie barków i ściągnij łopatki, przyciągając uchwyty przed ciało. Zatrzymaj się na chwilę w szczytowej fazie ruchu, a następnie powoli wróć do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "케이블 머신의 양쪽에 D-핸들을 어깨 높이에 부착합니다. 케이블 머신의 중간에 서서 발을 어깨 너비만큼 벌립니다. 오버핸드 그립으로 핸들을 잡고 팔을 옆으로 뻗어 손바닥이 앞을 향하도록 합니다. 팔꿈치에 약간의 구부림을 유지하고 운동 내내 등을 곧게 펴 둡니다. 어깨 근육을 활성화하고 견갑골을 함께 조이며 핸들을 몸 앞쪽으로 당깁니다. 운동의 최고점에서 잠시 멈춘 후 천천히 처음 위치로 돌아옵니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Fixe une poignée en D de chaque côté d'une machine à câble à hauteur des épaules. Tiens-toi au milieu de la machine à câble, les pieds écartés à la largeur des épaules. Saisis les poignées avec une prise en pronation et étends les bras sur les côtés, les paumes tournées vers l'avant. Garde une légère flexion dans tes coudes et maintiens le dos droit tout au long de l'exercice. Contracte tes muscles des épaules et resserre tes omoplates en tirant les poignées vers l'avant de ton corps. Marque une pause au sommet du mouvement, puis reviens lentement à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Attach a D-handle to each side of a cable machine at shoulder height.",
+      "Stand in the middle of the cable machine with your feet shoulder-width apart.",
+      "Grasp the handles with an overhand grip and extend your arms out to the sides, palms facing forward.",
+      "Keep a slight bend in your elbows and maintain a straight back throughout the exercise.",
+      "Engage your shoulder muscles and squeeze your shoulder blades together as you pull the handles towards the front of your body.",
+      "Pause for a moment at the peak of the movement, then slowly return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Fissa una maniglia a D su ciascun lato di una macchina a cavo all'altezza della spalla.",
+      "Mettiti al centro della macchina per cavi con i piedi alla larghezza delle spalle.",
+      "Afferra le maniglie con una presa sopra la mano e estendi le braccia ai lati, palmi rivolti in avanti.",
+      "Mantieni una leggera piega dei gomiti e la schiena dritta durante tutto l'esercizio.",
+      "Attiva i muscoli delle spalle e stringi le scapole mentre tiri le maniglie verso la parte anteriore del corpo.",
+      "Fermati un attimo al picco del movimento, poi torna lentamente alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Kablo makinesinin her iki tarafına omuz yüksekliğinde bir D kolu takın.",
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde kablo makinesinin ortasında durun.",
+      "Tutma yerlerini üstten kavrayın ve kollarınızı avuçlarınız öne bakacak şekilde yanlara doğru uzatın.",
+      "Egzersiz boyunca dirseklerinizi hafif bir şekilde bükün ve sırtınızı düz tutun.",
+      "Omuz kaslarınızı devreye sokun ve kolları vücudunuzun önüne doğru çekerken kürek kemiklerinizi birbirine doğru sıkıştırın.",
+      "Hareketin zirvesinde bir süre duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Coloca un mango en D en cada lado de una máquina de cable a la altura de los hombros.",
+      "Ponte de pie en el medio de la máquina de cable con los pies separados a la altura de los hombros.",
+      "Agarra los mangos con un agarre prono y extiende los brazos hacia los lados, con las palmas hacia adelante.",
+      "Mantén una ligera flexión en los codos y conserva la espalda recta durante todo el ejercicio.",
+      "Activa los músculos de los hombros y aprieta los omóplatos entre sí mientras tiras de los mangos hacia la parte delantera de tu cuerpo.",
+      "Haz una pausa breve en el punto máximo del movimiento, luego regresa lentamente a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Прикрепите D-образную рукоятку к каждой стороне канатной машины на высоте плеч.",
+      "Встаньте посередине канатной машины, поставив ноги на ширине плеч.",
+      "Возьмитесь за рукоятки хватом сверху и вытяните руки в стороны ладонями вперед.",
+      "Сохраняйте небольшой изгиб в локтях и сохраняйте прямую спину на протяжении всего упражнения.",
+      "Напрягите мышцы плеч и сведите лопатки вместе, потянув рукоятки к передней части тела.",
+      "Задержитесь на мгновение на пике движения, затем медленно вернитесь в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将 D 形手柄安装到缆绳机两侧与肩同高的位置。",
+      "站在缆绳机的中间，双脚分开与肩同宽。",
+      "正手握住手柄，并将手臂向两侧伸展，手掌朝前。",
+      "在整个练习过程中保持肘部轻微弯曲并保持背部挺直。",
+      "当您将手柄拉向身体前方时，收紧肩部肌肉并将肩胛骨挤压在一起。",
+      "在动作的最高点停顿片刻，然后慢慢回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "केबल मशीन के प्रत्येक तरफ कंधे की ऊंचाई पर एक डी-हैंडल संलग्न करें।",
+      "अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए केबल मशीन के बीच में खड़े हो जाएं।",
+      "हैंडल को ओवरहैंड ग्रिप से पकड़ें और अपनी भुजाओं को बगल की ओर फैलाएं, हथेलियाँ आगे की ओर हों।",
+      "अपनी कोहनियों को थोड़ा मोड़ें और पूरे अभ्यास के दौरान अपनी पीठ सीधी रखें।",
+      "अपने कंधे की मांसपेशियों को संलग्न करें और हैंडल को अपने शरीर के सामने की ओर खींचते हुए अपने कंधे के ब्लेड को एक साथ निचोड़ें।",
+      "गति के चरम पर एक पल के लिए रुकें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Podłącz uchwyt typu D do każdej strony wyciągu na wysokości barków.",
+      "Stań pośrodku maszyny, ustawiając stopy na szerokość barków.",
+      "Chwyć uchwyty chwytem nachwytem i wyciągnij ramiona na boki, dłonie skierowane do przodu.",
+      "Utrzymuj lekkie ugięcie w łokciach i trzymaj plecy proste przez cały czas trwania ćwiczenia.",
+      "Napnij mięśnie barków i ściągnij łopatki, przyciągając uchwyty przed ciało.",
+      "Zatrzymaj się na chwilę w szczytowej fazie ruchu, a następnie powoli wróć do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "케이블 머신의 양쪽에 D-핸들을 어깨 높이에 부착합니다.",
+      "케이블 머신의 중간에 서서 발을 어깨 너비만큼 벌립니다.",
+      "오버핸드 그립으로 핸들을 잡고 팔을 옆으로 뻗어 손바닥이 앞을 향하도록 합니다.",
+      "팔꿈치에 약간의 구부림을 유지하고 운동 내내 등을 곧게 펴 둡니다.",
+      "어깨 근육을 활성화하고 견갑골을 함께 조이며 핸들을 몸 앞쪽으로 당깁니다.",
+      "운동의 최고점에서 잠시 멈춘 후 천천히 처음 위치로 돌아옵니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Fixe une poignée en D de chaque côté d'une machine à câble à hauteur des épaules.",
+      "Tiens-toi au milieu de la machine à câble, les pieds écartés à la largeur des épaules.",
+      "Saisis les poignées avec une prise en pronation et étends les bras sur les côtés, les paumes tournées vers l'avant.",
+      "Garde une légère flexion dans tes coudes et maintiens le dos droit tout au long de l'exercice.",
+      "Contracte tes muscles des épaules et resserre tes omoplates en tirant les poignées vers l'avant de ton corps.",
+      "Marque une pause au sommet du mouvement, puis reviens lentement à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "trapezius",
+  "secondary_muscles": [
+    "trapezius",
+    "rhomboids",
+    "rear deltoids"
+  ],
+  "target": "delts",
+  "image": "images/0225-P5p0j8B.jpg",
+  "gif_url": "videos/0225-P5p0j8B.gif",
+  "media_id": "P5p0j8B",
+  "created_at": "2026-03-18T12:31:32.876232+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

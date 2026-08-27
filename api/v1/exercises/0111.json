@@ -1,0 +1,92 @@
+{
+  "id": "0111",
+  "name": "barbell standing rocking leg calf raise",
+  "category": "lower legs",
+  "body_part": "lower legs",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and hold a barbell across your upper back. Raise your heels off the ground as high as possible, balancing on the balls of your feet. Slowly lower your heels back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stai in piedi con i piedi a larghezza delle spalle e tieni un bilanciere sulla parte superiore della schiena. Alza i talloni da terra il più in alto possibile, bilanciandoti sulle punte dei piedi. Abbassa lentamente i talloni fino alla posizione di partenza. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınızı omuz genişliğinde açın ve halteri sırtınızın üst kısmına doğru tutun. Topuklarınızı yerden mümkün olduğu kadar yükseğe kaldırın, ayak parmaklarınızın üzerinde denge kurun. Topuklarınızı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y sujeta una barra sobre la parte superior de la espalda. Levanta los talones del suelo lo más alto posible, manteniendo el equilibrio sobre las puntas de los pies. Baja lentamente los talones de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, держите штангу на верхней части спины. Поднимите пятки от земли как можно выше, балансируя на подушечках стоп. Медленно опустите пятки обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，将杠铃放在上背部。 将脚跟抬离地面，尽可能高，用脚掌保持平衡。 慢慢降低脚后跟回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और अपनी पीठ के ऊपरी हिस्से पर एक बारबेल पकड़ें। अपने पैरों की उंगलियों पर संतुलन बनाते हुए अपनी एड़ियों को जमीन से जितना संभव हो उतना ऊपर उठाएं। धीरे-धीरे अपनी एड़ियों को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań ze stopami na szerokość barków, trzymając sztangę na górnej części pleców. Unieś pięty nad podłogę jak najwyżej, balansując na palcach stóp. Powoli opuść pięty z powrotem do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "발을 어깨 너비로 벌리고 서서 바벨을 상체 위쪽에 올려 등 위에 올려놓습니다. 발꿈치를 지면에서 최대한 높이 들어올려 발가락 끝으로만 지탱합니다. 천천히 발꿈치를 시작 위치로 내립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens une barre en travers du haut de ton dos. Lève tes talons du sol aussi haut que possible en te maintenant en équilibre sur la plante de tes pieds. Abaisse lentement tes talons vers la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and hold a barbell across your upper back.",
+      "Raise your heels off the ground as high as possible, balancing on the balls of your feet.",
+      "Slowly lower your heels back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai in piedi con i piedi a larghezza delle spalle e tieni un bilanciere sulla parte superiore della schiena.",
+      "Alza i talloni da terra il più in alto possibile, bilanciandoti sulle punte dei piedi.",
+      "Abbassa lentamente i talloni fino alla posizione di partenza.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınızı omuz genişliğinde açın ve halteri sırtınızın üst kısmına doğru tutun.",
+      "Topuklarınızı yerden mümkün olduğu kadar yükseğe kaldırın, ayak parmaklarınızın üzerinde denge kurun.",
+      "Topuklarınızı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y sujeta una barra sobre la parte superior de la espalda.",
+      "Levanta los talones del suelo lo más alto posible, manteniendo el equilibrio sobre las puntas de los pies.",
+      "Baja lentamente los talones de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, держите штангу на верхней части спины.",
+      "Поднимите пятки от земли как можно выше, балансируя на подушечках стоп.",
+      "Медленно опустите пятки обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，将杠铃放在上背部。",
+      "将脚跟抬离地面，尽可能高，用脚掌保持平衡。",
+      "慢慢降低脚后跟回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और अपनी पीठ के ऊपरी हिस्से पर एक बारबेल पकड़ें।",
+      "अपने पैरों की उंगलियों पर संतुलन बनाते हुए अपनी एड़ियों को जमीन से जितना संभव हो उतना ऊपर उठाएं।",
+      "धीरे-धीरे अपनी एड़ियों को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań ze stopami na szerokość barków, trzymając sztangę na górnej części pleców.",
+      "Unieś pięty nad podłogę jak najwyżej, balansując na palcach stóp.",
+      "Powoli opuść pięty z powrotem do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 너비로 벌리고 서서 바벨을 상체 위쪽에 올려 등 위에 올려놓습니다.",
+      "발꿈치를 지면에서 최대한 높이 들어올려 발가락 끝으로만 지탱합니다.",
+      "천천히 발꿈치를 시작 위치로 내립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens une barre en travers du haut de ton dos.",
+      "Lève tes talons du sol aussi haut que possible en te maintenant en équilibre sur la plante de tes pieds.",
+      "Abaisse lentement tes talons vers la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings",
+    "quadriceps"
+  ],
+  "target": "calves",
+  "image": "images/0111-6HiHHe0.jpg",
+  "gif_url": "videos/0111-6HiHHe0.gif",
+  "media_id": "6HiHHe0",
+  "created_at": "2026-03-18T12:31:32.873211+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,113 @@
+{
+  "id": "0806",
+  "name": "suspended push-up",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Find a suspension trainer and adjust it to an appropriate height. Stand facing away from the anchor point and hold the handles with an overhand grip. Walk your feet forward, leaning your body forward until your weight is supported by the suspension trainer. Keep your body straight from head to heels, engage your core, and lower your chest towards the handles. Push through your chest and arms to return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Trova un trainer per le sospensioni e regolalo a un'altezza adeguata. Stare di fronte al punto di ancoraggio e tenere le maniglie con una presa prona. Cammina con i piedi in avanti, inclinando il corpo in avanti finché il tuo peso non è supportato dal trainer per le sospensioni. Mantieni il corpo dritto dalla testa ai talloni, contrai il core e abbassa il petto verso le maniglie. Spingi attraverso il petto e le braccia per tornare alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Bir süspansiyon antrenörü bulun ve onu uygun bir yüksekliğe ayarlayın. Bağlantı noktasından uzağa bakacak şekilde durun ve kolları üstten kavrayarak tutun. Ağırlığınız süspansiyon antrenörü tarafından desteklenene kadar vücudunuzu öne doğru eğerek ayaklarınızı ileri doğru yürütün. Vücudunuzu baştan topuklarınıza kadar düz tutun, merkez bölgenizi devreye sokun ve göğsünüzü tutma yerlerine doğru indirin. Başlangıç ​​pozisyonuna dönmek için göğsünüzü ve kollarınızı itin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Busca un entrenador de suspensión y ajústalo a una altura adecuada. Ponte de pie de espaldas al punto de anclaje y sostén las asas con un agarre prono. Camina hacia adelante con los pies, inclinando el cuerpo hacia adelante hasta que tu peso quede sostenido por el entrenador de suspensión. Mantén el cuerpo recto desde la cabeza hasta los talones, activa el core y baja el pecho hacia las asas. Empuja con el pecho y los brazos para volver a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Найдите тренажер для подвески и отрегулируйте его на подходящую высоту. Встаньте лицом от точки крепления и возьмитесь за ручки верхним хватом. Идите ногами вперед, наклоняя тело вперед, пока ваш вес не будет поддержан тренажером для подвески. Держите тело прямо от головы до пяток, задействуйте корпус и опустите грудь к ручкам. Оттолкнитесь грудью и руками, чтобы вернуться в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "找到一个悬挂训练器并将其调整到合适的高度。 背对锚点站立，并用正手握住手柄。 双脚向前走，身体向前倾斜，直到悬架训练器支撑您的体重。 保持身体从头到脚跟伸直，核心部位收紧，胸部朝手柄方向降低。 推动你的胸部和手臂回到起始位置。 重复所需的重复次数。",
+    "hi": "एक सस्पेंशन ट्रेनर ढूंढें और उसे उचित ऊंचाई पर समायोजित करें। एंकर पॉइंट से दूर की ओर मुंह करके खड़े हो जाएं और हैंडल को ओवरहैंड ग्रिप से पकड़ें। अपने पैरों को आगे की ओर झुकाएं, अपने शरीर को आगे की ओर झुकाएं जब तक कि आपका वजन सस्पेंशन ट्रेनर द्वारा समर्थित न हो जाए। अपने शरीर को सिर से एड़ी तक सीधा रखें, अपने कोर को संलग्न रखें और अपनी छाती को हैंडल की ओर नीचे करें। प्रारंभिक स्थिति में लौटने के लिए अपनी छाती और भुजाओं पर दबाव डालें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Znajdź trener podwieszany i wyreguluj go na odpowiednią wysokość. Stań tyłem do punktu kotwiczenia i chwyć uchwyty chwytem nachwytem. Zrób krok stopami do przodu, pochylając ciało do przodu, aż ciężar ciała będzie podparty przez trener podwieszany. Trzymaj ciało proste od głowy po pięty, napnij mięśnie brzucha i opuść klatkę piersiową w stronę uchwytów. Wypchnij się klatką piersiową i ramionami, aby wrócić do pozycji wyjściowej. Powtórz zgodnie z żądaną liczbą powtórzeń.",
+    "ko": "서스펜션 트레이너를 찾아 적절한 높이로 조정합니다. 앵커 포인트를 등으로 향하게 서서 오버핸드 그립으로 손잡이를 잡습니다. 발을 앞으로 걸으며 서스펜션 트레이너로 체중을 지탱할 때까지 몸을 앞으로 기울입니다. 머리에서 발꿈치까지 몸을 곧게 유지하고 코어를 활성화한 상태로 가슴을 손잡이 쪽으로 낮춥니다. 가슴과 팔을 통해 밀어올려 시작 자세로 돌아옵니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Trouve un appareil de suspension et règle-le à une hauteur appropriée. Tiens-toi dos au point d'ancrage et tiens les poignées en prise pronation. Avance les pieds en penchant ton corps en avant jusqu'à ce que ton poids soit soutenu par la sangle de suspension. Garde ton corps bien aligné de la tête aux talons, gaine ta sangle abdominale et abaisse ta poitrine vers les poignées. Pousse avec ta poitrine et tes bras pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Find a suspension trainer and adjust it to an appropriate height.",
+      "Stand facing away from the anchor point and hold the handles with an overhand grip.",
+      "Walk your feet forward, leaning your body forward until your weight is supported by the suspension trainer.",
+      "Keep your body straight from head to heels, engage your core, and lower your chest towards the handles.",
+      "Push through your chest and arms to return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Trova un trainer per le sospensioni e regolalo a un'altezza adeguata.",
+      "Stare di fronte al punto di ancoraggio e tenere le maniglie con una presa prona.",
+      "Cammina con i piedi in avanti, inclinando il corpo in avanti finché il tuo peso non è supportato dal trainer per le sospensioni.",
+      "Mantieni il corpo dritto dalla testa ai talloni, contrai il core e abbassa il petto verso le maniglie.",
+      "Spingi attraverso il petto e le braccia per tornare alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Bir süspansiyon antrenörü bulun ve onu uygun bir yüksekliğe ayarlayın.",
+      "Bağlantı noktasından uzağa bakacak şekilde durun ve kolları üstten kavrayarak tutun.",
+      "Ağırlığınız süspansiyon antrenörü tarafından desteklenene kadar vücudunuzu öne doğru eğerek ayaklarınızı ileri doğru yürütün.",
+      "Vücudunuzu baştan topuklarınıza kadar düz tutun, merkez bölgenizi devreye sokun ve göğsünüzü tutma yerlerine doğru indirin.",
+      "Başlangıç ​​pozisyonuna dönmek için göğsünüzü ve kollarınızı itin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Busca un entrenador de suspensión y ajústalo a una altura adecuada.",
+      "Ponte de pie de espaldas al punto de anclaje y sostén las asas con un agarre prono.",
+      "Camina hacia adelante con los pies, inclinando el cuerpo hacia adelante hasta que tu peso quede sostenido por el entrenador de suspensión.",
+      "Mantén el cuerpo recto desde la cabeza hasta los talones, activa el core y baja el pecho hacia las asas.",
+      "Empuja con el pecho y los brazos para volver a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Найдите тренажер для подвески и отрегулируйте его на подходящую высоту.",
+      "Встаньте лицом от точки крепления и возьмитесь за ручки верхним хватом.",
+      "Идите ногами вперед, наклоняя тело вперед, пока ваш вес не будет поддержан тренажером для подвески.",
+      "Держите тело прямо от головы до пяток, задействуйте корпус и опустите грудь к ручкам.",
+      "Оттолкнитесь грудью и руками, чтобы вернуться в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "找到一个悬挂训练器并将其调整到合适的高度。",
+      "背对锚点站立，并用正手握住手柄。",
+      "双脚向前走，身体向前倾斜，直到悬架训练器支撑您的体重。",
+      "保持身体从头到脚跟伸直，核心部位收紧，胸部朝手柄方向降低。",
+      "推动你的胸部和手臂回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "एक सस्पेंशन ट्रेनर ढूंढें और उसे उचित ऊंचाई पर समायोजित करें।",
+      "एंकर पॉइंट से दूर की ओर मुंह करके खड़े हो जाएं और हैंडल को ओवरहैंड ग्रिप से पकड़ें।",
+      "अपने पैरों को आगे की ओर झुकाएं, अपने शरीर को आगे की ओर झुकाएं जब तक कि आपका वजन सस्पेंशन ट्रेनर द्वारा समर्थित न हो जाए।",
+      "अपने शरीर को सिर से एड़ी तक सीधा रखें, अपने कोर को संलग्न रखें और अपनी छाती को हैंडल की ओर नीचे करें।",
+      "प्रारंभिक स्थिति में लौटने के लिए अपनी छाती और भुजाओं पर दबाव डालें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Znajdź trener podwieszany i wyreguluj go na odpowiednią wysokość.",
+      "Stań tyłem do punktu kotwiczenia i chwyć uchwyty chwytem nachwytem.",
+      "Zrób krok stopami do przodu, pochylając ciało do przodu, aż ciężar ciała będzie podparty przez trener podwieszany.",
+      "Trzymaj ciało proste od głowy po pięty, napnij mięśnie brzucha i opuść klatkę piersiową w stronę uchwytów.",
+      "Wypchnij się klatką piersiową i ramionami, aby wrócić do pozycji wyjściowej.",
+      "Powtórz zgodnie z żądaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "서스펜션 트레이너를 찾아 적절한 높이로 조정합니다.",
+      "앵커 포인트를 등으로 향하게 서서 오버핸드 그립으로 손잡이를 잡습니다.",
+      "발을 앞으로 걸으며 서스펜션 트레이너로 체중을 지탱할 때까지 몸을 앞으로 기울입니다.",
+      "머리에서 발꿈치까지 몸을 곧게 유지하고 코어를 활성화한 상태로 가슴을 손잡이 쪽으로 낮춥니다.",
+      "가슴과 팔을 통해 밀어올려 시작 자세로 돌아옵니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Trouve un appareil de suspension et règle-le à une hauteur appropriée.",
+      "Tiens-toi dos au point d'ancrage et tiens les poignées en prise pronation.",
+      "Avance les pieds en penchant ton corps en avant jusqu'à ce que ton poids soit soutenu par la sangle de suspension.",
+      "Garde ton corps bien aligné de la tête aux talons, gaine ta sangle abdominale et abaisse ta poitrine vers les poignées.",
+      "Pousse avec ta poitrine et tes bras pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "shoulders",
+    "core"
+  ],
+  "target": "pectorals",
+  "image": "images/0806-IaGQCrC.jpg",
+  "gif_url": "videos/0806-IaGQCrC.gif",
+  "media_id": "IaGQCrC",
+  "created_at": "2026-03-18T12:31:32.905069+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

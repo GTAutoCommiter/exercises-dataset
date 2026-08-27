@@ -1,0 +1,123 @@
+{
+  "id": "0743",
+  "name": "sled hack squat",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "sled machine",
+  "instructions": {
+    "en": "Adjust the sled machine to a comfortable position for your height. Stand with your feet shoulder-width apart on the platform, toes slightly pointed outwards. Hold onto the handles or bars for stability. Lower your body by bending your knees and hips, keeping your back straight and chest up. Continue lowering until your thighs are parallel to the ground or slightly below. Pause for a moment, then push through your heels to raise your body back up to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Regola la macchina da slitta in una posizione comoda per la tua altezza. Stare con i piedi alla larghezza delle spalle sulla piattaforma, con le dita leggermente rivolte verso l'esterno. Aggrapparsi alle maniglie o alle barre per stabilità. Abbassa il corpo piegando le ginocchia e i fianchi, mantenendo la schiena dritta e il petto in alto. Continua ad abbassarti finché le cosce non sono parallele al suolo o leggermente più in basso. Fai una pausa per un momento, quindi spingi i talloni per riportare il corpo alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Kızak makinesini boyunuza göre rahat bir konuma ayarlayın. Platform üzerinde ayaklarınız omuz genişliğinde açık, ayak parmaklarınız hafifçe dışarı bakacak şekilde durun. Denge için tutamaklardan veya çubuklardan tutun. Dizlerinizi ve kalçalarınızı bükerek, sırtınızı düz ve göğsünüzü yukarıda tutarak vücudunuzu indirin. Uyluklarınız yere paralel veya biraz altına gelinceye kadar alçaltmaya devam edin. Bir an duraklayın, ardından vücudunuzu başlangıç ​​pozisyonuna geri kaldırmak için topuklarınızı itin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta la máquina de trineo a una posición cómoda según tu altura. Ponte de pie con los pies separados a la altura de los hombros sobre la plataforma, con los dedos de los pies ligeramente apuntando hacia fuera. Sujétate de las asas o barras para mayor estabilidad. Baja el cuerpo doblando las rodillas y las caderas, manteniendo la espalda recta y el pecho elevado. Continúa bajando hasta que los muslos queden paralelos al suelo o un poco por debajo. Haz una pausa por un momento, luego empuja con los talones para subir el cuerpo de nuevo a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Отрегулируйте салазки в удобное положение для вашего роста. Встаньте на платформу, поставив ноги на ширине плеч, носки слегка направлены наружу. Держитесь за ручки или перекладины для устойчивости. Опустите тело, согнув колени и бедра, держа спину прямо и грудь вверх. Продолжайте опускаться до тех пор, пока бедра не станут параллельны земле или немного ниже. Сделайте паузу на мгновение, затем оттолкнитесь пятками, чтобы поднять тело обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "将雪橇机调整到适合您身高的舒适位置。 双脚与肩同宽站立在平台上，脚趾稍微向外。 握住手柄或杆以保持稳定性。 弯曲膝盖和臀部，降低身体，保持背部挺直，挺胸。 继续降低，直到大腿与地面平行或略低于地面。 暂停片刻，然后用脚后跟将身体抬回到起始位置。 重复所需的重复次数。",
+    "hi": "स्लेज मशीन को अपनी ऊंचाई के लिए आरामदायक स्थिति में समायोजित करें। प्लेटफ़ॉर्म पर अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, पैर की उंगलियां थोड़ी बाहर की ओर हों। स्थिरता के लिए हैंडल या बार को पकड़ें। अपने घुटनों और कूल्हों को मोड़कर, अपनी पीठ को सीधा और छाती को ऊपर रखते हुए अपने शरीर को नीचे लाएँ। जब तक आपकी जांघें जमीन के समानांतर या थोड़ा नीचे न हो जाएं तब तक नीचे करना जारी रखें। एक पल के लिए रुकें, फिर अपने शरीर को प्रारंभिक स्थिति में वापस लाने के लिए अपनी एड़ियों से धक्का दें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Ustaw suwnicę w wygodnej dla twojego wzrostu pozycji. Stań na platformie ze stopami rozstawionymi na szerokość barków, palcami skierowanymi lekko na zewnątrz. Chwyć uchwyty lub drążki dla stabilności. Opuść ciało, uginając kolana i biodra, trzymając plecy proste, a klatkę piersiową uniesioną. Kontynuuj opuszczanie, aż uda będą równoległe do podłogi lub nieco poniżej. Zatrzymaj się na chwilę, a następnie odepchnij się przez pięty, aby unieść ciało z powrotem do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "슬래드 머신을 키에 맞춰 편한 위치로 조정하세요. 발을 어깨 너비만큼 벌려 플랫폼에 서되 발가락이 약간 바깥쪽을 향하도록 하세요. 안정성을 위해 손잡이나 바를 잡으세요. 무릎과 엉덩이를 구부려 몸을 내려놓되 등을 펴고 가슴을 펴세요. 허벅지가 땅과 평행하거나 약간 아래가 될 때까지 계속 내려놓으세요. 잠깐 멈춘 후 발꿈치를 통해 밀어 몸을 시작 자세로 올리세요. 원하는 반복 횟수만큼 반복하세요.",
+    "fr": "Règle la machine à traîneau dans une position confortable pour ta taille. Tiens-toi debout, les pieds écartés à la largeur des épaules sur la plateforme, les orteils légèrement tournés vers l'extérieur. Tiens-toi aux poignées ou aux barres pour la stabilité. Abaisse ton corps en fléchissant tes genoux et tes hanches, en gardant ton dos droit et ta poitrine relevée. Continue à descendre jusqu'à ce que tes cuisses soient parallèles au sol ou légèrement en dessous. Marque une pause, puis pousse sur tes talons pour ramener ton corps vers le haut jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the sled machine to a comfortable position for your height.",
+      "Stand with your feet shoulder-width apart on the platform, toes slightly pointed outwards.",
+      "Hold onto the handles or bars for stability.",
+      "Lower your body by bending your knees and hips, keeping your back straight and chest up.",
+      "Continue lowering until your thighs are parallel to the ground or slightly below.",
+      "Pause for a moment, then push through your heels to raise your body back up to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Regola la macchina da slitta in una posizione comoda per la tua altezza.",
+      "Stare con i piedi alla larghezza delle spalle sulla piattaforma, con le dita leggermente rivolte verso l'esterno.",
+      "Aggrapparsi alle maniglie o alle barre per stabilità.",
+      "Abbassa il corpo piegando le ginocchia e i fianchi, mantenendo la schiena dritta e il petto in alto.",
+      "Continua ad abbassarti finché le cosce non sono parallele al suolo o leggermente più in basso.",
+      "Fai una pausa per un momento, quindi spingi i talloni per riportare il corpo alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Kızak makinesini boyunuza göre rahat bir konuma ayarlayın.",
+      "Platform üzerinde ayaklarınız omuz genişliğinde açık, ayak parmaklarınız hafifçe dışarı bakacak şekilde durun.",
+      "Denge için tutamaklardan veya çubuklardan tutun.",
+      "Dizlerinizi ve kalçalarınızı bükerek, sırtınızı düz ve göğsünüzü yukarıda tutarak vücudunuzu indirin.",
+      "Uyluklarınız yere paralel veya biraz altına gelinceye kadar alçaltmaya devam edin.",
+      "Bir an duraklayın, ardından vücudunuzu başlangıç ​​pozisyonuna geri kaldırmak için topuklarınızı itin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta la máquina de trineo a una posición cómoda según tu altura.",
+      "Ponte de pie con los pies separados a la altura de los hombros sobre la plataforma, con los dedos de los pies ligeramente apuntando hacia fuera.",
+      "Sujétate de las asas o barras para mayor estabilidad.",
+      "Baja el cuerpo doblando las rodillas y las caderas, manteniendo la espalda recta y el pecho elevado.",
+      "Continúa bajando hasta que los muslos queden paralelos al suelo o un poco por debajo.",
+      "Haz una pausa por un momento, luego empuja con los talones para subir el cuerpo de nuevo a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Отрегулируйте салазки в удобное положение для вашего роста.",
+      "Встаньте на платформу, поставив ноги на ширине плеч, носки слегка направлены наружу.",
+      "Держитесь за ручки или перекладины для устойчивости.",
+      "Опустите тело, согнув колени и бедра, держа спину прямо и грудь вверх.",
+      "Продолжайте опускаться до тех пор, пока бедра не станут параллельны земле или немного ниже.",
+      "Сделайте паузу на мгновение, затем оттолкнитесь пятками, чтобы поднять тело обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将雪橇机调整到适合您身高的舒适位置。",
+      "双脚与肩同宽站立在平台上，脚趾稍微向外。",
+      "握住手柄或杆以保持稳定性。",
+      "弯曲膝盖和臀部，降低身体，保持背部挺直，挺胸。",
+      "继续降低，直到大腿与地面平行或略低于地面。",
+      "暂停片刻，然后用脚后跟将身体抬回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "स्लेज मशीन को अपनी ऊंचाई के लिए आरामदायक स्थिति में समायोजित करें।",
+      "प्लेटफ़ॉर्म पर अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, पैर की उंगलियां थोड़ी बाहर की ओर हों।",
+      "स्थिरता के लिए हैंडल या बार को पकड़ें।",
+      "अपने घुटनों और कूल्हों को मोड़कर, अपनी पीठ को सीधा और छाती को ऊपर रखते हुए अपने शरीर को नीचे लाएँ।",
+      "जब तक आपकी जांघें जमीन के समानांतर या थोड़ा नीचे न हो जाएं तब तक नीचे करना जारी रखें।",
+      "एक पल के लिए रुकें, फिर अपने शरीर को प्रारंभिक स्थिति में वापस लाने के लिए अपनी एड़ियों से धक्का दें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Ustaw suwnicę w wygodnej dla twojego wzrostu pozycji.",
+      "Stań na platformie ze stopami rozstawionymi na szerokość barków, palcami skierowanymi lekko na zewnątrz.",
+      "Chwyć uchwyty lub drążki dla stabilności.",
+      "Opuść ciało, uginając kolana i biodra, trzymając plecy proste, a klatkę piersiową uniesioną.",
+      "Kontynuuj opuszczanie, aż uda będą równoległe do podłogi lub nieco poniżej.",
+      "Zatrzymaj się na chwilę, a następnie odepchnij się przez pięty, aby unieść ciało z powrotem do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "슬래드 머신을 키에 맞춰 편한 위치로 조정하세요.",
+      "발을 어깨 너비만큼 벌려 플랫폼에 서되 발가락이 약간 바깥쪽을 향하도록 하세요.",
+      "안정성을 위해 손잡이나 바를 잡으세요.",
+      "무릎과 엉덩이를 구부려 몸을 내려놓되 등을 펴고 가슴을 펴세요.",
+      "허벅지가 땅과 평행하거나 약간 아래가 될 때까지 계속 내려놓으세요.",
+      "잠깐 멈춘 후 발꿈치를 통해 밀어 몸을 시작 자세로 올리세요.",
+      "원하는 반복 횟수만큼 반복하세요."
+    ],
+    "fr": [
+      "Règle la machine à traîneau dans une position confortable pour ta taille.",
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules sur la plateforme, les orteils légèrement tournés vers l'extérieur.",
+      "Tiens-toi aux poignées ou aux barres pour la stabilité.",
+      "Abaisse ton corps en fléchissant tes genoux et tes hanches, en gardant ton dos droit et ta poitrine relevée.",
+      "Continue à descendre jusqu'à ce que tes cuisses soient parallèles au sol ou légèrement en dessous.",
+      "Marque une pause, puis pousse sur tes talons pour ramener ton corps vers le haut jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "glutes",
+  "image": "images/0743-Qa55kX1.jpg",
+  "gif_url": "videos/0743-Qa55kX1.gif",
+  "media_id": "Qa55kX1",
+  "created_at": "2026-03-18T12:31:32.890295+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

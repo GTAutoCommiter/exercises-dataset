@@ -1,0 +1,132 @@
+{
+  "id": "0085",
+  "name": "barbell romanian deadlift",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and your toes pointing forward. Hold the barbell with an overhand grip, hands slightly wider than shoulder-width apart. Bend at the hips, keeping your back straight and your knees slightly bent. Lower the barbell towards the ground, keeping it close to your body. Feel the stretch in your hamstrings as you lower the barbell. Once you feel a stretch in your hamstrings, push your hips forward and stand up straight. Squeeze your glutes at the top of the movement. Lower the barbell back down to the starting position and repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi alla larghezza delle spalle e le dita dei piedi rivolte in avanti. Tieni il bilanciere con una presa prona, con le mani leggermente più larghe della larghezza delle spalle. Piegati sui fianchi, mantenendo la schiena dritta e le ginocchia leggermente piegate. Abbassa il bilanciere verso terra, tenendolo vicino al corpo. Senti l'allungamento dei muscoli posteriori della coscia mentre abbassi il bilanciere. Una volta che senti un allungamento nei muscoli posteriori della coscia, spingi i fianchi in avanti e stai dritto. Contrai i glutei nella parte superiore del movimento. Abbassare nuovamente il bilanciere nella posizione iniziale e ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız omuz genişliğinde açık ve ayak parmaklarınız ileriyi gösterecek şekilde ayakta durun. Halteri üstten kavrayarak tutun, eller omuz genişliğinden biraz daha açık olsun. Kalçalarınızı bükün, sırtınızı düz tutun ve dizlerinizi hafifçe bükün. Halteri vücudunuza yakın tutarak yere doğru indirin. Halteri indirirken diz arkası kaslarınızın gerginliğini hissedin. Diz arkası kaslarınızın gerildiğini hissettiğinizde kalçalarınızı öne doğru itin ve dik durun. Hareketin üst noktasında kalçalarınızı sıkın. Halteri başlangıç ​​pozisyonuna indirin ve istenilen sayıda tekrar yapın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y los dedos de los pies apuntando hacia delante. Sujeta la barra con un agarre pronado, manos un poco más separadas que el ancho de los hombros. Flexiona las caderas, manteniendo la espalda recta y las rodillas ligeramente flexionadas. Baja la barra hacia el suelo, manteniéndola cerca del cuerpo. Siente el estiramiento en los isquiotibiales mientras bajas la barra. Cuando sientas el estiramiento en los isquiotibiales, empuja las caderas hacia delante y ponte de pie. Aprieta los glúteos en la parte alta del movimiento. Baja la barra de vuelta a la posición inicial y repite el número de repeticiones deseado.",
+    "ru": "Встаньте, поставив ноги на ширине плеч, носки ног направлены вперед. Возьмите штангу хватом сверху, руки чуть шире плеч. Согните бедра, сохраняя спину прямой и слегка согнутыми в коленях. Опустите штангу к земле, держа ее близко к телу. Почувствуйте растяжение подколенных сухожилий, когда опускаете штангу. Как только вы почувствуете растяжение подколенных сухожилий, выдвиньте бедра вперед и встаньте прямо. Напрягите ягодицы в верхней точке движения. Опустите штангу обратно в исходное положение и повторите желаемое количество повторений.",
+    "zh": "站立，双脚分开与肩同宽，脚趾指向前方。 正手握住杠铃，双手分开略宽于肩宽。 弯曲臀部，保持背部挺直，膝盖稍微弯曲。 将杠铃向地面降低，使其靠近身体。 当你降低杠铃时，感受腿筋的拉伸。 一旦感觉到腿筋拉伸，就将臀部向前推并站直。 在动作的最高点挤压臀部。 将杠铃放回起始位置，然后重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और आपके पैर की उंगलियां आगे की ओर हों। बारबेल को ओवरहैंड ग्रिप से पकड़ें, हाथों को कंधे की चौड़ाई से थोड़ा चौड़ा रखें। अपनी पीठ को सीधा रखते हुए और अपने घुटनों को थोड़ा मोड़ते हुए, कूल्हों पर झुकें। बारबेल को अपने शरीर के करीब रखते हुए जमीन की ओर नीचे करें। जैसे ही आप बारबेल को नीचे करते हैं, अपनी हैमस्ट्रिंग में खिंचाव महसूस करें। एक बार जब आप अपनी हैमस्ट्रिंग में खिंचाव महसूस करें, तो अपने कूल्हों को आगे की ओर धकेलें और सीधे खड़े हो जाएं। आंदोलन के शीर्ष पर अपने ग्लूट्स को निचोड़ें। बारबेल को वापस प्रारंभिक स्थिति में लाएँ और वांछित संख्या में दोहराव के लिए दोहराएँ।",
+    "pl": "Stań w rozkroku na szerokość barków, palce stóp skierowane do przodu. Chwyć sztangę chwytem nachwytem, dłonie nieco szerzej niż szerokość barków. Pochyl się w biodrach, utrzymując proste plecy i lekko ugięte kolana. Opuszczaj sztangę w kierunku podłogi, trzymając ją blisko ciała. Poczuj rozciąganie mięśni dwugłowych uda podczas opuszczania sztangi. Gdy poczujesz rozciąganie w tych mięśniach, wypchnij biodra do przodu i wyprostuj się. Ściśnij pośladki na szczycie ruchu. Opuść sztangę z powrotem do pozycji wyjściowej i powtórz odpowiednią liczbę razy.",
+    "ko": "발을 어깨 너비로 벌리고 발끝은 앞을 향하도록 섭니다. 오버핸드 그립으로 바벨을 잡으며 손은 어깨 너비보다 약간 넓게 합니다. 허리에서 굽히며 등은 곧게 유지하고 무릎은 약간만 구부립니다. 바벨을 몸 가까이 유지하며 천천히 땅을 향해 내립니다. 햄스트링에 스트레칭 감각이 들 때까지 내립니다. 햄스트링에 스트레칭이 감지되면 엉덩이를 앞으로 밀어 일어섭니다. 동작 상단에서 글루트를 조입니다. 바벨을 시작 위치로 다시 내립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et les orteils pointés vers l'avant. Tiens la barre en prise pronation, les mains un peu plus écartées que la largeur des épaules. Fléchis les hanches en gardant ton dos droit et tes genoux légèrement fléchis. Abaisse la barre vers le sol, en la gardant près de ton corps. Sens l'étirement dans tes ischio-jambiers en abaissant la barre. Une fois que tu ressens un étirement dans tes ischio-jambiers, pousse tes hanches vers l'avant et redresse-toi. Contracte tes fessiers en haut du mouvement. Abaisse la barre jusqu'à la position de départ et répète pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and your toes pointing forward.",
+      "Hold the barbell with an overhand grip, hands slightly wider than shoulder-width apart.",
+      "Bend at the hips, keeping your back straight and your knees slightly bent.",
+      "Lower the barbell towards the ground, keeping it close to your body.",
+      "Feel the stretch in your hamstrings as you lower the barbell.",
+      "Once you feel a stretch in your hamstrings, push your hips forward and stand up straight.",
+      "Squeeze your glutes at the top of the movement.",
+      "Lower the barbell back down to the starting position and repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle e le dita dei piedi rivolte in avanti.",
+      "Tieni il bilanciere con una presa prona, con le mani leggermente più larghe della larghezza delle spalle.",
+      "Piegati sui fianchi, mantenendo la schiena dritta e le ginocchia leggermente piegate.",
+      "Abbassa il bilanciere verso terra, tenendolo vicino al corpo.",
+      "Senti l'allungamento dei muscoli posteriori della coscia mentre abbassi il bilanciere.",
+      "Una volta che senti un allungamento nei muscoli posteriori della coscia, spingi i fianchi in avanti e stai dritto.",
+      "Contrai i glutei nella parte superiore del movimento.",
+      "Abbassare nuovamente il bilanciere nella posizione iniziale e ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık ve ayak parmaklarınız ileriyi gösterecek şekilde ayakta durun.",
+      "Halteri üstten kavrayarak tutun, eller omuz genişliğinden biraz daha açık olsun.",
+      "Kalçalarınızı bükün, sırtınızı düz tutun ve dizlerinizi hafifçe bükün.",
+      "Halteri vücudunuza yakın tutarak yere doğru indirin.",
+      "Halteri indirirken diz arkası kaslarınızın gerginliğini hissedin.",
+      "Diz arkası kaslarınızın gerildiğini hissettiğinizde kalçalarınızı öne doğru itin ve dik durun.",
+      "Hareketin üst noktasında kalçalarınızı sıkın.",
+      "Halteri başlangıç ​​pozisyonuna indirin ve istenilen sayıda tekrar yapın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y los dedos de los pies apuntando hacia delante.",
+      "Sujeta la barra con un agarre pronado, manos un poco más separadas que el ancho de los hombros.",
+      "Flexiona las caderas, manteniendo la espalda recta y las rodillas ligeramente flexionadas.",
+      "Baja la barra hacia el suelo, manteniéndola cerca del cuerpo.",
+      "Siente el estiramiento en los isquiotibiales mientras bajas la barra.",
+      "Cuando sientas el estiramiento en los isquiotibiales, empuja las caderas hacia delante y ponte de pie.",
+      "Aprieta los glúteos en la parte alta del movimiento.",
+      "Baja la barra de vuelta a la posición inicial y repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, поставив ноги на ширине плеч, носки ног направлены вперед.",
+      "Возьмите штангу хватом сверху, руки чуть шире плеч.",
+      "Согните бедра, сохраняя спину прямой и слегка согнутыми в коленях.",
+      "Опустите штангу к земле, держа ее близко к телу.",
+      "Почувствуйте растяжение подколенных сухожилий, когда опускаете штангу.",
+      "Как только вы почувствуете растяжение подколенных сухожилий, выдвиньте бедра вперед и встаньте прямо.",
+      "Напрягите ягодицы в верхней точке движения.",
+      "Опустите штангу обратно в исходное положение и повторите желаемое количество повторений."
+    ],
+    "zh": [
+      "站立，双脚分开与肩同宽，脚趾指向前方。",
+      "正手握住杠铃，双手分开略宽于肩宽。",
+      "弯曲臀部，保持背部挺直，膝盖稍微弯曲。",
+      "将杠铃向地面降低，使其靠近身体。",
+      "当你降低杠铃时，感受腿筋的拉伸。",
+      "一旦感觉到腿筋拉伸，就将臀部向前推并站直。",
+      "在动作的最高点挤压臀部。",
+      "将杠铃放回起始位置，然后重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और आपके पैर की उंगलियां आगे की ओर हों।",
+      "बारबेल को ओवरहैंड ग्रिप से पकड़ें, हाथों को कंधे की चौड़ाई से थोड़ा चौड़ा रखें।",
+      "अपनी पीठ को सीधा रखते हुए और अपने घुटनों को थोड़ा मोड़ते हुए, कूल्हों पर झुकें।",
+      "बारबेल को अपने शरीर के करीब रखते हुए जमीन की ओर नीचे करें।",
+      "जैसे ही आप बारबेल को नीचे करते हैं, अपनी हैमस्ट्रिंग में खिंचाव महसूस करें।",
+      "एक बार जब आप अपनी हैमस्ट्रिंग में खिंचाव महसूस करें, तो अपने कूल्हों को आगे की ओर धकेलें और सीधे खड़े हो जाएं।",
+      "आंदोलन के शीर्ष पर अपने ग्लूट्स को निचोड़ें।",
+      "बारबेल को वापस प्रारंभिक स्थिति में लाएँ और वांछित संख्या में दोहराव के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków, palce stóp skierowane do przodu.",
+      "Chwyć sztangę chwytem nachwytem, dłonie nieco szerzej niż szerokość barków.",
+      "Pochyl się w biodrach, utrzymując proste plecy i lekko ugięte kolana.",
+      "Opuszczaj sztangę w kierunku podłogi, trzymając ją blisko ciała.",
+      "Poczuj rozciąganie mięśni dwugłowych uda podczas opuszczania sztangi.",
+      "Gdy poczujesz rozciąganie w tych mięśniach, wypchnij biodra do przodu i wyprostuj się.",
+      "Ściśnij pośladki na szczycie ruchu.",
+      "Opuść sztangę z powrotem do pozycji wyjściowej i powtórz odpowiednią liczbę razy."
+    ],
+    "ko": [
+      "발을 어깨 너비로 벌리고 발끝은 앞을 향하도록 섭니다.",
+      "오버핸드 그립으로 바벨을 잡으며 손은 어깨 너비보다 약간 넓게 합니다.",
+      "허리에서 굽히며 등은 곧게 유지하고 무릎은 약간만 구부립니다.",
+      "바벨을 몸 가까이 유지하며 천천히 땅을 향해 내립니다.",
+      "햄스트링에 스트레칭 감각이 들 때까지 내립니다.",
+      "햄스트링에 스트레칭이 감지되면 엉덩이를 앞으로 밀어 일어섭니다.",
+      "동작 상단에서 글루트를 조입니다.",
+      "바벨을 시작 위치로 다시 내립니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et les orteils pointés vers l'avant.",
+      "Tiens la barre en prise pronation, les mains un peu plus écartées que la largeur des épaules.",
+      "Fléchis les hanches en gardant ton dos droit et tes genoux légèrement fléchis.",
+      "Abaisse la barre vers le sol, en la gardant près de ton corps.",
+      "Sens l'étirement dans tes ischio-jambiers en abaissant la barre.",
+      "Une fois que tu ressens un étirement dans tes ischio-jambiers, pousse tes hanches vers l'avant et redresse-toi.",
+      "Contracte tes fessiers en haut du mouvement.",
+      "Abaisse la barre jusqu'à la position de départ et répète pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings",
+    "lower back"
+  ],
+  "target": "glutes",
+  "image": "images/0085-wQ2c4XD.jpg",
+  "gif_url": "videos/0085-wQ2c4XD.gif",
+  "media_id": "wQ2c4XD",
+  "created_at": "2026-03-18T12:31:32.872608+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

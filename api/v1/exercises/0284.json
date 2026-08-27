@@ -1,0 +1,102 @@
+{
+  "id": "0284",
+  "name": "donkey calf raise",
+  "category": "lower legs",
+  "body_part": "lower legs",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand with your toes on an elevated surface, such as a step or block. Place your hands on a stable support, such as a wall or railing, for balance. Raise your heels as high as possible, lifting your body weight onto the balls of your feet. Pause for a moment at the top, then slowly lower your heels back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stai con le dita dei piedi su una superficie rialzata, come un gradino o un blocco. Appoggia le mani su un supporto stabile, come un muro o una ringhiera, per mantenere l'equilibrio. Alza i talloni il più in alto possibile, sollevando il peso del corpo sulle punte dei piedi. Fermati un attimo in cima, poi abbassa lentamente i talloni fino alla posizione di partenza. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayak parmaklarınız basamak veya blok gibi yüksek bir yüzeyde durun. Dengenizi sağlamak için ellerinizi duvar veya korkuluk gibi sabit bir desteğin üzerine koyun. Topuklarınızı mümkün olduğu kadar yükseğe kaldırın, vücut ağırlığınızı ayak parmaklarınızın üzerine kaldırın. Tepe noktasında bir an duraklayın, ardından topuklarınızı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con las puntas de los pies sobre una superficie elevada, como un escalón o un bloque. Coloca las manos en un soporte estable, como una pared o un pasamanos, para mantener el equilibrio. Levanta los talones lo más alto posible, elevando el peso de tu cuerpo sobre las puntas de los pies. Haz una pausa breve en la parte alta y luego baja lentamente los talones de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте пальцами ног на возвышенную поверхность, например на ступеньку или блок. Для равновесия положите руки на устойчивую опору, например стену или перила. Поднимите пятки как можно выше, перенеся вес тела на подушечки стоп. Задержитесь на мгновение в верхней точке, затем медленно опустите пятки обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "将脚趾站立在升高的表面上，例如台阶或木块。 将双手放在稳定的支撑物上，例如墙壁或栏杆，以保持平衡。 尽可能高地抬高脚后跟，将身体重量转移到脚掌上。 在顶部停顿片刻，然后慢慢降低脚后跟回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैर की उंगलियों को किसी ऊंची सतह, जैसे सीढ़ी या ब्लॉक पर रखकर खड़े हो जाएं। संतुलन के लिए अपने हाथों को दीवार या रेलिंग जैसे किसी स्थिर सहारे पर रखें। अपनी एड़ियों को जितना संभव हो उतना ऊपर उठाएं, अपने शरीर का वजन अपने पैरों की उंगलियों पर उठाएं। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपनी एड़ियों को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań, ustawiając palce stóp na podwyższeniu, na przykład stopniu lub bloku. Umieść dłonie na stabilnym podparciu, na przykład ścianie lub poręczy, dla utrzymania równowagi. Unieś pięty najwyżej jak to możliwe, przenosząc ciężar ciała na palce stóp. Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść pięty z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "발가락을 계단이나 블록 같은 높은 곳에 올려놓습니다. 손을 벽이나 손잡이 같은 안정적인 곳에 올려 균형을 잡습니다. 발뒤꿈치를 최대한 높이 올리며 발가락 앞부분으로 체중을 올립니다. 상단에서 잠시 멈춘 후 천천히 발뒤꿈치를 처음 위치로 내립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les orteils sur une surface surélevée, comme une marche ou un bloc. Place tes mains sur un support stable, comme un mur ou une rampe, pour l'équilibre. Lève tes talons aussi haut que possible en reportant le poids de ton corps sur la plante de tes pieds. Marque une pause en haut, puis abaisse lentement tes talons pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your toes on an elevated surface, such as a step or block.",
+      "Place your hands on a stable support, such as a wall or railing, for balance.",
+      "Raise your heels as high as possible, lifting your body weight onto the balls of your feet.",
+      "Pause for a moment at the top, then slowly lower your heels back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con le dita dei piedi su una superficie rialzata, come un gradino o un blocco.",
+      "Appoggia le mani su un supporto stabile, come un muro o una ringhiera, per mantenere l'equilibrio.",
+      "Alza i talloni il più in alto possibile, sollevando il peso del corpo sulle punte dei piedi.",
+      "Fermati un attimo in cima, poi abbassa lentamente i talloni fino alla posizione di partenza.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayak parmaklarınız basamak veya blok gibi yüksek bir yüzeyde durun.",
+      "Dengenizi sağlamak için ellerinizi duvar veya korkuluk gibi sabit bir desteğin üzerine koyun.",
+      "Topuklarınızı mümkün olduğu kadar yükseğe kaldırın, vücut ağırlığınızı ayak parmaklarınızın üzerine kaldırın.",
+      "Tepe noktasında bir an duraklayın, ardından topuklarınızı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con las puntas de los pies sobre una superficie elevada, como un escalón o un bloque.",
+      "Coloca las manos en un soporte estable, como una pared o un pasamanos, para mantener el equilibrio.",
+      "Levanta los talones lo más alto posible, elevando el peso de tu cuerpo sobre las puntas de los pies.",
+      "Haz una pausa breve en la parte alta y luego baja lentamente los talones de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте пальцами ног на возвышенную поверхность, например на ступеньку или блок.",
+      "Для равновесия положите руки на устойчивую опору, например стену или перила.",
+      "Поднимите пятки как можно выше, перенеся вес тела на подушечки стоп.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите пятки обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将脚趾站立在升高的表面上，例如台阶或木块。",
+      "将双手放在稳定的支撑物上，例如墙壁或栏杆，以保持平衡。",
+      "尽可能高地抬高脚后跟，将身体重量转移到脚掌上。",
+      "在顶部停顿片刻，然后慢慢降低脚后跟回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैर की उंगलियों को किसी ऊंची सतह, जैसे सीढ़ी या ब्लॉक पर रखकर खड़े हो जाएं।",
+      "संतुलन के लिए अपने हाथों को दीवार या रेलिंग जैसे किसी स्थिर सहारे पर रखें।",
+      "अपनी एड़ियों को जितना संभव हो उतना ऊपर उठाएं, अपने शरीर का वजन अपने पैरों की उंगलियों पर उठाएं।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपनी एड़ियों को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań, ustawiając palce stóp na podwyższeniu, na przykład stopniu lub bloku.",
+      "Umieść dłonie na stabilnym podparciu, na przykład ścianie lub poręczy, dla utrzymania równowagi.",
+      "Unieś pięty najwyżej jak to możliwe, przenosząc ciężar ciała na palce stóp.",
+      "Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść pięty z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발가락을 계단이나 블록 같은 높은 곳에 올려놓습니다.",
+      "손을 벽이나 손잡이 같은 안정적인 곳에 올려 균형을 잡습니다.",
+      "발뒤꿈치를 최대한 높이 올리며 발가락 앞부분으로 체중을 올립니다.",
+      "상단에서 잠시 멈춘 후 천천히 발뒤꿈치를 처음 위치로 내립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les orteils sur une surface surélevée, comme une marche ou un bloc.",
+      "Place tes mains sur un support stable, comme un mur ou une rampe, pour l'équilibre.",
+      "Lève tes talons aussi haut que possible en reportant le poids de ton corps sur la plante de tes pieds.",
+      "Marque une pause en haut, puis abaisse lentement tes talons pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings",
+    "glutes"
+  ],
+  "target": "calves",
+  "image": "images/0284-u5ESqzH.jpg",
+  "gif_url": "videos/0284-u5ESqzH.gif",
+  "media_id": "u5ESqzH",
+  "created_at": "2026-03-18T12:31:32.877468+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

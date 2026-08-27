@@ -1,0 +1,101 @@
+{
+  "id": "1708",
+  "name": "assisted lying calves stretch",
+  "category": "lower legs",
+  "body_part": "lower legs",
+  "equipment": "assisted",
+  "instructions": {
+    "en": "Lie on your back with your legs extended. Bend one knee and place your foot flat on the ground. Using your hands or a towel, gently pull your toes towards your body, feeling a stretch in your calf. Hold the stretch for 20-30 seconds. Release the stretch and repeat on the other leg.",
+    "it": "Sdraiati sulla schiena con le gambe distese. Piega un ginocchio e appoggia il piede a terra. Usando le mani o un asciugamano, tira delicatamente le dita dei piedi verso il corpo, avvertendo un allungamento nel polpaccio. Mantieni l'allungamento per 20-30 secondi. Rilascia l'allungamento e ripeti sull'altra gamba.",
+    "tr": "Bacaklarınız uzatılmış halde sırt üstü yatın. Bir dizinizi bükün ve ayağınızı düz bir şekilde yere koyun. Ellerinizi veya bir havluyu kullanarak ayak parmaklarınızı yavaşça vücudunuza doğru çekin, baldırınızda bir gerginlik hissedin. Uzatmayı 20-30 saniye kadar tutun. Germeyi bırakın ve diğer bacakta tekrarlayın.",
+    "es": "Túmbate sobre tu espalda con las piernas extendidas. Flexiona una rodilla y coloca el pie plano sobre el suelo. Con las manos o una toalla, jala suavemente los dedos del pie hacia tu cuerpo, sintiendo un estiramiento en la pantorrilla. Mantén el estiramiento durante 20-30 segundos. Suelta el estiramiento y repite con la otra pierna.",
+    "ru": "Лягте на спину, вытянув ноги. Согните одно колено и поставьте стопу на землю. Руками или полотенцем осторожно потяните пальцы ног к телу, чувствуя растяжение в икрах. Удерживайте растяжку 20–30 секунд. Освободите растяжку и повторите на другую ногу.",
+    "zh": "仰卧，双腿伸展。 弯曲一侧膝盖，将脚平放在地上。 用手或毛巾轻轻地将脚趾拉向身体，感受小腿的拉伸。 保持拉伸 20-30 秒。 松开拉伸并在另一条腿上重复。",
+    "hi": "अपने पैरों को फैलाकर अपनी पीठ के बल लेटें। एक घुटने को मोड़ें और अपने पैर को ज़मीन पर सपाट रखें। अपने हाथों या तौलिये का उपयोग करके, अपनी पिंडली में खिंचाव महसूस करते हुए, धीरे से अपने पैर की उंगलियों को अपने शरीर की ओर खींचें। 20-30 सेकंड तक खिंचाव बनाए रखें। खिंचाव छोड़ें और दूसरे पैर पर दोहराएं।",
+    "pl": "Połóż się na plecach z wyciągniętymi nogami. Ugnij jedną nogę i oprzyj stopę płasko na podłodze. Za pomocą rąk lub ręcznika delikatnie przyciągnij palce stopy w kierunku ciała, odczuwając rozciąganie w łydce. Utrzymaj rozciąganie przez 20-30 sekund. Zwolnij rozciąganie i powtórz drugą nogą.",
+    "ko": "등을 바닥에 누워 다리를 펼칩니다. 한쪽 무릎을 구부려 발을 바닥에 붙입니다. 손이나 수건을 사용하여 발가락을 천천히 몸 쪽으로 당겨 종아리가 늘어나는 것을 느낍니다. 스트레칭을 20~30초간 유지합니다. 스트레칭을 풀고 반대쪽 다리로 반복합니다.",
+    "fr": "Allonge-toi sur le dos, les jambes tendues. Plie un genou et place ton pied à plat sur le sol. Avec tes mains ou une serviette, tire doucement tes orteils vers ton corps, en sentant un étirement dans ton mollet. Maintiens l'étirement pendant 20 à 30 secondes. Relâche l'étirement et répète avec l'autre jambe."
+  },
+  "instruction_steps": {
+    "en": [
+      "Lie on your back with your legs extended.",
+      "Bend one knee and place your foot flat on the ground.",
+      "Using your hands or a towel, gently pull your toes towards your body, feeling a stretch in your calf.",
+      "Hold the stretch for 20-30 seconds.",
+      "Release the stretch and repeat on the other leg."
+    ],
+    "it": [
+      "Sdraiati sulla schiena con le gambe distese.",
+      "Piega un ginocchio e appoggia il piede a terra.",
+      "Usando le mani o un asciugamano, tira delicatamente le dita dei piedi verso il corpo, avvertendo un allungamento nel polpaccio.",
+      "Mantieni l'allungamento per 20-30 secondi.",
+      "Rilascia l'allungamento e ripeti sull'altra gamba."
+    ],
+    "tr": [
+      "Bacaklarınız uzatılmış halde sırt üstü yatın.",
+      "Bir dizinizi bükün ve ayağınızı düz bir şekilde yere koyun.",
+      "Ellerinizi veya bir havluyu kullanarak ayak parmaklarınızı yavaşça vücudunuza doğru çekin, baldırınızda bir gerginlik hissedin.",
+      "Uzatmayı 20-30 saniye kadar tutun.",
+      "Germeyi bırakın ve diğer bacakta tekrarlayın."
+    ],
+    "es": [
+      "Túmbate sobre tu espalda con las piernas extendidas.",
+      "Flexiona una rodilla y coloca el pie plano sobre el suelo.",
+      "Con las manos o una toalla, jala suavemente los dedos del pie hacia tu cuerpo, sintiendo un estiramiento en la pantorrilla.",
+      "Mantén el estiramiento durante 20-30 segundos.",
+      "Suelta el estiramiento y repite con la otra pierna."
+    ],
+    "ru": [
+      "Лягте на спину, вытянув ноги.",
+      "Согните одно колено и поставьте стопу на землю.",
+      "Руками или полотенцем осторожно потяните пальцы ног к телу, чувствуя растяжение в икрах.",
+      "Удерживайте растяжку 20–30 секунд.",
+      "Освободите растяжку и повторите на другую ногу."
+    ],
+    "zh": [
+      "仰卧，双腿伸展。",
+      "弯曲一侧膝盖，将脚平放在地上。",
+      "用手或毛巾轻轻地将脚趾拉向身体，感受小腿的拉伸。",
+      "保持拉伸 20-30 秒。",
+      "松开拉伸并在另一条腿上重复。"
+    ],
+    "hi": [
+      "अपने पैरों को फैलाकर अपनी पीठ के बल लेटें।",
+      "एक घुटने को मोड़ें और अपने पैर को ज़मीन पर सपाट रखें।",
+      "अपने हाथों या तौलिये का उपयोग करके, अपनी पिंडली में खिंचाव महसूस करते हुए, धीरे से अपने पैर की उंगलियों को अपने शरीर की ओर खींचें।",
+      "20-30 सेकंड तक खिंचाव बनाए रखें।",
+      "खिंचाव छोड़ें और दूसरे पैर पर दोहराएं।"
+    ],
+    "pl": [
+      "Połóż się na plecach z wyciągniętymi nogami.",
+      "Ugnij jedną nogę i oprzyj stopę płasko na podłodze.",
+      "Za pomocą rąk lub ręcznika delikatnie przyciągnij palce stopy w kierunku ciała, odczuwając rozciąganie w łydce.",
+      "Utrzymaj rozciąganie przez 20-30 sekund.",
+      "Zwolnij rozciąganie i powtórz drugą nogą."
+    ],
+    "ko": [
+      "등을 바닥에 누워 다리를 펼칩니다.",
+      "한쪽 무릎을 구부려 발을 바닥에 붙입니다.",
+      "손이나 수건을 사용하여 발가락을 천천히 몸 쪽으로 당겨 종아리가 늘어나는 것을 느낍니다.",
+      "스트레칭을 20~30초간 유지합니다.",
+      "스트레칭을 풀고 반대쪽 다리로 반복합니다."
+    ],
+    "fr": [
+      "Allonge-toi sur le dos, les jambes tendues.",
+      "Plie un genou et place ton pied à plat sur le sol.",
+      "Avec tes mains ou une serviette, tire doucement tes orteils vers ton corps, en sentant un étirement dans ton mollet.",
+      "Maintiens l'étirement pendant 20 à 30 secondes.",
+      "Relâche l'étirement et répète avec l'autre jambe."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings"
+  ],
+  "target": "calves",
+  "image": "images/1708-GxDwDX0.jpg",
+  "gif_url": "videos/1708-GxDwDX0.gif",
+  "media_id": "GxDwDX0",
+  "created_at": "2026-03-18T12:31:32.855254+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

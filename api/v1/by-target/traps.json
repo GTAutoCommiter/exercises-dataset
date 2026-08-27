@@ -1,0 +1,152 @@
+[
+  {
+    "id": "1018",
+    "name": "band shrug",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "band",
+    "target": "traps",
+    "image": "images/1018-trmte8s.jpg",
+    "gif_url": "videos/1018-trmte8s.gif"
+  },
+  {
+    "id": "0095",
+    "name": "barbell shrug",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "barbell",
+    "target": "traps",
+    "image": "images/0095-dG7tG5y.jpg",
+    "gif_url": "videos/0095-dG7tG5y.gif"
+  },
+  {
+    "id": "0220",
+    "name": "cable shrug",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "cable",
+    "target": "traps",
+    "image": "images/0220-Eg98Ft9.jpg",
+    "gif_url": "videos/0220-Eg98Ft9.gif"
+  },
+  {
+    "id": "0305",
+    "name": "dumbbell decline shrug",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "dumbbell",
+    "target": "traps",
+    "image": "images/0305-cwsAI4G.jpg",
+    "gif_url": "videos/0305-cwsAI4G.gif"
+  },
+  {
+    "id": "0304",
+    "name": "dumbbell decline shrug v. 2",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "dumbbell",
+    "target": "traps",
+    "image": "images/0304-bRlbdjK.jpg",
+    "gif_url": "videos/0304-bRlbdjK.gif"
+  },
+  {
+    "id": "0329",
+    "name": "dumbbell incline shrug",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "dumbbell",
+    "target": "traps",
+    "image": "images/0329-JymLInS.jpg",
+    "gif_url": "videos/0329-JymLInS.gif"
+  },
+  {
+    "id": "0406",
+    "name": "dumbbell shrug",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "dumbbell",
+    "target": "traps",
+    "image": "images/0406-NJzBsGJ.jpg",
+    "gif_url": "videos/0406-NJzBsGJ.gif"
+  },
+  {
+    "id": "0548",
+    "name": "kettlebell sumo high pull",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "kettlebell",
+    "target": "traps",
+    "image": "images/0548-8ARQ9Hw.jpg",
+    "gif_url": "videos/0548-8ARQ9Hw.gif"
+  },
+  {
+    "id": "0580",
+    "name": "lever gripless shrug",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "traps",
+    "image": "images/0580-f91FwXG.jpg",
+    "gif_url": "videos/0580-f91FwXG.gif"
+  },
+  {
+    "id": "1439",
+    "name": "lever gripless shrug v. 2",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "traps",
+    "image": "images/1439-cbuFJrn.jpg",
+    "gif_url": "videos/1439-cbuFJrn.gif"
+  },
+  {
+    "id": "0604",
+    "name": "lever shrug",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "traps",
+    "image": "images/0604-ZZKbeMw.jpg",
+    "gif_url": "videos/0604-ZZKbeMw.gif"
+  },
+  {
+    "id": "3012",
+    "name": "scapula dips",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "body weight",
+    "target": "traps",
+    "image": "images/3012-7xeukSt.jpg",
+    "gif_url": "videos/3012-7xeukSt.gif"
+  },
+  {
+    "id": "0688",
+    "name": "scapular pull-up",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "body weight",
+    "target": "traps",
+    "image": "images/0688-uTBt1HV.jpg",
+    "gif_url": "videos/0688-uTBt1HV.gif"
+  },
+  {
+    "id": "0746",
+    "name": "smith back shrug",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "smith machine",
+    "target": "traps",
+    "image": "images/0746-MzNnwx9.jpg",
+    "gif_url": "videos/0746-MzNnwx9.gif"
+  },
+  {
+    "id": "0767",
+    "name": "smith shrug",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "smith machine",
+    "target": "traps",
+    "image": "images/0767-OUQ0ZyW.jpg",
+    "gif_url": "videos/0767-OUQ0ZyW.gif"
+  }
+]

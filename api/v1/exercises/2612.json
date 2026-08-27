@@ -1,0 +1,104 @@
+{
+  "id": "2612",
+  "name": "jump rope",
+  "category": "cardio",
+  "body_part": "cardio",
+  "equipment": "rope",
+  "instructions": {
+    "en": "Hold the handles of the jump rope with your hands, palms facing inward. Stand with your feet shoulder-width apart and knees slightly bent. Swing the rope over your head and jump over it as it comes towards your feet. Land softly on the balls of your feet and repeat the jump as the rope comes around again. Continue jumping for the desired duration or number of repetitions.",
+    "it": "Tieni le maniglie della corda per saltare con le mani, i palmi rivolti verso l'interno. Stai in piedi con i piedi alla larghezza delle spalle e le ginocchia leggermente piegate. Fai oscillare la corda sopra la testa e saltaci sopra mentre si avvicina ai tuoi piedi. Atterra dolcemente sulle punte dei piedi e ripeti il ​​salto mentre la corda gira di nuovo. Continua a saltare per la durata o il numero di ripetizioni desiderato.",
+    "tr": "Atlama ipinin saplarını ellerinizle, avuçlarınız içe bakacak şekilde tutun. Ayaklarınız omuz genişliğinde açık ve dizleriniz hafifçe bükülü şekilde ayakta durun. İpi başınızın üzerinden geçirin ve ayaklarınıza doğru gelince üzerinden atlayın. Ayak parmaklarınızın üzerine yumuşak bir şekilde inin ve ip tekrar kendine gelinceye kadar atlamayı tekrarlayın. İstenilen süre veya tekrar sayısı kadar atlamaya devam edin.",
+    "es": "Sujeta las asas de la cuerda de saltar con las manos, palmas hacia adentro. Ponte de pie con los pies separados a la altura de los hombros y las rodillas ligeramente flexionadas. Balancea la cuerda por encima de la cabeza y salta sobre ella cuando se acerque a los pies. Aterriza suavemente sobre la punta de los pies y repite el salto cuando la cuerda vuelva a pasar. Continúa saltando durante el tiempo o el número de repeticiones deseado.",
+    "ru": "Возьмитесь руками за ручки скакалки ладонями внутрь. Встаньте, ноги на ширине плеч и слегка согнуты в коленях. Перекиньте веревку над головой и перепрыгните через нее, когда она приблизится к вашим ногам. Мягко приземлитесь на подушечки ног и повторите прыжок, когда веревка снова закрутится. Продолжайте прыгать желаемую продолжительность или количество повторений.",
+    "zh": "双手握住跳绳的手柄，掌心向内。 站立，双脚分开与肩同宽，膝盖稍微弯曲。 将绳子甩过头顶，当绳子靠近你的脚时跳过它。 轻轻地用脚掌着地，当绳子再次绕回时重复跳跃。 继续跳跃所需的持续时间或重复次数。",
+    "hi": "कूदने वाली रस्सी के हैंडल को अपने हाथों से पकड़ें, हथेलियाँ अंदर की ओर हों। अपने पैरों को कंधे की चौड़ाई पर फैलाकर और घुटनों को थोड़ा मोड़कर खड़े हो जाएं। रस्सी को अपने सिर के ऊपर घुमाएं और जैसे ही वह आपके पैरों की ओर आए तो उस पर कूदें। अपने पैरों की उंगलियों पर धीरे से उतरें और जैसे ही रस्सी फिर से चारों ओर आ जाए, छलांग दोहराएँ। वांछित अवधि या दोहराव की संख्या तक कूदना जारी रखें।",
+    "pl": "Chwyć uchwyty skakanki dłońmi zwróconymi do wewnątrz. Stań ze stopami rozstawionymi na szerokość barków i lekko ugiętymi kolanami. Przełóż linkę nad głową i przeskocz nad nią, gdy zbliża się do stóp. Wyląduj miękko na palcach stóp i powtórz skok, gdy linka ponownie nadejdzie. Kontynuuj skakanie przez zaplanowany czas lub liczbę powtórzeń.",
+    "ko": "손으로 줄넘기의 손잡이를 잡되 손바닥이 안쪽을 향하도록 합니다. 발을 어깨너비로 벌리고 무릎을 약간 구부린 상태에서 섭니다. 줄을 머리 위로 휘저으면서 발 쪽으로 오는 줄을 뛰어넘습니다. 발가락 끝으로 부드럽게 착지하고 줄이 다시 오면 점프를 반복합니다. 원하는 시간이나 반복 횟수 동안 계속 뛰어넘습니다.",
+    "fr": "Tiens les poignées de la corde à sauter avec tes mains, les paumes tournées vers l'intérieur. Tiens-toi debout, les pieds écartés à la largeur des épaules et les genoux légèrement fléchis. Fais passer la corde au-dessus de ta tête et saute par-dessus lorsqu'elle arrive vers tes pieds. Atterris en douceur sur la pointe des pieds et répète le saut lorsque la corde revient. Continue à sauter pendant la durée ou le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Hold the handles of the jump rope with your hands, palms facing inward.",
+      "Stand with your feet shoulder-width apart and knees slightly bent.",
+      "Swing the rope over your head and jump over it as it comes towards your feet.",
+      "Land softly on the balls of your feet and repeat the jump as the rope comes around again.",
+      "Continue jumping for the desired duration or number of repetitions."
+    ],
+    "it": [
+      "Tieni le maniglie della corda per saltare con le mani, i palmi rivolti verso l'interno.",
+      "Stai in piedi con i piedi alla larghezza delle spalle e le ginocchia leggermente piegate.",
+      "Fai oscillare la corda sopra la testa e saltaci sopra mentre si avvicina ai tuoi piedi.",
+      "Atterra dolcemente sulle punte dei piedi e ripeti il ​​salto mentre la corda gira di nuovo.",
+      "Continua a saltare per la durata o il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Atlama ipinin saplarını ellerinizle, avuçlarınız içe bakacak şekilde tutun.",
+      "Ayaklarınız omuz genişliğinde açık ve dizleriniz hafifçe bükülü şekilde ayakta durun.",
+      "İpi başınızın üzerinden geçirin ve ayaklarınıza doğru gelince üzerinden atlayın.",
+      "Ayak parmaklarınızın üzerine yumuşak bir şekilde inin ve ip tekrar kendine gelinceye kadar atlamayı tekrarlayın.",
+      "İstenilen süre veya tekrar sayısı kadar atlamaya devam edin."
+    ],
+    "es": [
+      "Sujeta las asas de la cuerda de saltar con las manos, palmas hacia adentro.",
+      "Ponte de pie con los pies separados a la altura de los hombros y las rodillas ligeramente flexionadas.",
+      "Balancea la cuerda por encima de la cabeza y salta sobre ella cuando se acerque a los pies.",
+      "Aterriza suavemente sobre la punta de los pies y repite el salto cuando la cuerda vuelva a pasar.",
+      "Continúa saltando durante el tiempo o el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Возьмитесь руками за ручки скакалки ладонями внутрь.",
+      "Встаньте, ноги на ширине плеч и слегка согнуты в коленях.",
+      "Перекиньте веревку над головой и перепрыгните через нее, когда она приблизится к вашим ногам.",
+      "Мягко приземлитесь на подушечки ног и повторите прыжок, когда веревка снова закрутится.",
+      "Продолжайте прыгать желаемую продолжительность или количество повторений."
+    ],
+    "zh": [
+      "双手握住跳绳的手柄，掌心向内。",
+      "站立，双脚分开与肩同宽，膝盖稍微弯曲。",
+      "将绳子甩过头顶，当绳子靠近你的脚时跳过它。",
+      "轻轻地用脚掌着地，当绳子再次绕回时重复跳跃。",
+      "继续跳跃所需的持续时间或重复次数。"
+    ],
+    "hi": [
+      "कूदने वाली रस्सी के हैंडल को अपने हाथों से पकड़ें, हथेलियाँ अंदर की ओर हों।",
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर और घुटनों को थोड़ा मोड़कर खड़े हो जाएं।",
+      "रस्सी को अपने सिर के ऊपर घुमाएं और जैसे ही वह आपके पैरों की ओर आए तो उस पर कूदें।",
+      "अपने पैरों की उंगलियों पर धीरे से उतरें और जैसे ही रस्सी फिर से चारों ओर आ जाए, छलांग दोहराएँ।",
+      "वांछित अवधि या दोहराव की संख्या तक कूदना जारी रखें।"
+    ],
+    "pl": [
+      "Chwyć uchwyty skakanki dłońmi zwróconymi do wewnątrz.",
+      "Stań ze stopami rozstawionymi na szerokość barków i lekko ugiętymi kolanami.",
+      "Przełóż linkę nad głową i przeskocz nad nią, gdy zbliża się do stóp.",
+      "Wyląduj miękko na palcach stóp i powtórz skok, gdy linka ponownie nadejdzie.",
+      "Kontynuuj skakanie przez zaplanowany czas lub liczbę powtórzeń."
+    ],
+    "ko": [
+      "손으로 줄넘기의 손잡이를 잡되 손바닥이 안쪽을 향하도록 합니다.",
+      "발을 어깨너비로 벌리고 무릎을 약간 구부린 상태에서 섭니다.",
+      "줄을 머리 위로 휘저으면서 발 쪽으로 오는 줄을 뛰어넘습니다.",
+      "발가락 끝으로 부드럽게 착지하고 줄이 다시 오면 점프를 반복합니다.",
+      "원하는 시간이나 반복 횟수 동안 계속 뛰어넘습니다."
+    ],
+    "fr": [
+      "Tiens les poignées de la corde à sauter avec tes mains, les paumes tournées vers l'intérieur.",
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et les genoux légèrement fléchis.",
+      "Fais passer la corde au-dessus de ta tête et saute par-dessus lorsqu'elle arrive vers tes pieds.",
+      "Atterris en douceur sur la pointe des pieds et répète le saut lorsque la corde revient.",
+      "Continue à sauter pendant la durée ou le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "calves",
+  "secondary_muscles": [
+    "calves",
+    "quadriceps",
+    "hamstrings",
+    "glutes"
+  ],
+  "target": "cardiovascular system",
+  "image": "images/2612-e1e76I2.jpg",
+  "gif_url": "videos/2612-e1e76I2.gif",
+  "media_id": "e1e76I2",
+  "created_at": "2026-03-18T12:31:32.884844+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

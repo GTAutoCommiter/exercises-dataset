@@ -1,0 +1,122 @@
+{
+  "id": "1309",
+  "name": "smith wide grip decline bench press",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "smith machine",
+  "instructions": {
+    "en": "Adjust the decline bench to the desired angle. Lie down on the bench with your feet secured under the foot pads. Grasp the barbell with a wide grip, slightly wider than shoulder-width apart. Unrack the barbell and lower it slowly towards your chest, keeping your elbows pointed outwards. Pause for a moment when the barbell touches your chest. Push the barbell back up to the starting position, fully extending your arms. Repeat for the desired number of repetitions.",
+    "it": "Regolare la panca declinata all'angolazione desiderata. Sdraiati sulla panca con i piedi fissati sotto i poggiapiedi. Afferrare il bilanciere con una presa ampia, leggermente più larga della larghezza delle spalle. Togli il bilanciere e abbassalo lentamente verso il petto, mantenendo i gomiti rivolti verso l'esterno. Fai una pausa per un momento quando il bilanciere tocca il tuo petto. Spingi nuovamente il bilanciere nella posizione iniziale, estendendo completamente le braccia. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Düşme tezgahını istenilen açıya ayarlayın. Ayaklarınız ayak pedlerinin altına sabitlenmiş halde bankın üzerine uzanın. Halteri omuz genişliğinden biraz daha geniş, geniş bir tutuşla kavrayın. Halterin askısını açın ve dirseklerinizi dışarı bakacak şekilde yavaşça göğsünüze doğru indirin. Halter göğsünüze dokunduğunda bir an duraklayın. Kollarınızı tamamen uzatarak halteri başlangıç ​​pozisyonuna geri itin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta el banco declinado al ángulo deseado. Túmbate en el banco con los pies asegurados bajo las almohadillas para los pies. Agarra la barra con un agarre amplio, un poco más ancho que la separación de los hombros. Desengancha la barra y bájala lentamente hacia tu pecho, manteniendo los codos apuntando hacia afuera. Haz una pausa breve cuando la barra toque el pecho. Empuja la barra de vuelta a la posición inicial, extendiendo completamente los brazos. Repite el número de repeticiones deseado.",
+    "ru": "Отрегулируйте наклонную скамью под желаемым углом. Лягте на скамью, зафиксировав ноги под подушечками для ног. Возьмите штангу широким хватом, на расстоянии чуть шире ширины плеч. Снимите штангу и медленно опустите ее к груди, держа локти направленными наружу. Сделайте паузу на мгновение, когда штанга коснется вашей груди. Верните штангу в исходное положение, полностью выпрямив руки. Повторите необходимое количество повторений.",
+    "zh": "将下斜凳调整至所需角度。 躺在长凳上，双脚固定在脚垫下。 宽握距抓住杠铃，握距略宽于肩宽。 松开杠铃并将其慢慢降低到胸部，保持肘部朝外。 当杠铃触及胸部时暂停片刻。 将杠铃推回到起始位置，完全伸展双臂。 重复所需的重复次数。",
+    "hi": "डिक्लाइन बेंच को वांछित कोण पर समायोजित करें। अपने पैरों को फुट पैड के नीचे सुरक्षित रखते हुए बेंच पर लेट जाएँ। बारबेल को कंधे की चौड़ाई से थोड़ा अधिक चौड़ी पकड़ से पकड़ें। बारबेल को खोलें और अपनी कोहनियों को बाहर की ओर रखते हुए इसे धीरे-धीरे अपनी छाती की ओर नीचे करें। जब बारबेल आपकी छाती को छूए तो एक पल के लिए रुकें। अपनी भुजाओं को पूरी तरह फैलाते हुए बारबेल को वापस प्रारंभिक स्थिति में धकेलें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Ustaw ławkę skośną ujemną pod żądanym kątem. Połóż się na ławce, ze stopami zabezpieczonymi pod podkładkami. Chwyć sztangę szerokim chwytem, nieco szerszym niż szerokość barków. Zdejmij sztangę ze stojaka i powoli opuść ją w kierunku klatki piersiowej, trzymając łokcie skierowane na zewnątrz. Zatrzymaj się na chwilę, gdy sztanga dotknie klatki piersiowej. Wypchnij sztangę z powrotem do pozycji wyjściowej, całkowicie prostując ręce. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "내리막 벤치를 원하는 각도로 조정합니다. 벤치 위에 누워서 발을 발판 아래에 고정합니다. 어깨 너비보다 약간 넓은 너비의 와이드 그립으로 바벨을 잡습니다. 바벨을 언래크하고 팔꿈치를 바깥쪽으로 향하게 한 상태에서 천천히 가슴 쪽으로 내립니다. 바벨이 가슴에 닿을 때 잠깐 멈춥니다. 바벨을 시작 위치로 올려 팔을 완전히 펼칩니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Règle le banc décliné à l'angle souhaité. Allonge-toi sur le banc, les pieds bloqués sous les cale-pieds. Saisis la barre avec une prise large, un peu plus large que la largeur des épaules. Sors la barre du support et abaisse-la lentement vers ta poitrine, en gardant les coudes pointés vers l'extérieur. Marque une pause lorsque la barre touche ta poitrine. Repousse la barre vers le haut jusqu'à la position de départ en tendant complètement tes bras. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the decline bench to the desired angle.",
+      "Lie down on the bench with your feet secured under the foot pads.",
+      "Grasp the barbell with a wide grip, slightly wider than shoulder-width apart.",
+      "Unrack the barbell and lower it slowly towards your chest, keeping your elbows pointed outwards.",
+      "Pause for a moment when the barbell touches your chest.",
+      "Push the barbell back up to the starting position, fully extending your arms.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Regolare la panca declinata all'angolazione desiderata.",
+      "Sdraiati sulla panca con i piedi fissati sotto i poggiapiedi.",
+      "Afferrare il bilanciere con una presa ampia, leggermente più larga della larghezza delle spalle.",
+      "Togli il bilanciere e abbassalo lentamente verso il petto, mantenendo i gomiti rivolti verso l'esterno.",
+      "Fai una pausa per un momento quando il bilanciere tocca il tuo petto.",
+      "Spingi nuovamente il bilanciere nella posizione iniziale, estendendo completamente le braccia.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Düşme tezgahını istenilen açıya ayarlayın.",
+      "Ayaklarınız ayak pedlerinin altına sabitlenmiş halde bankın üzerine uzanın.",
+      "Halteri omuz genişliğinden biraz daha geniş, geniş bir tutuşla kavrayın.",
+      "Halterin askısını açın ve dirseklerinizi dışarı bakacak şekilde yavaşça göğsünüze doğru indirin.",
+      "Halter göğsünüze dokunduğunda bir an duraklayın.",
+      "Kollarınızı tamamen uzatarak halteri başlangıç ​​pozisyonuna geri itin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta el banco declinado al ángulo deseado.",
+      "Túmbate en el banco con los pies asegurados bajo las almohadillas para los pies.",
+      "Agarra la barra con un agarre amplio, un poco más ancho que la separación de los hombros.",
+      "Desengancha la barra y bájala lentamente hacia tu pecho, manteniendo los codos apuntando hacia afuera.",
+      "Haz una pausa breve cuando la barra toque el pecho.",
+      "Empuja la barra de vuelta a la posición inicial, extendiendo completamente los brazos.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Отрегулируйте наклонную скамью под желаемым углом.",
+      "Лягте на скамью, зафиксировав ноги под подушечками для ног.",
+      "Возьмите штангу широким хватом, на расстоянии чуть шире ширины плеч.",
+      "Снимите штангу и медленно опустите ее к груди, держа локти направленными наружу.",
+      "Сделайте паузу на мгновение, когда штанга коснется вашей груди.",
+      "Верните штангу в исходное положение, полностью выпрямив руки.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将下斜凳调整至所需角度。",
+      "躺在长凳上，双脚固定在脚垫下。",
+      "宽握距抓住杠铃，握距略宽于肩宽。",
+      "松开杠铃并将其慢慢降低到胸部，保持肘部朝外。",
+      "当杠铃触及胸部时暂停片刻。",
+      "将杠铃推回到起始位置，完全伸展双臂。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "डिक्लाइन बेंच को वांछित कोण पर समायोजित करें।",
+      "अपने पैरों को फुट पैड के नीचे सुरक्षित रखते हुए बेंच पर लेट जाएँ।",
+      "बारबेल को कंधे की चौड़ाई से थोड़ा अधिक चौड़ी पकड़ से पकड़ें।",
+      "बारबेल को खोलें और अपनी कोहनियों को बाहर की ओर रखते हुए इसे धीरे-धीरे अपनी छाती की ओर नीचे करें।",
+      "जब बारबेल आपकी छाती को छूए तो एक पल के लिए रुकें।",
+      "अपनी भुजाओं को पूरी तरह फैलाते हुए बारबेल को वापस प्रारंभिक स्थिति में धकेलें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Ustaw ławkę skośną ujemną pod żądanym kątem.",
+      "Połóż się na ławce, ze stopami zabezpieczonymi pod podkładkami.",
+      "Chwyć sztangę szerokim chwytem, nieco szerszym niż szerokość barków.",
+      "Zdejmij sztangę ze stojaka i powoli opuść ją w kierunku klatki piersiowej, trzymając łokcie skierowane na zewnątrz.",
+      "Zatrzymaj się na chwilę, gdy sztanga dotknie klatki piersiowej.",
+      "Wypchnij sztangę z powrotem do pozycji wyjściowej, całkowicie prostując ręce.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "내리막 벤치를 원하는 각도로 조정합니다.",
+      "벤치 위에 누워서 발을 발판 아래에 고정합니다.",
+      "어깨 너비보다 약간 넓은 너비의 와이드 그립으로 바벨을 잡습니다.",
+      "바벨을 언래크하고 팔꿈치를 바깥쪽으로 향하게 한 상태에서 천천히 가슴 쪽으로 내립니다.",
+      "바벨이 가슴에 닿을 때 잠깐 멈춥니다.",
+      "바벨을 시작 위치로 올려 팔을 완전히 펼칩니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Règle le banc décliné à l'angle souhaité.",
+      "Allonge-toi sur le banc, les pieds bloqués sous les cale-pieds.",
+      "Saisis la barre avec une prise large, un peu plus large que la largeur des épaules.",
+      "Sors la barre du support et abaisse-la lentement vers ta poitrine, en gardant les coudes pointés vers l'extérieur.",
+      "Marque une pause lorsque la barre touche ta poitrine.",
+      "Repousse la barre vers le haut jusqu'à la position de départ en tendant complètement tes bras.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "target": "pectorals",
+  "image": "images/1309-wi2H9QX.jpg",
+  "gif_url": "videos/1309-wi2H9QX.gif",
+  "media_id": "wi2H9QX",
+  "created_at": "2026-03-18T12:31:32.891256+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

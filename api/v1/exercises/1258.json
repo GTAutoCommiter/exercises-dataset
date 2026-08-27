@@ -1,0 +1,112 @@
+{
+  "id": "1258",
+  "name": "barbell wide reverse grip bench press",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Lie flat on a bench with your feet flat on the ground and your back pressed against the bench. Grasp the barbell with a wide reverse grip, slightly wider than shoulder-width apart. Lift the barbell off the rack and hold it directly above your chest with your arms fully extended. Lower the barbell slowly towards your chest, keeping your elbows tucked in and your wrists straight. Pause for a moment when the barbell touches your chest, then push it back up to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Sdraiati disteso su una panca con i piedi piatti a terra e la schiena premuta contro la panca. Afferra il bilanciere con una presa larga al contrario, leggermente più larga della larghezza delle spalle. Solleva il bilanciere dal rack e tienilo direttamente sopra il petto con le braccia completamente distese. Abbassa lentamente il bilanciere verso il petto, tenendo i gomiti raccolti e i polsi dritti. Fermati un attimo quando il bilanciere tocca il petto, poi spingilo di nuovo verso l'alto alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız yere düz basacak ve sırtınız banka yaslanacak şekilde bir bankın üzerine düz bir şekilde uzanın. Halteri omuz genişliğinden biraz daha geniş, geniş bir ters tutuşla kavrayın. Halteri raftan kaldırın ve kollarınız tamamen uzatılmış halde doğrudan göğsünüzün üzerinde tutun. Dirseklerinizi içeride ve bileklerinizi düz tutarak halterinizi yavaşça göğsünüze doğru indirin. Halter göğsünüze dokunduğunda bir an duraklayın, ardından başlangıç ​​pozisyonuna geri itin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Túmbate sobre un banco con los pies apoyados en el suelo y la espalda presionada contra el banco. Sujeta la barra con un agarre supino amplio, un poco más separado que el ancho de los hombros. Levanta la barra del soporte y sostenla directamente sobre el pecho con los brazos completamente extendidos. Baja la barra lentamente hacia el pecho, manteniendo los codos pegados al cuerpo y las muñecas rectas. Haz una pausa breve cuando la barra toque el pecho y luego empújala de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Лягте на скамью, поставьте ступни на землю и прижмите спину к скамье. Возьмите штангу широким обратным хватом, на расстоянии чуть шире ширины плеч. Снимите штангу со стойки и держите ее прямо над грудью, полностью вытянув руки. Медленно опустите штангу к груди, держа локти согнутыми и запястья прямыми. Сделайте паузу на мгновение, когда штанга коснется вашей груди, затем поднимите ее обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "平躺在长凳上，双脚平放在地上，背部紧贴长凳。 反握宽握杠铃，握距略宽于肩宽。 将杠铃从架子上提起，并将其直接放在胸部上方，双臂完全伸展。 将杠铃慢慢降低到胸部，保持肘部内收，手腕伸直。 当杠铃接触胸部时暂停片刻，然后将其推回到起始位置。 重复所需的重复次数。",
+    "hi": "एक बेंच पर सीधे लेट जाएं और आपके पैर जमीन पर सपाट हों और आपकी पीठ बेंच से सटी हुई हो। बारबेल को कंधे की चौड़ाई से थोड़ा चौड़ा, चौड़ी रिवर्स ग्रिप से पकड़ें। बारबेल को रैक से उठाएं और अपनी बाहों को पूरी तरह फैलाकर सीधे अपनी छाती के ऊपर पकड़ें। अपनी कोहनियों को अंदर की ओर और अपनी कलाइयों को सीधा रखते हुए, बारबेल को धीरे-धीरे अपनी छाती की ओर नीचे लाएँ। जब बारबेल आपकी छाती को छू ले तो एक पल के लिए रुकें, फिर उसे वापस प्रारंभिक स्थिति में धकेलें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Połóż się płasko na ławce, ze stopami płasko na podłodze, a plecami dociśniętymi do ławki. Chwyć sztangę szerokim chwytem podchwytem, nieco szerzej niż na szerokość barków. Zdejmij sztangę ze stojaka i trzymaj ją bezpośrednio nad klatką piersiową, z ramionami w pełni wyprostowanymi. Opuszczaj sztangę powoli w kierunku klatki piersiowej, trzymając łokcie przy tułowiu, a nadgarstki proste. Zatrzymaj się na chwilę, gdy sztanga dotknie klatki piersiowej, a następnie wypchnij ją z powrotem do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "벤치에 평평하게 누워 발을 땅에 디디고 등을 벤치에 밀착합니다. 손을 어깨 너비보다 넓게 벌려 손바닥이 안쪽을 향하도록 바벨을 잡습니다. 바벨을 랙에서 들어올려 가슴 위에서 팔을 완전히 펼친 상태로 유지합니다. 바벨을 천천히 가슴 쪽으로 내리되 팔꿈치를 몸에 붙이고 손목은 곧게 유지합니다. 바벨이 가슴에 닿으면 잠깐 멈춘 후, 다시 시작 위치로 밀어 올립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Allonge-toi à plat sur un banc, les pieds à plat au sol et le dos plaqué contre le banc. Saisis la barre avec une prise inversée large, un peu plus large que la largeur des épaules. Soulève la barre du rack et maintiens-la directement au-dessus de ta poitrine, les bras complètement tendus. Abaisse lentement la barre vers ta poitrine, en gardant tes coudes serrés et tes poignets droits. Marque une pause lorsque la barre touche ta poitrine, puis repousse-la vers le haut pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Lie flat on a bench with your feet flat on the ground and your back pressed against the bench.",
+      "Grasp the barbell with a wide reverse grip, slightly wider than shoulder-width apart.",
+      "Lift the barbell off the rack and hold it directly above your chest with your arms fully extended.",
+      "Lower the barbell slowly towards your chest, keeping your elbows tucked in and your wrists straight.",
+      "Pause for a moment when the barbell touches your chest, then push it back up to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Sdraiati disteso su una panca con i piedi piatti a terra e la schiena premuta contro la panca.",
+      "Afferra il bilanciere con una presa larga al contrario, leggermente più larga della larghezza delle spalle.",
+      "Solleva il bilanciere dal rack e tienilo direttamente sopra il petto con le braccia completamente distese.",
+      "Abbassa lentamente il bilanciere verso il petto, tenendo i gomiti raccolti e i polsi dritti.",
+      "Fermati un attimo quando il bilanciere tocca il petto, poi spingilo di nuovo verso l'alto alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız yere düz basacak ve sırtınız banka yaslanacak şekilde bir bankın üzerine düz bir şekilde uzanın.",
+      "Halteri omuz genişliğinden biraz daha geniş, geniş bir ters tutuşla kavrayın.",
+      "Halteri raftan kaldırın ve kollarınız tamamen uzatılmış halde doğrudan göğsünüzün üzerinde tutun.",
+      "Dirseklerinizi içeride ve bileklerinizi düz tutarak halterinizi yavaşça göğsünüze doğru indirin.",
+      "Halter göğsünüze dokunduğunda bir an duraklayın, ardından başlangıç ​​pozisyonuna geri itin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Túmbate sobre un banco con los pies apoyados en el suelo y la espalda presionada contra el banco.",
+      "Sujeta la barra con un agarre supino amplio, un poco más separado que el ancho de los hombros.",
+      "Levanta la barra del soporte y sostenla directamente sobre el pecho con los brazos completamente extendidos.",
+      "Baja la barra lentamente hacia el pecho, manteniendo los codos pegados al cuerpo y las muñecas rectas.",
+      "Haz una pausa breve cuando la barra toque el pecho y luego empújala de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Лягте на скамью, поставьте ступни на землю и прижмите спину к скамье.",
+      "Возьмите штангу широким обратным хватом, на расстоянии чуть шире ширины плеч.",
+      "Снимите штангу со стойки и держите ее прямо над грудью, полностью вытянув руки.",
+      "Медленно опустите штангу к груди, держа локти согнутыми и запястья прямыми.",
+      "Сделайте паузу на мгновение, когда штанга коснется вашей груди, затем поднимите ее обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "平躺在长凳上，双脚平放在地上，背部紧贴长凳。",
+      "反握宽握杠铃，握距略宽于肩宽。",
+      "将杠铃从架子上提起，并将其直接放在胸部上方，双臂完全伸展。",
+      "将杠铃慢慢降低到胸部，保持肘部内收，手腕伸直。",
+      "当杠铃接触胸部时暂停片刻，然后将其推回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "एक बेंच पर सीधे लेट जाएं और आपके पैर जमीन पर सपाट हों और आपकी पीठ बेंच से सटी हुई हो।",
+      "बारबेल को कंधे की चौड़ाई से थोड़ा चौड़ा, चौड़ी रिवर्स ग्रिप से पकड़ें।",
+      "बारबेल को रैक से उठाएं और अपनी बाहों को पूरी तरह फैलाकर सीधे अपनी छाती के ऊपर पकड़ें।",
+      "अपनी कोहनियों को अंदर की ओर और अपनी कलाइयों को सीधा रखते हुए, बारबेल को धीरे-धीरे अपनी छाती की ओर नीचे लाएँ।",
+      "जब बारबेल आपकी छाती को छू ले तो एक पल के लिए रुकें, फिर उसे वापस प्रारंभिक स्थिति में धकेलें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Połóż się płasko na ławce, ze stopami płasko na podłodze, a plecami dociśniętymi do ławki.",
+      "Chwyć sztangę szerokim chwytem podchwytem, nieco szerzej niż na szerokość barków.",
+      "Zdejmij sztangę ze stojaka i trzymaj ją bezpośrednio nad klatką piersiową, z ramionami w pełni wyprostowanymi.",
+      "Opuszczaj sztangę powoli w kierunku klatki piersiowej, trzymając łokcie przy tułowiu, a nadgarstki proste.",
+      "Zatrzymaj się na chwilę, gdy sztanga dotknie klatki piersiowej, a następnie wypchnij ją z powrotem do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "벤치에 평평하게 누워 발을 땅에 디디고 등을 벤치에 밀착합니다.",
+      "손을 어깨 너비보다 넓게 벌려 손바닥이 안쪽을 향하도록 바벨을 잡습니다.",
+      "바벨을 랙에서 들어올려 가슴 위에서 팔을 완전히 펼친 상태로 유지합니다.",
+      "바벨을 천천히 가슴 쪽으로 내리되 팔꿈치를 몸에 붙이고 손목은 곧게 유지합니다.",
+      "바벨이 가슴에 닿으면 잠깐 멈춘 후, 다시 시작 위치로 밀어 올립니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Allonge-toi à plat sur un banc, les pieds à plat au sol et le dos plaqué contre le banc.",
+      "Saisis la barre avec une prise inversée large, un peu plus large que la largeur des épaules.",
+      "Soulève la barre du rack et maintiens-la directement au-dessus de ta poitrine, les bras complètement tendus.",
+      "Abaisse lentement la barre vers ta poitrine, en gardant tes coudes serrés et tes poignets droits.",
+      "Marque une pause lorsque la barre touche ta poitrine, puis repousse-la vers le haut pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "target": "pectorals",
+  "image": "images/1258-945zpRg.jpg",
+  "gif_url": "videos/1258-945zpRg.gif",
+  "media_id": "945zpRg",
+  "created_at": "2026-03-18T12:31:32.87345+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

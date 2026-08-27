@@ -1,0 +1,132 @@
+[
+  {
+    "id": "0014",
+    "name": "assisted motion russian twist",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "medicine ball",
+    "target": "abs",
+    "image": "images/0014-r7cT9YD.jpg",
+    "gif_url": "videos/0014-r7cT9YD.gif"
+  },
+  {
+    "id": "1353",
+    "name": "medicine ball catch and overhead throw",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "medicine ball",
+    "target": "lats",
+    "image": "images/1353-PsVS1QP.jpg",
+    "gif_url": "videos/1353-PsVS1QP.gif"
+  },
+  {
+    "id": "1302",
+    "name": "medicine ball chest pass",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "medicine ball",
+    "target": "pectorals",
+    "image": "images/1302-aDoFKrE.jpg",
+    "gif_url": "videos/1302-aDoFKrE.gif"
+  },
+  {
+    "id": "1303",
+    "name": "medicine ball chest push from 3 point stance",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "medicine ball",
+    "target": "pectorals",
+    "image": "images/1303-dCJnuVq.jpg",
+    "gif_url": "videos/1303-dCJnuVq.gif"
+  },
+  {
+    "id": "1304",
+    "name": "medicine ball chest push multiple response",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "medicine ball",
+    "target": "pectorals",
+    "image": "images/1304-7aolH9D.jpg",
+    "gif_url": "videos/1304-7aolH9D.gif"
+  },
+  {
+    "id": "1305",
+    "name": "medicine ball chest push single response",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "medicine ball",
+    "target": "pectorals",
+    "image": "images/1305-jeHtrlO.jpg",
+    "gif_url": "videos/1305-jeHtrlO.gif"
+  },
+  {
+    "id": "1312",
+    "name": "medicine ball chest push with run release",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "medicine ball",
+    "target": "pectorals",
+    "image": "images/1312-pX9Elbe.jpg",
+    "gif_url": "videos/1312-pX9Elbe.gif"
+  },
+  {
+    "id": "1701",
+    "name": "medicine ball close grip push up",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "medicine ball",
+    "target": "triceps",
+    "image": "images/1701-8K7m2SS.jpg",
+    "gif_url": "videos/1701-8K7m2SS.gif"
+  },
+  {
+    "id": "1354",
+    "name": "medicine ball overhead slam",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "medicine ball",
+    "target": "upper back",
+    "image": "images/1354-oHg8eop.jpg",
+    "gif_url": "videos/1354-oHg8eop.gif"
+  },
+  {
+    "id": "1750",
+    "name": "medicine ball supine chest throw",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "medicine ball",
+    "target": "triceps",
+    "image": "images/1750-Al3tP0D.jpg",
+    "gif_url": "videos/1750-Al3tP0D.gif"
+  },
+  {
+    "id": "0640",
+    "name": "one arm slam (with medicine ball)",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "medicine ball",
+    "target": "abs",
+    "image": "images/0640-jCrtE9b.jpg",
+    "gif_url": "videos/0640-jCrtE9b.gif"
+  },
+  {
+    "id": "0663",
+    "name": "push-up medicine ball",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "medicine ball",
+    "target": "pectorals",
+    "image": "images/0663-W8KAlkI.jpg",
+    "gif_url": "videos/0663-W8KAlkI.gif"
+  },
+  {
+    "id": "0847",
+    "name": "weighted seated bicep curl (on stability ball)",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "medicine ball",
+    "target": "biceps",
+    "image": "images/0847-b4b6afT.jpg",
+    "gif_url": "videos/0847-b4b6afT.gif"
+  }
+]

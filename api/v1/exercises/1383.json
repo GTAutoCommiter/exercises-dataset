@@ -1,0 +1,112 @@
+{
+  "id": "1383",
+  "name": "hack calf raise",
+  "category": "lower legs",
+  "body_part": "lower legs",
+  "equipment": "sled machine",
+  "instructions": {
+    "en": "Adjust the sled machine to a comfortable weight. Stand on the sled machine with your toes on the platform and your heels hanging off. Hold onto the handles for stability. Raise your heels as high as possible by pushing through the balls of your feet. Pause for a moment at the top, then slowly lower your heels back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Regolare la macchina a slitta su un peso confortevole. Stai sulla macchina da slitta con le dita dei piedi sulla piattaforma e i talloni pendenti. Aggrapparsi alle maniglie per stabilità. Alza i talloni il più in alto possibile spingendo attraverso le punte dei piedi. Fai una pausa per un momento in alto, quindi abbassa lentamente i talloni nella posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Kızak makinesini rahat bir ağırlığa ayarlayın. Ayak parmaklarınız platformda ve topuklarınız sarkacak şekilde kızak makinesinin üzerinde durun. Denge için tutamaklardan tutun. Ayak parmak uçlarınızı iterek topuklarınızı mümkün olduğu kadar yükseğe kaldırın. Tepe noktasında bir an duraklayın, ardından topuklarınızı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta la máquina de trineo a un peso adecuado. Ponte de pie sobre la máquina de trineo con la punta de los pies en la plataforma y los talones colgando. Sujétate de las asas para mantener el equilibrio. Levanta los talones lo más alto posible empujando con la punta de los pies. Haz una pausa breve en la parte alta y luego baja lentamente los talones de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Отрегулируйте сани до удобного веса. Встаньте на санки, положив пальцы ног на платформу и свесив пятки. Держитесь за ручки для устойчивости. Поднимите пятки как можно выше, толкая подушечки стоп. Задержитесь на мгновение в верхней точке, затем медленно опустите пятки обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "将雪橇机调整至舒适的重量。 站在雪橇机上，脚趾放在平台上，脚后跟悬空。 握住手柄以保持稳定性。 通过推动脚掌将脚后跟尽可能抬高。 在顶部停顿片刻，然后慢慢降低脚后跟回到起始位置。 重复所需的重复次数。",
+    "hi": "स्लेज मशीन को आरामदायक वजन के अनुसार समायोजित करें। स्लेज मशीन पर अपने पैर की उंगलियों को प्लेटफॉर्म पर रखें और अपनी एड़ियों को लटकाकर खड़े रहें। स्थिरता के लिए हैंडल को पकड़ें। अपने पैरों की उंगलियों से धक्का देकर अपनी एड़ियों को जितना संभव हो उतना ऊपर उठाएं। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपनी एड़ियों को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Ustaw maszynę suwnicową na wygodny ciężar. Stań na maszynie suwnicowej, opierając palce stóp na platformie, a pięty pozostawiając w powietrzu. Chwyć się uchwytów dla stabilizacji. Unieś pięty jak najwyżej, odpychając się palcami stóp. Zatrzymaj się na chwilę na górze, a następnie powoli opuść pięty z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę razy.",
+    "ko": "슬래드 머신을 편한 무게로 조정합니다. 슬래드 머신에 발가락은 플랫폼에, 발뒤꿈치는 내려진 상태로 선 후 손잡이를 잡아 안정성을 유지합니다. 발의 앞부분으로 밀어 발뒤꿈치를 최대한 높게 올립니다. 위쪽에서 잠깐 멈추었다가 발뒤꿈치를 천천히 시작 위치로 내립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Règle la machine à traîneau sur un poids confortable. Tiens-toi sur la machine à traîneau, les orteils sur la plateforme et les talons dans le vide. Tiens-toi aux poignées pour la stabilité. Lève tes talons aussi haut que possible en poussant sur la plante de tes pieds. Marque une pause en haut, puis abaisse lentement tes talons pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the sled machine to a comfortable weight.",
+      "Stand on the sled machine with your toes on the platform and your heels hanging off.",
+      "Hold onto the handles for stability.",
+      "Raise your heels as high as possible by pushing through the balls of your feet.",
+      "Pause for a moment at the top, then slowly lower your heels back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Regolare la macchina a slitta su un peso confortevole.",
+      "Stai sulla macchina da slitta con le dita dei piedi sulla piattaforma e i talloni pendenti.",
+      "Aggrapparsi alle maniglie per stabilità.",
+      "Alza i talloni il più in alto possibile spingendo attraverso le punte dei piedi.",
+      "Fai una pausa per un momento in alto, quindi abbassa lentamente i talloni nella posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Kızak makinesini rahat bir ağırlığa ayarlayın.",
+      "Ayak parmaklarınız platformda ve topuklarınız sarkacak şekilde kızak makinesinin üzerinde durun.",
+      "Denge için tutamaklardan tutun.",
+      "Ayak parmak uçlarınızı iterek topuklarınızı mümkün olduğu kadar yükseğe kaldırın.",
+      "Tepe noktasında bir an duraklayın, ardından topuklarınızı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta la máquina de trineo a un peso adecuado.",
+      "Ponte de pie sobre la máquina de trineo con la punta de los pies en la plataforma y los talones colgando.",
+      "Sujétate de las asas para mantener el equilibrio.",
+      "Levanta los talones lo más alto posible empujando con la punta de los pies.",
+      "Haz una pausa breve en la parte alta y luego baja lentamente los talones de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Отрегулируйте сани до удобного веса.",
+      "Встаньте на санки, положив пальцы ног на платформу и свесив пятки.",
+      "Держитесь за ручки для устойчивости.",
+      "Поднимите пятки как можно выше, толкая подушечки стоп.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите пятки обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将雪橇机调整至舒适的重量。",
+      "站在雪橇机上，脚趾放在平台上，脚后跟悬空。",
+      "握住手柄以保持稳定性。",
+      "通过推动脚掌将脚后跟尽可能抬高。",
+      "在顶部停顿片刻，然后慢慢降低脚后跟回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "स्लेज मशीन को आरामदायक वजन के अनुसार समायोजित करें।",
+      "स्लेज मशीन पर अपने पैर की उंगलियों को प्लेटफॉर्म पर रखें और अपनी एड़ियों को लटकाकर खड़े रहें।",
+      "स्थिरता के लिए हैंडल को पकड़ें।",
+      "अपने पैरों की उंगलियों से धक्का देकर अपनी एड़ियों को जितना संभव हो उतना ऊपर उठाएं।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपनी एड़ियों को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Ustaw maszynę suwnicową na wygodny ciężar.",
+      "Stań na maszynie suwnicowej, opierając palce stóp na platformie, a pięty pozostawiając w powietrzu.",
+      "Chwyć się uchwytów dla stabilizacji.",
+      "Unieś pięty jak najwyżej, odpychając się palcami stóp.",
+      "Zatrzymaj się na chwilę na górze, a następnie powoli opuść pięty z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "슬래드 머신을 편한 무게로 조정합니다.",
+      "슬래드 머신에 발가락은 플랫폼에, 발뒤꿈치는 내려진 상태로 섭니다.",
+      "손잡이를 잡아 안정성을 유지합니다.",
+      "발의 앞부분으로 밀어 발뒤꿈치를 최대한 높게 올립니다.",
+      "위쪽에서 잠깐 멈추었다가 발뒤꿈치를 천천히 시작 위치로 내립니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Règle la machine à traîneau sur un poids confortable.",
+      "Tiens-toi sur la machine à traîneau, les orteils sur la plateforme et les talons dans le vide.",
+      "Tiens-toi aux poignées pour la stabilité.",
+      "Lève tes talons aussi haut que possible en poussant sur la plante de tes pieds.",
+      "Marque une pause en haut, puis abaisse lentement tes talons pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings",
+    "glutes"
+  ],
+  "target": "calves",
+  "image": "images/1383-2ORFMoR.jpg",
+  "gif_url": "videos/1383-2ORFMoR.gif",
+  "media_id": "2ORFMoR",
+  "created_at": "2026-03-18T12:31:32.883967+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

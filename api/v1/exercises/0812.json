@@ -1,0 +1,102 @@
+{
+  "id": "0812",
+  "name": "triceps dip (bench leg)",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Sit on the edge of a bench with your hands gripping the edge, fingers pointing forward. Walk your feet forward, sliding your butt off the bench, and straighten your arms. Bend your elbows and lower your body towards the ground, keeping your back close to the bench. Push through your palms to straighten your arms and return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Sedersi sul bordo di una panca con le mani che afferrano il bordo, le dita rivolte in avanti. Cammina con i piedi in avanti, facendo scivolare il sedere fuori dalla panca e raddrizza le braccia. Piega i gomiti e abbassa il corpo verso terra, mantenendo la schiena aderente alla panca. Spingi attraverso i palmi delle mani per raddrizzare le braccia e tornare alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Elleriniz kenarı kavrayarak, parmaklarınız ileriyi gösterecek şekilde bir bankın kenarına oturun. Ayaklarınızı ileri doğru yürütün, kıçınızı banktan aşağı kaydırın ve kollarınızı düzleştirin. Dirseklerinizi bükün ve sırtınızı benche yakın tutarak vücudunuzu yere doğru indirin. Kollarınızı düzleştirmek ve başlangıç ​​pozisyonuna dönmek için avuçlarınızı itin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Siéntate en el borde de un banco con las manos agarrando el borde, los dedos apuntando hacia adelante. Camina con los pies hacia adelante, deslizando los glúteos fuera del banco, y estira los brazos. Flexiona los codos y baja el cuerpo hacia el suelo, manteniendo la espalda cerca del banco. Empuja con las palmas para estirar los brazos y regresar a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Сядьте на край скамьи, взявшись руками за край, пальцами вперед. Пройдите ногами вперед, сдвинув ягодицы со скамьи, и выпрямите руки. Согните локти и опустите тело к земле, держа спину близко к скамье. Оттолкнитесь ладонями, чтобы выпрямить руки и вернуться в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "坐在长凳边缘，双手抓住边缘，手指指向前方。 双脚向前走，将臀部滑离长凳，然后伸直手臂。 弯曲肘部，将身体放低至地面，保持背部靠近长凳。 推动手掌以伸直手臂并返回到起始位置。 重复所需的重复次数。",
+    "hi": "बेंच के किनारे पर बैठें और अपने हाथों से किनारे को पकड़ें, उंगलियाँ आगे की ओर हों। अपने पैरों को आगे बढ़ाएं, अपने बट को बेंच से सरकाएं और अपनी बाहों को सीधा करें। अपनी कोहनियों को मोड़ें और अपने शरीर को ज़मीन की ओर नीचे करें, अपनी पीठ को बेंच के पास रखें। अपनी भुजाओं को सीधा करने के लिए अपनी हथेलियों से धक्का दें और प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Usiądź na krawędzi ławki, trzymając dłońmi jej krawędź, palcami skierowanymi do przodu. Zrób krok stopami do przodu, zsuwając pośladki z ławki i prostując ramiona. Ugnij łokcie i opuść ciało w stronę podłoża, trzymając plecy blisko ławki. Wypchnij się dłońmi, aby wyprostować ramiona i wrócić do pozycji wyjściowej. Powtórz zgodnie z żądaną liczbą powtórzeń.",
+    "ko": "벤치의 가장자리에 앉아 손으로 가장자리를 잡고 손가락은 앞을 향하게 합니다. 발을 앞으로 걸어가며 엉덩이를 벤치에서 미끄러뜨리고 팔을 쭉 펴줍니다. 팔꿈치를 구부려 몸을 땅 방향으로 내립니다. 이때 등을 벤치에 가깝게 유지합니다. 손가락으로 밀어 팔을 펴고 시작 위치로 돌아옵니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Assieds-toi au bord d'un banc, les mains agrippant le bord, doigts pointant vers l'avant. Avance les pieds en faisant glisser tes fesses hors du banc, puis tends les bras. Plie tes coudes et abaisse ton corps vers le sol en gardant ton dos près du banc. Pousse à travers tes paumes pour tendre tes bras et revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on the edge of a bench with your hands gripping the edge, fingers pointing forward.",
+      "Walk your feet forward, sliding your butt off the bench, and straighten your arms.",
+      "Bend your elbows and lower your body towards the ground, keeping your back close to the bench.",
+      "Push through your palms to straighten your arms and return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Sedersi sul bordo di una panca con le mani che afferrano il bordo, le dita rivolte in avanti.",
+      "Cammina con i piedi in avanti, facendo scivolare il sedere fuori dalla panca e raddrizza le braccia.",
+      "Piega i gomiti e abbassa il corpo verso terra, mantenendo la schiena aderente alla panca.",
+      "Spingi attraverso i palmi delle mani per raddrizzare le braccia e tornare alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Elleriniz kenarı kavrayarak, parmaklarınız ileriyi gösterecek şekilde bir bankın kenarına oturun.",
+      "Ayaklarınızı ileri doğru yürütün, kıçınızı banktan kaydırın ve kollarınızı düzleştirin.",
+      "Dirseklerinizi bükün ve sırtınızı benche yakın tutarak vücudunuzu yere doğru indirin.",
+      "Kollarınızı düzleştirmek ve başlangıç ​​pozisyonuna dönmek için avuçlarınızı itin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Siéntate en el borde de un banco con las manos agarrando el borde, los dedos apuntando hacia adelante.",
+      "Camina con los pies hacia adelante, deslizando los glúteos fuera del banco, y estira los brazos.",
+      "Flexiona los codos y baja el cuerpo hacia el suelo, manteniendo la espalda cerca del banco.",
+      "Empuja con las palmas para estirar los brazos y regresar a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на край скамьи, взявшись руками за край, пальцами вперед.",
+      "Пройдите ногами вперед, сдвинув ягодицы со скамьи, и выпрямите руки.",
+      "Согните локти и опустите тело к земле, держа спину близко к скамье.",
+      "Оттолкнитесь ладонями, чтобы выпрямить руки и вернуться в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "坐在长凳边缘，双手抓住边缘，手指指向前方。",
+      "双脚向前走，将臀部滑离长凳，然后伸直手臂。",
+      "弯曲肘部，将身体放低至地面，保持背部靠近长凳。",
+      "推动手掌以伸直手臂并返回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "बेंच के किनारे पर बैठें और अपने हाथों से किनारे को पकड़ें, उंगलियाँ आगे की ओर हों।",
+      "अपने पैरों को आगे बढ़ाएं, अपने बट को बेंच से सरकाएं और अपनी बाहों को सीधा करें।",
+      "अपनी कोहनियों को मोड़ें और अपने शरीर को ज़मीन की ओर नीचे करें, अपनी पीठ को बेंच के पास रखें।",
+      "अपनी भुजाओं को सीधा करने के लिए अपनी हथेलियों से धक्का दें और प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Usiądź na krawędzi ławki, trzymając dłońmi jej krawędź, palcami skierowanymi do przodu.",
+      "Zrób krok stopami do przodu, zsuwając pośladki z ławki i prostując ramiona.",
+      "Ugnij łokcie i opuść ciało w stronę podłoża, trzymając plecy blisko ławki.",
+      "Wypchnij się dłońmi, aby wyprostować ramiona i wrócić do pozycji wyjściowej.",
+      "Powtórz zgodnie z żądaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "벤치의 가장자리에 앉아 손으로 가장자리를 잡고 손가락은 앞을 향하게 합니다.",
+      "발을 앞으로 걸어가며 엉덩이를 벤치에서 미끄러뜨리고 팔을 쭉 펴줍니다.",
+      "팔꿈치를 구부려 몸을 땅 방향으로 내립니다. 이때 등을 벤치에 가깝게 유지합니다.",
+      "손가락으로 밀어 팔을 펴고 시작 위치로 돌아옵니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Assieds-toi au bord d'un banc, les mains agrippant le bord, doigts pointant vers l'avant.",
+      "Avance les pieds en faisant glisser tes fesses hors du banc, puis tends les bras.",
+      "Plie tes coudes et abaisse ton corps vers le sol en gardant ton dos près du banc.",
+      "Pousse à travers tes paumes pour tendre tes bras et revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "chest",
+  "secondary_muscles": [
+    "chest",
+    "shoulders"
+  ],
+  "target": "triceps",
+  "image": "images/0812-VuoerH0.jpg",
+  "gif_url": "videos/0812-VuoerH0.gif",
+  "media_id": "VuoerH0",
+  "created_at": "2026-03-18T12:31:32.905305+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

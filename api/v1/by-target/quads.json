@@ -1,0 +1,442 @@
+[
+  {
+    "id": "1512",
+    "name": "all fours squad stretch",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "quads",
+    "image": "images/1512-qBcKorM.jpg",
+    "gif_url": "videos/1512-qBcKorM.gif"
+  },
+  {
+    "id": "1713",
+    "name": "assisted prone lying quads stretch",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "assisted",
+    "target": "quads",
+    "image": "images/1713-YUYAMEj.jpg",
+    "gif_url": "videos/1713-YUYAMEj.gif"
+  },
+  {
+    "id": "1473",
+    "name": "backward jump",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "quads",
+    "image": "images/1473-SaDOwk7.jpg",
+    "gif_url": "videos/1473-SaDOwk7.gif"
+  },
+  {
+    "id": "0020",
+    "name": "balance board",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "quads",
+    "image": "images/0020-xAySMB0.jpg",
+    "gif_url": "videos/0020-xAySMB0.gif"
+  },
+  {
+    "id": "0987",
+    "name": "band one arm single leg split squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "band",
+    "target": "quads",
+    "image": "images/0987-arsYEd3.jpg",
+    "gif_url": "videos/0987-arsYEd3.gif"
+  },
+  {
+    "id": "1001",
+    "name": "band single leg split squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "band",
+    "target": "quads",
+    "image": "images/1001-y8bYM8w.jpg",
+    "gif_url": "videos/1001-y8bYM8w.gif"
+  },
+  {
+    "id": "0024",
+    "name": "barbell bench front squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "quads",
+    "image": "images/0024-Y7YcmIJ.jpg",
+    "gif_url": "videos/0024-Y7YcmIJ.gif"
+  },
+  {
+    "id": "0026",
+    "name": "barbell bench squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "quads",
+    "image": "images/0026-W9pFVv1.jpg",
+    "gif_url": "videos/0026-W9pFVv1.gif"
+  },
+  {
+    "id": "0028",
+    "name": "barbell clean and press",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "quads",
+    "image": "images/0028-SGY8Zui.jpg",
+    "gif_url": "videos/0028-SGY8Zui.gif"
+  },
+  {
+    "id": "0068",
+    "name": "barbell one leg squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "quads",
+    "image": "images/0068-uKyN64F.jpg",
+    "gif_url": "videos/0068-uKyN64F.gif"
+  },
+  {
+    "id": "0069",
+    "name": "barbell overhead squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "quads",
+    "image": "images/0069-gfk9kD4.jpg",
+    "gif_url": "videos/0069-gfk9kD4.gif"
+  },
+  {
+    "id": "0098",
+    "name": "barbell side split squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "quads",
+    "image": "images/0098-W31mMjd.jpg",
+    "gif_url": "videos/0098-W31mMjd.gif"
+  },
+  {
+    "id": "0097",
+    "name": "barbell side split squat v. 2",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "quads",
+    "image": "images/0097-HUEqZ1y.jpg",
+    "gif_url": "videos/0097-HUEqZ1y.gif"
+  },
+  {
+    "id": "0099",
+    "name": "barbell single leg split squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "quads",
+    "image": "images/0099-gGNQmVt.jpg",
+    "gif_url": "videos/0099-gGNQmVt.gif"
+  },
+  {
+    "id": "2810",
+    "name": "barbell split squat v. 2",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "quads",
+    "image": "images/2810-HBYyX94.jpg",
+    "gif_url": "videos/2810-HBYyX94.gif"
+  },
+  {
+    "id": "0102",
+    "name": "barbell squat (on knees)",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "quads",
+    "image": "images/0102-oR7O9LW.jpg",
+    "gif_url": "videos/0102-oR7O9LW.gif"
+  },
+  {
+    "id": "2798",
+    "name": "barbell squat jump step rear lunge",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "quads",
+    "image": "images/2798-RYcV1kH.jpg",
+    "gif_url": "videos/2798-RYcV1kH.gif"
+  },
+  {
+    "id": "0124",
+    "name": "barbell wide squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "quads",
+    "image": "images/0124-s7HX1BY.jpg",
+    "gif_url": "videos/0124-s7HX1BY.gif"
+  },
+  {
+    "id": "1548",
+    "name": "chair leg extended stretch",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "quads",
+    "image": "images/1548-xGgAGPm.jpg",
+    "gif_url": "videos/1548-xGgAGPm.gif"
+  },
+  {
+    "id": "1760",
+    "name": "dumbbell goblet squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "dumbbell",
+    "target": "quads",
+    "image": "images/1760-yn8yg1r.jpg",
+    "gif_url": "videos/1760-yn8yg1r.gif"
+  },
+  {
+    "id": "0410",
+    "name": "dumbbell single leg split squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "dumbbell",
+    "target": "quads",
+    "image": "images/0410-qx4fgX7.jpg",
+    "gif_url": "videos/0410-qx4fgX7.gif"
+  },
+  {
+    "id": "2796",
+    "name": "dumbbell step-up lunge",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "dumbbell",
+    "target": "quads",
+    "image": "images/2796-gFyFj9z.jpg",
+    "gif_url": "videos/2796-gFyFj9z.gif"
+  },
+  {
+    "id": "2812",
+    "name": "dumbbell step-up split squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "dumbbell",
+    "target": "quads",
+    "image": "images/2812-QjE2DcA.jpg",
+    "gif_url": "videos/2812-QjE2DcA.gif"
+  },
+  {
+    "id": "2803",
+    "name": "dumbbell supported squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "dumbbell",
+    "target": "quads",
+    "image": "images/2803-r5DgrW9.jpg",
+    "gif_url": "videos/2803-r5DgrW9.gif"
+  },
+  {
+    "id": "2133",
+    "name": "farmers walk",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "dumbbell",
+    "target": "quads",
+    "image": "images/2133-qPEzJjA.jpg",
+    "gif_url": "videos/2133-qPEzJjA.gif"
+  },
+  {
+    "id": "1472",
+    "name": "forward jump",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "quads",
+    "image": "images/1472-uZKq7lo.jpg",
+    "gif_url": "videos/1472-uZKq7lo.gif"
+  },
+  {
+    "id": "1564",
+    "name": "intermediate hip flexor and quad stretch",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "rope",
+    "target": "quads",
+    "image": "images/1564-tFGKm99.jpg",
+    "gif_url": "videos/1564-tFGKm99.gif"
+  },
+  {
+    "id": "2287",
+    "name": "lever alternate leg press",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "leverage machine",
+    "target": "quads",
+    "image": "images/2287-V07qpXy.jpg",
+    "gif_url": "videos/2287-V07qpXy.gif"
+  },
+  {
+    "id": "0585",
+    "name": "lever leg extension",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "leverage machine",
+    "target": "quads",
+    "image": "images/0585-my33uHU.jpg",
+    "gif_url": "videos/0585-my33uHU.gif"
+  },
+  {
+    "id": "0613",
+    "name": "lying (side) quads stretch",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "quads",
+    "image": "images/0613-BWnJR72.jpg",
+    "gif_url": "videos/0613-BWnJR72.gif"
+  },
+  {
+    "id": "3533",
+    "name": "quads",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "quads",
+    "image": "images/3533-6YUfHPL.jpg",
+    "gif_url": "videos/3533-6YUfHPL.gif"
+  },
+  {
+    "id": "3552",
+    "name": "quick feet v. 2",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "quads",
+    "image": "images/3552-mweqJin.jpg",
+    "gif_url": "videos/3552-mweqJin.gif"
+  },
+  {
+    "id": "3007",
+    "name": "resistance band leg extension",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "resistance band",
+    "target": "quads",
+    "image": "images/3007-Y1MsI1l.jpg",
+    "gif_url": "videos/3007-Y1MsI1l.gif"
+  },
+  {
+    "id": "1489",
+    "name": "sissy squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "quads",
+    "image": "images/1489-xdYPUtE.jpg",
+    "gif_url": "videos/1489-xdYPUtE.gif"
+  },
+  {
+    "id": "0750",
+    "name": "smith chair squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "smith machine",
+    "target": "quads",
+    "image": "images/0750-Gu2rNJd.jpg",
+    "gif_url": "videos/0750-Gu2rNJd.gif"
+  },
+  {
+    "id": "0768",
+    "name": "smith single leg split squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "smith machine",
+    "target": "quads",
+    "image": "images/0768-wWFspEi.jpg",
+    "gif_url": "videos/0768-wWFspEi.gif"
+  },
+  {
+    "id": "0776",
+    "name": "snatch pull",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "quads",
+    "image": "images/0776-dG5Smob.jpg",
+    "gif_url": "videos/0776-dG5Smob.gif"
+  },
+  {
+    "id": "2368",
+    "name": "split squats",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "quads",
+    "image": "images/2368-9E25EOx.jpg",
+    "gif_url": "videos/2368-9E25EOx.gif"
+  },
+  {
+    "id": "0786",
+    "name": "squat jerk",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "barbell",
+    "target": "quads",
+    "image": "images/0786-IMRsOCn.jpg",
+    "gif_url": "videos/0786-IMRsOCn.gif"
+  },
+  {
+    "id": "1705",
+    "name": "squat on bosu ball",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "bosu ball",
+    "target": "quads",
+    "image": "images/1705-T2fA5Ir.jpg",
+    "gif_url": "videos/1705-T2fA5Ir.gif"
+  },
+  {
+    "id": "1685",
+    "name": "squat to overhead reach",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "quads",
+    "image": "images/1685-QChZi3x.jpg",
+    "gif_url": "videos/1685-QChZi3x.gif"
+  },
+  {
+    "id": "1686",
+    "name": "squat to overhead reach with twist",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "quads",
+    "image": "images/1686-5BZHW9s.jpg",
+    "gif_url": "videos/1686-5BZHW9s.gif"
+  },
+  {
+    "id": "0809",
+    "name": "suspended split squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "body weight",
+    "target": "quads",
+    "image": "images/0809-QpXqiq8.jpg",
+    "gif_url": "videos/0809-QpXqiq8.gif"
+  },
+  {
+    "id": "0851",
+    "name": "weighted sissy squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "weighted",
+    "target": "quads",
+    "image": "images/0851-0lQnxMZ.jpg",
+    "gif_url": "videos/0851-0lQnxMZ.gif"
+  }
+]

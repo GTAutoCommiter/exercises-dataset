@@ -1,0 +1,101 @@
+{
+  "id": "0817",
+  "name": "triceps stretch",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand or sit upright with your back straight. Extend one arm overhead, bending it at the elbow. Place your opposite hand on the bent elbow and gently pull it towards your head. Hold the stretch for 15-30 seconds, feeling a gentle stretch in your triceps. Release the stretch and repeat on the other arm.",
+    "it": "Stai in piedi o siediti con la schiena dritta. Estendi un braccio sopra la testa, piegandolo all'altezza del gomito. Metti la mano opposta sul gomito piegato e tirala delicatamente verso la testa. Mantieni l'allungamento per 15-30 secondi, avvertendo un leggero allungamento nei tricipiti. Rilascia l'allungamento e ripeti sull'altro braccio.",
+    "tr": "Sırtınız düz olacak şekilde dik durun veya oturun. Bir kolunuzu dirseğe doğru bükerek başınızın üzerine uzatın. Diğer elinizi bükülmüş dirseğinizin üzerine koyun ve yavaşça başınıza doğru çekin. Trisepslerinizde hafif bir gerginlik hissederek esnemeyi 15-30 saniye tutun. Germeyi bırakın ve diğer kolda tekrarlayın.",
+    "es": "Ponte de pie o siéntate erguido con la espalda recta. Extiende un brazo por encima de la cabeza, flexionándolo por el codo. Coloca la mano opuesta sobre el codo flexionado y tira de él suavemente hacia tu cabeza. Mantén el estiramiento de 15 a 30 segundos, sintiendo un estiramiento suave en el tríceps. Suelta el estiramiento y repite con el otro brazo.",
+    "ru": "Встаньте или сядьте прямо, спина прямая. Вытяните одну руку над головой, согнув ее в локте. Положите противоположную руку на согнутый локоть и осторожно потяните ее к голове. Удерживайте растяжку 15–30 секунд, ощущая легкое растяжение в трицепсе. Освободите растяжку и повторите то же самое для другой руки.",
+    "zh": "站立或坐直，背部挺直。 将一只手臂伸过头顶，肘部弯曲。 将另一只手放在弯曲的肘部上，然后轻轻地将其拉向头部。 保持拉伸 15-30 秒，感受三头肌的轻微拉伸。 松开拉伸并在另一只手臂上重复。",
+    "hi": "अपनी पीठ सीधी करके सीधे खड़े हों या बैठें। एक हाथ को कोहनी पर मोड़ते हुए ऊपर की ओर फैलाएँ। अपने उल्टे हाथ को मुड़ी हुई कोहनी पर रखें और धीरे से उसे अपने सिर की ओर खींचें। अपने ट्राइसेप्स में हल्का खिंचाव महसूस करते हुए 15-30 सेकंड तक खिंचाव बनाए रखें। खिंचाव छोड़ें और दूसरी बांह पर दोहराएं।",
+    "pl": "Stań lub usiądź prosto z plecami wyprostowanymi. Wyciągnij jedno ramię nad głowę, uginając je w łokciu. Umieść drugą dłoń na ugiętym łokciu i delikatnie przyciągnij go w stronę głowy. Przytrzymaj rozciąganie przez 15-30 sekund, czując delikatne rozciąganie w tricepsie. Zwolnij rozciąganie i powtórz na drugie ramię.",
+    "ko": "서거나 앉은 상태에서 등을 곧게 펴고 선다합니다. 한쪽 팔을 머리 위로 쭉 뻗어 팔꿈치를 구부립니다. 반대쪽 손을 팔꿈치에 놓고 머리 쪽으로 부드럽게 당깁니다. 15~30초 동안 삼두근의 부드러운 스트레치를 느끼면서 유지합니다. 스트레치를 풀고 반대쪽 팔도 반복합니다.",
+    "fr": "Tiens-toi debout ou assis bien droit, le dos droit. Étends un bras au-dessus de la tête, en le fléchissant au niveau du coude. Place ta main opposée sur le coude fléchi et tire-le doucement vers ta tête. Maintiens l'étirement pendant 15 à 30 secondes, en ressentant un léger étirement dans tes triceps. Relâche l'étirement et répète avec l'autre bras."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand or sit upright with your back straight.",
+      "Extend one arm overhead, bending it at the elbow.",
+      "Place your opposite hand on the bent elbow and gently pull it towards your head.",
+      "Hold the stretch for 15-30 seconds, feeling a gentle stretch in your triceps.",
+      "Release the stretch and repeat on the other arm."
+    ],
+    "it": [
+      "Stai in piedi o siediti con la schiena dritta.",
+      "Estendi un braccio sopra la testa, piegandolo all'altezza del gomito.",
+      "Metti la mano opposta sul gomito piegato e tirala delicatamente verso la testa.",
+      "Mantieni l'allungamento per 15-30 secondi, avvertendo un leggero allungamento nei tricipiti.",
+      "Rilascia l'allungamento e ripeti sull'altro braccio."
+    ],
+    "tr": [
+      "Sırtınız düz olacak şekilde dik durun veya oturun.",
+      "Bir kolunuzu dirseğe doğru bükerek başınızın üzerine uzatın.",
+      "Diğer elinizi bükülmüş dirseğinizin üzerine koyun ve yavaşça başınıza doğru çekin.",
+      "Trisepslerinizde hafif bir gerginlik hissederek esnemeyi 15-30 saniye tutun.",
+      "Germeyi bırakın ve diğer kolda tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie o siéntate erguido con la espalda recta.",
+      "Extiende un brazo por encima de la cabeza, flexionándolo por el codo.",
+      "Coloca la mano opuesta sobre el codo flexionado y tira de él suavemente hacia tu cabeza.",
+      "Mantén el estiramiento de 15 a 30 segundos, sintiendo un estiramiento suave en el tríceps.",
+      "Suelta el estiramiento y repite con el otro brazo."
+    ],
+    "ru": [
+      "Встаньте или сядьте прямо, спина прямая.",
+      "Вытяните одну руку над головой, согнув ее в локте.",
+      "Положите противоположную руку на согнутый локоть и осторожно потяните ее к голове.",
+      "Удерживайте растяжку 15–30 секунд, ощущая легкое растяжение в трицепсе.",
+      "Освободите растяжку и повторите то же самое для другой руки."
+    ],
+    "zh": [
+      "站立或坐直，背部挺直。",
+      "将一只手臂伸过头顶，肘部弯曲。",
+      "将另一只手放在弯曲的肘部上，然后轻轻地将其拉向头部。",
+      "保持拉伸 15-30 秒，感受三头肌的轻微拉伸。",
+      "松开拉伸并在另一只手臂上重复。"
+    ],
+    "hi": [
+      "अपनी पीठ सीधी करके सीधे खड़े हों या बैठें।",
+      "एक हाथ को कोहनी पर मोड़ते हुए ऊपर की ओर फैलाएँ।",
+      "अपने उल्टे हाथ को मुड़ी हुई कोहनी पर रखें और धीरे से उसे अपने सिर की ओर खींचें।",
+      "अपने ट्राइसेप्स में हल्का खिंचाव महसूस करते हुए 15-30 सेकंड तक खिंचाव बनाए रखें।",
+      "खिंचाव छोड़ें और दूसरी बांह पर दोहराएं।"
+    ],
+    "pl": [
+      "Stań lub usiądź prosto z plecami wyprostowanymi.",
+      "Wyciągnij jedno ramię nad głowę, uginając je w łokciu.",
+      "Umieść drugą dłoń na ugiętym łokciu i delikatnie przyciągnij go w stronę głowy.",
+      "Przytrzymaj rozciąganie przez 15-30 sekund, czując delikatne rozciąganie w tricepsie.",
+      "Zwolnij rozciąganie i powtórz na drugie ramię."
+    ],
+    "ko": [
+      "서거나 앉은 상태에서 등을 곧게 펴고 선다합니다.",
+      "한쪽 팔을 머리 위로 쭉 뻗어 팔꿈치를 구부립니다.",
+      "반대쪽 손을 팔꿈치에 놓고 머리 쪽으로 부드럽게 당깁니다.",
+      "15~30초 동안 삼두근의 부드러운 스트레치를 느끼면서 유지합니다.",
+      "스트레치를 풀고 반대쪽 팔도 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout ou assis bien droit, le dos droit.",
+      "Étends un bras au-dessus de la tête, en le fléchissant au niveau du coude.",
+      "Place ta main opposée sur le coude fléchi et tire-le doucement vers ta tête.",
+      "Maintiens l'étirement pendant 15 à 30 secondes, en ressentant un léger étirement dans tes triceps.",
+      "Relâche l'étirement et répète avec l'autre bras."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders"
+  ],
+  "target": "triceps",
+  "image": "images/0817-uOV3Itw.jpg",
+  "gif_url": "videos/0817-uOV3Itw.gif",
+  "media_id": "uOV3Itw",
+  "created_at": "2026-03-18T12:31:32.905391+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

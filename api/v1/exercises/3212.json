@@ -1,0 +1,102 @@
+{
+  "id": "3212",
+  "name": "basic toe touch (male)",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and your arms by your sides. Bend forward at the waist, keeping your back straight and your knees slightly bent. Reach down towards your toes with your hands, keeping your legs as straight as possible. Pause for a moment at the bottom, then slowly return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stai in piedi con i piedi larghi alle spalle e le braccia lungo i fianchi. Piegati in avanti in vita, tenendo la schiena dritta e le ginocchia leggermente piegate. Allunga le mani verso le dita dei piedi, tenendo le gambe il più dritte possibile. Fermati un attimo in fondo, poi torna lentamente alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız omuz genişliğinde açık ve kollarınız yanlarınızda olacak şekilde ayakta durun. Belinizi öne doğru eğin, sırtınızı düz tutun ve dizlerinizi hafifçe bükün. Bacaklarınızı mümkün olduğunca düz tutarak ellerinizi ayak parmaklarınıza doğru uzatın. Altta bir an duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y los brazos a los costados. Inclínate hacia adelante desde la cintura, manteniendo la espalda recta y las rodillas ligeramente flexionadas. Extiende las manos hacia las puntas de los pies, manteniendo las piernas lo más rectas posible. Haz una pausa por un momento en la parte inferior, luego regresa lentamente a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, руки по бокам. Наклонитесь вперед в талии, сохраняя спину прямой и слегка согнутыми в коленях. Потянитесь руками к пальцам ног, сохраняя ноги как можно более прямыми. Задержитесь на мгновение внизу, затем медленно вернитесь в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，双臂放在身体两侧。 腰部向前弯曲，保持背部挺直，膝盖稍微弯曲。 双手向下伸向脚趾，尽可能保持双腿伸直。 在底部停顿片刻，然后慢慢回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर और अपनी बांहों को बगल में रखकर खड़े हो जाएं। अपनी पीठ सीधी और घुटने थोड़े मुड़े हुए रखते हुए कमर के बल आगे की ओर झुकें। अपने पैरों को जितना संभव हो सके सीधा रखते हुए, अपने हाथों को अपने पैर की उंगलियों तक पहुंचाएं। नीचे एक पल के लिए रुकें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań ze stopami na szerokość barków, a ramionami wzdłuż tułowia. Pochyl się do przodu w pasie, trzymając plecy proste, a kolana lekko ugięte. Sięgnij dłońmi w kierunku palców stóp, trzymając nogi możliwie jak najbardziej wyprostowane. Zatrzymaj się na chwilę w dolnej pozycji, a następnie powoli wróć do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "어깨 너비로 발을 벌리고 팔을 몸 옆에 내려 섭니다. 허리에서 구부려 앞으로 숙이되 등은 곧게 펴고 무릎은 약간만 구부립니다. 다리를 최대한 곧게 유지하면서 손으로 발가락을 향해 내려갑니다. 맨 아래에서 잠깐 멈춘 후, 천천히 시작 위치로 돌아옵니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et les bras le long du corps. Penche-toi vers l'avant au niveau de la taille en gardant ton dos droit et tes genoux légèrement fléchis. Penche-toi vers tes orteils avec tes mains en gardant tes jambes aussi tendues que possible. Marque une pause en bas, puis reviens lentement à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and your arms by your sides.",
+      "Bend forward at the waist, keeping your back straight and your knees slightly bent.",
+      "Reach down towards your toes with your hands, keeping your legs as straight as possible.",
+      "Pause for a moment at the bottom, then slowly return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai in piedi con i piedi larghi alle spalle e le braccia lungo i fianchi.",
+      "Piegati in avanti in vita, tenendo la schiena dritta e le ginocchia leggermente piegate.",
+      "Allunga le mani verso le dita dei piedi, tenendo le gambe il più dritte possibile.",
+      "Fermati un attimo in fondo, poi torna lentamente alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık ve kollarınız yanlarınızda olacak şekilde ayakta durun.",
+      "Belinizi öne doğru eğin, sırtınızı düz tutun ve dizlerinizi hafifçe bükün.",
+      "Bacaklarınızı mümkün olduğunca düz tutarak ellerinizi ayak parmaklarınıza doğru uzatın.",
+      "Altta bir an duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y los brazos a los costados.",
+      "Inclínate hacia adelante desde la cintura, manteniendo la espalda recta y las rodillas ligeramente flexionadas.",
+      "Extiende las manos hacia las puntas de los pies, manteniendo las piernas lo más rectas posible.",
+      "Haz una pausa por un momento en la parte inferior, luego regresa lentamente a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, руки по бокам.",
+      "Наклонитесь вперед в талии, сохраняя спину прямой и слегка согнутыми в коленях.",
+      "Потянитесь руками к пальцам ног, сохраняя ноги как можно более прямыми.",
+      "Задержитесь на мгновение в нижней точке, затем медленно вернитесь в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，双臂放在身体两侧。",
+      "腰部向前弯曲，保持背部挺直，膝盖稍微弯曲。",
+      "双手向下伸向脚趾，尽可能保持双腿伸直。",
+      "在底部停顿片刻，然后慢慢回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर और अपनी बांहों को बगल में रखकर खड़े हो जाएं।",
+      "अपनी पीठ सीधी और घुटने थोड़े मुड़े हुए रखते हुए कमर के बल आगे की ओर झुकें।",
+      "अपने पैरों को जितना संभव हो सके सीधा रखते हुए, अपने हाथों को अपने पैर की उंगलियों तक पहुंचाएं।",
+      "नीचे एक पल के लिए रुकें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań ze stopami na szerokość barków, a ramionami wzdłuż tułowia.",
+      "Pochyl się do przodu w pasie, trzymając plecy proste, a kolana lekko ugięte.",
+      "Sięgnij dłońmi w kierunku palców stóp, trzymając nogi możliwie jak najbardziej wyprostowane.",
+      "Zatrzymaj się na chwilę w dolnej pozycji, a następnie powoli wróć do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "어깨 너비로 발을 벌리고 팔을 몸 옆에 내려 섭니다.",
+      "허리에서 구부려 앞으로 숙이되 등은 곧게 펴고 무릎은 약간만 구부립니다.",
+      "다리를 최대한 곧게 유지하면서 손으로 발가락을 향해 내려갑니다.",
+      "맨 아래에서 잠깐 멈춘 후, 천천히 시작 위치로 돌아옵니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et les bras le long du corps.",
+      "Penche-toi vers l'avant au niveau de la taille en gardant ton dos droit et tes genoux légèrement fléchis.",
+      "Penche-toi vers tes orteils avec tes mains en gardant tes jambes aussi tendues que possible.",
+      "Marque une pause en bas, puis reviens lentement à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "target": "glutes",
+  "image": "images/3212-BbfB8Gb.jpg",
+  "gif_url": "videos/3212-BbfB8Gb.gif",
+  "media_id": "BbfB8Gb",
+  "created_at": "2026-03-18T12:31:32.873554+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

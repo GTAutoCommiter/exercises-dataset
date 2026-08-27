@@ -1,0 +1,92 @@
+{
+  "id": "0459",
+  "name": "flutter kicks",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Lie flat on your back with your legs extended and your hands by your sides. Engage your core and lift your legs off the ground about 6 inches. Keeping your legs straight, alternate lifting one leg slightly higher than the other. Continue this fluttering motion for the desired number of repetitions.",
+    "it": "Sdraiati sulla schiena con le gambe distese e le mani lungo i fianchi. Coinvolgi il tuo core e solleva le gambe da terra di circa 6 pollici. Tenendo le gambe dritte, alterna il sollevamento di una gamba leggermente più in alto dell'altra. Continua questo movimento svolazzante per il numero di ripetizioni desiderato.",
+    "tr": "Bacaklarınız uzatılmış ve elleriniz yanlarınızda olacak şekilde sırt üstü yatın. Merkez bölgenizi devreye sokun ve bacaklarınızı yerden yaklaşık 6 inç kaldırın. Bacaklarınızı düz tutarak bir bacağınızı diğerinden biraz daha yükseğe kaldırın. İstenilen tekrar sayısı kadar bu çırpınma hareketine devam edin.",
+    "es": "Túmbate boca arriba con las piernas extendidas y las manos a los costados. Activa el core y levanta las piernas del suelo unos 15 centímetros. Manteniendo las piernas rectas, alterna levantando una pierna ligeramente más alto que la otra. Continúa este movimiento de aleteo durante el número de repeticiones deseado.",
+    "ru": "Лягте на спину, вытянув ноги и положив руки по бокам. Напрягите корпус и поднимите ноги над землей примерно на 6 дюймов. Удерживая ноги прямыми, поочередно поднимайте одну ногу немного выше другой. Продолжайте это порхающее движение желаемое количество повторений.",
+    "zh": "平躺，双腿伸展，双手放在身体两侧。 收紧核心肌群并将双腿抬离地面约 6 英寸。 保持双腿伸直，交替将一条腿抬得比另一条腿稍高。 继续这个颤动动作达到所需的重复次数。",
+    "hi": "अपने पैरों को फैलाकर और अपने हाथों को बगल में रखकर अपनी पीठ के बल सीधे लेट जाएँ। अपने कोर को संलग्न करें और अपने पैरों को जमीन से लगभग 6 इंच ऊपर उठाएं। अपने पैरों को सीधा रखते हुए बारी-बारी से एक पैर को दूसरे से थोड़ा ऊपर उठाएं। दोहराव की वांछित संख्या के लिए इस फड़फड़ाहट गति को जारी रखें।",
+    "pl": "Połóż się płasko na plecach z wyprostowanymi nogami i dłońmi wzdłuż tułowia. Napnij mięśnie brzucha i unieś nogi około 15 cm nad podłogę. Trzymając nogi proste, na przemian unoś jedną nogę nieco wyżej niż drugą. Kontynuuj ten ruch przypominający trzepotanie przez zalecaną liczbę powtórzeń.",
+    "ko": "등을 대고 누워 다리를 쭉 펼치고 손은 옆에 놓습니다. 복부를 조여 다리를 지면에서 약 6인치 높이로 들어올립니다. 다리를 쭉 펼친 상태로 한쪽 다리를 다른 쪽보다 약간 높게 번갈아 올립니다. 원하는 횟수만큼 이 플러터링 동작을 계속합니다.",
+    "fr": "Allonge-toi sur le dos, les jambes tendues et les mains le long du corps. Gaine ta sangle abdominale et lève tes jambes du sol d'environ 15 centimètres. En gardant les jambes tendues, alterne en levant une jambe légèrement plus haut que l'autre. Continue ce mouvement de battement pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Lie flat on your back with your legs extended and your hands by your sides.",
+      "Engage your core and lift your legs off the ground about 6 inches.",
+      "Keeping your legs straight, alternate lifting one leg slightly higher than the other.",
+      "Continue this fluttering motion for the desired number of repetitions."
+    ],
+    "it": [
+      "Sdraiati sulla schiena con le gambe distese e le mani lungo i fianchi.",
+      "Coinvolgi il tuo core e solleva le gambe da terra di circa 6 pollici.",
+      "Tenendo le gambe dritte, alterna il sollevamento di una gamba leggermente più in alto dell'altra.",
+      "Continua questo movimento svolazzante per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Bacaklarınız uzatılmış ve elleriniz yanlarınızda olacak şekilde sırt üstü yatın.",
+      "Merkez bölgenizi devreye sokun ve bacaklarınızı yerden yaklaşık 6 inç kaldırın.",
+      "Bacaklarınızı düz tutarak bir bacağınızı diğerinden biraz daha yükseğe kaldırın.",
+      "İstenilen tekrar sayısı kadar bu çırpınma hareketine devam edin."
+    ],
+    "es": [
+      "Túmbate boca arriba con las piernas extendidas y las manos a los costados.",
+      "Activa el core y levanta las piernas del suelo unos 15 centímetros.",
+      "Manteniendo las piernas rectas, alterna levantando una pierna ligeramente más alto que la otra.",
+      "Continúa este movimiento de aleteo durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Лягте на спину, вытянув ноги и положив руки по бокам.",
+      "Напрягите корпус и поднимите ноги над землей примерно на 6 дюймов.",
+      "Удерживая ноги прямыми, поочередно поднимайте одну ногу немного выше другой.",
+      "Продолжайте это порхающее движение желаемое количество повторений."
+    ],
+    "zh": [
+      "平躺，双腿伸展，双手放在身体两侧。",
+      "收紧核心肌群并将双腿抬离地面约 6 英寸。",
+      "保持双腿伸直，交替将一条腿抬得比另一条腿稍高。",
+      "继续这个颤动动作达到所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को फैलाकर और अपने हाथों को बगल में रखकर अपनी पीठ के बल सीधे लेट जाएँ।",
+      "अपने कोर को संलग्न करें और अपने पैरों को जमीन से लगभग 6 इंच ऊपर उठाएं।",
+      "अपने पैरों को सीधा रखते हुए बारी-बारी से एक पैर को दूसरे से थोड़ा ऊपर उठाएं।",
+      "दोहराव की वांछित संख्या के लिए इस फड़फड़ाहट गति को जारी रखें।"
+    ],
+    "pl": [
+      "Połóż się płasko na plecach z wyprostowanymi nogami i dłońmi wzdłuż tułowia.",
+      "Napnij mięśnie brzucha i unieś nogi około 15 cm nad podłogę.",
+      "Trzymając nogi proste, na przemian unoś jedną nogę nieco wyżej niż drugą.",
+      "Kontynuuj ten ruch przypominający trzepotanie przez zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "등을 대고 누워 다리를 쭉 펼치고 손은 옆에 놓습니다.",
+      "복부를 조여 다리를 지면에서 약 6인치 높이로 들어올립니다.",
+      "다리를 쭉 펼친 상태로 한쪽 다리를 다른 쪽보다 약간 높게 번갈아 올립니다.",
+      "원하는 횟수만큼 이 플러터링 동작을 계속합니다."
+    ],
+    "fr": [
+      "Allonge-toi sur le dos, les jambes tendues et les mains le long du corps.",
+      "Gaine ta sangle abdominale et lève tes jambes du sol d'environ 15 centimètres.",
+      "En gardant les jambes tendues, alterne en levant une jambe légèrement plus haut que l'autre.",
+      "Continue ce mouvement de battement pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hip flexors",
+  "secondary_muscles": [
+    "hip flexors",
+    "lower abs"
+  ],
+  "target": "glutes",
+  "image": "images/0459-UVo2Qs2.jpg",
+  "gif_url": "videos/0459-UVo2Qs2.gif",
+  "media_id": "UVo2Qs2",
+  "created_at": "2026-03-18T12:31:32.883638+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

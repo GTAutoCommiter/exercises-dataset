@@ -1,0 +1,101 @@
+{
+  "id": "1665",
+  "name": "dumbbell one arm prone curl",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Lie face down on a flat bench with a dumbbell in one hand, palm facing down. Extend your arm fully, letting it hang straight down towards the floor. Keeping your upper arm stationary, curl the dumbbell up towards your shoulder by contracting your biceps. Pause for a moment at the top, then slowly lower the dumbbell back down to the starting position. Repeat for the desired number of repetitions, then switch arms.",
+    "it": "Sdraiati a faccia in giù su una panca piatta con un manubrio in una mano, il palmo rivolto verso il basso. Allunga completamente il braccio, lasciandolo pendere dritto verso il pavimento. Mantenendo fermo la parte superiore del braccio, arrotola il manubrio verso la spalla contraendo i bicipiti. Fermati un attimo in cima, poi abbassa lentamente il manubrio fino alla posizione di partenza. Ripeti per il numero desiderato di ripetizioni, poi cambia braccio.",
+    "tr": "Bir elinizde bir dambıl, avuç içi aşağı bakacak şekilde düz bir bankta yüzüstü yatın. Kolunuzu tamamen uzatın ve yere doğru düz bir şekilde sarkmasına izin verin. Üst kolunuzu sabit tutarak, bicepslerinizi kasarak dambılı omzunuza doğru kıvırın. Tepe noktasında bir süre duraklayın, ardından dambılı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen tekrar sayısı kadar tekrarlayın, ardından kolları değiştirin.",
+    "es": "Túmbate boca abajo en un banco plano con una mancuerna en una mano, con la palma hacia abajo. Extiende completamente el brazo, dejando que cuelgue recto hacia el suelo. Manteniendo el brazo superior quieto, flexiona la mancuerna hacia el hombro contrayendo el bíceps. Haz una pausa breve en la parte más alta, luego baja lentamente la mancuerna de vuelta a la posición inicial. Repite el número de repeticiones deseado, luego cambia de brazo.",
+    "ru": "Лягте лицом вниз на плоскую скамью с гантелью в одной руке ладонью вниз. Полностью вытяните руку, позволяя ей свисать прямо к полу. Удерживая плечо неподвижно, поднимите гантель к плечу, напрягая бицепс. Задержитесь на мгновение в верхней точке, затем медленно опустите гантель обратно в исходное положение. Повторите желаемое количество повторений, затем поменяйте руки.",
+    "zh": "脸朝下躺在平坦的长凳上，一只手握住哑铃，掌心朝下。 完全伸展你的手臂，让它垂直垂向地板。 保持上臂静止，通过收缩二头肌将哑铃向上卷曲至肩膀。 在顶部停顿片刻，然后慢慢将哑铃放回起始位置。 重复所需的重复次数，然后换臂。",
+    "hi": "एक हाथ में डम्बल लेकर, हथेली नीचे की ओर रखते हुए, एक सपाट बेंच पर मुंह करके लेट जाएं। अपनी बांह को पूरी तरह फैलाएं, उसे सीधे नीचे फर्श की ओर लटकने दें। अपनी ऊपरी भुजा को स्थिर रखते हुए, अपने बाइसेप्स को सिकोड़कर डंबल को अपने कंधे की ओर मोड़ें। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे डम्बल को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएं, फिर हथियार बदल लें।",
+    "pl": "Połóż się twarzą w dół na płaskiej ławce, trzymając hantlę w jednej ręce, dłonią skierowaną w dół. Wyprostuj rękę całkowicie, pozwalając jej zwisać prosto w dół w stronę podłogi. Utrzymując nieruchome ramię, unieś hantlę w stronę barku, napinając biceps. Zatrzymaj się na chwilę na górze, a następnie powoli opuść hantlę z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń, a następnie zmień rękę.",
+    "ko": "벤치에 엎드려 한쪽 손에 덤벨을 들고 손가락이 아래를 향하도록 합니다. 팔을 완전히 펼쳐 땅을 향해 내립니다. 위팔은 고정한 채 이두근을 수축하며 덤벨을 어깨 방향으로 말아올립니다. 위에서 잠시 멈춘 후 천천히 덤벨을 처음 위치로 내립니다. 원하는 횟수만큼 반복한 후 반대쪽 팔로 바꿔 진행합니다.",
+    "fr": "Allonge-toi face vers le bas sur un banc plat avec un haltère dans une main, paume tournée vers le bas. Étends complètement ton bras, en le laissant pendre droit vers le sol. En gardant le haut du bras immobile, fléchis l'haltère vers ton épaule en contractant tes biceps. Marque une pause en haut, puis abaisse lentement l'haltère pour revenir à la position de départ. Répète le nombre de répétitions souhaité, puis change de bras."
+  },
+  "instruction_steps": {
+    "en": [
+      "Lie face down on a flat bench with a dumbbell in one hand, palm facing down.",
+      "Extend your arm fully, letting it hang straight down towards the floor.",
+      "Keeping your upper arm stationary, curl the dumbbell up towards your shoulder by contracting your biceps.",
+      "Pause for a moment at the top, then slowly lower the dumbbell back down to the starting position.",
+      "Repeat for the desired number of repetitions, then switch arms."
+    ],
+    "it": [
+      "Sdraiati a faccia in giù su una panca piatta con un manubrio in una mano, il palmo rivolto verso il basso.",
+      "Allunga completamente il braccio, lasciandolo pendere dritto verso il pavimento.",
+      "Mantenendo fermo la parte superiore del braccio, arrotola il manubrio verso la spalla contraendo i bicipiti.",
+      "Fermati un attimo in cima, poi abbassa lentamente il manubrio fino alla posizione di partenza.",
+      "Ripeti per il numero desiderato di ripetizioni, poi cambia braccio."
+    ],
+    "tr": [
+      "Bir elinizde bir dambıl, avuç içi aşağı bakacak şekilde düz bir bankta yüzüstü yatın.",
+      "Kolunuzu tamamen uzatın ve yere doğru düz bir şekilde sarkmasına izin verin.",
+      "Üst kolunuzu sabit tutarak, bicepslerinizi kasarak dambılı omzunuza doğru kıvırın.",
+      "Tepe noktasında bir süre duraklayın, ardından dambılı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından kolları değiştirin."
+    ],
+    "es": [
+      "Túmbate boca abajo en un banco plano con una mancuerna en una mano, con la palma hacia abajo.",
+      "Extiende completamente el brazo, dejando que cuelgue recto hacia el suelo.",
+      "Manteniendo el brazo superior quieto, flexiona la mancuerna hacia el hombro contrayendo el bíceps.",
+      "Haz una pausa breve en la parte más alta, luego baja lentamente la mancuerna de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado, luego cambia de brazo."
+    ],
+    "ru": [
+      "Лягте лицом вниз на плоскую скамью с гантелью в одной руке ладонью вниз.",
+      "Полностью вытяните руку, позволяя ей свисать прямо к полу.",
+      "Удерживая плечо неподвижно, поднимите гантель к плечу, напрягая бицепс.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите гантель обратно в исходное положение.",
+      "Повторите желаемое количество повторений, затем поменяйте руки."
+    ],
+    "zh": [
+      "脸朝下躺在平坦的长凳上，一只手握住哑铃，掌心朝下。",
+      "完全伸展你的手臂，让它垂直垂向地板。",
+      "保持上臂静止，通过收缩二头肌将哑铃向上卷曲至肩膀。",
+      "在顶部停顿片刻，然后慢慢将哑铃放回起始位置。",
+      "重复所需的重复次数，然后换臂。"
+    ],
+    "hi": [
+      "एक हाथ में डम्बल लेकर, हथेली नीचे की ओर रखते हुए, एक सपाट बेंच पर मुंह करके लेट जाएं।",
+      "अपनी बांह को पूरी तरह फैलाएं, उसे सीधे नीचे फर्श की ओर लटकने दें।",
+      "अपनी ऊपरी भुजा को स्थिर रखते हुए, अपने बाइसेप्स को सिकोड़कर डंबल को अपने कंधे की ओर मोड़ें।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे डम्बल को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर हथियार बदल लें।"
+    ],
+    "pl": [
+      "Połóż się twarzą w dół na płaskiej ławce, trzymając hantlę w jednej ręce, dłonią skierowaną w dół.",
+      "Wyprostuj rękę całkowicie, pozwalając jej zwisać prosto w dół w stronę podłogi.",
+      "Utrzymując nieruchome ramię, unieś hantlę w stronę barku, napinając biceps.",
+      "Zatrzymaj się na chwilę na górze, a następnie powoli opuść hantlę z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń, a następnie zmień rękę."
+    ],
+    "ko": [
+      "벤치에 엎드려 한쪽 손에 덤벨을 들고 손가락이 아래를 향하도록 합니다.",
+      "팔을 완전히 펼쳐 땅을 향해 내립니다.",
+      "위팔은 고정한 채 이두근을 수축하며 덤벨을 어깨 방향으로 말아올립니다.",
+      "위에서 잠시 멈춘 후 천천히 덤벨을 처음 위치로 내립니다.",
+      "원하는 횟수만큼 반복한 후 반대쪽 팔로 바꿔 진행합니다."
+    ],
+    "fr": [
+      "Allonge-toi face vers le bas sur un banc plat avec un haltère dans une main, paume tournée vers le bas.",
+      "Étends complètement ton bras, en le laissant pendre droit vers le sol.",
+      "En gardant le haut du bras immobile, fléchis l'haltère vers ton épaule en contractant tes biceps.",
+      "Marque une pause en haut, puis abaisse lentement l'haltère pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis change de bras."
+    ]
+  },
+  "muscle_group": "forearms",
+  "secondary_muscles": [
+    "forearms"
+  ],
+  "target": "biceps",
+  "image": "images/1665-JWjujiY.jpg",
+  "gif_url": "videos/1665-JWjujiY.gif",
+  "media_id": "JWjujiY",
+  "created_at": "2026-03-18T12:31:32.879932+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

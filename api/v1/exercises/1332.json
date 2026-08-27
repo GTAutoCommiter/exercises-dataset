@@ -1,0 +1,112 @@
+{
+  "id": "1332",
+  "name": "exercise ball alternating arm ups",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "stability ball",
+  "instructions": {
+    "en": "Sit on the stability ball with your feet flat on the ground and your back straight. Hold a dumbbell in each hand with your palms facing inwards and your arms extended down by your sides. Engage your core and slowly lift one arm up towards your shoulder, keeping your elbow slightly bent. Pause for a moment at the top, then slowly lower your arm back down to the starting position. Repeat the movement with the other arm. Continue alternating arms for the desired number of repetitions.",
+    "it": "Siediti sulla palla di stabilità con i piedi piatti a terra e la schiena dritta. Tieni un manubrio in ogni mano con i palmi rivolti verso l'interno e le braccia distese lungo i fianchi. Attiva il core e solleva lentamente un braccio verso la spalla, tenendo il gomito leggermente piegato. Fermati un attimo in cima, poi abbassa lentamente il braccio fino alla posizione iniziale. Ripeti il movimento con l'altro braccio. Continuare ad alternare le braccia per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız yere düz basacak ve sırtınız düz olacak şekilde stabilite topunun üzerine oturun. Avuç içleriniz içe bakacak ve kollarınız yanlarınızda uzanacak şekilde her iki elinizde birer dambıl tutun. Merkez bölgenizi devreye sokun ve dirseğinizi hafifçe bükerek bir kolunuzu yavaşça omzunuza doğru kaldırın. Tepe noktasında bir an duraklayın, ardından kolunuzu yavaşça başlangıç ​​pozisyonuna indirin. Hareketi diğer kolla tekrarlayın. İstenilen sayıda tekrar için kolları değiştirerek devam edin.",
+    "es": "Siéntate en el balón de estabilidad con los pies planos en el suelo y la espalda recta. Sujeta una mancuerna en cada mano con las palmas hacia adentro y los brazos extendidos hacia abajo a los lados. Activa el core y levanta lentamente un brazo hacia el hombro, manteniendo el codo ligeramente flexionado. Haz una pausa breve en la parte más alta, luego baja lentamente el brazo de vuelta a la posición inicial. Repite el movimiento con el otro brazo. Continúa alternando los brazos durante el número de repeticiones deseado.",
+    "ru": "Сядьте на мяч, поставив ноги на землю и выпрямив спину. Возьмите по гантели в каждую руку ладонями внутрь и вытяните руки по бокам. Напрягите корпус и медленно поднимите одну руку к плечу, слегка согнув локоть. Задержитесь на мгновение в верхней точке, затем медленно опустите руку обратно в исходное положение. Повторите движение другой рукой. Продолжайте чередовать руки желаемое количество повторений.",
+    "zh": "坐在稳定球上，双脚平放在地面上，背部挺直。 双手各握一个哑铃，手掌朝内，双臂在身体两侧向下伸展。 启动你的核心，慢慢地将一只手臂向肩膀抬起，保持肘部稍微弯曲。 在顶部暂停片刻，然后慢慢将手臂放回起始位置。 用另一只手臂重复该动作。 继续交替手臂进行所需的重复次数。",
+    "hi": "स्टेबिलिटी बॉल पर अपने पैरों को ज़मीन पर सपाट और अपनी पीठ को सीधा करके बैठें। अपनी हथेलियों को अंदर की ओर रखते हुए और अपनी भुजाओं को बगल में नीचे की ओर फैलाते हुए प्रत्येक हाथ में एक डम्बल पकड़ें। अपने कोर को संलग्न करें और अपनी कोहनी को थोड़ा मोड़ते हुए धीरे-धीरे एक हाथ को अपने कंधे की ओर उठाएं। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने हाथ को वापस प्रारंभिक स्थिति में ले आएं। दूसरे हाथ से भी यही क्रिया दोहराएँ। दोहराव की वांछित संख्या के लिए भुजाओं को बारी-बारी से जारी रखें।",
+    "pl": "Usiądź na piłce gimnastycznej, oprzyj stopy płasko na podłodze i trzymaj plecy proste. Trzymaj hantle w obu dłoniach, dłonie skierowane do wewnątrz, ramiona wyprostowane wzdłuż ciała. Napnij mięśnie brzucha i powoli unieś jedną rękę w stronę barku, trzymając łokieć lekko zgięty. Zatrzymaj się na chwilę na górze, a następnie powoli opuść rękę do pozycji wyjściowej. Powtórz ruch drugą ręką. Kontynuuj naprzemienne wykonywanie ruchu przez zalecaną liczbę powtórzeń.",
+    "ko": "짐볼 위에 앉아 발을 바닥에 평평하게 놓고 등을 곧게 세우십시오. 양손에 덤벨을 들고 손바닥을 안쪽으로 향하게 하며 팔을 옆으로 쭉 펴십시오. 코어를 조이고 한 팔을 천천히 어깨 쪽으로 들어올려 팔꿈치를 약간 구부린 상태로 유지하십시오. 맨 위에서 잠시 멈춘 후 천천히 팔을 시작 위치로 내려놓으십시오. 다른 팔로 같은 동작을 반복하십시오. 원하는 반복 횟수만큼 팔을 교대로 들어올리십시오.",
+    "fr": "Assieds-toi sur le ballon de stabilité, les pieds à plat sur le sol et le dos droit. Tiens un haltère dans chaque main, les paumes tournées vers l'intérieur et les bras étendus le long de tes flancs. Gaine ta sangle abdominale et lève lentement un bras vers ton épaule, en gardant le coude légèrement fléchi. Marque une pause en haut, puis abaisse lentement ton bras pour revenir à la position de départ. Répète le mouvement avec l'autre bras. Continue à alterner les bras pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on the stability ball with your feet flat on the ground and your back straight.",
+      "Hold a dumbbell in each hand with your palms facing inwards and your arms extended down by your sides.",
+      "Engage your core and slowly lift one arm up towards your shoulder, keeping your elbow slightly bent.",
+      "Pause for a moment at the top, then slowly lower your arm back down to the starting position.",
+      "Repeat the movement with the other arm.",
+      "Continue alternating arms for the desired number of repetitions."
+    ],
+    "it": [
+      "Siediti sulla palla di stabilità con i piedi piatti a terra e la schiena dritta.",
+      "Tieni un manubrio in ogni mano con i palmi rivolti verso l'interno e le braccia distese lungo i fianchi.",
+      "Attiva il core e solleva lentamente un braccio verso la spalla, tenendo il gomito leggermente piegato.",
+      "Fermati un attimo in cima, poi abbassa lentamente il braccio fino alla posizione iniziale.",
+      "Ripeti il movimento con l'altro braccio.",
+      "Continuare ad alternare le braccia per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız yere düz basacak ve sırtınız düz olacak şekilde stabilite topunun üzerine oturun.",
+      "Avuç içleriniz içe bakacak ve kollarınız yanlarınızda uzanacak şekilde her iki elinizde birer dambıl tutun.",
+      "Merkez bölgenizi devreye sokun ve dirseğinizi hafifçe bükerek bir kolunuzu yavaşça omzunuza doğru kaldırın.",
+      "Tepe noktasında bir an duraklayın, ardından kolunuzu yavaşça başlangıç ​​pozisyonuna indirin.",
+      "Hareketi diğer kolla tekrarlayın.",
+      "İstenilen sayıda tekrar için kolları değiştirerek devam edin."
+    ],
+    "es": [
+      "Siéntate en el balón de estabilidad con los pies planos en el suelo y la espalda recta.",
+      "Sujeta una mancuerna en cada mano con las palmas hacia adentro y los brazos extendidos hacia abajo a los lados.",
+      "Activa el core y levanta lentamente un brazo hacia el hombro, manteniendo el codo ligeramente flexionado.",
+      "Haz una pausa breve en la parte más alta, luego baja lentamente el brazo de vuelta a la posición inicial.",
+      "Repite el movimiento con el otro brazo.",
+      "Continúa alternando los brazos durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на мяч, поставив ноги на землю и выпрямив спину.",
+      "Возьмите по гантели в каждую руку ладонями внутрь и вытяните руки по бокам.",
+      "Напрягите корпус и медленно поднимите одну руку к плечу, слегка согнув локоть.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите руку обратно в исходное положение.",
+      "Повторите движение другой рукой.",
+      "Продолжайте чередовать руки желаемое количество повторений."
+    ],
+    "zh": [
+      "坐在稳定球上，双脚平放在地面上，背部挺直。",
+      "双手各握一个哑铃，手掌朝内，双臂在身体两侧向下伸展。",
+      "启动你的核心，慢慢地将一只手臂向肩膀抬起，保持肘部稍微弯曲。",
+      "在顶部暂停片刻，然后慢慢将手臂放回起始位置。",
+      "用另一只手臂重复该动作。",
+      "继续交替手臂进行所需的重复次数。"
+    ],
+    "hi": [
+      "स्टेबिलिटी बॉल पर अपने पैरों को ज़मीन पर सपाट और अपनी पीठ को सीधा करके बैठें।",
+      "अपनी हथेलियों को अंदर की ओर रखते हुए और अपनी भुजाओं को बगल में नीचे की ओर फैलाते हुए प्रत्येक हाथ में एक डम्बल पकड़ें।",
+      "अपने कोर को संलग्न करें और अपनी कोहनी को थोड़ा मोड़ते हुए धीरे-धीरे एक हाथ को अपने कंधे की ओर उठाएं।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने हाथ को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दूसरे हाथ से भी यही क्रिया दोहराएँ।",
+      "दोहराव की वांछित संख्या के लिए भुजाओं को बारी-बारी से जारी रखें।"
+    ],
+    "pl": [
+      "Usiądź na piłce gimnastycznej, oprzyj stopy płasko na podłodze i trzymaj plecy proste.",
+      "Trzymaj hantle w obu dłoniach, dłonie skierowane do wewnątrz, ramiona wyprostowane wzdłuż ciała.",
+      "Napnij mięśnie brzucha i powoli unieś jedną rękę w stronę barku, trzymając łokieć lekko zgięty.",
+      "Zatrzymaj się na chwilę na górze, a następnie powoli opuść rękę do pozycji wyjściowej.",
+      "Powtórz ruch drugą ręką.",
+      "Kontynuuj naprzemienne wykonywanie ruchu przez zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "짐볼 위에 앉아 발을 바닥에 평평하게 놓고 등을 곧게 세우십시오.",
+      "양손에 덤벨을 들고 손바닥을 안쪽으로 향하게 하며 팔을 옆으로 쭉 펴십시오.",
+      "코어를 조이고 한 팔을 천천히 어깨 쪽으로 들어올려 팔꿈치를 약간 구부린 상태로 유지하십시오.",
+      "맨 위에서 잠시 멈춘 후 천천히 팔을 시작 위치로 내려놓으십시오.",
+      "다른 팔로 같은 동작을 반복하십시오.",
+      "원하는 반복 횟수만큼 팔을 교대로 들어올리십시오."
+    ],
+    "fr": [
+      "Assieds-toi sur le ballon de stabilité, les pieds à plat sur le sol et le dos droit.",
+      "Tiens un haltère dans chaque main, les paumes tournées vers l'intérieur et les bras étendus le long de tes flancs.",
+      "Gaine ta sangle abdominale et lève lentement un bras vers ton épaule, en gardant le coude légèrement fléchi.",
+      "Marque une pause en haut, puis abaisse lentement ton bras pour revenir à la position de départ.",
+      "Répète le mouvement avec l'autre bras.",
+      "Continue à alterner les bras pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "core"
+  ],
+  "target": "lats",
+  "image": "images/1332-EyLrNC2.jpg",
+  "gif_url": "videos/1332-EyLrNC2.gif",
+  "media_id": "EyLrNC2",
+  "created_at": "2026-03-18T12:31:32.882642+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

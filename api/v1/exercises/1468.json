@@ -1,0 +1,102 @@
+{
+  "id": "1468",
+  "name": "crab twist toe touch",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Start by sitting on the ground with your knees bent and feet flat on the floor. Place your hands behind you, fingers pointing towards your feet, and lift your hips off the ground. Extend one leg straight out in front of you while simultaneously reaching your opposite hand towards your toes. Return to the starting position and repeat on the other side. Continue alternating sides for the desired number of repetitions.",
+    "it": "Inizia seduto a terra con le ginocchia piegate e i piedi appoggiati sul pavimento. Metti le mani dietro di te, le dita puntate verso i piedi, e solleva i fianchi da terra. Allunga una gamba dritta davanti a te mentre contemporaneamente allunghi la mano opposta verso le dita dei piedi. Torna alla posizione di partenza e ripeti dall'altra parte. Continua ad alternare i lati per il numero desiderato di ripetizioni.",
+    "tr": "Dizleriniz bükülmüş ve ayaklarınız yere düz basacak şekilde yere oturarak başlayın. Ellerinizi arkanıza, parmaklarınız ayaklarınıza doğru bakacak şekilde yerleştirin ve kalçalarınızı yerden kaldırın. Bir bacağınızı düz bir şekilde önünüze doğru uzatırken aynı anda karşı elinizi ayak parmaklarınıza doğru uzatın. Başlangıç ​​pozisyonuna dönün ve diğer tarafta tekrarlayın. İstenilen tekrar sayısı için alternatif taraflara devam edin.",
+    "es": "Comienza sentado en el suelo con las rodillas flexionadas y los pies planos en el suelo. Coloca las manos detrás de ti, con los dedos apuntando hacia los pies, y levanta las caderas del suelo. Extiende una pierna recta frente a ti mientras al mismo tiempo llevas la mano contraria hacia los dedos del pie. Regresa a la posición inicial y repite del otro lado. Continúa alternando lados durante el número de repeticiones deseado.",
+    "ru": "Начните с того, что сядьте на землю, согнув колени и поставив ступни на пол. Положите руки позади себя, пальцы направлены к ногам, и поднимите бедра от земли. Вытяните одну ногу прямо перед собой, одновременно протягивая противоположную руку к пальцам ног. Вернитесь в исходное положение и повторите то же самое в другую сторону. Продолжайте чередовать стороны желаемое количество повторений.",
+    "zh": "首先坐在地上，膝盖弯曲，双脚平放在地板上。 将双手放在身后，手指指向脚部，并将臀部抬离地面。 将一条腿伸直到您面前，同时将另一只手伸向脚趾。 返回起始位置并在另一侧重复。 继续交替进行所需的重复次数。",
+    "hi": "अपने घुटनों को मोड़कर और पैरों को फर्श पर सपाट करके जमीन पर बैठकर शुरुआत करें। अपने हाथों को अपने पीछे रखें, उंगलियाँ आपके पैरों की ओर हों, और अपने कूल्हों को ज़मीन से ऊपर उठाएँ। एक पैर को अपने सामने सीधा फैलाएं और साथ ही अपने उल्टे हाथ को अपने पैर की उंगलियों तक पहुंचाएं। प्रारंभिक स्थिति पर लौटें और दूसरी तरफ दोहराएं। दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।",
+    "pl": "Usiądź na podłodze, kolana ugięte, stopy płasko na podłodze. Umieść dłonie za sobą, palce skierowane w stronę stóp, i unieś biodra znad podłogi. Wyprostuj jedną nogę prosto przed sobą, jednocześnie sięgając przeciwną ręką w kierunku palców stóp. Wróć do pozycji wyjściowej i powtórz po drugiej stronie. Kontynuuj zmianę stron przez zalecaną liczbę powtórzeń.",
+    "ko": "바닥에 앉아서 무릎을 구부리고 발을 바닥에 붙입니다. 손을 뒤에 놓되 손가락이 발 쪽을 향하게 하고 엉덩이를 지면에서 들어올립니다. 한쪽 다리를 앞으로 곧게 펼치면서 반대쪽 손으로 발가락을 터치합니다. 시작 위치로 돌아가 반대쪽에서 반복합니다. 양쪽을 번갈아가며 원하는 횟수만큼 반복합니다.",
+    "fr": "Commence assis au sol, les genoux fléchis et les pieds à plat sur le sol. Place tes mains derrière toi, les doigts pointés vers tes pieds, et soulève tes hanches du sol. Étends une jambe droit devant toi tout en tendant simultanément ta main opposée vers tes orteils. Reviens à la position de départ et répète de l'autre côté. Continue à alterner les côtés pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start by sitting on the ground with your knees bent and feet flat on the floor.",
+      "Place your hands behind you, fingers pointing towards your feet, and lift your hips off the ground.",
+      "Extend one leg straight out in front of you while simultaneously reaching your opposite hand towards your toes.",
+      "Return to the starting position and repeat on the other side.",
+      "Continue alternating sides for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia seduto a terra con le ginocchia piegate e i piedi appoggiati sul pavimento.",
+      "Metti le mani dietro di te, le dita puntate verso i piedi, e solleva i fianchi da terra.",
+      "Allunga una gamba dritta davanti a te mentre contemporaneamente allunghi la mano opposta verso le dita dei piedi.",
+      "Torna alla posizione di partenza e ripeti dall'altra parte.",
+      "Continua ad alternare i lati per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Dizleriniz bükülmüş ve ayaklarınız yere düz basacak şekilde yere oturarak başlayın.",
+      "Ellerinizi arkanıza, parmaklarınız ayaklarınıza doğru bakacak şekilde yerleştirin ve kalçalarınızı yerden kaldırın.",
+      "Bir bacağınızı düz bir şekilde önünüze doğru uzatırken aynı anda karşı elinizi ayak parmaklarınıza doğru uzatın.",
+      "Başlangıç ​​pozisyonuna dönün ve diğer tarafta tekrarlayın.",
+      "İstenilen tekrar sayısı için alternatif taraflara devam edin."
+    ],
+    "es": [
+      "Comienza sentado en el suelo con las rodillas flexionadas y los pies planos en el suelo.",
+      "Coloca las manos detrás de ti, con los dedos apuntando hacia los pies, y levanta las caderas del suelo.",
+      "Extiende una pierna recta frente a ti mientras al mismo tiempo llevas la mano contraria hacia los dedos del pie.",
+      "Regresa a la posición inicial y repite del otro lado.",
+      "Continúa alternando lados durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с того, что сядьте на землю, согнув колени и поставив ступни на пол.",
+      "Положите руки позади себя, пальцы направлены к ногам, и поднимите бедра от земли.",
+      "Вытяните одну ногу прямо перед собой, одновременно протягивая противоположную руку к пальцам ног.",
+      "Вернитесь в исходное положение и повторите то же самое в другую сторону.",
+      "Продолжайте чередовать стороны желаемое количество повторений."
+    ],
+    "zh": [
+      "首先坐在地上，膝盖弯曲，双脚平放在地板上。",
+      "将双手放在身后，手指指向脚部，并将臀部抬离地面。",
+      "将一条腿伸直到您面前，同时将另一只手伸向脚趾。",
+      "返回起始位置并在另一侧重复。",
+      "继续交替进行所需的重复次数。"
+    ],
+    "hi": [
+      "अपने घुटनों को मोड़कर और पैरों को फर्श पर सपाट करके जमीन पर बैठकर शुरुआत करें।",
+      "अपने हाथों को अपने पीछे रखें, उंगलियाँ आपके पैरों की ओर हों, और अपने कूल्हों को ज़मीन से ऊपर उठाएँ।",
+      "एक पैर को अपने सामने सीधा फैलाएं और साथ ही अपने उल्टे हाथ को अपने पैर की उंगलियों तक पहुंचाएं।",
+      "प्रारंभिक स्थिति पर लौटें और दूसरी तरफ दोहराएं।",
+      "दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।"
+    ],
+    "pl": [
+      "Usiądź na podłodze, kolana ugięte, stopy płasko na podłodze.",
+      "Umieść dłonie za sobą, palce skierowane w stronę stóp, i unieś biodra znad podłogi.",
+      "Wyprostuj jedną nogę prosto przed sobą, jednocześnie sięgając przeciwną ręką w kierunku palców stóp.",
+      "Wróć do pozycji wyjściowej i powtórz po drugiej stronie.",
+      "Kontynuuj zmianę stron przez zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "바닥에 앉아서 무릎을 구부리고 발을 바닥에 붙입니다.",
+      "손을 뒤에 놓되 손가락이 발 쪽을 향하게 하고 엉덩이를 지면에서 들어올립니다.",
+      "한쪽 다리를 앞으로 곧게 펼치면서 반대쪽 손으로 발가락을 터치합니다.",
+      "시작 위치로 돌아가 반대쪽에서 반복합니다.",
+      "양쪽을 번갈아가며 원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Commence assis au sol, les genoux fléchis et les pieds à plat sur le sol.",
+      "Place tes mains derrière toi, les doigts pointés vers tes pieds, et soulève tes hanches du sol.",
+      "Étends une jambe droit devant toi tout en tendant simultanément ta main opposée vers tes orteils.",
+      "Reviens à la position de départ et répète de l'autre côté.",
+      "Continue à alterner les côtés pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "obliques",
+  "secondary_muscles": [
+    "obliques",
+    "hip flexors"
+  ],
+  "target": "abs",
+  "image": "images/1468-xgsGFVM.jpg",
+  "gif_url": "videos/1468-xgsGFVM.gif",
+  "media_id": "xgsGFVM",
+  "created_at": "2026-03-18T12:31:32.877206+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,102 @@
+{
+  "id": "3548",
+  "name": "dumbbell single arm overhead carry",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Stand tall with your feet shoulder-width apart, holding a dumbbell in one hand. Raise the dumbbell overhead, fully extending your arm. Engage your core and keep your back straight as you walk forward, maintaining the dumbbell overhead. Continue walking for the desired distance or time. Switch hands and repeat the exercise.",
+    "it": "Stai dritto con i piedi divaricati alla larghezza delle spalle, tenendo un manubrio in una mano. Alza il manubrio sopra la testa, estendendo completamente il braccio. Attiva il core e tieni la schiena dritta mentre cammini in avanti, mantenendo il manubrio sopra la testa. Continua a camminare per la distanza o il tempo desiderato. Cambia mano e ripeti l'esercizio.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde dik durun, bir elinizde dambıl tutun. Kolunuzu tamamen uzatarak dambılı başınızın üzerine kaldırın. Merkez bölgenizi devreye sokun ve ileri doğru yürürken sırtınızı düz tutun, dambılı başınızın üstünde tutun. İstediğiniz mesafe veya süre boyunca yürümeye devam edin. Ellerinizi değiştirin ve egzersizi tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros, sujetando una mancuerna con una mano. Levanta la mancuerna por encima de la cabeza, extendiendo completamente el brazo. Activa el core y mantén la espalda recta mientras caminas hacia adelante, sosteniendo la mancuerna por encima de la cabeza. Continúa caminando durante la distancia o el tiempo deseado. Cambia de mano y repite el ejercicio.",
+    "ru": "Встаньте прямо, ноги на ширине плеч, в одной руке держите гантель. Поднимите гантель над головой, полностью выпрямляя руку. Напрягите корпус и держите спину прямо, когда идете вперед, удерживая гантель над головой. Продолжайте идти желаемое расстояние или время. Поменяйте руки и повторите упражнение.",
+    "zh": "站直，双脚分开与肩同宽，一手握住哑铃。 将哑铃举过头顶，充分伸展手臂。 向前行走时，启动核心肌群并保持背部挺直，将哑铃举过头顶。 继续步行所需的距离或时间。 交换双手并重复练习。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर, एक हाथ में डम्बल पकड़कर सीधे खड़े हो जाएं। अपनी बांह को पूरी तरह फैलाते हुए डम्बल को ऊपर उठाएं। जब आप आगे बढ़ें तो अपने कोर को व्यस्त रखें और अपनी पीठ को सीधा रखें, डम्बल को सिर के ऊपर बनाए रखें। वांछित दूरी या समय तक चलते रहें। हाथ बदलें और व्यायाम दोहराएं।",
+    "pl": "Stań prosto w rozkroku na szerokość barków, trzymając hantlę w jednej dłoni. Unieś hantlę nad głowę, całkowicie wyprostowując ramię. Napnij mięśnie brzucha i trzymaj plecy proste, idąc do przodu, utrzymując hantlę nad głową. Kontynuuj marsz przez wybrany dystans lub czas. Zmień rękę i powtórz ćwiczenie.",
+    "ko": "발을 어깨 너비로 벌리고 곧게 선 상태에서 한 손에 덤벨을 들어 머리 위로 완전히 펼칩니다. 코어에 힘을 주고 등을 곧게 펴면서 덤벨을 머리 위에 유지한 채 앞으로 걷습니다. 원하는 거리나 시간 동안 계속 걷습니다. 손을 바꿉니다. 운동을 반복합니다.",
+    "fr": "Tiens-toi bien droit, les pieds écartés à la largeur des épaules, un haltère dans une main. Lève l'haltère au-dessus de ta tête en tendant complètement ton bras. Gaine ta sangle abdominale et garde ton dos droit pendant que tu avances, en maintenant l'haltère au-dessus de ta tête. Continue à marcher sur la distance ou le temps souhaité. Change de main et répète l'exercice."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand tall with your feet shoulder-width apart, holding a dumbbell in one hand.",
+      "Raise the dumbbell overhead, fully extending your arm.",
+      "Engage your core and keep your back straight as you walk forward, maintaining the dumbbell overhead.",
+      "Continue walking for the desired distance or time.",
+      "Switch hands and repeat the exercise."
+    ],
+    "it": [
+      "Stai dritto con i piedi divaricati alla larghezza delle spalle, tenendo un manubrio in una mano.",
+      "Alza il manubrio sopra la testa, estendendo completamente il braccio.",
+      "Attiva il core e tieni la schiena dritta mentre cammini in avanti, mantenendo il manubrio sopra la testa.",
+      "Continua a camminare per la distanza o il tempo desiderato.",
+      "Cambia mano e ripeti l'esercizio."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde dik durun, bir elinizde dambıl tutun.",
+      "Kolunuzu tamamen uzatarak dambılı başınızın üzerine kaldırın.",
+      "Merkez bölgenizi devreye sokun ve ileri doğru yürürken sırtınızı düz tutun, dambılı başınızın üzerinde tutun.",
+      "İstediğiniz mesafe veya süre boyunca yürümeye devam edin.",
+      "Ellerinizi değiştirin ve egzersizi tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros, sujetando una mancuerna con una mano.",
+      "Levanta la mancuerna por encima de la cabeza, extendiendo completamente el brazo.",
+      "Activa el core y mantén la espalda recta mientras caminas hacia adelante, sosteniendo la mancuerna por encima de la cabeza.",
+      "Continúa caminando durante la distancia o el tiempo deseado.",
+      "Cambia de mano y repite el ejercicio."
+    ],
+    "ru": [
+      "Встаньте прямо, ноги на ширине плеч, в одной руке держите гантель.",
+      "Поднимите гантель над головой, полностью выпрямляя руку.",
+      "Напрягите корпус и держите спину прямо, когда идете вперед, удерживая гантель над головой.",
+      "Продолжайте идти желаемое расстояние или время.",
+      "Поменяйте руки и повторите упражнение."
+    ],
+    "zh": [
+      "站直，双脚分开与肩同宽，一手握住哑铃。",
+      "将哑铃举过头顶，充分伸展手臂。",
+      "向前行走时，启动核心肌群并保持背部挺直，将哑铃举过头顶。",
+      "继续步行所需的距离或时间。",
+      "交换双手并重复练习。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर, एक हाथ में डम्बल पकड़कर सीधे खड़े हो जाएं।",
+      "अपनी बांह को पूरी तरह फैलाते हुए डम्बल को ऊपर उठाएं।",
+      "जब आप आगे बढ़ें तो अपने कोर को व्यस्त रखें और अपनी पीठ को सीधा रखें, डम्बल को सिर के ऊपर बनाए रखें।",
+      "वांछित दूरी या समय तक चलते रहें।",
+      "हाथ बदलें और व्यायाम दोहराएं।"
+    ],
+    "pl": [
+      "Stań prosto w rozkroku na szerokość barków, trzymając hantlę w jednej dłoni.",
+      "Unieś hantlę nad głowę, całkowicie wyprostowując ramię.",
+      "Napnij mięśnie brzucha i trzymaj plecy proste, idąc do przodu, utrzymując hantlę nad głową.",
+      "Kontynuuj marsz przez wybrany dystans lub czas.",
+      "Zmień rękę i powtórz ćwiczenie."
+    ],
+    "ko": [
+      "발을 어깨 너비로 벌리고 곧게 서서 한 손에 덤벨을 듭니다.",
+      "덤벨을 머리 위로 완전히 펼칩니다.",
+      "코어에 힘을 주고 등을 곧게 펴면서 덤벨을 머리 위에 유지한 채 앞으로 걷습니다.",
+      "원하는 거리나 시간 동안 계속 걷습니다.",
+      "손을 바꿔서 운동을 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi bien droit, les pieds écartés à la largeur des épaules, un haltère dans une main.",
+      "Lève l'haltère au-dessus de ta tête en tendant complètement ton bras.",
+      "Gaine ta sangle abdominale et garde ton dos droit pendant que tu avances, en maintenant l'haltère au-dessus de ta tête.",
+      "Continue à marcher sur la distance ou le temps souhaité.",
+      "Change de main et répète l'exercice."
+    ]
+  },
+  "muscle_group": "traps",
+  "secondary_muscles": [
+    "traps",
+    "core"
+  ],
+  "target": "delts",
+  "image": "images/3548-mWBtgmb.jpg",
+  "gif_url": "videos/3548-mWBtgmb.gif",
+  "media_id": "mWBtgmb",
+  "created_at": "2026-03-18T12:31:32.881652+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

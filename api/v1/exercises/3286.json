@@ -1,0 +1,114 @@
+{
+  "id": "3286",
+  "name": "weighted muscle up",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "weighted",
+  "instructions": {
+    "en": "Start by hanging from a pull-up bar with your palms facing away from you and your hands slightly wider than shoulder-width apart. Engage your core and pull your body up towards the bar, leading with your chest. As you reach the top of the movement, transition your grip so that your palms are facing towards you. Continue pulling yourself up until your chest reaches the bar, then pause for a moment. Slowly lower yourself back down to the starting position, maintaining control throughout the movement. Repeat for the desired number of repetitions.",
+    "it": "Inizia appendendoti a una barra per trazioni con i palmi rivolti lontano da te e le mani leggermente più larghe della larghezza delle spalle. Coinvolgi il core e solleva il corpo verso la barra, guidando con il petto. Quando raggiungi la parte superiore del movimento, cambia la presa in modo che i palmi delle mani siano rivolti verso di te. Continua a sollevarti finché il petto non raggiunge la barra, quindi fermati per un momento. Abbassati lentamente fino alla posizione iniziale, mantenendo il controllo durante tutto il movimento. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Avuç içleriniz sizden uzağa bakacak şekilde ve elleriniz omuz genişliğinden biraz daha geniş olacak şekilde bir barfiks çubuğuna asılarak başlayın. Merkez bölgenizi devreye sokun ve vücudunuzu göğsünüzle birlikte bara doğru yukarı çekin. Hareketin tepesine ulaştığınızda, avuçlarınız size bakacak şekilde tutuşunuzu değiştirin. Göğsünüz bara ulaşana kadar kendinizi yukarı çekmeye devam edin, ardından bir an duraklayın. Hareket boyunca kontrolü koruyarak kendinizi yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Comienza colgándote de una barra de dominadas con las palmas mirando hacia afuera y las manos un poco más separadas que la anchura de los hombros. Activa el core y tira de tu cuerpo hacia arriba, hacia la barra, guiando con el pecho. Al llegar a la parte alta del movimiento, cambia el agarre de modo que las palmas queden hacia ti. Continúa subiendo hasta que el pecho llegue a la barra, luego haz una pausa de un momento. Baja lentamente de nuevo a la posición inicial, manteniendo el control durante todo el movimiento. Repite el número de repeticiones deseado.",
+    "ru": "Начните с подвешивания на перекладине, повернув ладонями от себя и расставив руки чуть шире плеч. Напрягите корпус и подтяните тело к перекладине, ведя грудью. Достигнув вершины движения, поменяйте хват так, чтобы ладони были обращены к вам. Продолжайте подтягиваться до тех пор, пока грудь не достигнет перекладины, затем сделайте паузу на мгновение. Медленно опуститесь обратно в исходное положение, сохраняя контроль на протяжении всего движения. Повторите необходимое количество повторений.",
+    "zh": "首先悬挂在引体向上杆上，手掌背向自己，双手之间的距离略大于肩宽。 启动核心肌群，将身体拉向杠铃杆，以胸部为主导。 当你到达动作的最高点时，改变你的握力，使你的手掌朝向你。 继续拉起自己，直到胸部到达杠铃，然后暂停片刻。 慢慢地将自己放回到起始位置，在整个运动过程中保持控制。 重复所需的重复次数。",
+    "hi": "अपनी हथेलियों को अपने से दूर की ओर रखते हुए पुल-अप बार से लटकने से शुरुआत करें और आपके हाथ कंधे की चौड़ाई से थोड़े चौड़े हों। अपने कोर को संलग्न करें और अपने शरीर को अपनी छाती की ओर ले जाते हुए बार की ओर ऊपर खींचें। जैसे ही आप गति के शीर्ष पर पहुँचते हैं, अपनी पकड़ को बदलें ताकि आपकी हथेलियाँ आपकी ओर हों। जब तक आपकी छाती बार तक न पहुंच जाए, तब तक खुद को ऊपर खींचते रहें, फिर एक पल के लिए रुकें। पूरे आंदोलन पर नियंत्रण बनाए रखते हुए, धीरे-धीरे अपने आप को प्रारंभिक स्थिति में वापस लाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Zacznij, wisząc na drążku do podciągania z dłońmi skierowanymi od siebie, rozstawionymi nieco szerzej niż szerokość barków. Napnij mięśnie brzucha i podciągnij ciało w stronę drążka, prowadząc klatką piersiową. Gdy osiągniesz górę ruchu, zmień chwyt tak, aby dłonie były skierowane do ciebie. Kontynuuj podciąganie, aż klatka piersiowa dosięgnie drążka, a następnie zatrzymaj się na chwilę. Powoli opuść się z powrotem do pozycji wyjściowej, zachowując kontrolę przez cały ruch. Powtórz zgodnie z żądaną liczbą powtórzeń.",
+    "ko": "손바닥이 몸에서 멀어지도록 풀업 바에 달려 손이 어깨 너비보다 약간 넓도록 합니다. 코어에 힘을 주고 가슴을 앞으로 내밀며 몸을 바 쪽으로 당깁니다. 동작의 위쪽에 도달하면 손바닥이 몸을 향하도록 그립을 바꿉니다. 가슴이 바에 닿을 때까지 계속 자신을 끌어올린 후 잠시 멈춥니다. 천천히 처음 위치로 내려가며 동작 내내 통제를 유지합니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Commence suspendu à une barre de traction, les paumes tournées vers l'extérieur et les mains légèrement plus écartées que la largeur des épaules. Gaine ta sangle abdominale et tire ton corps vers la barre, en menant avec ta poitrine. Une fois en haut du mouvement, change ta prise pour que tes paumes soient tournées vers toi. Continue à te hisser jusqu'à ce que ta poitrine atteigne la barre, puis marque une pause. Abaisse-toi lentement vers la position de départ, en gardant le contrôle tout au long du mouvement. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start by hanging from a pull-up bar with your palms facing away from you and your hands slightly wider than shoulder-width apart.",
+      "Engage your core and pull your body up towards the bar, leading with your chest.",
+      "As you reach the top of the movement, transition your grip so that your palms are facing towards you.",
+      "Continue pulling yourself up until your chest reaches the bar, then pause for a moment.",
+      "Slowly lower yourself back down to the starting position, maintaining control throughout the movement.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia appendendoti a una barra per trazioni con i palmi rivolti lontano da te e le mani leggermente più larghe della larghezza delle spalle.",
+      "Coinvolgi il core e solleva il corpo verso la barra, guidando con il petto.",
+      "Quando raggiungi la parte superiore del movimento, cambia la presa in modo che i palmi delle mani siano rivolti verso di te.",
+      "Continua a sollevarti finché il petto non raggiunge la barra, quindi fermati per un momento.",
+      "Abbassati lentamente fino alla posizione iniziale, mantenendo il controllo durante tutto il movimento.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Avuç içleriniz sizden uzağa bakacak şekilde ve elleriniz omuz genişliğinden biraz daha geniş olacak şekilde bir barfiks çubuğuna asılarak başlayın.",
+      "Merkez bölgenizi devreye sokun ve vücudunuzu göğsünüzle birlikte bara doğru yukarı çekin.",
+      "Hareketin tepesine ulaştığınızda, avuçlarınız size bakacak şekilde tutuşunuzu değiştirin.",
+      "Göğsünüz bara ulaşana kadar kendinizi yukarı çekmeye devam edin, ardından bir an duraklayın.",
+      "Hareket boyunca kontrolü koruyarak kendinizi yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Comienza colgándote de una barra de dominadas con las palmas mirando hacia afuera y las manos un poco más separadas que la anchura de los hombros.",
+      "Activa el core y tira de tu cuerpo hacia arriba, hacia la barra, guiando con el pecho.",
+      "Al llegar a la parte alta del movimiento, cambia el agarre de modo que las palmas queden hacia ti.",
+      "Continúa subiendo hasta que el pecho llegue a la barra, luego haz una pausa de un momento.",
+      "Baja lentamente de nuevo a la posición inicial, manteniendo el control durante todo el movimiento.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с подвешивания на перекладине, повернув ладонями от себя и расставив руки чуть шире плеч.",
+      "Напрягите корпус и подтяните тело к перекладине, ведя грудью.",
+      "Достигнув вершины движения, поменяйте хват так, чтобы ладони были обращены к вам.",
+      "Продолжайте подтягиваться до тех пор, пока грудь не достигнет перекладины, затем сделайте паузу на мгновение.",
+      "Медленно опуститесь обратно в исходное положение, сохраняя контроль на протяжении всего движения.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "首先悬挂在引体向上杆上，手掌背向自己，双手之间的距离略大于肩宽。",
+      "启动核心肌群，将身体拉向杠铃杆，以胸部为主导。",
+      "当你到达动作的最高点时，改变你的握力，使你的手掌朝向你。",
+      "继续拉起自己，直到胸部到达杠铃，然后暂停片刻。",
+      "慢慢地将自己放回到起始位置，在整个运动过程中保持控制。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपनी हथेलियों को अपने से दूर की ओर रखते हुए पुल-अप बार से लटकने से शुरुआत करें और आपके हाथ कंधे की चौड़ाई से थोड़े चौड़े हों।",
+      "अपने कोर को संलग्न करें और अपने शरीर को अपनी छाती की ओर ले जाते हुए बार की ओर ऊपर खींचें।",
+      "जैसे ही आप गति के शीर्ष पर पहुँचते हैं, अपनी पकड़ को बदलें ताकि आपकी हथेलियाँ आपकी ओर हों।",
+      "जब तक आपकी छाती बार तक न पहुंच जाए, तब तक खुद को ऊपर खींचते रहें, फिर एक पल के लिए रुकें।",
+      "पूरे आंदोलन पर नियंत्रण बनाए रखते हुए, धीरे-धीरे अपने आप को प्रारंभिक स्थिति में वापस लाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Zacznij, wisząc na drążku do podciągania z dłońmi skierowanymi od siebie, rozstawionymi nieco szerzej niż szerokość barków.",
+      "Napnij mięśnie brzucha i podciągnij ciało w stronę drążka, prowadząc klatką piersiową.",
+      "Gdy osiągniesz górę ruchu, zmień chwyt tak, aby dłonie były skierowane do ciebie.",
+      "Kontynuuj podciąganie, aż klatka piersiowa dosięgnie drążka, a następnie zatrzymaj się na chwilę.",
+      "Powoli opuść się z powrotem do pozycji wyjściowej, zachowując kontrolę przez cały ruch.",
+      "Powtórz zgodnie z żądaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "손바닥이 몸에서 멀어지도록 풀업 바에 달려 손이 어깨 너비보다 약간 넓도록 합니다.",
+      "코어에 힘을 주고 가슴을 앞으로 내밀며 몸을 바 쪽으로 당깁니다.",
+      "동작의 위쪽에 도달하면 손바닥이 몸을 향하도록 그립을 바꿉니다.",
+      "가슴이 바에 닿을 때까지 계속 자신을 끌어올린 후 잠시 멈춥니다.",
+      "천천히 처음 위치로 내려가며 동작 내내 통제를 유지합니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Commence suspendu à une barre de traction, les paumes tournées vers l'extérieur et les mains légèrement plus écartées que la largeur des épaules.",
+      "Gaine ta sangle abdominale et tire ton corps vers la barre, en menant avec ta poitrine.",
+      "Une fois en haut du mouvement, change ta prise pour que tes paumes soient tournées vers toi.",
+      "Continue à te hisser jusqu'à ce que ta poitrine atteigne la barre, puis marque une pause.",
+      "Abaisse-toi lentement vers la position de départ, en gardant le contrôle tout au long du mouvement.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "triceps",
+    "shoulders",
+    "chest"
+  ],
+  "target": "lats",
+  "image": "images/3286-JsOV1SU.jpg",
+  "gif_url": "videos/3286-JsOV1SU.gif",
+  "media_id": "JsOV1SU",
+  "created_at": "2026-03-18T12:31:32.905992+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,123 @@
+{
+  "id": "0203",
+  "name": "cable rear delt row (with rope)",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Attach a rope handle to a low pulley cable machine. Stand facing the machine with your feet shoulder-width apart. Grasp the rope handle with an overhand grip, palms facing each other. Bend your knees slightly and hinge forward at the hips, keeping your back straight. Keep your elbows slightly bent and pull the rope towards your chest, squeezing your shoulder blades together. Pause for a moment at the top of the movement, then slowly release the tension and return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Attacca una maniglia di corda a una macchina a cavo a carrucole bassa. Stai rivolto verso la macchina con i piedi alla larghezza delle spalle. Afferra il manico della corda con una presa sopra la mano, palmi rivolti uno verso l'altro. Piega leggermente le ginocchia e piega in avanti ai fianchi, mantenendo la schiena dritta. Tieni i gomiti leggermente piegati e tira la corda verso il petto, stringendo le scapole insieme. Fermati un attimo all'inizio del movimento, poi rilassa lentamente la tensione e torna alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Alçak makaralı bir kablo makinesine bir halat sapı takın. Ayaklarınız omuz genişliğinde açık olacak şekilde makineye dönük durun. Halat sapını avuç içleriniz birbirine bakacak şekilde üstten kavrayın. Dizlerinizi hafifçe bükün ve sırtınızı düz tutarak kalçalarınızdan öne doğru eğilin. Dirseklerinizi hafifçe bükülü tutun ve kürek kemiklerinizi birbirine sıkıştırarak ipi göğsünüze doğru çekin. Hareketin en üst noktasında bir süre duraklayın, ardından yavaş yavaş gerilimi bırakın ve başlangıç ​​pozisyonuna dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Sujeta una agarradera de cuerda a una máquina de cable con polea baja. Ponte de pie frente a la máquina con los pies separados a la altura de los hombros. Sujeta la agarradera de cuerda con un agarre prono, con las palmas una frente a la otra. Flexiona ligeramente las rodillas e inclínate hacia adelante desde las caderas, manteniendo la espalda recta. Mantén los codos ligeramente flexionados y jala la cuerda hacia el pecho, apretando los omóplatos entre sí. Haz una pausa por un momento en la parte más alta del movimiento y luego libera lentamente la tensión, regresando a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Прикрепите веревочную ручку к канатной машине с низким шкивом. Встаньте лицом к тренажеру, поставив ноги на ширине плеч. Возьмитесь за ручку веревки верхним хватом, ладони обращены друг к другу. Слегка согните колени и наклонитесь вперед в бедрах, сохраняя спину прямой. Держите локти слегка согнутыми и тяните веревку к груди, сжимая лопатки вместе. Сделайте паузу на мгновение в верхней точке движения, затем медленно ослабьте напряжение и вернитесь в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "将绳索手柄连接到低滑轮电缆机器上。 面向机器站立，双脚分开与肩同宽。 正手握住绳索手柄，手掌相对。 稍微弯曲膝盖，髋部向前转动，保持背部挺直。 保持肘部稍微弯曲，将绳子拉向胸部，将肩胛骨挤压在一起。 在动作的最高点停顿片刻，然后慢慢释放张力，回到起始位置。 重复所需的重复次数。",
+    "hi": "लो पुली केबल मशीन में रस्सी का हैंडल जोड़ें। अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए मशीन की ओर मुंह करके खड़े हो जाएं। रस्सी के हैंडल को ओवरहैंड ग्रिप से पकड़ें, हथेलियाँ एक-दूसरे के सामने हों। अपने घुटनों को थोड़ा मोड़ें और अपनी पीठ को सीधा रखते हुए कूल्हों पर आगे की ओर झुकें। अपनी कोहनियों को थोड़ा मोड़कर रखें और अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए रस्सी को अपनी छाती की ओर खींचें। गति के शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे तनाव छोड़ें और प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Podłącz uchwyt z liną do wyciągu z dolnym bloczkiem. Stań przodem do maszyny, stopy rozstawione na szerokość barków. Chwyć uchwyt z liną nachwytem, dłonie zwrócone do siebie. Ugnij lekko kolana i pochyl się w biodrach, utrzymując proste plecy. Trzymając lekko ugięte łokcie, przyciągnij linę do klatki piersiowej, ściągając łopatki. Zatrzymaj się na moment w górnej fazie ruchu, a następnie powoli zwolnij napięcie i wróć do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "낮은 도르래 케이블 머신에 로프 손잡이를 부착합니다. 머신을 향해 어깨 너비로 발을 벌리고 섭니다. 손바닥이 서로 마주보는 오버핸드 그립으로 로프 손잡이를 잡습니다. 무릎을 약간 구부리고 허리에서 구부려 등을 곧게 유지합니다. 팔꿈치를 약간 구부린 채로 로프를 가슴 방향으로 당기며 어깨뼈를 함께 조입니다. 움직임의 최고점에서 잠깐 멈춘 후 천천히 긴장을 풀고 시작 위치로 돌립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Fixe une poignée à corde à une machine à câble à poulie basse. Tiens-toi face à la machine, les pieds écartés à la largeur des épaules. Saisis la poignée à corde avec une prise en pronation, les paumes tournées l'une vers l'autre. Fléchis légèrement les genoux et bascule vers l'avant au niveau des hanches en gardant le dos droit. Garde tes coudes légèrement fléchis et tire la corde vers ta poitrine, en resserrant tes omoplates. Marque une pause en haut du mouvement, puis relâche lentement la tension et reviens à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Attach a rope handle to a low pulley cable machine.",
+      "Stand facing the machine with your feet shoulder-width apart.",
+      "Grasp the rope handle with an overhand grip, palms facing each other.",
+      "Bend your knees slightly and hinge forward at the hips, keeping your back straight.",
+      "Keep your elbows slightly bent and pull the rope towards your chest, squeezing your shoulder blades together.",
+      "Pause for a moment at the top of the movement, then slowly release the tension and return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Attacca una maniglia di corda a una macchina a cavo a carrucole bassa.",
+      "Stai rivolto verso la macchina con i piedi alla larghezza delle spalle.",
+      "Afferra il manico della corda con una presa sopra la mano, palmi rivolti uno verso l'altro.",
+      "Piega leggermente le ginocchia e piega in avanti ai fianchi, mantenendo la schiena dritta.",
+      "Tieni i gomiti leggermente piegati e tira la corda verso il petto, stringendo le scapole insieme.",
+      "Fermati un attimo all'inizio del movimento, poi rilassa lentamente la tensione e torna alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Alçak makaralı bir kablo makinesine bir halat sapı takın.",
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde makineye dönük durun.",
+      "Halat sapını avuç içleriniz birbirine bakacak şekilde üstten kavrayın.",
+      "Dizlerinizi hafifçe bükün ve sırtınızı düz tutarak kalçalarınızdan öne doğru eğilin.",
+      "Dirseklerinizi hafifçe bükülü tutun ve kürek kemiklerinizi birbirine sıkıştırarak ipi göğsünüze doğru çekin.",
+      "Hareketin en üst noktasında bir süre duraklayın, ardından yavaş yavaş gerilimi bırakın ve başlangıç ​​pozisyonuna dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Sujeta una agarradera de cuerda a una máquina de cable con polea baja.",
+      "Ponte de pie frente a la máquina con los pies separados a la altura de los hombros.",
+      "Sujeta la agarradera de cuerda con un agarre prono, con las palmas una frente a la otra.",
+      "Flexiona ligeramente las rodillas e inclínate hacia adelante desde las caderas, manteniendo la espalda recta.",
+      "Mantén los codos ligeramente flexionados y jala la cuerda hacia el pecho, apretando los omóplatos entre sí.",
+      "Haz una pausa por un momento en la parte más alta del movimiento y luego libera lentamente la tensión, regresando a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Прикрепите веревочную ручку к канатной машине с низким шкивом.",
+      "Встаньте лицом к тренажеру, поставив ноги на ширине плеч.",
+      "Возьмитесь за ручку веревки верхним хватом, ладони обращены друг к другу.",
+      "Слегка согните колени и наклонитесь вперед в бедрах, сохраняя спину прямой.",
+      "Держите локти слегка согнутыми и тяните веревку к груди, сжимая лопатки вместе.",
+      "Сделайте паузу на мгновение в верхней точке движения, затем медленно ослабьте напряжение и вернитесь в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将绳索手柄连接到低滑轮电缆机器上。",
+      "面向机器站立，双脚分开与肩同宽。",
+      "正手握住绳索手柄，手掌相对。",
+      "稍微弯曲膝盖，髋部向前转动，保持背部挺直。",
+      "保持肘部稍微弯曲，将绳子拉向胸部，将肩胛骨挤压在一起。",
+      "在动作的最高点停顿片刻，然后慢慢释放张力，回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "लो पुली केबल मशीन में रस्सी का हैंडल जोड़ें।",
+      "अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए मशीन की ओर मुंह करके खड़े हो जाएं।",
+      "रस्सी के हैंडल को ओवरहैंड ग्रिप से पकड़ें, हथेलियाँ एक-दूसरे के सामने हों।",
+      "अपने घुटनों को थोड़ा मोड़ें और अपनी पीठ को सीधा रखते हुए कूल्हों पर आगे की ओर झुकें।",
+      "अपनी कोहनियों को थोड़ा मोड़कर रखें और अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए रस्सी को अपनी छाती की ओर खींचें।",
+      "गति के शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे तनाव छोड़ें और प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Podłącz uchwyt z liną do wyciągu z dolnym bloczkiem.",
+      "Stań przodem do maszyny, stopy rozstawione na szerokość barków.",
+      "Chwyć uchwyt z liną nachwytem, dłonie zwrócone do siebie.",
+      "Ugnij lekko kolana i pochyl się w biodrach, utrzymując proste plecy.",
+      "Trzymając lekko ugięte łokcie, przyciągnij linę do klatki piersiowej, ściągając łopatki.",
+      "Zatrzymaj się na moment w górnej fazie ruchu, a następnie powoli zwolnij napięcie i wróć do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "낮은 도르래 케이블 머신에 로프 손잡이를 부착합니다.",
+      "머신을 향해 어깨 너비로 발을 벌리고 섭니다.",
+      "손바닥이 서로 마주보는 오버핸드 그립으로 로프 손잡이를 잡습니다.",
+      "무릎을 약간 구부리고 허리에서 구부려 등을 곧게 유지합니다.",
+      "팔꿈치를 약간 구부린 채로 로프를 가슴 방향으로 당기며 어깨뼈를 함께 조입니다.",
+      "움직임의 최고점에서 잠깐 멈춘 후 천천히 긴장을 풀고 시작 위치로 돌립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Fixe une poignée à corde à une machine à câble à poulie basse.",
+      "Tiens-toi face à la machine, les pieds écartés à la largeur des épaules.",
+      "Saisis la poignée à corde avec une prise en pronation, les paumes tournées l'une vers l'autre.",
+      "Fléchis légèrement les genoux et bascule vers l'avant au niveau des hanches en gardant le dos droit.",
+      "Garde tes coudes légèrement fléchis et tire la corde vers ta poitrine, en resserrant tes omoplates.",
+      "Marque une pause en haut du mouvement, puis relâche lentement la tension et reviens à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "trapezius",
+  "secondary_muscles": [
+    "trapezius",
+    "rhomboids",
+    "biceps"
+  ],
+  "target": "delts",
+  "image": "images/0203-wqNPGCg.jpg",
+  "gif_url": "videos/0203-wqNPGCg.gif",
+  "media_id": "wqNPGCg",
+  "created_at": "2026-03-18T12:31:32.875502+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

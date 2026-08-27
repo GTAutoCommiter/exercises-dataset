@@ -1,0 +1,102 @@
+{
+  "id": "0019",
+  "name": "assisted triceps dip (kneeling)",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "leverage machine",
+  "instructions": {
+    "en": "Adjust the machine to your desired weight and height. Kneel down on the pad facing the machine, with your hands gripping the handles. Lower your body by bending your elbows, keeping your back straight and close to the machine. Pause for a moment at the bottom, then push yourself back up to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Regola la macchina in base al peso e all'altezza desiderati. Inginocchiarsi sul tappetino di fronte alla macchina, con le mani che afferrano le maniglie. Abbassa il corpo piegando i gomiti, mantenendo la schiena dritta e vicina alla macchina. Fai una pausa per un momento in basso, quindi spingiti indietro fino alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Makineyi istediğiniz ağırlığa ve yüksekliğe ayarlayın. Elleriniz tutamaçları kavrayarak, makineye bakan ped üzerinde diz çökün. Dirseklerinizi bükerek, sırtınızı düz ve makineye yakın tutarak vücudunuzu indirin. Altta bir an duraklayın, ardından kendinizi başlangıç ​​pozisyonuna doğru itin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta la máquina al peso y la altura deseados. Arrodíllate sobre la almohadilla frente a la máquina, con las manos sujetando las agarraderas. Baja el cuerpo flexionando los codos, manteniendo la espalda recta y cerca de la máquina. Haz una pausa por un momento en la parte inferior, luego empuja tu cuerpo de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Настройте машину на желаемый вес и рост. Встаньте на колени лицом к тренажеру, взявшись руками за ручки. Опустите тело, согнув локти, держа спину прямо и близко к тренажеру. Задержитесь на мгновение в нижней точке, затем вернитесь в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "将机器调整到您想要的重量和高度。 跪在面向机器的垫子上，双手握住手柄。 弯曲肘部降低身体，保持背部挺直并靠近机器。 在底部暂停片刻，然后将自己推回到起始位置。 重复所需的重复次数。",
+    "hi": "मशीन को अपने इच्छित वजन और ऊंचाई के अनुसार समायोजित करें। मशीन के सामने पैड पर घुटने टेकें, अपने हाथों से हैंडल को पकड़ें। अपनी कोहनियों को मोड़कर, अपनी पीठ को सीधा और मशीन के पास रखते हुए अपने शरीर को नीचे लाएँ। नीचे एक पल के लिए रुकें, फिर अपने आप को वापस प्रारंभिक स्थिति में धकेलें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Ustaw maszynę na odpowiedni ciężar i wysokość. Uklęknij na poduszce przodem do maszyny, trzymając uchwyty dłońmi. Opuść ciało, uginając łokcie, utrzymując proste plecy blisko maszyny. Zatrzymaj się na chwilę w dolnej pozycji, a następnie wypchnij się z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę razy.",
+    "ko": "머신을 원하는 무게와 높이로 조정합니다. 머신을 마주보고 패드에 무릎을 꿇고 손잡이를 잡습니다. 팔꿈치를 구부려 몸을 내려가며 등을 펴서 머신에 가깝게 유지합니다. 맨 아래에서 잠깐 멈춘 후 팔을 펴서 시작 위치로 자신을 들어올립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Règle la machine au poids et à la hauteur souhaités. Mets-toi à genoux sur le coussinet face à la machine, les mains agrippant les poignées. Abaisse ton corps en fléchissant tes coudes, en gardant ton dos droit et près de la machine. Marque une pause en bas, puis pousse-toi vers le haut jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the machine to your desired weight and height.",
+      "Kneel down on the pad facing the machine, with your hands gripping the handles.",
+      "Lower your body by bending your elbows, keeping your back straight and close to the machine.",
+      "Pause for a moment at the bottom, then push yourself back up to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Regola la macchina in base al peso e all'altezza desiderati.",
+      "Inginocchiarsi sul tappetino di fronte alla macchina, con le mani che afferrano le maniglie.",
+      "Abbassa il corpo piegando i gomiti, mantenendo la schiena dritta e vicina alla macchina.",
+      "Fai una pausa per un momento in basso, quindi spingiti indietro fino alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Makineyi istediğiniz ağırlığa ve yüksekliğe ayarlayın.",
+      "Elleriniz tutamaçları kavrayarak, makineye bakan ped üzerinde diz çökün.",
+      "Dirseklerinizi bükerek, sırtınızı düz ve makineye yakın tutarak vücudunuzu indirin.",
+      "Altta bir an duraklayın, ardından kendinizi başlangıç ​​pozisyonuna doğru itin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta la máquina al peso y la altura deseados.",
+      "Arrodíllate sobre la almohadilla frente a la máquina, con las manos sujetando las agarraderas.",
+      "Baja el cuerpo flexionando los codos, manteniendo la espalda recta y cerca de la máquina.",
+      "Haz una pausa por un momento en la parte inferior, luego empuja tu cuerpo de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Настройте машину на желаемый вес и рост.",
+      "Встаньте на колени лицом к тренажеру, взявшись руками за ручки.",
+      "Опустите тело, согнув локти, держа спину прямо и близко к тренажеру.",
+      "Задержитесь на мгновение в нижней точке, затем вернитесь в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将机器调整到您想要的重量和高度。",
+      "跪在面向机器的垫子上，双手握住手柄。",
+      "弯曲肘部降低身体，保持背部挺直并靠近机器。",
+      "在底部暂停片刻，然后将自己推回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "मशीन को अपने इच्छित वजन और ऊंचाई के अनुसार समायोजित करें।",
+      "मशीन के सामने पैड पर घुटने टेकें, अपने हाथों से हैंडल को पकड़ें।",
+      "अपनी कोहनियों को मोड़कर, अपनी पीठ को सीधा और मशीन के पास रखते हुए अपने शरीर को नीचे लाएँ।",
+      "नीचे एक पल के लिए रुकें, फिर अपने आप को वापस प्रारंभिक स्थिति में धकेलें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Ustaw maszynę na odpowiedni ciężar i wysokość.",
+      "Uklęknij na poduszce przodem do maszyny, trzymając uchwyty dłońmi.",
+      "Opuść ciało, uginając łokcie, utrzymując proste plecy blisko maszyny.",
+      "Zatrzymaj się na chwilę w dolnej pozycji, a następnie wypchnij się z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "머신을 원하는 무게와 높이로 조정합니다.",
+      "머신을 마주보고 패드에 무릎을 꿇고 손잡이를 잡습니다.",
+      "팔꿈치를 구부려 몸을 내려가며 등을 펴서 머신에 가깝게 유지합니다.",
+      "맨 아래에서 잠깐 멈춘 후 팔을 펴서 시작 위치로 자신을 들어올립니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Règle la machine au poids et à la hauteur souhaités.",
+      "Mets-toi à genoux sur le coussinet face à la machine, les mains agrippant les poignées.",
+      "Abaisse ton corps en fléchissant tes coudes, en gardant ton dos droit et près de la machine.",
+      "Marque une pause en bas, puis pousse-toi vers le haut jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "chest",
+  "secondary_muscles": [
+    "chest",
+    "shoulders"
+  ],
+  "target": "triceps",
+  "image": "images/0019-J60bN17.jpg",
+  "gif_url": "videos/0019-J60bN17.gif",
+  "media_id": "J60bN17",
+  "created_at": "2026-03-18T12:31:32.855567+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,113 @@
+{
+  "id": "3665",
+  "name": "power point plank",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Start in a high plank position with your hands directly under your shoulders and your body in a straight line from head to toe. Engage your core and squeeze your glutes to maintain a stable position. Lower your body down onto your forearms, one arm at a time, maintaining a straight line from head to toe. Hold this position for the desired amount of time, keeping your core and glutes engaged. To return to the starting position, push through your forearms and lift your body back up into a high plank position. Repeat for the desired number of repetitions.",
+    "it": "Inizia in una posizione di plancia alta con le mani direttamente sotto le spalle e il corpo in linea retta dalla testa ai piedi. Coinvolgi il core e contrai i glutei per mantenere una posizione stabile. Abbassa il corpo sugli avambracci, un braccio alla volta, mantenendo una linea retta dalla testa ai piedi. Mantieni questa posizione per il tempo desiderato, mantenendo impegnati il ​​core e i glutei. Per tornare alla posizione di partenza, spingi gli avambracci e solleva il corpo in una posizione di plancia alta. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Elleriniz doğrudan omuzlarınızın altında ve vücudunuz baştan ayağa düz bir çizgide olacak şekilde yüksek bir plank pozisyonuyla başlayın. Sabit bir pozisyonu korumak için merkez bölgenizi devreye sokun ve kalça kaslarınızı sıkın. Vücudunuzu, baştan ayağa düz bir çizgiyi koruyarak, kollarınızı teker teker ön kollarınızın üzerine indirin. Merkez bölgenizi ve kalça kaslarınızı meşgul tutarak bu pozisyonu istediğiniz süre boyunca tutun. Başlangıç ​​pozisyonuna dönmek için önkollarınızı itin ve vücudunuzu tekrar yüksek tahta pozisyonuna kaldırın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Comienza en posición de plancha alta con las manos directamente debajo de los hombros y el cuerpo en línea recta de la cabeza a los pies. Activa el core y aprieta los glúteos para mantener una posición estable. Baja el cuerpo hasta los antebrazos, un brazo a la vez, manteniendo una línea recta de la cabeza a los pies. Mantén esta posición durante el tiempo deseado, con el core y los glúteos activados. Para volver a la posición inicial, empuja con los antebrazos y eleva el cuerpo de nuevo a una posición de plancha alta. Repite el número de repeticiones deseado.",
+    "ru": "Начните с позиции высокой планки, положив руки прямо под плечи, а тело образуя прямую линию от головы до пят. Напрягите корпус и сожмите ягодицы, чтобы сохранить устойчивое положение. Опустите тело на предплечья, по одной руке за раз, сохраняя прямую линию от головы до пят. Удерживайте это положение желаемое время, сохраняя при этом мышцы корпуса и ягодиц. Чтобы вернуться в исходное положение, оттолкнитесь предплечьями и поднимите тело обратно в положение высокой планки. Повторите необходимое количество повторений.",
+    "zh": "从高平板支撑位置开始，双手直接放在肩膀下方，身体从头到脚成一条直线。 启动你的核心并挤压你的臀肌以保持稳定的位置。 将身体放低到前臂上，一次一只手臂，从头到脚保持一条直线。 保持这个姿势所需的时间，保持核心肌群和臀肌的参与。 要返回到起始位置，请推动前臂并将身体抬回到高位平板支撑位置。 重复所需的重复次数。",
+    "hi": "अपने हाथों को सीधे अपने कंधों के नीचे और अपने शरीर को सिर से पैर तक एक सीधी रेखा में रखते हुए एक ऊंची तख़्त स्थिति में शुरुआत करें। स्थिर स्थिति बनाए रखने के लिए अपने कोर को संलग्न करें और अपने ग्लूट्स को निचोड़ें। सिर से पैर तक एक सीधी रेखा बनाए रखते हुए, अपने शरीर को अपने अग्रबाहुओं पर, एक समय में एक हाथ पर नीचे लाएँ। अपने कोर और ग्लूट्स को व्यस्त रखते हुए, वांछित समय तक इस स्थिति में रहें। शुरुआती स्थिति में लौटने के लिए, अपने अग्रबाहुओं को धक्का दें और अपने शरीर को वापस ऊंचे तख़्ते की स्थिति में उठाएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Rozpocznij w wysokiej pozycji deski z dłońmi bezpośrednio pod barkami i ciałem w linii prostej od głowy do stóp. Napnij mięśnie brzucha i ścisnij pośladki, aby utrzymać stabilną pozycję. Opuść ciało na przedramiona, jedna ręka na raz, zachowując linię prostą od głowy do stóp. Utrzymaj tę pozycję przez wybrany czas, trzymając napięte mięśnie brzucha i pośladki. Aby wrócić do pozycji wyjściowej, odepchnij się przedramionami i unieś ciało z powrotem do wysokiej pozycji deski. Powtórz zalecaną liczbę razy.",
+    "ko": "손이 어깨 아래에 있고 머리에서 발끝까지 일직선인 높은 플랭크 자세로 시작합니다. 코어를 조여 안정적인 자세를 유지하고 둔근을 조입니다. 일직선을 유지하면서 한 팔씩 몸을 전완부 쪽으로 낮춥니다. 원하는 시간 동안 이 자세를 유지하면서 코어와 둔근을 조여줍니다. 처음 자세로 돌아가기 위해 전완부를 밀어 몸을 높은 플랭크로 들어올립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Commence en position de planche haute, les mains directement sous les épaules et le corps aligné de la tête aux pieds. Gaine ta sangle abdominale et contracte tes fessiers pour maintenir une position stable. Abaisse ton corps sur tes avant-bras, un bras à la fois, en maintenant une ligne droite de la tête aux pieds. Maintiens cette position pendant la durée souhaitée, en gardant ta sangle abdominale et tes fessiers gainés. Pour revenir à la position de départ, pousse sur tes avant-bras et remonte ton corps en position de planche haute. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start in a high plank position with your hands directly under your shoulders and your body in a straight line from head to toe.",
+      "Engage your core and squeeze your glutes to maintain a stable position.",
+      "Lower your body down onto your forearms, one arm at a time, maintaining a straight line from head to toe.",
+      "Hold this position for the desired amount of time, keeping your core and glutes engaged.",
+      "To return to the starting position, push through your forearms and lift your body back up into a high plank position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia in una posizione di plancia alta con le mani direttamente sotto le spalle e il corpo in linea retta dalla testa ai piedi.",
+      "Coinvolgi il core e contrai i glutei per mantenere una posizione stabile.",
+      "Abbassa il corpo sugli avambracci, un braccio alla volta, mantenendo una linea retta dalla testa ai piedi.",
+      "Mantieni questa posizione per il tempo desiderato, mantenendo impegnati il ​​core e i glutei.",
+      "Per tornare alla posizione di partenza, spingi gli avambracci e solleva il corpo in una posizione di plancia alta.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Elleriniz doğrudan omuzlarınızın altında ve vücudunuz baştan ayağa düz bir çizgide olacak şekilde yüksek bir plank pozisyonuyla başlayın.",
+      "Sabit bir pozisyonu korumak için merkez bölgenizi devreye sokun ve kalça kaslarınızı sıkın.",
+      "Vücudunuzu, baştan ayağa düz bir çizgiyi koruyarak, kollarınızı teker teker ön kollarınızın üzerine indirin.",
+      "Merkez bölgenizi ve kalça kaslarınızı meşgul tutarak bu pozisyonu istediğiniz süre boyunca tutun.",
+      "Başlangıç ​​pozisyonuna dönmek için önkollarınızı itin ve vücudunuzu tekrar yüksek tahta pozisyonuna kaldırın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Comienza en posición de plancha alta con las manos directamente debajo de los hombros y el cuerpo en línea recta de la cabeza a los pies.",
+      "Activa el core y aprieta los glúteos para mantener una posición estable.",
+      "Baja el cuerpo hasta los antebrazos, un brazo a la vez, manteniendo una línea recta de la cabeza a los pies.",
+      "Mantén esta posición durante el tiempo deseado, con el core y los glúteos activados.",
+      "Para volver a la posición inicial, empuja con los antebrazos y eleva el cuerpo de nuevo a una posición de plancha alta.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с позиции высокой планки, положив руки прямо под плечи, а тело образуя прямую линию от головы до пят.",
+      "Напрягите корпус и сожмите ягодицы, чтобы сохранить устойчивое положение.",
+      "Опустите тело на предплечья, по одной руке за раз, сохраняя прямую линию от головы до пят.",
+      "Удерживайте это положение желаемое время, сохраняя при этом мышцы корпуса и ягодиц.",
+      "Чтобы вернуться в исходное положение, оттолкнитесь предплечьями и поднимите тело обратно в положение высокой планки.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "从高平板支撑位置开始，双手直接放在肩膀下方，身体从头到脚成一条直线。",
+      "启动你的核心并挤压你的臀肌以保持稳定的位置。",
+      "将身体放低到前臂上，一次一只手臂，从头到脚保持一条直线。",
+      "保持这个姿势所需的时间，保持核心肌群和臀肌的参与。",
+      "要返回到起始位置，请推动前臂并将身体抬回到高位平板支撑位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने हाथों को सीधे अपने कंधों के नीचे और अपने शरीर को सिर से पैर तक एक सीधी रेखा में रखते हुए एक ऊंची तख़्त स्थिति में शुरुआत करें।",
+      "स्थिर स्थिति बनाए रखने के लिए अपने कोर को संलग्न करें और अपने ग्लूट्स को निचोड़ें।",
+      "सिर से पैर तक एक सीधी रेखा बनाए रखते हुए, अपने शरीर को अपने अग्रबाहुओं पर, एक समय में एक हाथ पर नीचे लाएँ।",
+      "अपने कोर और ग्लूट्स को व्यस्त रखते हुए, वांछित समय तक इस स्थिति में रहें।",
+      "शुरुआती स्थिति में लौटने के लिए, अपने अग्रबाहुओं को धक्का दें और अपने शरीर को वापस ऊंचे तख़्ते की स्थिति में उठाएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Rozpocznij w wysokiej pozycji deski z dłońmi bezpośrednio pod barkami i ciałem w linii prostej od głowy do stóp.",
+      "Napnij mięśnie brzucha i ścisnij pośladki, aby utrzymać stabilną pozycję.",
+      "Opuść ciało na przedramiona, jedna ręka na raz, zachowując linię prostą od głowy do stóp.",
+      "Utrzymaj tę pozycję przez wybrany czas, trzymając napięte mięśnie brzucha i pośladki.",
+      "Aby wrócić do pozycji wyjściowej, odepchnij się przedramionami i unieś ciało z powrotem do wysokiej pozycji deski.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "손이 어깨 아래에 있고 머리에서 발끝까지 일직선인 높은 플랭크 자세로 시작합니다.",
+      "코어를 조여 안정적인 자세를 유지하고 둔근을 조입니다.",
+      "일직선을 유지하면서 한 팔씩 몸을 전완부 쪽으로 낮춥니다.",
+      "원하는 시간 동안 이 자세를 유지하면서 코어와 둔근을 조여줍니다.",
+      "처음 자세로 돌아가기 위해 전완부를 밀어 몸을 높은 플랭크로 들어올립니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Commence en position de planche haute, les mains directement sous les épaules et le corps aligné de la tête aux pieds.",
+      "Gaine ta sangle abdominale et contracte tes fessiers pour maintenir une position stable.",
+      "Abaisse ton corps sur tes avant-bras, un bras à la fois, en maintenant une ligne droite de la tête aux pieds.",
+      "Maintiens cette position pendant la durée souhaitée, en gardant ta sangle abdominale et tes fessiers gainés.",
+      "Pour revenir à la position de départ, pousse sur tes avant-bras et remonte ton corps en position de planche haute.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "triceps",
+    "glutes"
+  ],
+  "target": "abs",
+  "image": "images/3665-hCjGsRQ.jpg",
+  "gif_url": "videos/3665-hCjGsRQ.gif",
+  "media_id": "hCjGsRQ",
+  "created_at": "2026-03-18T12:31:32.88832+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

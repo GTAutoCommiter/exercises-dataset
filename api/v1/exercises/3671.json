@@ -1,0 +1,114 @@
+{
+  "id": "3671",
+  "name": "ski step",
+  "category": "cardio",
+  "body_part": "cardio",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart. Bend your knees slightly and keep your back straight. Jump to the right, landing on your right foot while swinging your left leg behind your right leg. Immediately jump to the left, landing on your left foot while swinging your right leg behind your left leg. Continue alternating jumps from side to side, mimicking a skiing motion. Repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi alla larghezza delle spalle. Piega leggermente le ginocchia e mantieni la schiena dritta. Salta a destra, atterrando sul piede destro mentre fai oscillare la gamba sinistra dietro quella destra. Salta immediatamente a sinistra, atterrando sul piede sinistro mentre fai oscillare la gamba destra dietro quella sinistra. Continua alternando i salti da un lato all'altro, imitando il movimento dello sci. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durun. Dizlerinizi hafifçe bükün ve sırtınızı düz tutun. Sağa atlayın ve sol bacağınızı sağ bacağınızın arkasında sallarken sağ ayağınızın üzerine inin. Hemen sola atlayın ve sağ bacağınızı sol bacağınızın arkasında sallarken sol ayağınızın üzerine inin. Kayak hareketini taklit ederek bir yandan diğer yana alternatif atlayışlara devam edin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros. Dobla ligeramente las rodillas y mantén la espalda recta. Salta hacia la derecha, aterrizando sobre el pie derecho mientras balanceas la pierna izquierda detrás de la pierna derecha. Salta inmediatamente hacia la izquierda, aterrizando sobre el pie izquierdo mientras balanceas la pierna derecha detrás de la pierna izquierda. Continúa alternando los saltos de lado a lado, imitando un movimiento de esquí. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч. Слегка согните колени и держите спину прямо. Прыгните вправо, приземлившись на правую ногу и заведя левую ногу за правую. Немедленно прыгните влево, приземлившись на левую ногу и заведя правую ногу за левую. Продолжайте попеременные прыжки из стороны в сторону, имитируя движение на лыжах. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立。 稍微弯曲膝盖并保持背部挺直。 跳到右侧，右脚着地，同时将左腿摆动到右腿后面。 立即向左侧跳，左脚着地，同时将右腿摆动到左腿后面。 继续从一侧到另一侧交替跳跃，模仿滑雪动作。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई की दूरी पर रखकर खड़े हो जाएं। अपने घुटनों को थोड़ा मोड़ें और अपनी पीठ सीधी रखें। अपने दाहिने पैर के पीछे अपने बाएं पैर को घुमाते हुए अपने दाहिने पैर पर उतरते हुए दाईं ओर कूदें। तुरंत बाईं ओर कूदें, अपने बाएं पैर पर उतरें और अपने दाहिने पैर को अपने बाएं पैर के पीछे घुमाएं। स्कीइंग गति की नकल करते हुए, अगल-बगल से बारी-बारी से छलांग लगाना जारी रखें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań w rozkroku na szerokość barków. Ugnij lekko kolana i trzymaj plecy proste. Wykonaj skok w prawo, lądując na prawej stopie, jednocześnie przenosząc lewą nogę za prawą. Natychmiast wykonaj skok w lewo, lądując na lewej stopie, jednocześnie przenosząc prawą nogę za lewą. Kontynuuj naprzemienne skoki z boku na bok, naśladując ruch jazdy na nartach. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "발을 어깨 너비만큼 벌려서 서세요. 무릎을 약간 구부리고 등을 펴세요. 오른쪽으로 점프하여 오른발에 착지하고 왼쪽 다리를 오른쪽 다리 뒤로 스윙하세요. 즉시 왼쪽으로 점프하여 왼발에 착지하고 오른쪽 다리를 왼쪽 다리 뒤로 스윙하세요. 양쪽을 번갈아 가며 점프하여 스키 동작을 따라 하세요. 원하는 반복 횟수만큼 반복하세요.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules. Fléchis légèrement les genoux et garde le dos droit. Saute vers la droite, en atterrissant sur ton pied droit tout en balançant ta jambe gauche derrière ta jambe droite. Saute immédiatement vers la gauche, en atterrissant sur ton pied gauche tout en balançant ta jambe droite derrière ta jambe gauche. Continue à alterner les sauts d'un côté à l'autre, en imitant un mouvement de ski. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart.",
+      "Bend your knees slightly and keep your back straight.",
+      "Jump to the right, landing on your right foot while swinging your left leg behind your right leg.",
+      "Immediately jump to the left, landing on your left foot while swinging your right leg behind your left leg.",
+      "Continue alternating jumps from side to side, mimicking a skiing motion.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle.",
+      "Piega leggermente le ginocchia e mantieni la schiena dritta.",
+      "Salta a destra, atterrando sul piede destro mentre fai oscillare la gamba sinistra dietro quella destra.",
+      "Salta immediatamente a sinistra, atterrando sul piede sinistro mentre fai oscillare la gamba destra dietro quella sinistra.",
+      "Continua alternando i salti da un lato all'altro, imitando il movimento dello sci.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durun.",
+      "Dizlerinizi hafifçe bükün ve sırtınızı düz tutun.",
+      "Sağa atlayın ve sol bacağınızı sağ bacağınızın arkasında sallarken sağ ayağınızın üzerine inin.",
+      "Hemen sola atlayın ve sağ bacağınızı sol bacağınızın arkasında sallarken sol ayağınızın üzerine inin.",
+      "Kayak hareketini taklit ederek bir yandan diğer yana alternatif atlayışlara devam edin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros.",
+      "Dobla ligeramente las rodillas y mantén la espalda recta.",
+      "Salta hacia la derecha, aterrizando sobre el pie derecho mientras balanceas la pierna izquierda detrás de la pierna derecha.",
+      "Salta inmediatamente hacia la izquierda, aterrizando sobre el pie izquierdo mientras balanceas la pierna derecha detrás de la pierna izquierda.",
+      "Continúa alternando los saltos de lado a lado, imitando un movimiento de esquí.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч.",
+      "Слегка согните колени и держите спину прямо.",
+      "Прыгните вправо, приземлившись на правую ногу и заведя левую ногу за правую.",
+      "Немедленно прыгните влево, приземлившись на левую ногу и заведя правую ногу за левую.",
+      "Продолжайте попеременные прыжки из стороны в сторону, имитируя движение на лыжах.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立。",
+      "稍微弯曲膝盖并保持背部挺直。",
+      "跳到右侧，右脚着地，同时将左腿摆动到右腿后面。",
+      "立即向左侧跳，左脚着地，同时将右腿摆动到左腿后面。",
+      "继续从一侧到另一侧交替跳跃，模仿滑雪动作。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई की दूरी पर रखकर खड़े हो जाएं।",
+      "अपने घुटनों को थोड़ा मोड़ें और अपनी पीठ सीधी रखें।",
+      "अपने दाहिने पैर के पीछे अपने बाएं पैर को घुमाते हुए अपने दाहिने पैर पर उतरते हुए दाईं ओर कूदें।",
+      "तुरंत बाईं ओर कूदें, अपने बाएं पैर पर उतरें और अपने दाहिने पैर को अपने बाएं पैर के पीछे घुमाएँ।",
+      "स्कीइंग गति की नकल करते हुए, अगल-बगल से बारी-बारी से छलांग लगाना जारी रखें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków.",
+      "Ugnij lekko kolana i trzymaj plecy proste.",
+      "Wykonaj skok w prawo, lądując na prawej stopie, jednocześnie przenosząc lewą nogę za prawą.",
+      "Natychmiast wykonaj skok w lewo, lądując na lewej stopie, jednocześnie przenosząc prawą nogę za lewą.",
+      "Kontynuuj naprzemienne skoki z boku na bok, naśladując ruch jazdy na nartach.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 너비만큼 벌려서 서세요.",
+      "무릎을 약간 구부리고 등을 펴세요.",
+      "오른쪽으로 점프하여 오른발에 착지하고 왼쪽 다리를 오른쪽 다리 뒤로 스윙하세요.",
+      "즉시 왼쪽으로 점프하여 왼발에 착지하고 오른쪽 다리를 왼쪽 다리 뒤로 스윙하세요.",
+      "양쪽을 번갈아 가며 점프하여 스키 동작을 따라 하세요.",
+      "원하는 반복 횟수만큼 반복하세요."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules.",
+      "Fléchis légèrement les genoux et garde le dos droit.",
+      "Saute vers la droite, en atterrissant sur ton pied droit tout en balançant ta jambe gauche derrière ta jambe droite.",
+      "Saute immédiatement vers la gauche, en atterrissant sur ton pied gauche tout en balançant ta jambe droite derrière ta jambe gauche.",
+      "Continue à alterner les sauts d'un côté à l'autre, en imitant un mouvement de ski.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "glutes",
+    "calves"
+  ],
+  "target": "cardiovascular system",
+  "image": "images/3671-5MRH8H2.jpg",
+  "gif_url": "videos/3671-5MRH8H2.gif",
+  "media_id": "5MRH8H2",
+  "created_at": "2026-03-18T12:31:32.890098+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

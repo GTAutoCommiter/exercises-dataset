@@ -1,0 +1,102 @@
+{
+  "id": "0730",
+  "name": "single leg platform slide",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Start by standing with one foot on a platform or slide board. Bend your knee slightly and slide the foot on the platform backward, extending your leg. Keep your core engaged and maintain a straight posture throughout the movement. Slowly return to the starting position by sliding your foot back to the initial position. Repeat the movement for the desired number of repetitions, then switch legs.",
+    "it": "Inizia stando con un piede su una piattaforma o una tavola scorrevole. Piega leggermente il ginocchio e fai scivolare indietro il piede sulla pedana, estendendo la gamba. Mantieni il core impegnato e mantieni una postura dritta durante tutto il movimento. Ritorna lentamente alla posizione di partenza facendo scorrere il piede nella posizione iniziale. Ripeti il ​​movimento per il numero di ripetizioni desiderato, quindi cambia gamba.",
+    "tr": "Bir ayağınızı bir platform veya kayar tahta üzerinde durarak başlayın. Dizinizi hafifçe bükün ve ayağınızı platform üzerinde geriye doğru kaydırarak bacağınızı uzatın. Merkez bölgenizi meşgul tutun ve hareket boyunca düz bir duruş sergileyin. Ayağınızı başlangıç ​​pozisyonuna geri kaydırarak yavaşça başlangıç ​​pozisyonuna dönün. Hareketi istenilen tekrar sayısı kadar tekrarlayın, ardından bacak değiştirin.",
+    "es": "Comienza de pie con un pie sobre una plataforma o tabla deslizante. Dobla ligeramente la rodilla y desliza el pie sobre la plataforma hacia atrás, extendiendo la pierna. Mantén el core activado y conserva una postura recta durante todo el movimiento. Vuelve lentamente a la posición inicial deslizando el pie de regreso a la posición inicial. Repite el movimiento el número de repeticiones deseado y luego cambia de pierna.",
+    "ru": "Начните с того, что встаньте одной ногой на платформу или слайд-доску. Слегка согните колено и сдвиньте стопу по платформе назад, вытягивая ногу. Держите корпус включенным и сохраняйте прямую осанку на протяжении всего движения. Медленно вернитесь в исходное положение, сдвинув ногу обратно в исходное положение. Повторите движение желаемое количество повторений, затем поменяйте ногу.",
+    "zh": "首先将一只脚站在平台或滑板上。 稍微弯曲膝盖，将脚向后滑动到平台上，伸展腿。 在整个运动过程中保持核心参与并保持笔直姿势。 将脚滑回初始位置，慢慢返回起始位置。 重复该动作达到所需的重复次数，然后换腿。",
+    "hi": "किसी प्लेटफॉर्म या स्लाइड बोर्ड पर एक पैर रखकर खड़े होकर शुरुआत करें। अपने घुटने को थोड़ा मोड़ें और अपने पैर को फैलाते हुए पैर को प्लेटफॉर्म पर पीछे की ओर सरकाएं। अपने कोर को व्यस्त रखें और पूरे आंदोलन के दौरान सीधी मुद्रा बनाए रखें। अपने पैर को प्रारंभिक स्थिति में वापस सरकाते हुए धीरे-धीरे प्रारंभिक स्थिति में लौट आएं। वांछित संख्या में दोहराव के लिए आंदोलन को दोहराएं, फिर पैर बदलें।",
+    "pl": "Zacznij, stojąc z jedną stopą na platformie lub desce ślizgowej. Ugnij lekko kolano i przesuń stopę na platformie do tyłu, wyprostowując nogę. Napinaj mięśnie brzucha i utrzymuj prostą postawę przez cały ruch. Powoli wróć do pozycji wyjściowej, przesuwając stopę z powrotem do pozycji początkowej. Powtórz ruch przez zadaną liczbę powtórzeń, a następnie zmień nogę.",
+    "ko": "한쪽 발을 플랫폼 또는 슬라이드 보드에 올려놓고 서세요. 무릎을 약간 구부리고 플랫폼에 있는 발을 뒤로 밀어 다리를 펼칩니다. 복부를 활성화하고 전체 동작 중 곧은 자세를 유지합니다. 발을 초기 위치로 다시 밀어 시작 위치로 천천히 돌아갑니다. 원하는 반복 횟수만큼 동작을 반복한 후 다리를 전환합니다.",
+    "fr": "Commence debout, un pied posé sur une plateforme ou une planche coulissante. Fléchis légèrement ton genou et fais glisser le pied sur la plateforme vers l'arrière en étendant ta jambe. Garde ta sangle abdominale gainée et maintiens une posture droite tout au long du mouvement. Reviens lentement à la position de départ en faisant glisser ton pied vers la position initiale. Répète le mouvement le nombre de répétitions souhaité, puis change de jambe."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start by standing with one foot on a platform or slide board.",
+      "Bend your knee slightly and slide the foot on the platform backward, extending your leg.",
+      "Keep your core engaged and maintain a straight posture throughout the movement.",
+      "Slowly return to the starting position by sliding your foot back to the initial position.",
+      "Repeat the movement for the desired number of repetitions, then switch legs."
+    ],
+    "it": [
+      "Inizia stando con un piede su una piattaforma o una tavola scorrevole.",
+      "Piega leggermente il ginocchio e fai scivolare indietro il piede sulla pedana, estendendo la gamba.",
+      "Mantieni il core impegnato e mantieni una postura dritta durante tutto il movimento.",
+      "Ritorna lentamente alla posizione di partenza facendo scorrere il piede nella posizione iniziale.",
+      "Ripeti il ​​movimento per il numero di ripetizioni desiderato, quindi cambia gamba."
+    ],
+    "tr": [
+      "Bir ayağınızı bir platform veya kayar tahta üzerinde durarak başlayın.",
+      "Dizinizi hafifçe bükün ve ayağınızı platform üzerinde geriye doğru kaydırarak bacağınızı uzatın.",
+      "Merkez bölgenizi meşgul tutun ve hareket boyunca düz bir duruş sergileyin.",
+      "Ayağınızı başlangıç ​​pozisyonuna geri kaydırarak yavaşça başlangıç ​​pozisyonuna dönün.",
+      "Hareketi istenilen tekrar sayısı kadar tekrarlayın, ardından bacak değiştirin."
+    ],
+    "es": [
+      "Comienza de pie con un pie sobre una plataforma o tabla deslizante.",
+      "Dobla ligeramente la rodilla y desliza el pie sobre la plataforma hacia atrás, extendiendo la pierna.",
+      "Mantén el core activado y conserva una postura recta durante todo el movimiento.",
+      "Vuelve lentamente a la posición inicial deslizando el pie de regreso a la posición inicial.",
+      "Repite el movimiento el número de repeticiones deseado y luego cambia de pierna."
+    ],
+    "ru": [
+      "Начните с того, что встаньте одной ногой на платформу или слайд-доску.",
+      "Слегка согните колено и сдвиньте стопу по платформе назад, вытягивая ногу.",
+      "Держите корпус включенным и сохраняйте прямую осанку на протяжении всего движения.",
+      "Медленно вернитесь в исходное положение, сдвинув ногу обратно в исходное положение.",
+      "Повторите движение желаемое количество повторений, затем поменяйте ногу."
+    ],
+    "zh": [
+      "首先将一只脚站在平台或滑板上。",
+      "稍微弯曲膝盖，将脚向后滑动到平台上，伸展腿。",
+      "在整个运动过程中保持核心参与并保持笔直姿势。",
+      "将脚滑回初始位置，慢慢返回起始位置。",
+      "重复该动作达到所需的重复次数，然后换腿。"
+    ],
+    "hi": [
+      "किसी प्लेटफॉर्म या स्लाइड बोर्ड पर एक पैर रखकर खड़े होकर शुरुआत करें।",
+      "अपने घुटने को थोड़ा मोड़ें और अपने पैर को फैलाते हुए पैर को प्लेटफॉर्म पर पीछे की ओर सरकाएं।",
+      "अपने कोर को व्यस्त रखें और पूरे आंदोलन के दौरान सीधी मुद्रा बनाए रखें।",
+      "अपने पैर को प्रारंभिक स्थिति में वापस सरकाते हुए धीरे-धीरे प्रारंभिक स्थिति में लौट आएं।",
+      "वांछित संख्या में दोहराव के लिए आंदोलन को दोहराएं, फिर पैर बदलें।"
+    ],
+    "pl": [
+      "Zacznij, stojąc z jedną stopą na platformie lub desce ślizgowej.",
+      "Ugnij lekko kolano i przesuń stopę na platformie do tyłu, wyprostowując nogę.",
+      "Napinaj mięśnie brzucha i utrzymuj prostą postawę przez cały ruch.",
+      "Powoli wróć do pozycji wyjściowej, przesuwając stopę z powrotem do pozycji początkowej.",
+      "Powtórz ruch przez zadaną liczbę powtórzeń, a następnie zmień nogę."
+    ],
+    "ko": [
+      "한쪽 발을 플랫폼 또는 슬라이드 보드에 올려놓고 서세요.",
+      "무릎을 약간 구부리고 플랫폼에 있는 발을 뒤로 밀어 다리를 펼칩니다.",
+      "복부를 활성화하고 전체 동작 중 곧은 자세를 유지합니다.",
+      "발을 초기 위치로 다시 밀어 시작 위치로 천천히 돌아갑니다.",
+      "원하는 반복 횟수만큼 동작을 반복한 후 다리를 전환합니다."
+    ],
+    "fr": [
+      "Commence debout, un pied posé sur une plateforme ou une planche coulissante.",
+      "Fléchis légèrement ton genou et fais glisser le pied sur la plateforme vers l'arrière en étendant ta jambe.",
+      "Garde ta sangle abdominale gainée et maintiens une posture droite tout au long du mouvement.",
+      "Reviens lentement à la position de départ en faisant glisser ton pied vers la position initiale.",
+      "Répète le mouvement le nombre de répétitions souhaité, puis change de jambe."
+    ]
+  },
+  "muscle_group": "glutes",
+  "secondary_muscles": [
+    "glutes",
+    "quadriceps"
+  ],
+  "target": "hamstrings",
+  "image": "images/0730-LNE3wfo.jpg",
+  "gif_url": "videos/0730-LNE3wfo.gif",
+  "media_id": "LNE3wfo",
+  "created_at": "2026-03-18T12:31:32.889974+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

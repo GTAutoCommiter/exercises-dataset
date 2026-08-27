@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "total_exercises": 1324,
+  "last_updated": "2026-08-27T02:32:20Z",
+  "supported_languages": [
+    "en",
+    "it",
+    "tr",
+    "es",
+    "ru",
+    "zh",
+    "hi",
+    "pl",
+    "ko",
+    "fr"
+  ],
+  "counts": {
+    "categories": 10,
+    "body_parts": 10,
+    "equipment": 28,
+    "targets": 19
+  },
+  "endpoints": {
+    "meta": "api/v1/meta.json",
+    "exercises_index": "api/v1/exercises.json",
+    "exercise_detail": "api/v1/exercises/{id}.json",
+    "categories": "api/v1/categories.json",
+    "body_parts": "api/v1/body-parts.json",
+    "equipment": "api/v1/equipment.json",
+    "targets": "api/v1/targets.json",
+    "by_category": "api/v1/by-category/{category_slug}.json",
+    "by_body_part": "api/v1/by-body-part/{body_part_slug}.json",
+    "by_equipment": "api/v1/by-equipment/{equipment_slug}.json",
+    "by_target": "api/v1/by-target/{target_slug}.json",
+    "by_language": "api/v1/lang/{lang}.json"
+  }
+}

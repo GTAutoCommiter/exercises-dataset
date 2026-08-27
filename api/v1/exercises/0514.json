@@ -1,0 +1,113 @@
+{
+  "id": "0514",
+  "name": "jump squat",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart. Lower your body into a squat position by bending your knees and pushing your hips back. Jump explosively off the ground, extending your hips, knees, and ankles. While in mid-air, quickly bring your arms forward for balance. Land softly on the balls of your feet and immediately go into the next repetition. Repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi alla larghezza delle spalle. Abbassa il corpo in una posizione tozza piegando le ginocchia e spingendo indietro i fianchi. Salta in modo esplosivo da terra, estendendo i fianchi, le ginocchia e le caviglie. Mentre sei a mezz'aria, porta rapidamente le braccia in avanti per mantenere l'equilibrio. Atterra dolcemente sulle punte dei piedi e passa immediatamente alla ripetizione successiva. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durun. Dizlerinizi bükerek ve kalçalarınızı geriye doğru iterek vücudunuzu çömelme pozisyonuna indirin. Kalçalarınızı, dizlerinizi ve ayak bileklerinizi uzatarak yerden patlayıcı bir şekilde zıplayın. Havadayken dengenizi sağlamak için kollarınızı hızla öne doğru getirin. Ayak parmaklarınızın üzerine yumuşak bir şekilde inin ve hemen bir sonraki tekrara geçin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros. Baja el cuerpo hacia una posición de sentadilla flexionando las rodillas y empujando las caderas hacia atrás. Salta de forma explosiva desde el suelo, extendiendo las caderas, las rodillas y los tobillos. Mientras estás en el aire, lleva rápidamente los brazos hacia adelante para mantener el equilibrio. Aterriza suavemente sobre la punta de los pies y pasa de inmediato a la siguiente repetición. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч. Опустите тело в присед, согнув колени и отведя бедра назад. Резко подпрыгните от земли, выпрямляя бедра, колени и лодыжки. Находясь в воздухе, быстро вытяните руки вперед для равновесия. Мягко приземлитесь на подушечки стоп и сразу же переходите к следующему повторению. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立。 弯曲膝盖并将臀部向后推，将身体降低至蹲姿。 爆发性地跳离地面，伸展臀部、膝盖和脚踝。 在半空中时，快速将手臂向前伸以保持平衡。 脚掌轻轻落地，然后立即进入下一个重复动作。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई की दूरी पर रखकर खड़े हो जाएं। अपने घुटनों को मोड़कर और अपने कूल्हों को पीछे धकेलते हुए अपने शरीर को स्क्वाट स्थिति में लाएँ। अपने कूल्हों, घुटनों और टखनों को फैलाते हुए ज़मीन से तेज़ी से कूदें। मध्य हवा में रहते हुए, संतुलन के लिए अपनी भुजाओं को शीघ्रता से आगे लाएँ। अपने पैरों की उंगलियों पर धीरे से उतरें और तुरंत अगली पुनरावृत्ति पर जाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań ze stopami rozstawionymi na szerokość barków. Opuść ciało do przysiadu, uginając kolana i cofając biodra. Wyskocz eksplozywnie z podłogi, prostując biodra, kolana i stawy skokowe. Będąc w powietrzu, szybko wysuń ręce do przodu dla równowagi. Wyląduj miękko na palcach stóp i od razu przejdź do kolejnego powtórzenia. Powtórz zgodnie z zaplanowaną liczbą powtórzeń.",
+    "ko": "발을 어깨너비로 벌립니다. 무릎을 구부리고 엉덩이를 뒤로 밀면서 몸을 스쿼트 자세로 낮춥니다. 고관절, 무릎, 발목을 완전히 펼치면서 폭발적으로 바닥에서 뛰어올립니다. 공중에 있을 때 팔을 앞으로 빠르게 가져와 균형을 잡습니다. 발가락 끝으로 부드럽게 착지하고 즉시 다음 반복을 시작합니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules. Abaisse ton corps en position de squat en fléchissant tes genoux et en poussant tes hanches vers l'arrière. Saute du sol de manière explosive, en étendant tes hanches, tes genoux et tes chevilles. En plein saut, ramène rapidement tes bras vers l'avant pour l'équilibre. Atterris en douceur sur la pointe des pieds et enchaîne immédiatement avec la répétition suivante. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart.",
+      "Lower your body into a squat position by bending your knees and pushing your hips back.",
+      "Jump explosively off the ground, extending your hips, knees, and ankles.",
+      "While in mid-air, quickly bring your arms forward for balance.",
+      "Land softly on the balls of your feet and immediately go into the next repetition.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle.",
+      "Abbassa il corpo in una posizione tozza piegando le ginocchia e spingendo indietro i fianchi.",
+      "Salta in modo esplosivo da terra, estendendo i fianchi, le ginocchia e le caviglie.",
+      "Mentre sei a mezz'aria, porta rapidamente le braccia in avanti per mantenere l'equilibrio.",
+      "Atterra dolcemente sulle punte dei piedi e passa immediatamente alla ripetizione successiva.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durun.",
+      "Dizlerinizi bükerek ve kalçalarınızı geriye doğru iterek vücudunuzu çömelme pozisyonuna indirin.",
+      "Kalçalarınızı, dizlerinizi ve ayak bileklerinizi uzatarak yerden patlayıcı bir şekilde zıplayın.",
+      "Havadayken dengenizi sağlamak için kollarınızı hızla öne doğru getirin.",
+      "Ayak parmaklarınızın üzerine yumuşak bir şekilde inin ve hemen bir sonraki tekrara geçin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros.",
+      "Baja el cuerpo hacia una posición de sentadilla flexionando las rodillas y empujando las caderas hacia atrás.",
+      "Salta de forma explosiva desde el suelo, extendiendo las caderas, las rodillas y los tobillos.",
+      "Mientras estás en el aire, lleva rápidamente los brazos hacia adelante para mantener el equilibrio.",
+      "Aterriza suavemente sobre la punta de los pies y pasa de inmediato a la siguiente repetición.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч.",
+      "Опустите тело в присед, согнув колени и отведя бедра назад.",
+      "Резко подпрыгните от земли, выпрямляя бедра, колени и лодыжки.",
+      "Находясь в воздухе, быстро вытяните руки вперед для равновесия.",
+      "Мягко приземлитесь на подушечки стоп и сразу же переходите к следующему повторению.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立。",
+      "弯曲膝盖并将臀部向后推，将身体降低至蹲姿。",
+      "爆发性地跳离地面，伸展臀部、膝盖和脚踝。",
+      "在半空中时，快速将手臂向前伸以保持平衡。",
+      "脚掌轻轻落地，然后立即进入下一个重复动作。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई की दूरी पर रखकर खड़े हो जाएं।",
+      "अपने घुटनों को मोड़कर और अपने कूल्हों को पीछे धकेलते हुए अपने शरीर को स्क्वाट स्थिति में लाएँ।",
+      "अपने कूल्हों, घुटनों और टखनों को फैलाते हुए ज़मीन से तेज़ी से कूदें।",
+      "मध्य हवा में रहते हुए, संतुलन के लिए अपनी भुजाओं को शीघ्रता से आगे लाएँ।",
+      "अपने पैरों की उंगलियों पर धीरे से उतरें और तुरंत अगली पुनरावृत्ति पर जाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań ze stopami rozstawionymi na szerokość barków.",
+      "Opuść ciało do przysiadu, uginając kolana i cofając biodra.",
+      "Wyskocz eksplozywnie z podłogi, prostując biodra, kolana i stawy skokowe.",
+      "Będąc w powietrzu, szybko wysuń ręce do przodu dla równowagi.",
+      "Wyląduj miękko na palcach stóp i od razu przejdź do kolejnego powtórzenia.",
+      "Powtórz zgodnie z zaplanowaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨너비로 벌립니다.",
+      "무릎을 구부리고 엉덩이를 뒤로 밀면서 몸을 스쿼트 자세로 낮춥니다.",
+      "고관절, 무릎, 발목을 완전히 펼치면서 폭발적으로 바닥에서 뛰어올립니다.",
+      "공중에 있을 때 팔을 앞으로 빠르게 가져와 균형을 잡습니다.",
+      "발가락 끝으로 부드럽게 착지하고 즉시 다음 반복을 시작합니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules.",
+      "Abaisse ton corps en position de squat en fléchissant tes genoux et en poussant tes hanches vers l'arrière.",
+      "Saute du sol de manière explosive, en étendant tes hanches, tes genoux et tes chevilles.",
+      "En plein saut, ramène rapidement tes bras vers l'avant pour l'équilibre.",
+      "Atterris en douceur sur la pointe des pieds et enchaîne immédiatement avec la répétition suivante.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "glutes",
+  "image": "images/0514-LIlE5Tn.jpg",
+  "gif_url": "videos/0514-LIlE5Tn.gif",
+  "media_id": "LIlE5Tn",
+  "created_at": "2026-03-18T12:31:32.884861+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

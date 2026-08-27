@@ -1,0 +1,101 @@
+{
+  "id": "1395",
+  "name": "smith seated one leg calf raise",
+  "category": "lower legs",
+  "body_part": "lower legs",
+  "equipment": "smith machine",
+  "instructions": {
+    "en": "Sit on the machine with your back against the pad and your feet on the footrest. Place one leg on the footrest and keep the other leg off the footrest. Using your calf muscles, raise your heel as high as possible. Pause for a moment at the top, then slowly lower your heel back down to the starting position. Repeat for the desired number of repetitions, then switch legs and repeat.",
+    "it": "Sedersi sulla macchina con la schiena appoggiata al cuscino e i piedi sul poggiapiedi. Posizionare una gamba sul poggiapiedi e tenere l'altra gamba lontana dal poggiapiedi. Usando i muscoli del polpaccio, solleva il tallone il più in alto possibile. Fai una pausa per un momento in alto, quindi abbassa lentamente il tallone fino alla posizione iniziale. Ripeti per il numero di ripetizioni desiderato, quindi cambia gamba e ripeti.",
+    "tr": "Sırtınız yastığa dayalı ve ayaklarınız ayak dayanağının üzerinde olacak şekilde makinenin üzerine oturun. Bir bacağınızı ayak dayanağının üzerine koyun ve diğer bacağınızı ayak dayanağının dışında tutun. Baldır kaslarınızı kullanarak topuğunuzu mümkün olduğu kadar yükseğe kaldırın. Tepe noktasında bir an duraklayın, ardından topuğunuzu yavaşça başlangıç ​​pozisyonuna indirin. İstenilen tekrar sayısı kadar tekrarlayın, ardından bacak değiştirin ve tekrarlayın.",
+    "es": "Siéntate en la máquina con la espalda contra la almohadilla y los pies sobre el apoyapiés. Coloca una pierna sobre el apoyapiés y mantén la otra pierna fuera de él. Eleva el talón lo más alto posible, usando los músculos de la pantorrilla. Haz una pausa por un momento en la parte superior, luego baja lentamente el talón de vuelta a la posición inicial. Repite el número de repeticiones deseado y luego cambia de pierna y repite.",
+    "ru": "Сядьте на тренажер спиной к подушке, а ногами на подножке. Поставьте одну ногу на подставку для ног, а другую ногу держите подальше от подставки для ног. Используя икроножные мышцы, поднимите пятку как можно выше. Задержитесь на мгновение в верхней точке, затем медленно опустите пятку обратно в исходное положение. Повторите необходимое количество повторений, затем поменяйте ногу и повторите.",
+    "zh": "坐在机器上，背部靠在垫子上，双脚放在脚踏板上。 将一条腿放在脚踏板上，另一条腿离开脚踏板。 使用小腿肌肉，尽可能高地抬高脚跟。 在顶部暂停片刻，然后慢慢将脚跟放回起始位置。 重复所需的重复次数，然后换腿并重复。",
+    "hi": "मशीन पर अपनी पीठ पैड से सटाकर और अपने पैरों को फ़ुटरेस्ट पर रखकर बैठें। एक पैर को फ़ुटरेस्ट पर रखें और दूसरे पैर को फ़ुटरेस्ट से दूर रखें। अपनी पिंडली की मांसपेशियों का उपयोग करते हुए, अपनी एड़ी को जितना संभव हो उतना ऊपर उठाएं। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपनी एड़ी को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएं, फिर पैर बदलें और दोहराएं।",
+    "pl": "Usiądź na maszynie, opierając plecy o podkładkę, a stopy na podnóżku. Ustaw jedną nogę na podnóżku, trzymając drugą nogę z dala od niego. Wykorzystując mięśnie łydki, unieś piętę jak najwyżej. Zatrzymaj się na chwilę na górze, a następnie powoli opuść piętę z powrotem do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń, a następnie zmień nogę i powtórz.",
+    "ko": "머신에 앉아서 등받이에 등을 대고 발판에 발을 올립니다. 한쪽 다리를 발판에 올리고 다른 쪽 다리는 발판에서 내립니다. 종아리 근육을 사용하여 발뒤꿈치를 최대한 높이 올립니다. 위에서 잠깐 멈추고 발뒤꿈치를 천천히 시작 위치로 내립니다. 원하는 횟수만큼 반복한 다음 다리를 바꿔 반복합니다.",
+    "fr": "Assieds-toi sur la machine, le dos contre le coussinet et les pieds sur le repose-pied. Place une jambe sur le repose-pied et garde l'autre jambe en dehors du repose-pied. En utilisant les muscles de tes mollets, lève ton talon aussi haut que possible. Marque une pause en haut, puis abaisse lentement ton talon pour revenir à la position de départ. Répète le nombre de répétitions souhaité, puis change de jambe et recommence."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on the machine with your back against the pad and your feet on the footrest.",
+      "Place one leg on the footrest and keep the other leg off the footrest.",
+      "Using your calf muscles, raise your heel as high as possible.",
+      "Pause for a moment at the top, then slowly lower your heel back down to the starting position.",
+      "Repeat for the desired number of repetitions, then switch legs and repeat."
+    ],
+    "it": [
+      "Sedersi sulla macchina con la schiena appoggiata al cuscino e i piedi sul poggiapiedi.",
+      "Posizionare una gamba sul poggiapiedi e tenere l'altra gamba lontana dal poggiapiedi.",
+      "Usando i muscoli del polpaccio, solleva il tallone il più in alto possibile.",
+      "Fai una pausa per un momento in alto, quindi abbassa lentamente il tallone fino alla posizione iniziale.",
+      "Ripeti per il numero di ripetizioni desiderato, quindi cambia gamba e ripeti."
+    ],
+    "tr": [
+      "Sırtınız yastığa dayalı ve ayaklarınız ayak dayanağının üzerinde olacak şekilde makinenin üzerine oturun.",
+      "Bir bacağınızı ayak dayanağının üzerine koyun ve diğer bacağınızı ayak dayanağının dışında tutun.",
+      "Baldır kaslarınızı kullanarak topuğunuzu mümkün olduğu kadar yükseğe kaldırın.",
+      "Tepe noktasında bir an duraklayın, ardından topuğunuzu yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından bacak değiştirin ve tekrarlayın."
+    ],
+    "es": [
+      "Siéntate en la máquina con la espalda contra la almohadilla y los pies sobre el apoyapiés.",
+      "Coloca una pierna sobre el apoyapiés y mantén la otra pierna fuera de él.",
+      "Eleva el talón lo más alto posible, usando los músculos de la pantorrilla.",
+      "Haz una pausa por un momento en la parte superior, luego baja lentamente el talón de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado y luego cambia de pierna y repite."
+    ],
+    "ru": [
+      "Сядьте на тренажер спиной к подушке, а ногами на подножке.",
+      "Поставьте одну ногу на подставку для ног, а другую ногу держите подальше от подставки для ног.",
+      "Используя икроножные мышцы, поднимите пятку как можно выше.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите пятку обратно в исходное положение.",
+      "Повторите необходимое количество повторений, затем поменяйте ногу и повторите."
+    ],
+    "zh": [
+      "坐在机器上，背部靠在垫子上，双脚放在脚踏板上。",
+      "将一条腿放在脚踏板上，另一条腿离开脚踏板。",
+      "使用小腿肌肉，尽可能高地抬高脚跟。",
+      "在顶部暂停片刻，然后慢慢将脚跟放回起始位置。",
+      "重复所需的重复次数，然后换腿并重复。"
+    ],
+    "hi": [
+      "मशीन पर अपनी पीठ पैड से सटाकर और अपने पैरों को फ़ुटरेस्ट पर रखकर बैठें।",
+      "एक पैर को फ़ुटरेस्ट पर रखें और दूसरे पैर को फ़ुटरेस्ट से दूर रखें।",
+      "अपनी पिंडली की मांसपेशियों का उपयोग करते हुए, अपनी एड़ी को जितना संभव हो उतना ऊपर उठाएं।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपनी एड़ी को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर पैर बदलें और दोहराएं।"
+    ],
+    "pl": [
+      "Usiądź na maszynie, opierając plecy o podkładkę, a stopy na podnóżku.",
+      "Ustaw jedną nogę na podnóżku, trzymając drugą nogę z dala od niego.",
+      "Wykorzystując mięśnie łydki, unieś piętę jak najwyżej.",
+      "Zatrzymaj się na chwilę na górze, a następnie powoli opuść piętę z powrotem do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń, a następnie zmień nogę i powtórz."
+    ],
+    "ko": [
+      "머신에 앉아서 등받이에 등을 대고 발판에 발을 올립니다.",
+      "한쪽 다리를 발판에 올리고 다른 쪽 다리는 발판에서 내립니다.",
+      "종아리 근육을 사용하여 발뒤꿈치를 최대한 높이 올립니다.",
+      "위에서 잠깐 멈추고 발뒤꿈치를 천천히 시작 위치로 내립니다.",
+      "원하는 횟수만큼 반복한 다음 다리를 바꿔 반복합니다."
+    ],
+    "fr": [
+      "Assieds-toi sur la machine, le dos contre le coussinet et les pieds sur le repose-pied.",
+      "Place une jambe sur le repose-pied et garde l'autre jambe en dehors du repose-pied.",
+      "En utilisant les muscles de tes mollets, lève ton talon aussi haut que possible.",
+      "Marque une pause en haut, puis abaisse lentement ton talon pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis change de jambe et recommence."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings"
+  ],
+  "target": "calves",
+  "image": "images/1395-0S75mYG.jpg",
+  "gif_url": "videos/1395-0S75mYG.gif",
+  "media_id": "0S75mYG",
+  "created_at": "2026-03-18T12:31:32.890945+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

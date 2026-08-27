@@ -1,0 +1,102 @@
+{
+  "id": "1254",
+  "name": "band bench press",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "band",
+  "instructions": {
+    "en": "Lie flat on a bench with your feet flat on the ground and your back pressed against the bench. Grasp the band handles with an overhand grip, slightly wider than shoulder-width apart. Extend your arms fully, pushing the bands away from your chest. Slowly lower the bands back down to your chest, keeping your elbows at a 90-degree angle. Repeat for the desired number of repetitions.",
+    "it": "Sdraiati su una panca con i piedi appoggiati a terra e la schiena premuta contro la panca. Afferrare le maniglie della fascia con una presa prona, leggermente più larghe della larghezza delle spalle. Estendi completamente le braccia, allontanando le fasce dal petto. Abbassa lentamente le fasce fino al petto, mantenendo i gomiti ad un angolo di 90 gradi. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız yere düz basacak ve sırtınız banka yaslanacak şekilde bir bankın üzerine düz bir şekilde uzanın. Bandın saplarını omuz genişliğinden biraz daha geniş olacak şekilde üstten kavrayın. Bantları göğsünüzden uzağa doğru iterek kollarınızı tamamen uzatın. Dirseklerinizi 90 derecelik bir açıda tutarak bantları yavaşça göğsünüze doğru indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Túmbate sobre un banco con los pies apoyados en el suelo y la espalda presionada contra el banco. Agarra las agarraderas de la banda con un agarre prono, un poco más separadas que el ancho de los hombros. Extiende los brazos por completo, empujando las bandas alejándolas del pecho. Baja lentamente las bandas de vuelta hacia el pecho, manteniendo los codos en un ángulo de 90 grados. Repite el número de repeticiones deseado.",
+    "ru": "Лягте на скамью, поставьте ступни на землю и прижмите спину к скамье. Возьмитесь за рукоятки ленты верхним хватом, на расстоянии чуть шире плеч. Полностью выпрямите руки, отталкивая ленты от груди. Медленно опустите ленты обратно к груди, держа локти под углом 90 градусов. Повторите необходимое количество повторений.",
+    "zh": "平躺在长凳上，双脚平放在地上，背部紧贴长凳。 正手握住带子手柄，间距略宽于肩宽。 充分伸展双臂，将弹力带推离胸部。 慢慢将弹力带放回到胸部，保持肘部呈 90 度角。 重复所需的重复次数。",
+    "hi": "एक बेंच पर सीधे लेट जाएं और आपके पैर जमीन पर सपाट हों और आपकी पीठ बेंच से सटी हुई हो। बैंड के हैंडल को कंधे की चौड़ाई से थोड़ा अधिक चौड़े ओवरहैंड ग्रिप से पकड़ें। अपनी बाहों को पूरी तरह फैलाएं, बैंड को अपनी छाती से दूर धकेलें। अपनी कोहनियों को 90 डिग्री के कोण पर रखते हुए, बैंड को धीरे-धीरे वापस अपनी छाती तक नीचे लाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Połóż się płasko na ławce, stopy płasko na podłodze, a plecy oparte o ławkę. Chwyć uchwyty taśmy nachwytem, nieco szerzej niż na szerokość barków. Wyprostuj ramiona w pełni, wypychając taśmę od klatki piersiowej. Powoli opuść taśmę z powrotem do klatki piersiowej, utrzymując łokcie pod kątem 90 stopni. Powtórz zalecaną liczbę razy.",
+    "ko": "벤치에 누워 발을 바닥에 평평하게 놓고 등을 벤치에 붙입니다. 손바닥이 앞을 향하도록 밴드 손잡이를 어깨너비보다 약간 넓게 잡습니다. 팔을 완전히 펼쳐 밴드를 가슴에서 멀어지게 밀어냅니다. 밴드를 천천히 다시 가슴으로 내려 팔꿈치가 90도 각도가 되도록 합니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Allonge-toi à plat sur un banc, les pieds à plat au sol et le dos plaqué contre le banc. Saisis les poignées de l'élastique avec une prise en pronation, un peu plus large que la largeur des épaules. Étends complètement tes bras, en poussant les élastiques loin de ta poitrine. Abaisse lentement les élastiques vers ta poitrine, en gardant tes coudes à un angle de 90 degrés. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Lie flat on a bench with your feet flat on the ground and your back pressed against the bench.",
+      "Grasp the band handles with an overhand grip, slightly wider than shoulder-width apart.",
+      "Extend your arms fully, pushing the bands away from your chest.",
+      "Slowly lower the bands back down to your chest, keeping your elbows at a 90-degree angle.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Sdraiati su una panca con i piedi appoggiati a terra e la schiena premuta contro la panca.",
+      "Afferrare le maniglie della fascia con una presa prona, leggermente più larghe della larghezza delle spalle.",
+      "Estendi completamente le braccia, allontanando le fasce dal petto.",
+      "Abbassa lentamente le fasce fino al petto, mantenendo i gomiti ad un angolo di 90 gradi.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız yere düz basacak ve sırtınız banka yaslanacak şekilde bir bankın üzerine düz bir şekilde uzanın.",
+      "Bandın saplarını omuz genişliğinden biraz daha geniş olacak şekilde üstten kavrayın.",
+      "Bantları göğsünüzden uzağa doğru iterek kollarınızı tamamen uzatın.",
+      "Dirseklerinizi 90 derecelik bir açıda tutarak bantları yavaşça göğsünüze doğru indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Túmbate sobre un banco con los pies apoyados en el suelo y la espalda presionada contra el banco.",
+      "Agarra las agarraderas de la banda con un agarre prono, un poco más separadas que el ancho de los hombros.",
+      "Extiende los brazos por completo, empujando las bandas alejándolas del pecho.",
+      "Baja lentamente las bandas de vuelta hacia el pecho, manteniendo los codos en un ángulo de 90 grados.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Лягте на скамью, поставьте ступни на землю и прижмите спину к скамье.",
+      "Возьмитесь за рукоятки ленты верхним хватом, на расстоянии чуть шире плеч.",
+      "Полностью выпрямите руки, отталкивая ленты от груди.",
+      "Медленно опустите ленты обратно к груди, держа локти под углом 90 градусов.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "平躺在长凳上，双脚平放在地上，背部紧贴长凳。",
+      "正手握住带子手柄，间距略宽于肩宽。",
+      "充分伸展双臂，将弹力带推离胸部。",
+      "慢慢将弹力带放回到胸部，保持肘部呈 90 度角。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "एक बेंच पर सीधे लेट जाएं और आपके पैर जमीन पर सपाट हों और आपकी पीठ बेंच से सटी हुई हो।",
+      "बैंड के हैंडल को कंधे की चौड़ाई से थोड़ा अधिक चौड़े ओवरहैंड ग्रिप से पकड़ें।",
+      "अपनी बाहों को पूरी तरह फैलाएं, बैंड को अपनी छाती से दूर धकेलें।",
+      "अपनी कोहनियों को 90 डिग्री के कोण पर रखते हुए, बैंड को धीरे-धीरे वापस अपनी छाती तक नीचे लाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Połóż się płasko na ławce, stopy płasko na podłodze, a plecy oparte o ławkę.",
+      "Chwyć uchwyty taśmy nachwytem, nieco szerzej niż na szerokość barków.",
+      "Wyprostuj ramiona w pełni, wypychając taśmę od klatki piersiowej.",
+      "Powoli opuść taśmę z powrotem do klatki piersiowej, utrzymując łokcie pod kątem 90 stopni.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "벤치에 누워 발을 바닥에 평평하게 놓고 등을 벤치에 붙입니다.",
+      "손바닥이 앞을 향하도록 밴드 손잡이를 어깨너비보다 약간 넓게 잡습니다.",
+      "팔을 완전히 펼쳐 밴드를 가슴에서 멀어지게 밀어냅니다.",
+      "밴드를 천천히 다시 가슴으로 내려 팔꿈치가 90도 각도가 되도록 합니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Allonge-toi à plat sur un banc, les pieds à plat au sol et le dos plaqué contre le banc.",
+      "Saisis les poignées de l'élastique avec une prise en pronation, un peu plus large que la largeur des épaules.",
+      "Étends complètement tes bras, en poussant les élastiques loin de ta poitrine.",
+      "Abaisse lentement les élastiques vers ta poitrine, en gardant tes coudes à un angle de 90 degrés.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "target": "pectorals",
+  "image": "images/1254-khlHMqs.jpg",
+  "gif_url": "videos/1254-khlHMqs.gif",
+  "media_id": "khlHMqs",
+  "created_at": "2026-03-18T12:31:32.855791+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

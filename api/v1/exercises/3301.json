@@ -1,0 +1,103 @@
+{
+  "id": "3301",
+  "name": "frog planche",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Start in a push-up position with your hands shoulder-width apart and your feet together. Bend your elbows and lower your body towards the ground, keeping your back straight. As you lower your body, lift your feet off the ground and bring your knees towards your chest. Hold this position for a few seconds, then extend your legs back out and push yourself back up to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Inizia in una posizione push-up con le mani alla larghezza delle spalle e i piedi uniti. Piega i gomiti e abbassa il corpo verso terra, mantenendo la schiena dritta. Mentre abbassi il corpo, solleva i piedi da terra e avvicina le ginocchia al petto. Mantieni questa posizione per alcuni secondi, quindi allunga le gambe e ritorna alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Elleriniz omuz genişliğinde ve ayaklarınız bitişik olacak şekilde şınav pozisyonuna başlayın. Dirseklerinizi bükün ve sırtınızı düz tutarak vücudunuzu yere doğru indirin. Vücudunuzu indirirken ayaklarınızı yerden kaldırın ve dizlerinizi göğsünüze doğru çekin. Bu pozisyonu birkaç saniye basılı tutun, ardından bacaklarınızı geriye doğru uzatın ve kendinizi başlangıç ​​pozisyonuna doğru itin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Comienza en posición de flexión de brazos con las manos separadas a la altura de los hombros y los pies juntos. Dobla los codos y baja el cuerpo hacia el suelo, manteniendo la espalda recta. Mientras bajas el cuerpo, levanta los pies del suelo y lleva las rodillas hacia el pecho. Mantén esta posición durante unos segundos, luego extiende las piernas de nuevo y empújate hacia arriba a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Начните с позиции для отжиманий, поставив руки на ширине плеч, а ноги вместе. Согните руки в локтях и опустите тело к земле, сохраняя спину прямой. Опуская тело, поднимите ноги от земли и подтяните колени к груди. Удерживайте это положение несколько секунд, затем вытяните ноги и вернитесь в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "从俯卧撑位置开始，双手与肩同宽，双脚并拢。 弯曲肘部，将身体放低至地面，保持背部挺直。 当你降低身体时，将双脚抬离地面，并将膝盖靠近胸部。 保持这个姿势几秒钟，然后向后伸展双腿，并将自己推回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने हाथों को कंधे की चौड़ाई पर और अपने पैरों को एक साथ मिलाकर पुश-अप स्थिति में शुरुआत करें। अपनी कोहनियों को मोड़ें और अपनी पीठ को सीधा रखते हुए अपने शरीर को जमीन की ओर नीचे करें। जैसे ही आप अपने शरीर को नीचे लाते हैं, अपने पैरों को ज़मीन से ऊपर उठाएं और अपने घुटनों को अपनी छाती की ओर लाएँ। कुछ सेकंड के लिए इस स्थिति में रहें, फिर अपने पैरों को पीछे की ओर फैलाएं और अपने आप को वापस प्रारंभिक स्थिति में धकेलें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Zacznij w pozycji do pompki, dłonie ustaw na szerokość barków, a stopy razem. Zegnij łokcie i opuść ciało w stronę podłogi, trzymając plecy proste. Opuszczając ciało, unieś stopy nad podłogę i przyciągnij kolana w stronę klatki piersiowej. Przytrzymaj tę pozycję przez kilka sekund, a następnie wyprostuj nogi i odepchnij się z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę razy.",
+    "ko": "팔을 어깨너비로 벌리고 발을 모아 푸시업 자세에서 시작합니다. 팔꿈치를 구부리고 등을 펴면서 몸을 땅 쪽으로 내립니다. 몸을 내리면서 발을 들어올려 무릎을 가슴 쪽으로 당깁니다. 이 자세를 몇 초간 유지한 후 다리를 다시 펴고 푸시업 자세로 몸을 들어올립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Commence en position de pompe, les mains écartées à la largeur des épaules et les pieds joints. Plie tes coudes et abaisse ton corps vers le sol en gardant ton dos droit. En abaissant ton corps, décolle tes pieds du sol et ramène tes genoux vers ta poitrine. Maintiens cette position pendant quelques secondes, puis étends de nouveau tes jambes et repousse-toi jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start in a push-up position with your hands shoulder-width apart and your feet together.",
+      "Bend your elbows and lower your body towards the ground, keeping your back straight.",
+      "As you lower your body, lift your feet off the ground and bring your knees towards your chest.",
+      "Hold this position for a few seconds, then extend your legs back out and push yourself back up to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia in una posizione push-up con le mani alla larghezza delle spalle e i piedi uniti.",
+      "Piega i gomiti e abbassa il corpo verso terra, mantenendo la schiena dritta.",
+      "Mentre abbassi il corpo, solleva i piedi da terra e avvicina le ginocchia al petto.",
+      "Mantieni questa posizione per alcuni secondi, quindi allunga le gambe e ritorna alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Elleriniz omuz genişliğinde ve ayaklarınız bitişik olacak şekilde şınav pozisyonuna başlayın.",
+      "Dirseklerinizi bükün ve sırtınızı düz tutarak vücudunuzu yere doğru indirin.",
+      "Vücudunuzu indirirken ayaklarınızı yerden kaldırın ve dizlerinizi göğsünüze doğru çekin.",
+      "Bu pozisyonu birkaç saniye basılı tutun, ardından bacaklarınızı geriye doğru uzatın ve kendinizi başlangıç ​​pozisyonuna doğru itin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Comienza en posición de flexión de brazos con las manos separadas a la altura de los hombros y los pies juntos.",
+      "Dobla los codos y baja el cuerpo hacia el suelo, manteniendo la espalda recta.",
+      "Mientras bajas el cuerpo, levanta los pies del suelo y lleva las rodillas hacia el pecho.",
+      "Mantén esta posición durante unos segundos, luego extiende las piernas de nuevo y empújate hacia arriba a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с позиции для отжиманий, поставив руки на ширине плеч, а ноги вместе.",
+      "Согните руки в локтях и опустите тело к земле, сохраняя спину прямой.",
+      "Опуская тело, поднимите ноги от земли и подтяните колени к груди.",
+      "Удерживайте это положение несколько секунд, затем вытяните ноги и вернитесь в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "从俯卧撑位置开始，双手与肩同宽，双脚并拢。",
+      "弯曲肘部，将身体放低至地面，保持背部挺直。",
+      "当你降低身体时，将双脚抬离地面，并将膝盖靠近胸部。",
+      "保持这个姿势几秒钟，然后向后伸展双腿，并将自己推回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने हाथों को कंधे की चौड़ाई पर और अपने पैरों को एक साथ मिलाकर पुश-अप स्थिति में शुरुआत करें।",
+      "अपनी कोहनियों को मोड़ें और अपनी पीठ को सीधा रखते हुए अपने शरीर को जमीन की ओर नीचे करें।",
+      "जैसे ही आप अपने शरीर को नीचे लाते हैं, अपने पैरों को ज़मीन से ऊपर उठाएं और अपने घुटनों को अपनी छाती की ओर लाएँ।",
+      "कुछ सेकंड के लिए इस स्थिति में रहें, फिर अपने पैरों को पीछे की ओर फैलाएं और अपने आप को वापस प्रारंभिक स्थिति में धकेलें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Zacznij w pozycji do pompki, dłonie ustaw na szerokość barków, a stopy razem.",
+      "Zegnij łokcie i opuść ciało w stronę podłogi, trzymając plecy proste.",
+      "Opuszczając ciało, unieś stopy nad podłogę i przyciągnij kolana w stronę klatki piersiowej.",
+      "Przytrzymaj tę pozycję przez kilka sekund, a następnie wyprostuj nogi i odepchnij się z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "팔을 어깨너비로 벌리고 발을 모아 푸시업 자세에서 시작합니다.",
+      "팔꿈치를 구부리고 등을 펴면서 몸을 땅 쪽으로 내립니다.",
+      "몸을 내리면서 발을 들어올려 무릎을 가슴 쪽으로 당깁니다.",
+      "이 자세를 몇 초간 유지한 후 다리를 다시 펴고 푸시업 자세로 몸을 들어올립니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Commence en position de pompe, les mains écartées à la largeur des épaules et les pieds joints.",
+      "Plie tes coudes et abaisse ton corps vers le sol en gardant ton dos droit.",
+      "En abaissant ton corps, décolle tes pieds du sol et ramène tes genoux vers ta poitrine.",
+      "Maintiens cette position pendant quelques secondes, puis étends de nouveau tes jambes et repousse-toi jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "chest",
+    "triceps"
+  ],
+  "target": "abs",
+  "image": "images/3301-rQhGcin.jpg",
+  "gif_url": "videos/3301-rQhGcin.gif",
+  "media_id": "rQhGcin",
+  "created_at": "2026-03-18T12:31:32.883743+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

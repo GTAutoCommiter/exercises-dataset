@@ -1,0 +1,123 @@
+{
+  "id": "3142",
+  "name": "smith sumo squat",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "smith machine",
+  "instructions": {
+    "en": "Set up the smith machine with the barbell at hip height. Stand with your feet wider than shoulder-width apart, toes pointing outwards. Position yourself under the barbell, resting it on your upper back and shoulders. Engage your core and keep your chest up as you lower your body down into a squat position, pushing your hips back and bending your knees. Lower yourself until your thighs are parallel to the ground, or as low as you can comfortably go. Pause for a moment at the bottom, then push through your heels to return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Posiziona la Smith Machine con il bilanciere all'altezza dei fianchi. Stare con i piedi più larghi della larghezza delle spalle, con le dita rivolte verso l'esterno. Posizionati sotto il bilanciere, appoggiandolo sulla parte superiore della schiena e sulle spalle. Coinvolgi il core e mantieni il petto sollevato mentre abbassi il corpo in una posizione tozza, spingendo i fianchi indietro e piegando le ginocchia. Abbassati finché le cosce non sono parallele al suolo o il più in basso possibile. Fai una pausa per un momento in fondo, quindi spingi i talloni per tornare alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Demirci makinesini halter kalça hizasında olacak şekilde kurun. Ayaklarınız omuz genişliğinden daha geniş, ayak parmaklarınız dışarı bakacak şekilde ayakta durun. Kendinizi halterin altına konumlandırın ve halteri sırtınızın üst kısmına ve omuzlarınıza yaslayın. Vücudunuzu çömelme pozisyonuna indirirken, kalçalarınızı geriye itip dizlerinizi bükerken, merkez bölgenizi devreye sokun ve göğsünüzü yukarıda tutun. Uyluklarınız yere paralel veya rahatça gidebildiğiniz kadar alçaltıncaya kadar kendinizi indirin. Altta bir an duraklayın, ardından başlangıç ​​pozisyonuna dönmek için topuklarınızı itin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Configura la máquina Smith con la barra a la altura de la cadera. Ponte de pie con los pies más separados que el ancho de los hombros, con las puntas de los pies hacia afuera. Colócate debajo de la barra, apoyándola sobre la parte superior de la espalda y los hombros. Activa el core y mantén el pecho elevado mientras bajas el cuerpo hacia una posición de sentadilla, empujando las caderas hacia atrás y flexionando las rodillas. Baja hasta que los muslos queden paralelos al suelo, o tan abajo como puedas hacerlo cómodamente. Haz una pausa por un momento en la parte inferior, luego empuja con los talones para regresar a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Установите машину Смита так, чтобы штанга находилась на уровне бедер. Встаньте, расставив ноги шире плеч, носки наружу. Расположитесь под штангой, положив ее на верхнюю часть спины и плечи. Напрягите корпус и держите грудь поднятой, опуская тело в присед, отводя бедра назад и сгибая колени. Опускайтесь до тех пор, пока бедра не станут параллельны земле или настолько низко, насколько вам будет удобно. Задержитесь на мгновение внизу, затем оттолкнитесь пятками, чтобы вернуться в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "将杠铃置于臀部高度的史密斯机上。 站立，双脚分开比肩宽，脚趾朝外。 将自己置于杠铃下方，将其放在上背部和肩膀上。 当你将身体降低到蹲姿时，收紧核心并保持挺胸，将臀部向后推并弯曲膝盖。 放低身体，直到大腿与地面平行，或者尽可能低到您能舒服的高度。 在底部停顿片刻，然后推动脚后跟回到起始位置。 重复所需的重复次数。",
+    "hi": "कूल्हे की ऊंचाई पर बारबेल के साथ स्मिथ मशीन स्थापित करें। अपने पैरों को कंधे की चौड़ाई से अधिक चौड़ा करके खड़े रहें, पैर की उंगलियां बाहर की ओर हों। अपने आप को बारबेल के नीचे रखें, इसे अपनी ऊपरी पीठ और कंधों पर टिकाएं। अपने कोर को संलग्न करें और अपनी छाती को ऊपर रखें क्योंकि आप अपने शरीर को स्क्वाट स्थिति में नीचे लाते हैं, अपने कूल्हों को पीछे धकेलते हैं और अपने घुटनों को मोड़ते हैं। अपने आप को तब तक नीचे करें जब तक कि आपकी जांघें ज़मीन के समानांतर न हो जाएं, या जितना नीचे आप आराम से जा सकें। नीचे एक पल के लिए रुकें, फिर प्रारंभिक स्थिति में लौटने के लिए अपनी एड़ियों से धक्का दें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Ustaw suwnicę Smitha ze sztangą na wysokości bioder. Stań w rozkroku szerszym niż szerokość barków, palcami skierowanymi na zewnątrz. Ustaw się pod sztangą, opierając ją na górnej części pleców i barkach. Napnij mięśnie brzucha i trzymaj klatkę piersiową uniesioną, opuszczając ciało w pozycję przysiadu, cofając biodra i uginając kolana. Opuszczaj się, aż uda będą równoległe do podłogi lub tak nisko, jak jesteś w stanie wygodnie zejść. Zatrzymaj się na chwilę na dole, a następnie odepchnij się przez pięty, aby wrócić do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "스미스 머신의 바를 엉덩이 높이로 세팅합니다. 발을 어깨 너비보다 넓게 벌리고 발가락이 바깥쪽을 향하도록 서 있습니다. 바 아래 위치하고 바를 위쪽 등과 어깨에 올립니다. 복부에 힘을 주고 가슴을 펴진 상태에서 몸을 스쿼트 위치로 내리되 엉덩이를 뒤로 밀고 무릎을 구부립니다. 허벅지가 바닥과 평행해질 때까지 또는 편안하게 내려갈 수 있는 만큼 내립니다. 아래에서 잠깐 멈추고 뒤꿈치로 밀어 시작 위치로 돌아옵니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Règle la machine Smith avec la barre à hauteur de hanche. Tiens-toi debout, les pieds plus écartés que la largeur des épaules, les orteils tournés vers l'extérieur. Positionne-toi sous la barre, en la faisant reposer sur le haut de ton dos et tes épaules. Gaine ta sangle abdominale et garde ta poitrine relevée pendant que tu abaisses ton corps en position de squat, en poussant tes hanches vers l'arrière et en pliant tes genoux. Descends jusqu'à ce que tes cuisses soient parallèles au sol, ou aussi bas que tu le peux confortablement. Marque une pause en bas, puis pousse sur tes talons pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Set up the smith machine with the barbell at hip height.",
+      "Stand with your feet wider than shoulder-width apart, toes pointing outwards.",
+      "Position yourself under the barbell, resting it on your upper back and shoulders.",
+      "Engage your core and keep your chest up as you lower your body down into a squat position, pushing your hips back and bending your knees.",
+      "Lower yourself until your thighs are parallel to the ground, or as low as you can comfortably go.",
+      "Pause for a moment at the bottom, then push through your heels to return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Posiziona la Smith Machine con il bilanciere all'altezza dei fianchi.",
+      "Stare con i piedi più larghi della larghezza delle spalle, con le dita rivolte verso l'esterno.",
+      "Posizionati sotto il bilanciere, appoggiandolo sulla parte superiore della schiena e sulle spalle.",
+      "Coinvolgi il core e mantieni il petto sollevato mentre abbassi il corpo in una posizione tozza, spingendo i fianchi indietro e piegando le ginocchia.",
+      "Abbassati finché le cosce non sono parallele al suolo o il più in basso possibile.",
+      "Fai una pausa per un momento in fondo, quindi spingi i talloni per tornare alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Demirci makinesini halter kalça hizasında olacak şekilde kurun.",
+      "Ayaklarınız omuz genişliğinden daha geniş, ayak parmaklarınız dışarı bakacak şekilde ayakta durun.",
+      "Kendinizi halterin altına konumlandırın ve halteri sırtınızın üst kısmına ve omuzlarınıza yaslayın.",
+      "Vücudunuzu çömelme pozisyonuna indirirken, kalçalarınızı geriye itip dizlerinizi bükerken, merkez bölgenizi devreye sokun ve göğsünüzü yukarıda tutun.",
+      "Uyluklarınız yere paralel veya rahatça gidebildiğiniz kadar alçaltıncaya kadar kendinizi indirin.",
+      "Altta bir an duraklayın, ardından başlangıç ​​pozisyonuna dönmek için topuklarınızı itin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Configura la máquina Smith con la barra a la altura de la cadera.",
+      "Ponte de pie con los pies más separados que el ancho de los hombros, con las puntas de los pies hacia afuera.",
+      "Colócate debajo de la barra, apoyándola sobre la parte superior de la espalda y los hombros.",
+      "Activa el core y mantén el pecho elevado mientras bajas el cuerpo hacia una posición de sentadilla, empujando las caderas hacia atrás y flexionando las rodillas.",
+      "Baja hasta que los muslos queden paralelos al suelo, o tan abajo como puedas hacerlo cómodamente.",
+      "Haz una pausa por un momento en la parte inferior, luego empuja con los talones para regresar a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Установите машину Смита так, чтобы штанга находилась на уровне бедер.",
+      "Встаньте, расставив ноги шире плеч, носки наружу.",
+      "Расположитесь под штангой, положив ее на верхнюю часть спины и плечи.",
+      "Напрягите корпус и держите грудь поднятой, опуская тело в присед, отводя бедра назад и сгибая колени.",
+      "Опускайтесь до тех пор, пока бедра не станут параллельны земле или настолько низко, насколько вам будет удобно.",
+      "Задержитесь на мгновение внизу, затем оттолкнитесь пятками, чтобы вернуться в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将杠铃置于臀部高度的史密斯机上。",
+      "站立，双脚分开比肩宽，脚趾朝外。",
+      "将自己置于杠铃下方，将其放在上背部和肩膀上。",
+      "当你将身体降低到蹲姿时，收紧核心并保持挺胸，将臀部向后推并弯曲膝盖。",
+      "放低身体，直到大腿与地面平行，或者尽可能低到您能舒服的高度。",
+      "在底部停顿片刻，然后推动脚后跟回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "कूल्हे की ऊंचाई पर बारबेल के साथ स्मिथ मशीन स्थापित करें।",
+      "अपने पैरों को कंधे की चौड़ाई से अधिक चौड़ा करके खड़े रहें, पैर की उंगलियां बाहर की ओर हों।",
+      "अपने आप को बारबेल के नीचे रखें, इसे अपनी ऊपरी पीठ और कंधों पर टिकाएं।",
+      "अपने कोर को संलग्न करें और अपनी छाती को ऊपर रखें क्योंकि आप अपने शरीर को स्क्वाट स्थिति में नीचे लाते हैं, अपने कूल्हों को पीछे धकेलते हैं और अपने घुटनों को मोड़ते हैं।",
+      "अपने आप को तब तक नीचे करें जब तक कि आपकी जांघें ज़मीन के समानांतर न हो जाएं, या जितना नीचे आप आराम से जा सकें।",
+      "नीचे एक पल के लिए रुकें, फिर प्रारंभिक स्थिति में लौटने के लिए अपनी एड़ियों से धक्का दें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Ustaw suwnicę Smitha ze sztangą na wysokości bioder.",
+      "Stań w rozkroku szerszym niż szerokość barków, palcami skierowanymi na zewnątrz.",
+      "Ustaw się pod sztangą, opierając ją na górnej części pleców i barkach.",
+      "Napnij mięśnie brzucha i trzymaj klatkę piersiową uniesioną, opuszczając ciało w pozycję przysiadu, cofając biodra i uginając kolana.",
+      "Opuszczaj się, aż uda będą równoległe do podłogi lub tak nisko, jak jesteś w stanie wygodnie zejść.",
+      "Zatrzymaj się na chwilę na dole, a następnie odepchnij się przez pięty, aby wrócić do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "스미스 머신의 바를 엉덩이 높이로 세팅합니다.",
+      "발을 어깨 너비보다 넓게 벌리고 발가락이 바깥쪽을 향하도록 서 있습니다.",
+      "바 아래 위치하고 바를 위쪽 등과 어깨에 올립니다.",
+      "복부에 힘을 주고 가슴을 펴진 상태에서 몸을 스쿼트 위치로 내리되 엉덩이를 뒤로 밀고 무릎을 구부립니다.",
+      "허벅지가 바닥과 평행해질 때까지 또는 편안하게 내려갈 수 있는 만큼 내립니다.",
+      "아래에서 잠깐 멈추고 뒤꿈치로 밀어 시작 위치로 돌아옵니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Règle la machine Smith avec la barre à hauteur de hanche.",
+      "Tiens-toi debout, les pieds plus écartés que la largeur des épaules, les orteils tournés vers l'extérieur.",
+      "Positionne-toi sous la barre, en la faisant reposer sur le haut de ton dos et tes épaules.",
+      "Gaine ta sangle abdominale et garde ta poitrine relevée pendant que tu abaisses ton corps en position de squat, en poussant tes hanches vers l'arrière et en pliant tes genoux.",
+      "Descends jusqu'à ce que tes cuisses soient parallèles au sol, ou aussi bas que tu le peux confortablement.",
+      "Marque une pause en bas, puis pousse sur tes talons pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "glutes",
+  "image": "images/3142-dzz6BiV.jpg",
+  "gif_url": "videos/3142-dzz6BiV.gif",
+  "media_id": "dzz6BiV",
+  "created_at": "2026-03-18T12:31:32.891183+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

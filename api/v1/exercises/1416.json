@@ -1,0 +1,133 @@
+{
+  "id": "1416",
+  "name": "exercise ball one leg prone lower body rotation",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "stability ball",
+  "instructions": {
+    "en": "Lie face down on the stability ball with your hips resting on the ball and your legs extended straight behind you. Place your hands on the ground in front of you for support. Engage your glutes and core muscles to stabilize your body. Slowly lift one leg off the ground, keeping it straight and parallel to the floor. Rotate your leg outward, away from your body, while keeping your hips and upper body stable. Pause for a moment at the end of the rotation, then slowly return your leg to the starting position. Repeat the rotation with the other leg. Continue alternating legs for the desired number of repetitions.",
+    "it": "Sdraiati a faccia in giù sulla palla di stabilità con i fianchi appoggiati sulla palla e le gambe distese dritte dietro di te. Metti le mani a terra davanti a te per supporto. Coinvolgi i tuoi glutei e i muscoli centrali per stabilizzare il tuo corpo. Sollevare lentamente una gamba da terra, mantenendola dritta e parallela al pavimento. Ruota la gamba verso l'esterno, lontano dal corpo, mantenendo stabili i fianchi e la parte superiore del corpo. Fai una pausa per un momento alla fine della rotazione, quindi riporta lentamente la gamba nella posizione iniziale. Ripeti la rotazione con l'altra gamba. Continua ad alternare le gambe per il numero di ripetizioni desiderato.",
+    "tr": "Kalçalarınız topun üzerinde olacak şekilde ve bacaklarınız düz bir şekilde arkanızda uzatılmış halde stabilite topunun üzerine yüzüstü yatın. Destek için ellerinizi önünüzde yere koyun. Vücudunuzu stabilize etmek için kalça kaslarınızı ve göbek kaslarınızı çalıştırın. Bir bacağınızı yavaşça yerden kaldırın, düz ve yere paralel tutun. Kalçanızı ve vücudunuzun üst kısmını sabit tutarken bacağınızı vücudunuzdan uzağa doğru dışarı doğru döndürün. Dönüşün sonunda bir an duraklayın, ardından bacağınızı yavaşça başlangıç ​​pozisyonuna getirin. Dönüşü diğer bacakla tekrarlayın. İstenilen sayıda tekrar için bacakları değiştirerek devam edin.",
+    "es": "Túmbate boca abajo sobre el balón de estabilidad con las caderas apoyadas en el balón y las piernas extendidas rectas detrás de ti. Coloca las manos en el suelo frente a ti para mayor apoyo. Activa los glúteos y el abdomen para estabilizar el cuerpo. Levanta lentamente una pierna del suelo, manteniéndola recta y paralela al piso. Gira la pierna hacia afuera, alejándola del cuerpo, mientras mantienes las caderas y la parte superior del cuerpo estables. Haz una pausa al final de la rotación, luego regresa lentamente la pierna a la posición inicial. Repite la rotación con la otra pierna. Continúa alternando las piernas durante el número de repeticiones deseado.",
+    "ru": "Лягте на мяч лицом вниз, положив бедра на мяч и вытянув ноги прямо позади себя. Положите руки на землю перед собой для поддержки. Задействуйте ягодицы и мышцы корпуса, чтобы стабилизировать тело. Медленно поднимите одну ногу с земли, держа ее прямой и параллельной полу. Поверните ногу наружу, от тела, сохраняя при этом бедра и верхнюю часть тела устойчивыми. Сделайте небольшую паузу в конце вращения, затем медленно верните ногу в исходное положение. Повторите вращение другой ногой. Продолжайте чередовать ноги желаемое количество повторений.",
+    "zh": "面朝下躺在稳定球上，臀部放在球上，双腿伸直在身后。 将双手放在身前的地面上以获得支撑。 调动你的臀肌和核心肌肉来稳定你的身体。 慢慢地将一条腿抬离地面，保持笔直并与地板平行。 向外旋转腿部，远离身体，同时保持臀部和上半身稳定。 旋转结束时暂停片刻，然后慢慢地将腿放回起始位置。 用另一条腿重复旋转。 继续交替双腿达到所需的重复次数。",
+    "hi": "स्टेबिलिटी बॉल पर अपने कूल्हों को बॉल पर टिकाकर और अपने पैरों को सीधे अपने पीछे फैलाकर लेटें। समर्थन के लिए अपने हाथों को अपने सामने ज़मीन पर रखें। अपने शरीर को स्थिर करने के लिए अपने ग्लूट्स और कोर मांसपेशियों को शामिल करें। धीरे-धीरे एक पैर को जमीन से ऊपर उठाएं, इसे सीधा और फर्श के समानांतर रखें। अपने कूल्हों और ऊपरी शरीर को स्थिर रखते हुए, अपने पैर को अपने शरीर से दूर बाहर की ओर घुमाएँ। घुमाव के अंत में एक पल के लिए रुकें, फिर धीरे-धीरे अपने पैर को प्रारंभिक स्थिति में लौटाएँ। दूसरे पैर से भी घुमाव दोहराएं। पुनरावृत्ति की वांछित संख्या के लिए पैरों को बारी-बारी से जारी रखें।",
+    "pl": "Połóż się przodem na piłce stabilizacyjnej, opierając na niej biodra, z nogami wyprostowanymi prosto za sobą. Umieść dłonie na podłodze przed sobą dla wsparcia. Napnij mięśnie pośladkowe i mięśnie brzucha, aby ustabilizować ciało. Powoli unieś jedną nogę nad podłogę, utrzymując ją prosto i równolegle do podłoża. Obróć nogę na zewnątrz, z dala od ciała, utrzymując biodra i górną część ciała w stabilnej pozycji. Zatrzymaj się na chwilę na końcu ruchu obrotowego, a następnie powoli wróć nogą do pozycji wyjściowej. Powtórz obrót drugą nogą. Kontynuuj naprzemienne ćwiczenie nóg przez zalecaną liczbę powtórzeń.",
+    "ko": "짐볼 위에 엎드려 누운 상태에서 골반이 볼 위에 올라오고 다리를 뒤로 쭉 펴십시오. 지탱을 위해 손을 앞에 바닥에 올려놓으십시오. 엉덩이 근육과 코어 근육을 조여 몸을 안정시키십시오. 한다리를 천천히 바닥에서 들어올리되 곧게 펴서 바닥과 평행하게 유지하십시오. 다리를 바깥쪽으로 회전시켜 몸에서 멀어지도록 하되 엉덩이와 상체는 안정적으로 유지하십시오. 회전의 끝에서 잠시 멈춘 후 천천히 다리를 시작 위치로 돌아오십시오. 다른 다리로 회전 동작을 반복하십시오. 원하는 반복 횟수만큼 다리를 교대로 반복하십시오.",
+    "fr": "Allonge-toi face vers le bas sur le ballon de stabilité, les hanches reposant sur le ballon et les jambes tendues droit derrière toi. Place tes mains au sol devant toi pour le soutien. Contracte tes fessiers et tes muscles abdominaux pour stabiliser ton corps. Soulève lentement une jambe du sol, en la gardant tendue et parallèle au sol. Fais tourner ta jambe vers l'extérieur, loin de ton corps, tout en gardant tes hanches et le haut de ton corps stables. Marque une pause à la fin de la rotation, puis ramène lentement ta jambe à la position de départ. Répète la rotation avec l'autre jambe. Continue à alterner les jambes pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Lie face down on the stability ball with your hips resting on the ball and your legs extended straight behind you.",
+      "Place your hands on the ground in front of you for support.",
+      "Engage your glutes and core muscles to stabilize your body.",
+      "Slowly lift one leg off the ground, keeping it straight and parallel to the floor.",
+      "Rotate your leg outward, away from your body, while keeping your hips and upper body stable.",
+      "Pause for a moment at the end of the rotation, then slowly return your leg to the starting position.",
+      "Repeat the rotation with the other leg.",
+      "Continue alternating legs for the desired number of repetitions."
+    ],
+    "it": [
+      "Sdraiati a faccia in giù sulla palla di stabilità con i fianchi appoggiati sulla palla e le gambe distese dritte dietro di te.",
+      "Metti le mani a terra davanti a te per supporto.",
+      "Coinvolgi i tuoi glutei e i muscoli centrali per stabilizzare il tuo corpo.",
+      "Sollevare lentamente una gamba da terra, mantenendola dritta e parallela al pavimento.",
+      "Ruota la gamba verso l'esterno, lontano dal corpo, mantenendo stabili i fianchi e la parte superiore del corpo.",
+      "Fai una pausa per un momento alla fine della rotazione, quindi riporta lentamente la gamba nella posizione iniziale.",
+      "Ripeti la rotazione con l'altra gamba.",
+      "Continua ad alternare le gambe per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Kalçalarınız topun üzerinde olacak şekilde ve bacaklarınız düz bir şekilde arkanızda uzatılmış halde stabilite topunun üzerine yüzüstü yatın.",
+      "Destek için ellerinizi önünüzde yere koyun.",
+      "Vücudunuzu stabilize etmek için kalça kaslarınızı ve göbek kaslarınızı çalıştırın.",
+      "Bir bacağınızı yavaşça yerden kaldırın, düz ve yere paralel tutun.",
+      "Kalçanızı ve vücudunuzun üst kısmını sabit tutarken bacağınızı vücudunuzdan uzağa doğru dışarı doğru döndürün.",
+      "Dönüşün sonunda bir an duraklayın, ardından bacağınızı yavaşça başlangıç ​​pozisyonuna getirin.",
+      "Dönüşü diğer bacakla tekrarlayın.",
+      "İstenilen sayıda tekrar için bacakları değiştirerek devam edin."
+    ],
+    "es": [
+      "Túmbate boca abajo sobre el balón de estabilidad con las caderas apoyadas en el balón y las piernas extendidas rectas detrás de ti.",
+      "Coloca las manos en el suelo frente a ti para mayor apoyo.",
+      "Activa los glúteos y el abdomen para estabilizar el cuerpo.",
+      "Levanta lentamente una pierna del suelo, manteniéndola recta y paralela al piso.",
+      "Gira la pierna hacia afuera, alejándola del cuerpo, mientras mantienes las caderas y la parte superior del cuerpo estables.",
+      "Haz una pausa al final de la rotación, luego regresa lentamente la pierna a la posición inicial.",
+      "Repite la rotación con la otra pierna.",
+      "Continúa alternando las piernas durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Лягте на мяч лицом вниз, положив бедра на мяч и вытянув ноги прямо позади себя.",
+      "Положите руки на землю перед собой для поддержки.",
+      "Задействуйте ягодицы и мышцы корпуса, чтобы стабилизировать тело.",
+      "Медленно поднимите одну ногу с земли, держа ее прямой и параллельной полу.",
+      "Поверните ногу наружу, от тела, сохраняя при этом бедра и верхнюю часть тела устойчивыми.",
+      "Сделайте небольшую паузу в конце вращения, затем медленно верните ногу в исходное положение.",
+      "Повторите вращение другой ногой.",
+      "Продолжайте чередовать ноги желаемое количество повторений."
+    ],
+    "zh": [
+      "面朝下躺在稳定球上，臀部放在球上，双腿伸直在身后。",
+      "将双手放在身前的地面上以获得支撑。",
+      "调动你的臀肌和核心肌肉来稳定你的身体。",
+      "慢慢地将一条腿抬离地面，保持笔直并与地板平行。",
+      "向外旋转腿部，远离身体，同时保持臀部和上半身稳定。",
+      "旋转结束时暂停片刻，然后慢慢地将腿放回起始位置。",
+      "用另一条腿重复旋转。",
+      "继续交替双腿达到所需的重复次数。"
+    ],
+    "hi": [
+      "स्टेबिलिटी बॉल पर अपने कूल्हों को बॉल पर टिकाकर और अपने पैरों को सीधे अपने पीछे फैलाकर लेटें।",
+      "समर्थन के लिए अपने हाथों को अपने सामने ज़मीन पर रखें।",
+      "अपने शरीर को स्थिर करने के लिए अपने ग्लूट्स और कोर मांसपेशियों को शामिल करें।",
+      "धीरे-धीरे एक पैर को जमीन से ऊपर उठाएं, इसे सीधा और फर्श के समानांतर रखें।",
+      "अपने कूल्हों और ऊपरी शरीर को स्थिर रखते हुए, अपने पैर को अपने शरीर से दूर बाहर की ओर घुमाएँ।",
+      "घुमाव के अंत में एक पल के लिए रुकें, फिर धीरे-धीरे अपने पैर को प्रारंभिक स्थिति में लौटाएँ।",
+      "दूसरे पैर से भी घुमाव दोहराएं।",
+      "पुनरावृत्ति की वांछित संख्या के लिए पैरों को बारी-बारी से जारी रखें।"
+    ],
+    "pl": [
+      "Połóż się przodem na piłce stabilizacyjnej, opierając na niej biodra, z nogami wyprostowanymi prosto za sobą.",
+      "Umieść dłonie na podłodze przed sobą dla wsparcia.",
+      "Napnij mięśnie pośladkowe i mięśnie brzucha, aby ustabilizować ciało.",
+      "Powoli unieś jedną nogę nad podłogę, utrzymując ją prosto i równolegle do podłoża.",
+      "Obróć nogę na zewnątrz, z dala od ciała, utrzymując biodra i górną część ciała w stabilnej pozycji.",
+      "Zatrzymaj się na chwilę na końcu ruchu obrotowego, a następnie powoli wróć nogą do pozycji wyjściowej.",
+      "Powtórz obrót drugą nogą.",
+      "Kontynuuj naprzemienne ćwiczenie nóg przez zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "짐볼 위에 엎드려 누운 상태에서 골반이 볼 위에 올라오고 다리를 뒤로 쭉 펴십시오.",
+      "지탱을 위해 손을 앞에 바닥에 올려놓으십시오.",
+      "엉덩이 근육과 코어 근육을 조여 몸을 안정시키십시오.",
+      "한다리를 천천히 바닥에서 들어올리되 곧게 펴서 바닥과 평행하게 유지하십시오.",
+      "다리를 바깥쪽으로 회전시켜 몸에서 멀어지도록 하되 엉덩이와 상체는 안정적으로 유지하십시오.",
+      "회전의 끝에서 잠시 멈춘 후 천천히 다리를 시작 위치로 돌아오십시오.",
+      "다른 다리로 회전 동작을 반복하십시오.",
+      "원하는 반복 횟수만큼 다리를 교대로 반복하십시오."
+    ],
+    "fr": [
+      "Allonge-toi face vers le bas sur le ballon de stabilité, les hanches reposant sur le ballon et les jambes tendues droit derrière toi.",
+      "Place tes mains au sol devant toi pour le soutien.",
+      "Contracte tes fessiers et tes muscles abdominaux pour stabiliser ton corps.",
+      "Soulève lentement une jambe du sol, en la gardant tendue et parallèle au sol.",
+      "Fais tourner ta jambe vers l'extérieur, loin de ton corps, tout en gardant tes hanches et le haut de ton corps stables.",
+      "Marque une pause à la fin de la rotation, puis ramène lentement ta jambe à la position de départ.",
+      "Répète la rotation avec l'autre jambe.",
+      "Continue à alterner les jambes pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings",
+    "quadriceps",
+    "core"
+  ],
+  "target": "glutes",
+  "image": "images/1416-M72BExt.jpg",
+  "gif_url": "videos/1416-M72BExt.gif",
+  "media_id": "M72BExt",
+  "created_at": "2026-03-18T12:31:32.882888+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

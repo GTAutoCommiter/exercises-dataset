@@ -1,0 +1,102 @@
+{
+  "id": "0137",
+  "name": "body-up",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Start by placing your hands on a raised surface, such as a bench or parallel bars, with your palms facing down and fingers pointing forward. Extend your legs out in front of you, keeping your heels on the ground and your body straight. Lower your body by bending your elbows, keeping them close to your sides, until your upper arms are parallel to the ground. Pause for a moment, then push through your palms to straighten your arms and lift your body back up to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Inizia posizionando le mani su una superficie rialzata, come una panca o barre parallele, con i palmi rivolti verso il basso e le dita puntate in avanti. Allunga le gambe davanti a te, tenendo i talloni a terra e il corpo dritto. Abbassa il corpo piegando i gomiti, tenendoli vicini ai fianchi, finché le braccia superiori non sono parallele al terreno. Fermati un attimo, poi spingi attraverso i palmi per raddrizzare le braccia e sollevare di nuovo il corpo alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ellerinizi, avuçlarınız aşağıya bakacak ve parmaklarınız ileriyi gösterecek şekilde, tezgah veya paralel çubuklar gibi yükseltilmiş bir yüzeye yerleştirerek başlayın. Topuklarınızı yerde ve vücudunuzu düz tutarak bacaklarınızı önünüze doğru uzatın. Dirseklerinizi bükerek, yanlarınıza yakın tutarak üst kollarınız yere paralel oluncaya kadar vücudunuzu indirin. Bir an duraklayın, ardından kollarınızı düzleştirmek için avuç içlerinizi itin ve vücudunuzu tekrar başlangıç ​​pozisyonuna kaldırın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Comienza colocando las manos sobre una superficie elevada, como un banco o unas barras paralelas, con las palmas hacia abajo y los dedos apuntando hacia adelante. Extiende las piernas frente a ti, manteniendo los talones en el suelo y el cuerpo recto. Baja el cuerpo flexionando los codos, manteniéndolos cerca del cuerpo, hasta que los brazos superiores queden paralelos al suelo. Haz una pausa breve, luego empuja con las palmas para extender los brazos y levantar el cuerpo de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Начните с того, что положите руки на приподнятую поверхность, например на скамью или брусья, ладонями вниз и пальцами вперед. Вытяните ноги перед собой, удерживая пятки на земле, а тело прямо. Опустите тело, согнув локти и держа их близко к бокам, пока плечи не станут параллельны земле. Сделайте паузу на мгновение, затем подтолкните ладони, чтобы выпрямить руки и поднять тело обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "首先将双手放在凸起的表面上，例如长凳或双杠上，手掌朝下，手指向前。 将双腿向前方伸展，脚跟保持在地面上，身体伸直。 弯曲肘部降低身体，使其靠近身体两侧，直到上臂与地面平行。 暂停片刻，然后用手掌伸直手臂，将身体抬回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने हाथों को किसी ऊंची सतह, जैसे कि बेंच या समानांतर सलाखों पर रखकर शुरुआत करें, जिसमें आपकी हथेलियाँ नीचे की ओर हों और उंगलियाँ आगे की ओर हों। अपने पैरों को अपने सामने फैलाएं, अपनी एड़ियों को ज़मीन पर और अपने शरीर को सीधा रखें। अपनी कोहनियों को मोड़कर अपने शरीर को नीचे लाएँ, उन्हें अपनी भुजाओं के पास रखें, जब तक कि आपकी ऊपरी भुजाएँ ज़मीन के समानांतर न हो जाएँ। एक पल के लिए रुकें, फिर अपनी हथेलियों से धक्का देकर अपनी भुजाओं को सीधा करें और अपने शरीर को वापस प्रारंभिक स्थिति में उठाएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Zacznij, umieszczając dłonie na podwyższonej powierzchni, takiej jak ławka lub poręcze, z dłońmi skierowanymi w dół, a palcami skierowanymi do przodu. Wyprostuj nogi przed sobą, trzymając pięty na podłodze, a ciało proste. Opuść ciało, uginając łokcie, trzymając je blisko boków, aż ramiona będą równoległe do podłogi. Zatrzymaj się na chwilę, a następnie wypchnij się dłońmi, prostując ramiona i unosząc ciało z powrotem do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "벤치나 평행봉과 같은 높은 표면에 손을 올리되 손바닥은 아래를 향하고 손가락은 앞을 향하게 합니다. 다리를 앞으로 뻗되 발꿈치는 땅에 놓고 몸은 곧게 유지합니다. 팔꿈치를 구부려 몸을 내리되 팔꿈치는 몸에 가깝게 유지합니다. 상완이 땅과 평행할 때까지 내려갑니다. 잠깐 멈춘 후, 손바닥으로 밀어 팔을 펴서 시작 위치로 올립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Commence par placer tes mains sur une surface surélevée, comme un banc ou des barres parallèles, les paumes tournées vers le bas et les doigts pointés vers l'avant. Étends tes jambes devant toi, en gardant les talons au sol et le corps droit. Abaisse ton corps en fléchissant tes coudes, en les gardant près de tes côtés, jusqu'à ce que le haut de tes bras soit parallèle au sol. Marque une pause, puis pousse sur tes paumes pour tendre tes bras et ramener ton corps vers le haut jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start by placing your hands on a raised surface, such as a bench or parallel bars, with your palms facing down and fingers pointing forward.",
+      "Extend your legs out in front of you, keeping your heels on the ground and your body straight.",
+      "Lower your body by bending your elbows, keeping them close to your sides, until your upper arms are parallel to the ground.",
+      "Pause for a moment, then push through your palms to straighten your arms and lift your body back up to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia posizionando le mani su una superficie rialzata, come una panca o barre parallele, con i palmi rivolti verso il basso e le dita puntate in avanti.",
+      "Allunga le gambe davanti a te, tenendo i talloni a terra e il corpo dritto.",
+      "Abbassa il corpo piegando i gomiti, tenendoli vicini ai fianchi, finché le braccia superiori non sono parallele al terreno.",
+      "Fermati un attimo, poi spingi attraverso i palmi per raddrizzare le braccia e sollevare di nuovo il corpo alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ellerinizi, avuçlarınız aşağıya bakacak ve parmaklarınız ileriyi gösterecek şekilde, tezgah veya paralel çubuklar gibi yükseltilmiş bir yüzeye yerleştirerek başlayın.",
+      "Topuklarınızı yerde ve vücudunuzu düz tutarak bacaklarınızı önünüze doğru uzatın.",
+      "Dirseklerinizi bükerek, yanlarınıza yakın tutarak üst kollarınız yere paralel oluncaya kadar vücudunuzu indirin.",
+      "Bir an duraklayın, ardından kollarınızı düzleştirmek için avuç içlerinizi itin ve vücudunuzu tekrar başlangıç ​​pozisyonuna kaldırın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Comienza colocando las manos sobre una superficie elevada, como un banco o unas barras paralelas, con las palmas hacia abajo y los dedos apuntando hacia adelante.",
+      "Extiende las piernas frente a ti, manteniendo los talones en el suelo y el cuerpo recto.",
+      "Baja el cuerpo flexionando los codos, manteniéndolos cerca del cuerpo, hasta que los brazos superiores queden paralelos al suelo.",
+      "Haz una pausa breve, luego empuja con las palmas para extender los brazos y levantar el cuerpo de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с того, что положите руки на приподнятую поверхность, например на скамью или брусья, ладонями вниз и пальцами вперед.",
+      "Вытяните ноги перед собой, удерживая пятки на земле, а тело прямо.",
+      "Опустите тело, согнув локти и держа их близко к бокам, пока плечи не станут параллельны земле.",
+      "Сделайте паузу на мгновение, затем подтолкните ладони, чтобы выпрямить руки и поднять тело обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "首先将双手放在凸起的表面上，例如长凳或双杠上，手掌朝下，手指向前。",
+      "将双腿向前方伸展，脚跟保持在地面上，身体伸直。",
+      "弯曲肘部降低身体，使其靠近身体两侧，直到上臂与地面平行。",
+      "暂停片刻，然后用手掌伸直手臂，将身体抬回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने हाथों को किसी ऊंची सतह, जैसे कि बेंच या समानांतर सलाखों पर रखकर शुरुआत करें, जिसमें आपकी हथेलियाँ नीचे की ओर हों और उंगलियाँ आगे की ओर हों।",
+      "अपने पैरों को अपने सामने फैलाएं, अपनी एड़ियों को ज़मीन पर और अपने शरीर को सीधा रखें।",
+      "अपनी कोहनियों को मोड़कर अपने शरीर को नीचे लाएँ, उन्हें अपनी भुजाओं के पास रखें, जब तक कि आपकी ऊपरी भुजाएँ ज़मीन के समानांतर न हो जाएँ।",
+      "एक पल के लिए रुकें, फिर अपनी हथेलियों से धक्का देकर अपनी भुजाओं को सीधा करें और अपने शरीर को वापस प्रारंभिक स्थिति में उठाएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Zacznij, umieszczając dłonie na podwyższonej powierzchni, takiej jak ławka lub poręcze, z dłońmi skierowanymi w dół, a palcami skierowanymi do przodu.",
+      "Wyprostuj nogi przed sobą, trzymając pięty na podłodze, a ciało proste.",
+      "Opuść ciało, uginając łokcie, trzymając je blisko boków, aż ramiona będą równoległe do podłogi.",
+      "Zatrzymaj się na chwilę, a następnie wypchnij się dłońmi, prostując ramiona i unosząc ciało z powrotem do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "벤치나 평행봉과 같은 높은 표면에 손을 올리되 손바닥은 아래를 향하고 손가락은 앞을 향하게 합니다.",
+      "다리를 앞으로 뻗되 발꿈치는 땅에 놓고 몸은 곧게 유지합니다.",
+      "팔꿈치를 구부려 몸을 내리되 팔꿈치는 몸에 가깝게 유지합니다.",
+      "상완이 땅과 평행할 때까지 내려갑니다.",
+      "잠깐 멈춘 후, 손바닥으로 밀어 팔을 펴서 시작 위치로 올립니다."
+    ],
+    "fr": [
+      "Commence par placer tes mains sur une surface surélevée, comme un banc ou des barres parallèles, les paumes tournées vers le bas et les doigts pointés vers l'avant.",
+      "Étends tes jambes devant toi, en gardant les talons au sol et le corps droit.",
+      "Abaisse ton corps en fléchissant tes coudes, en les gardant près de tes côtés, jusqu'à ce que le haut de tes bras soit parallèle au sol.",
+      "Marque une pause, puis pousse sur tes paumes pour tendre tes bras et ramener ton corps vers le haut jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "chest",
+  "secondary_muscles": [
+    "chest",
+    "shoulders"
+  ],
+  "target": "triceps",
+  "image": "images/0137-U6G2gk9.jpg",
+  "gif_url": "videos/0137-U6G2gk9.gif",
+  "media_id": "U6G2gk9",
+  "created_at": "2026-03-18T12:31:32.873758+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

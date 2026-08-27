@@ -1,0 +1,123 @@
+{
+  "id": "2808",
+  "name": "dumbbell sumo pull through",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Stand with your feet wider than shoulder-width apart, toes pointed outwards. Hold a dumbbell with both hands in front of your body, arms extended. Bend your knees and lower your hips down into a squat position, keeping your back straight. Lower the dumbbell down between your legs, keeping your arms straight. Drive through your heels and extend your hips forward, pulling the dumbbell up and in front of your body. Squeeze your glutes at the top of the movement, then lower the dumbbell back down between your legs. Repeat for the desired number of repetitions.",
+    "it": "Stai in piedi con i piedi più allontanati rispetto alla larghezza delle spalle, le dita rivolte verso l'esterno. Tieni un manubrio con entrambe le mani davanti al corpo, braccia estese. Flette le ginocchia e abbassa i fianchi in posizione squat, mantenendo la schiena dritta. Abbassa il manubrio tra le gambe, tenendo le braccia dritte. Spingi attraverso i talloni e allunga i fianchi in avanti, tirando il manubrio verso l'alto e davanti al corpo. Stringi i glutei all'inizio del movimento, poi abbassa di nuovo il manubrio tra le gambe. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız omuz genişliğinden daha açık, ayak parmaklarınız dışarı doğru bakacak şekilde ayakta durun. Bir dambılı iki elinizle vücudunuzun önünde tutun, kollarınızı uzatın. Dizlerinizi bükün ve kalçalarınızı çömelme pozisyonuna indirin, sırtınızı düz tutun. Kollarınızı düz tutarak dambılı bacaklarınızın arasına indirin. Topuklarınızın arasından geçin ve kalçalarınızı öne doğru uzatarak dambılı yukarı ve vücudunuzun önüne çekin. Hareketin üst noktasında kalça kaslarınızı sıkın, ardından dambılı tekrar bacaklarınızın arasına indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies más separados que la altura de los hombros, con las puntas de los pies hacia afuera. Sujeta una mancuerna con ambas manos frente a tu cuerpo, con los brazos extendidos. Flexiona las rodillas y baja las caderas hasta una posición de sentadilla, manteniendo la espalda recta. Baja la mancuerna entre las piernas, manteniendo los brazos rectos. Empuja con los talones y extiende las caderas hacia adelante, llevando la mancuerna hacia arriba y frente a tu cuerpo. Aprieta los glúteos en la parte superior del movimiento, luego baja la mancuerna de vuelta entre las piernas. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, поставив ноги шире плеч, носки направлены наружу. Держите гантель обеими руками перед телом, руки вытянуты. Согните колени и опустите бедра в положение приседа, сохраняя спину прямой. Опустите гантель между ног, держа руки прямыми. Проведите пятками и вытяните бедра вперед, подтягивая гантель вверх и перед собой. Сожмите ягодицы в верхней точке движения, затем опустите гантель обратно между ног. Повторите необходимое количество повторений.",
+    "zh": "站立，双脚分开比肩宽，脚趾朝外。 双手握住哑铃置于身体前方，双臂伸展。 弯曲膝盖，将臀部放低至下蹲位置，保持背部挺直。 将哑铃放在两腿之间，保持手臂伸直。 通过脚后跟发力，向前伸展臀部，将哑铃向上拉至身体前方。 在动作的最高点挤压臀部，然后将哑铃放回双腿之间。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई से अधिक चौड़ा करके खड़े रहें, पैर की उंगलियां बाहर की ओर हों। अपने शरीर के सामने दोनों हाथों से डम्बल पकड़ें, बाहें फैली हुई। अपने घुटनों को मोड़ें और अपनी पीठ को सीधा रखते हुए अपने कूल्हों को स्क्वाट स्थिति में नीचे लाएँ। अपनी बाहों को सीधा रखते हुए डम्बल को अपने पैरों के बीच नीचे रखें। अपनी एड़ी के माध्यम से ड्राइव करें और अपने कूल्हों को आगे बढ़ाएं, डम्बल को ऊपर और अपने शरीर के सामने खींचें। आंदोलन के शीर्ष पर अपने ग्लूट्स को निचोड़ें, फिर डम्बल को वापस अपने पैरों के बीच नीचे लाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań w rozkroku szerszym niż szerokość barków, palce stóp skierowane na zewnątrz. Trzymaj hantlę obiema dłońmi przed ciałem, ramiona wyprostowane. Zegnij kolana i opuść biodra w pozycję przysiadu, trzymając plecy proste. Opuść hantlę pomiędzy nogami, trzymając ramiona proste. Wypchnij się przez pięty i wyprostuj biodra do przodu, podciągając hantlę do góry i przed ciało. Napnij pośladki na szczycie ruchu, a następnie opuść hantlę z powrotem pomiędzy nogi. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "어깨너비보다 넓게 발을 벌리고 발끝을 바깥쪽으로 향하게 하여 섭니다. 양손으로 덤벨을 잡고 팔을 펼친 채로 몸 앞에 둡니다. 무릎을 구부려 엉덩이를 내려 스쿼트 자세를 취하면서 등을 곧게 유지합니다. 팔을 곧게 유지하면서 덤벨을 다리 사이로 내립니다. 발뒤꿈치를 통해 밀어 엉덩이를 앞으로 펴면서 덤벨을 몸 앞으로 들어올립니다. 맨 위에서 글루트를 조인 후 덤벨을 다시 다리 사이로 내립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds plus écartés que la largeur des épaules, les orteils tournés vers l'extérieur. Tiens un haltère des deux mains devant ton corps, les bras étendus. Fléchis les genoux et abaisse tes hanches en position accroupie en gardant le dos droit. Abaisse l'haltère entre tes jambes, en gardant tes bras tendus. Pousse sur tes talons et étends tes hanches vers l'avant, en tirant l'haltère vers le haut et devant ton corps. Contracte tes fessiers en haut du mouvement, puis abaisse l'haltère entre tes jambes. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet wider than shoulder-width apart, toes pointed outwards.",
+      "Hold a dumbbell with both hands in front of your body, arms extended.",
+      "Bend your knees and lower your hips down into a squat position, keeping your back straight.",
+      "Lower the dumbbell down between your legs, keeping your arms straight.",
+      "Drive through your heels and extend your hips forward, pulling the dumbbell up and in front of your body.",
+      "Squeeze your glutes at the top of the movement, then lower the dumbbell back down between your legs.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai in piedi con i piedi più allontanati rispetto alla larghezza delle spalle, le dita rivolte verso l'esterno.",
+      "Tieni un manubrio con entrambe le mani davanti al corpo, braccia estese.",
+      "Flette le ginocchia e abbassa i fianchi in posizione squat, mantenendo la schiena dritta.",
+      "Abbassa il manubrio tra le gambe, tenendo le braccia dritte.",
+      "Spingi attraverso i talloni e allunga i fianchi in avanti, tirando il manubrio verso l'alto e davanti al corpo.",
+      "Stringi i glutei all'inizio del movimento, poi abbassa di nuovo il manubrio tra le gambe.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinden daha açık, ayak parmaklarınız dışarı doğru bakacak şekilde ayakta durun.",
+      "Bir dambılı iki elinizle vücudunuzun önünde tutun, kollarınızı uzatın.",
+      "Dizlerinizi bükün ve kalçalarınızı çömelme pozisyonuna indirin, sırtınızı düz tutun.",
+      "Kollarınızı düz tutarak dambılı bacaklarınızın arasına indirin.",
+      "Topuklarınızın arasından geçin ve kalçalarınızı öne doğru uzatarak dambılı yukarı ve vücudunuzun önüne çekin.",
+      "Hareketin üst noktasında kalça kaslarınızı sıkın, ardından dambılı tekrar bacaklarınızın arasına indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies más separados que la altura de los hombros, con las puntas de los pies hacia afuera.",
+      "Sujeta una mancuerna con ambas manos frente a tu cuerpo, con los brazos extendidos.",
+      "Flexiona las rodillas y baja las caderas hasta una posición de sentadilla, manteniendo la espalda recta.",
+      "Baja la mancuerna entre las piernas, manteniendo los brazos rectos.",
+      "Empuja con los talones y extiende las caderas hacia adelante, llevando la mancuerna hacia arriba y frente a tu cuerpo.",
+      "Aprieta los glúteos en la parte superior del movimiento, luego baja la mancuerna de vuelta entre las piernas.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, поставив ноги шире плеч, носки направлены наружу.",
+      "Держите гантель обеими руками перед телом, руки вытянуты.",
+      "Согните колени и опустите бедра в положение приседа, сохраняя спину прямой.",
+      "Опустите гантель между ног, держа руки прямыми.",
+      "Проведите пятками и вытяните бедра вперед, подтягивая гантель вверх и перед собой.",
+      "Сожмите ягодицы в верхней точке движения, затем опустите гантель обратно между ног.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "站立，双脚分开比肩宽，脚趾朝外。",
+      "双手握住哑铃置于身体前方，双臂伸展。",
+      "弯曲膝盖，将臀部放低至下蹲位置，保持背部挺直。",
+      "将哑铃放在两腿之间，保持手臂伸直。",
+      "通过脚后跟发力，向前伸展臀部，将哑铃向上拉至身体前方。",
+      "在动作的最高点挤压臀部，然后将哑铃放回双腿之间。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई से अधिक चौड़ा करके खड़े रहें, पैर की उंगलियां बाहर की ओर हों।",
+      "अपने शरीर के सामने दोनों हाथों से डम्बल पकड़ें, बाहें फैली हुई।",
+      "अपने घुटनों को मोड़ें और अपनी पीठ को सीधा रखते हुए अपने कूल्हों को स्क्वाट स्थिति में नीचे लाएँ।",
+      "अपनी बाहों को सीधा रखते हुए डम्बल को अपने पैरों के बीच नीचे रखें।",
+      "अपनी एड़ी के माध्यम से ड्राइव करें और अपने कूल्हों को आगे बढ़ाएं, डम्बल को ऊपर और अपने शरीर के सामने खींचें।",
+      "आंदोलन के शीर्ष पर अपने ग्लूट्स को निचोड़ें, फिर डम्बल को वापस अपने पैरों के बीच नीचे लाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w rozkroku szerszym niż szerokość barków, palce stóp skierowane na zewnątrz.",
+      "Trzymaj hantlę obiema dłońmi przed ciałem, ramiona wyprostowane.",
+      "Zegnij kolana i opuść biodra w pozycję przysiadu, trzymając plecy proste.",
+      "Opuść hantlę pomiędzy nogami, trzymając ramiona proste.",
+      "Wypchnij się przez pięty i wyprostuj biodra do przodu, podciągając hantlę do góry i przed ciało.",
+      "Napnij pośladki na szczycie ruchu, a następnie opuść hantlę z powrotem pomiędzy nogi.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "어깨너비보다 넓게 발을 벌리고 발끝을 바깥쪽으로 향하게 하여 섭니다.",
+      "양손으로 덤벨을 잡고 팔을 펼친 채로 몸 앞에 둡니다.",
+      "무릎을 구부려 엉덩이를 내려 스쿼트 자세를 취하면서 등을 곧게 유지합니다.",
+      "팔을 곧게 유지하면서 덤벨을 다리 사이로 내립니다.",
+      "발뒤꿈치를 통해 밀어 엉덩이를 앞으로 펴면서 덤벨을 몸 앞으로 들어올립니다.",
+      "맨 위에서 글루트를 조인 후 덤벨을 다시 다리 사이로 내립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds plus écartés que la largeur des épaules, les orteils tournés vers l'extérieur.",
+      "Tiens un haltère des deux mains devant ton corps, les bras étendus.",
+      "Fléchis les genoux et abaisse tes hanches en position accroupie en gardant le dos droit.",
+      "Abaisse l'haltère entre tes jambes, en gardant tes bras tendus.",
+      "Pousse sur tes talons et étends tes hanches vers l'avant, en tirant l'haltère vers le haut et devant ton corps.",
+      "Contracte tes fessiers en haut du mouvement, puis abaisse l'haltère entre tes jambes.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings",
+    "quadriceps",
+    "core"
+  ],
+  "target": "glutes",
+  "image": "images/2808-BmrwWzo.jpg",
+  "gif_url": "videos/2808-BmrwWzo.gif",
+  "media_id": "BmrwWzo",
+  "created_at": "2026-03-18T12:31:32.882333+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

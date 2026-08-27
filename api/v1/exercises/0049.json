@@ -1,0 +1,122 @@
+{
+  "id": "0049",
+  "name": "barbell incline row",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Set up an incline bench at a 45-degree angle. Lie face down on the bench with your chest against the pad and your feet flat on the ground. Grasp the barbell with an overhand grip, slightly wider than shoulder-width apart. Keep your back straight and your core engaged. Pull the barbell towards your chest, squeezing your shoulder blades together. Pause for a moment at the top, then slowly lower the barbell back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Installa una panca inclinata con un angolo di 45 gradi. Sdraiati a faccia in giù sulla panca con il petto contro il cuscino e i piedi appoggiati a terra. Afferrare il bilanciere con una presa prona, leggermente più larga della larghezza delle spalle. Tieni la schiena dritta e il core impegnato. Tirare il bilanciere verso il petto, stringendo insieme le scapole. Fermati per un momento in alto, quindi abbassa lentamente il bilanciere nella posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "45 derecelik bir açıyla eğimli bir tezgah kurun. Göğsünüz yastığa dayalı ve ayaklarınız yere düz basacak şekilde bankta yüz üstü uzanın. Halteri omuz genişliğinden biraz daha geniş olacak şekilde üstten kavrayın. Sırtınızı düz ve merkez bölgenizi meşgul tutun. Halteri göğsünüze doğru çekin, kürek kemiklerinizi birbirine doğru sıkıştırın. Tepe noktasında bir süre duraklayın, ardından halteri yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Coloca un banco inclinado a un ángulo de 45 grados. Túmbate boca abajo en el banco con el pecho apoyado en el respaldo y los pies planos sobre el suelo. Agarra la barra con un agarre pronado un poco más ancho que la separación de los hombros. Mantén la espalda recta y el core activado. Tira de la barra hacia el pecho, juntando los omóplatos. Haz una pausa breve en la parte alta y luego baja lentamente la barra de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Установите наклонную скамью под углом 45 градусов. Лягте на скамью лицом вниз, прижавшись грудью к подушке, а ступни поставьте на землю. Возьмите штангу хватом сверху, на расстоянии чуть шире плеч. Держите спину прямо, а корпус напряженным. Подтяните штангу к груди, сведя лопатки вместе. Задержитесь на мгновение в верхней точке, затем медленно опустите штангу обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "设置一个 45 度角的上斜凳。 脸朝下躺在长凳上，胸部靠在垫子上，双脚平放在地上。 正手握住杠铃，握距略宽于肩宽。 保持背部挺直，核心肌群参与。 将杠铃拉向胸部，将肩胛骨挤压在一起。 在顶部停顿片刻，然后慢慢将杠铃放回起始位置。 重复所需的重复次数。",
+    "hi": "45 डिग्री के कोण पर एक झुकी हुई बेंच स्थापित करें। अपनी छाती को पैड से सटाकर और अपने पैरों को ज़मीन पर सपाट रखते हुए बेंच पर मुँह के बल लेट जाएँ। बारबेल को कंधे की चौड़ाई से थोड़ा अधिक चौड़े हाथ से पकड़ें। अपनी पीठ सीधी रखें और अपने कोर को व्यस्त रखें। अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए, बारबेल को अपनी छाती की ओर खींचें। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे बारबेल को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Ustaw ławkę skośną (dodatnią) pod kątem 45 stopni. Połóż się twarzą w dół na ławce, opierając klatkę piersiową o poduszkę, a stopy ustaw płasko na podłodze. Chwyć sztangę chwytem nachwytem, nieco szerszym niż szerokość barków. Utrzymuj proste plecy i napięte mięśnie tułowia. Przyciągnij sztangę w kierunku klatki piersiowej, ściskając łopatki. Zatrzymaj się na chwilę na górze, a następnie powoli opuść sztangę z powrotem do pozycji wyjściowej. Powtórz odpowiednią liczbę razy.",
+    "ko": "인클라인 벤치를 45도로 설정합니다. 벤치에 엎드려 가슴이 패드에 닿게 하고 양발을 바닥에 놓습니다. 바벨을 어깨너비보다 약간 넓은 너비로 오버핸드 그립으로 잡습니다. 등을 곧게 펴고 복부에 력을 줍니다. 바벨을 가슴 쪽으로 당기면서 어깨 날개뼈를 모아줍니다. 맨 위에서 잠깐 멈춘 후 바벨을 천천히 처음 위치로 내립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Installe un banc incliné à un angle de 45 degrés. Allonge-toi face vers le bas sur le banc, la poitrine contre le coussinet et les pieds à plat au sol. Saisis la barre avec une prise en pronation, un peu plus large que la largeur des épaules. Garde le dos droit et ta sangle abdominale gainée. Tire la barre vers ta poitrine, en contractant tes omoplates. Marque une pause en haut, puis abaisse lentement la barre pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Set up an incline bench at a 45-degree angle.",
+      "Lie face down on the bench with your chest against the pad and your feet flat on the ground.",
+      "Grasp the barbell with an overhand grip, slightly wider than shoulder-width apart.",
+      "Keep your back straight and your core engaged.",
+      "Pull the barbell towards your chest, squeezing your shoulder blades together.",
+      "Pause for a moment at the top, then slowly lower the barbell back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Installa una panca inclinata con un angolo di 45 gradi.",
+      "Sdraiati a faccia in giù sulla panca con il petto contro il cuscino e i piedi appoggiati a terra.",
+      "Afferrare il bilanciere con una presa prona, leggermente più larga della larghezza delle spalle.",
+      "Tieni la schiena dritta e il core impegnato.",
+      "Tirare il bilanciere verso il petto, stringendo insieme le scapole.",
+      "Fermati per un momento in alto, quindi abbassa lentamente il bilanciere nella posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "45 derecelik bir açıyla eğimli bir tezgah kurun.",
+      "Göğsünüz yastığa dayalı ve ayaklarınız yere düz basacak şekilde bankta yüz üstü uzanın.",
+      "Halteri omuz genişliğinden biraz daha geniş olacak şekilde üstten kavrayın.",
+      "Sırtınızı düz ve merkez bölgenizi meşgul tutun.",
+      "Halteri göğsünüze doğru çekin, kürek kemiklerinizi birbirine doğru sıkıştırın.",
+      "Tepe noktasında bir süre duraklayın, ardından halteri yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Coloca un banco inclinado a un ángulo de 45 grados.",
+      "Túmbate boca abajo en el banco con el pecho apoyado en el respaldo y los pies planos sobre el suelo.",
+      "Agarra la barra con un agarre pronado un poco más ancho que la separación de los hombros.",
+      "Mantén la espalda recta y el core activado.",
+      "Tira de la barra hacia el pecho, juntando los omóplatos.",
+      "Haz una pausa breve en la parte alta y luego baja lentamente la barra de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Установите наклонную скамью под углом 45 градусов.",
+      "Лягте на скамью лицом вниз, прижавшись грудью к подушке, а ступни поставьте на землю.",
+      "Возьмите штангу хватом сверху, на расстоянии чуть шире плеч.",
+      "Держите спину прямо, а корпус напряженным.",
+      "Подтяните штангу к груди, сведя лопатки вместе.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите штангу обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "设置一个 45 度角的上斜凳。",
+      "脸朝下躺在长凳上，胸部靠在垫子上，双脚平放在地上。",
+      "正手握住杠铃，握距略宽于肩宽。",
+      "保持背部挺直，核心肌群参与。",
+      "将杠铃拉向胸部，将肩胛骨挤压在一起。",
+      "在顶部停顿片刻，然后慢慢将杠铃放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "45 डिग्री के कोण पर एक झुकी हुई बेंच स्थापित करें।",
+      "अपनी छाती को पैड से सटाकर और अपने पैरों को ज़मीन पर सपाट रखते हुए बेंच पर मुँह के बल लेट जाएँ।",
+      "बारबेल को कंधे की चौड़ाई से थोड़ा अधिक चौड़े हाथ से पकड़ें।",
+      "अपनी पीठ सीधी रखें और अपने कोर को व्यस्त रखें।",
+      "अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए, बारबेल को अपनी छाती की ओर खींचें।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे बारबेल को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Ustaw ławkę skośną (dodatnią) pod kątem 45 stopni.",
+      "Połóż się twarzą w dół na ławce, opierając klatkę piersiową o poduszkę, a stopy ustaw płasko na podłodze.",
+      "Chwyć sztangę chwytem nachwytem, nieco szerszym niż szerokość barków.",
+      "Utrzymuj proste plecy i napięte mięśnie tułowia.",
+      "Przyciągnij sztangę w kierunku klatki piersiowej, ściskając łopatki.",
+      "Zatrzymaj się na chwilę na górze, a następnie powoli opuść sztangę z powrotem do pozycji wyjściowej.",
+      "Powtórz odpowiednią liczbę razy."
+    ],
+    "ko": [
+      "인클라인 벤치를 45도로 설정합니다.",
+      "벤치에 엎드려 가슴이 패드에 닿게 하고 양발을 바닥에 놓습니다.",
+      "바벨을 어깨너비보다 약간 넓은 너비로 오버핸드 그립으로 잡습니다.",
+      "등을 곧게 펴고 복부에 력을 줍니다.",
+      "바벨을 가슴 쪽으로 당기면서 어깨 날개뼈를 모아줍니다.",
+      "맨 위에서 잠깐 멈춘 후 바벨을 천천히 처음 위치로 내립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Installe un banc incliné à un angle de 45 degrés.",
+      "Allonge-toi face vers le bas sur le banc, la poitrine contre le coussinet et les pieds à plat au sol.",
+      "Saisis la barre avec une prise en pronation, un peu plus large que la largeur des épaules.",
+      "Garde le dos droit et ta sangle abdominale gainée.",
+      "Tire la barre vers ta poitrine, en contractant tes omoplates.",
+      "Marque une pause en haut, puis abaisse lentement la barre pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "forearms"
+  ],
+  "target": "upper back",
+  "image": "images/0049-dmgMp3n.jpg",
+  "gif_url": "videos/0049-dmgMp3n.gif",
+  "media_id": "dmgMp3n",
+  "created_at": "2026-03-18T12:31:32.871769+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

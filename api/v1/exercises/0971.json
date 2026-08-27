@@ -1,0 +1,101 @@
+{
+  "id": "0971",
+  "name": "band assisted wheel rollerout",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "band",
+  "instructions": {
+    "en": "Kneel on the floor and hold the handles of the band with both hands, palms facing down. Place the band on the ground in front of you and position your hands shoulder-width apart. Engage your core and slowly roll the wheel forward, extending your body as far as you can while maintaining control. Pause for a moment at the furthest point, then slowly roll the wheel back towards your knees to return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Inginocchiarsi sul pavimento e tenere le maniglie della fascia con entrambe le mani, con i palmi rivolti verso il basso. Posiziona la fascia a terra davanti a te e posiziona le mani alla larghezza delle spalle. Coinvolgi il tuo core e fai rotolare lentamente la ruota in avanti, estendendo il corpo il più lontano possibile mantenendo il controllo. Fermati un attimo nel punto più lontano, quindi ruota lentamente la ruota verso le ginocchia per tornare alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Yere diz çökün ve bandın saplarını iki elinizle, avuçlarınız aşağıya bakacak şekilde tutun. Bandı önünüzde yere koyun ve ellerinizi omuz genişliğinde açın. Merkez bölgenizi devreye sokun ve tekerleği yavaşça ileri doğru yuvarlayın, kontrolü korurken vücudunuzu mümkün olduğu kadar uzatın. En uzak noktada bir an duraklayın, ardından başlangıç ​​pozisyonuna dönmek için tekerleği yavaşça dizlerinize doğru döndürün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Arrodíllate en el suelo y sostén las agarraderas de la banda con ambas manos, con las palmas hacia abajo. Coloca la banda en el suelo frente a ti y posiciona las manos separadas a la altura de los hombros. Activa el core y rueda lentamente la rueda hacia adelante, extendiendo el cuerpo lo más que puedas mientras mantienes el control. Haz una pausa por un momento en el punto más lejano, luego rueda lentamente la rueda de vuelta hacia las rodillas para regresar a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте на колени и возьмитесь за ручки ремня обеими руками ладонями вниз. Положите ленту на пол перед собой и поставьте руки на ширине плеч. Включите корпус и медленно катите колесо вперед, вытягивая тело как можно дальше, сохраняя при этом контроль. Сделайте паузу на мгновение в самой дальней точке, затем медленно перекатите колесо обратно к коленям, чтобы вернуться в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "跪在地板上，双手握住弹力带的手柄，手掌朝下。 将弹力带放在您面前的地面上，双手分开与肩同宽。 启动你的核心并缓慢地向前滚动轮子，在保持控制的同时尽可能地伸展你的身体。 在最远点暂停片刻，然后慢慢地将轮子向膝盖方向滚动，回到起始位置。 重复所需的重复次数。",
+    "hi": "फर्श पर घुटने टेकें और बैंड के हैंडल को दोनों हाथों से पकड़ें, हथेलियाँ नीचे की ओर हों। बैंड को अपने सामने ज़मीन पर रखें और अपने हाथों को कंधे की चौड़ाई से अलग रखें। अपने कोर को संलग्न करें और धीरे-धीरे पहिया को आगे की ओर घुमाएं, नियंत्रण बनाए रखते हुए अपने शरीर को जितना हो सके उतना फैलाएं। सबसे दूर वाले बिंदु पर एक पल के लिए रुकें, फिर प्रारंभिक स्थिति में लौटने के लिए धीरे-धीरे पहिये को अपने घुटनों की ओर घुमाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Uklęknij na podłodze i chwyć uchwyty taśmy obiema rękami, dłońmi skierowanymi w dół. Umieść taśmę na podłodze przed sobą i ustaw dłonie na szerokość barków. Napnij mięśnie brzucha i powoli wypychaj koło do przodu, wyciągając ciało tak daleko, jak to możliwe, zachowując kontrolę. Zatrzymaj się na chwilę w najdalszym punkcie, a następnie powoli przyciągnij koło z powrotem w kierunku kolan, wracając do pozycji wyjściowej. Powtórz zalecaną liczbę razy.",
+    "ko": "바닥에 무릎을 꿇고 밴드의 손잡이를 양손으로 잡아 손바닥이 아래를 향하게 합니다. 밴드를 앞에 놓고 손을 어깨너비로 벌립니다. 코어를 활성화하고 휠을 천천히 앞으로 굴리면서 통제를 유지하며 몸을 최대한 펼칩니다. 가장 먼 지점에서 잠깐 멈춘 후 휠을 천천히 무릎 방향으로 굴려 시작 위치로 돌아옵니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Mets-toi à genoux au sol et tiens les poignées de l'élastique des deux mains, paumes tournées vers le bas. Place l'élastique au sol devant toi et positionne tes mains écartées à la largeur des épaules. Gaine ta sangle abdominale et fais rouler lentement la roue vers l'avant, en étendant ton corps aussi loin que possible tout en gardant le contrôle. Marque une pause au point le plus éloigné, puis fais rouler lentement la roue vers tes genoux pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Kneel on the floor and hold the handles of the band with both hands, palms facing down.",
+      "Place the band on the ground in front of you and position your hands shoulder-width apart.",
+      "Engage your core and slowly roll the wheel forward, extending your body as far as you can while maintaining control.",
+      "Pause for a moment at the furthest point, then slowly roll the wheel back towards your knees to return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inginocchiarsi sul pavimento e tenere le maniglie della fascia con entrambe le mani, con i palmi rivolti verso il basso.",
+      "Posiziona la fascia a terra davanti a te e posiziona le mani alla larghezza delle spalle.",
+      "Coinvolgi il tuo core e fai rotolare lentamente la ruota in avanti, estendendo il corpo il più lontano possibile mantenendo il controllo.",
+      "Fermati un attimo nel punto più lontano, quindi ruota lentamente la ruota verso le ginocchia per tornare alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Yere diz çökün ve bandın saplarını iki elinizle, avuçlarınız aşağıya bakacak şekilde tutun.",
+      "Bandı önünüzde yere koyun ve ellerinizi omuz genişliğinde açın.",
+      "Merkez bölgenizi devreye sokun ve tekerleği yavaşça ileri doğru yuvarlayın, kontrolü korurken vücudunuzu mümkün olduğu kadar uzatın.",
+      "En uzak noktada bir an duraklayın, ardından başlangıç ​​pozisyonuna dönmek için tekerleği yavaşça dizlerinize doğru döndürün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Arrodíllate en el suelo y sostén las agarraderas de la banda con ambas manos, con las palmas hacia abajo.",
+      "Coloca la banda en el suelo frente a ti y posiciona las manos separadas a la altura de los hombros.",
+      "Activa el core y rueda lentamente la rueda hacia adelante, extendiendo el cuerpo lo más que puedas mientras mantienes el control.",
+      "Haz una pausa por un momento en el punto más lejano, luego rueda lentamente la rueda de vuelta hacia las rodillas para regresar a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте на колени и возьмитесь за ручки ремня обеими руками ладонями вниз.",
+      "Положите ленту на пол перед собой и поставьте руки на ширине плеч.",
+      "Включите корпус и медленно катите колесо вперед, вытягивая тело как можно дальше, сохраняя при этом контроль.",
+      "Сделайте паузу на мгновение в самой дальней точке, затем медленно перекатите колесо обратно к коленям, чтобы вернуться в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "跪在地板上，双手握住弹力带的手柄，手掌朝下。",
+      "将弹力带放在您面前的地面上，双手分开与肩同宽。",
+      "启动你的核心并缓慢地向前滚动轮子，在保持控制的同时尽可能地伸展你的身体。",
+      "在最远点暂停片刻，然后慢慢地将轮子向膝盖方向滚动，回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "फर्श पर घुटने टेकें और बैंड के हैंडल को दोनों हाथों से पकड़ें, हथेलियाँ नीचे की ओर हों।",
+      "बैंड को अपने सामने ज़मीन पर रखें और अपने हाथों को कंधे की चौड़ाई से अलग रखें।",
+      "अपने कोर को संलग्न करें और धीरे-धीरे पहिया को आगे की ओर घुमाएं, नियंत्रण बनाए रखते हुए अपने शरीर को जितना हो सके उतना फैलाएं।",
+      "सबसे दूर वाले बिंदु पर एक पल के लिए रुकें, फिर प्रारंभिक स्थिति में लौटने के लिए धीरे-धीरे पहिये को अपने घुटनों की ओर घुमाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Uklęknij na podłodze i chwyć uchwyty taśmy obiema rękami, dłońmi skierowanymi w dół.",
+      "Umieść taśmę na podłodze przed sobą i ustaw dłonie na szerokość barków.",
+      "Napnij mięśnie brzucha i powoli wypychaj koło do przodu, wyciągając ciało tak daleko, jak to możliwe, zachowując kontrolę.",
+      "Zatrzymaj się na chwilę w najdalszym punkcie, a następnie powoli przyciągnij koło z powrotem w kierunku kolan, wracając do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "바닥에 무릎을 꿇고 밴드의 손잡이를 양손으로 잡아 손바닥이 아래를 향하게 합니다.",
+      "밴드를 앞에 놓고 손을 어깨너비로 벌립니다.",
+      "코어를 활성화하고 휠을 천천히 앞으로 굴리면서 통제를 유지하며 몸을 최대한 펼칩니다.",
+      "가장 먼 지점에서 잠깐 멈춘 후 휠을 천천히 무릎 방향으로 굴려 시작 위치로 돌아옵니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Mets-toi à genoux au sol et tiens les poignées de l'élastique des deux mains, paumes tournées vers le bas.",
+      "Place l'élastique au sol devant toi et positionne tes mains écartées à la largeur des épaules.",
+      "Gaine ta sangle abdominale et fais rouler lentement la roue vers l'avant, en étendant ton corps aussi loin que possible tout en gardant le contrôle.",
+      "Marque une pause au point le plus éloigné, puis fais rouler lentement la roue vers tes genoux pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "lower back",
+  "secondary_muscles": [
+    "lower back"
+  ],
+  "target": "abs",
+  "image": "images/0971-zhF9lW4.jpg",
+  "gif_url": "videos/0971-zhF9lW4.gif",
+  "media_id": "zhF9lW4",
+  "created_at": "2026-03-18T12:31:32.855774+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

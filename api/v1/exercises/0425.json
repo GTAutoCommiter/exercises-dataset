@@ -1,0 +1,101 @@
+{
+  "id": "0425",
+  "name": "dumbbell standing one arm reverse curl",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Stand up straight with your feet shoulder-width apart and hold a dumbbell in one hand with an overhand grip. Keep your arm fully extended and close to your body, with your palm facing down. Slowly curl the dumbbell up towards your shoulder, keeping your upper arm stationary. Pause for a moment at the top, then slowly lower the dumbbell back down to the starting position. Repeat for the desired number of repetitions, then switch to the other arm.",
+    "it": "Stai dritto con i piedi alla larghezza delle spalle e tieni un manubrio in una mano con una presa sopra la mano. Mantieni il braccio completamente teso e vicino al corpo, con il palmo rivolto verso il basso. Arrotola lentamente il manubrio verso la spalla, mantenendo fermo il braccio superiore. Fermati un attimo in cima, poi abbassa lentamente il manubrio fino alla posizione di partenza. Ripeti per il numero desiderato di ripetizioni, poi passa all'altro braccio.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde dik durun ve bir elinizde bir dambılı üstten kavrayarak tutun. Avucunuz aşağıya bakacak şekilde kolunuzu tamamen uzatılmış ve vücudunuza yakın tutun. Üst kolunuzu sabit tutarak dambılı yavaşça omzunuza doğru kıvırın. Tepe noktasında bir süre duraklayın, ardından dambılı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen tekrar sayısı kadar tekrarlayın, ardından diğer kola geçin.",
+    "es": "Ponte de pie con la espalda recta y los pies separados a la altura de los hombros, sujetando una mancuerna con una mano con agarre prono. Mantén el brazo completamente extendido y cerca del cuerpo, con la palma hacia abajo. Flexiona lentamente la mancuerna hacia tu hombro, manteniendo fija la parte superior del brazo. Haz una pausa breve en la parte más alta, luego baja lentamente la mancuerna de vuelta a la posición inicial. Repite el número de repeticiones deseado, luego cambia al otro brazo.",
+    "ru": "Встаньте прямо, ноги на ширине плеч, возьмите гантель в одну руку хватом сверху. Держите руку полностью вытянутой и близко к телу ладонью вниз. Медленно поднимите гантель к плечу, сохраняя плечо неподвижным. Задержитесь на мгновение в верхней точке, затем медленно опустите гантель обратно в исходное положение. Повторите желаемое количество повторений, затем переключитесь на другую руку.",
+    "zh": "站直，双脚分开与肩同宽，一只手握住哑铃，正握。 保持手臂完全伸展并靠近身体，手掌朝下。 慢慢地将哑铃向上弯向肩膀，保持上臂静止。 在顶部停顿片刻，然后慢慢将哑铃放回起始位置。 重复所需的重复次数，然后换到另一只手臂。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर सीधे खड़े हो जाएं और एक हाथ में डंबल को ओवरहैंड ग्रिप से पकड़ लें। अपनी बांह को पूरी तरह फैलाकर अपने शरीर के करीब रखें, आपकी हथेली नीचे की ओर हो। अपनी ऊपरी भुजा को स्थिर रखते हुए धीरे-धीरे डम्बल को अपने कंधे की ओर मोड़ें। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे डम्बल को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएं, फिर दूसरे हाथ पर स्विच करें।",
+    "pl": "Stań prosto w rozkroku na szerokość barków i trzymaj hantlę w jednej dłoni chwytem nachwytem. Trzymaj ramię całkowicie wyprostowane i blisko ciała, dłoń skierowana w dół. Powoli unieś hantlę w stronę barku, trzymając ramię nieruchomo. Zatrzymaj się na chwilę na górze, a następnie powoli opuść hantlę do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń, a następnie zmień rękę.",
+    "ko": "어깨 너비로 발을 벌리고 오버핸드 그립으로 한손에 덤벨을 들고 바르게 섭니다. 팔을 완전히 뻗고 몸에 가깝게 유지하며, 손바닥은 아래를 향합니다. 덤벨을 천천히 어깨 방향으로 컬링하면서 위팔을 고정합니다. 위에서 잠시 멈춘 후 덤벨을 천천히 시작 자세로 내립니다. 원하는 반복 횟수만큼 반복한 후 반대쪽 팔로 바꿉니다.",
+    "fr": "Tiens-toi bien droit, les pieds écartés à la largeur des épaules, et tiens un haltère dans une main en prise pronation. Garde ton bras complètement tendu et près de ton corps, la paume tournée vers le bas. Enroule lentement l'haltère vers ton épaule, en gardant le haut de ton bras immobile. Marque une pause en haut, puis abaisse lentement l'haltère pour revenir à la position de départ. Répète le nombre de répétitions souhaité, puis passe à l'autre bras."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand up straight with your feet shoulder-width apart and hold a dumbbell in one hand with an overhand grip.",
+      "Keep your arm fully extended and close to your body, with your palm facing down.",
+      "Slowly curl the dumbbell up towards your shoulder, keeping your upper arm stationary.",
+      "Pause for a moment at the top, then slowly lower the dumbbell back down to the starting position.",
+      "Repeat for the desired number of repetitions, then switch to the other arm."
+    ],
+    "it": [
+      "Stai dritto con i piedi alla larghezza delle spalle e tieni un manubrio in una mano con una presa sopra la mano.",
+      "Mantieni il braccio completamente teso e vicino al corpo, con il palmo rivolto verso il basso.",
+      "Arrotola lentamente il manubrio verso la spalla, mantenendo fermo il braccio superiore.",
+      "Fermati un attimo in cima, poi abbassa lentamente il manubrio fino alla posizione di partenza.",
+      "Ripeti per il numero desiderato di ripetizioni, poi passa all'altro braccio."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde dik durun ve bir elinizde bir dambılı üstten kavrayarak tutun.",
+      "Avucunuz aşağı bakacak şekilde kolunuzu tamamen uzatılmış ve vücudunuza yakın tutun.",
+      "Üst kolunuzu sabit tutarak dambılı yavaşça omzunuza doğru kıvırın.",
+      "Tepe noktasında bir süre duraklayın, ardından dambılı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından diğer kola geçin."
+    ],
+    "es": [
+      "Ponte de pie con la espalda recta y los pies separados a la altura de los hombros, sujetando una mancuerna con una mano con agarre prono.",
+      "Mantén el brazo completamente extendido y cerca del cuerpo, con la palma hacia abajo.",
+      "Flexiona lentamente la mancuerna hacia tu hombro, manteniendo fija la parte superior del brazo.",
+      "Haz una pausa breve en la parte más alta, luego baja lentamente la mancuerna de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado, luego cambia al otro brazo."
+    ],
+    "ru": [
+      "Встаньте прямо, ноги на ширине плеч, возьмите гантель в одну руку хватом сверху.",
+      "Держите руку полностью вытянутой и близко к телу ладонью вниз.",
+      "Медленно поднимите гантель к плечу, сохраняя плечо неподвижным.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите гантель обратно в исходное положение.",
+      "Повторите желаемое количество повторений, затем переключитесь на другую руку."
+    ],
+    "zh": [
+      "站直，双脚分开与肩同宽，一只手握住哑铃，正握。",
+      "保持手臂完全伸展并靠近身体，手掌朝下。",
+      "慢慢地将哑铃向上弯向肩膀，保持上臂静止。",
+      "在顶部停顿片刻，然后慢慢将哑铃放回起始位置。",
+      "重复所需的重复次数，然后换到另一只手臂。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर सीधे खड़े हो जाएं और एक हाथ में डंबल को ओवरहैंड ग्रिप से पकड़ लें।",
+      "अपनी बांह को पूरी तरह फैलाकर अपने शरीर के करीब रखें, आपकी हथेली नीचे की ओर हो।",
+      "अपनी ऊपरी भुजा को स्थिर रखते हुए धीरे-धीरे डम्बल को अपने कंधे की ओर मोड़ें।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे डम्बल को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर दूसरे हाथ पर स्विच करें।"
+    ],
+    "pl": [
+      "Stań prosto w rozkroku na szerokość barków i trzymaj hantlę w jednej dłoni chwytem nachwytem.",
+      "Trzymaj ramię całkowicie wyprostowane i blisko ciała, dłoń skierowana w dół.",
+      "Powoli unieś hantlę w stronę barku, trzymając ramię nieruchomo.",
+      "Zatrzymaj się na chwilę na górze, a następnie powoli opuść hantlę do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń, a następnie zmień rękę."
+    ],
+    "ko": [
+      "어깨 너비로 발을 벌리고 오버핸드 그립으로 한손에 덤벨을 들고 바르게 섭니다.",
+      "팔을 완전히 뻗고 몸에 가깝게 유지하며, 손바닥은 아래를 향합니다.",
+      "덤벨을 천천히 어깨 방향으로 컬링하면서 위팔을 고정합니다.",
+      "위에서 잠시 멈춘 후 덤벨을 천천히 시작 자세로 내립니다.",
+      "원하는 반복 횟수만큼 반복한 후 반대쪽 팔로 바꿉니다."
+    ],
+    "fr": [
+      "Tiens-toi bien droit, les pieds écartés à la largeur des épaules, et tiens un haltère dans une main en prise pronation.",
+      "Garde ton bras complètement tendu et près de ton corps, la paume tournée vers le bas.",
+      "Enroule lentement l'haltère vers ton épaule, en gardant le haut de ton bras immobile.",
+      "Marque une pause en haut, puis abaisse lentement l'haltère pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis passe à l'autre bras."
+    ]
+  },
+  "muscle_group": "forearms",
+  "secondary_muscles": [
+    "forearms"
+  ],
+  "target": "biceps",
+  "image": "images/0425-DU5Kkj2.jpg",
+  "gif_url": "videos/0425-DU5Kkj2.gif",
+  "media_id": "DU5Kkj2",
+  "created_at": "2026-03-18T12:31:32.882087+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

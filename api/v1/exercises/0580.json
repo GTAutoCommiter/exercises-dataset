@@ -1,0 +1,102 @@
+{
+  "id": "0580",
+  "name": "lever gripless shrug",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "leverage machine",
+  "instructions": {
+    "en": "Adjust the seat height and position yourself on the leverage machine. Grasp the handles with your palms facing inwards and your arms fully extended. Keeping your back straight, exhale and elevate your shoulders as high as possible. Hold the contraction for a brief moment, then inhale and slowly lower your shoulders back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Regola l'altezza del sedile e posizionati sulla macchina con leva. Afferrare le maniglie con i palmi rivolti verso l'interno e le braccia completamente distese. Tenendo la schiena dritta, espira e solleva le spalle il più in alto possibile. Mantieni la contrazione per un breve momento, quindi inspira e abbassa lentamente le spalle fino alla posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Koltuğun yüksekliğini ayarlayın ve kaldıraç makinesinin üzerine kendinizi konumlandırın. Avuç içleriniz içe bakacak şekilde ve kollarınız tamamen uzatılmış şekilde tutamaçları kavrayın. Sırtınızı düz tutarak nefes verin ve omuzlarınızı mümkün olduğunca yükseğe kaldırın. Kısa bir süre kasılmayı sürdürün, ardından nefes alın ve omuzlarınızı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta la altura del asiento y colócate en la máquina de palanca. Sujeta las asas con las palmas hacia adentro y los brazos completamente extendidos. Manteniendo la espalda recta, exhala y eleva los hombros tan alto como sea posible. Mantén la contracción por un momento breve, luego inhala y baja lentamente los hombros de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Отрегулируйте высоту сиденья и расположитесь на рычаге машины. Возьмитесь за ручки ладонями внутрь и полностью выпрямите руки. Сохраняя спину прямой, выдохните и поднимите плечи как можно выше. Задержите сокращение на короткое время, затем вдохните и медленно опустите плечи обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "调整座椅高度并将自己放在杠杆机上。 手掌朝内，抓住手柄，双臂完全伸展。 保持背部挺直，呼气并尽可能抬高肩膀。 保持收缩一会儿，然后吸气并慢慢将肩膀放回起始位置。 重复所需的重复次数。",
+    "hi": "सीट की ऊंचाई समायोजित करें और स्वयं को लीवरेज मशीन पर रखें। अपनी हथेलियों को अंदर की ओर रखते हुए और अपनी बाहों को पूरी तरह फैलाकर हैंडल को पकड़ें। अपनी पीठ सीधी रखते हुए सांस छोड़ें और अपने कंधों को जितना हो सके ऊपर उठाएं। कुछ देर के लिए संकुचन को रोककर रखें, फिर सांस लें और धीरे-धीरे अपने कंधों को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Wyreguluj wysokość siedziska i ustaw się na maszynie dźwigniowej. Chwyć uchwyty dłońmi skierowanymi do wewnątrz, ramiona całkowicie wyprostowane. Utrzymując proste plecy, wydychaj powietrze i unieś barki jak najwyżej. Przytrzymaj napięcie przez chwilę, a następnie wdychaj powietrze i powoli opuść barki do pozycji wyjściowej. Powtórz zgodnie z zaplanowaną liczbą powtórzeń.",
+    "ko": "시트의 높이를 조정하고 레버 머신에 자리를 잡는다. 손바닥이 안쪽을 향하게 하여 손잡이를 잡고 팔을 완전히 펼친다. 등을 펴고 숨을 내쉬며 어깨를 최대한 높이 올린다. 수축을 잠시 유지한 후, 숨을 마시며 어깨를 천천히 시작 위치로 내린다. 원하는 횟수만큼 반복한다.",
+    "fr": "Règle la hauteur du siège et installe-toi sur la machine à levier. Saisis les poignées avec les paumes tournées vers l'intérieur et les bras complètement étendus. En gardant le dos droit, expire et élève tes épaules le plus haut possible. Maintiens la contraction pendant un bref instant, puis inspire et abaisse lentement tes épaules jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the seat height and position yourself on the leverage machine.",
+      "Grasp the handles with your palms facing inwards and your arms fully extended.",
+      "Keeping your back straight, exhale and elevate your shoulders as high as possible.",
+      "Hold the contraction for a brief moment, then inhale and slowly lower your shoulders back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Regola l'altezza del sedile e posizionati sulla macchina con leva.",
+      "Afferrare le maniglie con i palmi rivolti verso l'interno e le braccia completamente distese.",
+      "Tenendo la schiena dritta, espira e solleva le spalle il più in alto possibile.",
+      "Mantieni la contrazione per un breve momento, quindi inspira e abbassa lentamente le spalle fino alla posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Koltuğun yüksekliğini ayarlayın ve kaldıraç makinesinin üzerine kendinizi konumlandırın.",
+      "Avuç içleriniz içe bakacak şekilde ve kollarınız tamamen uzatılmış şekilde tutamaçları kavrayın.",
+      "Sırtınızı düz tutarak nefes verin ve omuzlarınızı mümkün olduğunca yükseğe kaldırın.",
+      "Kısa bir süre kasılmayı sürdürün, ardından nefes alın ve omuzlarınızı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta la altura del asiento y colócate en la máquina de palanca.",
+      "Sujeta las asas con las palmas hacia adentro y los brazos completamente extendidos.",
+      "Manteniendo la espalda recta, exhala y eleva los hombros tan alto como sea posible.",
+      "Mantén la contracción por un momento breve, luego inhala y baja lentamente los hombros de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Отрегулируйте высоту сиденья и расположитесь на рычаге машины.",
+      "Возьмитесь за ручки ладонями внутрь и полностью выпрямите руки.",
+      "Сохраняя спину прямой, выдохните и поднимите плечи как можно выше.",
+      "Задержите сокращение на короткое время, затем вдохните и медленно опустите плечи обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "调整座椅高度并将自己放在杠杆机上。",
+      "手掌朝内，抓住手柄，双臂完全伸展。",
+      "保持背部挺直，呼气并尽可能抬高肩膀。",
+      "保持收缩一会儿，然后吸气并慢慢将肩膀放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "सीट की ऊंचाई समायोजित करें और स्वयं को लीवरेज मशीन पर रखें।",
+      "अपनी हथेलियों को अंदर की ओर रखते हुए और अपनी बाहों को पूरी तरह फैलाकर हैंडल को पकड़ें।",
+      "अपनी पीठ सीधी रखते हुए सांस छोड़ें और अपने कंधों को जितना हो सके ऊपर उठाएं।",
+      "कुछ देर के लिए संकुचन को रोककर रखें, फिर सांस लें और धीरे-धीरे अपने कंधों को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Wyreguluj wysokość siedziska i ustaw się na maszynie dźwigniowej.",
+      "Chwyć uchwyty dłońmi skierowanymi do wewnątrz, ramiona całkowicie wyprostowane.",
+      "Utrzymując proste plecy, wydychaj powietrze i unieś barki jak najwyżej.",
+      "Przytrzymaj napięcie przez chwilę, a następnie wdychaj powietrze i powoli opuść barki do pozycji wyjściowej.",
+      "Powtórz zgodnie z zaplanowaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "시트의 높이를 조정하고 레버 머신에 자리를 잡는다.",
+      "손바닥이 안쪽을 향하게 하여 손잡이를 잡고 팔을 완전히 펼친다.",
+      "등을 펴고 숨을 내쉬며 어깨를 최대한 높이 올린다.",
+      "수축을 잠시 유지한 후, 숨을 마시며 어깨를 천천히 시작 위치로 내린다.",
+      "원하는 횟수만큼 반복한다."
+    ],
+    "fr": [
+      "Règle la hauteur du siège et installe-toi sur la machine à levier.",
+      "Saisis les poignées avec les paumes tournées vers l'intérieur et les bras complètement étendus.",
+      "En gardant le dos droit, expire et élève tes épaules le plus haut possible.",
+      "Maintiens la contraction pendant un bref instant, puis inspire et abaisse lentement tes épaules jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "forearms"
+  ],
+  "target": "traps",
+  "image": "images/0580-f91FwXG.jpg",
+  "gif_url": "videos/0580-f91FwXG.gif",
+  "media_id": "f91FwXG",
+  "created_at": "2026-03-18T12:31:32.886289+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,133 @@
+{
+  "id": "2138",
+  "name": "stationary bike run v. 3",
+  "category": "cardio",
+  "body_part": "cardio",
+  "equipment": "stationary bike",
+  "instructions": {
+    "en": "Adjust the seat height and position to ensure proper alignment. Place your feet on the pedals and secure them with the straps if available. Start pedaling at a comfortable pace. Maintain a steady rhythm and increase the resistance as desired. Engage your core muscles to maintain stability and proper posture. Continue pedaling for the desired duration of your workout. Gradually decrease the resistance and slow down before coming to a complete stop. Stretch your legs and cool down after the workout.",
+    "it": "Regolare l'altezza e la posizione del sedile per garantire il corretto allineamento. Metti i piedi sui pedali e fissali con le cinghie, se disponibili. Inizia a pedalare a un ritmo confortevole. Mantenere un ritmo costante e aumentare la resistenza come desiderato. Coinvolgi i muscoli centrali per mantenere la stabilità e una postura corretta. Continua a pedalare per la durata desiderata del tuo allenamento. Diminuire gradualmente la resistenza e rallentare prima di fermarsi completamente. Allunga le gambe e rinfrescati dopo l'allenamento.",
+    "tr": "Doğru hizalamayı sağlamak için koltuk yüksekliğini ve konumunu ayarlayın. Ayaklarınızı pedalların üzerine yerleştirin ve varsa kayışlarla sabitleyin. Rahat bir tempoda pedal çevirmeye başlayın. Sabit bir ritmi koruyun ve direnci istediğiniz gibi artırın. Dengeyi ve doğru duruşu korumak için çekirdek kaslarınızı çalıştırın. Antrenmanınızın istediğiniz süresi boyunca pedal çevirmeye devam edin. Direnci kademeli olarak azaltın ve tamamen durmadan önce yavaşlayın. Antrenmandan sonra bacaklarınızı esnetin ve soğuyun.",
+    "es": "Ajusta la altura y la posición del asiento para asegurar una alineación correcta. Coloca los pies sobre los pedales y sujétalos con las correas si están disponibles. Comienza a pedalear a un ritmo cómodo. Mantén un ritmo constante y aumenta la resistencia según lo desees. Activa los músculos del core para mantener la estabilidad y una postura correcta. Continúa pedaleando durante la duración deseada de tu entrenamiento. Disminuye gradualmente la resistencia y reduce la velocidad antes de detenerte por completo. Estira las piernas y enfría después del entrenamiento.",
+    "ru": "Отрегулируйте высоту и положение сиденья, чтобы обеспечить правильное выравнивание. Поставьте ноги на педали и закрепите их ремнями, если таковые имеются. Start pedaling at a comfortable pace. Поддерживайте устойчивый ритм и увеличивайте сопротивление по желанию. Задействуйте основные мышцы, чтобы поддерживать устойчивость и правильную осанку. Продолжайте крутить педали в течение желаемой продолжительности тренировки. Постепенно уменьшайте сопротивление и замедляйтесь, прежде чем полностью остановиться. Разомните ноги и остыньте после тренировки.",
+    "zh": "调整座椅高度和位置以确保正确对齐。 将脚放在踏板上，并用带子（如果有）将其固定。 以舒适的速度开始踩踏板。 保持稳定的节奏并根据需要增加阻力。 调动核心肌肉以保持稳定性和正确的姿势。 继续踩踏板达到所需的锻炼时间。 逐渐减小阻力并减速，然后完全停止。 锻炼后伸展双腿并放松。",
+    "hi": "उचित संरेखण सुनिश्चित करने के लिए सीट की ऊंचाई और स्थिति को समायोजित करें। अपने पैरों को पैडल पर रखें और यदि उपलब्ध हो तो उन्हें पट्टियों से सुरक्षित करें। आरामदायक गति से पैडल चलाना शुरू करें। एक स्थिर लय बनाए रखें और इच्छानुसार प्रतिरोध बढ़ाएँ। स्थिरता और उचित मुद्रा बनाए रखने के लिए अपनी मुख्य मांसपेशियों को संलग्न करें। अपने वर्कआउट की वांछित अवधि तक पैडल चलाना जारी रखें। प्रतिरोध को धीरे-धीरे कम करें और पूरी तरह रुकने से पहले धीमा करें। वर्कआउट के बाद अपने पैरों को फैलाएं और ठंडा हो जाएं।",
+    "pl": "Wyreguluj wysokość i pozycję siodełka, aby zapewnić prawidłowe ułożenie ciała. Umieść stopy na pedałach i zabezpiecz je paskami, jeśli są dostępne. Zacznij pedałować w komfortowym tempie. Utrzymuj stałe tempo i w razie potrzeby zwiększaj opór. Napnij mięśnie brzucha, aby zachować stabilność i prawidłową postawę. Kontynuuj pedałowanie przez żądany czas trwania treningu. Stopniowo zmniejszaj opór i zwalniaj tempo przed całkowitym zatrzymaniem. Rozciągnij nogi i wykonaj schłodzenie po treningu.",
+    "ko": "안장의 높이와 위치를 조정하여 올바른 정렬을 보장합니다. 발을 페달에 올리고 가능하면 스트랩으로 고정합니다. 편한 속도로 페달을 밟기 시작합니다. 일정한 리듬을 유지하고 원하는 대로 저항을 높입니다. 코어 근육을 활성화하여 안정성과 올바른 자세를 유지합니다. 원하는 시간 동안 계속 페달을 밟습니다. 완전히 멈추기 전에 저항을 천천히 줄이고 속도를 낮춥니다. 운동 후 다리를 스트레치하고 쿨다운합니다.",
+    "fr": "Règle la hauteur et la position du siège pour garantir un bon alignement. Place tes pieds sur les pédales et fixe-les avec les sangles si elles sont disponibles. Commence à pédaler à un rythme confortable. Maintiens un rythme régulier et augmente la résistance comme tu le souhaites. Gaine tes muscles abdominaux pour maintenir la stabilité et une posture correcte. Continue à pédaler pendant la durée souhaitée de ta séance. Diminue progressivement la résistance et ralentis avant de t'arrêter complètement. Étire tes jambes et récupère après l'entraînement."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the seat height and position to ensure proper alignment.",
+      "Place your feet on the pedals and secure them with the straps if available.",
+      "Start pedaling at a comfortable pace.",
+      "Maintain a steady rhythm and increase the resistance as desired.",
+      "Engage your core muscles to maintain stability and proper posture.",
+      "Continue pedaling for the desired duration of your workout.",
+      "Gradually decrease the resistance and slow down before coming to a complete stop.",
+      "Stretch your legs and cool down after the workout."
+    ],
+    "it": [
+      "Regolare l'altezza e la posizione del sedile per garantire il corretto allineamento.",
+      "Metti i piedi sui pedali e fissali con le cinghie, se disponibili.",
+      "Inizia a pedalare a un ritmo confortevole.",
+      "Mantenere un ritmo costante e aumentare la resistenza come desiderato.",
+      "Coinvolgi i muscoli centrali per mantenere la stabilità e una postura corretta.",
+      "Continua a pedalare per la durata desiderata del tuo allenamento.",
+      "Diminuire gradualmente la resistenza e rallentare prima di fermarsi completamente.",
+      "Allunga le gambe e rinfrescati dopo l'allenamento."
+    ],
+    "tr": [
+      "Doğru hizalamayı sağlamak için koltuk yüksekliğini ve konumunu ayarlayın.",
+      "Ayaklarınızı pedalların üzerine yerleştirin ve varsa kayışlarla sabitleyin.",
+      "Rahat bir tempoda pedal çevirmeye başlayın.",
+      "Sabit bir ritmi koruyun ve direnci istediğiniz gibi artırın.",
+      "Dengeyi ve doğru duruşu korumak için çekirdek kaslarınızı çalıştırın.",
+      "Antrenmanınızın istediğiniz süresi boyunca pedal çevirmeye devam edin.",
+      "Direnci kademeli olarak azaltın ve tamamen durmadan önce yavaşlayın.",
+      "Antrenmandan sonra bacaklarınızı esnetin ve soğuyun."
+    ],
+    "es": [
+      "Ajusta la altura y la posición del asiento para asegurar una alineación correcta.",
+      "Coloca los pies sobre los pedales y sujétalos con las correas si están disponibles.",
+      "Comienza a pedalear a un ritmo cómodo.",
+      "Mantén un ritmo constante y aumenta la resistencia según lo desees.",
+      "Activa los músculos del core para mantener la estabilidad y una postura correcta.",
+      "Continúa pedaleando durante la duración deseada de tu entrenamiento.",
+      "Disminuye gradualmente la resistencia y reduce la velocidad antes de detenerte por completo.",
+      "Estira las piernas y enfría después del entrenamiento."
+    ],
+    "ru": [
+      "Отрегулируйте высоту и положение сиденья, чтобы обеспечить правильное выравнивание.",
+      "Поставьте ноги на педали и закрепите их ремнями, если таковые имеются.",
+      "Начните крутить педали в удобном темпе.",
+      "Поддерживайте устойчивый ритм и увеличивайте сопротивление по желанию.",
+      "Задействуйте основные мышцы, чтобы поддерживать устойчивость и правильную осанку.",
+      "Продолжайте крутить педали в течение желаемой продолжительности тренировки.",
+      "Постепенно уменьшайте сопротивление и замедляйтесь, прежде чем полностью остановиться.",
+      "Разомните ноги и остыньте после тренировки."
+    ],
+    "zh": [
+      "调整座椅高度和位置以确保正确对齐。",
+      "将脚放在踏板上，并用带子（如果有）将其固定。",
+      "以舒适的速度开始踩踏板。",
+      "保持稳定的节奏并根据需要增加阻力。",
+      "调动核心肌肉以保持稳定性和正确的姿势。",
+      "继续踩踏板达到所需的锻炼时间。",
+      "逐渐减小阻力并减速，然后完全停止。",
+      "锻炼后伸展双腿并放松。"
+    ],
+    "hi": [
+      "उचित संरेखण सुनिश्चित करने के लिए सीट की ऊंचाई और स्थिति को समायोजित करें।",
+      "अपने पैरों को पैडल पर रखें और यदि उपलब्ध हो तो उन्हें पट्टियों से सुरक्षित करें।",
+      "आरामदायक गति से पैडल चलाना शुरू करें।",
+      "एक स्थिर लय बनाए रखें और इच्छानुसार प्रतिरोध बढ़ाएँ।",
+      "स्थिरता और उचित मुद्रा बनाए रखने के लिए अपनी मुख्य मांसपेशियों को संलग्न करें।",
+      "अपने वर्कआउट की वांछित अवधि तक पैडल चलाना जारी रखें।",
+      "प्रतिरोध को धीरे-धीरे कम करें और पूरी तरह रुकने से पहले धीमा करें।",
+      "वर्कआउट के बाद अपने पैरों को फैलाएं और ठंडा हो जाएं।"
+    ],
+    "pl": [
+      "Wyreguluj wysokość i pozycję siodełka, aby zapewnić prawidłowe ułożenie ciała.",
+      "Umieść stopy na pedałach i zabezpiecz je paskami, jeśli są dostępne.",
+      "Zacznij pedałować w komfortowym tempie.",
+      "Utrzymuj stałe tempo i w razie potrzeby zwiększaj opór.",
+      "Napnij mięśnie brzucha, aby zachować stabilność i prawidłową postawę.",
+      "Kontynuuj pedałowanie przez żądany czas trwania treningu.",
+      "Stopniowo zmniejszaj opór i zwalniaj tempo przed całkowitym zatrzymaniem.",
+      "Rozciągnij nogi i wykonaj schłodzenie po treningu."
+    ],
+    "ko": [
+      "안장의 높이와 위치를 조정하여 올바른 정렬을 보장합니다.",
+      "발을 페달에 올리고 가능하면 스트랩으로 고정합니다.",
+      "편한 속도로 페달을 밟기 시작합니다.",
+      "일정한 리듬을 유지하고 원하는 대로 저항을 높입니다.",
+      "코어 근육을 활성화하여 안정성과 올바른 자세를 유지합니다.",
+      "원하는 시간 동안 계속 페달을 밟습니다.",
+      "완전히 멈추기 전에 저항을 천천히 줄이고 속도를 낮춥니다.",
+      "운동 후 다리를 스트레치하고 쿨다운합니다."
+    ],
+    "fr": [
+      "Règle la hauteur et la position du siège pour garantir un bon alignement.",
+      "Place tes pieds sur les pédales et fixe-les avec les sangles si elles sont disponibles.",
+      "Commence à pédaler à un rythme confortable.",
+      "Maintiens un rythme régulier et augmente la résistance comme tu le souhaites.",
+      "Gaine tes muscles abdominaux pour maintenir la stabilité et une posture correcte.",
+      "Continue à pédaler pendant la durée souhaitée de ta séance.",
+      "Diminue progressivement la résistance et ralentis avant de t'arrêter complètement.",
+      "Étire tes jambes et récupère après l'entraînement."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "cardiovascular system",
+  "image": "images/2138-H1PESYI.jpg",
+  "gif_url": "videos/2138-H1PESYI.gif",
+  "media_id": "H1PESYI",
+  "created_at": "2026-03-18T12:31:32.904767+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

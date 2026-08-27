@@ -1,0 +1,102 @@
+{
+  "id": "0215",
+  "name": "cable seated rear lateral raise",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Sit on a bench facing the cable machine with your feet flat on the ground. Grasp the cable handles with an overhand grip and extend your arms straight in front of you. Keeping your arms straight, slowly raise them out to the sides until they are parallel to the floor. Pause for a moment at the top, then slowly lower your arms back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Siediti su una panca rivolto verso la macchina a cavo con i piedi piatti a terra. Afferra le maniglie del cavo con una presa sopra la mano e estendi le braccia dritte davanti a te. Tenendo le braccia dritte, alzale lentamente ai lati finché non sono parallele al pavimento. Fermati un attimo in cima, poi abbassa lentamente le braccia fino alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız yere düz basacak şekilde kablo makinesine bakan bir bankta oturun. Kablo tutamaklarını üstten kavrayarak kollarınızı düz bir şekilde önünüze uzatın. Kollarınızı düz tutarak, yere paralel olana kadar yavaşça yanlara doğru kaldırın. Tepe noktasında bir an duraklayın, ardından kollarınızı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Siéntate en un banco frente a la máquina de cable con los pies apoyados planos en el suelo. Sujeta las agarraderas del cable con un agarre prono y extiende los brazos rectos frente a ti. Manteniendo los brazos rectos, levántalos lentamente hacia los lados hasta que queden paralelos al suelo. Haz una pausa por un momento en la parte superior, luego baja lentamente los brazos de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Сядьте на скамью лицом к канатной машине, поставив ноги на землю. Возьмитесь за рукоятки троса верхним хватом и вытяните руки прямо перед собой. Держа руки прямыми, медленно поднимите их в стороны, пока они не станут параллельны полу. Задержитесь на мгновение в верхней точке, затем медленно опустите руки обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "坐在长凳上，面向电缆机，双脚平放在地面上。 正手握住电缆手柄，并将双臂伸直至前方。 保持手臂伸直，慢慢向两侧举起，直到与地板平行。 在顶部停顿片刻，然后慢慢将手臂放回起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को ज़मीन पर सपाट करके केबल मशीन के सामने एक बेंच पर बैठें। केबल के हैंडल को ओवरहैंड ग्रिप से पकड़ें और अपनी बाहों को अपने सामने सीधा फैलाएं। अपनी भुजाओं को सीधा रखते हुए, धीरे-धीरे उन्हें बगल की ओर उठाएं जब तक कि वे फर्श के समानांतर न हो जाएं। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपनी भुजाओं को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Usiądź na ławce przodem do wyciągu, stopy płasko na podłodze. Chwyć uchwyty wyciągu nachwytem i wyprostuj ramiona prosto przed sobą. Trzymając proste ramiona, powoli unieś je na boki, aż będą równoległe do podłogi. Zatrzymaj się na moment na górze, a następnie powoli opuść ramiona do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "케이블 머신 앞에 벤치에 앉아 발을 바닥에 평평하게 놓습니다. 오버핸드 그립으로 케이블 핸들을 잡고 팔을 앞으로 쭉 펴 놓습니다. 팔을 곧게 유지하면서 천천히 양팔을 옆으로 들어올려 바닥과 평행이 될 때까지 올립니다. 최고 위치에서 잠시 멈춘 후 천천히 팔을 처음 위치로 내립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Assieds-toi sur un banc face à la machine à câble, les pieds à plat sur le sol. Saisis les poignées du câble avec une prise en pronation et étends les bras droit devant toi. En gardant les bras tendus, lève-les lentement sur les côtés jusqu'à ce qu'ils soient parallèles au sol. Marque une pause en haut, puis abaisse lentement tes bras pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on a bench facing the cable machine with your feet flat on the ground.",
+      "Grasp the cable handles with an overhand grip and extend your arms straight in front of you.",
+      "Keeping your arms straight, slowly raise them out to the sides until they are parallel to the floor.",
+      "Pause for a moment at the top, then slowly lower your arms back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Siediti su una panca rivolto verso la macchina a cavo con i piedi piatti a terra.",
+      "Afferra le maniglie del cavo con una presa sopra la mano e estendi le braccia dritte davanti a te.",
+      "Tenendo le braccia dritte, alzale lentamente ai lati finché non sono parallele al pavimento.",
+      "Fermati un attimo in cima, poi abbassa lentamente le braccia fino alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız yere düz basacak şekilde kablo makinesine bakan bir bankta oturun.",
+      "Kablo tutamaklarını üstten kavrayarak kollarınızı düz bir şekilde önünüze uzatın.",
+      "Kollarınızı düz tutarak, yere paralel olana kadar yavaşça yanlara doğru kaldırın.",
+      "Tepe noktasında bir an duraklayın, ardından kollarınızı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Siéntate en un banco frente a la máquina de cable con los pies apoyados planos en el suelo.",
+      "Sujeta las agarraderas del cable con un agarre prono y extiende los brazos rectos frente a ti.",
+      "Manteniendo los brazos rectos, levántalos lentamente hacia los lados hasta que queden paralelos al suelo.",
+      "Haz una pausa por un momento en la parte superior, luego baja lentamente los brazos de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на скамью лицом к канатной машине, поставив ноги на землю.",
+      "Возьмитесь за рукоятки троса верхним хватом и вытяните руки прямо перед собой.",
+      "Держа руки прямыми, медленно поднимите их в стороны, пока они не станут параллельны полу.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите руки обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "坐在长凳上，面向电缆机，双脚平放在地面上。",
+      "正手握住电缆手柄，并将双臂伸直至前方。",
+      "保持手臂伸直，慢慢向两侧举起，直到与地板平行。",
+      "在顶部停顿片刻，然后慢慢将手臂放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को ज़मीन पर सपाट करके केबल मशीन के सामने एक बेंच पर बैठें।",
+      "केबल के हैंडल को ओवरहैंड ग्रिप से पकड़ें और अपनी बाहों को अपने सामने सीधा फैलाएं।",
+      "अपनी भुजाओं को सीधा रखते हुए, धीरे-धीरे उन्हें बगल की ओर उठाएं जब तक कि वे फर्श के समानांतर न हो जाएं।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपनी भुजाओं को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Usiądź na ławce przodem do wyciągu, stopy płasko na podłodze.",
+      "Chwyć uchwyty wyciągu nachwytem i wyprostuj ramiona prosto przed sobą.",
+      "Trzymając proste ramiona, powoli unieś je na boki, aż będą równoległe do podłogi.",
+      "Zatrzymaj się na moment na górze, a następnie powoli opuść ramiona do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "케이블 머신 앞에 벤치에 앉아 발을 바닥에 평평하게 놓습니다.",
+      "오버핸드 그립으로 케이블 핸들을 잡고 팔을 앞으로 쭉 펴 놓습니다.",
+      "팔을 곧게 유지하면서 천천히 양팔을 옆으로 들어올려 바닥과 평행이 될 때까지 올립니다.",
+      "최고 위치에서 잠시 멈춘 후 천천히 팔을 처음 위치로 내립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Assieds-toi sur un banc face à la machine à câble, les pieds à plat sur le sol.",
+      "Saisis les poignées du câble avec une prise en pronation et étends les bras droit devant toi.",
+      "En gardant les bras tendus, lève-les lentement sur les côtés jusqu'à ce qu'ils soient parallèles au sol.",
+      "Marque une pause en haut, puis abaisse lentement tes bras pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "traps",
+  "secondary_muscles": [
+    "traps",
+    "rhomboids"
+  ],
+  "target": "delts",
+  "image": "images/0215-x825CZm.jpg",
+  "gif_url": "videos/0215-x825CZm.gif",
+  "media_id": "x825CZm",
+  "created_at": "2026-03-18T12:31:32.875978+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

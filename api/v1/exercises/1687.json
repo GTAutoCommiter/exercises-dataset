@@ -1,0 +1,124 @@
+{
+  "id": "1687",
+  "name": "posterior step to overhead reach",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand with your feet hip-width apart and your arms by your sides. Take a step back with your right foot, landing on the ball of your foot. Bend your left knee and lower your body into a lunge position. As you lower into the lunge, simultaneously reach your arms overhead. Pause for a moment at the bottom of the lunge, then return to the starting position by pushing through your left heel and bringing your right foot forward. Repeat the movement on the other side, stepping back with your left foot and bending your right knee. Continue alternating sides for the desired number of repetitions.",
+    "it": "Stai con i piedi alla larghezza dei fianchi e le braccia lungo i fianchi. Fai un passo indietro con il piede destro, atterrando sulla punta del piede. Piega il ginocchio sinistro e abbassa il corpo in una posizione di affondo. Mentre ti abbassi nell'affondo, allunga contemporaneamente le braccia sopra la testa. Fermati per un momento nella parte inferiore dell'affondo, quindi torna alla posizione di partenza spingendo il tallone sinistro e portando il piede destro in avanti. Ripeti il ​​movimento dall'altro lato, facendo un passo indietro con il piede sinistro e piegando il ginocchio destro. Continua ad alternare i lati per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız kalça genişliğinde açık ve kollarınız yanlarınızda olacak şekilde ayakta durun. Sağ ayağınızla geriye doğru bir adım atın ve ayak parmaklarınızın ucuna inin. Sol dizinizi bükün ve vücudunuzu hamle pozisyonuna indirin. Hamleye doğru alçalırken aynı anda kollarınızı yukarı doğru uzatın. Hamlenin alt noktasında bir an duraklayın, ardından sol topuğunuzu iterek ve sağ ayağınızı öne doğru getirerek başlangıç ​​pozisyonuna dönün. Hareketi diğer tarafta da tekrarlayın, sol ayağınızla geriye adım atın ve sağ dizinizi bükün. İstenilen tekrar sayısı için alternatif taraflara devam edin.",
+    "es": "Ponte de pie con los pies separados a la altura de las caderas y los brazos a los lados del cuerpo. Da un paso hacia atrás con el pie derecho, apoyándote en la punta del pie. Flexiona la rodilla izquierda y baja el cuerpo a una posición de zancada. Mientras bajas a la zancada, lleva simultáneamente los brazos por encima de la cabeza. Haz una pausa por un momento en la parte baja de la zancada y luego vuelve a la posición inicial empujando con el talón izquierdo y llevando el pie derecho hacia adelante. Repite el movimiento hacia el otro lado, retrocediendo con el pie izquierdo y flexionando la rodilla derecha. Continúa alternando lados durante el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, руки по бокам. Сделайте шаг назад правой ногой, приземлившись на подушечку стопы. Согните левое колено и опустите тело в положение выпада. Опускаясь в выпад, одновременно вытяните руки над головой. Сделайте паузу на мгновение в нижней части выпада, затем вернитесь в исходное положение, отталкивая левую пятку и вынося правую ногу вперед. Повторите движение в другую сторону, отступив левой ногой назад и согнув правое колено. Продолжайте чередовать стороны желаемое количество повторений.",
+    "zh": "站立，双脚分开与臀部同宽，双臂放在身体两侧。 右脚向后退一步，用脚掌着地。 弯曲左膝并将身体降低至弓步位置。 当你降低弓步时，同时将手臂举过头顶。 在弓步底部暂停片刻，然后通过推动左脚跟并将右脚向前拉回到起始位置。 在另一侧重复该动作，左脚向后退一步并弯曲右膝盖。 继续交替进行所需的重复次数。",
+    "hi": "अपने पैरों को कूल्हे-चौड़ाई से अलग करके और अपनी बाहों को अपने बगल में रखकर खड़े हो जाएं। अपने दाहिने पैर से एक कदम पीछे हटें, अपने पैर की गेंद पर उतरें। अपने बाएं घुटने को मोड़ें और अपने शरीर को लंज स्थिति में नीचे लाएं। जैसे ही आप लंज में नीचे आते हैं, साथ ही अपनी बाहों को ऊपर की ओर ले जाएं। लंज के निचले हिस्से में एक पल के लिए रुकें, फिर अपनी बाईं एड़ी से धक्का देकर और अपने दाहिने पैर को आगे लाकर प्रारंभिक स्थिति में लौट आएं। इस क्रिया को दूसरी तरफ दोहराएं, अपने बाएं पैर से पीछे हटें और अपने दाहिने घुटने को मोड़ें। दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।",
+    "pl": "Stań w rozkroku na szerokość bioder z rękami wzdłuż tułowia. Zrób krok w tył prawą nogą, lądując na palcach stopy. Ugnij lewe kolano i opuść ciało do pozycji wykroku. Podczas opuszczania się do wykroku jednocześnie unieś ręce nad głowę. Zatrzymaj się na chwilę na dole wykroku, a następnie wróć do pozycji wyjściowej, odpychając się piętą lewej stopy i przenosząc prawą stopę do przodu. Powtórz ruch po drugiej stronie, robiąc krok w tył lewą nogą i uginając prawe kolano. Kontynuuj naprzemienne wykonywanie ruchu przez zalecaną liczbę powtórzeń.",
+    "ko": "발을 엉덩이 너비로 벌리고 팔을 옆에 두고 서 있습니다. 오른발을 뒤로 내딛어 발가락 공에 착지합니다. 왼쪽 무릎을 구부려 몸을 런지 자세로 내립니다. 런지로 내리면서 동시에 팔을 머리 위로 올립니다. 런지의 맨 아래에서 잠시 멈춘 후 왼쪽 발뒤꿈치로 밀어 오른발을 앞으로 가져와 시작 위치로 돌아옵니다. 왼발을 뒤로 내디으며 오른쪽 무릎을 구부려 반대편 움직임을 반복합니다. 원하는 횟수만큼 양쪽을 번갈아 계속합니다.",
+    "fr": "Tiens-toi les pieds écartés à la largeur des hanches et les bras le long du corps. Fais un pas en arrière avec le pied droit, en atterrissant sur la pointe du pied. Fléchis ton genou gauche et abaisse ton corps en position de fente. En descendant dans la fente, tends simultanément tes bras au-dessus de la tête. Marque une pause en bas de la fente, puis reviens à la position de départ en poussant sur ton talon gauche et en avançant ton pied droit. Répète le mouvement de l'autre côté, en reculant ton pied gauche et en fléchissant ton genou droit. Continue à alterner les côtés pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet hip-width apart and your arms by your sides.",
+      "Take a step back with your right foot, landing on the ball of your foot.",
+      "Bend your left knee and lower your body into a lunge position.",
+      "As you lower into the lunge, simultaneously reach your arms overhead.",
+      "Pause for a moment at the bottom of the lunge, then return to the starting position by pushing through your left heel and bringing your right foot forward.",
+      "Repeat the movement on the other side, stepping back with your left foot and bending your right knee.",
+      "Continue alternating sides for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza dei fianchi e le braccia lungo i fianchi.",
+      "Fai un passo indietro con il piede destro, atterrando sulla punta del piede.",
+      "Piega il ginocchio sinistro e abbassa il corpo in una posizione di affondo.",
+      "Mentre ti abbassi nell'affondo, allunga contemporaneamente le braccia sopra la testa.",
+      "Fermati per un momento nella parte inferiore dell'affondo, quindi torna alla posizione di partenza spingendo il tallone sinistro e portando il piede destro in avanti.",
+      "Ripeti il ​​movimento dall'altro lato, facendo un passo indietro con il piede sinistro e piegando il ginocchio destro.",
+      "Continua ad alternare i lati per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız kalça genişliğinde açık ve kollarınız yanlarınızda olacak şekilde ayakta durun.",
+      "Sağ ayağınızla geriye doğru bir adım atın ve ayak parmaklarınızın ucuna inin.",
+      "Sol dizinizi bükün ve vücudunuzu hamle pozisyonuna indirin.",
+      "Hamleye doğru alçalırken aynı anda kollarınızı yukarı doğru uzatın.",
+      "Hamlenin alt noktasında bir an duraklayın, ardından sol topuğunuzu iterek ve sağ ayağınızı öne doğru getirerek başlangıç ​​pozisyonuna dönün.",
+      "Hareketi diğer tarafta da tekrarlayın, sol ayağınızla geriye adım atın ve sağ dizinizi bükün.",
+      "İstenilen tekrar sayısı için alternatif taraflara devam edin."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de las caderas y los brazos a los lados del cuerpo.",
+      "Da un paso hacia atrás con el pie derecho, apoyándote en la punta del pie.",
+      "Flexiona la rodilla izquierda y baja el cuerpo a una posición de zancada.",
+      "Mientras bajas a la zancada, lleva simultáneamente los brazos por encima de la cabeza.",
+      "Haz una pausa por un momento en la parte baja de la zancada y luego vuelve a la posición inicial empujando con el talón izquierdo y llevando el pie derecho hacia adelante.",
+      "Repite el movimiento hacia el otro lado, retrocediendo con el pie izquierdo y flexionando la rodilla derecha.",
+      "Continúa alternando lados durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, руки по бокам.",
+      "Сделайте шаг назад правой ногой, приземлившись на подушечку стопы.",
+      "Согните левое колено и опустите тело в положение выпада.",
+      "Опускаясь в выпад, одновременно вытяните руки над головой.",
+      "Сделайте паузу на мгновение в нижней части выпада, затем вернитесь в исходное положение, отталкивая левую пятку и вынося правую ногу вперед.",
+      "Повторите движение в другую сторону, отступив левой ногой назад и согнув правое колено.",
+      "Продолжайте чередовать стороны желаемое количество повторений."
+    ],
+    "zh": [
+      "站立，双脚分开与臀部同宽，双臂放在身体两侧。",
+      "右脚向后退一步，用脚掌着地。",
+      "弯曲左膝并将身体降低至弓步位置。",
+      "当你降低弓步时，同时将手臂举过头顶。",
+      "在弓步底部暂停片刻，然后通过推动左脚跟并将右脚向前拉回到起始位置。",
+      "在另一侧重复该动作，左脚向后退一步并弯曲右膝盖。",
+      "继续交替进行所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कूल्हे-चौड़ाई से अलग करके और अपनी बाहों को अपने बगल में रखकर खड़े हो जाएं।",
+      "अपने दाहिने पैर से एक कदम पीछे हटें, अपने पैर की गेंद पर उतरें।",
+      "अपने बाएं घुटने को मोड़ें और अपने शरीर को लंज स्थिति में नीचे लाएं।",
+      "जैसे ही आप लंज में नीचे आते हैं, साथ ही अपनी बाहों को ऊपर की ओर ले जाएं।",
+      "लंज के निचले हिस्से में एक पल के लिए रुकें, फिर अपनी बाईं एड़ी से धक्का देकर और अपने दाहिने पैर को आगे लाकर प्रारंभिक स्थिति में लौट आएं।",
+      "इस क्रिया को दूसरी तरफ दोहराएं, अपने बाएं पैर से पीछे हटें और अपने दाहिने घुटने को मोड़ें।",
+      "दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość bioder z rękami wzdłuż tułowia.",
+      "Zrób krok w tył prawą nogą, lądując na palcach stopy.",
+      "Ugnij lewe kolano i opuść ciało do pozycji wykroku.",
+      "Podczas opuszczania się do wykroku jednocześnie unieś ręce nad głowę.",
+      "Zatrzymaj się na chwilę na dole wykroku, a następnie wróć do pozycji wyjściowej, odpychając się piętą lewej stopy i przenosząc prawą stopę do przodu.",
+      "Powtórz ruch po drugiej stronie, robiąc krok w tył lewą nogą i uginając prawe kolano.",
+      "Kontynuuj naprzemienne wykonywanie ruchu przez zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 엉덩이 너비로 벌리고 팔을 옆에 두고 서 있습니다.",
+      "오른발을 뒤로 내딛어 발가락 공에 착지합니다.",
+      "왼쪽 무릎을 구부려 몸을 런지 자세로 내립니다.",
+      "런지로 내리면서 동시에 팔을 머리 위로 올립니다.",
+      "런지의 맨 아래에서 잠시 멈춘 후 왼쪽 발뒤꿈치로 밀어 오른발을 앞으로 가져와 시작 위치로 돌아옵니다.",
+      "왼발을 뒤로 내디으며 오른쪽 무릎을 구부려 반대편 움직임을 반복합니다.",
+      "원하는 횟수만큼 양쪽을 번갈아 계속합니다."
+    ],
+    "fr": [
+      "Tiens-toi les pieds écartés à la largeur des hanches et les bras le long du corps.",
+      "Fais un pas en arrière avec le pied droit, en atterrissant sur la pointe du pied.",
+      "Fléchis ton genou gauche et abaisse ton corps en position de fente.",
+      "En descendant dans la fente, tends simultanément tes bras au-dessus de la tête.",
+      "Marque une pause en bas de la fente, puis reviens à la position de départ en poussant sur ton talon gauche et en avançant ton pied droit.",
+      "Répète le mouvement de l'autre côté, en reculant ton pied gauche et en fléchissant ton genou droit.",
+      "Continue à alterner les côtés pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "glutes",
+  "secondary_muscles": [
+    "glutes",
+    "hamstrings",
+    "quadriceps",
+    "shoulders"
+  ],
+  "target": "abs",
+  "image": "images/1687-ErqK3UL.jpg",
+  "gif_url": "videos/1687-ErqK3UL.gif",
+  "media_id": "ErqK3UL",
+  "created_at": "2026-03-18T12:31:32.888236+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

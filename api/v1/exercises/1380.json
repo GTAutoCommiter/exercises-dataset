@@ -1,0 +1,112 @@
+{
+  "id": "1380",
+  "name": "dumbbell seated one leg calf raise - hammer grip",
+  "category": "lower legs",
+  "body_part": "lower legs",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Sit on a bench or chair with your feet flat on the ground and a dumbbell resting on your thighs. Place one foot on a raised surface, such as a step or block, with your heel hanging off the edge. Hold the dumbbell with a hammer grip, meaning your palms are facing each other and your fingers are wrapped around the handle. Keeping your core engaged and your back straight, slowly raise your heel as high as possible by pushing through the ball of your foot. Pause for a moment at the top, then slowly lower your heel back down to the starting position. Repeat for the desired number of repetitions, then switch to the other leg.",
+    "it": "Siediti su una panca o una sedia con i piedi piatti a terra e un manubrio appoggiato sulle cosce. Appoggia un piede su una superficie rialzata, come un gradino o un blocco, con il tallone penzolante dal bordo. Tieni il manubrio con una presa a martello, cioè i palmi dei palmi si rivolgono e le dita avvolgono il manico. Tenendo il core attivo e la schiena dritta, solleva lentamente il tallone il più in alto possibile spingendo attraverso la pianta del piede. Fermati un attimo in cima, poi abbassa lentamente il tallone fino alla posizione di partenza. Ripeti per il numero desiderato di ripetizioni, poi passa all'altra gamba.",
+    "tr": "Ayaklarınız yere düz basacak şekilde ve uyluklarınızın üzerinde bir dambıl olacak şekilde bir bankta veya sandalyede oturun. Bir ayağınızı basamak veya blok gibi yükseltilmiş bir yüzeye, topuğunuz kenardan sarkacak şekilde yerleştirin. Dambılı çekiç tutuşuyla tutun; bu, avuçlarınızın birbirine dönük olduğu ve parmaklarınızın sapın etrafına dolandığı anlamına gelir. Merkez bölgenizi meşgul ve sırtınızı düz tutarak, ayağınızın topunu iterek topuğunuzu yavaşça mümkün olduğunca yükseğe kaldırın. Tepe noktasında bir an duraklayın, ardından topuğunuzu yavaşça başlangıç ​​pozisyonuna indirin. İstenilen tekrar sayısı kadar tekrarlayın, ardından diğer bacağa geçin.",
+    "es": "Siéntate en un banco o silla con los pies apoyados en el suelo y una mancuerna apoyada sobre los muslos. Coloca un pie sobre una superficie elevada, como un escalón o un bloque, con el talón colgando del borde. Sujeta la mancuerna con agarre neutro, es decir, con las palmas mirándose entre sí y los dedos envolviendo la barra. Manteniendo el core activado y la espalda recta, eleva lentamente el talón lo más alto posible empujando con la punta del pie. Haz una pausa por un momento en la parte superior, luego baja lentamente el talón de vuelta a la posición inicial. Repite el número de repeticiones deseado, luego cambia a la otra pierna.",
+    "ru": "Сядьте на скамью или стул, поставьте ступни на землю и положите гантель на бедра. Поставьте одну ногу на возвышение, например на ступеньку или блок, свесив пятку с края. Держите гантель молоткообразным хватом, то есть ладони обращены друг к другу, а пальцы обхватывают рукоятку. Удерживая корпус напряженным, а спину прямой, медленно поднимите пятку как можно выше, толкая подушечки стопы. Задержитесь на мгновение в верхней точке, затем медленно опустите пятку обратно в исходное положение. Повторите желаемое количество повторений, затем переключитесь на другую ногу.",
+    "zh": "坐在长凳或椅子上，双脚平放在地面上，并将哑铃放在大腿上。 将一只脚放在凸起的表面上，例如台阶或木块，脚跟悬在边缘之外。 用锤式握法握住哑铃，这意味着您的手掌相对，手指缠绕在手柄上。 保持核心收紧，背部挺直，通过脚掌推动，将脚后跟慢慢抬高，尽可能高。 在顶部暂停片刻，然后慢慢将脚跟放回起始位置。 重复所需的重复次数，然后换另一条腿。",
+    "hi": "अपने पैरों को ज़मीन पर सपाट करके और अपनी जांघों पर डम्बल रखकर एक बेंच या कुर्सी पर बैठें। एक पैर को किसी ऊंची सतह पर रखें, जैसे कि सीढ़ी या ब्लॉक, और आपकी एड़ी किनारे से लटकी हुई हो। डम्बल को हथौड़े की पकड़ से पकड़ें, यानी आपकी हथेलियाँ एक-दूसरे के सामने हों और आपकी उंगलियाँ हैंडल के चारों ओर लिपटी हों। अपने कोर को व्यस्त रखते हुए और अपनी पीठ को सीधा रखते हुए, धीरे-धीरे अपने पैर की गेंद से धक्का देकर अपनी एड़ी को जितना संभव हो उतना ऊपर उठाएं। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपनी एड़ी को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ, फिर दूसरे चरण पर जाएँ।",
+    "pl": "Usiądź na ławce lub krześle, oprzyj stopy płasko na podłodze, a hantlę połóż na udach. Ustaw jedną stopę na podwyższeniu, na przykład stopniu lub klocku, tak aby pięta zwisała poza krawędzią. Trzymaj hantlę chwytem młotkowym, czyli dłonie skierowane do siebie, a palce owinięte wokół rączki. Napinając mięśnie brzucha i trzymając plecy prosto, powoli unieś piętę jak najwyżej, wypychając ciężar przez palce stopy. Zatrzymaj się na chwilę na górze, a następnie powoli opuść piętę do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń, a następnie zmień nogę.",
+    "ko": "벤치나 의자에 앉아 발을 바닥에 붙이고 덤벨을 허벅지에 올립니다. 한 발을 계단이나 블록 같은 높은 곳에 올리고 발뒤꿈치를 가장자리에서 내린 상태로 유지합니다. 손바닥이 서로 향하고 손가락이 손잡이를 감싼 해머 그립으로 덤벨을 잡습니다. 코어에 힘을 주고 등을 곧게 펴면서 발 앞부분으로 밀어 발뒤꿈치를 최대한 높이 올립니다. 꼭대기에서 잠깐 멈추었다가 발뒤꿈치를 처음 위치로 천천히 내립니다. 원하는 반복 횟수만큼 반복한 후 다른 다리로 바꿉니다.",
+    "fr": "Assieds-toi sur un banc ou une chaise, les pieds à plat sur le sol et un haltère posé sur tes cuisses. Place un pied sur une surface surélevée, comme une marche ou un bloc, avec ton talon dans le vide au bord. Tiens l'haltère en prise marteau, c'est-à-dire les paumes tournées l'une vers l'autre et les doigts enroulés autour de la poignée. En gardant ta sangle abdominale gainée et le dos droit, lève lentement ton talon le plus haut possible en poussant sur la plante de ton pied. Marque une pause en haut, puis abaisse lentement ton talon pour revenir à la position de départ. Répète le nombre de répétitions souhaité, puis passe à l'autre jambe."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on a bench or chair with your feet flat on the ground and a dumbbell resting on your thighs.",
+      "Place one foot on a raised surface, such as a step or block, with your heel hanging off the edge.",
+      "Hold the dumbbell with a hammer grip, meaning your palms are facing each other and your fingers are wrapped around the handle.",
+      "Keeping your core engaged and your back straight, slowly raise your heel as high as possible by pushing through the ball of your foot.",
+      "Pause for a moment at the top, then slowly lower your heel back down to the starting position.",
+      "Repeat for the desired number of repetitions, then switch to the other leg."
+    ],
+    "it": [
+      "Siediti su una panca o una sedia con i piedi piatti a terra e un manubrio appoggiato sulle cosce.",
+      "Appoggia un piede su una superficie rialzata, come un gradino o un blocco, con il tallone penzolante dal bordo.",
+      "Tieni il manubrio con una presa a martello, cioè i palmi dei palmi si rivolgono e le dita avvolgono il manico.",
+      "Tenendo il core attivo e la schiena dritta, solleva lentamente il tallone il più in alto possibile spingendo attraverso la pianta del piede.",
+      "Fermati un attimo in cima, poi abbassa lentamente il tallone fino alla posizione di partenza.",
+      "Ripeti per il numero desiderato di ripetizioni, poi passa all'altra gamba."
+    ],
+    "tr": [
+      "Ayaklarınız yere düz basacak şekilde ve uyluklarınızın üzerinde bir dambıl olacak şekilde bir bankta veya sandalyede oturun.",
+      "Bir ayağınızı basamak veya blok gibi yükseltilmiş bir yüzeye, topuğunuz kenardan sarkacak şekilde yerleştirin.",
+      "Dambılı çekiç tutuşuyla tutun; bu, avuçlarınızın birbirine dönük olduğu ve parmaklarınızın sapın etrafına dolandığı anlamına gelir.",
+      "Merkez bölgenizi meşgul ve sırtınızı düz tutarak, ayağınızın topunu iterek topuğunuzu yavaşça mümkün olduğunca yükseğe kaldırın.",
+      "Tepe noktasında bir an duraklayın, ardından topuğunuzu yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından diğer bacağa geçin."
+    ],
+    "es": [
+      "Siéntate en un banco o silla con los pies apoyados en el suelo y una mancuerna apoyada sobre los muslos.",
+      "Coloca un pie sobre una superficie elevada, como un escalón o un bloque, con el talón colgando del borde.",
+      "Sujeta la mancuerna con agarre neutro, es decir, con las palmas mirándose entre sí y los dedos envolviendo la barra.",
+      "Manteniendo el core activado y la espalda recta, eleva lentamente el talón lo más alto posible empujando con la punta del pie.",
+      "Haz una pausa por un momento en la parte superior, luego baja lentamente el talón de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado, luego cambia a la otra pierna."
+    ],
+    "ru": [
+      "Сядьте на скамью или стул, поставьте ступни на землю и положите гантель на бедра.",
+      "Поставьте одну ногу на возвышение, например на ступеньку или блок, свесив пятку с края.",
+      "Держите гантель молоткообразным хватом, то есть ладони обращены друг к другу, а пальцы обхватывают рукоятку.",
+      "Удерживая корпус напряженным, а спину прямой, медленно поднимите пятку как можно выше, толкая подушечки стопы.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите пятку обратно в исходное положение.",
+      "Повторите желаемое количество повторений, затем переключитесь на другую ногу."
+    ],
+    "zh": [
+      "坐在长凳或椅子上，双脚平放在地面上，并将哑铃放在大腿上。",
+      "将一只脚放在凸起的表面上，例如台阶或木块，脚跟悬在边缘之外。",
+      "用锤式握法握住哑铃，这意味着您的手掌相对，手指缠绕在手柄上。",
+      "保持核心收紧，背部挺直，通过脚掌推动，将脚后跟慢慢抬高，尽可能高。",
+      "在顶部暂停片刻，然后慢慢将脚跟放回起始位置。",
+      "重复所需的重复次数，然后换另一条腿。"
+    ],
+    "hi": [
+      "अपने पैरों को ज़मीन पर सपाट करके और अपनी जांघों पर डम्बल रखकर एक बेंच या कुर्सी पर बैठें।",
+      "एक पैर को किसी ऊंची सतह पर रखें, जैसे कि सीढ़ी या ब्लॉक, और आपकी एड़ी किनारे से लटकी हुई हो।",
+      "डम्बल को हथौड़े की पकड़ से पकड़ें, यानी आपकी हथेलियाँ एक-दूसरे के सामने हों और आपकी उंगलियाँ हैंडल के चारों ओर लिपटी हों।",
+      "अपने कोर को व्यस्त रखते हुए और अपनी पीठ को सीधा रखते हुए, धीरे-धीरे अपने पैर की गेंद से धक्का देकर अपनी एड़ी को जितना संभव हो उतना ऊपर उठाएं।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपनी एड़ी को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ, फिर दूसरे चरण पर जाएँ।"
+    ],
+    "pl": [
+      "Usiądź na ławce lub krześle, oprzyj stopy płasko na podłodze, a hantlę połóż na udach.",
+      "Ustaw jedną stopę na podwyższeniu, na przykład stopniu lub klocku, tak aby pięta zwisała poza krawędzią.",
+      "Trzymaj hantlę chwytem młotkowym, czyli dłonie skierowane do siebie, a palce owinięte wokół rączki.",
+      "Napinając mięśnie brzucha i trzymając plecy prosto, powoli unieś piętę jak najwyżej, wypychając ciężar przez palce stopy.",
+      "Zatrzymaj się na chwilę na górze, a następnie powoli opuść piętę do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń, a następnie zmień nogę."
+    ],
+    "ko": [
+      "벤치나 의자에 앉아 발을 바닥에 붙이고 덤벨을 허벅지에 올립니다.",
+      "한 발을 계단이나 블록 같은 높은 곳에 올리고 발뒤꿈치를 가장자리에서 내린 상태로 유지합니다.",
+      "손바닥이 서로 향하고 손가락이 손잡이를 감싼 해머 그립으로 덤벨을 잡습니다.",
+      "코어에 힘을 주고 등을 곧게 펴면서 발 앞부분으로 밀어 발뒤꿈치를 최대한 높이 올립니다.",
+      "꼭대기에서 잠깐 멈추었다가 발뒤꿈치를 처음 위치로 천천히 내립니다.",
+      "원하는 반복 횟수만큼 반복한 후 다른 다리로 바꿉니다."
+    ],
+    "fr": [
+      "Assieds-toi sur un banc ou une chaise, les pieds à plat sur le sol et un haltère posé sur tes cuisses.",
+      "Place un pied sur une surface surélevée, comme une marche ou un bloc, avec ton talon dans le vide au bord.",
+      "Tiens l'haltère en prise marteau, c'est-à-dire les paumes tournées l'une vers l'autre et les doigts enroulés autour de la poignée.",
+      "En gardant ta sangle abdominale gainée et le dos droit, lève lentement ton talon le plus haut possible en poussant sur la plante de ton pied.",
+      "Marque une pause en haut, puis abaisse lentement ton talon pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis passe à l'autre jambe."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings",
+    "glutes"
+  ],
+  "target": "calves",
+  "image": "images/1380-FxhcxUW.jpg",
+  "gif_url": "videos/1380-FxhcxUW.gif",
+  "media_id": "FxhcxUW",
+  "created_at": "2026-03-18T12:31:32.881422+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

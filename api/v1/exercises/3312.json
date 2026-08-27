@@ -1,0 +1,114 @@
+{
+  "id": "3312",
+  "name": "weighted muscle up (on bar)",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "weighted",
+  "instructions": {
+    "en": "Start by hanging from a pull-up bar with your palms facing away from you and your hands slightly wider than shoulder-width apart. Engage your core and pull your shoulder blades down and back. Bend your elbows and pull your chest towards the bar, keeping your body straight. Once your chest reaches the bar, push down with your hands and drive your elbows back, lifting your body above the bar. Pause at the top of the movement, then slowly lower yourself back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Inizia appendendoti a una barra per trazioni con i palmi rivolti lontano da te e le mani leggermente più larghe della larghezza delle spalle. Coinvolgi il tuo core e tira le scapole verso il basso e all'indietro. Piega i gomiti e tira il petto verso la barra, mantenendo il corpo dritto. Una volta che il petto raggiunge la barra, spingi verso il basso con le mani e porta indietro i gomiti, sollevando il corpo sopra la barra. Fai una pausa nella parte superiore del movimento, quindi abbassati lentamente fino alla posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Avuç içleriniz sizden uzağa bakacak şekilde ve elleriniz omuz genişliğinden biraz daha geniş olacak şekilde bir barfiks çubuğuna asılarak başlayın. Merkez bölgenizi devreye sokun ve kürek kemiklerinizi aşağı ve geriye doğru çekin. Dirseklerinizi bükün ve vücudunuzu düz tutarak göğsünüzü bara doğru çekin. Göğsünüz bara ulaştığında ellerinizle aşağı doğru bastırın ve dirseklerinizi geriye doğru iterek vücudunuzu barın üzerine kaldırın. Hareketin en üst noktasında duraklayın ve ardından yavaşça kendinizi başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Comienza colgándote de una barra de dominadas con las palmas mirando hacia afuera y las manos un poco más separadas que la anchura de los hombros. Activa el core y lleva los omóplatos hacia abajo y atrás. Flexiona los codos y tira del pecho hacia la barra, manteniendo el cuerpo recto. Cuando tu pecho llegue a la barra, empuja hacia abajo con las manos y lleva los codos hacia atrás, elevando el cuerpo por encima de la barra. Haz una pausa en la parte más alta del movimiento, luego baja lentamente de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Начните с подвешивания на перекладине, повернув ладонями от себя и расставив руки чуть шире плеч. Напрягите корпус и потяните лопатки вниз и назад. Согните локти и подтяните грудь к перекладине, сохраняя тело прямым. Как только ваша грудь достигнет перекладины, оттолкнитесь руками и отведите локти назад, поднимая тело над перекладиной. Сделайте паузу в верхней точке движения, затем медленно опуститесь обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "首先悬挂在引体向上杆上，手掌背向自己，双手之间的距离略大于肩宽。 启动你的核心并将肩胛骨向下拉和向后拉。 弯曲肘部，将胸部拉向杠铃杆，保持身体挺直。 当你的胸部到达杠铃时，用手向下推并将肘部向后推，将身体提升到杠铃上方。 在动作的最高点暂停，然后慢慢降低回到起始位置。 重复所需的重复次数。",
+    "hi": "अपनी हथेलियों को अपने से दूर की ओर रखते हुए पुल-अप बार से लटकने से शुरुआत करें और आपके हाथ कंधे की चौड़ाई से थोड़े चौड़े हों। अपने कोर को संलग्न करें और अपने कंधे के ब्लेड को नीचे और पीछे खींचें। अपनी कोहनियों को मोड़ें और अपने शरीर को सीधा रखते हुए अपनी छाती को बार की ओर खींचें। एक बार जब आपकी छाती बार तक पहुंच जाए, तो अपने हाथों से नीचे की ओर धकेलें और अपनी कोहनियों को पीछे ले जाएं, अपने शरीर को बार से ऊपर उठाएं। गति के शीर्ष पर रुकें, फिर धीरे-धीरे अपने आप को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Zacznij, wisząc na drążku do podciągania z dłońmi skierowanymi od siebie, rozstawionymi nieco szerzej niż szerokość barków. Napnij mięśnie brzucha i pociągnij łopatki w dół i do tyłu. Ugnij łokcie i przyciągnij klatkę piersiową w stronę drążka, trzymając ciało proste. Gdy klatka piersiowa dosięgnie drążka, naciśnij dłońmi i wypchnij łokcie do tyłu, unosząc ciało nad drążek. Zatrzymaj się na górze ruchu, a następnie powoli opuść się z powrotem do pozycji wyjściowej. Powtórz zgodnie z żądaną liczbą powtórzeń.",
+    "ko": "손바닥이 몸에서 멀어지도록 풀업 바에 달려 손이 어깨 너비보다 약간 넓도록 합니다. 코어에 힘을 주고 어깨 뼈를 아래와 뒤로 당깁니다. 팔꿈치를 구부려 가슴을 바 쪽으로 당기되 몸을 곧게 유지합니다. 가슴이 바에 닿으면 손으로 아래를 밀고 팔꿈치를 뒤로 몰아 몸을 바 위로 들어올립니다. 동작의 위쪽에서 멈춘 후 천천히 처음 위치로 내려갑니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Commence suspendu à une barre de traction, les paumes tournées vers l'extérieur et les mains légèrement plus écartées que la largeur des épaules. Gaine ta sangle abdominale et tire tes omoplates vers le bas et l'arrière. Plie tes coudes et tire ta poitrine vers la barre en gardant ton corps droit. Une fois ta poitrine au niveau de la barre, pousse avec tes mains et ramène tes coudes vers l'arrière, en soulevant ton corps au-dessus de la barre. Marque une pause en haut du mouvement, puis redescends lentement jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start by hanging from a pull-up bar with your palms facing away from you and your hands slightly wider than shoulder-width apart.",
+      "Engage your core and pull your shoulder blades down and back.",
+      "Bend your elbows and pull your chest towards the bar, keeping your body straight.",
+      "Once your chest reaches the bar, push down with your hands and drive your elbows back, lifting your body above the bar.",
+      "Pause at the top of the movement, then slowly lower yourself back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia appendendoti a una barra per trazioni con i palmi rivolti lontano da te e le mani leggermente più larghe della larghezza delle spalle.",
+      "Coinvolgi il tuo core e tira le scapole verso il basso e all'indietro.",
+      "Piega i gomiti e tira il petto verso la barra, mantenendo il corpo dritto.",
+      "Una volta che il petto raggiunge la barra, spingi verso il basso con le mani e porta indietro i gomiti, sollevando il corpo sopra la barra.",
+      "Fai una pausa nella parte superiore del movimento, quindi abbassati lentamente fino alla posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Avuç içleriniz sizden uzağa bakacak şekilde ve elleriniz omuz genişliğinden biraz daha geniş olacak şekilde bir barfiks çubuğuna asılarak başlayın.",
+      "Merkez bölgenizi devreye sokun ve kürek kemiklerinizi aşağı ve geriye doğru çekin.",
+      "Dirseklerinizi bükün ve vücudunuzu düz tutarak göğsünüzü bara doğru çekin.",
+      "Göğsünüz bara ulaştığında ellerinizle aşağı doğru bastırın ve dirseklerinizi geriye doğru iterek vücudunuzu barın üzerine kaldırın.",
+      "Hareketin en üst noktasında duraklayın ve ardından yavaşça kendinizi başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Comienza colgándote de una barra de dominadas con las palmas mirando hacia afuera y las manos un poco más separadas que la anchura de los hombros.",
+      "Activa el core y lleva los omóplatos hacia abajo y atrás.",
+      "Flexiona los codos y tira del pecho hacia la barra, manteniendo el cuerpo recto.",
+      "Cuando tu pecho llegue a la barra, empuja hacia abajo con las manos y lleva los codos hacia atrás, elevando el cuerpo por encima de la barra.",
+      "Haz una pausa en la parte más alta del movimiento, luego baja lentamente de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с подвешивания на перекладине, повернув ладонями от себя и расставив руки чуть шире плеч.",
+      "Напрягите корпус и потяните лопатки вниз и назад.",
+      "Согните локти и подтяните грудь к перекладине, сохраняя тело прямым.",
+      "Как только ваша грудь достигнет перекладины, оттолкнитесь руками и отведите локти назад, поднимая тело над перекладиной.",
+      "Сделайте паузу в верхней точке движения, затем медленно опуститесь обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "首先悬挂在引体向上杆上，手掌背向自己，双手之间的距离略大于肩宽。",
+      "启动你的核心并将肩胛骨向下拉和向后拉。",
+      "弯曲肘部，将胸部拉向杠铃杆，保持身体挺直。",
+      "当你的胸部到达杠铃时，用手向下推并将肘部向后推，将身体提升到杠铃上方。",
+      "在动作的最高点暂停，然后慢慢降低回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपनी हथेलियों को अपने से दूर की ओर रखते हुए पुल-अप बार से लटकने से शुरुआत करें और आपके हाथ कंधे की चौड़ाई से थोड़े चौड़े हों।",
+      "अपने कोर को संलग्न करें और अपने कंधे के ब्लेड को नीचे और पीछे खींचें।",
+      "अपनी कोहनियों को मोड़ें और अपने शरीर को सीधा रखते हुए अपनी छाती को बार की ओर खींचें।",
+      "एक बार जब आपकी छाती बार तक पहुंच जाए, तो अपने हाथों से नीचे की ओर धकेलें और अपनी कोहनियों को पीछे ले जाएं, अपने शरीर को बार से ऊपर उठाएं।",
+      "गति के शीर्ष पर रुकें, फिर धीरे-धीरे अपने आप को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Zacznij, wisząc na drążku do podciągania z dłońmi skierowanymi od siebie, rozstawionymi nieco szerzej niż szerokość barków.",
+      "Napnij mięśnie brzucha i pociągnij łopatki w dół i do tyłu.",
+      "Ugnij łokcie i przyciągnij klatkę piersiową w stronę drążka, trzymając ciało proste.",
+      "Gdy klatka piersiowa dosięgnie drążka, naciśnij dłońmi i wypchnij łokcie do tyłu, unosząc ciało nad drążek.",
+      "Zatrzymaj się na górze ruchu, a następnie powoli opuść się z powrotem do pozycji wyjściowej.",
+      "Powtórz zgodnie z żądaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "손바닥이 몸에서 멀어지도록 풀업 바에 달려 손이 어깨 너비보다 약간 넓도록 합니다.",
+      "코어에 힘을 주고 어깨 뼈를 아래와 뒤로 당깁니다.",
+      "팔꿈치를 구부려 가슴을 바 쪽으로 당기되 몸을 곧게 유지합니다.",
+      "가슴이 바에 닿으면 손으로 아래를 밀고 팔꿈치를 뒤로 몰아 몸을 바 위로 들어올립니다.",
+      "동작의 위쪽에서 멈춘 후 천천히 처음 위치로 내려갑니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Commence suspendu à une barre de traction, les paumes tournées vers l'extérieur et les mains légèrement plus écartées que la largeur des épaules.",
+      "Gaine ta sangle abdominale et tire tes omoplates vers le bas et l'arrière.",
+      "Plie tes coudes et tire ta poitrine vers la barre en gardant ton corps droit.",
+      "Une fois ta poitrine au niveau de la barre, pousse avec tes mains et ramène tes coudes vers l'arrière, en soulevant ton corps au-dessus de la barre.",
+      "Marque une pause en haut du mouvement, puis redescends lentement jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "triceps",
+    "shoulders",
+    "forearms"
+  ],
+  "target": "lats",
+  "image": "images/3312-MCkqdKE.jpg",
+  "gif_url": "videos/3312-MCkqdKE.gif",
+  "media_id": "MCkqdKE",
+  "created_at": "2026-03-18T12:31:32.906014+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,102 @@
+{
+  "id": "0856",
+  "name": "weighted svend press",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "weighted",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and hold a weight plate in front of your chest with both hands. Keep your elbows slightly bent and your palms facing each other. Press the weight plate straight out in front of you, fully extending your arms. Pause for a moment at the end of the movement, then slowly bring the weight plate back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stare con i piedi alla larghezza delle spalle e tenere un piatto di peso davanti al petto con entrambe le mani. Tieni i gomiti leggermente piegati e i palmi delle mani uno di fronte all'altro. Spingi la piastra del peso davanti a te, estendendo completamente le braccia. Fare una pausa per un attimo alla fine del movimento, quindi riportare lentamente il piatto peso nella posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınızı omuz genişliğinde açın ve ağırlık plakasını iki elinizle göğsünüzün önünde tutun. Dirseklerinizi hafifçe bükülü ve avuçlarınız birbirine dönük olsun. Kollarınızı tamamen uzatarak ağırlık plakasını önünüze doğru bastırın. Hareketin sonunda bir süre duraklayın, ardından ağırlık plakasını yavaşça başlangıç ​​pozisyonuna getirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y sostén un disco de peso frente al pecho con ambas manos. Mantén los codos ligeramente flexionados y las palmas mirándose entre sí. Empuja el disco de peso recto hacia adelante, extendiendo completamente los brazos. Haz una pausa de un momento al final del movimiento, luego lleva lentamente el disco de peso de nuevo a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, обеими руками держите блин перед грудью. Держите локти слегка согнутыми и ладонями друг к другу. Выжмите блин прямо перед собой, полностью выпрямив руки. Сделайте небольшую паузу в конце движения, затем медленно верните блин в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，双手将杠铃片放在胸前。 保持肘部稍微弯曲，手掌相对。 将配重板直接压在您面前，完全伸展双臂。 动作结束时暂停片刻，然后慢慢将配重板放回起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और दोनों हाथों से अपनी छाती के सामने एक वेट प्लेट पकड़ लें। अपनी कोहनियों को थोड़ा मुड़ा हुआ रखें और अपनी हथेलियों को एक-दूसरे के सामने रखें। अपनी भुजाओं को पूरी तरह फैलाते हुए वेट प्लेट को सीधे अपने सामने दबाएं। आंदोलन के अंत में एक पल के लिए रुकें, फिर धीरे-धीरे वेट प्लेट को शुरुआती स्थिति में वापस लाएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań ze stopami rozstawionymi na szerokość barków, trzymając talerz obciążeniowy przed klatką piersiową obiema rękami. Trzymaj łokcie lekko ugięte, a dłonie zwrócone do siebie. Wypchnij talerz obciążeniowy prosto przed siebie, w pełni prostując ramiona. Zatrzymaj się na chwilę na końcu ruchu, a następnie powoli przyciągnij talerz obciążeniowy z powrotem do pozycji wyjściowej. Powtórz zgodnie z żądaną liczbą powtórzeń.",
+    "ko": "발을 어깨 너비만큼 떨어뜨리고 서서 웨이트 플레이트를 양손으로 가슴 앞에서 들고 있습니다. 팔꿈치를 약간 구부리고 손가락이 마주보도록 유지합니다. 웨이트 플레이트를 앞으로 곧게 밀어 팔을 완전히 펴줍니다. 움직임의 끝에서 잠깐 멈춘 후 웨이트 플레이트를 천천히 시작 위치로 가져갑니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens un disque de poids devant ta poitrine à deux mains. Garde tes coudes légèrement fléchis et tes paumes tournées l'une vers l'autre. Pousse le disque droit devant toi, en tendant complètement tes bras. Marque une pause à la fin du mouvement, puis ramène lentement le disque à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and hold a weight plate in front of your chest with both hands.",
+      "Keep your elbows slightly bent and your palms facing each other.",
+      "Press the weight plate straight out in front of you, fully extending your arms.",
+      "Pause for a moment at the end of the movement, then slowly bring the weight plate back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stare con i piedi alla larghezza delle spalle e tenere un piatto di peso davanti al petto con entrambe le mani.",
+      "Tieni i gomiti leggermente piegati e i palmi delle mani uno di fronte all'altro.",
+      "Spingi la piastra del peso davanti a te, estendendo completamente le braccia.",
+      "Fare una pausa per un attimo alla fine del movimento, quindi riportare lentamente il piatto peso nella posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınızı omuz genişliğinde açın ve ağırlık plakasını iki elinizle göğsünüzün önünde tutun.",
+      "Dirseklerinizi hafifçe bükülü ve avuçlarınız birbirine dönük olsun.",
+      "Kollarınızı tamamen uzatarak ağırlık plakasını önünüze doğru bastırın.",
+      "Hareketin sonunda bir süre duraklayın, ardından ağırlık plakasını yavaşça başlangıç ​​pozisyonuna getirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y sostén un disco de peso frente al pecho con ambas manos.",
+      "Mantén los codos ligeramente flexionados y las palmas mirándose entre sí.",
+      "Empuja el disco de peso recto hacia adelante, extendiendo completamente los brazos.",
+      "Haz una pausa de un momento al final del movimiento, luego lleva lentamente el disco de peso de nuevo a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, обеими руками держите блин перед грудью.",
+      "Держите локти слегка согнутыми и ладонями друг к другу.",
+      "Выжмите блин прямо перед собой, полностью выпрямив руки.",
+      "Сделайте небольшую паузу в конце движения, затем медленно верните блин в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，双手将杠铃片放在胸前。",
+      "保持肘部稍微弯曲，手掌相对。",
+      "将配重板直接压在您面前，完全伸展双臂。",
+      "动作结束时暂停片刻，然后慢慢将配重板放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और दोनों हाथों से अपनी छाती के सामने एक वेट प्लेट पकड़ लें।",
+      "अपनी कोहनियों को थोड़ा मुड़ा हुआ रखें और अपनी हथेलियों को एक-दूसरे के सामने रखें।",
+      "अपनी भुजाओं को पूरी तरह फैलाते हुए वेट प्लेट को सीधे अपने सामने दबाएं।",
+      "आंदोलन के अंत में एक पल के लिए रुकें, फिर धीरे-धीरे वेट प्लेट को शुरुआती स्थिति में वापस लाएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań ze stopami rozstawionymi na szerokość barków, trzymając talerz obciążeniowy przed klatką piersiową obiema rękami.",
+      "Trzymaj łokcie lekko ugięte, a dłonie zwrócone do siebie.",
+      "Wypchnij talerz obciążeniowy prosto przed siebie, w pełni prostując ramiona.",
+      "Zatrzymaj się na chwilę na końcu ruchu, a następnie powoli przyciągnij talerz obciążeniowy z powrotem do pozycji wyjściowej.",
+      "Powtórz zgodnie z żądaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 너비만큼 떨어뜨리고 서서 웨이트 플레이트를 양손으로 가슴 앞에서 들고 있습니다.",
+      "팔꿈치를 약간 구부리고 손가락이 마주보도록 유지합니다.",
+      "웨이트 플레이트를 앞으로 곧게 밀어 팔을 완전히 펴줍니다.",
+      "움직임의 끝에서 잠깐 멈춘 후 웨이트 플레이트를 천천히 시작 위치로 가져갑니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens un disque de poids devant ta poitrine à deux mains.",
+      "Garde tes coudes légèrement fléchis et tes paumes tournées l'une vers l'autre.",
+      "Pousse le disque droit devant toi, en tendant complètement tes bras.",
+      "Marque une pause à la fin du mouvement, puis ramène lentement le disque à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "target": "pectorals",
+  "image": "images/0856-I1OBLnn.jpg",
+  "gif_url": "videos/0856-I1OBLnn.gif",
+  "media_id": "I1OBLnn",
+  "created_at": "2026-03-18T12:31:32.90637+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

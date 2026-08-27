@@ -1,0 +1,122 @@
+{
+  "id": "0808",
+  "name": "suspended row",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Set up a suspension trainer at an appropriate height. Stand facing the anchor point with your feet shoulder-width apart. Hold the handles with an overhand grip, palms facing each other. Lean back, keeping your body straight and your heels on the ground. Pull your chest towards the handles, squeezing your shoulder blades together. Pause for a moment at the top, then slowly lower yourself back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Installa un trainer per le sospensioni a un'altezza adeguata. Stai di fronte al punto di ancoraggio con i piedi alla larghezza delle spalle. Afferra le maniglie con una presa prona, con i palmi rivolti l'uno verso l'altro. Appoggiati all'indietro, mantenendo il corpo dritto e i talloni a terra. Tira il petto verso le maniglie, stringendo insieme le scapole. Fermati per un momento in alto, quindi abbassati lentamente nella posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Uygun bir yüksekliğe bir süspansiyon antrenörü kurun. Ayaklarınız omuz genişliğinde açık olacak şekilde bağlantı noktasına bakacak şekilde durun. Avuç içleriniz birbirine bakacak şekilde tutamakları üstten kavrayarak tutun. Arkanıza yaslanın, vücudunuzu düz tutun ve topuklarınızı yerde tutun. Omuz bıçaklarınızı birbirine sıkıştırarak göğsünüzü tutamaklara doğru çekin. Tepe noktasında bir an duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Coloca un entrenador de suspensión a una altura adecuada. Ponte de pie frente al punto de anclaje con los pies separados a la altura de los hombros. Sostén las asas con un agarre prono, con las palmas mirándose entre sí. Inclínate hacia atrás, manteniendo el cuerpo recto y los talones en el suelo. Tira del pecho hacia las asas, apretando los omóplatos entre sí. Haz una pausa breve en la parte más alta, luego baja lentamente de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Установите тренажер для подвески на подходящей высоте. Встаньте лицом к точке крепления, поставив ноги на ширине плеч. Возьмитесь за ручки хватом сверху, ладонями друг к другу. Откиньтесь назад, держа тело прямо, а пятки на земле. Подтяните грудь к ручкам, сведя лопатки вместе. Задержитесь на мгновение в верхней точке, затем медленно опуститесь обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "将悬挂训练器设置在适当的高度。 面向锚点站立，双脚分开与肩同宽。 正手握住手柄，手掌相对。 向后倾斜，保持身体挺直，脚后跟着地。 将胸部拉向手柄，将肩胛骨挤压在一起。 在顶部停顿片刻，然后慢慢降低回到起始位置。 重复所需的重复次数。",
+    "hi": "उचित ऊंचाई पर सस्पेंशन ट्रेनर स्थापित करें। अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए एंकर पॉइंट की ओर मुंह करके खड़े हो जाएं। हैंडल को ओवरहैंड ग्रिप से पकड़ें, हथेलियाँ एक-दूसरे के सामने हों। अपने शरीर को सीधा और अपनी एड़ियों को ज़मीन पर रखते हुए पीछे झुकें। अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए, अपनी छाती को हैंडल की ओर खींचें। शीर्ष पर एक क्षण के लिए रुकें, फिर धीरे-धीरे अपने आप को प्रारंभिक स्थिति में वापस ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Ustaw trener podwieszany na odpowiedniej wysokości. Stań przodem do punktu kotwiczenia ze stopami rozstawionymi na szerokość barków. Chwyć uchwyty chwytem nachwytem, dłońmi zwróconymi do siebie. Odchyl się do tyłu, trzymając ciało proste i pięty na podłodze. Przyciągnij klatkę piersiową w stronę uchwytów, ściskając łopatki. Zatrzymaj się na chwilę na górze, a następnie powoli opuść się z powrotem do pozycji wyjściowej. Powtórz zgodnie z żądaną liczbą powtórzeń.",
+    "ko": "현수 훈련 장비를 적절한 높이로 설정합니다. 발을 어깨너비만큼 떨어뜨리고 앵커 포인트를 향해 섭니다. 손바닥이 서로 마주보도록 오버핸드 그립으로 핸들을 잡습니다. 몸을 곧게 유지하고 발뒤꿈치를 땅에 둔 채 몸을 뒤로 기울입니다. 어깨뼈를 함께 조여가며 가슴을 핸들 쪽으로 당깁니다. 최상단에서 잠시 멈춘 후 천천히 시작 위치로 내립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Installe un entraîneur en suspension à une hauteur appropriée. Tiens-toi face au point d'ancrage, les pieds écartés à la largeur des épaules. Tiens les poignées en prise pronation, les paumes tournées l'une vers l'autre. Penche-toi en arrière, en gardant le corps droit et les talons au sol. Tire ta poitrine vers les poignées en contractant tes omoplates l'une vers l'autre. Marque une pause en haut, puis abaisse-toi lentement pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Set up a suspension trainer at an appropriate height.",
+      "Stand facing the anchor point with your feet shoulder-width apart.",
+      "Hold the handles with an overhand grip, palms facing each other.",
+      "Lean back, keeping your body straight and your heels on the ground.",
+      "Pull your chest towards the handles, squeezing your shoulder blades together.",
+      "Pause for a moment at the top, then slowly lower yourself back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Installa un trainer per le sospensioni a un'altezza adeguata.",
+      "Stai di fronte al punto di ancoraggio con i piedi alla larghezza delle spalle.",
+      "Afferra le maniglie con una presa prona, con i palmi rivolti l'uno verso l'altro.",
+      "Appoggiati all'indietro, mantenendo il corpo dritto e i talloni a terra.",
+      "Tira il petto verso le maniglie, stringendo insieme le scapole.",
+      "Fermati per un momento in alto, quindi abbassati lentamente nella posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Uygun bir yüksekliğe bir süspansiyon antrenörü kurun.",
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde bağlantı noktasına bakacak şekilde durun.",
+      "Avuç içleriniz birbirine bakacak şekilde tutamakları üstten kavrayarak tutun.",
+      "Arkanıza yaslanın, vücudunuzu düz tutun ve topuklarınızı yerde tutun.",
+      "Omuz bıçaklarınızı birbirine sıkıştırarak göğsünüzü tutamaklara doğru çekin.",
+      "Tepe noktasında bir an duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Coloca un entrenador de suspensión a una altura adecuada.",
+      "Ponte de pie frente al punto de anclaje con los pies separados a la altura de los hombros.",
+      "Sostén las asas con un agarre prono, con las palmas mirándose entre sí.",
+      "Inclínate hacia atrás, manteniendo el cuerpo recto y los talones en el suelo.",
+      "Tira del pecho hacia las asas, apretando los omóplatos entre sí.",
+      "Haz una pausa breve en la parte más alta, luego baja lentamente de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Установите тренажер для подвески на подходящей высоте.",
+      "Встаньте лицом к точке крепления, поставив ноги на ширине плеч.",
+      "Возьмитесь за ручки хватом сверху, ладонями друг к другу.",
+      "Откиньтесь назад, держа тело прямо, а пятки на земле.",
+      "Подтяните грудь к ручкам, сведя лопатки вместе.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опуститесь обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将悬挂训练器设置在适当的高度。",
+      "面向锚点站立，双脚分开与肩同宽。",
+      "正手握住手柄，手掌相对。",
+      "向后倾斜，保持身体挺直，脚后跟着地。",
+      "将胸部拉向手柄，将肩胛骨挤压在一起。",
+      "在顶部停顿片刻，然后慢慢降低回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "उचित ऊंचाई पर सस्पेंशन ट्रेनर स्थापित करें।",
+      "अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए एंकर पॉइंट की ओर मुंह करके खड़े हो जाएं।",
+      "हैंडल को ओवरहैंड ग्रिप से पकड़ें, हथेलियाँ एक-दूसरे के सामने हों।",
+      "अपने शरीर को सीधा और अपनी एड़ियों को ज़मीन पर रखते हुए पीछे झुकें।",
+      "अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए, अपनी छाती को हैंडल की ओर खींचें।",
+      "शीर्ष पर एक क्षण के लिए रुकें, फिर धीरे-धीरे अपने आप को प्रारंभिक स्थिति में वापस ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Ustaw trener podwieszany na odpowiedniej wysokości.",
+      "Stań przodem do punktu kotwiczenia ze stopami rozstawionymi na szerokość barków.",
+      "Chwyć uchwyty chwytem nachwytem, dłońmi zwróconymi do siebie.",
+      "Odchyl się do tyłu, trzymając ciało proste i pięty na podłodze.",
+      "Przyciągnij klatkę piersiową w stronę uchwytów, ściskając łopatki.",
+      "Zatrzymaj się na chwilę na górze, a następnie powoli opuść się z powrotem do pozycji wyjściowej.",
+      "Powtórz zgodnie z żądaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "현수 훈련 장비를 적절한 높이로 설정합니다.",
+      "발을 어깨너비만큼 떨어뜨리고 앵커 포인트를 향해 섭니다.",
+      "손바닥이 서로 마주보도록 오버핸드 그립으로 핸들을 잡습니다.",
+      "몸을 곧게 유지하고 발뒤꿈치를 땅에 둔 채 몸을 뒤로 기울입니다.",
+      "어깨뼈를 함께 조여가며 가슴을 핸들 쪽으로 당깁니다.",
+      "최상단에서 잠시 멈춘 후 천천히 시작 위치로 내립니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Installe un entraîneur en suspension à une hauteur appropriée.",
+      "Tiens-toi face au point d'ancrage, les pieds écartés à la largeur des épaules.",
+      "Tiens les poignées en prise pronation, les paumes tournées l'une vers l'autre.",
+      "Penche-toi en arrière, en gardant le corps droit et les talons au sol.",
+      "Tire ta poitrine vers les poignées en contractant tes omoplates l'une vers l'autre.",
+      "Marque une pause en haut, puis abaisse-toi lentement pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "shoulders"
+  ],
+  "target": "upper back",
+  "image": "images/0808-4OaumBr.jpg",
+  "gif_url": "videos/0808-4OaumBr.gif",
+  "media_id": "4OaumBr",
+  "created_at": "2026-03-18T12:31:32.905118+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

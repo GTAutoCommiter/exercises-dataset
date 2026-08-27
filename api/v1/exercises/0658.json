@@ -1,0 +1,122 @@
+{
+  "id": "0658",
+  "name": "push-up (wall) v. 2",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand facing a wall, about arm's length away. Place your hands on the wall at shoulder height, slightly wider than shoulder-width apart. Step back with your feet, keeping them hip-width apart. Engage your core and keep your body in a straight line from head to heels. Bend your elbows and lower your chest towards the wall, keeping your body straight. Pause for a moment, then push yourself back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Mettiti di fronte a un muro, a circa un braccio di distanza. Appoggia le mani sul muro all'altezza delle spalle, leggermente più larghe della larghezza delle spalle. Fai un passo indietro con i piedi, tenendoli alla larghezza dei fianchi. Coinvolgi il tuo core e mantieni il corpo in linea retta dalla testa ai talloni. Piega i gomiti e abbassa il petto verso il muro, mantenendo il corpo dritto. Fai una pausa per un momento, quindi ritorna alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Yüzünüz bir duvara dönük, yaklaşık kol boyu uzakta durun. Ellerinizi omuz hizasında, omuz genişliğinden biraz daha geniş olacak şekilde duvara dayayın. Ayaklarınızı kalça genişliğinde açarak geriye doğru adım atın. Merkez bölgenizi harekete geçirin ve vücudunuzu baştan topuklara kadar düz bir çizgide tutun. Dirseklerinizi bükün ve vücudunuzu düz tutarak göğsünüzü duvara doğru indirin. Bir an duraklayın ve ardından kendinizi başlangıç ​​pozisyonuna geri itin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie frente a una pared, a una distancia aproximada de un brazo. Coloca las manos en la pared a la altura de los hombros, un poco más separadas que la anchura de los hombros. Retrocede con los pies, manteniéndolos separados a la altura de las caderas. Activa el core y mantén el cuerpo en línea recta desde la cabeza hasta los talones. Flexiona los codos y baja el pecho hacia la pared, manteniendo el cuerpo recto. Haz una pausa por un momento y luego empújate de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте лицом к стене на расстоянии вытянутой руки. Положите руки на стену на уровне плеч, чуть шире ширины плеч. Отступите ногами назад, держа их на ширине плеч. Напрягите корпус и держите тело на прямой линии от головы до пяток. Согните локти и опустите грудь к стене, сохраняя тело прямым. Сделайте паузу на мгновение, затем вернитесь в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "面向墙壁站立，距离大约一臂距离。 将双手放在墙上，与肩同高，距离略宽于肩宽。 双脚向后退一步，保持与臀部同宽。 收紧核心肌群，保持身体从头到脚跟呈一条直线。 弯曲肘部，将胸部向墙壁降低，保持身体挺直。 暂停片刻，然后将自己推回到起始位置。 重复所需的重复次数。",
+    "hi": "एक हाथ की दूरी पर दीवार की ओर मुंह करके खड़े हो जाएं। अपने हाथों को कंधे की ऊंचाई पर, कंधे की चौड़ाई से थोड़ा चौड़ा, दीवार पर रखें। अपने पैरों को कूल्हे-चौड़ाई से अलग रखते हुए पीछे हटें। अपने कोर को व्यस्त रखें और अपने शरीर को सिर से एड़ी तक एक सीधी रेखा में रखें। अपने शरीर को सीधा रखते हुए अपनी कोहनियों को मोड़ें और अपनी छाती को दीवार की ओर नीचे करें। एक क्षण के लिए रुकें, फिर अपने आप को प्रारंभिक स्थिति में वापस धकेलें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań przodem do ściany, w odległości ramienia. Oprzyj dłonie o ścianę na wysokości barków, nieco szerzej niż szerokość barków. Cofnij stopy, trzymając je w rozkroku na szerokość bioder. Napnij mięśnie brzucha i trzymaj ciało w linii prostej od głowy do pięt. Ugnij łokcie i opuść klatkę piersiową w kierunku ściany, trzymając ciało proste. Zatrzymaj się na chwilę, a następnie odepchnij się z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę razy.",
+    "ko": "벽을 마주보고 팔 길이 정도 거리에 서 있습니다. 손을 어깨 높이의 벽 위에 놓고 어깨 너비보다 약간 넓게 벌립니다. 발을 뒤로 물러나면서 엉덩이 너비로 벌립니다. 코어를 조여 머리에서 발뒤꿈치까지 일직선을 유지합니다. 팔꿈치를 구부려 가슴을 벽 쪽으로 낮추면서 몸을 펴진 상태로 유지합니다. 잠깐 멈춘 후 처음 자세로 밀어올립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi face à un mur, à environ une longueur de bras. Place tes mains sur le mur à hauteur des épaules, un peu plus larges que la largeur des épaules. Recule les pieds, en les gardant écartés à la largeur des hanches. Gaine ta sangle abdominale et garde ton corps en ligne droite de la tête aux talons. Plie tes coudes et abaisse ta poitrine vers le mur en gardant ton corps droit. Marque une pause, puis repousse-toi jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand facing a wall, about arm's length away.",
+      "Place your hands on the wall at shoulder height, slightly wider than shoulder-width apart.",
+      "Step back with your feet, keeping them hip-width apart.",
+      "Engage your core and keep your body in a straight line from head to heels.",
+      "Bend your elbows and lower your chest towards the wall, keeping your body straight.",
+      "Pause for a moment, then push yourself back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Mettiti di fronte a un muro, a circa un braccio di distanza.",
+      "Appoggia le mani sul muro all'altezza delle spalle, leggermente più larghe della larghezza delle spalle.",
+      "Fai un passo indietro con i piedi, tenendoli alla larghezza dei fianchi.",
+      "Coinvolgi il tuo core e mantieni il corpo in linea retta dalla testa ai talloni.",
+      "Piega i gomiti e abbassa il petto verso il muro, mantenendo il corpo dritto.",
+      "Fai una pausa per un momento, quindi ritorna alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Yüzünüz bir duvara dönük, yaklaşık kol boyu uzakta durun.",
+      "Ellerinizi omuz hizasında, omuz genişliğinden biraz daha geniş olacak şekilde duvara dayayın.",
+      "Ayaklarınızı kalça genişliğinde açarak geriye doğru adım atın.",
+      "Merkez bölgenizi harekete geçirin ve vücudunuzu baştan topuklara kadar düz bir çizgide tutun.",
+      "Dirseklerinizi bükün ve vücudunuzu düz tutarak göğsünüzü duvara doğru indirin.",
+      "Bir an duraklayın ve ardından kendinizi başlangıç ​​pozisyonuna geri itin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie frente a una pared, a una distancia aproximada de un brazo.",
+      "Coloca las manos en la pared a la altura de los hombros, un poco más separadas que la anchura de los hombros.",
+      "Retrocede con los pies, manteniéndolos separados a la altura de las caderas.",
+      "Activa el core y mantén el cuerpo en línea recta desde la cabeza hasta los talones.",
+      "Flexiona los codos y baja el pecho hacia la pared, manteniendo el cuerpo recto.",
+      "Haz una pausa por un momento y luego empújate de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте лицом к стене на расстоянии вытянутой руки.",
+      "Положите руки на стену на уровне плеч, чуть шире ширины плеч.",
+      "Отступите ногами назад, держа их на ширине плеч.",
+      "Напрягите корпус и держите тело на прямой линии от головы до пяток.",
+      "Согните локти и опустите грудь к стене, сохраняя тело прямым.",
+      "Сделайте паузу на мгновение, затем вернитесь в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "面向墙壁站立，距离大约一臂距离。",
+      "将双手放在墙上，与肩同高，距离略宽于肩宽。",
+      "双脚向后退一步，保持与臀部同宽。",
+      "收紧核心肌群，保持身体从头到脚跟呈一条直线。",
+      "弯曲肘部，将胸部向墙壁降低，保持身体挺直。",
+      "暂停片刻，然后将自己推回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "एक हाथ की दूरी पर दीवार की ओर मुंह करके खड़े हो जाएं।",
+      "अपने हाथों को कंधे की ऊंचाई पर, कंधे की चौड़ाई से थोड़ा चौड़ा, दीवार पर रखें।",
+      "अपने पैरों को कूल्हे-चौड़ाई से अलग रखते हुए पीछे हटें।",
+      "अपने कोर को व्यस्त रखें और अपने शरीर को सिर से एड़ी तक एक सीधी रेखा में रखें।",
+      "अपने शरीर को सीधा रखते हुए अपनी कोहनियों को मोड़ें और अपनी छाती को दीवार की ओर नीचे करें।",
+      "एक क्षण के लिए रुकें, फिर अपने आप को प्रारंभिक स्थिति में वापस धकेलें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań przodem do ściany, w odległości ramienia.",
+      "Oprzyj dłonie o ścianę na wysokości barków, nieco szerzej niż szerokość barków.",
+      "Cofnij stopy, trzymając je w rozkroku na szerokość bioder.",
+      "Napnij mięśnie brzucha i trzymaj ciało w linii prostej od głowy do pięt.",
+      "Ugnij łokcie i opuść klatkę piersiową w kierunku ściany, trzymając ciało proste.",
+      "Zatrzymaj się na chwilę, a następnie odepchnij się z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "벽을 마주보고 팔 길이 정도 거리에 서 있습니다.",
+      "손을 어깨 높이의 벽 위에 놓고 어깨 너비보다 약간 넓게 벌립니다.",
+      "발을 뒤로 물러나면서 엉덩이 너비로 벌립니다.",
+      "코어를 조여 머리에서 발뒤꿈치까지 일직선을 유지합니다.",
+      "팔꿈치를 구부려 가슴을 벽 쪽으로 낮추면서 몸을 펴진 상태로 유지합니다.",
+      "잠깐 멈춘 후 처음 자세로 밀어올립니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi face à un mur, à environ une longueur de bras.",
+      "Place tes mains sur le mur à hauteur des épaules, un peu plus larges que la largeur des épaules.",
+      "Recule les pieds, en les gardant écartés à la largeur des hanches.",
+      "Gaine ta sangle abdominale et garde ton corps en ligne droite de la tête aux talons.",
+      "Plie tes coudes et abaisse ta poitrine vers le mur en gardant ton corps droit.",
+      "Marque une pause, puis repousse-toi jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "target": "pectorals",
+  "image": "images/0658-NCmbLCw.jpg",
+  "gif_url": "videos/0658-NCmbLCw.gif",
+  "media_id": "NCmbLCw",
+  "created_at": "2026-03-18T12:31:32.888573+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

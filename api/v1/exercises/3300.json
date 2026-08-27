@@ -1,0 +1,103 @@
+{
+  "id": "3300",
+  "name": "lean planche",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Start in a push-up position with your hands shoulder-width apart and your body straight. Engage your core and slowly shift your weight forward, bringing your shoulders past your hands. Keep your elbows slightly bent and your body straight as you lean forward. Hold this position for a few seconds, then slowly return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Inizia in una posizione push-up con le mani alla larghezza delle spalle e il corpo dritto. Coinvolgi il tuo core e sposta lentamente il peso in avanti, portando le spalle oltre le mani. Tieni i gomiti leggermente piegati e il corpo dritto mentre ti pieghi in avanti. Mantieni questa posizione per alcuni secondi, quindi torna lentamente alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Elleriniz omuz genişliğinde açık ve vücudunuz düz olacak şekilde şınav pozisyonuna başlayın. Merkez bölgenizi devreye sokun ve ağırlığınızı yavaşça ileri doğru vererek omuzlarınızı ellerinizin üzerine getirin. Öne doğru eğilirken dirseklerinizi hafifçe bükülü ve vücudunuzu düz tutun. Bu pozisyonu birkaç saniye basılı tutun, ardından yavaşça başlangıç ​​​​pozisyonuna dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Comienza en una posición de flexión con las manos separadas a la altura de los hombros y el cuerpo recto. Activa el core y traslada lentamente el peso hacia adelante, llevando los hombros más allá de las manos. Mantén los codos ligeramente flexionados y el cuerpo recto mientras te inclinas hacia adelante. Mantén esta posición durante unos segundos, luego vuelve lentamente a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Начните с позиции для отжиманий, поставив руки на ширине плеч и выпрямив тело. Напрягите корпус и медленно перенесите вес вперед, выводя плечи за руки. Держите локти слегка согнутыми, а тело прямым, наклоняясь вперед. Удерживайте это положение несколько секунд, затем медленно вернитесь в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "从俯卧撑位置开始，双手分开与肩同宽，身体伸直。 启动你的核心，慢慢地将你的重心向前移动，让你的肩膀越过你的手。 向前倾时，保持肘部稍微弯曲，身体伸直。 保持这个姿势几秒钟，然后慢慢回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने हाथों को कंधे की चौड़ाई पर अलग रखते हुए और अपने शरीर को सीधा रखते हुए पुश-अप स्थिति से शुरुआत करें। अपने कोर को संलग्न करें और धीरे-धीरे अपना वजन आगे बढ़ाएं, अपने कंधों को अपने हाथों से आगे लाएं। आगे की ओर झुकते समय अपनी कोहनियाँ थोड़ी मुड़ी हुई और शरीर सीधा रखें। कुछ सेकंड के लिए इस स्थिति में रहें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Zacznij w pozycji do pompki, dłonie rozstawione na szerokość barków, ciało proste. Napnij mięśnie brzucha i powoli przesuń ciężar ciała do przodu, przenosząc barki poza linię dłoni. Trzymaj łokcie lekko ugięte, a ciało proste, pochylając się do przodu. Przytrzymaj tę pozycję przez kilka sekund, a następnie powoli wróć do pozycji wyjściowej. Powtórz zgodnie z zaplanowaną liczbą powtórzeń.",
+    "ko": "푸시업 자세에서 시작하여 손을 어깨너비로 벌리고 몸을 곧게 유지합니다. 코어에 힘을 주고 천천히 무게를 앞으로 이동하면서 어깨를 손 너머로 가져옵니다. 팔꿈치를 약간 구부린 상태로 유지하고 몸을 곧게 유지하면서 앞으로 기울입니다. 이 자세를 몇 초간 유지한 후 천천히 시작 위치로 돌아옵니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Commence en position de pompe, les mains écartées à la largeur des épaules et le corps bien droit. Gaine ta sangle abdominale et déplace lentement ton poids vers l'avant, en amenant tes épaules au-delà de tes mains. Garde tes coudes légèrement fléchis et ton corps droit pendant que tu te penches vers l'avant. Maintiens cette position pendant quelques secondes, puis reviens lentement à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start in a push-up position with your hands shoulder-width apart and your body straight.",
+      "Engage your core and slowly shift your weight forward, bringing your shoulders past your hands.",
+      "Keep your elbows slightly bent and your body straight as you lean forward.",
+      "Hold this position for a few seconds, then slowly return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia in una posizione push-up con le mani alla larghezza delle spalle e il corpo dritto.",
+      "Coinvolgi il tuo core e sposta lentamente il peso in avanti, portando le spalle oltre le mani.",
+      "Tieni i gomiti leggermente piegati e il corpo dritto mentre ti pieghi in avanti.",
+      "Mantieni questa posizione per alcuni secondi, quindi torna lentamente alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Elleriniz omuz genişliğinde açık ve vücudunuz düz olacak şekilde şınav pozisyonuna başlayın.",
+      "Merkez bölgenizi devreye sokun ve ağırlığınızı yavaşça ileri doğru vererek omuzlarınızı ellerinizin üzerine getirin.",
+      "Öne doğru eğilirken dirseklerinizi hafifçe bükülü ve vücudunuzu düz tutun.",
+      "Bu pozisyonu birkaç saniye basılı tutun, ardından yavaşça başlangıç ​​​​pozisyonuna dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Comienza en una posición de flexión con las manos separadas a la altura de los hombros y el cuerpo recto.",
+      "Activa el core y traslada lentamente el peso hacia adelante, llevando los hombros más allá de las manos.",
+      "Mantén los codos ligeramente flexionados y el cuerpo recto mientras te inclinas hacia adelante.",
+      "Mantén esta posición durante unos segundos, luego vuelve lentamente a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с позиции для отжиманий, поставив руки на ширине плеч и выпрямив тело.",
+      "Напрягите корпус и медленно перенесите вес вперед, выводя плечи за руки.",
+      "Держите локти слегка согнутыми, а тело прямым, наклоняясь вперед.",
+      "Удерживайте это положение несколько секунд, затем медленно вернитесь в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "从俯卧撑位置开始，双手分开与肩同宽，身体伸直。",
+      "启动你的核心，慢慢地将你的重心向前移动，让你的肩膀越过你的手。",
+      "向前倾时，保持肘部稍微弯曲，身体伸直。",
+      "保持这个姿势几秒钟，然后慢慢回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने हाथों को कंधे की चौड़ाई पर अलग रखते हुए और अपने शरीर को सीधा रखते हुए पुश-अप स्थिति से शुरुआत करें।",
+      "अपने कोर को संलग्न करें और धीरे-धीरे अपना वजन आगे बढ़ाएं, अपने कंधों को अपने हाथों से आगे लाएं।",
+      "आगे की ओर झुकते समय अपनी कोहनियाँ थोड़ी मुड़ी हुई और शरीर सीधा रखें।",
+      "कुछ सेकंड के लिए इस स्थिति में रहें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Zacznij w pozycji do pompki, dłonie rozstawione na szerokość barków, ciało proste.",
+      "Napnij mięśnie brzucha i powoli przesuń ciężar ciała do przodu, przenosząc barki poza linię dłoni.",
+      "Trzymaj łokcie lekko ugięte, a ciało proste, pochylając się do przodu.",
+      "Przytrzymaj tę pozycję przez kilka sekund, a następnie powoli wróć do pozycji wyjściowej.",
+      "Powtórz zgodnie z zaplanowaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "푸시업 자세에서 시작하여 손을 어깨너비로 벌리고 몸을 곧게 유지합니다.",
+      "코어에 힘을 주고 천천히 무게를 앞으로 이동하면서 어깨를 손 너머로 가져옵니다.",
+      "팔꿈치를 약간 구부린 상태로 유지하고 몸을 곧게 유지하면서 앞으로 기울입니다.",
+      "이 자세를 몇 초간 유지한 후 천천히 시작 위치로 돌아옵니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Commence en position de pompe, les mains écartées à la largeur des épaules et le corps bien droit.",
+      "Gaine ta sangle abdominale et déplace lentement ton poids vers l'avant, en amenant tes épaules au-delà de tes mains.",
+      "Garde tes coudes légèrement fléchis et ton corps droit pendant que tu te penches vers l'avant.",
+      "Maintiens cette position pendant quelques secondes, puis reviens lentement à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "chest",
+    "triceps"
+  ],
+  "target": "abs",
+  "image": "images/3300-LYJodFS.jpg",
+  "gif_url": "videos/3300-LYJodFS.gif",
+  "media_id": "LYJodFS",
+  "created_at": "2026-03-18T12:31:32.885944+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

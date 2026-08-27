@@ -1,0 +1,102 @@
+{
+  "id": "1001",
+  "name": "band single leg split squat",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "band",
+  "instructions": {
+    "en": "Stand with your feet hip-width apart and place a resistance band around your ankles. Take a big step forward with your right foot and a smaller step back with your left foot. Bend your knees and lower your body until your right thigh is parallel to the ground, keeping your left knee slightly above the ground. Push through your right heel to return to the starting position. Repeat on the other side.",
+    "it": "Stare con i piedi alla larghezza dei fianchi e posizionare una fascia di resistenza attorno alle caviglie. Fai un grande passo avanti con il piede destro e un piccolo passo indietro con il piede sinistro. Piega le ginocchia e abbassa il corpo finché la coscia destra non è parallela al suolo, mantenendo il ginocchio sinistro leggermente sopra il suolo. Spingi attraverso il tallone destro per tornare alla posizione di partenza. Ripeti dall'altra parte.",
+    "tr": "Ayaklarınızı kalça genişliğinde açın ve ayak bileklerinizin etrafına bir direnç bandı yerleştirin. Sağ ayağınızla ileriye doğru büyük bir adım atın ve sol ayağınızla geriye doğru daha küçük bir adım atın. Dizlerinizi bükün ve sağ uyluğunuz yere paralel oluncaya kadar vücudunuzu indirin, sol dizinizi yerden biraz yukarıda tutun. Başlangıç ​​pozisyonuna dönmek için sağ topuğunuzu itin. Diğer tarafta tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de las caderas y coloca una banda elástica alrededor de los tobillos. Da un paso grande hacia adelante con el pie derecho y un paso más pequeño hacia atrás con el pie izquierdo. Flexiona las rodillas y baja el cuerpo hasta que el muslo derecho quede paralelo al suelo, manteniendo la rodilla izquierda ligeramente por encima del suelo. Empuja con el talón derecho para regresar a la posición inicial. Repite del otro lado.",
+    "ru": "Встаньте, ноги на ширине плеч, и наденьте эластичную ленту на лодыжки. Сделайте большой шаг вперед правой ногой и маленький шаг назад левой ногой. Согните колени и опустите тело до тех пор, пока правое бедро не станет параллельно земле, сохраняя левое колено немного выше земли. Оттолкнитесь правой пяткой, чтобы вернуться в исходное положение. Повторите с другой стороны.",
+    "zh": "双脚分开站立，与臀部同宽，将阻力带绕在脚踝上。 右脚向前迈一大步，左脚向后退一小步。 弯曲膝盖并降低身体，直到右大腿与地面平行，保持左膝盖略高于地面。 推动右脚跟回到起始位置。 在另一侧重复。",
+    "hi": "अपने पैरों को कूल्हे-चौड़ाई से अलग करके खड़े हो जाएं और अपनी एड़ियों के चारों ओर एक प्रतिरोध बैंड लगाएं। अपने दाहिने पैर से एक बड़ा कदम आगे बढ़ाएं और अपने बाएं पैर से एक छोटा कदम पीछे लें। अपने घुटनों को मोड़ें और अपने शरीर को तब तक नीचे रखें जब तक कि आपकी दाहिनी जांघ जमीन के समानांतर न हो जाए, अपने बाएं घुटने को जमीन से थोड़ा ऊपर रखें। प्रारंभिक स्थिति में लौटने के लिए अपनी दाहिनी एड़ी को धक्का दें। दूसरी तरफ दोहराएं।",
+    "pl": "Stań w rozkroku na szerokość bioder i umieść taśmę oporową wokół kostek. Zrób duży krok do przodu prawą stopą i mniejszy krok do tyłu lewą stopą. Ugnij kolana i opuść ciało, aż prawe udo będzie równoległe do podłogi, utrzymując lewe kolano lekko nad podłogą. Odepchnij się prawą piętą, aby wrócić do pozycji wyjściowej. Powtórz po drugiej stronie.",
+    "ko": "엉덩이 너비로 발을 벌리고 서서 저항 밴드를 발목 주위에 감습니다. 오른쪽 발로 크게 한 발 앞으로 나가고 왼쪽 발로는 작게 뒤로 물러나갑니다. 무릎을 구부려 몸을 내리면서 오른쪽 넓적다리가 지면과 평행하게 되고 왼쪽 무릎은 약간 지면 위에 있도록 합니다. 오른쪽 발꿈치를 통해 밀어 원래 위치로 돌아옵니다. 다른 쪽에서 반복합니다.",
+    "fr": "Tiens-toi les pieds écartés à la largeur des hanches et place un élastique autour de tes chevilles. Fais un grand pas en avant avec le pied droit et un plus petit pas en arrière avec le pied gauche. Fléchis les genoux et abaisse ton corps jusqu'à ce que ta cuisse droite soit parallèle au sol, en gardant ton genou gauche légèrement au-dessus du sol. Pousse à travers ton talon droit pour revenir à la position de départ. Répète de l'autre côté."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet hip-width apart and place a resistance band around your ankles.",
+      "Take a big step forward with your right foot and a smaller step back with your left foot.",
+      "Bend your knees and lower your body until your right thigh is parallel to the ground, keeping your left knee slightly above the ground.",
+      "Push through your right heel to return to the starting position.",
+      "Repeat on the other side."
+    ],
+    "it": [
+      "Stare con i piedi alla larghezza dei fianchi e posizionare una fascia di resistenza attorno alle caviglie.",
+      "Fai un grande passo avanti con il piede destro e un piccolo passo indietro con il piede sinistro.",
+      "Piega le ginocchia e abbassa il corpo finché la coscia destra non è parallela al suolo, mantenendo il ginocchio sinistro leggermente sopra il suolo.",
+      "Spingi attraverso il tallone destro per tornare alla posizione di partenza.",
+      "Ripeti dall'altra parte."
+    ],
+    "tr": [
+      "Ayaklarınızı kalça genişliğinde açın ve ayak bileklerinizin etrafına bir direnç bandı yerleştirin.",
+      "Sağ ayağınızla ileriye doğru büyük bir adım atın ve sol ayağınızla geriye doğru daha küçük bir adım atın.",
+      "Dizlerinizi bükün ve sağ uyluğunuz yere paralel oluncaya kadar vücudunuzu indirin, sol dizinizi yerden biraz yukarıda tutun.",
+      "Başlangıç ​​pozisyonuna dönmek için sağ topuğunuzu itin.",
+      "Diğer tarafta tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de las caderas y coloca una banda elástica alrededor de los tobillos.",
+      "Da un paso grande hacia adelante con el pie derecho y un paso más pequeño hacia atrás con el pie izquierdo.",
+      "Flexiona las rodillas y baja el cuerpo hasta que el muslo derecho quede paralelo al suelo, manteniendo la rodilla izquierda ligeramente por encima del suelo.",
+      "Empuja con el talón derecho para regresar a la posición inicial.",
+      "Repite del otro lado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, и наденьте эластичную ленту на лодыжки.",
+      "Сделайте большой шаг вперед правой ногой и маленький шаг назад левой ногой.",
+      "Согните колени и опустите тело до тех пор, пока правое бедро не станет параллельно земле, сохраняя левое колено немного выше земли.",
+      "Оттолкнитесь правой пяткой, чтобы вернуться в исходное положение.",
+      "Повторите с другой стороны."
+    ],
+    "zh": [
+      "双脚分开站立，与臀部同宽，将阻力带绕在脚踝上。",
+      "右脚向前迈一大步，左脚向后退一小步。",
+      "弯曲膝盖并降低身体，直到右大腿与地面平行，保持左膝盖略高于地面。",
+      "推动右脚跟回到起始位置。",
+      "在另一侧重复。"
+    ],
+    "hi": [
+      "अपने पैरों को कूल्हे-चौड़ाई से अलग करके खड़े हो जाएं और अपनी एड़ियों के चारों ओर एक प्रतिरोध बैंड लगाएं।",
+      "अपने दाहिने पैर से एक बड़ा कदम आगे बढ़ाएं और अपने बाएं पैर से एक छोटा कदम पीछे लें।",
+      "अपने घुटनों को मोड़ें और अपने शरीर को तब तक नीचे रखें जब तक कि आपकी दाहिनी जांघ जमीन के समानांतर न हो जाए, अपने बाएं घुटने को जमीन से थोड़ा ऊपर रखें।",
+      "प्रारंभिक स्थिति में लौटने के लिए अपनी दाहिनी एड़ी को धक्का दें।",
+      "दूसरी तरफ दोहराएं।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość bioder i umieść taśmę oporową wokół kostek.",
+      "Zrób duży krok do przodu prawą stopą i mniejszy krok do tyłu lewą stopą.",
+      "Ugnij kolana i opuść ciało, aż prawe udo będzie równoległe do podłogi, utrzymując lewe kolano lekko nad podłogą.",
+      "Odepchnij się prawą piętą, aby wrócić do pozycji wyjściowej.",
+      "Powtórz po drugiej stronie."
+    ],
+    "ko": [
+      "엉덩이 너비로 발을 벌리고 서서 저항 밴드를 발목 주위에 감습니다.",
+      "오른쪽 발로 크게 한 발 앞으로 나가고 왼쪽 발로는 작게 뒤로 물러나갑니다.",
+      "무릎을 구부려 몸을 내리면서 오른쪽 넓적다리가 지면과 평행하게 되고 왼쪽 무릎은 약간 지면 위에 있도록 합니다.",
+      "오른쪽 발꿈치를 통해 밀어 원래 위치로 돌아옵니다.",
+      "다른 쪽에서 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi les pieds écartés à la largeur des hanches et place un élastique autour de tes chevilles.",
+      "Fais un grand pas en avant avec le pied droit et un plus petit pas en arrière avec le pied gauche.",
+      "Fléchis les genoux et abaisse ton corps jusqu'à ce que ta cuisse droite soit parallèle au sol, en gardant ton genou gauche légèrement au-dessus du sol.",
+      "Pousse à travers ton talon droit pour revenir à la position de départ.",
+      "Répète de l'autre côté."
+    ]
+  },
+  "muscle_group": "glutes",
+  "secondary_muscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "target": "quads",
+  "image": "images/1001-y8bYM8w.jpg",
+  "gif_url": "videos/1001-y8bYM8w.gif",
+  "media_id": "y8bYM8w",
+  "created_at": "2026-03-18T12:31:32.869826+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

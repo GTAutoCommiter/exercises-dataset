@@ -1,0 +1,122 @@
+{
+  "id": "1322",
+  "name": "cable rope extension incline bench row",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Set up an incline bench at a 45-degree angle and attach a cable machine to the low pulley. Attach a rope handle to the cable machine and sit on the incline bench facing the machine. Grab the rope handle with an overhand grip and lean forward, keeping your back straight. Extend your arms fully, pulling the rope towards your upper chest while keeping your elbows close to your body. Squeeze your shoulder blades together at the end of the movement. Slowly release the tension and return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Installa una panca inclinata a 45 gradi e collega una macchina a cavo alla puleggia bassa. Attacca una maniglia di corda alla macchina a cavo e siediti sulla panca inclinata rivolta verso la macchina. Afferra la maniglia della corda con una presa sopra la mano e inclinati in avanti, tenendo la schiena dritta. Allunga completamente le braccia, tirando la corda verso la parte superiore del petto mentre tieni i gomiti vicini al corpo. Stringi le scapole insieme alla fine del movimento. Rilascia lentamente la tensione e torna alla posizione di partenza. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "45 derecelik bir açıyla eğimli bir tezgah kurun ve alçak makaraya bir kablo makinesi bağlayın. Kablo makinesine bir halat sapı takın ve makineye dönük eğimli bankta oturun. İpin sapını üstten kavrayın ve sırtınızı düz tutarak öne doğru eğin. Dirseklerinizi vücudunuza yakın tutarak ipi üst göğsünüze doğru çekerek kollarınızı tamamen uzatın. Hareketin sonunda kürek kemiklerinizi birbirine doğru sıkın. Gerginliği yavaşça bırakın ve başlangıç ​​pozisyonuna dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Coloca un banco inclinado a un ángulo de 45 grados y sujeta una máquina de cable a la polea baja. Sujeta una agarradera de cuerda a la máquina de cable y siéntate en el banco inclinado frente a la máquina. Agarra la agarradera de cuerda con un agarre prono e inclínate hacia adelante, manteniendo la espalda recta. Extiende los brazos por completo, jalando la cuerda hacia la parte superior del pecho mientras mantienes los codos cerca del cuerpo. Aprieta los omóplatos al final del movimiento. Libera lentamente la tensión y vuelve a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Установите наклонную скамью под углом 45 градусов и прикрепите тросовую машину к нижнему шкиву. Прикрепите веревочную ручку к канатному тренажеру и сядьте на наклонную скамью лицом к тренажеру. Возьмитесь за рукоятку веревки верхним хватом и наклонитесь вперед, держа спину прямо. Полностью выпрямите руки, потянув веревку к верхней части груди, сохраняя при этом локти близко к телу. В конце движения сведите лопатки вместе. Медленно ослабьте напряжение и вернитесь в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "以 45 度角设置上斜凳，并将绳索机连接到低滑轮上。 将绳索手柄连接到缆绳机上，然后坐在面向机器的倾斜长凳上。 正手抓住绳索把手，身体前倾，保持背部挺直。 充分伸展双臂，将绳子拉向上胸部，同时保持肘部靠近身体。 在动作结束时将肩胛骨挤压在一起。 慢慢释放张力并回到起始位置。 重复所需的重复次数。",
+    "hi": "45-डिग्री के कोण पर एक झुकी हुई बेंच स्थापित करें और एक केबल मशीन को निचली चरखी से जोड़ दें। केबल मशीन में एक रस्सी का हैंडल जोड़ें और मशीन के सामने झुकी हुई बेंच पर बैठें। रस्सी के हैंडल को ओवरहैंड ग्रिप से पकड़ें और अपनी पीठ सीधी रखते हुए आगे की ओर झुकें। अपनी बाहों को पूरी तरह फैलाएं, अपनी कोहनियों को अपने शरीर के करीब रखते हुए रस्सी को अपनी ऊपरी छाती की ओर खींचें। आंदोलन के अंत में अपने कंधे के ब्लेड को एक साथ निचोड़ें। धीरे-धीरे तनाव छोड़ें और प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Ustaw ławkę skośną pod kątem 45 stopni i podłącz wyciąg do dolnego bloczka. Podłącz uchwyt z liną do wyciągu i usiądź na ławce skośnej przodem do maszyny. Chwyć uchwyt z liną nachwytem i pochyl się do przodu, utrzymując proste plecy. Całkowicie wyprostuj ramiona, przyciągając linę do górnej części klatki piersiowej, trzymając łokcie blisko ciała. Ściśnij łopatki na końcu ruchu. Powoli zwolnij napięcie i wróć do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "인클라인 벤치를 45도 각도로 설정하고 케이블 머신을 낮은 풀리에 장착합니다. 로프 핸들을 케이블 머신에 장착하고 머신을 향해 인클라인 벤치에 앉습니다. 오버그립으로 로프 핸들을 잡고 앞으로 기울이면서 등을 곧게 펼칩니다. 팔을 완전히 펴면서 로프를 상부 가슴을 향해 당기고 팔꿈치를 몸 쪽에 붙입니다. 동작의 끝에서 어깨 뼈를 모아 짜줍니다. 천천히 긴장을 풀고 시작 위치로 돌아옵니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Installe un banc incliné à un angle de 45 degrés et fixe un câble à la poulie basse. Fixe une poignée à corde à la machine à câble et assieds-toi sur le banc incliné face à la machine. Saisis la poignée de la corde avec une prise en pronation et penche-toi en avant, en gardant ton dos droit. Étends complètement tes bras, en tirant la corde vers le haut de ta poitrine tout en gardant tes coudes près de ton corps. Contracte tes omoplates l'une vers l'autre à la fin du mouvement. Relâche lentement la tension et reviens à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Set up an incline bench at a 45-degree angle and attach a cable machine to the low pulley.",
+      "Attach a rope handle to the cable machine and sit on the incline bench facing the machine.",
+      "Grab the rope handle with an overhand grip and lean forward, keeping your back straight.",
+      "Extend your arms fully, pulling the rope towards your upper chest while keeping your elbows close to your body.",
+      "Squeeze your shoulder blades together at the end of the movement.",
+      "Slowly release the tension and return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Installa una panca inclinata a 45 gradi e collega una macchina a cavo alla puleggia bassa.",
+      "Attacca una maniglia di corda alla macchina a cavo e siediti sulla panca inclinata rivolta verso la macchina.",
+      "Afferra la maniglia della corda con una presa sopra la mano e inclinati in avanti, tenendo la schiena dritta.",
+      "Allunga completamente le braccia, tirando la corda verso la parte superiore del petto mentre tieni i gomiti vicini al corpo.",
+      "Stringi le scapole insieme alla fine del movimento.",
+      "Rilascia lentamente la tensione e torna alla posizione di partenza.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "45 derecelik bir açıyla eğimli bir tezgah kurun ve alçak makaraya bir kablo makinesi bağlayın.",
+      "Kablo makinesine bir halat sapı takın ve makineye dönük eğimli bankta oturun.",
+      "İpin sapını üstten kavrayın ve sırtınızı düz tutarak öne doğru eğin.",
+      "Dirseklerinizi vücudunuza yakın tutarak ipi üst göğsünüze doğru çekerek kollarınızı tamamen uzatın.",
+      "Hareketin sonunda kürek kemiklerinizi birbirine doğru sıkın.",
+      "Gerginliği yavaşça bırakın ve başlangıç ​​pozisyonuna dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Coloca un banco inclinado a un ángulo de 45 grados y sujeta una máquina de cable a la polea baja.",
+      "Sujeta una agarradera de cuerda a la máquina de cable y siéntate en el banco inclinado frente a la máquina.",
+      "Agarra la agarradera de cuerda con un agarre prono e inclínate hacia adelante, manteniendo la espalda recta.",
+      "Extiende los brazos por completo, jalando la cuerda hacia la parte superior del pecho mientras mantienes los codos cerca del cuerpo.",
+      "Aprieta los omóplatos al final del movimiento.",
+      "Libera lentamente la tensión y vuelve a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Установите наклонную скамью под углом 45 градусов и прикрепите тросовую машину к нижнему шкиву.",
+      "Прикрепите веревочную ручку к канатному тренажеру и сядьте на наклонную скамью лицом к тренажеру.",
+      "Возьмитесь за рукоятку веревки верхним хватом и наклонитесь вперед, держа спину прямо.",
+      "Полностью выпрямите руки, потянув веревку к верхней части груди, сохраняя при этом локти близко к телу.",
+      "В конце движения сведите лопатки вместе.",
+      "Медленно ослабьте напряжение и вернитесь в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "以 45 度角设置上斜凳，并将绳索机连接到低滑轮上。",
+      "将绳索手柄连接到缆绳机上，然后坐在面向机器的倾斜长凳上。",
+      "正手抓住绳索把手，身体前倾，保持背部挺直。",
+      "充分伸展双臂，将绳子拉向上胸部，同时保持肘部靠近身体。",
+      "在动作结束时将肩胛骨挤压在一起。",
+      "慢慢释放张力并回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "45-डिग्री के कोण पर एक झुकी हुई बेंच स्थापित करें और एक केबल मशीन को निचली चरखी से जोड़ दें।",
+      "केबल मशीन में एक रस्सी का हैंडल जोड़ें और मशीन के सामने झुकी हुई बेंच पर बैठें।",
+      "रस्सी के हैंडल को ओवरहैंड ग्रिप से पकड़ें और अपनी पीठ सीधी रखते हुए आगे की ओर झुकें।",
+      "अपनी बाहों को पूरी तरह फैलाएं, अपनी कोहनियों को अपने शरीर के करीब रखते हुए रस्सी को अपनी ऊपरी छाती की ओर खींचें।",
+      "आंदोलन के अंत में अपने कंधे के ब्लेड को एक साथ निचोड़ें।",
+      "धीरे-धीरे तनाव छोड़ें और प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Ustaw ławkę skośną pod kątem 45 stopni i podłącz wyciąg do dolnego bloczka.",
+      "Podłącz uchwyt z liną do wyciągu i usiądź na ławce skośnej przodem do maszyny.",
+      "Chwyć uchwyt z liną nachwytem i pochyl się do przodu, utrzymując proste plecy.",
+      "Całkowicie wyprostuj ramiona, przyciągając linę do górnej części klatki piersiowej, trzymając łokcie blisko ciała.",
+      "Ściśnij łopatki na końcu ruchu.",
+      "Powoli zwolnij napięcie i wróć do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "인클라인 벤치를 45도 각도로 설정하고 케이블 머신을 낮은 풀리에 장착합니다.",
+      "로프 핸들을 케이블 머신에 장착하고 머신을 향해 인클라인 벤치에 앉습니다.",
+      "오버그립으로 로프 핸들을 잡고 앞으로 기울이면서 등을 곧게 펼칩니다.",
+      "팔을 완전히 펴면서 로프를 상부 가슴을 향해 당기고 팔꿈치를 몸 쪽에 붙입니다.",
+      "동작의 끝에서 어깨 뼈를 모아 짜줍니다.",
+      "천천히 긴장을 풀고 시작 위치로 돌아옵니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Installe un banc incliné à un angle de 45 degrés et fixe un câble à la poulie basse.",
+      "Fixe une poignée à corde à la machine à câble et assieds-toi sur le banc incliné face à la machine.",
+      "Saisis la poignée de la corde avec une prise en pronation et penche-toi en avant, en gardant ton dos droit.",
+      "Étends complètement tes bras, en tirant la corde vers le haut de ta poitrine tout en gardant tes coudes près de ton corps.",
+      "Contracte tes omoplates l'une vers l'autre à la fin du mouvement.",
+      "Relâche lentement la tension et reviens à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "shoulders"
+  ],
+  "target": "upper back",
+  "image": "images/1322-MgKwAAo.jpg",
+  "gif_url": "videos/1322-MgKwAAo.gif",
+  "media_id": "MgKwAAo",
+  "created_at": "2026-03-18T12:31:32.87572+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

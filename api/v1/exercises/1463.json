@@ -1,0 +1,113 @@
+{
+  "id": "1463",
+  "name": "sled 45° leg press (side pov)",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "sled machine",
+  "instructions": {
+    "en": "Adjust the seat of the sled machine so that your knees are at a 90-degree angle when your feet are on the footplate. Sit on the sled machine with your back flat against the backrest and your feet shoulder-width apart on the footplate. Grip the handles on the sides of the seat for stability. Push against the footplate to extend your legs, straightening them completely. Pause for a moment at the top, then slowly bend your knees to lower the footplate back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Regola il sedile della macchina da slitta in modo che le ginocchia formino un angolo di 90 gradi quando i piedi sono sulla pedana. Sedersi sulla macchina da slitta con la schiena appoggiata allo schienale e i piedi alla larghezza delle spalle sulla pedana. Afferrare le maniglie ai lati del sedile per garantire stabilità. Spingere contro la pedana per estendere le gambe, raddrizzandole completamente. Fermati per un momento in alto, quindi piega lentamente le ginocchia per riportare la pedana nella posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Kızak makinesinin koltuğunu, ayaklarınız taban plakası üzerindeyken dizleriniz 90 derecelik bir açıda olacak şekilde ayarlayın. Sırtınız sırt dayanağına yaslı ve ayaklarınız taban plakası üzerinde omuz genişliğinde açık olacak şekilde kızak makinesine oturun. Denge için koltuğun yanlarındaki tutamakları tutun. Bacaklarınızı uzatmak ve tamamen düzleştirmek için ayak plakasını itin. Tepe noktasında bir an duraklayın, ardından ayak plakasını tekrar başlangıç ​​pozisyonuna indirmek için dizlerinizi yavaşça bükün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta el asiento de la máquina de trineo de modo que las rodillas queden en un ángulo de 90 grados cuando los pies estén sobre la placa. Siéntate en la máquina de trineo con la espalda plana contra el respaldo y los pies separados a la altura de los hombros sobre la placa. Sujeta las asas a los lados del asiento para mayor estabilidad. Empuja contra la placa para extender las piernas, estirándolas por completo. Haz una pausa por un momento en la posición alta, luego dobla lentamente las rodillas para bajar la placa de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Отрегулируйте сиденье саней так, чтобы колени находились под углом 90 градусов, когда ступни стоят на подножке. Сядьте на санки, прижав спину к спинке и поставив ноги на подножку на ширине плеч. Возьмитесь за ручки по бокам сиденья для устойчивости. Надавите на подножку, чтобы вытянуть ноги и полностью их выпрямить. Задержитесь на мгновение в верхней точке, затем медленно согните колени, чтобы опустить подножку обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "调整雪橇机的座椅，使双脚放在踏板上时膝盖呈90度角。 坐在雪橇机上，背部平放在靠背上，双脚与肩同宽放在踏板上。 握住座椅两侧的把手以保持稳定性。 推动脚踏板以伸展双腿，将其完全伸直。 在顶部停顿片刻，然后慢慢弯曲膝盖，将踏板放回起始位置。 重复所需的重复次数。",
+    "hi": "स्लेज मशीन की सीट को समायोजित करें ताकि जब आपके पैर फ़ुटप्लेट पर हों तो आपके घुटने 90 डिग्री के कोण पर हों। स्लेज मशीन पर अपनी पीठ बैकरेस्ट के सामने सपाट करके और अपने पैरों को फ़ुटप्लेट पर कंधे की चौड़ाई से अलग करके बैठें। स्थिरता के लिए सीट के किनारों पर हैंडल पकड़ें। अपने पैरों को पूरी तरह से सीधा करते हुए, उन्हें फैलाने के लिए फ़ुटप्लेट पर दबाव डालें। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने घुटनों को मोड़कर फ़ुटप्लेट को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Wyreguluj siedzisko suwnicy tak, aby kolana znajdowały się pod kątem 90 stopni, gdy stopy są oparte na platformie. Usiądź na suwnicy, opierając plecy płasko o oparcie, a stopy rozstawione na szerokość barków na platformie. Chwyć uchwyty po bokach siedziska dla stabilności. Naciśnij platformę, aby wyprostować nogi, prostując je całkowicie. Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli ugnij kolana, aby opuścić platformę z powrotem do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "슬래드 머신의 시트를 발을 발판에 놓았을 때 무릎이 90도 각도가 되도록 조정하세요. 슬래드에 앉아서 등을 등받이에 평평하게 붙이고 발을 어깨 너비만큼 벌려서 발판에 놓으세요. 안정성을 위해 시트 양옆의 손잡이를 잡으세요. 발판을 밀어 다리를 완전히 펴세요. 정상에서 잠깐 멈춘 후 무릎을 천천히 구부려 발판을 시작 자세로 내려놓으세요. 원하는 반복 횟수만큼 반복하세요.",
+    "fr": "Règle le siège de la machine à traîneau de sorte que tes genoux forment un angle de 90 degrés lorsque tes pieds sont sur le repose-pieds. Assieds-toi sur la machine à traîneau, le dos bien à plat contre le dossier et les pieds écartés à la largeur des épaules sur la plaque de pied. Saisis les poignées sur les côtés du siège pour te stabiliser. Pousse contre le repose-pieds pour étendre tes jambes en les tendant complètement. Marque une pause en haut, puis fléchis lentement tes genoux pour abaisser la plateforme et revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the seat of the sled machine so that your knees are at a 90-degree angle when your feet are on the footplate.",
+      "Sit on the sled machine with your back flat against the backrest and your feet shoulder-width apart on the footplate.",
+      "Grip the handles on the sides of the seat for stability.",
+      "Push against the footplate to extend your legs, straightening them completely.",
+      "Pause for a moment at the top, then slowly bend your knees to lower the footplate back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Regola il sedile della macchina da slitta in modo che le ginocchia formino un angolo di 90 gradi quando i piedi sono sulla pedana.",
+      "Sedersi sulla macchina da slitta con la schiena appoggiata allo schienale e i piedi alla larghezza delle spalle sulla pedana.",
+      "Afferrare le maniglie ai lati del sedile per garantire stabilità.",
+      "Spingere contro la pedana per estendere le gambe, raddrizzandole completamente.",
+      "Fermati per un momento in alto, quindi piega lentamente le ginocchia per riportare la pedana nella posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Kızak makinesinin koltuğunu, ayaklarınız taban plakası üzerindeyken dizleriniz 90 derecelik bir açıda olacak şekilde ayarlayın.",
+      "Sırtınız sırt dayanağına yaslı ve ayaklarınız taban plakası üzerinde omuz genişliğinde açık olacak şekilde kızak makinesine oturun.",
+      "Denge için koltuğun yanlarındaki tutamakları tutun.",
+      "Bacaklarınızı uzatmak ve tamamen düzleştirmek için ayak plakasını itin.",
+      "Tepe noktasında bir an duraklayın, ardından ayak plakasını tekrar başlangıç ​​pozisyonuna indirmek için dizlerinizi yavaşça bükün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta el asiento de la máquina de trineo de modo que las rodillas queden en un ángulo de 90 grados cuando los pies estén sobre la placa.",
+      "Siéntate en la máquina de trineo con la espalda plana contra el respaldo y los pies separados a la altura de los hombros sobre la placa.",
+      "Sujeta las asas a los lados del asiento para mayor estabilidad.",
+      "Empuja contra la placa para extender las piernas, estirándolas por completo.",
+      "Haz una pausa por un momento en la posición alta, luego dobla lentamente las rodillas para bajar la placa de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Отрегулируйте сиденье саней так, чтобы колени находились под углом 90 градусов, когда ступни стоят на подножке.",
+      "Сядьте на санки, прижав спину к спинке и поставив ноги на подножку на ширине плеч.",
+      "Возьмитесь за ручки по бокам сиденья для устойчивости.",
+      "Надавите на подножку, чтобы вытянуть ноги и полностью их выпрямить.",
+      "Задержитесь на мгновение в верхней точке, затем медленно согните колени, чтобы опустить подножку обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "调整雪橇机的座椅，使双脚放在踏板上时膝盖呈90度角。",
+      "坐在雪橇机上，背部平放在靠背上，双脚与肩同宽放在踏板上。",
+      "握住座椅两侧的把手以保持稳定性。",
+      "推动脚踏板以伸展双腿，将其完全伸直。",
+      "在顶部停顿片刻，然后慢慢弯曲膝盖，将踏板放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "स्लेज मशीन की सीट को समायोजित करें ताकि जब आपके पैर फ़ुटप्लेट पर हों तो आपके घुटने 90 डिग्री के कोण पर हों।",
+      "स्लेज मशीन पर अपनी पीठ बैकरेस्ट के सामने सपाट करके और अपने पैरों को फ़ुटप्लेट पर कंधे की चौड़ाई से अलग करके बैठें।",
+      "स्थिरता के लिए सीट के किनारों पर हैंडल पकड़ें।",
+      "अपने पैरों को पूरी तरह से सीधा करते हुए, उन्हें फैलाने के लिए फ़ुटप्लेट पर दबाव डालें।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने घुटनों को मोड़कर फ़ुटप्लेट को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Wyreguluj siedzisko suwnicy tak, aby kolana znajdowały się pod kątem 90 stopni, gdy stopy są oparte na platformie.",
+      "Usiądź na suwnicy, opierając plecy płasko o oparcie, a stopy rozstawione na szerokość barków na platformie.",
+      "Chwyć uchwyty po bokach siedziska dla stabilności.",
+      "Naciśnij platformę, aby wyprostować nogi, prostując je całkowicie.",
+      "Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli ugnij kolana, aby opuścić platformę z powrotem do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "슬래드 머신의 시트를 발을 발판에 놓았을 때 무릎이 90도 각도가 되도록 조정하세요.",
+      "슬래드에 앉아서 등을 등받이에 평평하게 붙이고 발을 어깨 너비만큼 벌려서 발판에 놓으세요.",
+      "안정성을 위해 시트 양옆의 손잡이를 잡으세요.",
+      "발판을 밀어 다리를 완전히 펴세요.",
+      "정상에서 잠깐 멈춘 후 무릎을 천천히 구부려 발판을 시작 자세로 내려놓으세요.",
+      "원하는 반복 횟수만큼 반복하세요."
+    ],
+    "fr": [
+      "Règle le siège de la machine à traîneau de sorte que tes genoux forment un angle de 90 degrés lorsque tes pieds sont sur le repose-pieds.",
+      "Assieds-toi sur la machine à traîneau, le dos bien à plat contre le dossier et les pieds écartés à la largeur des épaules sur la plaque de pied.",
+      "Saisis les poignées sur les côtés du siège pour te stabiliser.",
+      "Pousse contre le repose-pieds pour étendre tes jambes en les tendant complètement.",
+      "Marque une pause en haut, puis fléchis lentement tes genoux pour abaisser la plateforme et revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "glutes",
+  "image": "images/1463-2Qh2J1e.jpg",
+  "gif_url": "videos/1463-2Qh2J1e.gif",
+  "media_id": "2Qh2J1e",
+  "created_at": "2026-03-18T12:31:32.890208+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

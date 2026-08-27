@@ -1,0 +1,102 @@
+{
+  "id": "0522",
+  "name": "kettlebell alternating row",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "kettlebell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart, knees slightly bent, and hold a kettlebell in each hand with your palms facing your body. Bend forward at the hips, keeping your back straight and your core engaged. Pull one kettlebell up towards your chest, keeping your elbow close to your body and squeezing your shoulder blades together. Lower the kettlebell back down to the starting position and repeat with the other arm. Continue alternating arms for the desired number of repetitions.",
+    "it": "Stare con i piedi alla larghezza delle spalle, le ginocchia leggermente piegate e tenere un kettlebell in ciascuna mano con i palmi rivolti verso il corpo. Piegati in avanti sui fianchi, mantenendo la schiena dritta e il core impegnato. Tira un kettlebell verso il petto, mantenendo il gomito vicino al corpo e stringendo insieme le scapole. Abbassare nuovamente il kettlebell nella posizione iniziale e ripetere con l'altro braccio. Continua ad alternare le braccia per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınızı omuz genişliğinde açın, dizlerinizi hafifçe bükün ve avuçlarınız vücudunuza bakacak şekilde her iki elinizde bir kettlebell tutun. Kalçalarınızı öne doğru eğin, sırtınızı düz ve merkez bölgenizi meşgul tutun. Bir kettlebell'i göğsünüze doğru çekin, dirseğinizi vücudunuza yakın tutun ve kürek kemiklerinizi birbirine sıkıştırın. Kettlebell'i tekrar başlangıç ​​pozisyonuna indirin ve hareketi diğer kolunuzla tekrarlayın. İstenilen sayıda tekrar için kolları değiştirerek devam edin.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros, las rodillas ligeramente flexionadas, y sostén una pesa rusa en cada mano con las palmas hacia el cuerpo. Inclínate hacia adelante desde las caderas, manteniendo la espalda recta y el core activado. Tira de una pesa rusa hacia el pecho, manteniendo el codo cerca del cuerpo y apretando los omóplatos entre sí. Baja la pesa rusa de nuevo a la posición inicial y repite con el otro brazo. Continúa alternando los brazos durante el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, колени слегка согнуты, в каждой руке держите по гире ладонями к телу. Наклонитесь вперед в бедрах, сохраняя спину прямой и напряженный корпус. Подтяните одну гирю к груди, держа локоть близко к телу и сжимая лопатки вместе. Опустите гирю обратно в исходное положение и повторите то же самое с другой рукой. Продолжайте чередовать руки желаемое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，膝盖稍微弯曲，双手各握一个壶铃，手掌朝向身体。 臀部向前弯曲，保持背部挺直，核心肌群参与。 将一个壶铃向上拉向胸部，保持肘部靠近身体并将肩胛骨挤压在一起。 将壶铃放回起始位置，然后用另一只手臂重复该动作。 继续交替手臂进行所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, घुटने थोड़े मुड़े हुए हों और अपनी हथेलियों को अपने शरीर की ओर रखते हुए प्रत्येक हाथ में एक केटलबेल पकड़ें। अपनी पीठ को सीधा रखते हुए और अपने कोर को व्यस्त रखते हुए, कूल्हों के बल आगे की ओर झुकें। एक केटलबेल को अपनी छाती की ओर खींचें, अपनी कोहनी को अपने शरीर के करीब रखें और अपने कंधे के ब्लेड को एक साथ निचोड़ें। केटलबेल को वापस प्रारंभिक स्थिति में लाएँ और दूसरे हाथ से दोहराएँ। दोहराव की वांछित संख्या के लिए भुजाओं को बारी-बारी से जारी रखें।",
+    "pl": "Stań ze stopami rozstawionymi na szerokość barków, kolana lekko ugięte, i trzymaj kettlebell w każdej dłoni, dłonie skierowane w stronę ciała. Pochyl się do przodu w biodrach, utrzymując proste plecy i napięte mięśnie brzucha. Podciągnij jeden kettlebell w stronę klatki piersiowej, trzymając łokieć blisko ciała i ściskając łopatki. Opuść kettlebell z powrotem do pozycji wyjściowej i powtórz drugą ręką. Kontynuuj naprzemienne wykonywanie ruchu zgodnie z zaplanowaną liczbą powtórzeń.",
+    "ko": "양쪽 손에 케틀벨을 잡고 다리를 어깨 너비로 벌리고 무릎을 살짝 구부립니다. 허리에서 구부리면서 등을 곧게 펴고 코어에 힘을 줍니다. 팔꿈치를 몸에 붙이고 한 쪽 케틀벨을 가슴 쪽으로 당기면서 어깨 날개뼈를 모아줍니다. 케틀벨을 처음 위치로 낮추고 다른 팔로 반복합니다. 원하는 반복 횟수까지 팔을 교대로 계속 움직입니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules, les genoux légèrement fléchis, et tiens un kettlebell dans chaque main, paumes tournées vers ton corps. Penche-toi vers l'avant au niveau des hanches en gardant ton dos droit et ta sangle abdominale gainée. Tire un kettlebell vers ta poitrine, en gardant ton coude près de ton corps et en contractant tes omoplates. Abaisse le kettlebell jusqu'à la position de départ et répète avec l'autre bras. Continue à alterner les bras pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart, knees slightly bent, and hold a kettlebell in each hand with your palms facing your body.",
+      "Bend forward at the hips, keeping your back straight and your core engaged.",
+      "Pull one kettlebell up towards your chest, keeping your elbow close to your body and squeezing your shoulder blades together.",
+      "Lower the kettlebell back down to the starting position and repeat with the other arm.",
+      "Continue alternating arms for the desired number of repetitions."
+    ],
+    "it": [
+      "Stare con i piedi alla larghezza delle spalle, le ginocchia leggermente piegate e tenere un kettlebell in ciascuna mano con i palmi rivolti verso il corpo.",
+      "Piegati in avanti sui fianchi, mantenendo la schiena dritta e il core impegnato.",
+      "Tira un kettlebell verso il petto, mantenendo il gomito vicino al corpo e stringendo insieme le scapole.",
+      "Abbassare nuovamente il kettlebell nella posizione iniziale e ripetere con l'altro braccio.",
+      "Continua ad alternare le braccia per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınızı omuz genişliğinde açın, dizlerinizi hafifçe bükün ve avuçlarınız vücudunuza bakacak şekilde her iki elinizde bir kettlebell tutun.",
+      "Kalçalarınızı öne doğru eğin, sırtınızı düz ve merkez bölgenizi meşgul tutun.",
+      "Bir kettlebell'i göğsünüze doğru çekin, dirseğinizi vücudunuza yakın tutun ve kürek kemiklerinizi birbirine sıkıştırın.",
+      "Kettlebell'i tekrar başlangıç ​​pozisyonuna indirin ve hareketi diğer kolunuzla tekrarlayın.",
+      "İstenilen sayıda tekrar için kolları değiştirerek devam edin."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros, las rodillas ligeramente flexionadas, y sostén una pesa rusa en cada mano con las palmas hacia el cuerpo.",
+      "Inclínate hacia adelante desde las caderas, manteniendo la espalda recta y el core activado.",
+      "Tira de una pesa rusa hacia el pecho, manteniendo el codo cerca del cuerpo y apretando los omóplatos entre sí.",
+      "Baja la pesa rusa de nuevo a la posición inicial y repite con el otro brazo.",
+      "Continúa alternando los brazos durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, колени слегка согнуты, в каждой руке держите по гире ладонями к телу.",
+      "Наклонитесь вперед в бедрах, сохраняя спину прямой и напряженный корпус.",
+      "Подтяните одну гирю к груди, держа локоть близко к телу и сжимая лопатки вместе.",
+      "Опустите гирю обратно в исходное положение и повторите то же самое с другой рукой.",
+      "Продолжайте чередовать руки желаемое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，膝盖稍微弯曲，双手各握一个壶铃，手掌朝向身体。",
+      "臀部向前弯曲，保持背部挺直，核心肌群参与。",
+      "将一个壶铃向上拉向胸部，保持肘部靠近身体并将肩胛骨挤压在一起。",
+      "将壶铃放回起始位置，然后用另一只手臂重复该动作。",
+      "继续交替手臂进行所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, घुटने थोड़े मुड़े हुए हों और अपनी हथेलियों को अपने शरीर की ओर रखते हुए प्रत्येक हाथ में एक केटलबेल पकड़ें।",
+      "अपनी पीठ को सीधा रखते हुए और अपने कोर को व्यस्त रखते हुए, कूल्हों के बल आगे की ओर झुकें।",
+      "एक केटलबेल को अपनी छाती की ओर खींचें, अपनी कोहनी को अपने शरीर के करीब रखें और अपने कंधे के ब्लेड को एक साथ निचोड़ें।",
+      "केटलबेल को वापस प्रारंभिक स्थिति में लाएँ और दूसरे हाथ से दोहराएँ।",
+      "दोहराव की वांछित संख्या के लिए भुजाओं को बारी-बारी से जारी रखें।"
+    ],
+    "pl": [
+      "Stań ze stopami rozstawionymi na szerokość barków, kolana lekko ugięte, i trzymaj kettlebell w każdej dłoni, dłonie skierowane w stronę ciała.",
+      "Pochyl się do przodu w biodrach, utrzymując proste plecy i napięte mięśnie brzucha.",
+      "Podciągnij jeden kettlebell w stronę klatki piersiowej, trzymając łokieć blisko ciała i ściskając łopatki.",
+      "Opuść kettlebell z powrotem do pozycji wyjściowej i powtórz drugą ręką.",
+      "Kontynuuj naprzemienne wykonywanie ruchu zgodnie z zaplanowaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "양쪽 손에 케틀벨을 잡고 다리를 어깨 너비로 벌리고 무릎을 살짝 구부립니다. 손가락이 몸을 향하게 합니다.",
+      "허리에서 구부리면서 등을 곧게 펴고 코어에 힘을 줍니다.",
+      "팔꿈치를 몸에 붙이고 한 쪽 케틀벨을 가슴 쪽으로 당기면서 어깨 날개뼈를 모아줍니다.",
+      "케틀벨을 처음 위치로 낮추고 다른 팔로 반복합니다.",
+      "원하는 반복 횟수까지 팔을 교대로 계속 움직입니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules, les genoux légèrement fléchis, et tiens un kettlebell dans chaque main, paumes tournées vers ton corps.",
+      "Penche-toi vers l'avant au niveau des hanches en gardant ton dos droit et ta sangle abdominale gainée.",
+      "Tire un kettlebell vers ta poitrine, en gardant ton coude près de ton corps et en contractant tes omoplates.",
+      "Abaisse le kettlebell jusqu'à la position de départ et répète avec l'autre bras.",
+      "Continue à alterner les bras pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "forearms"
+  ],
+  "target": "upper back",
+  "image": "images/0522-Ca76jUE.jpg",
+  "gif_url": "videos/0522-Ca76jUE.gif",
+  "media_id": "Ca76jUE",
+  "created_at": "2026-03-18T12:31:32.884991+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

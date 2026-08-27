@@ -1,0 +1,152 @@
+[
+  {
+    "id": "0011",
+    "name": "assisted hanging knee raise",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "assisted",
+    "target": "abs",
+    "image": "images/0011-03lzqwk.jpg",
+    "gif_url": "videos/0011-03lzqwk.gif"
+  },
+  {
+    "id": "0010",
+    "name": "assisted hanging knee raise with throw down",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "assisted",
+    "target": "abs",
+    "image": "images/0010-8K0w2yA.jpg",
+    "gif_url": "videos/0010-8K0w2yA.gif"
+  },
+  {
+    "id": "1708",
+    "name": "assisted lying calves stretch",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "assisted",
+    "target": "calves",
+    "image": "images/1708-GxDwDX0.jpg",
+    "gif_url": "videos/1708-GxDwDX0.gif"
+  },
+  {
+    "id": "1709",
+    "name": "assisted lying glutes stretch",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "assisted",
+    "target": "glutes",
+    "image": "images/1709-yn0LjwL.jpg",
+    "gif_url": "videos/1709-yn0LjwL.gif"
+  },
+  {
+    "id": "1710",
+    "name": "assisted lying gluteus and piriformis stretch",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "assisted",
+    "target": "glutes",
+    "image": "images/1710-RQNVT10.jpg",
+    "gif_url": "videos/1710-RQNVT10.gif"
+  },
+  {
+    "id": "0012",
+    "name": "assisted lying leg raise with lateral throw down",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "assisted",
+    "target": "abs",
+    "image": "images/0012-UGhRD1A.jpg",
+    "gif_url": "videos/0012-UGhRD1A.gif"
+  },
+  {
+    "id": "0013",
+    "name": "assisted lying leg raise with throw down",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "assisted",
+    "target": "abs",
+    "image": "images/0013-VX5YKR5.jpg",
+    "gif_url": "videos/0013-VX5YKR5.gif"
+  },
+  {
+    "id": "0016",
+    "name": "assisted prone hamstring",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "assisted",
+    "target": "hamstrings",
+    "image": "images/0016-VedGSby.jpg",
+    "gif_url": "videos/0016-VedGSby.gif"
+  },
+  {
+    "id": "1713",
+    "name": "assisted prone lying quads stretch",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "assisted",
+    "target": "quads",
+    "image": "images/1713-YUYAMEj.jpg",
+    "gif_url": "videos/1713-YUYAMEj.gif"
+  },
+  {
+    "id": "1714",
+    "name": "assisted prone rectus femoris stretch",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "assisted",
+    "target": "abs",
+    "image": "images/1714-2Ryn564.jpg",
+    "gif_url": "videos/1714-2Ryn564.gif"
+  },
+  {
+    "id": "1716",
+    "name": "assisted seated pectoralis major stretch with stability ball",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "assisted",
+    "target": "pectorals",
+    "image": "images/1716-RoV1Rfa.jpg",
+    "gif_url": "videos/1716-RoV1Rfa.gif"
+  },
+  {
+    "id": "1712",
+    "name": "assisted side lying adductor stretch",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "assisted",
+    "target": "adductors",
+    "image": "images/1712-hC6oYY5.jpg",
+    "gif_url": "videos/1712-hC6oYY5.gif"
+  },
+  {
+    "id": "1758",
+    "name": "assisted sit-up",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "assisted",
+    "target": "abs",
+    "image": "images/1758-aumB2IV.jpg",
+    "gif_url": "videos/1758-aumB2IV.gif"
+  },
+  {
+    "id": "0018",
+    "name": "assisted standing triceps extension (with towel)",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "assisted",
+    "target": "triceps",
+    "image": "images/0018-7HcfMBP.jpg",
+    "gif_url": "videos/0018-7HcfMBP.gif"
+  },
+  {
+    "id": "1259",
+    "name": "behind head chest stretch",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "assisted",
+    "target": "pectorals",
+    "image": "images/1259-QoHIhPl.jpg",
+    "gif_url": "videos/1259-QoHIhPl.gif"
+  }
+]

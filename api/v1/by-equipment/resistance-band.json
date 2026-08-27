@@ -1,0 +1,72 @@
+[
+  {
+    "id": "3236",
+    "name": "resistance band hip thrusts on knees (female)",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "resistance band",
+    "target": "glutes",
+    "image": "images/3236-Pjbc0Kt.jpg",
+    "gif_url": "videos/3236-Pjbc0Kt.gif"
+  },
+  {
+    "id": "3007",
+    "name": "resistance band leg extension",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "resistance band",
+    "target": "quads",
+    "image": "images/3007-Y1MsI1l.jpg",
+    "gif_url": "videos/3007-Y1MsI1l.gif"
+  },
+  {
+    "id": "3123",
+    "name": "resistance band seated biceps curl",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "resistance band",
+    "target": "biceps",
+    "image": "images/3123-XFc3vpY.jpg",
+    "gif_url": "videos/3123-XFc3vpY.gif"
+  },
+  {
+    "id": "3124",
+    "name": "resistance band seated chest press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "resistance band",
+    "target": "pectorals",
+    "image": "images/3124-4x5Okof.jpg",
+    "gif_url": "videos/3124-4x5Okof.gif"
+  },
+  {
+    "id": "3006",
+    "name": "resistance band seated hip abduction",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "resistance band",
+    "target": "abductors",
+    "image": "images/3006-0xDpB4L.jpg",
+    "gif_url": "videos/3006-0xDpB4L.gif"
+  },
+  {
+    "id": "3122",
+    "name": "resistance band seated shoulder press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "resistance band",
+    "target": "delts",
+    "image": "images/3122-S93zLTG.jpg",
+    "gif_url": "videos/3122-S93zLTG.gif"
+  },
+  {
+    "id": "3144",
+    "name": "resistance band seated straight back row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "resistance band",
+    "target": "upper back",
+    "image": "images/3144-Nu7jqFE.jpg",
+    "gif_url": "videos/3144-Nu7jqFE.gif"
+  }
+]

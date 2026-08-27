@@ -1,0 +1,113 @@
+{
+  "id": "0466",
+  "name": "gironda sternum chin",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand facing a high bar with your feet shoulder-width apart. Reach up and grab the bar with an overhand grip, slightly wider than shoulder-width apart. Hang from the bar with your arms fully extended and your body straight. Engage your lats and biceps to pull your chest up towards the bar, leading with your sternum. Pause for a moment at the top, then slowly lower yourself back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Mettiti di fronte a una barra alta con i piedi alla larghezza delle spalle. Allungati e afferra la barra con una presa prona, leggermente più larga della larghezza delle spalle. Appendi alla barra con le braccia completamente distese e il corpo dritto. Coinvolgi i dorsali e i bicipiti per sollevare il petto verso la barra, guidando con lo sterno. Fermati per un momento in alto, quindi abbassati lentamente fino alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde yüksek bir bara dönük durun. Yukarı doğru uzanın ve barı omuz genişliğinden biraz daha geniş olacak şekilde üstten kavrayarak kavrayın. Kollarınız tamamen uzatılmış ve vücudunuz düz olacak şekilde bara asın. Göğsünüzü göğüs kemiğinizle birlikte bara doğru çekmek için latlarınızı ve bicepslerinizi devreye sokun. Tepe noktasında bir an duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie frente a una barra alta con los pies separados a la altura de los hombros. Estira los brazos hacia arriba y agarra la barra con agarre prono, ligeramente más ancho que la altura de los hombros. Cuélgate de la barra con los brazos completamente extendidos y el cuerpo recto. Activa los dorsales y los bíceps para llevar el pecho hacia la barra, guiando con el esternón. Haz una pausa breve en la parte más alta, luego baja lentamente de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте лицом к высокой перекладине, ноги на ширине плеч. Потянитесь вверх и возьмите перекладину хватом сверху, на расстоянии чуть шире ширины плеч. Повисните на перекладине, полностью вытянув руки и выпрямив тело. Задействуйте широчайшие и бицепсы, чтобы подтянуть грудь к перекладине, ведущей вперед грудиной. Задержитесь на мгновение в верхней точке, затем медленно опуститесь обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "面向高杠站立，双脚分开与肩同宽。 向上伸手，正手握住杠铃，握距略宽于肩宽。 悬挂在杠上，双臂完全伸展，身体伸直。 用你的背阔肌和二头肌将你的胸部拉向杠铃杆，以胸骨为主导。 在最高点暂停片刻，然后慢慢降低回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई की दूरी पर रखते हुए एक ऊंची पट्टी की ओर मुंह करके खड़े हो जाएं। ऊपर पहुंचें और कंधे की चौड़ाई से थोड़ी अधिक चौड़ी पकड़ के साथ बार को पकड़ें। अपनी बाहों को पूरी तरह फैलाकर और अपने शरीर को सीधा करके बार से लटकें। अपनी छाती को बार की ओर खींचने के लिए अपने लैट्स और बाइसेप्स को संलग्न करें, जो आपके उरोस्थि के साथ आगे बढ़े। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने आप को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań przodem do wysoko umieszczonego drążka, stopy ustaw na szerokość barków. Sięgnij i chwyć drążek nachwytem, nieco szerzej niż na szerokość barków. Zawiśnij na drążku z w pełni wyprostowanymi ramionami i prostym ciałem. Napnij mięśnie najszersze grzbietu i dwugłowe ramienia, aby podciągnąć klatkę piersiową w stronę drążka, prowadząc mostkiem. Zatrzymaj się na chwilę na górze, a następnie powoli opuść się z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę razy.",
+    "ko": "높은 바를 향해 서서 발을 어깨너비로 벌립니다. 팔을 어깨너비보다 약간 넓게 벌려 오버그립으로 바를 잡습니다. 팔을 완전히 펴고 몸을 일직선으로 유지하며 바에 매달립니다. 광배근과 이두근을 조여 흉골을 앞세우며 가슴을 바 쪽으로 당깁니다. 위쪽에서 잠깐 멈추었다가 천천히 시작 위치로 내립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi face à une barre haute, les pieds écartés à la largeur des épaules. Lève les bras et saisis la barre en prise pronation, un peu plus large que la largeur des épaules. Suspends-toi à la barre, les bras complètement étendus et le corps droit. Contracte tes grands dorsaux et tes biceps pour amener ta poitrine vers la barre, en menant avec le sternum. Marque une pause en haut, puis abaisse-toi lentement pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand facing a high bar with your feet shoulder-width apart.",
+      "Reach up and grab the bar with an overhand grip, slightly wider than shoulder-width apart.",
+      "Hang from the bar with your arms fully extended and your body straight.",
+      "Engage your lats and biceps to pull your chest up towards the bar, leading with your sternum.",
+      "Pause for a moment at the top, then slowly lower yourself back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Mettiti di fronte a una barra alta con i piedi alla larghezza delle spalle.",
+      "Allungati e afferra la barra con una presa prona, leggermente più larga della larghezza delle spalle.",
+      "Appendi alla barra con le braccia completamente distese e il corpo dritto.",
+      "Coinvolgi i dorsali e i bicipiti per sollevare il petto verso la barra, guidando con lo sterno.",
+      "Fermati per un momento in alto, quindi abbassati lentamente fino alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde yüksek bir bara dönük durun.",
+      "Yukarı doğru uzanın ve barı omuz genişliğinden biraz daha geniş olacak şekilde üstten kavrayarak kavrayın.",
+      "Kollarınız tamamen uzatılmış ve vücudunuz düz olacak şekilde bara asın.",
+      "Göğsünüzü göğüs kemiğinizle birlikte bara doğru çekmek için latlarınızı ve bicepslerinizi devreye sokun.",
+      "Tepe noktasında bir an duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie frente a una barra alta con los pies separados a la altura de los hombros.",
+      "Estira los brazos hacia arriba y agarra la barra con agarre prono, ligeramente más ancho que la altura de los hombros.",
+      "Cuélgate de la barra con los brazos completamente extendidos y el cuerpo recto.",
+      "Activa los dorsales y los bíceps para llevar el pecho hacia la barra, guiando con el esternón.",
+      "Haz una pausa breve en la parte más alta, luego baja lentamente de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте лицом к высокой перекладине, ноги на ширине плеч.",
+      "Потянитесь вверх и возьмите перекладину хватом сверху, на расстоянии чуть шире ширины плеч.",
+      "Повисните на перекладине, полностью вытянув руки и выпрямив тело.",
+      "Задействуйте широчайшие и бицепсы, чтобы подтянуть грудь к перекладине, ведущей вперед грудиной.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опуститесь обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "面向高杠站立，双脚分开与肩同宽。",
+      "向上伸手，正手握住杠铃，握距略宽于肩宽。",
+      "悬挂在杠上，双臂完全伸展，身体伸直。",
+      "用你的背阔肌和二头肌将你的胸部拉向杠铃杆，以胸骨为主导。",
+      "在最高点暂停片刻，然后慢慢降低回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई की दूरी पर रखते हुए एक ऊंची पट्टी की ओर मुंह करके खड़े हो जाएं।",
+      "ऊपर पहुंचें और कंधे की चौड़ाई से थोड़ी अधिक चौड़ी पकड़ के साथ बार को पकड़ें।",
+      "अपनी बाहों को पूरी तरह फैलाकर और अपने शरीर को सीधा करके बार से लटकें।",
+      "अपनी छाती को बार की ओर खींचने के लिए अपने लैट्स और बाइसेप्स को संलग्न करें, जो आपके उरोस्थि के साथ आगे बढ़े।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने आप को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań przodem do wysoko umieszczonego drążka, stopy ustaw na szerokość barków.",
+      "Sięgnij i chwyć drążek nachwytem, nieco szerzej niż na szerokość barków.",
+      "Zawiśnij na drążku z w pełni wyprostowanymi ramionami i prostym ciałem.",
+      "Napnij mięśnie najszersze grzbietu i dwugłowe ramienia, aby podciągnąć klatkę piersiową w stronę drążka, prowadząc mostkiem.",
+      "Zatrzymaj się na chwilę na górze, a następnie powoli opuść się z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "높은 바를 향해 서서 발을 어깨너비로 벌립니다.",
+      "팔을 어깨너비보다 약간 넓게 벌려 오버그립으로 바를 잡습니다.",
+      "팔을 완전히 펴고 몸을 일직선으로 유지하며 바에 매달립니다.",
+      "광배근과 이두근을 조여 흉골을 앞세우며 가슴을 바 쪽으로 당깁니다.",
+      "위쪽에서 잠깐 멈추었다가 천천히 시작 위치로 내립니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi face à une barre haute, les pieds écartés à la largeur des épaules.",
+      "Lève les bras et saisis la barre en prise pronation, un peu plus large que la largeur des épaules.",
+      "Suspends-toi à la barre, les bras complètement étendus et le corps droit.",
+      "Contracte tes grands dorsaux et tes biceps pour amener ta poitrine vers la barre, en menant avec le sternum.",
+      "Marque une pause en haut, puis abaisse-toi lentement pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "rhomboids",
+    "rear deltoids"
+  ],
+  "target": "lats",
+  "image": "images/0466-IL0JUxR.jpg",
+  "gif_url": "videos/0466-IL0JUxR.gif",
+  "media_id": "IL0JUxR",
+  "created_at": "2026-03-18T12:31:32.883864+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

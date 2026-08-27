@@ -1,0 +1,131 @@
+{
+  "id": "1640",
+  "name": "cable rope one arm hammer preacher curl",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Attach a rope handle to a low pulley cable machine. Stand facing the machine with your feet shoulder-width apart. Grasp the rope handle with an underhand grip, palms facing up. Position your upper arm against the preacher bench pad, keeping your elbow slightly bent. Keep your back straight and your core engaged throughout the exercise. Slowly curl the rope handle towards your shoulder, keeping your upper arm stationary. Squeeze your biceps at the top of the movement, then slowly lower the rope handle back to the starting position. Repeat for the desired number of repetitions, then switch arms.",
+    "it": "Attacca una maniglia di corda a una macchina a cavo a carrucole bassa. Stai rivolto verso la macchina con i piedi alla larghezza delle spalle. Afferra il manico della corda con una presa sotto, palmi rivolti verso l'alto. Posiziona il braccio superiore contro il cuscinetto del predicatore, mantenendo il gomito leggermente piegato. Mantieni la schiena dritta e il core attivo durante tutto l'esercizio. Arrotola lentamente il manico della corda verso la spalla, mantenendo fermo il braccio superiore. Stringi i bicipiti nella parte alta del movimento, poi abbassa lentamente il manico della corda fino alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni, poi cambia braccio.",
+    "tr": "Alçak makaralı bir kablo makinesine bir halat sapı takın. Ayaklarınız omuz genişliğinde açık olacak şekilde makineye dönük durun. İpin sapını avuç içleriniz yukarı bakacak şekilde alttan kavrayın. Dirseğinizi hafifçe bükülü tutarak üst kolunuzu vaiz bankının yastığına yaslayın. Egzersiz boyunca sırtınızı düz ve merkez bölgenizi meşgul tutun. Üst kolunuzu sabit tutarak ipin sapını yavaşça omzunuza doğru kıvırın. Hareketin üst noktasında bicepslerinizi sıkın, ardından ipin kolunu yavaşça başlangıç ​​pozisyonuna indirin. İstenilen tekrar sayısı kadar tekrarlayın, ardından kolları değiştirin.",
+    "es": "Sujeta una agarradera de cuerda a una máquina de cable con polea baja. Ponte de pie frente a la máquina con los pies separados a la altura de los hombros. Sujeta la agarradera de cuerda con un agarre supino, con las palmas hacia arriba. Coloca la parte superior del brazo contra la almohadilla del banco scott, manteniendo el codo ligeramente flexionado. Mantén la espalda recta y el core activado durante todo el ejercicio. Curva lentamente la agarradera de cuerda hacia el hombro, manteniendo la parte superior del brazo inmóvil. Aprieta el bíceps en la parte más alta del movimiento y luego baja lentamente la agarradera de cuerda de vuelta a la posición inicial. Repite el número de repeticiones deseado, luego cambia de brazo.",
+    "ru": "Прикрепите веревочную ручку к канатной машине с низким шкивом. Встаньте лицом к тренажеру, поставив ноги на ширине плеч. Возьмитесь за рукоятку веревки обратным хватом ладонями вверх. Положите плечо на подушку скамьи проповедника, слегка согнув локоть. На протяжении всего упражнения держите спину прямой и напряженным корпус. Медленно согните рукоятку веревки к плечу, сохраняя плечо неподвижным. Напрягите бицепсы в верхней точке движения, затем медленно опустите рукоятку веревки обратно в исходное положение. Повторите желаемое количество повторений, затем поменяйте руки.",
+    "zh": "将绳索手柄连接到低滑轮电缆机器上。 面向机器站立，双脚分开与肩同宽。 反手握住绳索手柄，手掌朝上。 将上臂靠在牧师凳垫上，保持肘部稍微弯曲。 在整个练习过程中保持背部挺直，核心肌群参与其中。 慢慢地将绳索手柄卷向肩膀，保持上臂静止。 在动作的最高点挤压二头肌，然后慢慢将绳柄放回起始位置。 重复所需的重复次数，然后换臂。",
+    "hi": "लो पुली केबल मशीन में रस्सी का हैंडल जोड़ें। अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए मशीन की ओर मुंह करके खड़े हो जाएं। रस्सी के हैंडल को हाथ से पकड़ें, हथेलियाँ ऊपर की ओर हों। अपनी ऊपरी भुजा को उपदेशक बेंच पैड के सामने रखें, अपनी कोहनी को थोड़ा मोड़कर रखें। पूरे अभ्यास के दौरान अपनी पीठ सीधी रखें और अपने कोर को व्यस्त रखें। अपने ऊपरी बांह को स्थिर रखते हुए धीरे-धीरे रस्सी के हैंडल को अपने कंधे की ओर मोड़ें। आंदोलन के शीर्ष पर अपने बाइसेप्स को निचोड़ें, फिर धीरे-धीरे रस्सी के हैंडल को शुरुआती स्थिति में वापस लाएं। दोहराव की वांछित संख्या के लिए दोहराएं, फिर हथियार बदल लें।",
+    "pl": "Podłącz uchwyt z liną do wyciągu z dolnym bloczkiem. Stań przodem do maszyny, stopy rozstawione na szerokość barków. Chwyć uchwyt z liną podchwytem, dłonie skierowane do góry. Oprzyj ramię górne o podkładkę ławki modlitewnika, trzymając łokieć lekko ugięty. Trzymaj proste plecy i napięty tułów przez cały czas trwania ćwiczenia. Powoli unieś uchwyt z liną w kierunku barku, trzymając ramię górne nieruchomo. Napnij bicepsy w górnej fazie ruchu, a następnie powoli opuść uchwyt do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń, a następnie zmień ramię.",
+    "ko": "로프 핸들을 낮은 풀리 케이블 머신에 장착합니다. 머신을 향해 서서 발을 어깨너비만큼 벌립니다. 언더그립으로 로프 핸들을 잡고 손가락이 위를 향합니다. 상박을 프리처 벤치 패드에 올리고 팔꿈치를 약간 구부린 상태로 위치합니다. 운동 내내 등을 곧게 펴고 코어를 활성화시킵니다. 상박을 고정시키면서 로프 핸들을 어깨를 향해 천천히 말아올립니다. 동작의 최고점에서 이두근을 짜주고 로프 핸들을 천천히 시작 위치로 내립니다. 원하는 반복 횟수만큼 반복한 후 팔을 바꿉니다.",
+    "fr": "Fixe une poignée à corde à une machine à câble à poulie basse. Tiens-toi face à la machine, les pieds écartés à la largeur des épaules. Saisis la poignée à corde avec une prise en supination, les paumes tournées vers le haut. Positionne le haut de ton bras contre le coussin du banc à biceps, en gardant ton coude légèrement fléchi. Garde le dos droit et ta sangle abdominale gainée tout au long de l'exercice. Enroule lentement la poignée à corde vers ton épaule, en gardant le haut de ton bras immobile. Contracte tes biceps en haut du mouvement, puis abaisse lentement la poignée corde pour revenir à la position de départ. Répète le nombre de répétitions souhaité, puis change de bras."
+  },
+  "instruction_steps": {
+    "en": [
+      "Attach a rope handle to a low pulley cable machine.",
+      "Stand facing the machine with your feet shoulder-width apart.",
+      "Grasp the rope handle with an underhand grip, palms facing up.",
+      "Position your upper arm against the preacher bench pad, keeping your elbow slightly bent.",
+      "Keep your back straight and your core engaged throughout the exercise.",
+      "Slowly curl the rope handle towards your shoulder, keeping your upper arm stationary.",
+      "Squeeze your biceps at the top of the movement, then slowly lower the rope handle back to the starting position.",
+      "Repeat for the desired number of repetitions, then switch arms."
+    ],
+    "it": [
+      "Attacca una maniglia di corda a una macchina a cavo a carrucole bassa.",
+      "Stai rivolto verso la macchina con i piedi alla larghezza delle spalle.",
+      "Afferra il manico della corda con una presa sotto, palmi rivolti verso l'alto.",
+      "Posiziona il braccio superiore contro il cuscinetto del predicatore, mantenendo il gomito leggermente piegato.",
+      "Mantieni la schiena dritta e il core attivo durante tutto l'esercizio.",
+      "Arrotola lentamente il manico della corda verso la spalla, mantenendo fermo il braccio superiore.",
+      "Stringi i bicipiti nella parte alta del movimento, poi abbassa lentamente il manico della corda fino alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni, poi cambia braccio."
+    ],
+    "tr": [
+      "Alçak makaralı bir kablo makinesine bir halat sapı takın.",
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde makineye dönük durun.",
+      "İpin sapını avuç içleriniz yukarı bakacak şekilde alttan kavrayın.",
+      "Dirseğinizi hafifçe bükülü tutarak üst kolunuzu vaiz bankının yastığına yaslayın.",
+      "Egzersiz boyunca sırtınızı düz ve merkez bölgenizi meşgul tutun.",
+      "Üst kolunuzu sabit tutarak ipin sapını yavaşça omzunuza doğru kıvırın.",
+      "Hareketin üst noktasında bicepslerinizi sıkın, ardından ipin kolunu yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından kolları değiştirin."
+    ],
+    "es": [
+      "Sujeta una agarradera de cuerda a una máquina de cable con polea baja.",
+      "Ponte de pie frente a la máquina con los pies separados a la altura de los hombros.",
+      "Sujeta la agarradera de cuerda con un agarre supino, con las palmas hacia arriba.",
+      "Coloca la parte superior del brazo contra la almohadilla del banco scott, manteniendo el codo ligeramente flexionado.",
+      "Mantén la espalda recta y el core activado durante todo el ejercicio.",
+      "Curva lentamente la agarradera de cuerda hacia el hombro, manteniendo la parte superior del brazo inmóvil.",
+      "Aprieta el bíceps en la parte más alta del movimiento y luego baja lentamente la agarradera de cuerda de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado, luego cambia de brazo."
+    ],
+    "ru": [
+      "Прикрепите веревочную ручку к канатной машине с низким шкивом.",
+      "Встаньте лицом к тренажеру, поставив ноги на ширине плеч.",
+      "Возьмитесь за рукоятку веревки обратным хватом ладонями вверх.",
+      "Положите плечо на подушку скамьи проповедника, слегка согнув локоть.",
+      "На протяжении всего упражнения держите спину прямой и напряженным корпус.",
+      "Медленно согните рукоятку веревки к плечу, сохраняя плечо неподвижным.",
+      "Напрягите бицепсы в верхней точке движения, затем медленно опустите рукоятку веревки обратно в исходное положение.",
+      "Повторите желаемое количество повторений, затем поменяйте руки."
+    ],
+    "zh": [
+      "将绳索手柄连接到低滑轮电缆机器上。",
+      "面向机器站立，双脚分开与肩同宽。",
+      "反手握住绳索手柄，手掌朝上。",
+      "将上臂靠在牧师凳垫上，保持肘部稍微弯曲。",
+      "在整个练习过程中保持背部挺直，核心肌群参与其中。",
+      "慢慢地将绳索手柄卷向肩膀，保持上臂静止。",
+      "在动作的最高点挤压二头肌，然后慢慢将绳柄放回起始位置。",
+      "重复所需的重复次数，然后换臂。"
+    ],
+    "hi": [
+      "लो पुली केबल मशीन में रस्सी का हैंडल जोड़ें।",
+      "अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए मशीन की ओर मुंह करके खड़े हो जाएं।",
+      "रस्सी के हैंडल को हाथ से पकड़ें, हथेलियाँ ऊपर की ओर हों।",
+      "अपनी ऊपरी भुजा को उपदेशक बेंच पैड के सामने रखें, अपनी कोहनी को थोड़ा मोड़कर रखें।",
+      "पूरे अभ्यास के दौरान अपनी पीठ सीधी रखें और अपने कोर को व्यस्त रखें।",
+      "अपने ऊपरी बांह को स्थिर रखते हुए धीरे-धीरे रस्सी के हैंडल को अपने कंधे की ओर मोड़ें।",
+      "आंदोलन के शीर्ष पर अपने बाइसेप्स को निचोड़ें, फिर धीरे-धीरे रस्सी के हैंडल को शुरुआती स्थिति में वापस लाएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर हथियार बदल लें।"
+    ],
+    "pl": [
+      "Podłącz uchwyt z liną do wyciągu z dolnym bloczkiem.",
+      "Stań przodem do maszyny, stopy rozstawione na szerokość barków.",
+      "Chwyć uchwyt z liną podchwytem, dłonie skierowane do góry.",
+      "Oprzyj ramię górne o podkładkę ławki modlitewnika, trzymając łokieć lekko ugięty.",
+      "Trzymaj proste plecy i napięty tułów przez cały czas trwania ćwiczenia.",
+      "Powoli unieś uchwyt z liną w kierunku barku, trzymając ramię górne nieruchomo.",
+      "Napnij bicepsy w górnej fazie ruchu, a następnie powoli opuść uchwyt do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń, a następnie zmień ramię."
+    ],
+    "ko": [
+      "로프 핸들을 낮은 풀리 케이블 머신에 장착합니다.",
+      "머신을 향해 서서 발을 어깨너비만큼 벌립니다.",
+      "언더그립으로 로프 핸들을 잡고 손가락이 위를 향합니다.",
+      "상박을 프리처 벤치 패드에 올리고 팔꿈치를 약간 구부린 상태로 위치합니다.",
+      "운동 내내 등을 곧게 펴고 코어를 활성화시킵니다.",
+      "상박을 고정시키면서 로프 핸들을 어깨를 향해 천천히 말아올립니다.",
+      "동작의 최고점에서 이두근을 짜주고 로프 핸들을 천천히 시작 위치로 내립니다.",
+      "원하는 반복 횟수만큼 반복한 후 팔을 바꿉니다."
+    ],
+    "fr": [
+      "Fixe une poignée à corde à une machine à câble à poulie basse.",
+      "Tiens-toi face à la machine, les pieds écartés à la largeur des épaules.",
+      "Saisis la poignée à corde avec une prise en supination, les paumes tournées vers le haut.",
+      "Positionne le haut de ton bras contre le coussin du banc à biceps, en gardant ton coude légèrement fléchi.",
+      "Garde le dos droit et ta sangle abdominale gainée tout au long de l'exercice.",
+      "Enroule lentement la poignée à corde vers ton épaule, en gardant le haut de ton bras immobile.",
+      "Contracte tes biceps en haut du mouvement, puis abaisse lentement la poignée corde pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis change de bras."
+    ]
+  },
+  "muscle_group": "forearms",
+  "secondary_muscles": [
+    "forearms"
+  ],
+  "target": "biceps",
+  "image": "images/1640-4hATdoB.jpg",
+  "gif_url": "videos/1640-4hATdoB.gif",
+  "media_id": "4hATdoB",
+  "created_at": "2026-03-18T12:31:32.875803+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

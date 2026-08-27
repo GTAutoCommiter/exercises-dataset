@@ -1,0 +1,132 @@
+{
+  "id": "0578",
+  "name": "lever deadlift",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "leverage machine",
+  "instructions": {
+    "en": "Adjust the seat height and foot platform to your desired position. Sit on the machine with your back against the pad and your feet flat on the foot platform. Grasp the handles or the sides of the seat for stability. Engage your glutes and hamstrings, and push through your heels to lift the weight up. Keep your back straight and avoid rounding your shoulders. Extend your hips fully at the top of the movement, squeezing your glutes. Lower the weight back down in a controlled manner, keeping tension on your glutes and hamstrings. Repeat for the desired number of repetitions.",
+    "it": "Regola l'altezza del sedile e la pedana nella posizione desiderata. Sedersi sulla macchina con la schiena contro il cuscino e i piedi appoggiati sulla pedana. Afferrare le maniglie o i lati del sedile per stabilità. Coinvolgi i glutei e i muscoli posteriori della coscia e spingi i talloni per sollevare il peso. Tieni la schiena dritta ed evita di arrotondare le spalle. Estendi completamente i fianchi al culmine del movimento, contraendo i glutei. Abbassa il peso in modo controllato, mantenendo la tensione sui glutei e sui muscoli posteriori della coscia. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Koltuk yüksekliğini ve ayak platformunu istediğiniz konuma ayarlayın. Sırtınız yastığa dayalı ve ayaklarınız ayak platformu üzerinde düz olacak şekilde makinenin üzerine oturun. Denge için koltuğun kollarını veya yanlarını tutun. Kalça kaslarınızı ve hamstringlerinizi devreye sokun ve ağırlığı kaldırmak için topuklarınızı itin. Sırtınızı düz tutun ve omuzlarınızı yuvarlamaktan kaçının. Kalçalarınızı sıkarak hareketin üst noktasında kalçalarınızı tamamen uzatın. Kalça ve diz arkası kaslarınızın gerginliğini koruyarak ağırlığı kontrollü bir şekilde indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta la altura del asiento y la plataforma para los pies a la posición deseada. Siéntate en la máquina con la espalda apoyada en la almohadilla y los pies planos sobre la plataforma para los pies. Sujeta las asas o los lados del asiento para mayor estabilidad. Activa los glúteos y los isquiotibiales, y empuja con los talones para levantar el peso. Mantén la espalda recta y evita redondear los hombros. Extiende por completo las caderas en la parte alta del movimiento, apretando los glúteos. Baja el peso de manera controlada, manteniendo la tensión en los glúteos y los isquiotibiales. Repite el número de repeticiones deseado.",
+    "ru": "Отрегулируйте высоту сиденья и платформу для ног в желаемое положение. Сядьте на тренажер, прислонившись спиной к подушке, а ноги поставьте на платформу для ног. Возьмитесь за ручки или боковые стороны сиденья для устойчивости. Задействуйте ягодицы и мышцы задней поверхности бедра и толкните пятки, чтобы поднять вес. Держите спину прямо и не округляйте плечи. Полностью выпрямите бедра в верхней точке движения, сжимая ягодицы. Опустите вес обратно контролируемым образом, сохраняя напряжение в ягодицах и подколенных сухожилиях. Повторите необходимое количество повторений.",
+    "zh": "将座椅高度和脚踏板调整到您想要的位置。 坐在机器上，背部靠在垫子上，双脚平放在脚踏板上。 抓住把手或座椅侧面以保持稳定性。 收紧臀肌和腿筋，并通过脚后跟推动举重。 保持背部挺直，避免圆肩。 在动作的最高点完全伸展臀部，挤压臀部。 以受控的方式降低重量，保持臀肌和腿筋的张力。 重复所需的重复次数。",
+    "hi": "सीट की ऊंचाई और पैर के प्लेटफार्म को अपनी इच्छित स्थिति में समायोजित करें। मशीन पर अपनी पीठ पैड से सटाकर और अपने पैरों को फ़ुट प्लेटफ़ॉर्म पर सपाट करके बैठें। स्थिरता के लिए सीट के हैंडल या किनारों को पकड़ें। अपने ग्लूट्स और हैमस्ट्रिंग को शामिल करें, और वजन को ऊपर उठाने के लिए अपनी एड़ियों से धक्का दें। अपनी पीठ सीधी रखें और अपने कंधों को गोल करने से बचें। अपने कूल्हों को आंदोलन के शीर्ष पर पूरी तरह फैलाएं, अपने ग्लूट्स को निचोड़ें। अपने ग्लूट्स और हैमस्ट्रिंग पर तनाव बनाए रखते हुए नियंत्रित तरीके से वजन वापस कम करें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Wyreguluj wysokość siedziska i platformę na stopy do żądanej pozycji. Usiądź na maszynie, opierając plecy o poduszkę, a stopy płasko na platformie. Chwyć uchwyty lub boki siedziska dla stabilizacji. Napnij pośladki i mięśnie dwugłowe uda, a następnie odepchnij się przez pięty, aby unieść ciężar. Utrzymuj proste plecy i unikaj garbienia barków. W pełni wyprostuj biodra na górze ruchu, ściskając pośladki. Opuść ciężar w kontrolowany sposób, utrzymując napięcie w pośladkach i mięśniach dwugłowych uda. Powtórz zgodnie z zaplanowaną liczbą powtórzeń.",
+    "ko": "시트의 높이와 발판을 원하는 위치로 조정한다. 머신에 앉아 등을 패드에 기대고 발을 발판에 편다. 안정성을 위해 손잡이나 시트 옆을 잡는다. 둔근과 햄스트링을 활성화하고 발뒤꿈치로 밀어 무게를 들어 올린다. 등을 펴고 어깨가 둥글어지지 않도록 한다. 동작의 상단에서 엉덩이를 완전히 펼치고 둔근을 쥔다. 둔근과 햄스트링에 긴장을 유지하며 조절 있게 무게를 내린다. 원하는 횟수만큼 반복한다.",
+    "fr": "Règle la hauteur du siège et la plateforme pour pieds dans la position souhaitée. Assieds-toi sur la machine, le dos contre le coussinet et les pieds à plat sur la plateforme de pied. Saisis les poignées ou les côtés du siège pour te stabiliser. Contracte tes fessiers et tes ischio-jambiers, et pousse sur tes talons pour soulever le poids. Garde le dos droit et évite d'arrondir tes épaules. Étends complètement tes hanches en haut du mouvement, en contractant tes fessiers. Abaisse le poids de manière contrôlée, en gardant la tension sur tes fessiers et tes ischio-jambiers. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the seat height and foot platform to your desired position.",
+      "Sit on the machine with your back against the pad and your feet flat on the foot platform.",
+      "Grasp the handles or the sides of the seat for stability.",
+      "Engage your glutes and hamstrings, and push through your heels to lift the weight up.",
+      "Keep your back straight and avoid rounding your shoulders.",
+      "Extend your hips fully at the top of the movement, squeezing your glutes.",
+      "Lower the weight back down in a controlled manner, keeping tension on your glutes and hamstrings.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Regola l'altezza del sedile e la pedana nella posizione desiderata.",
+      "Sedersi sulla macchina con la schiena contro il cuscino e i piedi appoggiati sulla pedana.",
+      "Afferrare le maniglie o i lati del sedile per stabilità.",
+      "Coinvolgi i glutei e i muscoli posteriori della coscia e spingi i talloni per sollevare il peso.",
+      "Tieni la schiena dritta ed evita di arrotondare le spalle.",
+      "Estendi completamente i fianchi al culmine del movimento, contraendo i glutei.",
+      "Abbassa il peso in modo controllato, mantenendo la tensione sui glutei e sui muscoli posteriori della coscia.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Koltuk yüksekliğini ve ayak platformunu istediğiniz konuma ayarlayın.",
+      "Sırtınız yastığa dayalı ve ayaklarınız ayak platformu üzerinde düz olacak şekilde makinenin üzerine oturun.",
+      "Denge için koltuğun kollarını veya yanlarını tutun.",
+      "Kalça kaslarınızı ve hamstringlerinizi devreye sokun ve ağırlığı kaldırmak için topuklarınızı itin.",
+      "Sırtınızı düz tutun ve omuzlarınızı yuvarlamaktan kaçının.",
+      "Kalçalarınızı sıkarak hareketin üst noktasında kalçalarınızı tamamen uzatın.",
+      "Kalça ve diz arkası kaslarınızın gerginliğini koruyarak ağırlığı kontrollü bir şekilde indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta la altura del asiento y la plataforma para los pies a la posición deseada.",
+      "Siéntate en la máquina con la espalda apoyada en la almohadilla y los pies planos sobre la plataforma para los pies.",
+      "Sujeta las asas o los lados del asiento para mayor estabilidad.",
+      "Activa los glúteos y los isquiotibiales, y empuja con los talones para levantar el peso.",
+      "Mantén la espalda recta y evita redondear los hombros.",
+      "Extiende por completo las caderas en la parte alta del movimiento, apretando los glúteos.",
+      "Baja el peso de manera controlada, manteniendo la tensión en los glúteos y los isquiotibiales.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Отрегулируйте высоту сиденья и платформу для ног в желаемое положение.",
+      "Сядьте на тренажер, прислонившись спиной к подушке, а ноги поставьте на платформу для ног.",
+      "Возьмитесь за ручки или боковые стороны сиденья для устойчивости.",
+      "Задействуйте ягодицы и мышцы задней поверхности бедра и толкните пятки, чтобы поднять вес.",
+      "Держите спину прямо и не округляйте плечи.",
+      "Полностью выпрямите бедра в верхней точке движения, сжимая ягодицы.",
+      "Опустите вес обратно контролируемым образом, сохраняя напряжение в ягодицах и подколенных сухожилиях.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将座椅高度和脚踏板调整到您想要的位置。",
+      "坐在机器上，背部靠在垫子上，双脚平放在脚踏板上。",
+      "抓住把手或座椅侧面以保持稳定性。",
+      "收紧臀肌和腿筋，并通过脚后跟推动举重。",
+      "保持背部挺直，避免圆肩。",
+      "在动作的最高点完全伸展臀部，挤压臀部。",
+      "以受控的方式降低重量，保持臀肌和腿筋的张力。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "सीट की ऊंचाई और पैर के प्लेटफार्म को अपनी इच्छित स्थिति में समायोजित करें।",
+      "मशीन पर अपनी पीठ पैड से सटाकर और अपने पैरों को फ़ुट प्लेटफ़ॉर्म पर सपाट करके बैठें।",
+      "स्थिरता के लिए सीट के हैंडल या किनारों को पकड़ें।",
+      "अपने ग्लूट्स और हैमस्ट्रिंग को शामिल करें, और वजन को ऊपर उठाने के लिए अपनी एड़ियों से धक्का दें।",
+      "अपनी पीठ सीधी रखें और अपने कंधों को गोल करने से बचें।",
+      "अपने कूल्हों को आंदोलन के शीर्ष पर पूरी तरह फैलाएं, अपने ग्लूट्स को निचोड़ें।",
+      "अपने ग्लूट्स और हैमस्ट्रिंग पर तनाव बनाए रखते हुए नियंत्रित तरीके से वजन वापस कम करें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Wyreguluj wysokość siedziska i platformę na stopy do żądanej pozycji.",
+      "Usiądź na maszynie, opierając plecy o poduszkę, a stopy płasko na platformie.",
+      "Chwyć uchwyty lub boki siedziska dla stabilizacji.",
+      "Napnij pośladki i mięśnie dwugłowe uda, a następnie odepchnij się przez pięty, aby unieść ciężar.",
+      "Utrzymuj proste plecy i unikaj garbienia barków.",
+      "W pełni wyprostuj biodra na górze ruchu, ściskając pośladki.",
+      "Opuść ciężar w kontrolowany sposób, utrzymując napięcie w pośladkach i mięśniach dwugłowych uda.",
+      "Powtórz zgodnie z zaplanowaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "시트의 높이와 발판을 원하는 위치로 조정한다.",
+      "머신에 앉아 등을 패드에 기대고 발을 발판에 편다.",
+      "안정성을 위해 손잡이나 시트 옆을 잡는다.",
+      "둔근과 햄스트링을 활성화하고 발뒤꿈치로 밀어 무게를 들어 올린다.",
+      "등을 펴고 어깨가 둥글어지지 않도록 한다.",
+      "동작의 상단에서 엉덩이를 완전히 펼치고 둔근을 쥔다.",
+      "둔근과 햄스트링에 긴장을 유지하며 조절 있게 무게를 내린다.",
+      "원하는 횟수만큼 반복한다."
+    ],
+    "fr": [
+      "Règle la hauteur du siège et la plateforme pour pieds dans la position souhaitée.",
+      "Assieds-toi sur la machine, le dos contre le coussinet et les pieds à plat sur la plateforme de pied.",
+      "Saisis les poignées ou les côtés du siège pour te stabiliser.",
+      "Contracte tes fessiers et tes ischio-jambiers, et pousse sur tes talons pour soulever le poids.",
+      "Garde le dos droit et évite d'arrondir tes épaules.",
+      "Étends complètement tes hanches en haut du mouvement, en contractant tes fessiers.",
+      "Abaisse le poids de manière contrôlée, en gardant la tension sur tes fessiers et tes ischio-jambiers.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings",
+    "quadriceps"
+  ],
+  "target": "glutes",
+  "image": "images/0578-GUT8I22.jpg",
+  "gif_url": "videos/0578-GUT8I22.gif",
+  "media_id": "GUT8I22",
+  "created_at": "2026-03-18T12:31:32.886207+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,102 @@
+{
+  "id": "0709",
+  "name": "side hip (on parallel bars)",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand between two parallel bars with your feet shoulder-width apart. Place your hands on the bars and lift your body off the ground, supporting your weight on your arms. Engage your abs and slowly lift your legs to the side, keeping them straight. Pause for a moment at the top, then slowly lower your legs back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Mettiti tra due barre parallele con i piedi alla larghezza delle spalle. Metti le mani sulle barre e solleva il corpo da terra, sostenendo il peso sulle braccia. Coinvolgi gli addominali e solleva lentamente le gambe di lato, mantenendole dritte. Fai una pausa per un momento in alto, quindi abbassa lentamente le gambe fino alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde iki paralel çubuğun arasında durun. Ellerinizi barların üzerine koyun ve ağırlığınızı kollarınıza vererek vücudunuzu yerden kaldırın. Karın kaslarınızı devreye sokun ve bacaklarınızı düz tutarak yavaşça yana doğru kaldırın. Tepe noktasında bir an duraklayın, ardından bacaklarınızı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie entre dos barras paralelas con los pies separados a la altura de los hombros. Coloca las manos sobre las barras y levanta el cuerpo del suelo, apoyando tu peso en los brazos. Contrae el abdomen y levanta lentamente las piernas hacia el lado, manteniéndolas rectas. Haz una pausa por un momento en la parte superior, luego baja lentamente las piernas de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте между двумя параллельными брусьями, поставив ноги на ширине плеч. Положите руки на перекладины и поднимите тело от земли, удерживая вес на руках. Напрягите пресс и медленно поднимите ноги в стороны, сохраняя их прямыми. Задержитесь на мгновение в верхней точке, затем медленно опустите ноги обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "站在两根平行杠之间，双脚分开与肩同宽。 将双手放在横杆上，将身体抬离地面，用手臂支撑体重。 收紧腹肌，慢慢将双腿向一侧抬起，保持伸直。 在顶部暂停片刻，然后慢慢将双腿放回起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए दो समानांतर पट्टियों के बीच खड़े हो जाएं। अपने हाथों को सलाखों पर रखें और अपने वजन को अपनी भुजाओं पर सहारा देते हुए अपने शरीर को जमीन से ऊपर उठाएं। अपने पेट को संलग्न करें और धीरे-धीरे अपने पैरों को सीधा रखते हुए बगल की ओर उठाएं। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने पैरों को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań między dwoma równoległymi poręczami, stopy w rozkroku na szerokość barków. Oprzyj ręce na poręczach i unieś ciało nad podłogę, opierając ciężar ciała na rękach. Napnij mięśnie brzucha i powoli unieś nogi na bok, trzymając je prosto. Zatrzymaj się na chwilę na górze, a następnie powoli opuść nogi z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę razy.",
+    "ko": "두 개의 평행봉 사이에 발을 어깨너비로 벌리고 서세요. 양손을 바에 올려놓고 신체를 들어 팔로 체중을 지탱합니다. 복부를 활성화하고 다리를 옆으로 천천히 들어 올립니다. 다리는 펴진 상태로 유지합니다. 위쪽에서 잠깐 멈춘 후 다리를 천천히 시작 위치로 내립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi entre deux barres parallèles, les pieds écartés à la largeur des épaules. Place tes mains sur les barres et soulève ton corps du sol, en soutenant ton poids sur tes bras. Gaine tes abdominaux et lève lentement tes jambes sur le côté, en les gardant droites. Marque une pause en haut, puis abaisse lentement tes jambes pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand between two parallel bars with your feet shoulder-width apart.",
+      "Place your hands on the bars and lift your body off the ground, supporting your weight on your arms.",
+      "Engage your abs and slowly lift your legs to the side, keeping them straight.",
+      "Pause for a moment at the top, then slowly lower your legs back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Mettiti tra due barre parallele con i piedi alla larghezza delle spalle.",
+      "Metti le mani sulle barre e solleva il corpo da terra, sostenendo il peso sulle braccia.",
+      "Coinvolgi gli addominali e solleva lentamente le gambe di lato, mantenendole dritte.",
+      "Fai una pausa per un momento in alto, quindi abbassa lentamente le gambe fino alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde iki paralel çubuğun arasında durun.",
+      "Ellerinizi barların üzerine koyun ve ağırlığınızı kollarınıza vererek vücudunuzu yerden kaldırın.",
+      "Karın kaslarınızı devreye sokun ve bacaklarınızı düz tutarak yavaşça yana doğru kaldırın.",
+      "Tepe noktasında bir an duraklayın, ardından bacaklarınızı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie entre dos barras paralelas con los pies separados a la altura de los hombros.",
+      "Coloca las manos sobre las barras y levanta el cuerpo del suelo, apoyando tu peso en los brazos.",
+      "Contrae el abdomen y levanta lentamente las piernas hacia el lado, manteniéndolas rectas.",
+      "Haz una pausa por un momento en la parte superior, luego baja lentamente las piernas de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте между двумя параллельными брусьями, поставив ноги на ширине плеч.",
+      "Положите руки на перекладины и поднимите тело от земли, удерживая вес на руках.",
+      "Напрягите пресс и медленно поднимите ноги в стороны, сохраняя их прямыми.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите ноги обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "站在两根平行杠之间，双脚分开与肩同宽。",
+      "将双手放在横杆上，将身体抬离地面，用手臂支撑体重。",
+      "收紧腹肌，慢慢将双腿向一侧抬起，保持伸直。",
+      "在顶部暂停片刻，然后慢慢将双腿放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए दो समानांतर पट्टियों के बीच खड़े हो जाएं।",
+      "अपने हाथों को सलाखों पर रखें और अपने वजन को अपनी भुजाओं पर सहारा देते हुए अपने शरीर को जमीन से ऊपर उठाएं।",
+      "अपने पेट को संलग्न करें और धीरे-धीरे अपने पैरों को सीधा रखते हुए बगल की ओर उठाएं।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने पैरों को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań między dwoma równoległymi poręczami, stopy w rozkroku na szerokość barków.",
+      "Oprzyj ręce na poręczach i unieś ciało nad podłogę, opierając ciężar ciała na rękach.",
+      "Napnij mięśnie brzucha i powoli unieś nogi na bok, trzymając je prosto.",
+      "Zatrzymaj się na chwilę na górze, a następnie powoli opuść nogi z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "두 개의 평행봉 사이에 발을 어깨너비로 벌리고 서세요.",
+      "양손을 바에 올려놓고 신체를 들어 팔로 체중을 지탱합니다.",
+      "복부를 활성화하고 다리를 옆으로 천천히 들어 올립니다. 다리는 펴진 상태로 유지합니다.",
+      "위쪽에서 잠깐 멈춘 후 다리를 천천히 시작 위치로 내립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi entre deux barres parallèles, les pieds écartés à la largeur des épaules.",
+      "Place tes mains sur les barres et soulève ton corps du sol, en soutenant ton poids sur tes bras.",
+      "Gaine tes abdominaux et lève lentement tes jambes sur le côté, en les gardant droites.",
+      "Marque une pause en haut, puis abaisse lentement tes jambes pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "obliques",
+  "secondary_muscles": [
+    "obliques",
+    "hip flexors"
+  ],
+  "target": "abs",
+  "image": "images/0709-jTkSc6o.jpg",
+  "gif_url": "videos/0709-jTkSc6o.gif",
+  "media_id": "jTkSc6o",
+  "created_at": "2026-03-18T12:31:32.889747+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

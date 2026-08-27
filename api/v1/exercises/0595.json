@@ -1,0 +1,121 @@
+{
+  "id": "0595",
+  "name": "lever seated crunch (chest pad)",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "leverage machine",
+  "instructions": {
+    "en": "Adjust the seat height and chest pad position according to your comfort. Sit on the machine with your back against the chest pad and your feet flat on the floor. Grasp the handles or side bars for stability. Engage your abs and slowly lean back, allowing the chest pad to move with you. Pause for a moment at the maximum contraction, feeling the tension in your abs. Slowly return to the starting position by contracting your abs and pulling yourself back up. Repeat for the desired number of repetitions.",
+    "it": "Regola l'altezza del sedile e la posizione del cuscino per il torace in base al tuo comfort. Sedersi sulla macchina con la schiena contro il cuscinetto del torace e i piedi appoggiati sul pavimento. Afferrare le maniglie o le barre laterali per garantire stabilità. Coinvolgi gli addominali e inclinati lentamente all'indietro, permettendo al cuscinetto toracico di muoversi con te. Fermati un attimo alla massima contrazione, sentendo la tensione negli addominali. Ritorna lentamente alla posizione di partenza contraendo gli addominali e tirandoti indietro. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Koltuk yüksekliğini ve göğüs yastığı konumunu konforunuza göre ayarlayın. Sırtınız göğüs pedine dayalı ve ayaklarınız yere düz basacak şekilde makinenin üzerine oturun. Denge için kolları veya yan çubukları kavrayın. Karın kaslarınızı devreye sokun ve yavaşça geriye yaslanın, göğüs yastığının sizinle birlikte hareket etmesine izin verin. Maksimum kasılma anında bir an duraklayın ve karın kaslarınızdaki gerilimi hissedin. Karın kaslarınızı kasıp kendinizi yukarı çekerek yavaşça başlangıç ​​pozisyonuna dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta la altura del asiento y la posición de la almohadilla para el pecho según tu comodidad. Siéntate en la máquina con la espalda apoyada en la almohadilla para el pecho y los pies planos en el suelo. Sujeta las asas o las barras laterales para mayor estabilidad. Activa el abdomen y reclínate lentamente hacia atrás, permitiendo que el respaldo se mueva contigo. Haz una pausa en la contracción máxima, sintiendo la tensión en el abdomen. Vuelve lentamente a la posición inicial contrayendo el abdomen y tirando de tu cuerpo hacia arriba. Repite el número de repeticiones deseado.",
+    "ru": "Отрегулируйте высоту сиденья и положение подкладки для груди в соответствии с вашим комфортом. Сядьте на тренажер, прислонившись спиной к нагруднику, а ступни поставьте на пол. Возьмитесь за ручки или боковые перекладины для устойчивости. Напрягите пресс и медленно откиньтесь назад, позволяя подушечке для груди двигаться вместе с вами. Сделайте паузу на мгновение при максимальном сокращении, чувствуя напряжение в прессе. Медленно вернитесь в исходное положение, напрягая пресс и подтягиваясь обратно вверх. Повторите необходимое количество повторений.",
+    "zh": "根据您的舒适度调整座椅高度和胸垫位置。 坐在机器上，背部靠在胸垫上，双脚平放在地板上。 抓住手柄或侧杆以保持稳定性。 收紧腹肌并慢慢向后倾斜，让胸垫随着您一起移动。 在最大收缩时暂停片刻，感受腹肌的紧张感。 收缩腹肌并将自己拉回来，慢慢回到起始位置。 重复所需的重复次数。",
+    "hi": "अपनी सुविधा के अनुसार सीट की ऊंचाई और चेस्ट पैड की स्थिति को समायोजित करें। मशीन पर अपनी पीठ चेस्ट पैड से सटाकर बैठें और आपके पैर फर्श पर सपाट हों। स्थिरता के लिए हैंडल या साइड बार को पकड़ें। अपने पेट को संलग्न करें और धीरे-धीरे पीछे झुकें, जिससे छाती पैड आपके साथ चल सके। अपने पेट में तनाव महसूस करते हुए, अधिकतम संकुचन पर एक पल के लिए रुकें। अपने पेट को सिकोड़कर और खुद को वापस ऊपर खींचकर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Wyreguluj wysokość siedziska i pozycję wałka piersiowego zgodnie ze swoim komfortem. Usiądź na maszynie, opierając plecy o wałek piersiowy, a stopy płasko na podłodze. Chwyć uchwyty lub boczne poręcze dla stabilizacji. Napnij mięśnie brzucha i powoli odchyl się do tyłu, pozwalając, aby wałek piersiowy poruszał się razem z tobą. Zatrzymaj się na chwilę w punkcie maksymalnego skurczu, odczuwając napięcie w mięśniach brzucha. Powoli wróć do pozycji wyjściowej, napinając brzuch i przyciągając się z powrotem. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "편안함에 따라 시트 높이와 체스트패드 위치를 조절합니다. 머신에 앉아 등을 체스트패드에 붙이고 발을 바닥에 평평하게 놓습니다. 손잡이나 옆 바를 잡아 안정성을 유지합니다. 복부에 힘을 주고 천천히 몸을 뒤로 기울이며 체스트패드가 함께 움직이게 합니다. 최대 수축에서 잠시 멈춰 복부의 긴장을 느낍니다. 복부에 힘을 주고 위로 당겨 천천히 시작 위치로 돌아옵니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Règle la hauteur du siège et la position du coussin de poitrine selon ton confort. Assieds-toi sur la machine, le dos contre le coussinet de poitrine et les pieds à plat sur le sol. Saisis les poignées ou les barres latérales pour te stabiliser. Gaine tes abdominaux et penche-toi lentement en arrière, en laissant le coussin de poitrine bouger avec toi. Marque une pause à la contraction maximale, en sentant la tension dans tes abdominaux. Reviens lentement à la position de départ en contractant les abdominaux et en te tirant vers le haut. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the seat height and chest pad position according to your comfort.",
+      "Sit on the machine with your back against the chest pad and your feet flat on the floor.",
+      "Grasp the handles or side bars for stability.",
+      "Engage your abs and slowly lean back, allowing the chest pad to move with you.",
+      "Pause for a moment at the maximum contraction, feeling the tension in your abs.",
+      "Slowly return to the starting position by contracting your abs and pulling yourself back up.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Regola l'altezza del sedile e la posizione del cuscino per il torace in base al tuo comfort.",
+      "Sedersi sulla macchina con la schiena contro il cuscinetto del torace e i piedi appoggiati sul pavimento.",
+      "Afferrare le maniglie o le barre laterali per garantire stabilità.",
+      "Coinvolgi gli addominali e inclinati lentamente all'indietro, permettendo al cuscinetto toracico di muoversi con te.",
+      "Fermati un attimo alla massima contrazione, sentendo la tensione negli addominali.",
+      "Ritorna lentamente alla posizione di partenza contraendo gli addominali e tirandoti indietro.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Koltuk yüksekliğini ve göğüs yastığı konumunu konforunuza göre ayarlayın.",
+      "Sırtınız göğüs pedine dayalı ve ayaklarınız yere düz basacak şekilde makinenin üzerine oturun.",
+      "Denge için kolları veya yan çubukları kavrayın.",
+      "Karın kaslarınızı devreye sokun ve yavaşça geriye yaslanın, göğüs yastığının sizinle birlikte hareket etmesine izin verin.",
+      "Maksimum kasılma anında bir an duraklayın ve karın kaslarınızdaki gerilimi hissedin.",
+      "Karın kaslarınızı kasıp kendinizi yukarı çekerek yavaşça başlangıç ​​pozisyonuna dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta la altura del asiento y la posición de la almohadilla para el pecho según tu comodidad.",
+      "Siéntate en la máquina con la espalda apoyada en la almohadilla para el pecho y los pies planos en el suelo.",
+      "Sujeta las asas o las barras laterales para mayor estabilidad.",
+      "Activa el abdomen y reclínate lentamente hacia atrás, permitiendo que el respaldo se mueva contigo.",
+      "Haz una pausa en la contracción máxima, sintiendo la tensión en el abdomen.",
+      "Vuelve lentamente a la posición inicial contrayendo el abdomen y tirando de tu cuerpo hacia arriba.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Отрегулируйте высоту сиденья и положение подкладки для груди в соответствии с вашим комфортом.",
+      "Сядьте на тренажер, прислонившись спиной к нагруднику, а ступни поставьте на пол.",
+      "Возьмитесь за ручки или боковые перекладины для устойчивости.",
+      "Напрягите пресс и медленно откиньтесь назад, позволяя подушечке для груди двигаться вместе с вами.",
+      "Сделайте паузу на мгновение при максимальном сокращении, чувствуя напряжение в прессе.",
+      "Медленно вернитесь в исходное положение, напрягая пресс и подтягиваясь обратно вверх.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "根据您的舒适度调整座椅高度和胸垫位置。",
+      "坐在机器上，背部靠在胸垫上，双脚平放在地板上。",
+      "抓住手柄或侧杆以保持稳定性。",
+      "收紧腹肌并慢慢向后倾斜，让胸垫随着您一起移动。",
+      "在最大收缩时暂停片刻，感受腹肌的紧张感。",
+      "收缩腹肌并将自己拉回来，慢慢回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपनी सुविधा के अनुसार सीट की ऊंचाई और चेस्ट पैड की स्थिति को समायोजित करें।",
+      "मशीन पर अपनी पीठ चेस्ट पैड से सटाकर बैठें और आपके पैर फर्श पर सपाट हों।",
+      "स्थिरता के लिए हैंडल या साइड बार को पकड़ें।",
+      "अपने पेट को संलग्न करें और धीरे-धीरे पीछे झुकें, जिससे छाती पैड आपके साथ चल सके।",
+      "अपने पेट में तनाव महसूस करते हुए, अधिकतम संकुचन पर एक पल के लिए रुकें।",
+      "अपने पेट को सिकोड़कर और खुद को वापस ऊपर खींचकर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Wyreguluj wysokość siedziska i pozycję wałka piersiowego zgodnie ze swoim komfortem.",
+      "Usiądź na maszynie, opierając plecy o wałek piersiowy, a stopy płasko na podłodze.",
+      "Chwyć uchwyty lub boczne poręcze dla stabilizacji.",
+      "Napnij mięśnie brzucha i powoli odchyl się do tyłu, pozwalając, aby wałek piersiowy poruszał się razem z tobą.",
+      "Zatrzymaj się na chwilę w punkcie maksymalnego skurczu, odczuwając napięcie w mięśniach brzucha.",
+      "Powoli wróć do pozycji wyjściowej, napinając brzuch i przyciągając się z powrotem.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "편안함에 따라 시트 높이와 체스트패드 위치를 조절합니다.",
+      "머신에 앉아 등을 체스트패드에 붙이고 발을 바닥에 평평하게 놓습니다.",
+      "손잡이나 옆 바를 잡아 안정성을 유지합니다.",
+      "복부에 힘을 주고 천천히 몸을 뒤로 기울이며 체스트패드가 함께 움직이게 합니다.",
+      "최대 수축에서 잠시 멈춰 복부의 긴장을 느낍니다.",
+      "복부에 힘을 주고 위로 당겨 천천히 시작 위치로 돌아옵니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Règle la hauteur du siège et la position du coussin de poitrine selon ton confort.",
+      "Assieds-toi sur la machine, le dos contre le coussinet de poitrine et les pieds à plat sur le sol.",
+      "Saisis les poignées ou les barres latérales pour te stabiliser.",
+      "Gaine tes abdominaux et penche-toi lentement en arrière, en laissant le coussin de poitrine bouger avec toi.",
+      "Marque une pause à la contraction maximale, en sentant la tension dans tes abdominaux.",
+      "Reviens lentement à la position de départ en contractant les abdominaux et en te tirant vers le haut.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "obliques",
+  "secondary_muscles": [
+    "obliques"
+  ],
+  "target": "abs",
+  "image": "images/0595-ZnJHhMk.jpg",
+  "gif_url": "videos/0595-ZnJHhMk.gif",
+  "media_id": "ZnJHhMk",
+  "created_at": "2026-03-18T12:31:32.886937+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

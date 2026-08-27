@@ -1,0 +1,102 @@
+{
+  "id": "2143",
+  "name": "dumbbell standing around world",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and hold a dumbbell in each hand. Extend your arms straight out to the sides at shoulder height, palms facing down. Keeping your arms straight, slowly rotate your arms in a circular motion, bringing the dumbbells in front of your body and then overhead. Continue the circular motion, bringing the dumbbells back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi distanti alla larghezza delle spalle e tieni un manubrio in ciascuna mano. Allunga le braccia dritte ai lati all'altezza delle spalle, palmi rivolti verso il basso. Tenendo le braccia dritte, ruota lentamente le braccia in un movimento circolare, portando i manubri davanti al corpo e poi sopra la testa. Continua il movimento circolare, riportando i manubri giù alla posizione di partenza. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınızı omuz genişliğinde açın ve her iki elinize de birer dambıl alın. Kollarınızı omuz yüksekliğinde, avuçlarınız aşağıya bakacak şekilde yanlara doğru düz bir şekilde uzatın. Kollarınızı düz tutarak kollarınızı yavaşça dairesel bir hareketle döndürün, dambılları vücudunuzun önüne ve ardından başınızın üstüne getirin. Dambılları başlangıç ​​pozisyonuna getirerek dairesel harekete devam edin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y sostén una mancuerna en cada mano. Extiende los brazos rectos hacia los lados a la altura de los hombros, con las palmas hacia abajo. Manteniendo los brazos rectos, gira lentamente los brazos en un movimiento circular, llevando las mancuernas frente al cuerpo y luego por encima de la cabeza. Continúa el movimiento circular, bajando las mancuernas de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, возьмите в каждую руку по гантели. Вытяните руки прямо в стороны на уровне плеч ладонями вниз. Держа руки прямыми, медленно вращайте ими круговыми движениями, поднимая гантели перед собой, а затем над головой. Продолжайте круговые движения, возвращая гантели в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，每只手各握一个哑铃。 将手臂伸直至两侧，与肩同高，手掌朝下。 保持手臂伸直，慢慢地以圆周运动旋转手臂，将哑铃放在身体前面，然后举过头顶。 继续圆周运动，将哑铃放回起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और प्रत्येक हाथ में डंबल पकड़ लें। अपनी भुजाओं को कंधे की ऊंचाई पर बगल की ओर सीधा फैलाएं, हथेलियाँ नीचे की ओर हों। अपनी भुजाओं को सीधा रखते हुए, धीरे-धीरे अपनी भुजाओं को गोलाकार गति में घुमाएँ, डम्बल को अपने शरीर के सामने और फिर ऊपर की ओर लाएँ। डम्बल को प्रारंभिक स्थिति में वापस लाते हुए गोलाकार गति जारी रखें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań w rozkroku na szerokość barków i trzymaj hantle w obu dłoniach. Wyprostuj ramiona w bok na wysokości barków, dłonie skierowane w dół. Trzymając ramiona proste, powoli wykonuj nimi ruch kolisty, prowadząc hantle przed ciałem, a następnie nad głowę. Kontynuuj ruch kolisty, sprowadzając hantle z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "어깨 너비로 발을 벌리고 양손에 덤벨을 들고 서 있습니다. 팔을 어깨 높이에서 옆으로 뻗고 손바닥은 아래를 향합니다. 팔을 곧게 펴면서 원형 동작으로 천천히 회전시키며, 덤벨을 몸 앞으로 가져온 후 머리 위로 올립니다. 원형 동작을 계속하면서 덤벨을 다시 시작 자세로 내립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens un haltère dans chaque main. Étends les bras droit sur les côtés à hauteur d'épaules, les paumes tournées vers le bas. En gardant les bras tendus, fais lentement pivoter tes bras en un mouvement circulaire, en amenant les haltères devant ton corps puis au-dessus de ta tête. Continue le mouvement circulaire en ramenant les haltères vers le bas jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and hold a dumbbell in each hand.",
+      "Extend your arms straight out to the sides at shoulder height, palms facing down.",
+      "Keeping your arms straight, slowly rotate your arms in a circular motion, bringing the dumbbells in front of your body and then overhead.",
+      "Continue the circular motion, bringing the dumbbells back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi distanti alla larghezza delle spalle e tieni un manubrio in ciascuna mano.",
+      "Allunga le braccia dritte ai lati all'altezza delle spalle, palmi rivolti verso il basso.",
+      "Tenendo le braccia dritte, ruota lentamente le braccia in un movimento circolare, portando i manubri davanti al corpo e poi sopra la testa.",
+      "Continua il movimento circolare, riportando i manubri giù alla posizione di partenza.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınızı omuz genişliğinde açın ve her iki elinize de birer dambıl alın.",
+      "Kollarınızı omuz yüksekliğinde, avuçlarınız aşağıya bakacak şekilde yanlara doğru düz bir şekilde uzatın.",
+      "Kollarınızı düz tutarak kollarınızı yavaşça dairesel bir hareketle döndürün, dambılları vücudunuzun önüne ve ardından başınızın üstüne getirin.",
+      "Dambılları başlangıç ​​pozisyonuna getirerek dairesel harekete devam edin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y sostén una mancuerna en cada mano.",
+      "Extiende los brazos rectos hacia los lados a la altura de los hombros, con las palmas hacia abajo.",
+      "Manteniendo los brazos rectos, gira lentamente los brazos en un movimiento circular, llevando las mancuernas frente al cuerpo y luego por encima de la cabeza.",
+      "Continúa el movimiento circular, bajando las mancuernas de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, возьмите в каждую руку по гантели.",
+      "Вытяните руки прямо в стороны на уровне плеч ладонями вниз.",
+      "Держа руки прямыми, медленно вращайте ими круговыми движениями, поднимая гантели перед собой, а затем над головой.",
+      "Продолжайте круговые движения, возвращая гантели в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，每只手各握一个哑铃。",
+      "将手臂伸直至两侧，与肩同高，手掌朝下。",
+      "保持手臂伸直，慢慢地以圆周运动旋转手臂，将哑铃放在身体前面，然后举过头顶。",
+      "继续圆周运动，将哑铃放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और प्रत्येक हाथ में डंबल पकड़ लें।",
+      "अपनी भुजाओं को कंधे की ऊंचाई पर बगल की ओर सीधा फैलाएं, हथेलियाँ नीचे की ओर हों।",
+      "अपनी भुजाओं को सीधा रखते हुए, धीरे-धीरे अपनी भुजाओं को गोलाकार गति में घुमाएँ, डम्बल को अपने शरीर के सामने और फिर ऊपर की ओर लाएँ।",
+      "डम्बल को प्रारंभिक स्थिति में वापस लाते हुए गोलाकार गति जारी रखें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków i trzymaj hantle w obu dłoniach.",
+      "Wyprostuj ramiona w bok na wysokości barków, dłonie skierowane w dół.",
+      "Trzymając ramiona proste, powoli wykonuj nimi ruch kolisty, prowadząc hantle przed ciałem, a następnie nad głowę.",
+      "Kontynuuj ruch kolisty, sprowadzając hantle z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "어깨 너비로 발을 벌리고 양손에 덤벨을 들고 서 있습니다.",
+      "팔을 어깨 높이에서 옆으로 뻗고 손바닥은 아래를 향합니다.",
+      "팔을 곧게 펴면서 원형 동작으로 천천히 회전시키며, 덤벨을 몸 앞으로 가져온 후 머리 위로 올립니다.",
+      "원형 동작을 계속하면서 덤벨을 다시 시작 자세로 내립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens un haltère dans chaque main.",
+      "Étends les bras droit sur les côtés à hauteur d'épaules, les paumes tournées vers le bas.",
+      "En gardant les bras tendus, fais lentement pivoter tes bras en un mouvement circulaire, en amenant les haltères devant ton corps puis au-dessus de ta tête.",
+      "Continue le mouvement circulaire en ramenant les haltères vers le bas jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "forearms"
+  ],
+  "target": "delts",
+  "image": "images/2143-RSOsp5d.jpg",
+  "gif_url": "videos/2143-RSOsp5d.gif",
+  "media_id": "RSOsp5d",
+  "created_at": "2026-03-18T12:31:32.881843+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

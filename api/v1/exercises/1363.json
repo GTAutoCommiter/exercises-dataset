@@ -1,0 +1,112 @@
+{
+  "id": "1363",
+  "name": "spine stretch",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Sit on the ground with your legs extended in front of you. Place your hands on the ground behind you, fingers pointing towards your body. Engage your core and slowly lean back, keeping your back straight. Continue leaning back until you feel a stretch in your spine. Hold the stretch for a few seconds, then slowly return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Siediti a terra con le gambe distese davanti a te. Appoggia le mani a terra dietro di te, con le dita rivolte verso il tuo corpo. Coinvolgi il tuo core e inclinati lentamente all'indietro, mantenendo la schiena dritta. Continua ad inclinarti all'indietro finché non senti un allungamento nella colonna vertebrale. Mantieni la posizione per alcuni secondi, quindi torna lentamente alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Bacaklarınız önünüzde uzatılmış halde yere oturun. Ellerinizi arkanızda yere koyun, parmaklarınız vücudunuza doğru baksın. Merkez bölgenizi devreye sokun ve sırtınızı düz tutarak yavaşça geriye yaslanın. Omurganızda bir gerginlik hissedene kadar geriye yaslanmaya devam edin. Gerdirmeyi birkaç saniye basılı tutun, ardından yavaşça başlangıç ​​pozisyonuna dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Siéntate en el suelo con las piernas extendidas frente a ti. Coloca las manos en el suelo detrás de ti, con los dedos apuntando hacia tu cuerpo. Activa el core e inclínate lentamente hacia atrás, manteniendo la espalda recta. Sigue inclinándote hacia atrás hasta que sientas un estiramiento en la columna. Mantén el estiramiento durante unos segundos, luego regresa lentamente a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Сядьте на пол, вытянув ноги перед собой. Положите руки на землю позади себя, пальцы направлены к телу. Напрягите корпус и медленно откиньтесь назад, сохраняя спину прямой. Продолжайте откидываться назад, пока не почувствуете растяжение в позвоночнике. Удерживайте растяжку несколько секунд, затем медленно вернитесь в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "坐在地上，双腿在身前伸展。 将双手放在身后的地面上，手指指向身体。 启动你的核心并慢慢向后倾斜，保持背部挺直。 继续向后倾斜，直到感觉到脊柱被拉伸。 保持伸展几秒钟，然后慢慢回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को सामने फैलाकर जमीन पर बैठें। अपने हाथों को अपने पीछे ज़मीन पर रखें, उंगलियाँ आपके शरीर की ओर हों। अपने कोर को संलग्न करें और अपनी पीठ को सीधा रखते हुए धीरे-धीरे पीछे झुकें। जब तक आप अपनी रीढ़ में खिंचाव महसूस न करें तब तक पीछे झुकते रहें। कुछ सेकंड के लिए खिंचाव बनाए रखें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Usiądź na podłodze z nogami wyprostowanymi przed sobą. Ustaw dłonie na podłodze za sobą, palcami skierowanymi w stronę ciała. Napnij mięśnie brzucha i powoli odchyl się do tyłu, trzymając plecy proste. Kontynuuj odchylanie się do tyłu, aż poczujesz rozciąganie w kręgosłupie. Przytrzymaj rozciąganie przez kilka sekund, a następnie powoli wróć do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "바닥에 앉아서 다리를 앞으로 펼칩니다. 손을 몸 뒤의 바닥에 올리되 손가락이 몸을 향합니다. 복부에 힘을 주고 등을 펴진 상태로 천천히 뒤로 기울입니다. 척추에 스트레치를 느낄 때까지 뒤로 계속 기울입니다. 스트레치를 몇 초간 유지한 후 천천히 시작 위치로 돌아옵니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Assieds-toi au sol, les jambes tendues devant toi. Place tes mains au sol derrière toi, les doigts pointés vers ton corps. Gaine ta sangle abdominale et penche-toi lentement en arrière, en gardant le dos droit. Continue à te pencher vers l'arrière jusqu'à ce que tu sentes un étirement dans ta colonne vertébrale. Maintiens l'étirement pendant quelques secondes, puis reviens lentement à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on the ground with your legs extended in front of you.",
+      "Place your hands on the ground behind you, fingers pointing towards your body.",
+      "Engage your core and slowly lean back, keeping your back straight.",
+      "Continue leaning back until you feel a stretch in your spine.",
+      "Hold the stretch for a few seconds, then slowly return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Siediti a terra con le gambe distese davanti a te.",
+      "Appoggia le mani a terra dietro di te, con le dita rivolte verso il tuo corpo.",
+      "Coinvolgi il tuo core e inclinati lentamente all'indietro, mantenendo la schiena dritta.",
+      "Continua ad inclinarti all'indietro finché non senti un allungamento nella colonna vertebrale.",
+      "Mantieni la posizione per alcuni secondi, quindi torna lentamente alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Bacaklarınız önünüzde uzatılmış halde yere oturun.",
+      "Ellerinizi arkanızda yere koyun, parmaklarınız vücudunuza doğru baksın.",
+      "Merkez bölgenizi devreye sokun ve sırtınızı düz tutarak yavaşça geriye yaslanın.",
+      "Omurganızda bir gerginlik hissedene kadar geriye yaslanmaya devam edin.",
+      "Gerdirmeyi birkaç saniye basılı tutun, ardından yavaşça başlangıç ​​pozisyonuna dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Siéntate en el suelo con las piernas extendidas frente a ti.",
+      "Coloca las manos en el suelo detrás de ti, con los dedos apuntando hacia tu cuerpo.",
+      "Activa el core e inclínate lentamente hacia atrás, manteniendo la espalda recta.",
+      "Sigue inclinándote hacia atrás hasta que sientas un estiramiento en la columna.",
+      "Mantén el estiramiento durante unos segundos, luego regresa lentamente a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на пол, вытянув ноги перед собой.",
+      "Положите руки на землю позади себя, пальцы направлены к телу.",
+      "Напрягите корпус и медленно откиньтесь назад, сохраняя спину прямой.",
+      "Продолжайте откидываться назад, пока не почувствуете растяжение в позвоночнике.",
+      "Удерживайте растяжку несколько секунд, затем медленно вернитесь в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "坐在地上，双腿在身前伸展。",
+      "将双手放在身后的地面上，手指指向身体。",
+      "启动你的核心并慢慢向后倾斜，保持背部挺直。",
+      "继续向后倾斜，直到感觉到脊柱被拉伸。",
+      "保持伸展几秒钟，然后慢慢回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को सामने फैलाकर जमीन पर बैठें।",
+      "अपने हाथों को अपने पीछे ज़मीन पर रखें, उंगलियाँ आपके शरीर की ओर हों।",
+      "अपने कोर को संलग्न करें और अपनी पीठ को सीधा रखते हुए धीरे-धीरे पीछे झुकें।",
+      "जब तक आप अपनी रीढ़ में खिंचाव महसूस न करें तब तक पीछे झुकते रहें।",
+      "कुछ सेकंड के लिए खिंचाव बनाए रखें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Usiądź na podłodze z nogami wyprostowanymi przed sobą.",
+      "Ustaw dłonie na podłodze za sobą, palcami skierowanymi w stronę ciała.",
+      "Napnij mięśnie brzucha i powoli odchyl się do tyłu, trzymając plecy proste.",
+      "Kontynuuj odchylanie się do tyłu, aż poczujesz rozciąganie w kręgosłupie.",
+      "Przytrzymaj rozciąganie przez kilka sekund, a następnie powoli wróć do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "바닥에 앉아서 다리를 앞으로 펼칩니다.",
+      "손을 몸 뒤의 바닥에 올리되 손가락이 몸을 향합니다.",
+      "복부에 힘을 주고 등을 펴진 상태로 천천히 뒤로 기울입니다.",
+      "척추에 스트레치를 느낄 때까지 뒤로 계속 기울입니다.",
+      "스트레치를 몇 초간 유지한 후 천천히 시작 위치로 돌아옵니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Assieds-toi au sol, les jambes tendues devant toi.",
+      "Place tes mains au sol derrière toi, les doigts pointés vers ton corps.",
+      "Gaine ta sangle abdominale et penche-toi lentement en arrière, en gardant le dos droit.",
+      "Continue à te pencher vers l'arrière jusqu'à ce que tu sentes un étirement dans ta colonne vertébrale.",
+      "Maintiens l'étirement pendant quelques secondes, puis reviens lentement à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings",
+    "glutes"
+  ],
+  "target": "spine",
+  "image": "images/1363-JbC2iaV.jpg",
+  "gif_url": "videos/1363-JbC2iaV.gif",
+  "media_id": "JbC2iaV",
+  "created_at": "2026-03-18T12:31:32.89134+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

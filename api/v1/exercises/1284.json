@@ -1,0 +1,103 @@
+{
+  "id": "1284",
+  "name": "dumbbell lying pullover on exercise ball",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Sit on an exercise ball and roll forward until your upper back is resting on the ball. Hold a dumbbell with both hands and extend your arms straight up over your chest. Slowly lower the dumbbell behind your head while keeping your arms straight. Pause for a moment, then raise the dumbbell back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Siediti su una palla da ginnastica e rotola in avanti finché la parte superiore della schiena non si appoggia sulla palla. Tieni un manubrio con entrambe le mani e allunga le braccia dritte sopra il petto. Abbassa lentamente il manubrio dietro la testa mantenendo le braccia dritte. Fermati un attimo, poi solleva il manubrio di nuovo alla posizione di partenza. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Bir egzersiz topunun üzerine oturun ve sırtınızın üst kısmı topun üzerinde durana kadar ileri doğru yuvarlanın. İki elinizle bir dambılı tutun ve kollarınızı göğsünüzün üzerine doğru uzatın. Kollarınızı düz tutarak dambılı başınızın arkasına yavaşça indirin. Bir an duraklayın ve dambılı tekrar başlangıç ​​pozisyonuna kaldırın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Siéntate sobre un balón de estabilidad y rueda hacia adelante hasta que la parte superior de la espalda quede apoyada en el balón. Sostén una mancuerna con ambas manos y extiende los brazos rectos hacia arriba sobre el pecho. Baja lentamente la mancuerna detrás de la cabeza manteniendo los brazos rectos. Haz una pausa por un momento, luego levanta la mancuerna de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Сядьте на мяч для упражнений и перекатывайтесь вперед, пока верхняя часть спины не окажется на мяче. Возьмите гантель обеими руками и вытяните руки прямо над грудью. Медленно опустите гантель за голову, сохраняя руки прямыми. Сделайте паузу на мгновение, затем поднимите гантель обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "坐在健身球上，向前滚动，直到上背部靠在球上。 双手握住哑铃，将手臂伸直至胸部上方。 慢慢地将哑铃放到脑后，同时保持手臂伸直。 暂停片刻，然后将哑铃举回到起始位置。 重复所需的重复次数。",
+    "hi": "एक व्यायाम गेंद पर बैठें और तब तक आगे बढ़ें जब तक कि आपकी पीठ का ऊपरी हिस्सा गेंद पर न टिक जाए। दोनों हाथों से डम्बल पकड़ें और अपनी बाहों को सीधे अपनी छाती के ऊपर फैलाएँ। अपनी भुजाओं को सीधा रखते हुए धीरे-धीरे डम्बल को अपने सिर के पीछे नीचे लाएँ। एक पल के लिए रुकें, फिर डम्बल को वापस प्रारंभिक स्थिति में उठाएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Usiądź na piłce gimnastycznej i przetocz się do przodu, aż górna część pleców będzie opierać się na piłce. Trzymaj hantlę obiema rękami i wyprostuj ręce prosto nad klatką piersiową. Powoli opuszczaj hantlę za głowę, utrzymując wyprostowane ręce. Zatrzymaj się na chwilę, a następnie unieś hantlę z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "운동 공에 앉아 앞으로 굴려나가 등이 공에 닿도록 합니다. 양손으로 덤벨을 들고 양팔을 가슴 위로 쭉 펴 올립니다. 팔을 쭉 펴 유지하면서 덤벨을 머리 뒤로 천천히 내립니다. 잠시 멈추었다가 덤벨을 시작 위치로 올립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Assieds-toi sur un ballon d'exercice et roule vers l'avant jusqu'à ce que le haut de ton dos repose sur le ballon. Tiens un haltère des deux mains et étends les bras droit au-dessus de ta poitrine. Abaisse lentement l'haltère derrière ta tête tout en gardant tes bras tendus. Marque une pause, puis ramène l'haltère à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on an exercise ball and roll forward until your upper back is resting on the ball.",
+      "Hold a dumbbell with both hands and extend your arms straight up over your chest.",
+      "Slowly lower the dumbbell behind your head while keeping your arms straight.",
+      "Pause for a moment, then raise the dumbbell back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Siediti su una palla da ginnastica e rotola in avanti finché la parte superiore della schiena non si appoggia sulla palla.",
+      "Tieni un manubrio con entrambe le mani e allunga le braccia dritte sopra il petto.",
+      "Abbassa lentamente il manubrio dietro la testa mantenendo le braccia dritte.",
+      "Fermati un attimo, poi solleva il manubrio di nuovo alla posizione di partenza.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Bir egzersiz topunun üzerine oturun ve sırtınızın üst kısmı topun üzerinde durana kadar ileri doğru yuvarlanın.",
+      "İki elinizle bir dambılı tutun ve kollarınızı göğsünüzün üzerine doğru uzatın.",
+      "Kollarınızı düz tutarak dambılı başınızın arkasına yavaşça indirin.",
+      "Bir an duraklayın ve dambılı tekrar başlangıç ​​pozisyonuna kaldırın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Siéntate sobre un balón de estabilidad y rueda hacia adelante hasta que la parte superior de la espalda quede apoyada en el balón.",
+      "Sostén una mancuerna con ambas manos y extiende los brazos rectos hacia arriba sobre el pecho.",
+      "Baja lentamente la mancuerna detrás de la cabeza manteniendo los brazos rectos.",
+      "Haz una pausa por un momento, luego levanta la mancuerna de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на мяч для упражнений и перекатывайтесь вперед, пока верхняя часть спины не окажется на мяче.",
+      "Возьмите гантель обеими руками и вытяните руки прямо над грудью.",
+      "Медленно опустите гантель за голову, сохраняя руки прямыми.",
+      "Сделайте паузу на мгновение, затем поднимите гантель обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "坐在健身球上，向前滚动，直到上背部靠在球上。",
+      "双手握住哑铃，将手臂伸直至胸部上方。",
+      "慢慢地将哑铃放到脑后，同时保持手臂伸直。",
+      "暂停片刻，然后将哑铃举回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "एक व्यायाम गेंद पर बैठें और तब तक आगे बढ़ें जब तक कि आपकी पीठ का ऊपरी हिस्सा गेंद पर न टिक जाए।",
+      "दोनों हाथों से डम्बल पकड़ें और अपनी बाहों को सीधे अपनी छाती के ऊपर फैलाएँ।",
+      "अपनी भुजाओं को सीधा रखते हुए धीरे-धीरे डम्बल को अपने सिर के पीछे नीचे लाएँ।",
+      "एक पल के लिए रुकें, फिर डम्बल को वापस प्रारंभिक स्थिति में उठाएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Usiądź na piłce gimnastycznej i przetocz się do przodu, aż górna część pleców będzie opierać się na piłce.",
+      "Trzymaj hantlę obiema rękami i wyprostuj ręce prosto nad klatką piersiową.",
+      "Powoli opuszczaj hantlę za głowę, utrzymując wyprostowane ręce.",
+      "Zatrzymaj się na chwilę, a następnie unieś hantlę z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "운동 공에 앉아 앞으로 굴려나가 등이 공에 닿도록 합니다.",
+      "양손으로 덤벨을 들고 양팔을 가슴 위로 쭉 펴 올립니다.",
+      "팔을 쭉 펴 유지하면서 덤벨을 머리 뒤로 천천히 내립니다.",
+      "잠시 멈추었다가 덤벨을 시작 위치로 올립니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Assieds-toi sur un ballon d'exercice et roule vers l'avant jusqu'à ce que le haut de ton dos repose sur le ballon.",
+      "Tiens un haltère des deux mains et étends les bras droit au-dessus de ta poitrine.",
+      "Abaisse lentement l'haltère derrière ta tête tout en gardant tes bras tendus.",
+      "Marque une pause, puis ramène l'haltère à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "shoulders",
+    "back"
+  ],
+  "target": "pectorals",
+  "image": "images/1284-iK59oEA.jpg",
+  "gif_url": "videos/1284-iK59oEA.gif",
+  "media_id": "iK59oEA",
+  "created_at": "2026-03-18T12:31:32.879495+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

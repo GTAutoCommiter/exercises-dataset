@@ -1,0 +1,102 @@
+{
+  "id": "1713",
+  "name": "assisted prone lying quads stretch",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "assisted",
+  "instructions": {
+    "en": "Lie face down on the ground with your legs extended. Bend your left knee and reach back with your left hand to grab your left foot or ankle. Gently pull your left foot towards your glutes, feeling a stretch in your left quad. Hold the stretch for 20-30 seconds, then release. Repeat with your right leg.",
+    "it": "Sdraiati a faccia in giù con le gambe distese. Piega il ginocchio sinistro e allunga la mano sinistra indietro per afferrare il piede o la caviglia sinistra. Tira delicatamente il piede sinistro verso i glutei, avvertendo un allungamento nel quadricipite sinistro. Mantieni la posizione per 20-30 secondi, quindi rilascia. Ripeti con la gamba destra.",
+    "tr": "Bacaklarınız uzatılmış halde yüzüstü yere yatın. Sol dizinizi bükün ve sol ayağınızı veya ayak bileğinizi tutmak için sol elinizle geriye doğru uzanın. Sol ayağınızı yavaşça kalça kaslarınıza doğru çekin, sol kuadrisepsinizde bir gerginlik hissedin. Gerdirmeyi 20-30 saniye kadar tutun, sonra bırakın. Sağ bacağınızla tekrarlayın.",
+    "es": "Túmbate boca abajo en el suelo con las piernas extendidas. Flexiona la rodilla izquierda y lleva la mano izquierda hacia atrás para agarrar el pie o el tobillo izquierdo. Jala suavemente el pie izquierdo hacia los glúteos, sintiendo un estiramiento en el cuádriceps izquierdo. Mantén el estiramiento durante 20-30 segundos, luego suelta. Repite con la pierna derecha.",
+    "ru": "Лягте лицом вниз на землю, вытянув ноги. Согните левое колено и потянитесь левой рукой назад, чтобы схватить левую ступню или лодыжку. Аккуратно подтяните левую ногу к ягодицам, чувствуя растяжение в левом квадрицепсе. Удерживайте растяжку 20–30 секунд, затем расслабьтесь. Повторите с правой ногой.",
+    "zh": "脸朝下躺在地上，双腿伸直。 弯曲左膝，用左手向后抓住左脚或脚踝。 轻轻地将左脚拉向臀肌，感受左股四头肌的拉伸。 保持拉伸 20-30 秒，然后放松。 右腿重复上述动作。",
+    "hi": "अपने पैरों को फैलाकर जमीन पर मुंह करके लेट जाएं। अपने बाएँ घुटने को मोड़ें और अपने बाएँ हाथ को पीछे ले जाकर अपने बाएँ पैर या टखने को पकड़ें। अपने बाएँ पैर को धीरे से अपने ग्लूट्स की ओर खींचें, अपने बाएँ क्वाड में खिंचाव महसूस करें। 20-30 सेकंड तक खिंचाव बनाए रखें, फिर छोड़ें। अपने दाहिने पैर से दोहराएँ।",
+    "pl": "Połóż się na brzuchu na podłodze z wyciągniętymi nogami. Ugnij lewe kolano i sięgnij lewą ręką do tyłu, aby chwycić lewą stopę lub kostkę. Delikatnie przyciągnij lewą stopę w kierunku pośladków, odczuwając rozciąganie w lewym mięśniu czworogłowym uda. Utrzymaj rozciąganie przez 20-30 sekund, a następnie zwolnij. Powtórz prawą nogą.",
+    "ko": "바닥에 엎드려 다리를 펼칩니다. 왼쪽 무릎을 구부리고 왼쪽 손으로 뒤로 뻗어 발이나 발목을 잡습니다. 왼쪽 발을 둔부 쪽으로 천천히 당겨 왼쪽 대퇴사두근이 늘어나는 것을 느낍니다. 스트레칭을 20~30초간 유지한 다음 풉니다. 오른쪽 다리로 반복합니다.",
+    "fr": "Allonge-toi face vers le bas au sol, les jambes tendues. Fléchis ton genou gauche et attrape ton pied ou ta cheville gauche en tendant ta main gauche vers l'arrière. Tire doucement ton pied gauche vers tes fessiers, en sentant un étirement dans ton quadriceps gauche. Maintiens l'étirement pendant 20 à 30 secondes, puis relâche. Répète avec ta jambe droite."
+  },
+  "instruction_steps": {
+    "en": [
+      "Lie face down on the ground with your legs extended.",
+      "Bend your left knee and reach back with your left hand to grab your left foot or ankle.",
+      "Gently pull your left foot towards your glutes, feeling a stretch in your left quad.",
+      "Hold the stretch for 20-30 seconds, then release.",
+      "Repeat with your right leg."
+    ],
+    "it": [
+      "Sdraiati a faccia in giù con le gambe distese.",
+      "Piega il ginocchio sinistro e allunga la mano sinistra indietro per afferrare il piede o la caviglia sinistra.",
+      "Tira delicatamente il piede sinistro verso i glutei, avvertendo un allungamento nel quadricipite sinistro.",
+      "Mantieni la posizione per 20-30 secondi, quindi rilascia.",
+      "Ripeti con la gamba destra."
+    ],
+    "tr": [
+      "Bacaklarınız uzatılmış halde yüzüstü yere yatın.",
+      "Sol dizinizi bükün ve sol ayağınızı veya ayak bileğinizi tutmak için sol elinizle geriye doğru uzanın.",
+      "Sol ayağınızı yavaşça kalça kaslarınıza doğru çekin, sol kuadrisepsinizde bir gerginlik hissedin.",
+      "Gerdirmeyi 20-30 saniye kadar tutun, sonra bırakın.",
+      "Sağ bacağınızla tekrarlayın."
+    ],
+    "es": [
+      "Túmbate boca abajo en el suelo con las piernas extendidas.",
+      "Flexiona la rodilla izquierda y lleva la mano izquierda hacia atrás para agarrar el pie o el tobillo izquierdo.",
+      "Jala suavemente el pie izquierdo hacia los glúteos, sintiendo un estiramiento en el cuádriceps izquierdo.",
+      "Mantén el estiramiento durante 20-30 segundos, luego suelta.",
+      "Repite con la pierna derecha."
+    ],
+    "ru": [
+      "Лягте лицом вниз на землю, вытянув ноги.",
+      "Согните левое колено и потянитесь левой рукой назад, чтобы схватить левую ступню или лодыжку.",
+      "Аккуратно подтяните левую ногу к ягодицам, чувствуя растяжение в левом квадрицепсе.",
+      "Удерживайте растяжку 20–30 секунд, затем расслабьтесь.",
+      "Повторите с правой ногой."
+    ],
+    "zh": [
+      "脸朝下躺在地上，双腿伸直。",
+      "弯曲左膝，用左手向后抓住左脚或脚踝。",
+      "轻轻地将左脚拉向臀肌，感受左股四头肌的拉伸。",
+      "保持拉伸 20-30 秒，然后放松。",
+      "右腿重复上述动作。"
+    ],
+    "hi": [
+      "अपने पैरों को फैलाकर जमीन पर मुंह करके लेट जाएं।",
+      "अपने बाएँ घुटने को मोड़ें और अपने बाएँ हाथ को पीछे ले जाकर अपने बाएँ पैर या टखने को पकड़ें।",
+      "अपने बाएँ पैर को धीरे से अपने ग्लूट्स की ओर खींचें, अपने बाएँ क्वाड में खिंचाव महसूस करें।",
+      "20-30 सेकंड तक खिंचाव बनाए रखें, फिर छोड़ें।",
+      "अपने दाहिने पैर से दोहराएँ।"
+    ],
+    "pl": [
+      "Połóż się na brzuchu na podłodze z wyciągniętymi nogami.",
+      "Ugnij lewe kolano i sięgnij lewą ręką do tyłu, aby chwycić lewą stopę lub kostkę.",
+      "Delikatnie przyciągnij lewą stopę w kierunku pośladków, odczuwając rozciąganie w lewym mięśniu czworogłowym uda.",
+      "Utrzymaj rozciąganie przez 20-30 sekund, a następnie zwolnij.",
+      "Powtórz prawą nogą."
+    ],
+    "ko": [
+      "바닥에 엎드려 다리를 펼칩니다.",
+      "왼쪽 무릎을 구부리고 왼쪽 손으로 뒤로 뻗어 발이나 발목을 잡습니다.",
+      "왼쪽 발을 둔부 쪽으로 천천히 당겨 왼쪽 대퇴사두근이 늘어나는 것을 느낍니다.",
+      "스트레칭을 20~30초간 유지한 다음 풉니다.",
+      "오른쪽 다리로 반복합니다."
+    ],
+    "fr": [
+      "Allonge-toi face vers le bas au sol, les jambes tendues.",
+      "Fléchis ton genou gauche et attrape ton pied ou ta cheville gauche en tendant ta main gauche vers l'arrière.",
+      "Tire doucement ton pied gauche vers tes fessiers, en sentant un étirement dans ton quadriceps gauche.",
+      "Maintiens l'étirement pendant 20 à 30 secondes, puis relâche.",
+      "Répète avec ta jambe droite."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings",
+    "glutes"
+  ],
+  "target": "quads",
+  "image": "images/1713-YUYAMEj.jpg",
+  "gif_url": "videos/1713-YUYAMEj.gif",
+  "media_id": "YUYAMEj",
+  "created_at": "2026-03-18T12:31:32.855403+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,113 @@
+{
+  "id": "1425",
+  "name": "sled 45 degrees one leg press",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "sled machine",
+  "instructions": {
+    "en": "Adjust the sled machine to a 45-degree angle. Sit on the sled machine with your back against the pad and your feet on the footplate. Place one foot on the footplate and extend your leg, pushing the sled away from you. Slowly bend your knee and lower the sled back to the starting position. Repeat with the other leg. Continue alternating legs for the desired number of repetitions.",
+    "it": "Regolare la macchina a slitta con un angolo di 45 gradi. Sedersi sulla macchina da slitta con la schiena contro il cuscino e i piedi sulla pedana. Posiziona un piede sulla pedana ed estendi la gamba, allontanando la slitta da te. Piega lentamente il ginocchio e riporta la slitta nella posizione di partenza. Ripeti con l'altra gamba. Continua ad alternare le gambe per il numero di ripetizioni desiderato.",
+    "tr": "Kızak makinesini 45 derecelik açıya ayarlayın. Sırtınız yastığa dayalı ve ayaklarınız taban plakasının üzerinde olacak şekilde kızak makinesinin üzerine oturun. Bir ayağınızı taban plakasının üzerine koyun ve bacağınızı uzatarak kızağı kendinizden uzağa doğru itin. Dizinizi yavaşça bükün ve kızağı başlangıç ​​pozisyonuna indirin. Diğer bacakla tekrarlayın. İstenilen sayıda tekrar için bacakları değiştirerek devam edin.",
+    "es": "Ajusta la máquina de trineo a un ángulo de 45 grados. Siéntate en la máquina de trineo con la espalda contra el respaldo y los pies sobre la placa. Coloca un pie sobre la placa y extiende la pierna, empujando el trineo alejándolo de ti. Dobla lentamente la rodilla y baja el trineo de vuelta a la posición inicial. Repite con la otra pierna. Continúa alternando las piernas durante el número de repeticiones deseado.",
+    "ru": "Отрегулируйте салазки под углом 45 градусов. Сядьте на салазки, прислонившись спиной к подушке и положив ноги на подножку. Поставьте одну ногу на подножку и вытяните ногу, отталкивая сани от себя. Медленно согните колено и опустите сани обратно в исходное положение. Повторите с другой ногой. Продолжайте чередовать ноги желаемое количество повторений.",
+    "zh": "将雪橇机调整至 45 度角。 坐在雪橇机上，背部靠在垫子上，双脚放在踏板上。 将一只脚放在踏板上并伸展腿，将雪橇推离您。 慢慢弯曲膝盖，将雪橇放回起始位置。 换另一条腿重复上述步骤。 继续交替双腿达到所需的重复次数。",
+    "hi": "स्लेज मशीन को 45 डिग्री के कोण पर समायोजित करें। स्लेज मशीन पर अपनी पीठ पैड से सटाकर और अपने पैरों को फ़ुटप्लेट पर रखकर बैठें। एक पैर को फ़ुटप्लेट पर रखें और स्लेज को अपने से दूर धकेलते हुए अपने पैर को फैलाएँ। धीरे-धीरे अपने घुटने को मोड़ें और स्लेज को वापस प्रारंभिक स्थिति में ले आएं। दूसरे पैर से दोहराएँ। पुनरावृत्ति की वांछित संख्या के लिए पैरों को बारी-बारी से जारी रखें।",
+    "pl": "Ustaw suwnicę pod kątem 45 stopni. Usiądź na suwnicy, opierając plecy o oparcie, a stopy na platformie. Ustaw jedną stopę na platformie i wyprostuj nogę, odpychając suwnicę od siebie. Powoli ugnij kolano i opuść suwnicę z powrotem do pozycji wyjściowej. Powtórz drugą nogą. Kontynuuj naprzemiennie zmieniając nogi przez zadaną liczbę powtórzeń.",
+    "ko": "슬래드 머신을 45도 각도로 조정하세요. 슬래드에 앉아서 등을 패드에 붙이고 발을 발판에 놓으세요. 한쪽 발을 발판에 놓고 다리를 펴서 슬래드를 몸에서 밀어내세요. 천천히 무릎을 구부려서 슬래드를 시작 자세로 내려놓으세요. 반대쪽 다리로 반복하세요. 양쪽 다리를 번갈아 가며 원하는 반복 횟수만큼 반복하세요.",
+    "fr": "Règle la machine à traîneau sur un angle de 45 degrés. Assieds-toi sur la machine à traîneau, le dos contre le coussinet et les pieds sur la plaque de pied. Place un pied sur la plateforme et étends ta jambe, en poussant le traîneau loin de toi. Fléchis lentement le genou et abaisse le traîneau vers la position de départ. Répète avec l'autre jambe. Continue à alterner les jambes pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the sled machine to a 45-degree angle.",
+      "Sit on the sled machine with your back against the pad and your feet on the footplate.",
+      "Place one foot on the footplate and extend your leg, pushing the sled away from you.",
+      "Slowly bend your knee and lower the sled back to the starting position.",
+      "Repeat with the other leg.",
+      "Continue alternating legs for the desired number of repetitions."
+    ],
+    "it": [
+      "Regolare la macchina a slitta con un angolo di 45 gradi.",
+      "Sedersi sulla macchina da slitta con la schiena contro il cuscino e i piedi sulla pedana.",
+      "Posiziona un piede sulla pedana ed estendi la gamba, allontanando la slitta da te.",
+      "Piega lentamente il ginocchio e riporta la slitta nella posizione di partenza.",
+      "Ripeti con l'altra gamba.",
+      "Continua ad alternare le gambe per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Kızak makinesini 45 derecelik açıya ayarlayın.",
+      "Sırtınız yastığa dayalı ve ayaklarınız taban plakasının üzerinde olacak şekilde kızak makinesinin üzerine oturun.",
+      "Bir ayağınızı taban plakasının üzerine koyun ve bacağınızı uzatarak kızağı kendinizden uzağa doğru itin.",
+      "Dizinizi yavaşça bükün ve kızağı başlangıç ​​pozisyonuna indirin.",
+      "Diğer bacakla tekrarlayın.",
+      "İstenilen sayıda tekrar için bacakları değiştirerek devam edin."
+    ],
+    "es": [
+      "Ajusta la máquina de trineo a un ángulo de 45 grados.",
+      "Siéntate en la máquina de trineo con la espalda contra el respaldo y los pies sobre la placa.",
+      "Coloca un pie sobre la placa y extiende la pierna, empujando el trineo alejándolo de ti.",
+      "Dobla lentamente la rodilla y baja el trineo de vuelta a la posición inicial.",
+      "Repite con la otra pierna.",
+      "Continúa alternando las piernas durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Отрегулируйте салазки под углом 45 градусов.",
+      "Сядьте на салазки, прислонившись спиной к подушке и положив ноги на подножку.",
+      "Поставьте одну ногу на подножку и вытяните ногу, отталкивая сани от себя.",
+      "Медленно согните колено и опустите сани обратно в исходное положение.",
+      "Повторите с другой ногой.",
+      "Продолжайте чередовать ноги желаемое количество повторений."
+    ],
+    "zh": [
+      "将雪橇机调整至 45 度角。",
+      "坐在雪橇机上，背部靠在垫子上，双脚放在踏板上。",
+      "将一只脚放在踏板上并伸展腿，将雪橇推离您。",
+      "慢慢弯曲膝盖，将雪橇放回起始位置。",
+      "换另一条腿重复上述步骤。",
+      "继续交替双腿达到所需的重复次数。"
+    ],
+    "hi": [
+      "स्लेज मशीन को 45 डिग्री के कोण पर समायोजित करें।",
+      "स्लेज मशीन पर अपनी पीठ पैड से सटाकर और अपने पैरों को फ़ुटप्लेट पर रखकर बैठें।",
+      "एक पैर को फ़ुटप्लेट पर रखें और स्लेज को अपने से दूर धकेलते हुए अपने पैर को फैलाएँ।",
+      "धीरे-धीरे अपने घुटने को मोड़ें और स्लेज को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दूसरे पैर से दोहराएँ।",
+      "पुनरावृत्ति की वांछित संख्या के लिए पैरों को बारी-बारी से जारी रखें।"
+    ],
+    "pl": [
+      "Ustaw suwnicę pod kątem 45 stopni.",
+      "Usiądź na suwnicy, opierając plecy o oparcie, a stopy na platformie.",
+      "Ustaw jedną stopę na platformie i wyprostuj nogę, odpychając suwnicę od siebie.",
+      "Powoli ugnij kolano i opuść suwnicę z powrotem do pozycji wyjściowej.",
+      "Powtórz drugą nogą.",
+      "Kontynuuj naprzemiennie zmieniając nogi przez zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "슬래드 머신을 45도 각도로 조정하세요.",
+      "슬래드에 앉아서 등을 패드에 붙이고 발을 발판에 놓으세요.",
+      "한쪽 발을 발판에 놓고 다리를 펴서 슬래드를 몸에서 밀어내세요.",
+      "천천히 무릎을 구부려서 슬래드를 시작 자세로 내려놓으세요.",
+      "반대쪽 다리로 반복하세요.",
+      "양쪽 다리를 번갈아 가며 원하는 반복 횟수만큼 반복하세요."
+    ],
+    "fr": [
+      "Règle la machine à traîneau sur un angle de 45 degrés.",
+      "Assieds-toi sur la machine à traîneau, le dos contre le coussinet et les pieds sur la plaque de pied.",
+      "Place un pied sur la plateforme et étends ta jambe, en poussant le traîneau loin de toi.",
+      "Fléchis lentement le genou et abaisse le traîneau vers la position de départ.",
+      "Répète avec l'autre jambe.",
+      "Continue à alterner les jambes pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "glutes",
+  "image": "images/1425-WWD6FzI.jpg",
+  "gif_url": "videos/1425-WWD6FzI.gif",
+  "media_id": "WWD6FzI",
+  "created_at": "2026-03-18T12:31:32.890133+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

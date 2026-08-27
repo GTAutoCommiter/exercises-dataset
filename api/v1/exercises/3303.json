@@ -1,0 +1,112 @@
+{
+  "id": "3303",
+  "name": "flag",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Start by gripping a vertical pole with both hands, palms facing each other, and arms fully extended. Engage your core and lift your legs off the ground, keeping them straight. Using your core and upper body strength, raise your legs until they are parallel to the ground. Hold this position for as long as you can, maintaining a straight body line. Slowly lower your legs back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Inizia afferrando un palo verticale con entrambe le mani, i palmi rivolti l'uno verso l'altro e le braccia completamente distese. Coinvolgi il tuo core e solleva le gambe da terra, mantenendole dritte. Usando la forza del core e della parte superiore del corpo, solleva le gambe finché non sono parallele al suolo. Mantieni questa posizione il più a lungo possibile, mantenendo una linea del corpo dritta. Abbassa lentamente le gambe fino alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Dikey bir direği iki elinizle, avuçlarınız birbirine bakacak şekilde ve kollarınız tamamen uzatılmış şekilde kavrayarak başlayın. Merkez bölgenizi devreye sokun ve bacaklarınızı düz tutarak yerden kaldırın. Merkez bölgenizi ve üst vücut gücünüzü kullanarak bacaklarınızı yere paralel olana kadar kaldırın. Düz bir vücut çizgisini koruyarak bu pozisyonu mümkün olduğu kadar uzun süre koruyun. Bacaklarınızı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Comienza sujetando un poste vertical con ambas manos, palmas una frente a la otra, y los brazos completamente extendidos. Activa el core y levanta las piernas del suelo, manteniéndolas rectas. Usando la fuerza del core y de la parte superior del cuerpo, levanta las piernas hasta que queden paralelas al suelo. Mantén esta posición todo el tiempo que puedas, conservando una línea corporal recta. Baja lentamente las piernas de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Начните с захвата вертикального шеста обеими руками, ладони обращены друг к другу, руки полностью выпрямлены. Напрягите корпус и поднимите ноги от земли, сохраняя их прямыми. Используя силу корпуса и верхней части тела, поднимите ноги, пока они не станут параллельны земле. Удерживайте это положение как можно дольше, сохраняя прямую линию тела. Медленно опустите ноги обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "首先，双手握住一根垂直杆，手掌相对，双臂完全伸展。 启动你的核心并将双腿抬离地面，保持伸直。 利用核心和上半身的力量，抬起双腿，直到它们与地面平行。 尽可能长时间地保持这个姿势，保持身体线条笔直。 慢慢地将双腿放回起始位置。 重复所需的重复次数。",
+    "hi": "दोनों हाथों से एक ऊर्ध्वाधर खंभे को पकड़ना शुरू करें, हथेलियाँ एक-दूसरे के सामने हों और भुजाएँ पूरी तरह फैली हुई हों। अपने कोर को संलग्न करें और अपने पैरों को सीधा रखते हुए जमीन से ऊपर उठाएं। अपनी कोर और ऊपरी शरीर की ताकत का उपयोग करते हुए, अपने पैरों को तब तक उठाएं जब तक कि वे जमीन के समानांतर न हो जाएं। शरीर की सीधी रेखा बनाए रखते हुए इस स्थिति में जितनी देर तक हो सके रुकें। धीरे-धीरे अपने पैरों को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Zacznij, chwytając pionowy drążek obiema rękami, dłonie skierowane do siebie, ramiona w pełni wyprostowane. Napnij mięśnie brzucha i unieś nogi nad podłogę, utrzymując je prosto. Wykorzystując siłę mięśni brzucha i górnej części ciała, unieś nogi, aż będą równoległe do podłoża. Przytrzymaj tę pozycję tak długo, jak potrafisz, utrzymując prostą linię ciała. Powoli opuść nogi z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę razy.",
+    "ko": "양손으로 수직 기둥을 손가락이 서로 마주보도록 잡아 팔을 완전히 펴줍니다. 코어를 활성화시키고 다리를 바닥에서 들어 올려 곧게 유지합니다. 코어와 상체 힘으로 다리를 올려 바닥과 평행할 때까지 올립니다. 이 자세를 최대한 오래 유지하면서 몸이 곧은 선을 유지합니다. 다리를 천천히 시작 위치로 내립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Commence par saisir une barre verticale à deux mains, paumes face à face, et les bras complètement tendus. Gaine ta sangle abdominale et lève tes jambes du sol, en les gardant droites. En utilisant la force de ta sangle abdominale et du haut du corps, lève tes jambes jusqu'à ce qu'elles soient parallèles au sol. Maintiens cette position aussi longtemps que possible, en gardant le corps bien aligné. Abaisse lentement tes jambes vers la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start by gripping a vertical pole with both hands, palms facing each other, and arms fully extended.",
+      "Engage your core and lift your legs off the ground, keeping them straight.",
+      "Using your core and upper body strength, raise your legs until they are parallel to the ground.",
+      "Hold this position for as long as you can, maintaining a straight body line.",
+      "Slowly lower your legs back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia afferrando un palo verticale con entrambe le mani, i palmi rivolti l'uno verso l'altro e le braccia completamente distese.",
+      "Coinvolgi il tuo core e solleva le gambe da terra, mantenendole dritte.",
+      "Usando la forza del core e della parte superiore del corpo, solleva le gambe finché non sono parallele al suolo.",
+      "Mantieni questa posizione il più a lungo possibile, mantenendo una linea del corpo dritta.",
+      "Abbassa lentamente le gambe fino alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Dikey bir direği iki elinizle, avuçlarınız birbirine bakacak şekilde ve kollarınız tamamen uzatılmış şekilde kavrayarak başlayın.",
+      "Merkez bölgenizi devreye sokun ve bacaklarınızı düz tutarak yerden kaldırın.",
+      "Merkez bölgenizi ve üst vücut gücünüzü kullanarak bacaklarınızı yere paralel olana kadar kaldırın.",
+      "Düz bir vücut çizgisini koruyarak bu pozisyonu mümkün olduğu kadar uzun süre koruyun.",
+      "Bacaklarınızı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Comienza sujetando un poste vertical con ambas manos, palmas una frente a la otra, y los brazos completamente extendidos.",
+      "Activa el core y levanta las piernas del suelo, manteniéndolas rectas.",
+      "Usando la fuerza del core y de la parte superior del cuerpo, levanta las piernas hasta que queden paralelas al suelo.",
+      "Mantén esta posición todo el tiempo que puedas, conservando una línea corporal recta.",
+      "Baja lentamente las piernas de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с захвата вертикального шеста обеими руками, ладони обращены друг к другу, руки полностью выпрямлены.",
+      "Напрягите корпус и поднимите ноги от земли, сохраняя их прямыми.",
+      "Используя силу корпуса и верхней части тела, поднимите ноги, пока они не станут параллельны земле.",
+      "Удерживайте это положение как можно дольше, сохраняя прямую линию тела.",
+      "Медленно опустите ноги обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "首先，双手握住一根垂直杆，手掌相对，双臂完全伸展。",
+      "启动你的核心并将双腿抬离地面，保持伸直。",
+      "利用核心和上半身的力量，抬起双腿，直到它们与地面平行。",
+      "尽可能长时间地保持这个姿势，保持身体线条笔直。",
+      "慢慢地将双腿放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "दोनों हाथों से एक ऊर्ध्वाधर खंभे को पकड़ना शुरू करें, हथेलियाँ एक-दूसरे के सामने हों और भुजाएँ पूरी तरह फैली हुई हों।",
+      "अपने कोर को संलग्न करें और अपने पैरों को सीधा रखते हुए जमीन से ऊपर उठाएं।",
+      "अपनी कोर और ऊपरी शरीर की ताकत का उपयोग करते हुए, अपने पैरों को तब तक उठाएं जब तक कि वे जमीन के समानांतर न हो जाएं।",
+      "शरीर की सीधी रेखा बनाए रखते हुए इस स्थिति में जितनी देर तक हो सके रुकें।",
+      "धीरे-धीरे अपने पैरों को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Zacznij, chwytając pionowy drążek obiema rękami, dłonie skierowane do siebie, ramiona w pełni wyprostowane.",
+      "Napnij mięśnie brzucha i unieś nogi nad podłogę, utrzymując je prosto.",
+      "Wykorzystując siłę mięśni brzucha i górnej części ciała, unieś nogi, aż będą równoległe do podłoża.",
+      "Przytrzymaj tę pozycję tak długo, jak potrafisz, utrzymując prostą linię ciała.",
+      "Powoli opuść nogi z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "양손으로 수직 기둥을 손가락이 서로 마주보도록 잡아 팔을 완전히 펴줍니다.",
+      "코어를 활성화시키고 다리를 바닥에서 들어 올려 곧게 유지합니다.",
+      "코어와 상체 힘으로 다리를 올려 바닥과 평행할 때까지 올립니다.",
+      "이 자세를 최대한 오래 유지하면서 몸이 곧은 선을 유지합니다.",
+      "다리를 천천히 시작 위치로 내립니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Commence par saisir une barre verticale à deux mains, paumes face à face, et les bras complètement tendus.",
+      "Gaine ta sangle abdominale et lève tes jambes du sol, en les gardant droites.",
+      "En utilisant la force de ta sangle abdominale et du haut du corps, lève tes jambes jusqu'à ce qu'elles soient parallèles au sol.",
+      "Maintiens cette position aussi longtemps que possible, en gardant le corps bien aligné.",
+      "Abaisse lentement tes jambes vers la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "obliques",
+  "secondary_muscles": [
+    "obliques",
+    "shoulders"
+  ],
+  "target": "abs",
+  "image": "images/3303-pQ0Mx1Z.jpg",
+  "gif_url": "videos/3303-pQ0Mx1Z.gif",
+  "media_id": "pQ0Mx1Z",
+  "created_at": "2026-03-18T12:31:32.883566+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

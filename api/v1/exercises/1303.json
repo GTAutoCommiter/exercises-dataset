@@ -1,0 +1,102 @@
+{
+  "id": "1303",
+  "name": "medicine ball chest push from 3 point stance",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "medicine ball",
+  "instructions": {
+    "en": "Start in a 3 point stance with one hand on the medicine ball and the other hand on the ground. Extend your legs and position your body in a straight line. Lower your chest towards the ground while keeping your back straight. Push the medicine ball away from your body, extending your arm fully. Return to the starting position and repeat for the desired number of repetitions.",
+    "it": "Inizia in una posizione da 3 punti con una mano sulla palla medica e l'altra a terra. Allunga le gambe e posiziona il corpo in linea retta. Abbassa il petto verso terra mantenendo la schiena dritta. Spingi la palla medica lontano dal corpo, estendendo completamente il braccio. Ritorna alla posizione iniziale e ripeti per il numero di ripetizioni desiderato.",
+    "tr": "Bir eliniz sağlık topunun üzerinde, diğer eliniz yerde olacak şekilde 3 nokta duruşuyla başlayın. Bacaklarınızı uzatın ve vücudunuzu düz bir çizgide konumlandırın. Sırtınızı düz tutarak göğsünüzü yere doğru indirin. Kolunuzu tamamen uzatarak sağlık topunu vücudunuzdan uzağa doğru itin. Başlangıç ​​pozisyonuna dönün ve istenilen sayıda tekrar yapın.",
+    "es": "Comienza en una posición de apoyo de 3 puntos con una mano sobre el balón medicinal y la otra en el suelo. Extiende las piernas y coloca tu cuerpo en línea recta. Baja el pecho hacia el suelo manteniendo la espalda recta. Empuja el balón medicinal alejándolo de tu cuerpo, extendiendo completamente el brazo. Vuelve a la posición inicial y repite el número de repeticiones deseado.",
+    "ru": "Начните с трехточечной стойки, положив одну руку на медицинский мяч, а другую на землю. Вытяните ноги и расположите тело по прямой линии. Опустите грудь к земле, сохраняя спину прямой. Оттолкните медицинский мяч от тела, полностью выпрямив руку. Вернитесь в исходное положение и повторите необходимое количество повторений.",
+    "zh": "以三点姿势开始，一只手放在健身球上，另一只手放在地上。 伸展双腿并将身体摆成一条直线。 将胸部压向地面，同时保持背部挺直。 将药球推离身体，完全伸展手臂。 返回起始位置并重复所需的重复次数。",
+    "hi": "एक हाथ मेडिसिन बॉल पर और दूसरा हाथ ज़मीन पर रखकर 3 पॉइंट स्टांस में शुरुआत करें। अपने पैरों को फैलाएं और अपने शरीर को एक सीधी रेखा में रखें। अपनी पीठ सीधी रखते हुए अपनी छाती को ज़मीन की ओर नीचे करें। अपनी बांह को पूरी तरह फैलाकर दवा की गेंद को अपने शरीर से दूर धकेलें। प्रारंभिक स्थिति पर लौटें और वांछित संख्या में दोहराव के लिए दोहराएं।",
+    "pl": "Zacznij w pozycji podparcia trójpunktowego, z jedną dłonią na piłce lekarskiej, a drugą na podłodze. Wyprostuj nogi i ustaw ciało w jednej linii. Opuść klatkę piersiową w kierunku podłogi, trzymając plecy proste. Odepchnij piłkę lekarską od ciała, w pełni prostując ramię. Wróć do pozycji wyjściowej i powtórz zadaną liczbę powtórzeń.",
+    "ko": "한 손은 메디신볼 위에, 다른 한 손은 땅 위에 놓인 3포인트 스탠스로 시작합니다. 다리를 펴서 몸을 일직선으로 위치시킵니다. 등을 쭉 펴고 유지하면서 가슴을 천천히 땅을 향해 낮춥니다. 메디신볼을 몸 앞으로 밀어 팔을 완전히 펴집니다. 처음 위치로 돌아가서 원하는 횟수만큼 반복합니다.",
+    "fr": "Commence dans une position à 3 appuis, une main sur le médecine-ball et l'autre main sur le sol. Étends tes jambes et place ton corps en ligne droite. Abaisse ta poitrine vers le sol tout en gardant le dos droit. Pousse le médecine-ball loin de ton corps en tendant complètement ton bras. Reviens à la position de départ et répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start in a 3 point stance with one hand on the medicine ball and the other hand on the ground.",
+      "Extend your legs and position your body in a straight line.",
+      "Lower your chest towards the ground while keeping your back straight.",
+      "Push the medicine ball away from your body, extending your arm fully.",
+      "Return to the starting position and repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia in una posizione da 3 punti con una mano sulla palla medica e l'altra a terra.",
+      "Allunga le gambe e posiziona il corpo in linea retta.",
+      "Abbassa il petto verso terra mantenendo la schiena dritta.",
+      "Spingi la palla medica lontano dal corpo, estendendo completamente il braccio.",
+      "Ritorna alla posizione iniziale e ripeti per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Bir eliniz sağlık topunun üzerinde, diğer eliniz yerde olacak şekilde 3 nokta duruşuyla başlayın.",
+      "Bacaklarınızı uzatın ve vücudunuzu düz bir çizgide konumlandırın.",
+      "Sırtınızı düz tutarak göğsünüzü yere doğru indirin.",
+      "Kolunuzu tamamen uzatarak sağlık topunu vücudunuzdan uzağa doğru itin.",
+      "Başlangıç ​​pozisyonuna dönün ve istenilen sayıda tekrar yapın."
+    ],
+    "es": [
+      "Comienza en una posición de apoyo de 3 puntos con una mano sobre el balón medicinal y la otra en el suelo.",
+      "Extiende las piernas y coloca tu cuerpo en línea recta.",
+      "Baja el pecho hacia el suelo manteniendo la espalda recta.",
+      "Empuja el balón medicinal alejándolo de tu cuerpo, extendiendo completamente el brazo.",
+      "Vuelve a la posición inicial y repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с трехточечной стойки, положив одну руку на медицинский мяч, а другую на землю.",
+      "Вытяните ноги и расположите тело по прямой линии.",
+      "Опустите грудь к земле, сохраняя спину прямой.",
+      "Оттолкните медицинский мяч от тела, полностью выпрямив руку.",
+      "Вернитесь в исходное положение и повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "以三点姿势开始，一只手放在健身球上，另一只手放在地上。",
+      "伸展双腿并将身体摆成一条直线。",
+      "将胸部压向地面，同时保持背部挺直。",
+      "将药球推离身体，完全伸展手臂。",
+      "返回起始位置并重复所需的重复次数。"
+    ],
+    "hi": [
+      "एक हाथ मेडिसिन बॉल पर और दूसरा हाथ ज़मीन पर रखकर 3 पॉइंट स्टांस में शुरुआत करें।",
+      "अपने पैरों को फैलाएं और अपने शरीर को एक सीधी रेखा में रखें।",
+      "अपनी पीठ सीधी रखते हुए अपनी छाती को ज़मीन की ओर नीचे करें।",
+      "अपनी बांह को पूरी तरह फैलाकर दवा की गेंद को अपने शरीर से दूर धकेलें।",
+      "प्रारंभिक स्थिति पर लौटें और वांछित संख्या में दोहराव के लिए दोहराएं।"
+    ],
+    "pl": [
+      "Zacznij w pozycji podparcia trójpunktowego, z jedną dłonią na piłce lekarskiej, a drugą na podłodze.",
+      "Wyprostuj nogi i ustaw ciało w jednej linii.",
+      "Opuść klatkę piersiową w kierunku podłogi, trzymając plecy proste.",
+      "Odepchnij piłkę lekarską od ciała, w pełni prostując ramię.",
+      "Wróć do pozycji wyjściowej i powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "한 손은 메디신볼 위에, 다른 한 손은 땅 위에 놓인 3포인트 스탠스로 시작합니다.",
+      "다리를 펴서 몸을 일직선으로 위치시킵니다.",
+      "등을 쭉 펴고 유지하면서 가슴을 천천히 땅을 향해 낮춥니다.",
+      "메디신볼을 몸 앞으로 밀어 팔을 완전히 펴집니다.",
+      "처음 위치로 돌아가서 원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Commence dans une position à 3 appuis, une main sur le médecine-ball et l'autre main sur le sol.",
+      "Étends tes jambes et place ton corps en ligne droite.",
+      "Abaisse ta poitrine vers le sol tout en gardant le dos droit.",
+      "Pousse le médecine-ball loin de ton corps en tendant complètement ton bras.",
+      "Reviens à la position de départ et répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "target": "pectorals",
+  "image": "images/1303-dCJnuVq.jpg",
+  "gif_url": "videos/1303-dCJnuVq.gif",
+  "media_id": "dCJnuVq",
+  "created_at": "2026-03-18T12:31:32.887579+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

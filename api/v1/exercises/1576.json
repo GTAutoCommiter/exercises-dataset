@@ -1,0 +1,101 @@
+{
+  "id": "1576",
+  "name": "leg up hamstring stretch",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Lie flat on your back with your legs extended. Bend one knee and bring it towards your chest, holding onto your thigh or shin. Straighten your leg as much as possible while keeping it elevated. Hold the stretch for 20-30 seconds. Repeat with the other leg.",
+    "it": "Sdraiati sulla schiena con le gambe distese. Piega un ginocchio e portalo verso il petto, tenendoti sulla coscia o sullo stinco. Raddrizza la gamba il più possibile mantenendola sollevata. Mantieni l'allungamento per 20-30 secondi. Ripeti con l'altra gamba.",
+    "tr": "Bacaklarınızı uzatarak sırt üstü düz bir şekilde uzanın. Bir dizinizi bükün ve kalçanıza veya kaval kemiğinize tutunarak göğsünüze doğru getirin. Bacağınızı yüksekte tutarak mümkün olduğunca düzleştirin. Uzatmayı 20-30 saniye kadar tutun. Diğer bacakla tekrarlayın.",
+    "es": "Túmbate boca arriba con las piernas extendidas. Flexiona una rodilla y llévala hacia el pecho, sujetándote del muslo o la espinilla. Endereza la pierna tanto como sea posible mientras la mantienes elevada. Mantén el estiramiento durante 20-30 segundos. Repite con la otra pierna.",
+    "ru": "Лягте на спину, вытянув ноги. Согните одно колено и поднесите его к груди, держась за бедро или голень. Максимально выпрямите ногу, удерживая ее в приподнятом положении. Удерживайте растяжку 20–30 секунд. Повторите с другой ногой.",
+    "zh": "平躺，双腿伸展。 弯曲一侧膝盖，将其靠近胸部，握住大腿或小腿。 尽可能伸直腿，同时保持腿抬高。 保持拉伸 20-30 秒。 换另一条腿重复上述步骤。",
+    "hi": "अपने पैरों को फैलाकर अपनी पीठ के बल सीधे लेट जाएँ। एक घुटने को मोड़ें और अपनी जांघ या पिंडली को पकड़ते हुए इसे अपनी छाती की ओर लाएँ। अपने पैर को ऊंचा रखते हुए जितना संभव हो उतना सीधा करें। 20-30 सेकंड तक खिंचाव बनाए रखें। दूसरे पैर से दोहराएँ।",
+    "pl": "Połóż się płasko na plecach z nogami wyprostowanymi. Ugnij jedno kolano i przyciągnij je w stronę klatki piersiowej, trzymając za udo lub podudzie. Wyprostuj nogę tak bardzo, jak to możliwe, utrzymując ją uniesioną. Przytrzymaj rozciąganie przez 20-30 sekund. Powtórz drugą nogą.",
+    "ko": "등을 대고 누워 다리를 펼친다. 한쪽 무릎을 구부려 가슴 쪽으로 가져오고, 허벅지나 종아리를 잡는다. 다리를 들어올린 상태로 가능한 한 많이 펼친다. 20~30초간 스트레칭을 유지한다. 반대쪽 다리로 반복한다.",
+    "fr": "Allonge-toi sur le dos, les jambes tendues. Plie un genou et amène-le vers ta poitrine en tenant ta cuisse ou ton tibia. Tends la jambe autant que possible tout en la gardant surélevée. Maintiens l'étirement pendant 20 à 30 secondes. Répète avec l'autre jambe."
+  },
+  "instruction_steps": {
+    "en": [
+      "Lie flat on your back with your legs extended.",
+      "Bend one knee and bring it towards your chest, holding onto your thigh or shin.",
+      "Straighten your leg as much as possible while keeping it elevated.",
+      "Hold the stretch for 20-30 seconds.",
+      "Repeat with the other leg."
+    ],
+    "it": [
+      "Sdraiati sulla schiena con le gambe distese.",
+      "Piega un ginocchio e portalo verso il petto, tenendoti sulla coscia o sullo stinco.",
+      "Raddrizza la gamba il più possibile mantenendola sollevata.",
+      "Mantieni l'allungamento per 20-30 secondi.",
+      "Ripeti con l'altra gamba."
+    ],
+    "tr": [
+      "Bacaklarınızı uzatarak sırt üstü düz bir şekilde uzanın.",
+      "Bir dizinizi bükün ve kalçanıza veya kaval kemiğinize tutunarak göğsünüze doğru getirin.",
+      "Bacağınızı yüksekte tutarak mümkün olduğunca düzleştirin.",
+      "Uzatmayı 20-30 saniye kadar tutun.",
+      "Diğer bacakla tekrarlayın."
+    ],
+    "es": [
+      "Túmbate boca arriba con las piernas extendidas.",
+      "Flexiona una rodilla y llévala hacia el pecho, sujetándote del muslo o la espinilla.",
+      "Endereza la pierna tanto como sea posible mientras la mantienes elevada.",
+      "Mantén el estiramiento durante 20-30 segundos.",
+      "Repite con la otra pierna."
+    ],
+    "ru": [
+      "Лягте на спину, вытянув ноги.",
+      "Согните одно колено и поднесите его к груди, держась за бедро или голень.",
+      "Максимально выпрямите ногу, удерживая ее в приподнятом положении.",
+      "Удерживайте растяжку 20–30 секунд.",
+      "Повторите с другой ногой."
+    ],
+    "zh": [
+      "平躺，双腿伸展。",
+      "弯曲一侧膝盖，将其靠近胸部，握住大腿或小腿。",
+      "尽可能伸直腿，同时保持腿抬高。",
+      "保持拉伸 20-30 秒。",
+      "换另一条腿重复上述步骤。"
+    ],
+    "hi": [
+      "अपने पैरों को फैलाकर अपनी पीठ के बल सीधे लेट जाएँ।",
+      "एक घुटने को मोड़ें और अपनी जांघ या पिंडली को पकड़ते हुए इसे अपनी छाती की ओर लाएँ।",
+      "अपने पैर को ऊंचा रखते हुए जितना संभव हो उतना सीधा करें।",
+      "20-30 सेकंड तक खिंचाव बनाए रखें।",
+      "दूसरे पैर से दोहराएँ।"
+    ],
+    "pl": [
+      "Połóż się płasko na plecach z nogami wyprostowanymi.",
+      "Ugnij jedno kolano i przyciągnij je w stronę klatki piersiowej, trzymając za udo lub podudzie.",
+      "Wyprostuj nogę tak bardzo, jak to możliwe, utrzymując ją uniesioną.",
+      "Przytrzymaj rozciąganie przez 20-30 sekund.",
+      "Powtórz drugą nogą."
+    ],
+    "ko": [
+      "등을 대고 누워 다리를 펼친다.",
+      "한쪽 무릎을 구부려 가슴 쪽으로 가져오고, 허벅지나 종아리를 잡는다.",
+      "다리를 들어올린 상태로 가능한 한 많이 펼친다.",
+      "20~30초간 스트레칭을 유지한다.",
+      "반대쪽 다리로 반복한다."
+    ],
+    "fr": [
+      "Allonge-toi sur le dos, les jambes tendues.",
+      "Plie un genou et amène-le vers ta poitrine en tenant ta cuisse ou ton tibia.",
+      "Tends la jambe autant que possible tout en la gardant surélevée.",
+      "Maintiens l'étirement pendant 20 à 30 secondes.",
+      "Répète avec l'autre jambe."
+    ]
+  },
+  "muscle_group": "glutes",
+  "secondary_muscles": [
+    "glutes"
+  ],
+  "target": "hamstrings",
+  "image": "images/1576-sU5BrfP.jpg",
+  "gif_url": "videos/1576-sU5BrfP.gif",
+  "media_id": "sU5BrfP",
+  "created_at": "2026-03-18T12:31:32.886008+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

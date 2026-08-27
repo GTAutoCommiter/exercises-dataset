@@ -1,0 +1,102 @@
+{
+  "id": "1403",
+  "name": "neck side stretch",
+  "category": "neck",
+  "body_part": "neck",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand or sit up straight with your shoulders relaxed. Tilt your head to one side, bringing your ear towards your shoulder. Hold the stretch for 15-30 seconds. Repeat on the other side. Perform 2-4 sets on each side.",
+    "it": "Stai in piedi o seduto con la schiena dritta e le spalle rilassate. Inclina la testa da un lato, portando l'orecchio verso la spalla. Mantieni l'allungamento per 15-30 secondi. Ripeti dall'altra parte. Esegui 2-4 serie su ciascun lato.",
+    "tr": "Omuzlarınız rahat olacak şekilde dik durun veya oturun. Başınızı bir tarafa eğin, kulağınızı omzunuza doğru getirin. Germeyi 15-30 saniye kadar tutun. Diğer tarafta tekrarlayın. Her iki tarafta 2-4 set gerçekleştirin.",
+    "es": "Ponte de pie o siéntate erguido con los hombros relajados. Inclina la cabeza hacia un lado, llevando la oreja hacia el hombro. Mantén el estiramiento durante 15-30 segundos. Repite del otro lado. Realiza de 2 a 4 series por cada lado.",
+    "ru": "Встаньте или сядьте прямо, расслабив плечи. Наклоните голову в сторону, приближая ухо к плечу. Удерживайте растяжку 15–30 секунд. Повторите с другой стороны. Выполните по 2–4 подхода на каждую сторону.",
+    "zh": "站直或坐直，肩膀放松。 将头向一侧倾斜，将耳朵靠近肩膀。 保持拉伸 15-30 秒。 在另一侧重复。 每侧进行 2-4 组。",
+    "hi": "अपने कंधों को आराम देते हुए सीधे खड़े हों या बैठें। अपने सिर को एक तरफ झुकाएं, अपने कान को अपने कंधे की ओर लाएं। 15-30 सेकंड तक खिंचाव बनाए रखें। दूसरी तरफ दोहराएं। प्रत्येक तरफ 2-4 सेट करें।",
+    "pl": "Stań lub usiądź prosto, rozluźniając barki. Przechyl głowę w jedną stronę, przyciągając ucho w kierunku barku. Przytrzymaj rozciąganie przez 15-30 sekund. Powtórz po drugiej stronie. Wykonaj 2-4 serie na każdą stronę.",
+    "ko": "어깨를 이완하고 서 있거나 앉은 상태에서 척추를 곧게 펼칩니다. 머리를 한쪽으로 기울여 귀를 어깨 쪽으로 가져옵니다. 스트레칭을 15-30초간 유지합니다. 반대쪽에서 반복합니다. 각 쪽에서 2-4세트 수행합니다.",
+    "fr": "Tiens-toi debout ou assis bien droit, les épaules détendues. Incline la tête d'un côté, en amenant ton oreille vers ton épaule. Maintiens l'étirement pendant 15 à 30 secondes. Répète de l'autre côté. Effectue 2 à 4 séries de chaque côté."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand or sit up straight with your shoulders relaxed.",
+      "Tilt your head to one side, bringing your ear towards your shoulder.",
+      "Hold the stretch for 15-30 seconds.",
+      "Repeat on the other side.",
+      "Perform 2-4 sets on each side."
+    ],
+    "it": [
+      "Stai in piedi o seduto con la schiena dritta e le spalle rilassate.",
+      "Inclina la testa da un lato, portando l'orecchio verso la spalla.",
+      "Mantieni l'allungamento per 15-30 secondi.",
+      "Ripeti dall'altra parte.",
+      "Esegui 2-4 serie su ciascun lato."
+    ],
+    "tr": [
+      "Omuzlarınız rahat olacak şekilde dik durun veya oturun.",
+      "Başınızı bir tarafa eğin, kulağınızı omzunuza doğru getirin.",
+      "Germeyi 15-30 saniye kadar tutun.",
+      "Diğer tarafta tekrarlayın.",
+      "Her iki tarafta 2-4 set gerçekleştirin."
+    ],
+    "es": [
+      "Ponte de pie o siéntate erguido con los hombros relajados.",
+      "Inclina la cabeza hacia un lado, llevando la oreja hacia el hombro.",
+      "Mantén el estiramiento durante 15-30 segundos.",
+      "Repite del otro lado.",
+      "Realiza de 2 a 4 series por cada lado."
+    ],
+    "ru": [
+      "Встаньте или сядьте прямо, расслабив плечи.",
+      "Наклоните голову в сторону, приближая ухо к плечу.",
+      "Удерживайте растяжку 15–30 секунд.",
+      "Повторите с другой стороны.",
+      "Выполните по 2–4 подхода на каждую сторону."
+    ],
+    "zh": [
+      "站直或坐直，肩膀放松。",
+      "将头向一侧倾斜，将耳朵靠近肩膀。",
+      "保持拉伸 15-30 秒。",
+      "在另一侧重复。",
+      "每侧进行 2-4 组。"
+    ],
+    "hi": [
+      "अपने कंधों को आराम देते हुए सीधे खड़े हों या बैठें।",
+      "अपने सिर को एक तरफ झुकाएं, अपने कान को अपने कंधे की ओर लाएं।",
+      "15-30 सेकंड तक खिंचाव बनाए रखें।",
+      "दूसरी तरफ दोहराएं।",
+      "प्रत्येक तरफ 2-4 सेट करें।"
+    ],
+    "pl": [
+      "Stań lub usiądź prosto, rozluźniając barki.",
+      "Przechyl głowę w jedną stronę, przyciągając ucho w kierunku barku.",
+      "Przytrzymaj rozciąganie przez 15-30 sekund.",
+      "Powtórz po drugiej stronie.",
+      "Wykonaj 2-4 serie na każdą stronę."
+    ],
+    "ko": [
+      "어깨를 이완하고 서 있거나 앉은 상태에서 척추를 곧게 펼칩니다.",
+      "머리를 한쪽으로 기울여 귀를 어깨 쪽으로 가져옵니다.",
+      "스트레칭을 15-30초간 유지합니다.",
+      "반대쪽에서 반복합니다.",
+      "각 쪽에서 2-4세트 수행합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout ou assis bien droit, les épaules détendues.",
+      "Incline la tête d'un côté, en amenant ton oreille vers ton épaule.",
+      "Maintiens l'étirement pendant 15 à 30 secondes.",
+      "Répète de l'autre côté.",
+      "Effectue 2 à 4 séries de chaque côté."
+    ]
+  },
+  "muscle_group": "trapezius",
+  "secondary_muscles": [
+    "trapezius",
+    "sternocleidomastoid"
+  ],
+  "target": "levator scapulae",
+  "image": "images/1403-x2chWLO.jpg",
+  "gif_url": "videos/1403-x2chWLO.gif",
+  "media_id": "x2chWLO",
+  "created_at": "2026-03-18T12:31:32.887845+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,121 @@
+{
+  "id": "0691",
+  "name": "seated side crunch (wall)",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Sit on the floor with your back against a wall and your legs extended in front of you. Bend your knees and place your feet flat on the floor, hip-width apart. Place your hands behind your head with your elbows pointing outwards. Engage your abs and lean to one side, bringing your elbow towards your hip. Pause for a moment, then return to the starting position. Repeat on the other side. Continue alternating sides for the desired number of repetitions.",
+    "it": "Siediti sul pavimento con la schiena contro un muro e le gambe distese davanti a te. Piega le ginocchia e posiziona i piedi sul pavimento, alla larghezza dei fianchi. Metti le mani dietro la testa con i gomiti rivolti verso l'esterno. Contrai gli addominali e inclinati da un lato, portando il gomito verso l'anca. Fare una pausa per un momento, quindi tornare alla posizione di partenza. Ripeti dall'altra parte. Continua ad alternare i lati per il numero di ripetizioni desiderato.",
+    "tr": "Sırtınız duvara dayalı ve bacaklarınız önünüzde uzatılmış şekilde yere oturun. Dizlerinizi bükün ve ayaklarınızı kalça genişliğinde olacak şekilde yere düz bir şekilde yerleştirin. Ellerinizi başınızın arkasına, dirsekleriniz dışarı bakacak şekilde yerleştirin. Karın kaslarınızı devreye sokun ve bir tarafa yaslanın, dirseğinizi kalçanıza doğru getirin. Bir an duraklayın, ardından başlangıç ​​pozisyonuna dönün. Diğer tarafta tekrarlayın. İstenilen tekrar sayısı için alternatif taraflara devam edin.",
+    "es": "Siéntate en el suelo con la espalda contra una pared y las piernas extendidas frente a ti. Dobla las rodillas y coloca los pies planos sobre el suelo, separados a la altura de la cadera. Coloca las manos detrás de la cabeza con los codos apuntando hacia afuera. Contrae el abdomen e inclínate hacia un lado, llevando el codo hacia la cadera. Haz una pausa breve y luego vuelve a la posición inicial. Repite del otro lado. Continúa alternando lados durante el número de repeticiones deseado.",
+    "ru": "Сядьте на пол, прислонившись спиной к стене и вытянув ноги перед собой. Согните колени и поставьте ступни на пол, на ширине плеч. Положите руки за голову локтями наружу. Напрягите пресс и наклонитесь в сторону, поднеся локоть к бедру. Сделайте паузу на мгновение, затем вернитесь в исходное положение. Повторите с другой стороны. Продолжайте чередовать стороны желаемое количество повторений.",
+    "zh": "坐在地板上，背靠墙，双腿在身前伸展。 弯曲膝盖，将双脚平放在地板上，与臀部同宽。 将双手放在脑后，肘部朝外。 收紧腹肌并向一侧倾斜，将肘部靠近臀部。 暂停片刻，然后回到起始位置。 在另一侧重复。 继续交替进行所需的重复次数。",
+    "hi": "दीवार के सहारे अपनी पीठ टिकाकर फर्श पर बैठें और आपके पैर आपके सामने फैले हुए हों। अपने घुटनों को मोड़ें और अपने पैरों को फर्श पर, कूल्हे की चौड़ाई के बराबर दूरी पर रखें। अपने हाथों को अपने सिर के पीछे रखें और अपनी कोहनियों को बाहर की ओर रखें। अपने पेट को संलग्न करें और एक तरफ झुकें, अपनी कोहनी को अपने कूल्हे की ओर लाएं। एक पल के लिए रुकें, फिर प्रारंभिक स्थिति में लौट आएं। दूसरी तरफ दोहराएं। दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।",
+    "pl": "Usiądź na podłodze plecami opartymi o ścianę, z nogami wyprostowanymi przed sobą. Ugnij kolana i oprzyj stopy płasko na podłodze, w rozkroku na szerokość bioder. Ułóż ręce za głową, z łokciami skierowanymi na zewnątrz. Napnij mięśnie brzucha i pochyl się na jedną stronę, przyciągając łokieć w kierunku biodra. Zatrzymaj się na chwilę, a następnie wróć do pozycji wyjściowej. Powtórz po drugiej stronie. Kontynuuj naprzemienne wykonywanie ruchu przez zalecaną liczbę powtórzeń.",
+    "ko": "벽에 등을 대고 바닥에 앉은 상태에서 두 다리를 앞으로 펼칩니다. 무릎을 구부려 발을 땅에 평평하게 엉덩이 너비로 놓습니다. 양 손을 머리 뒤에 올리고 팔꿈치가 바깥쪽을 향하게 합니다. 복근을 수축시키고 한쪽으로 기울여 팔꿈치를 엉덩이를 향해 가져갑니다. 잠시 멈춘 후 시작 위치로 돌아갑니다. 반대쪽을 반복합니다. 원하는 반복 횟수만큼 반대쪽을 계속 번갈아 반복합니다.",
+    "fr": "Assieds-toi au sol, le dos contre un mur et les jambes tendues devant toi. Fléchis les genoux et pose les pieds à plat sur le sol, écartés à la largeur des hanches. Place tes mains derrière ta tête avec tes coudes pointés vers l'extérieur. Gaine tes abdominaux et penche-toi d'un côté, en amenant ton coude vers ta hanche. Marque une pause, puis reviens à la position de départ. Répète de l'autre côté. Continue à alterner les côtés pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on the floor with your back against a wall and your legs extended in front of you.",
+      "Bend your knees and place your feet flat on the floor, hip-width apart.",
+      "Place your hands behind your head with your elbows pointing outwards.",
+      "Engage your abs and lean to one side, bringing your elbow towards your hip.",
+      "Pause for a moment, then return to the starting position.",
+      "Repeat on the other side.",
+      "Continue alternating sides for the desired number of repetitions."
+    ],
+    "it": [
+      "Siediti sul pavimento con la schiena contro un muro e le gambe distese davanti a te.",
+      "Piega le ginocchia e posiziona i piedi sul pavimento, alla larghezza dei fianchi.",
+      "Metti le mani dietro la testa con i gomiti rivolti verso l'esterno.",
+      "Contrai gli addominali e inclinati da un lato, portando il gomito verso l'anca.",
+      "Fare una pausa per un momento, quindi tornare alla posizione di partenza.",
+      "Ripeti dall'altra parte.",
+      "Continua ad alternare i lati per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Sırtınız duvara dayalı ve bacaklarınız önünüzde uzatılmış şekilde yere oturun.",
+      "Dizlerinizi bükün ve ayaklarınızı kalça genişliğinde olacak şekilde yere düz bir şekilde yerleştirin.",
+      "Ellerinizi başınızın arkasına, dirsekleriniz dışarı bakacak şekilde yerleştirin.",
+      "Karın kaslarınızı devreye sokun ve bir tarafa yaslanın, dirseğinizi kalçanıza doğru getirin.",
+      "Bir an duraklayın, ardından başlangıç ​​pozisyonuna dönün.",
+      "Diğer tarafta tekrarlayın.",
+      "İstenilen tekrar sayısı için alternatif taraflara devam edin."
+    ],
+    "es": [
+      "Siéntate en el suelo con la espalda contra una pared y las piernas extendidas frente a ti.",
+      "Dobla las rodillas y coloca los pies planos sobre el suelo, separados a la altura de la cadera.",
+      "Coloca las manos detrás de la cabeza con los codos apuntando hacia afuera.",
+      "Contrae el abdomen e inclínate hacia un lado, llevando el codo hacia la cadera.",
+      "Haz una pausa breve y luego vuelve a la posición inicial.",
+      "Repite del otro lado.",
+      "Continúa alternando lados durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на пол, прислонившись спиной к стене и вытянув ноги перед собой.",
+      "Согните колени и поставьте ступни на пол, на ширине плеч.",
+      "Положите руки за голову локтями наружу.",
+      "Напрягите пресс и наклонитесь в сторону, поднеся локоть к бедру.",
+      "Сделайте паузу на мгновение, затем вернитесь в исходное положение.",
+      "Повторите с другой стороны.",
+      "Продолжайте чередовать стороны желаемое количество повторений."
+    ],
+    "zh": [
+      "坐在地板上，背靠墙，双腿在身前伸展。",
+      "弯曲膝盖，将双脚平放在地板上，与臀部同宽。",
+      "将双手放在脑后，肘部朝外。",
+      "收紧腹肌并向一侧倾斜，将肘部靠近臀部。",
+      "暂停片刻，然后回到起始位置。",
+      "在另一侧重复。",
+      "继续交替进行所需的重复次数。"
+    ],
+    "hi": [
+      "दीवार के सहारे अपनी पीठ टिकाकर फर्श पर बैठें और आपके पैर आपके सामने फैले हुए हों।",
+      "अपने घुटनों को मोड़ें और अपने पैरों को फर्श पर, कूल्हे की चौड़ाई के बराबर दूरी पर रखें।",
+      "अपने हाथों को अपने सिर के पीछे रखें और अपनी कोहनियों को बाहर की ओर रखें।",
+      "अपने पेट को संलग्न करें और एक तरफ झुकें, अपनी कोहनी को अपने कूल्हे की ओर लाएं।",
+      "एक पल के लिए रुकें, फिर प्रारंभिक स्थिति में लौट आएं।",
+      "दूसरी तरफ दोहराएं।",
+      "दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।"
+    ],
+    "pl": [
+      "Usiądź na podłodze plecami opartymi o ścianę, z nogami wyprostowanymi przed sobą.",
+      "Ugnij kolana i oprzyj stopy płasko na podłodze, w rozkroku na szerokość bioder.",
+      "Ułóż ręce za głową, z łokciami skierowanymi na zewnątrz.",
+      "Napnij mięśnie brzucha i pochyl się na jedną stronę, przyciągając łokieć w kierunku biodra.",
+      "Zatrzymaj się na chwilę, a następnie wróć do pozycji wyjściowej.",
+      "Powtórz po drugiej stronie.",
+      "Kontynuuj naprzemienne wykonywanie ruchu przez zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "벽에 등을 대고 바닥에 앉은 상태에서 두 다리를 앞으로 펼칩니다.",
+      "무릎을 구부려 발을 땅에 평평하게 엉덩이 너비로 놓습니다.",
+      "양 손을 머리 뒤에 올리고 팔꿈치가 바깥쪽을 향하게 합니다.",
+      "복근을 수축시키고 한쪽으로 기울여 팔꿈치를 엉덩이를 향해 가져갑니다.",
+      "잠시 멈춘 후 시작 위치로 돌아갑니다.",
+      "반대쪽을 반복합니다.",
+      "원하는 반복 횟수만큼 반대쪽을 계속 번갈아 반복합니다."
+    ],
+    "fr": [
+      "Assieds-toi au sol, le dos contre un mur et les jambes tendues devant toi.",
+      "Fléchis les genoux et pose les pieds à plat sur le sol, écartés à la largeur des hanches.",
+      "Place tes mains derrière ta tête avec tes coudes pointés vers l'extérieur.",
+      "Gaine tes abdominaux et penche-toi d'un côté, en amenant ton coude vers ta hanche.",
+      "Marque une pause, puis reviens à la position de départ.",
+      "Répète de l'autre côté.",
+      "Continue à alterner les côtés pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "obliques",
+  "secondary_muscles": [
+    "obliques"
+  ],
+  "target": "abs",
+  "image": "images/0691-Y9hNPcN.jpg",
+  "gif_url": "videos/0691-Y9hNPcN.gif",
+  "media_id": "Y9hNPcN",
+  "created_at": "2026-03-18T12:31:32.889525+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

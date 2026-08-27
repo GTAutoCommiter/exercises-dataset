@@ -1,0 +1,101 @@
+{
+  "id": "0832",
+  "name": "weighted crunch",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "weighted",
+  "instructions": {
+    "en": "Lie flat on your back with your knees bent and feet flat on the ground. Hold a weight plate or dumbbell on your chest. Engage your abs and lift your upper body off the ground, curling forward until your shoulder blades are off the ground. Pause for a moment at the top, then slowly lower your upper body back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Sdraiati sulla schiena con le ginocchia piegate e i piedi appoggiati a terra. Tieni un peso o un manubrio sul petto. Contrai gli addominali e solleva la parte superiore del corpo da terra, piegandoti in avanti finché le scapole non sono sollevate da terra. Fermati per un momento in alto, quindi abbassa lentamente la parte superiore del corpo fino alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Dizleriniz bükülü ve ayaklarınız yere düz basacak şekilde sırt üstü yatın. Göğsünüzün üzerinde bir ağırlık plakası veya dambıl tutun. Karın kaslarınızı devreye sokun ve üst vücudunuzu yerden kaldırın, kürek kemikleriniz yerden kalkana kadar öne doğru kıvrılın. Tepe noktasında bir an duraklayın, ardından üst vücudunuzu yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Túmbate sobre tu espalda con las rodillas flexionadas y los pies apoyados en el suelo. Sostén un disco de peso o una mancuerna sobre el pecho. Activa el abdomen y levanta la parte superior del cuerpo del suelo, curvándote hacia adelante hasta que los omóplatos se separen del suelo. Haz una pausa por un momento en la parte superior, luego baja lentamente la parte superior del cuerpo de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Лягте на спину, согните колени и поставьте ступни на землю. Держите блин или гантель на груди. Напрягите пресс и поднимите верхнюю часть тела от земли, наклоняясь вперед, пока лопатки не оторвутся от земли. Задержитесь на мгновение в верхней точке, затем медленно опустите верхнюю часть тела обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "平躺，膝盖弯曲，双脚平放在地上。 将杠铃片或哑铃放在胸前。 收紧腹肌，将上半身抬离地面，向前卷曲，直到肩胛骨离开地面。 在顶部停顿片刻，然后慢慢将上半身放回起始位置。 重复所需的重复次数。",
+    "hi": "अपने घुटनों को मोड़कर और पैरों को ज़मीन पर सपाट रखते हुए अपनी पीठ के बल लेट जाएँ। अपनी छाती पर वेट प्लेट या डम्बल पकड़ें। अपने पेट को संलग्न करें और अपने ऊपरी शरीर को जमीन से ऊपर उठाएं, आगे की ओर झुकें जब तक कि आपके कंधे के ब्लेड जमीन से ऊपर न आ जाएं। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने ऊपरी शरीर को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Połóż się płasko na plecach z ugiętymi kolanami i stopami płasko na podłodze. Trzymaj talerz obciążeniowy lub hantlę na klatce piersiowej. Napnij mięśnie brzucha i unieś górną część ciała nad podłogę, zwijając się do przodu, aż łopatki oderwą się od podłogi. Zatrzymaj się na chwilę na górze, a następnie powoli opuść górną część ciała z powrotem do pozycji wyjściowej. Powtórz zgodnie z żądaną liczbą powtórzeń.",
+    "ko": "등을 바닥에 대고 누워 무릎을 구부리고 발을 바닥에 붙입니다. 가슴 위에 무게판이나 덤벨을 들고 있습니다. 복근에 힘을 주고 상체를 들어올려 어깨 뼈가 지면에서 떨어질 때까지 앞으로 구부립니다. 위쪽에서 잠시 멈춘 후 천천히 상체를 처음 위치로 내려갑니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Allonge-toi sur le dos, les genoux fléchis et les pieds à plat au sol. Tiens un disque de poids ou un haltère sur ta poitrine. Gaine tes abdominaux et lève ton haut du corps du sol, en t'enroulant vers l'avant jusqu'à ce que tes omoplates décollent du sol. Marque une pause en haut, puis abaisse lentement le haut de ton corps pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Lie flat on your back with your knees bent and feet flat on the ground.",
+      "Hold a weight plate or dumbbell on your chest.",
+      "Engage your abs and lift your upper body off the ground, curling forward until your shoulder blades are off the ground.",
+      "Pause for a moment at the top, then slowly lower your upper body back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Sdraiati sulla schiena con le ginocchia piegate e i piedi appoggiati a terra.",
+      "Tieni un peso o un manubrio sul petto.",
+      "Contrai gli addominali e solleva la parte superiore del corpo da terra, piegandoti in avanti finché le scapole non sono sollevate da terra.",
+      "Fermati per un momento in alto, quindi abbassa lentamente la parte superiore del corpo fino alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Dizleriniz bükülü ve ayaklarınız yere düz basacak şekilde sırt üstü yatın.",
+      "Göğsünüzün üzerinde bir ağırlık plakası veya dambıl tutun.",
+      "Karın kaslarınızı devreye sokun ve üst vücudunuzu yerden kaldırın, kürek kemikleriniz yerden kalkana kadar öne doğru kıvrılın.",
+      "Tepe noktasında bir an duraklayın, ardından üst vücudunuzu yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Túmbate sobre tu espalda con las rodillas flexionadas y los pies apoyados en el suelo.",
+      "Sostén un disco de peso o una mancuerna sobre el pecho.",
+      "Activa el abdomen y levanta la parte superior del cuerpo del suelo, curvándote hacia adelante hasta que los omóplatos se separen del suelo.",
+      "Haz una pausa por un momento en la parte superior, luego baja lentamente la parte superior del cuerpo de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Лягте на спину, согните колени и поставьте ступни на землю.",
+      "Держите блин или гантель на груди.",
+      "Напрягите пресс и поднимите верхнюю часть тела от земли, наклоняясь вперед, пока лопатки не оторвутся от земли.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите верхнюю часть тела обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "平躺，膝盖弯曲，双脚平放在地上。",
+      "将杠铃片或哑铃放在胸前。",
+      "收紧腹肌，将上半身抬离地面，向前卷曲，直到肩胛骨离开地面。",
+      "在顶部停顿片刻，然后慢慢将上半身放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने घुटनों को मोड़कर और पैरों को ज़मीन पर सपाट रखते हुए अपनी पीठ के बल लेट जाएँ।",
+      "अपनी छाती पर वेट प्लेट या डम्बल पकड़ें।",
+      "अपने पेट को संलग्न करें और अपने ऊपरी शरीर को जमीन से ऊपर उठाएं, आगे की ओर झुकें जब तक कि आपके कंधे के ब्लेड जमीन से ऊपर न आ जाएं।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने ऊपरी शरीर को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Połóż się płasko na plecach z ugiętymi kolanami i stopami płasko na podłodze.",
+      "Trzymaj talerz obciążeniowy lub hantlę na klatce piersiowej.",
+      "Napnij mięśnie brzucha i unieś górną część ciała nad podłogę, zwijając się do przodu, aż łopatki oderwą się od podłogi.",
+      "Zatrzymaj się na chwilę na górze, a następnie powoli opuść górną część ciała z powrotem do pozycji wyjściowej.",
+      "Powtórz zgodnie z żądaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "등을 바닥에 대고 누워 무릎을 구부리고 발을 바닥에 붙입니다.",
+      "가슴 위에 무게판이나 덤벨을 들고 있습니다.",
+      "복근에 힘을 주고 상체를 들어올려 어깨 뼈가 지면에서 떨어질 때까지 앞으로 구부립니다.",
+      "위쪽에서 잠시 멈춘 후 천천히 상체를 처음 위치로 내려갑니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Allonge-toi sur le dos, les genoux fléchis et les pieds à plat au sol.",
+      "Tiens un disque de poids ou un haltère sur ta poitrine.",
+      "Gaine tes abdominaux et lève ton haut du corps du sol, en t'enroulant vers l'avant jusqu'à ce que tes omoplates décollent du sol.",
+      "Marque une pause en haut, puis abaisse lentement le haut de ton corps pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "obliques",
+  "secondary_muscles": [
+    "obliques"
+  ],
+  "target": "abs",
+  "image": "images/0832-s8nrDXF.jpg",
+  "gif_url": "videos/0832-s8nrDXF.gif",
+  "media_id": "s8nrDXF",
+  "created_at": "2026-03-18T12:31:32.905785+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

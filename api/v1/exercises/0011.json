@@ -1,0 +1,101 @@
+{
+  "id": "0011",
+  "name": "assisted hanging knee raise",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "assisted",
+  "instructions": {
+    "en": "Hang from a pull-up bar with your arms fully extended and your palms facing away from you. Engage your core muscles and lift your knees towards your chest, bending at the hips and knees. Pause for a moment at the top of the movement, squeezing your abs. Slowly lower your legs back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Appendi a una barra per trazioni con le braccia completamente distese e i palmi rivolti lontano da te. Coinvolgi i muscoli centrali e solleva le ginocchia verso il petto, piegando i fianchi e le ginocchia. Fai una pausa per un momento nella parte superiore del movimento, contraendo gli addominali. Abbassa lentamente le gambe fino alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Kollarınız tamamen uzatılmış ve avuçlarınız sizden uzağa bakacak şekilde barfiks barına asın. Çekirdek kaslarınızı çalıştırın ve dizlerinizi göğsünüze doğru kaldırın, kalçalarınızı ve dizlerinizi bükün. Hareketin zirvesinde bir anlığına durun ve karın kaslarınızı sıkın. Bacaklarınızı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Cuélgate de una barra de dominadas con los brazos completamente extendidos y las palmas mirando hacia afuera. Activa el core y levanta las rodillas hacia el pecho, flexionando las caderas y las rodillas. Haz una pausa por un momento en la parte superior del movimiento, apretando el abdomen. Baja lentamente las piernas de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Повисните на перекладине, полностью вытянув руки и повернув ладони от себя. Задействуйте мышцы корпуса и поднимите колени к груди, сгибая бедра и колени. Задержитесь на мгновение в верхней точке движения, напрягая пресс. Медленно опустите ноги обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "悬挂在引体向上杆上，双臂完全伸展，手掌背向自己。 调动你的核心肌肉，将膝盖抬向胸部，弯曲臀部和膝盖。 在动作的最高点暂停片刻，挤压腹肌。 慢慢地将双腿放回起始位置。 重复所需的重复次数。",
+    "hi": "अपनी बाहों को पूरी तरह फैलाकर और अपनी हथेलियों को आपसे दूर की ओर रखते हुए पुल-अप बार से लटकें। अपनी मुख्य मांसपेशियों को संलग्न करें और अपने घुटनों को अपनी छाती की ओर उठाएं, कूल्हों और घुटनों पर झुकें। अपने पेट को सिकोड़ते हुए गति के शीर्ष पर एक पल के लिए रुकें। धीरे-धीरे अपने पैरों को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Zwiśnij na drążku do podciągania z rękami w pełni wyprostowanymi i dłońmi skierowanymi od siebie. Napnij mięśnie brzucha i unieś kolana w kierunku klatki piersiowej, uginając biodra i kolana. Zatrzymaj się na chwilę w górnej fazie ruchu, ściskając mięśnie brzucha. Powoli opuść nogi z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę razy.",
+    "ko": "턱걸이 바에 팔을 완전히 펴고 손바닥이 앞을 향하도록 매달립니다. 복근을 긴장시키고 무릎을 가슴 쪽으로 올리되 엉덩이와 무릎에서 구부립니다. 동작의 맨 위에서 잠깐 멈춰 복근을 조입니다. 천천히 다리를 시작 자세로 내립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Suspends-toi à une barre de traction, les bras complètement étendus et les paumes tournées vers l'extérieur. Gaine tes muscles abdominaux et amène tes genoux vers ta poitrine, en fléchissant les hanches et les genoux. Marque une pause en haut du mouvement, en contractant tes abdominaux. Abaisse lentement tes jambes vers la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Hang from a pull-up bar with your arms fully extended and your palms facing away from you.",
+      "Engage your core muscles and lift your knees towards your chest, bending at the hips and knees.",
+      "Pause for a moment at the top of the movement, squeezing your abs.",
+      "Slowly lower your legs back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Appendi a una barra per trazioni con le braccia completamente distese e i palmi rivolti lontano da te.",
+      "Coinvolgi i muscoli centrali e solleva le ginocchia verso il petto, piegando i fianchi e le ginocchia.",
+      "Fai una pausa per un momento nella parte superiore del movimento, contraendo gli addominali.",
+      "Abbassa lentamente le gambe fino alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Kollarınız tamamen uzatılmış ve avuçlarınız sizden uzağa bakacak şekilde barfiks barına asın.",
+      "Çekirdek kaslarınızı çalıştırın ve dizlerinizi göğsünüze doğru kaldırın, kalçalarınızı ve dizlerinizi bükün.",
+      "Hareketin zirvesinde bir anlığına durun ve karın kaslarınızı sıkın.",
+      "Bacaklarınızı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Cuélgate de una barra de dominadas con los brazos completamente extendidos y las palmas mirando hacia afuera.",
+      "Activa el core y levanta las rodillas hacia el pecho, flexionando las caderas y las rodillas.",
+      "Haz una pausa por un momento en la parte superior del movimiento, apretando el abdomen.",
+      "Baja lentamente las piernas de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Повисните на перекладине, полностью вытянув руки и повернув ладони от себя.",
+      "Задействуйте мышцы корпуса и поднимите колени к груди, сгибая бедра и колени.",
+      "Задержитесь на мгновение в верхней точке движения, напрягая пресс.",
+      "Медленно опустите ноги обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "悬挂在引体向上杆上，双臂完全伸展，手掌背向自己。",
+      "调动你的核心肌肉，将膝盖抬向胸部，弯曲臀部和膝盖。",
+      "在动作的最高点暂停片刻，挤压腹肌。",
+      "慢慢地将双腿放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपनी बाहों को पूरी तरह फैलाकर और अपनी हथेलियों को आपसे दूर की ओर रखते हुए पुल-अप बार से लटकें।",
+      "अपनी मुख्य मांसपेशियों को संलग्न करें और अपने घुटनों को अपनी छाती की ओर उठाएं, कूल्हों और घुटनों पर झुकें।",
+      "अपने पेट को सिकोड़ते हुए गति के शीर्ष पर एक पल के लिए रुकें।",
+      "धीरे-धीरे अपने पैरों को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Zwiśnij na drążku do podciągania z rękami w pełni wyprostowanymi i dłońmi skierowanymi od siebie.",
+      "Napnij mięśnie brzucha i unieś kolana w kierunku klatki piersiowej, uginając biodra i kolana.",
+      "Zatrzymaj się na chwilę w górnej fazie ruchu, ściskając mięśnie brzucha.",
+      "Powoli opuść nogi z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "턱걸이 바에 팔을 완전히 펴고 손바닥이 앞을 향하도록 매달립니다.",
+      "복근을 긴장시키고 무릎을 가슴 쪽으로 올리되 엉덩이와 무릎에서 구부립니다.",
+      "동작의 맨 위에서 잠깐 멈춰 복근을 조입니다.",
+      "천천히 다리를 시작 자세로 내립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Suspends-toi à une barre de traction, les bras complètement étendus et les paumes tournées vers l'extérieur.",
+      "Gaine tes muscles abdominaux et amène tes genoux vers ta poitrine, en fléchissant les hanches et les genoux.",
+      "Marque une pause en haut du mouvement, en contractant tes abdominaux.",
+      "Abaisse lentement tes jambes vers la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hip flexors",
+  "secondary_muscles": [
+    "hip flexors"
+  ],
+  "target": "abs",
+  "image": "images/0011-03lzqwk.jpg",
+  "gif_url": "videos/0011-03lzqwk.gif",
+  "media_id": "03lzqwk",
+  "created_at": "2026-03-18T12:31:32.855215+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

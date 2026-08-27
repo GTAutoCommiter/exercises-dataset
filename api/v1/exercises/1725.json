@@ -1,0 +1,121 @@
+{
+  "id": "1725",
+  "name": "cable rope incline tricep extension",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Attach a rope to a high pulley and adjust the incline bench to a comfortable angle. Stand facing away from the pulley with your feet shoulder-width apart. Grasp the rope with an overhand grip and extend your arms straight overhead. Keep your elbows close to your head and your upper arms stationary throughout the exercise. Lower the rope behind your head by bending your elbows until your forearms touch your biceps. Pause for a moment, then extend your arms back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Attacca una corda a una carrucola alta e regola la panca inclinata in un angolo confortevole. Stai rivolto di spalle alla carrucola con i piedi alla larghezza delle spalle. Afferra la corda con una presa sopra la testa e estendi le braccia dritte sopra la testa. Tieni i gomiti vicini alla testa e le braccia superiori ferme durante l'esercizio. Abbassa la corda dietro la testa piegando i gomiti finché gli avambracci non toccano i bicipiti. Fermati un attimo, poi riporta le braccia alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Yüksek bir makaraya bir ip bağlayın ve eğimli bankı rahat bir açıya ayarlayın. Ayaklarınız omuz genişliğinde açık olacak şekilde, makaradan uzağa bakacak şekilde durun. Halatı üstten kavrayarak kavrayın ve kollarınızı düz bir şekilde yukarı doğru uzatın. Egzersiz boyunca dirseklerinizi başınıza yakın tutun ve üst kollarınızı sabit tutun. Dirseklerinizi ön kollarınız bisepslerinize değene kadar bükerek ipi başınızın arkasına indirin. Bir an duraklayın, ardından kollarınızı başlangıç ​​pozisyonuna geri uzatın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Sujeta una cuerda a una polea alta y ajusta el banco inclinado a un ángulo cómodo. Ponte de pie de espaldas a la polea con los pies separados a la altura de los hombros. Sujeta la cuerda con un agarre prono y extiende los brazos rectos por encima de la cabeza. Mantén los codos cerca de la cabeza y la parte superior de los brazos inmóvil durante todo el ejercicio. Baja la cuerda detrás de la cabeza flexionando los codos hasta que los antebrazos toquen los bíceps. Haz una pausa por un momento y luego extiende los brazos de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Прикрепите веревку к высокому блоку и отрегулируйте наклон скамьи под удобным углом. Встаньте лицом от шкива, поставив ноги на ширине плеч. Возьмите веревку хватом сверху и вытяните руки прямо над головой. На протяжении всего упражнения держите локти близко к голове, а плечи неподвижно. Опустите скакалку за голову, сгибая локти, пока предплечья не коснутся бицепсов. Сделайте паузу на мгновение, затем вытяните руки обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "将绳子连接到高滑轮上，并将倾斜长凳调整到舒适的角度。 背对滑轮站立，双脚与肩同宽。 正手抓住绳子，并将双臂伸直过头顶。 在整个练习过程中，保持肘部靠近头部，上臂保持静止。 弯曲肘部，直到前臂接触二头肌，将绳子降低到头后。 暂停片刻，然后将手臂伸回到起始位置。 重复所需的重复次数。",
+    "hi": "एक ऊँची चरखी में एक रस्सी जोड़ें और झुकी हुई बेंच को एक आरामदायक कोण पर समायोजित करें। अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए चरखी से दूर की ओर मुंह करके खड़े हो जाएं। रस्सी को ऊपरी पकड़ से पकड़ें और अपनी भुजाओं को सीधा ऊपर की ओर फैलाएँ। पूरे अभ्यास के दौरान अपनी कोहनियों को अपने सिर के पास और अपनी ऊपरी भुजाओं को स्थिर रखें। अपनी कोहनियों को मोड़कर रस्सी को अपने सिर के पीछे तब तक नीचे करें जब तक कि आपके अग्रबाहु आपके बाइसेप्स को न छू लें। एक पल के लिए रुकें, फिर अपनी भुजाओं को वापस प्रारंभिक स्थिति में फैलाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Podłącz linę do wyciągu górnego i ustaw ławkę skośną pod wygodnym kątem. Stań tyłem do wyciągu, stopy rozstawione na szerokość barków. Chwyć linę nachwytem i wyprostuj ramiona prosto nad głową. Trzymaj łokcie blisko głowy, a ramiona górne nieruchomo przez cały czas trwania ćwiczenia. Opuść linę za głowę, uginając łokcie, aż przedramiona dotkną bicepsów. Zatrzymaj się na moment, a następnie wyprostuj ramiona, wracając do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "로프를 높은 풀리에 장착하고 인클라인 벤치를 편안한 각도로 조정합니다. 풀리에서 등을 돌리고 발을 어깨너비만큼 벌려 서 있습니다. 오버그립으로 로프를 잡고 팔을 머리 위로 곧게 펼칩니다. 팔꿈치를 머리에 붙이고 상박을 운동 내내 고정시킵니다. 팔꿈치를 구부려 로프를 머리 뒤로 내려 전완이 이두근에 닿을 때까지 합니다. 잠시 멈추었다가 팔을 시작 위치로 펼쳐 올립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Fixe une corde à une poulie haute et règle le banc incliné à un angle confortable. Tiens-toi dos à la poulie, les pieds écartés à la largeur des épaules. Saisis la corde avec une prise en pronation et étends les bras droit au-dessus de ta tête. Garde tes coudes près de ta tête et le haut de tes bras immobile tout au long de l'exercice. Abaisse la corde derrière ta tête en fléchissant tes coudes jusqu'à ce que tes avant-bras touchent tes biceps. Marque une pause, puis étends tes bras pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Attach a rope to a high pulley and adjust the incline bench to a comfortable angle.",
+      "Stand facing away from the pulley with your feet shoulder-width apart.",
+      "Grasp the rope with an overhand grip and extend your arms straight overhead.",
+      "Keep your elbows close to your head and your upper arms stationary throughout the exercise.",
+      "Lower the rope behind your head by bending your elbows until your forearms touch your biceps.",
+      "Pause for a moment, then extend your arms back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Attacca una corda a una carrucola alta e regola la panca inclinata in un angolo confortevole.",
+      "Stai rivolto di spalle alla carrucola con i piedi alla larghezza delle spalle.",
+      "Afferra la corda con una presa sopra la testa e estendi le braccia dritte sopra la testa.",
+      "Tieni i gomiti vicini alla testa e le braccia superiori ferme durante l'esercizio.",
+      "Abbassa la corda dietro la testa piegando i gomiti finché gli avambracci non toccano i bicipiti.",
+      "Fermati un attimo, poi riporta le braccia alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Yüksek bir makaraya bir ip bağlayın ve eğimli bankı rahat bir açıya ayarlayın.",
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde, makaradan uzağa bakacak şekilde durun.",
+      "Halatı üstten kavrayarak kavrayın ve kollarınızı düz bir şekilde yukarı doğru uzatın.",
+      "Egzersiz boyunca dirseklerinizi başınıza yakın tutun ve üst kollarınızı sabit tutun.",
+      "Dirseklerinizi ön kollarınız bisepslerinize değene kadar bükerek ipi başınızın arkasına indirin.",
+      "Bir an duraklayın, ardından kollarınızı başlangıç ​​pozisyonuna geri uzatın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Sujeta una cuerda a una polea alta y ajusta el banco inclinado a un ángulo cómodo.",
+      "Ponte de pie de espaldas a la polea con los pies separados a la altura de los hombros.",
+      "Sujeta la cuerda con un agarre prono y extiende los brazos rectos por encima de la cabeza.",
+      "Mantén los codos cerca de la cabeza y la parte superior de los brazos inmóvil durante todo el ejercicio.",
+      "Baja la cuerda detrás de la cabeza flexionando los codos hasta que los antebrazos toquen los bíceps.",
+      "Haz una pausa por un momento y luego extiende los brazos de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Прикрепите веревку к высокому блоку и отрегулируйте наклон скамьи под удобным углом.",
+      "Встаньте лицом от шкива, поставив ноги на ширине плеч.",
+      "Возьмите веревку хватом сверху и вытяните руки прямо над головой.",
+      "На протяжении всего упражнения держите локти близко к голове, а плечи неподвижно.",
+      "Опустите скакалку за голову, сгибая локти, пока предплечья не коснутся бицепсов.",
+      "Сделайте паузу на мгновение, затем вытяните руки обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将绳子连接到高滑轮上，并将倾斜长凳调整到舒适的角度。",
+      "背对滑轮站立，双脚与肩同宽。",
+      "正手抓住绳子，并将双臂伸直过头顶。",
+      "在整个练习过程中，保持肘部靠近头部，上臂保持静止。",
+      "弯曲肘部，直到前臂接触二头肌，将绳子降低到头后。",
+      "暂停片刻，然后将手臂伸回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "एक ऊँची चरखी में एक रस्सी जोड़ें और झुकी हुई बेंच को एक आरामदायक कोण पर समायोजित करें।",
+      "अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए चरखी से दूर की ओर मुंह करके खड़े हो जाएं।",
+      "रस्सी को ऊपरी पकड़ से पकड़ें और अपनी भुजाओं को सीधा ऊपर की ओर फैलाएँ।",
+      "पूरे अभ्यास के दौरान अपनी कोहनियों को अपने सिर के पास और अपनी ऊपरी भुजाओं को स्थिर रखें।",
+      "अपनी कोहनियों को मोड़कर रस्सी को अपने सिर के पीछे तब तक नीचे करें जब तक कि आपके अग्रबाहु आपके बाइसेप्स को न छू लें।",
+      "एक पल के लिए रुकें, फिर अपनी भुजाओं को वापस प्रारंभिक स्थिति में फैलाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Podłącz linę do wyciągu górnego i ustaw ławkę skośną pod wygodnym kątem.",
+      "Stań tyłem do wyciągu, stopy rozstawione na szerokość barków.",
+      "Chwyć linę nachwytem i wyprostuj ramiona prosto nad głową.",
+      "Trzymaj łokcie blisko głowy, a ramiona górne nieruchomo przez cały czas trwania ćwiczenia.",
+      "Opuść linę za głowę, uginając łokcie, aż przedramiona dotkną bicepsów.",
+      "Zatrzymaj się na moment, a następnie wyprostuj ramiona, wracając do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "로프를 높은 풀리에 장착하고 인클라인 벤치를 편안한 각도로 조정합니다.",
+      "풀리에서 등을 돌리고 발을 어깨너비만큼 벌려 서 있습니다.",
+      "오버그립으로 로프를 잡고 팔을 머리 위로 곧게 펼칩니다.",
+      "팔꿈치를 머리에 붙이고 상박을 운동 내내 고정시킵니다.",
+      "팔꿈치를 구부려 로프를 머리 뒤로 내려 전완이 이두근에 닿을 때까지 합니다.",
+      "잠시 멈추었다가 팔을 시작 위치로 펼쳐 올립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Fixe une corde à une poulie haute et règle le banc incliné à un angle confortable.",
+      "Tiens-toi dos à la poulie, les pieds écartés à la largeur des épaules.",
+      "Saisis la corde avec une prise en pronation et étends les bras droit au-dessus de ta tête.",
+      "Garde tes coudes près de ta tête et le haut de tes bras immobile tout au long de l'exercice.",
+      "Abaisse la corde derrière ta tête en fléchissant tes coudes jusqu'à ce que tes avant-bras touchent tes biceps.",
+      "Marque une pause, puis étends tes bras pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders"
+  ],
+  "target": "triceps",
+  "image": "images/1725-ZujAdR9.jpg",
+  "gif_url": "videos/1725-ZujAdR9.gif",
+  "media_id": "ZujAdR9",
+  "created_at": "2026-03-18T12:31:32.87577+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

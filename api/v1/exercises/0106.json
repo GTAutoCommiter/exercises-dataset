@@ -1,0 +1,111 @@
+{
+  "id": "0106",
+  "name": "barbell standing close grip curl",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Stand up straight with your feet shoulder-width apart and hold a barbell with an underhand grip, hands close together. Keep your elbows close to your torso and your upper arms stationary throughout the movement. Exhale as you curl the weights while contracting your biceps. Continue to raise the bar until your biceps are fully contracted and the bar is at shoulder level. Hold the contracted position for a brief pause as you squeeze your biceps. Inhale as you slowly begin to bring the barbell back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stai dritto con i piedi alla larghezza delle spalle e tieni un bilanciere con una presa sottomano, mani vicine. Tieni i gomiti vicini al busto e le braccia superiori ferme durante tutto il movimento. Espira mentre piedi i pesi contraendo i bicipiti. Continua ad alzare la barra finché i bicipiti non sono completamente contratti e la barra non è all'altezza delle spalle. Mantieni la posizione contratta per una breve pausa mentre stringi i bicipiti. Inspira mentre inizi lentamente a riportare il bilanciere alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde dik durun ve ellerinizi birbirine yakın tutarak halteri alttan kavrayarak tutun. Hareket boyunca dirseklerinizi gövdenize yakın ve üst kollarınızı sabit tutun. Bisepslerinizi kasarken ağırlıkları kıvırırken nefes verin. Bicepsleriniz tamamen kasılana ve bar omuz hizasına gelinceye kadar barı kaldırmaya devam edin. Bicepslerinizi sıkarken kasılmış pozisyonu kısa bir süre koruyun. Halteri yavaşça başlangıç ​​pozisyonuna getirmeye başlarken nefes alın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y sujeta una barra con agarre supino, manos juntas. Mantén los codos cerca del torso y los brazos superiores quietos durante todo el movimiento. Exhala al flexionar el peso contrayendo los bíceps. Continúa levantando la barra hasta que los bíceps estén completamente contraídos y la barra esté a la altura de los hombros. Mantén la posición contraída durante una breve pausa mientras aprietas los bíceps. Inhala mientras comienzas a llevar lentamente la barra de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте прямо, ноги на ширине плеч, возьмите штангу обратным хватом, руки близко друг к другу. Держите локти близко к туловищу, а плечи неподвижно на протяжении всего движения. На выдохе сгибайте штангу и одновременно напрягайте бицепсы. Продолжайте поднимать штангу до тех пор, пока ваши бицепсы полностью не сократятся и штанга не окажется на уровне плеч. Задержитесь в сокращенном положении на короткую паузу, одновременно сжимая бицепсы. На вдохе начните медленно возвращать штангу в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "站直，双脚分开与肩同宽，反手握住杠铃，双手并拢。 在整个运动过程中，保持肘部靠近躯干，上臂保持静止。 弯举哑铃时呼气，同时收缩二头肌。继续抬高杠铃，直到二头肌完全收缩并且杠铃与肩部齐平。 挤压二头肌时，保持收缩位置短暂停顿。 吸气，慢慢开始将杠铃拉回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर सीधे खड़े हो जाएं और हाथों को एक-दूसरे से सटाकर बारबेल को हाथ से पकड़ लें। पूरे आंदोलन के दौरान अपनी कोहनियों को अपने धड़ के पास और अपनी ऊपरी भुजाओं को स्थिर रखें। अपने बाइसेप्स को सिकोड़ते हुए वजन मोड़ते समय सांस छोड़ें। जब तक आपके बाइसेप्स पूरी तरह से सिकुड़ न जाएं और बार कंधे के स्तर पर न आ जाए, तब तक बार को ऊपर उठाना जारी रखें। जब आप अपने बाइसेप्स को निचोड़ते हैं तो थोड़ी देर के लिए अनुबंधित स्थिति में रहें। जब आप धीरे-धीरे बारबेल को प्रारंभिक स्थिति में वापस लाना शुरू करें तो श्वास लें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań wyprostowany, ze stopami na szerokość barków, trzymając sztangę chwytem podchwytem, z dłońmi blisko siebie. Trzymaj łokcie blisko tułowia, a ramiona nieruchomo przez cały czas trwania ruchu. Wydychaj powietrze, uginając ramiona i napinając mięśnie dwugłowe ramienia. Kontynuuj unoszenie sztangi, aż mięśnie dwugłowe będą w pełni napięte, a sztanga znajdzie się na wysokości barków. Przytrzymaj napiętą pozycję przez krótką chwilę, mocno napinając mięśnie dwugłowe. Wdychaj powietrze, powoli wracając ze sztangą do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "발을 어깨 너비로 벌리고 서서 바벨을 손바닥이 위를 향하도록 좁게 잡습니다. 팔꿈치를 몸통에 가깝게 유지하고 상체를 움직이지 않습니다. 숨을 내쉬면서 이두근을 수축시키며 바벨을 들어올립니다. 바벨을 어깨 높이까지 들어올려 이두근을 완전히 수축시킵니다. 이두근을 조이면서 수축된 자세에서 잠시 멈춥니다. 숨을 들이쉬면서 천천히 바벨을 시작 위치로 내립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi bien droit, les pieds écartés à la largeur des épaules, et tiens une barre en prise supination, les mains rapprochées. Garde tes coudes près de ton torse et le haut de tes bras immobile tout au long du mouvement. Expire en remontant les poids tout en contractant tes biceps. Continue à lever la barre jusqu'à ce que tes biceps soient complètement contractés et que la barre soit au niveau des épaules. Maintiens la position contractée pendant une brève pause en contractant tes biceps. Inspire pendant que tu commences lentement à ramener la barre à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand up straight with your feet shoulder-width apart and hold a barbell with an underhand grip, hands close together.",
+      "Keep your elbows close to your torso and your upper arms stationary throughout the movement.",
+      "Exhale as you curl the weights while contracting your biceps. Continue to raise the bar until your biceps are fully contracted and the bar is at shoulder level.",
+      "Hold the contracted position for a brief pause as you squeeze your biceps.",
+      "Inhale as you slowly begin to bring the barbell back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai dritto con i piedi alla larghezza delle spalle e tieni un bilanciere con una presa sottomano, mani vicine.",
+      "Tieni i gomiti vicini al busto e le braccia superiori ferme durante tutto il movimento.",
+      "Espira mentre piedi i pesi contraendo i bicipiti. Continua ad alzare la barra finché i bicipiti non sono completamente contratti e la barra non è all'altezza delle spalle.",
+      "Mantieni la posizione contratta per una breve pausa mentre stringi i bicipiti.",
+      "Inspira mentre inizi lentamente a riportare il bilanciere alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde dik durun ve ellerinizi birbirine yakın tutarak halteri alttan kavrayarak tutun.",
+      "Hareket boyunca dirseklerinizi gövdenize yakın ve üst kollarınızı sabit tutun.",
+      "Bisepslerinizi kasarken ağırlıkları kıvırırken nefes verin. Bicepsleriniz tamamen kasılana ve bar omuz hizasına gelinceye kadar barı kaldırmaya devam edin.",
+      "Bicepslerinizi sıkarken kasılmış pozisyonu kısa bir süre koruyun.",
+      "Halteri yavaşça başlangıç ​​pozisyonuna getirmeye başlarken nefes alın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y sujeta una barra con agarre supino, manos juntas.",
+      "Mantén los codos cerca del torso y los brazos superiores quietos durante todo el movimiento.",
+      "Exhala al flexionar el peso contrayendo los bíceps. Continúa levantando la barra hasta que los bíceps estén completamente contraídos y la barra esté a la altura de los hombros.",
+      "Mantén la posición contraída durante una breve pausa mientras aprietas los bíceps.",
+      "Inhala mientras comienzas a llevar lentamente la barra de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте прямо, ноги на ширине плеч, возьмите штангу обратным хватом, руки близко друг к другу.",
+      "Держите локти близко к туловищу, а плечи неподвижно на протяжении всего движения.",
+      "На выдохе сгибайте штангу и одновременно напрягайте бицепсы. Продолжайте поднимать штангу до тех пор, пока ваши бицепсы полностью не сократятся и штанга не окажется на уровне плеч.",
+      "Задержитесь в сокращенном положении на короткую паузу, одновременно сжимая бицепсы.",
+      "На вдохе начните медленно возвращать штангу в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "站直，双脚分开与肩同宽，反手握住杠铃，双手并拢。",
+      "在整个运动过程中，保持肘部靠近躯干，上臂保持静止。",
+      "弯举哑铃时呼气，同时收缩二头肌。继续抬高杠铃，直到二头肌完全收缩并且杠铃与肩部齐平。",
+      "挤压二头肌时，保持收缩位置短暂停顿。",
+      "吸气，慢慢开始将杠铃拉回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर सीधे खड़े हो जाएं और हाथों को एक-दूसरे से सटाकर बारबेल को हाथ से पकड़ लें।",
+      "पूरे आंदोलन के दौरान अपनी कोहनियों को अपने धड़ के पास और अपनी ऊपरी भुजाओं को स्थिर रखें।",
+      "अपने बाइसेप्स को सिकोड़ते हुए वजन मोड़ते समय सांस छोड़ें। जब तक आपके बाइसेप्स पूरी तरह से सिकुड़ न जाएं और बार कंधे के स्तर पर न आ जाए, तब तक बार को ऊपर उठाना जारी रखें।",
+      "जब आप अपने बाइसेप्स को निचोड़ते हैं तो थोड़ी देर के लिए अनुबंधित स्थिति में रहें।",
+      "जब आप धीरे-धीरे बारबेल को प्रारंभिक स्थिति में वापस लाना शुरू करें तो श्वास लें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań wyprostowany, ze stopami na szerokość barków, trzymając sztangę chwytem podchwytem, z dłońmi blisko siebie.",
+      "Trzymaj łokcie blisko tułowia, a ramiona nieruchomo przez cały czas trwania ruchu.",
+      "Wydychaj powietrze, uginając ramiona i napinając mięśnie dwugłowe ramienia. Kontynuuj unoszenie sztangi, aż mięśnie dwugłowe będą w pełni napięte, a sztanga znajdzie się na wysokości barków.",
+      "Przytrzymaj napiętą pozycję przez krótką chwilę, mocno napinając mięśnie dwugłowe.",
+      "Wdychaj powietrze, powoli wracając ze sztangą do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 너비로 벌리고 서서 바벨을 손바닥이 위를 향하도록 좁게 잡습니다.",
+      "팔꿈치를 몸통에 가깝게 유지하고 상체를 움직이지 않습니다.",
+      "숨을 내쉬면서 이두근을 수축시키며 바벨을 들어올립니다. 바벨을 어깨 높이까지 들어올려 이두근을 완전히 수축시킵니다.",
+      "이두근을 조이면서 수축된 자세에서 잠시 멈춥니다.",
+      "숨을 들이쉬면서 천천히 바벨을 시작 위치로 내립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi bien droit, les pieds écartés à la largeur des épaules, et tiens une barre en prise supination, les mains rapprochées.",
+      "Garde tes coudes près de ton torse et le haut de tes bras immobile tout au long du mouvement.",
+      "Expire en remontant les poids tout en contractant tes biceps. Continue à lever la barre jusqu'à ce que tes biceps soient complètement contractés et que la barre soit au niveau des épaules.",
+      "Maintiens la position contractée pendant une brève pause en contractant tes biceps.",
+      "Inspire pendant que tu commences lentement à ramener la barre à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "forearms",
+  "secondary_muscles": [
+    "forearms"
+  ],
+  "target": "biceps",
+  "image": "images/0106-4dUn2iv.jpg",
+  "gif_url": "videos/0106-4dUn2iv.gif",
+  "media_id": "4dUn2iv",
+  "created_at": "2026-03-18T12:31:32.873091+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

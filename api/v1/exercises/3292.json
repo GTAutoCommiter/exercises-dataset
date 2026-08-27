@@ -1,0 +1,102 @@
+{
+  "id": "3292",
+  "name": "elevator",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and your knees slightly bent. Place your hands on your hips or cross them in front of your chest. Keeping your back straight, slowly bend forward at the waist, lowering your upper body towards the ground. Pause for a moment at the bottom, then slowly raise your upper body back up to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stai in piedi con i piedi a larghezza delle spalle e le ginocchia leggermente piegate. Metti le mani sui fianchi o incrociale davanti al petto. Tieni la schiena dritta, piegati lentamente in avanti in vita, abbassando la parte superiore del corpo verso terra. Fermati un attimo in basso, poi solleva lentamente la parte superiore del corpo fino alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız omuz genişliğinde açık ve dizleriniz hafifçe bükülü şekilde ayakta durun. Ellerinizi kalçalarınıza koyun veya göğsünüzün önünde çaprazlayın. Sırtınızı düz tutarak yavaşça belinizden öne doğru eğilin ve üst vücudunuzu yere doğru indirin. Altta bir an duraklayın, ardından üst vücudunuzu yavaşça başlangıç ​​pozisyonuna kaldırın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y las rodillas ligeramente flexionadas. Coloca las manos sobre las caderas o crúzalas frente al pecho. Manteniendo la espalda recta, inclínate lentamente hacia adelante desde la cintura, bajando la parte superior del cuerpo hacia el suelo. Haz una pausa por un momento en la posición más baja, luego sube lentamente la parte superior del cuerpo de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, поставив ноги на ширине плеч и слегка согнув колени. Положите руки на бедра или скрестите их перед грудью. Сохраняя спину прямой, медленно наклонитесь вперед в талии, опуская верхнюю часть тела к земле. Задержитесь на мгновение в нижней точке, затем медленно поднимите верхнюю часть тела обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，膝盖稍微弯曲。 将双手放在臀部或交叉放在胸前。 保持背部挺直，腰部慢慢向前弯曲，将上半身向地面降低。 在底部停顿片刻，然后慢慢抬起上半身回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और आपके घुटने थोड़े मुड़े हुए हों। अपने हाथों को अपने कूल्हों पर रखें या उन्हें अपनी छाती के सामने क्रॉस करें। अपनी पीठ को सीधा रखते हुए, धीरे-धीरे कमर के बल आगे की ओर झुकें, अपने ऊपरी शरीर को जमीन की ओर नीचे करें। नीचे एक पल के लिए रुकें, फिर धीरे-धीरे अपने ऊपरी शरीर को प्रारंभिक स्थिति में वापस उठाएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań w rozkroku na szerokość barków, z lekko ugiętymi kolanami. Ułóż dłonie na biodrach lub skrzyżuj je przed klatką piersiową. Trzymając plecy proste, powoli pochyl tułów do przodu w pasie, opuszczając górną część ciała w kierunku podłogi. Zatrzymaj się na chwilę na dole, a następnie powoli unieś górną część ciała z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "발을 어깨 넓이로 벌리고 무릎을 약간 구부린 상태로 서십시오. 손을 허리에 올려놓거나 가슴 앞에 교차시키십시오. 등을 곧게 유지하면서 천천히 허리에서 몸을 앞으로 굽혀 상체를 땅 쪽으로 낮추십시오. 맨 아래에서 잠시 멈춘 후 천천히 상체를 시작 위치로 다시 올려올리십시오. 원하는 반복 횟수만큼 반복하십시오.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et les genoux légèrement fléchis. Place tes mains sur tes hanches ou croise-les devant ta poitrine. En gardant le dos droit, penche-toi lentement vers l'avant au niveau de la taille, en abaissant le haut de ton corps vers le sol. Marque une pause en bas, puis relève lentement le haut de ton corps jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and your knees slightly bent.",
+      "Place your hands on your hips or cross them in front of your chest.",
+      "Keeping your back straight, slowly bend forward at the waist, lowering your upper body towards the ground.",
+      "Pause for a moment at the bottom, then slowly raise your upper body back up to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai in piedi con i piedi a larghezza delle spalle e le ginocchia leggermente piegate.",
+      "Metti le mani sui fianchi o incrociale davanti al petto.",
+      "Tieni la schiena dritta, piegati lentamente in avanti in vita, abbassando la parte superiore del corpo verso terra.",
+      "Fermati un attimo in basso, poi solleva lentamente la parte superiore del corpo fino alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık ve dizleriniz hafifçe bükülü şekilde ayakta durun.",
+      "Ellerinizi kalçalarınıza koyun veya göğsünüzün önünde çaprazlayın.",
+      "Sırtınızı düz tutarak yavaşça belinizden öne doğru eğilin ve üst vücudunuzu yere doğru indirin.",
+      "Altta bir an duraklayın, ardından üst vücudunuzu yavaşça başlangıç ​​pozisyonuna kaldırın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y las rodillas ligeramente flexionadas.",
+      "Coloca las manos sobre las caderas o crúzalas frente al pecho.",
+      "Manteniendo la espalda recta, inclínate lentamente hacia adelante desde la cintura, bajando la parte superior del cuerpo hacia el suelo.",
+      "Haz una pausa por un momento en la posición más baja, luego sube lentamente la parte superior del cuerpo de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, поставив ноги на ширине плеч и слегка согнув колени.",
+      "Положите руки на бедра или скрестите их перед грудью.",
+      "Сохраняя спину прямой, медленно наклонитесь вперед в талии, опуская верхнюю часть тела к земле.",
+      "Задержитесь на мгновение в нижней точке, затем медленно поднимите верхнюю часть тела обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，膝盖稍微弯曲。",
+      "将双手放在臀部或交叉放在胸前。",
+      "保持背部挺直，腰部慢慢向前弯曲，将上半身向地面降低。",
+      "在底部停顿片刻，然后慢慢抬起上半身回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और आपके घुटने थोड़े मुड़े हुए हों।",
+      "अपने हाथों को अपने कूल्हों पर रखें या उन्हें अपनी छाती के सामने क्रॉस करें।",
+      "अपनी पीठ को सीधा रखते हुए, धीरे-धीरे कमर के बल आगे की ओर झुकें, अपने ऊपरी शरीर को जमीन की ओर नीचे करें।",
+      "नीचे एक पल के लिए रुकें, फिर धीरे-धीरे अपने ऊपरी शरीर को प्रारंभिक स्थिति में वापस उठाएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków, z lekko ugiętymi kolanami.",
+      "Ułóż dłonie na biodrach lub skrzyżuj je przed klatką piersiową.",
+      "Trzymając plecy proste, powoli pochyl tułów do przodu w pasie, opuszczając górną część ciała w kierunku podłogi.",
+      "Zatrzymaj się na chwilę na dole, a następnie powoli unieś górną część ciała z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 넓이로 벌리고 무릎을 약간 구부린 상태로 서십시오.",
+      "손을 허리에 올려놓거나 가슴 앞에 교차시키십시오.",
+      "등을 곧게 유지하면서 천천히 허리에서 몸을 앞으로 굽혀 상체를 땅 쪽으로 낮추십시오.",
+      "맨 아래에서 잠시 멈춘 후 천천히 상체를 시작 위치로 다시 올려올리십시오.",
+      "원하는 반복 횟수만큼 반복하십시오."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et les genoux légèrement fléchis.",
+      "Place tes mains sur tes hanches ou croise-les devant ta poitrine.",
+      "En gardant le dos droit, penche-toi lentement vers l'avant au niveau de la taille, en abaissant le haut de ton corps vers le sol.",
+      "Marque une pause en bas, puis relève lentement le haut de ton corps jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "trapezius"
+  ],
+  "target": "upper back",
+  "image": "images/3292-zYmNaoY.jpg",
+  "gif_url": "videos/3292-zYmNaoY.gif",
+  "media_id": "zYmNaoY",
+  "created_at": "2026-03-18T12:31:32.882624+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

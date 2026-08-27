@@ -1,0 +1,92 @@
+{
+  "id": "0105",
+  "name": "barbell standing bradford press",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and hold the barbell in front of your shoulders with an overhand grip. Press the barbell overhead, fully extending your arms. Lower the barbell back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi divaricati alla larghezza delle spalle e tieni il bilanciere davanti alle spalle con una presa sopra la mano. Premi il bilanciere sopra la testa, estendendo completamente le braccia. Abbassa il bilanciere fino alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınızı omuz genişliğinde açın ve halteri üstten kavrayarak omuzlarınızın önünde tutun. Kollarınızı tamamen uzatarak halteri başınızın üzerine bastırın. Halteri tekrar başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y sujeta la barra frente a los hombros con agarre prono. Empuja la barra por encima de la cabeza, extendiendo completamente los brazos. Baja la barra de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, и держите штангу перед плечами хватом сверху. Жмите штангу над головой, полностью выпрямляя руки. Опустите штангу обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，正手握住杠铃于肩前。 将杠铃推过头顶，充分伸展双臂。 将杠铃降低回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और बारबेल को अपने कंधों के सामने एक ऊपरी पकड़ के साथ पकड़ें। अपनी बाहों को पूरी तरह फैलाकर बारबेल को ऊपर की ओर दबाएं। बारबेल को वापस प्रारंभिक स्थिति में नीचे लाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań ze stopami na szerokość barków, trzymając sztangę przed barkami chwytem nachwytem. Wypchnij sztangę nad głowę, w pełni prostując ramiona. Opuść sztangę z powrotem do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "발을 어깨 너비로 벌리고 서서 바벨을 어깨 앞에서 엎질러 잡습니다. 바벨을 머리 위로 밀어올리면서 팔을 완전히 펼칩니다. 바벨을 시작 위치로 내립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens la barre devant tes épaules en prise pronation. Développe la barre au-dessus de ta tête, en tendant complètement tes bras. Abaisse la barre jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and hold the barbell in front of your shoulders with an overhand grip.",
+      "Press the barbell overhead, fully extending your arms.",
+      "Lower the barbell back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi divaricati alla larghezza delle spalle e tieni il bilanciere davanti alle spalle con una presa sopra la mano.",
+      "Premi il bilanciere sopra la testa, estendendo completamente le braccia.",
+      "Abbassa il bilanciere fino alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınızı omuz genişliğinde açın ve halteri üstten kavrayarak omuzlarınızın önünde tutun.",
+      "Kollarınızı tamamen uzatarak halteri başınızın üzerine bastırın.",
+      "Halteri tekrar başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y sujeta la barra frente a los hombros con agarre prono.",
+      "Empuja la barra por encima de la cabeza, extendiendo completamente los brazos.",
+      "Baja la barra de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, и держите штангу перед плечами хватом сверху.",
+      "Жмите штангу над головой, полностью выпрямляя руки.",
+      "Опустите штангу обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，正手握住杠铃于肩前。",
+      "将杠铃推过头顶，充分伸展双臂。",
+      "将杠铃降低回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और बारबेल को अपने कंधों के सामने एक ऊपरी पकड़ के साथ पकड़ें।",
+      "अपनी बाहों को पूरी तरह फैलाकर बारबेल को ऊपर की ओर दबाएं।",
+      "बारबेल को वापस प्रारंभिक स्थिति में नीचे लाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań ze stopami na szerokość barków, trzymając sztangę przed barkami chwytem nachwytem.",
+      "Wypchnij sztangę nad głowę, w pełni prostując ramiona.",
+      "Opuść sztangę z powrotem do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 너비로 벌리고 서서 바벨을 어깨 앞에서 엎질러 잡습니다.",
+      "바벨을 머리 위로 밀어올리면서 팔을 완전히 펼칩니다.",
+      "바벨을 시작 위치로 내립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens la barre devant tes épaules en prise pronation.",
+      "Développe la barre au-dessus de ta tête, en tendant complètement tes bras.",
+      "Abaisse la barre jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "upper back"
+  ],
+  "target": "delts",
+  "image": "images/0105-dCPESfR.jpg",
+  "gif_url": "videos/0105-dCPESfR.gif",
+  "media_id": "dCPESfR",
+  "created_at": "2026-03-18T12:31:32.873059+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

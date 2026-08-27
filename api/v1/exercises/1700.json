@@ -1,0 +1,92 @@
+{
+  "id": "1700",
+  "name": "dumbbell push press",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand at shoulder level. Bend your knees slightly and dip your body down, then explosively extend your legs and press the dumbbells overhead. Lock out your arms at the top of the movement, then lower the dumbbells back to shoulder level. Repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi a larghezza delle spalle, tenendo un manubrio in ogni mano all'altezza delle spalle. Flette leggermente le ginocchia e abbassa il corpo, poi allunga esplosivamente le gambe e spingi i manubri sopra la testa. Blocca le braccia all'inizio del movimento, poi abbassa i manubri all'altezza delle spalle. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız omuz genişliğinde açık, her iki elinizde de omuz hizasında birer dambıl tutarak ayakta durun. Dizlerinizi hafifçe bükün ve vücudunuzu aşağıya doğru indirin, ardından bacaklarınızı patlayıcı bir şekilde uzatın ve dambılları başınızın üzerine doğru bastırın. Hareketin üst noktasında kollarınızı kilitleyin, ardından dambılları tekrar omuz hizasına indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros, sujetando una mancuerna en cada mano a la altura de los hombros. Flexiona ligeramente las rodillas y baja el cuerpo, luego extiende las piernas de forma explosiva y presiona las mancuernas por encima de la cabeza. Bloquea los brazos en la parte superior del movimiento, luego baja las mancuernas de vuelta a la altura de los hombros. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, держа в каждой руке по гантели на уровне плеч. Слегка согните ноги в коленях и опустите тело вниз, затем резко выпрямите ноги и выжмите гантели над головой. Зафиксируйте руки в верхней точке движения, затем опустите гантели обратно на уровень плеч. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，双手各握一个哑铃，与肩同高。 稍微弯曲膝盖，身体下沉，然后爆发性伸展双腿，将哑铃压过头顶。 在动作的最高点锁定手臂，然后将哑铃放回肩部水平。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, प्रत्येक हाथ में कंधे के स्तर पर डम्बल पकड़ें। अपने घुटनों को थोड़ा मोड़ें और अपने शरीर को नीचे झुकाएं, फिर अपने पैरों को तेजी से फैलाएं और डम्बल को ऊपर की ओर दबाएं। अपनी भुजाओं को गति के शीर्ष पर लॉक कर लें, फिर डम्बल को वापस कंधे के स्तर पर नीचे लाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań w rozkroku na szerokość barków, trzymając w każdej dłoni hantlę na wysokości barków. Ugnij lekko kolana i opuść ciało, a następnie gwałtownie wyprostuj nogi i wypchnij hantle nad głowę. Zablokuj ręce na górze ruchu, a następnie opuść hantle z powrotem na wysokość barków. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "발을 어깨 넓이로 벌리고 양손에 덤벨을 잡아 어깨 높이에 올립니다. 무릎을 약간 구부리고 몸을 살짝 내린 후 발을 폭발적으로 펼치면서 덤벨을 머리 위로 밉니다. 맨 위에서 팔을 완전히 펼친 후 덤벨을 어깨 높이로 다시 내립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un haltère dans chaque main à hauteur d'épaule. Fléchis légèrement les genoux et descends ton corps, puis étends tes jambes de façon explosive et pousse les haltères au-dessus de ta tête. Verrouille tes bras en haut du mouvement, puis abaisse les haltères à hauteur des épaules. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart, holding a dumbbell in each hand at shoulder level.",
+      "Bend your knees slightly and dip your body down, then explosively extend your legs and press the dumbbells overhead.",
+      "Lock out your arms at the top of the movement, then lower the dumbbells back to shoulder level.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi a larghezza delle spalle, tenendo un manubrio in ogni mano all'altezza delle spalle.",
+      "Flette leggermente le ginocchia e abbassa il corpo, poi allunga esplosivamente le gambe e spingi i manubri sopra la testa.",
+      "Blocca le braccia all'inizio del movimento, poi abbassa i manubri all'altezza delle spalle.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık, her iki elinizde de omuz hizasında birer dambıl tutarak ayakta durun.",
+      "Dizlerinizi hafifçe bükün ve vücudunuzu aşağıya doğru indirin, ardından bacaklarınızı patlayıcı bir şekilde uzatın ve dambılları başınızın üzerine doğru bastırın.",
+      "Hareketin üst noktasında kollarınızı kilitleyin, ardından dambılları tekrar omuz hizasına indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros, sujetando una mancuerna en cada mano a la altura de los hombros.",
+      "Flexiona ligeramente las rodillas y baja el cuerpo, luego extiende las piernas de forma explosiva y presiona las mancuernas por encima de la cabeza.",
+      "Bloquea los brazos en la parte superior del movimiento, luego baja las mancuernas de vuelta a la altura de los hombros.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, держа в каждой руке по гантели на уровне плеч.",
+      "Слегка согните ноги в коленях и опустите тело вниз, затем резко выпрямите ноги и выжмите гантели над головой.",
+      "Зафиксируйте руки в верхней точке движения, затем опустите гантели обратно на уровень плеч.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，双手各握一个哑铃，与肩同高。",
+      "稍微弯曲膝盖，身体下沉，然后爆发性伸展双腿，将哑铃压过头顶。",
+      "在动作的最高点锁定手臂，然后将哑铃放回肩部水平。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, प्रत्येक हाथ में कंधे के स्तर पर डम्बल पकड़ें।",
+      "अपने घुटनों को थोड़ा मोड़ें और अपने शरीर को नीचे झुकाएं, फिर अपने पैरों को तेजी से फैलाएं और डम्बल को ऊपर की ओर दबाएं।",
+      "अपनी भुजाओं को गति के शीर्ष पर लॉक कर लें, फिर डम्बल को वापस कंधे के स्तर पर नीचे लाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków, trzymając w każdej dłoni hantlę na wysokości barków.",
+      "Ugnij lekko kolana i opuść ciało, a następnie gwałtownie wyprostuj nogi i wypchnij hantle nad głowę.",
+      "Zablokuj ręce na górze ruchu, a następnie opuść hantle z powrotem na wysokość barków.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 넓이로 벌리고 양손에 덤벨을 잡아 어깨 높이에 올립니다.",
+      "무릎을 약간 구부리고 몸을 살짝 내린 후 발을 폭발적으로 펼치면서 덤벨을 머리 위로 밉니다.",
+      "맨 위에서 팔을 완전히 펼친 후 덤벨을 어깨 높이로 다시 내립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un haltère dans chaque main à hauteur d'épaule.",
+      "Fléchis légèrement les genoux et descends ton corps, puis étends tes jambes de façon explosive et pousse les haltères au-dessus de ta tête.",
+      "Verrouille tes bras en haut du mouvement, puis abaisse les haltères à hauteur des épaules.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "core"
+  ],
+  "target": "delts",
+  "image": "images/1700-FS63wTN.jpg",
+  "gif_url": "videos/1700-FS63wTN.gif",
+  "media_id": "FS63wTN",
+  "created_at": "2026-03-18T12:31:32.880658+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

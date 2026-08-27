@@ -1,0 +1,112 @@
+{
+  "id": "1466",
+  "name": "twist hip lift",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Lie on your back with your knees bent and feet flat on the ground. Place your hands by your sides for support. Engage your glutes and lift your hips off the ground, forming a straight line from your knees to your shoulders. While keeping your hips lifted, twist your lower body to the right side, bringing your knees towards the ground. Return to the starting position and repeat the twist to the left side. Continue alternating twists for the desired number of repetitions.",
+    "it": "Sdraiati sulla schiena con le ginocchia piegate e i piedi appoggiati a terra. Metti le mani lungo i fianchi per supporto. Coinvolgi i glutei e solleva i fianchi da terra, formando una linea retta dalle ginocchia alle spalle. Tenendo i fianchi sollevati, ruota la parte inferiore del corpo verso il lato destro, portando le ginocchia verso terra. Ritorna alla posizione iniziale e ripeti la rotazione sul lato sinistro. Continua ad alternare le torsioni per il numero di ripetizioni desiderato.",
+    "tr": "Dizleriniz bükülü ve ayaklarınız yere düz basacak şekilde sırt üstü yatın. Destek için ellerinizi yanlarınıza koyun. Kalça kaslarınızı devreye sokun ve kalçalarınızı yerden kaldırın, dizlerinizden omuzlarınıza kadar düz bir çizgi oluşturun. Kalçalarınızı yukarıda tutarken, alt bedeninizi sağ tarafa doğru bükerek dizlerinizi yere doğru getirin. Başlangıç ​​pozisyonuna dönün ve bükümü sol tarafa doğru tekrarlayın. İstenilen sayıda tekrar için dönüşümlü bükümlere devam edin.",
+    "es": "Túmbate sobre tu espalda con las rodillas flexionadas y los pies apoyados en el suelo. Coloca las manos a los lados para mayor apoyo. Activa los glúteos y levanta las caderas del suelo, formando una línea recta desde las rodillas hasta los hombros. Manteniendo las caderas elevadas, gira la parte inferior del cuerpo hacia el lado derecho, llevando las rodillas hacia el suelo. Vuelve a la posición inicial y repite el giro hacia el lado izquierdo. Continúa alternando los giros el número de repeticiones deseado.",
+    "ru": "Лягте на спину, согните колени и поставьте ступни на землю. Положите руки по бокам для поддержки. Напрягите ягодицы и поднимите бедра от земли, образуя прямую линию от колен до плеч. Удерживая бедра поднятыми, поверните нижнюю часть тела вправо, приближая колени к земле. Вернитесь в исходное положение и повторите поворот в левую сторону. Продолжайте чередовать скручивания желаемое количество повторений.",
+    "zh": "仰卧，膝盖弯曲，双脚平放在地上。 将双手放在身体两侧以获得支撑。 收紧臀部并将臀部抬离地面，从膝盖到肩膀形成一条直线。 在保持臀部抬起的同时，将下半身扭转到右侧，使膝盖靠近地面。 返回起始位置并向左侧重复扭转。 继续交替扭转所需的重复次数。",
+    "hi": "अपने घुटनों को मोड़कर और पैरों को ज़मीन पर सपाट रखते हुए अपनी पीठ के बल लेटें। समर्थन के लिए अपने हाथों को अपने बगल में रखें। अपने ग्लूट्स को संलग्न करें और अपने कूल्हों को ज़मीन से ऊपर उठाएं, जिससे आपके घुटनों से लेकर आपके कंधों तक एक सीधी रेखा बन जाए। अपने कूल्हों को ऊपर उठाते हुए, अपने निचले शरीर को दाहिनी ओर मोड़ें, अपने घुटनों को ज़मीन की ओर लाएँ। प्रारंभिक स्थिति पर लौटें और बाईं ओर मोड़ को दोहराएं। पुनरावृत्ति की वांछित संख्या के लिए बारी-बारी से मोड़ जारी रखें।",
+    "pl": "Połóż się na plecach z ugiętymi kolanami i stopami płasko na podłodze. Umieść dłonie wzdłuż ciała dla wsparcia. Napnij pośladki i unieś biodra nad podłogę, tworząc linię prostą od kolan do barków. Utrzymując biodra uniesione, skręć dolną część ciała w prawą stronę, przybliżając kolana do podłogi. Wróć do pozycji wyjściowej i powtórz skręt w lewą stronę. Kontynuuj naprzemienne skręty przez żądaną liczbę powtórzeń.",
+    "ko": "등을 바닥에 댄 상태에서 무릎을 구부려 발을 땅에 붙입니다. 손을 옆에 놓아 지탱합니다. 둔근을 조여 골반을 땅에서 들어올려 무릎에서 어깨까지 일직선을 만듭니다. 골반을 들어올린 상태에서 하체를 오른쪽으로 비틀어 무릎을 땅 쪽으로 가져옵니다. 시작 위치로 돌아와 왼쪽으로도 같은 비틀기를 반복합니다. 원하는 횟수만큼 계속 좌우로 비틀기를 합니다.",
+    "fr": "Allonge-toi sur le dos, les genoux fléchis et les pieds à plat au sol. Place tes mains le long de ton corps pour le soutien. Contracte tes fessiers et soulève tes hanches du sol, en formant une ligne droite de tes genoux à tes épaules. Tout en gardant tes hanches soulevées, fais pivoter le bas de ton corps vers la droite en ramenant tes genoux vers le sol. Reviens à la position de départ et répète la torsion vers le côté gauche. Continue à alterner les torsions pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Lie on your back with your knees bent and feet flat on the ground.",
+      "Place your hands by your sides for support.",
+      "Engage your glutes and lift your hips off the ground, forming a straight line from your knees to your shoulders.",
+      "While keeping your hips lifted, twist your lower body to the right side, bringing your knees towards the ground.",
+      "Return to the starting position and repeat the twist to the left side.",
+      "Continue alternating twists for the desired number of repetitions."
+    ],
+    "it": [
+      "Sdraiati sulla schiena con le ginocchia piegate e i piedi appoggiati a terra.",
+      "Metti le mani lungo i fianchi per supporto.",
+      "Coinvolgi i glutei e solleva i fianchi da terra, formando una linea retta dalle ginocchia alle spalle.",
+      "Tenendo i fianchi sollevati, ruota la parte inferiore del corpo verso il lato destro, portando le ginocchia verso terra.",
+      "Ritorna alla posizione iniziale e ripeti la rotazione sul lato sinistro.",
+      "Continua ad alternare le torsioni per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Dizleriniz bükülü ve ayaklarınız yere düz basacak şekilde sırt üstü yatın.",
+      "Destek için ellerinizi yanlarınıza koyun.",
+      "Kalça kaslarınızı devreye sokun ve kalçalarınızı yerden kaldırın, dizlerinizden omuzlarınıza kadar düz bir çizgi oluşturun.",
+      "Kalçalarınızı yukarıda tutarken, alt bedeninizi sağ tarafa doğru bükerek dizlerinizi yere doğru getirin.",
+      "Başlangıç ​​pozisyonuna dönün ve bükümü sol tarafa doğru tekrarlayın.",
+      "İstenilen sayıda tekrar için dönüşümlü bükümlere devam edin."
+    ],
+    "es": [
+      "Túmbate sobre tu espalda con las rodillas flexionadas y los pies apoyados en el suelo.",
+      "Coloca las manos a los lados para mayor apoyo.",
+      "Activa los glúteos y levanta las caderas del suelo, formando una línea recta desde las rodillas hasta los hombros.",
+      "Manteniendo las caderas elevadas, gira la parte inferior del cuerpo hacia el lado derecho, llevando las rodillas hacia el suelo.",
+      "Vuelve a la posición inicial y repite el giro hacia el lado izquierdo.",
+      "Continúa alternando los giros el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Лягте на спину, согните колени и поставьте ступни на землю.",
+      "Положите руки по бокам для поддержки.",
+      "Напрягите ягодицы и поднимите бедра от земли, образуя прямую линию от колен до плеч.",
+      "Удерживая бедра поднятыми, поверните нижнюю часть тела вправо, приближая колени к земле.",
+      "Вернитесь в исходное положение и повторите поворот в левую сторону.",
+      "Продолжайте чередовать скручивания желаемое количество повторений."
+    ],
+    "zh": [
+      "仰卧，膝盖弯曲，双脚平放在地上。",
+      "将双手放在身体两侧以获得支撑。",
+      "收紧臀部并将臀部抬离地面，从膝盖到肩膀形成一条直线。",
+      "在保持臀部抬起的同时，将下半身扭转到右侧，使膝盖靠近地面。",
+      "返回起始位置并向左侧重复扭转。",
+      "继续交替扭转所需的重复次数。"
+    ],
+    "hi": [
+      "अपने घुटनों को मोड़कर और पैरों को ज़मीन पर सपाट रखते हुए अपनी पीठ के बल लेटें।",
+      "समर्थन के लिए अपने हाथों को अपने बगल में रखें।",
+      "अपने ग्लूट्स को संलग्न करें और अपने कूल्हों को ज़मीन से ऊपर उठाएं, जिससे आपके घुटनों से लेकर आपके कंधों तक एक सीधी रेखा बन जाए।",
+      "अपने कूल्हों को ऊपर उठाते हुए, अपने निचले शरीर को दाहिनी ओर मोड़ें, अपने घुटनों को ज़मीन की ओर लाएँ।",
+      "प्रारंभिक स्थिति पर लौटें और बाईं ओर मोड़ को दोहराएं।",
+      "पुनरावृत्ति की वांछित संख्या के लिए बारी-बारी से मोड़ जारी रखें।"
+    ],
+    "pl": [
+      "Połóż się na plecach z ugiętymi kolanami i stopami płasko na podłodze.",
+      "Umieść dłonie wzdłuż ciała dla wsparcia.",
+      "Napnij pośladki i unieś biodra nad podłogę, tworząc linię prostą od kolan do barków.",
+      "Utrzymując biodra uniesione, skręć dolną część ciała w prawą stronę, przybliżając kolana do podłogi.",
+      "Wróć do pozycji wyjściowej i powtórz skręt w lewą stronę.",
+      "Kontynuuj naprzemienne skręty przez żądaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "등을 바닥에 댄 상태에서 무릎을 구부려 발을 땅에 붙입니다.",
+      "손을 옆에 놓아 지탱합니다.",
+      "둔근을 조여 골반을 땅에서 들어올려 무릎에서 어깨까지 일직선을 만듭니다.",
+      "골반을 들어올린 상태에서 하체를 오른쪽으로 비틀어 무릎을 땅 쪽으로 가져옵니다.",
+      "시작 위치로 돌아와 왼쪽으로도 같은 비틀기를 반복합니다.",
+      "원하는 횟수만큼 계속 좌우로 비틀기를 합니다."
+    ],
+    "fr": [
+      "Allonge-toi sur le dos, les genoux fléchis et les pieds à plat au sol.",
+      "Place tes mains le long de ton corps pour le soutien.",
+      "Contracte tes fessiers et soulève tes hanches du sol, en formant une ligne droite de tes genoux à tes épaules.",
+      "Tout en gardant tes hanches soulevées, fais pivoter le bas de ton corps vers la droite en ramenant tes genoux vers le sol.",
+      "Reviens à la position de départ et répète la torsion vers le côté gauche.",
+      "Continue à alterner les torsions pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "obliques",
+  "secondary_muscles": [
+    "obliques",
+    "hamstrings"
+  ],
+  "target": "glutes",
+  "image": "images/1466-AX1kB0o.jpg",
+  "gif_url": "videos/1466-AX1kB0o.gif",
+  "media_id": "AX1kB0o",
+  "created_at": "2026-03-18T12:31:32.905457+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

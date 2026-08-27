@@ -1,0 +1,112 @@
+{
+  "id": "0844",
+  "name": "weighted round arm",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "weighted",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and hold a dumbbell in each hand. Bend your knees slightly and hinge forward at the hips, keeping your back straight. Raise your arms out to the sides, keeping a slight bend in your elbows. Continue lifting your arms until they are parallel to the ground. Pause for a moment at the top, then slowly lower your arms back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stare con i piedi alla larghezza delle spalle e tenere un manubrio in ciascuna mano. Piega leggermente le ginocchia e fai perno in avanti sui fianchi, mantenendo la schiena dritta. Alza le braccia verso i lati, mantenendo una leggera piegatura dei gomiti. Continua a sollevare le braccia finché non saranno parallele al suolo. Fai una pausa per un momento in alto, quindi abbassa lentamente le braccia fino alla posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınızı omuz genişliğinde açın ve her iki elinize de birer dambıl alın. Dizlerinizi hafifçe bükün ve sırtınızı düz tutarak kalçalarınızdan öne doğru eğilin. Dirseklerinizi hafif bükerek kollarınızı yanlara doğru kaldırın. Kollarınızı yere paralel olana kadar kaldırmaya devam edin. Tepe noktasında bir an duraklayın, ardından kollarınızı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y sostén una mancuerna en cada mano. Flexiona ligeramente las rodillas e inclínate hacia adelante desde las caderas, manteniendo la espalda recta. Eleva los brazos hacia los lados, manteniendo una ligera flexión en los codos. Continúa elevando los brazos hasta que queden paralelos al suelo. Haz una pausa por un momento en la parte superior, luego baja lentamente los brazos de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, возьмите в каждую руку по гантели. Слегка согните колени и наклонитесь вперед в бедрах, сохраняя спину прямой. Поднимите руки в стороны, сохраняя небольшой изгиб в локтях. Продолжайте поднимать руки, пока они не станут параллельны земле. Задержитесь на мгновение в верхней точке, затем медленно опустите руки обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，每只手各握一个哑铃。 稍微弯曲膝盖，髋部向前转动，保持背部挺直。 将手臂向两侧举起，肘部保持轻微弯曲。 继续举起手臂，直到它们与地面平行。 在顶部暂停片刻，然后慢慢将手臂放回起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और प्रत्येक हाथ में डंबल पकड़ लें। अपने घुटनों को थोड़ा मोड़ें और अपनी पीठ को सीधा रखते हुए कूल्हों पर आगे की ओर झुकें। अपनी कोहनियों को हल्का सा मोड़ते हुए, अपनी भुजाओं को बगल की ओर उठाएँ। अपनी भुजाओं को तब तक उठाते रहें जब तक वे जमीन के समानांतर न हो जाएं। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपनी भुजाओं को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań ze stopami rozstawionymi na szerokość barków, trzymając hantlę w każdej dłoni. Ugnij lekko kolana i pochyl się do przodu w biodrach, trzymając plecy proste. Unieś ramiona na boki, zachowując lekkie ugięcie w łokciach. Kontynuuj unoszenie ramion, aż będą równoległe do podłoża. Zatrzymaj się na chwilę na górze, a następnie powoli opuść ramiona z powrotem do pozycji wyjściowej. Powtórz zgodnie z żądaną liczbą powtórzeń.",
+    "ko": "발을 어깨 너비로 벌리고 서서 각 손에 덤벨을 들고 있습니다. 무릎을 약간 구부리고 엉덩이를 뒤로 하며 허리에서 앞으로 숙입니다. 팔꿈치에 약간의 굽음을 유지하며 팔을 옆으로 들어올립니다. 팔이 바닥과 평행할 때까지 계속 들어올립니다. 위쪽에서 잠시 멈춘 후 팔을 천천히 처음 위치로 내려갑니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens un haltère dans chaque main. Fléchis légèrement les genoux et bascule vers l'avant au niveau des hanches en gardant le dos droit. Lève tes bras sur les côtés en gardant une légère flexion dans tes coudes. Continue à lever tes bras jusqu'à ce qu'ils soient parallèles au sol. Marque une pause en haut, puis abaisse lentement tes bras pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and hold a dumbbell in each hand.",
+      "Bend your knees slightly and hinge forward at the hips, keeping your back straight.",
+      "Raise your arms out to the sides, keeping a slight bend in your elbows.",
+      "Continue lifting your arms until they are parallel to the ground.",
+      "Pause for a moment at the top, then slowly lower your arms back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stare con i piedi alla larghezza delle spalle e tenere un manubrio in ciascuna mano.",
+      "Piega leggermente le ginocchia e fai perno in avanti sui fianchi, mantenendo la schiena dritta.",
+      "Alza le braccia verso i lati, mantenendo una leggera piegatura dei gomiti.",
+      "Continua a sollevare le braccia finché non saranno parallele al suolo.",
+      "Fai una pausa per un momento in alto, quindi abbassa lentamente le braccia fino alla posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınızı omuz genişliğinde açın ve her iki elinize de birer dambıl alın.",
+      "Dizlerinizi hafifçe bükün ve sırtınızı düz tutarak kalçalarınızdan öne doğru eğilin.",
+      "Dirseklerinizi hafif bükerek kollarınızı yanlara doğru kaldırın.",
+      "Kollarınızı yere paralel olana kadar kaldırmaya devam edin.",
+      "Tepe noktasında bir an duraklayın, ardından kollarınızı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y sostén una mancuerna en cada mano.",
+      "Flexiona ligeramente las rodillas e inclínate hacia adelante desde las caderas, manteniendo la espalda recta.",
+      "Eleva los brazos hacia los lados, manteniendo una ligera flexión en los codos.",
+      "Continúa elevando los brazos hasta que queden paralelos al suelo.",
+      "Haz una pausa por un momento en la parte superior, luego baja lentamente los brazos de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, возьмите в каждую руку по гантели.",
+      "Слегка согните колени и наклонитесь вперед в бедрах, сохраняя спину прямой.",
+      "Поднимите руки в стороны, сохраняя небольшой изгиб в локтях.",
+      "Продолжайте поднимать руки, пока они не станут параллельны земле.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите руки обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，每只手各握一个哑铃。",
+      "稍微弯曲膝盖，髋部向前转动，保持背部挺直。",
+      "将手臂向两侧举起，肘部保持轻微弯曲。",
+      "继续举起手臂，直到它们与地面平行。",
+      "在顶部暂停片刻，然后慢慢将手臂放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और प्रत्येक हाथ में डंबल पकड़ लें।",
+      "अपने घुटनों को थोड़ा मोड़ें और अपनी पीठ को सीधा रखते हुए कूल्हों पर आगे की ओर झुकें।",
+      "अपनी कोहनियों को हल्का सा मोड़ते हुए, अपनी भुजाओं को बगल की ओर उठाएँ।",
+      "अपनी भुजाओं को तब तक उठाते रहें जब तक वे जमीन के समानांतर न हो जाएं।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपनी भुजाओं को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań ze stopami rozstawionymi na szerokość barków, trzymając hantlę w każdej dłoni.",
+      "Ugnij lekko kolana i pochyl się do przodu w biodrach, trzymając plecy proste.",
+      "Unieś ramiona na boki, zachowując lekkie ugięcie w łokciach.",
+      "Kontynuuj unoszenie ramion, aż będą równoległe do podłoża.",
+      "Zatrzymaj się na chwilę na górze, a następnie powoli opuść ramiona z powrotem do pozycji wyjściowej.",
+      "Powtórz zgodnie z żądaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 너비로 벌리고 서서 각 손에 덤벨을 들고 있습니다.",
+      "무릎을 약간 구부리고 엉덩이를 뒤로 하며 허리에서 앞으로 숙입니다.",
+      "팔꿈치에 약간의 굽음을 유지하며 팔을 옆으로 들어올립니다.",
+      "팔이 바닥과 평행할 때까지 계속 들어올립니다.",
+      "위쪽에서 잠시 멈춘 후 팔을 천천히 처음 위치로 내려갑니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens un haltère dans chaque main.",
+      "Fléchis légèrement les genoux et bascule vers l'avant au niveau des hanches en gardant le dos droit.",
+      "Lève tes bras sur les côtés en gardant une légère flexion dans tes coudes.",
+      "Continue à lever tes bras jusqu'à ce qu'ils soient parallèles au sol.",
+      "Marque une pause en haut, puis abaisse lentement tes bras pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "upper back"
+  ],
+  "target": "delts",
+  "image": "images/0844-VLYXo8S.jpg",
+  "gif_url": "videos/0844-VLYXo8S.gif",
+  "media_id": "VLYXo8S",
+  "created_at": "2026-03-18T12:31:32.906097+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

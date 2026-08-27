@@ -1,0 +1,1412 @@
+[
+  {
+    "id": "0018",
+    "name": "assisted standing triceps extension (with towel)",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "assisted",
+    "target": "triceps",
+    "image": "images/0018-7HcfMBP.jpg",
+    "gif_url": "videos/0018-7HcfMBP.gif"
+  },
+  {
+    "id": "0019",
+    "name": "assisted triceps dip (kneeling)",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "leverage machine",
+    "target": "triceps",
+    "image": "images/0019-J60bN17.jpg",
+    "gif_url": "videos/0019-J60bN17.gif"
+  },
+  {
+    "id": "0975",
+    "name": "band close-grip push-up",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "band",
+    "target": "triceps",
+    "image": "images/0975-ufaxB52.jpg",
+    "gif_url": "videos/0975-ufaxB52.gif"
+  },
+  {
+    "id": "0998",
+    "name": "band side triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "band",
+    "target": "triceps",
+    "image": "images/0998-obe5LMq.jpg",
+    "gif_url": "videos/0998-obe5LMq.gif"
+  },
+  {
+    "id": "0030",
+    "name": "barbell close-grip bench press",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps",
+    "image": "images/0030-J6Dx1Mu.jpg",
+    "gif_url": "videos/0030-J6Dx1Mu.gif"
+  },
+  {
+    "id": "0035",
+    "name": "barbell decline close grip to skull press",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps",
+    "image": "images/0035-LMGXZn8.jpg",
+    "gif_url": "videos/0035-LMGXZn8.gif"
+  },
+  {
+    "id": "1719",
+    "name": "barbell incline close grip bench press",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps",
+    "image": "images/1719-gx7s7uF.jpg",
+    "gif_url": "videos/1719-gx7s7uF.gif"
+  },
+  {
+    "id": "0048",
+    "name": "barbell incline reverse-grip press",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps",
+    "image": "images/0048-641mIfk.jpg",
+    "gif_url": "videos/0048-641mIfk.gif"
+  },
+  {
+    "id": "0052",
+    "name": "barbell jm bench press",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps",
+    "image": "images/0052-ZsiqXYa.jpg",
+    "gif_url": "videos/0052-ZsiqXYa.gif"
+  },
+  {
+    "id": "1720",
+    "name": "barbell lying back of the head tricep extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps",
+    "image": "images/1720-yg8Totb.jpg",
+    "gif_url": "videos/1720-yg8Totb.gif"
+  },
+  {
+    "id": "0055",
+    "name": "barbell lying close-grip press",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps",
+    "image": "images/0055-EcaV7aL.jpg",
+    "gif_url": "videos/0055-EcaV7aL.gif"
+  },
+  {
+    "id": "0056",
+    "name": "barbell lying close-grip triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps",
+    "image": "images/0056-HJ63mSO.jpg",
+    "gif_url": "videos/0056-HJ63mSO.gif"
+  },
+  {
+    "id": "0057",
+    "name": "barbell lying extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps",
+    "image": "images/0057-EMpUwRI.jpg",
+    "gif_url": "videos/0057-EMpUwRI.gif"
+  },
+  {
+    "id": "0061",
+    "name": "barbell lying triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps",
+    "image": "images/0061-iZop9xO.jpg",
+    "gif_url": "videos/0061-iZop9xO.gif"
+  },
+  {
+    "id": "0060",
+    "name": "barbell lying triceps extension skull crusher",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps",
+    "image": "images/0060-h8LFzo9.jpg",
+    "gif_url": "videos/0060-h8LFzo9.gif"
+  },
+  {
+    "id": "0065",
+    "name": "barbell one arm floor press",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps",
+    "image": "images/0065-vtusOWT.jpg",
+    "gif_url": "videos/0065-vtusOWT.gif"
+  },
+  {
+    "id": "1751",
+    "name": "barbell pin presses",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps",
+    "image": "images/1751-bndCa3Q.jpg",
+    "gif_url": "videos/1751-bndCa3Q.gif"
+  },
+  {
+    "id": "2187",
+    "name": "barbell reverse close-grip bench press",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps",
+    "image": "images/2187-YqJw82s.jpg",
+    "gif_url": "videos/2187-YqJw82s.gif"
+  },
+  {
+    "id": "1721",
+    "name": "barbell reverse grip skullcrusher",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps",
+    "image": "images/1721-yRLPCLu.jpg",
+    "gif_url": "videos/1721-yRLPCLu.gif"
+  },
+  {
+    "id": "1718",
+    "name": "barbell seated close grip behind neck triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps",
+    "image": "images/1718-4CBIBOM.jpg",
+    "gif_url": "videos/1718-4CBIBOM.gif"
+  },
+  {
+    "id": "0092",
+    "name": "barbell seated overhead triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps",
+    "image": "images/0092-5uFK1xr.jpg",
+    "gif_url": "videos/0092-5uFK1xr.gif"
+  },
+  {
+    "id": "0109",
+    "name": "barbell standing overhead triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps",
+    "image": "images/0109-dZl9Q27.jpg",
+    "gif_url": "videos/0109-dZl9Q27.gif"
+  },
+  {
+    "id": "0129",
+    "name": "bench dip (knees bent)",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps",
+    "image": "images/0129-RrLske5.jpg",
+    "gif_url": "videos/0129-RrLske5.gif"
+  },
+  {
+    "id": "1399",
+    "name": "bench dip on floor",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps",
+    "image": "images/1399-9RT8oQW.jpg",
+    "gif_url": "videos/1399-9RT8oQW.gif"
+  },
+  {
+    "id": "0137",
+    "name": "body-up",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps",
+    "image": "images/0137-U6G2gk9.jpg",
+    "gif_url": "videos/0137-U6G2gk9.gif"
+  },
+  {
+    "id": "1771",
+    "name": "bodyweight kneeling triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps",
+    "image": "images/1771-s0HKO2I.jpg",
+    "gif_url": "videos/1771-s0HKO2I.gif"
+  },
+  {
+    "id": "0149",
+    "name": "cable alternate triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "cable",
+    "target": "triceps",
+    "image": "images/0149-Gchi5Tr.jpg",
+    "gif_url": "videos/0149-Gchi5Tr.gif"
+  },
+  {
+    "id": "0152",
+    "name": "cable concentration extension (on knee)",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "cable",
+    "target": "triceps",
+    "image": "images/0152-Db7eEgw.jpg",
+    "gif_url": "videos/0152-Db7eEgw.gif"
+  },
+  {
+    "id": "1722",
+    "name": "cable high pulley overhead tricep extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "cable",
+    "target": "triceps",
+    "image": "images/1722-1xHyxys.jpg",
+    "gif_url": "videos/1722-1xHyxys.gif"
+  },
+  {
+    "id": "0173",
+    "name": "cable incline triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "cable",
+    "target": "triceps",
+    "image": "images/0173-Hx1WC8I.jpg",
+    "gif_url": "videos/0173-Hx1WC8I.gif"
+  },
+  {
+    "id": "0860",
+    "name": "cable kickback",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "cable",
+    "target": "triceps",
+    "image": "images/0860-HEJ6DIX.jpg",
+    "gif_url": "videos/0860-HEJ6DIX.gif"
+  },
+  {
+    "id": "0176",
+    "name": "cable kneeling triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "cable",
+    "target": "triceps",
+    "image": "images/0176-KWdF2JI.jpg",
+    "gif_url": "videos/0176-KWdF2JI.gif"
+  },
+  {
+    "id": "0186",
+    "name": "cable lying triceps extension v. 2",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "cable",
+    "target": "triceps",
+    "image": "images/0186-uxJcFUU.jpg",
+    "gif_url": "videos/0186-uxJcFUU.gif"
+  },
+  {
+    "id": "1723",
+    "name": "cable one arm tricep pushdown",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "cable",
+    "target": "triceps",
+    "image": "images/1723-qRZ5S1N.jpg",
+    "gif_url": "videos/1723-qRZ5S1N.gif"
+  },
+  {
+    "id": "0194",
+    "name": "cable overhead triceps extension (rope attachment)",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "cable",
+    "target": "triceps",
+    "image": "images/0194-2IxROQ1.jpg",
+    "gif_url": "videos/0194-2IxROQ1.gif"
+  },
+  {
+    "id": "0201",
+    "name": "cable pushdown",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "cable",
+    "target": "triceps",
+    "image": "images/0201-3ZflifB.jpg",
+    "gif_url": "videos/0201-3ZflifB.gif"
+  },
+  {
+    "id": "0200",
+    "name": "cable pushdown (with rope attachment)",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "cable",
+    "target": "triceps",
+    "image": "images/0200-dU605di.jpg",
+    "gif_url": "videos/0200-dU605di.gif"
+  },
+  {
+    "id": "0204",
+    "name": "cable rear drive",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "cable",
+    "target": "triceps",
+    "image": "images/0204-c3QQLPi.jpg",
+    "gif_url": "videos/0204-c3QQLPi.gif"
+  },
+  {
+    "id": "2406",
+    "name": "cable reverse grip triceps pushdown (sz-bar) (with arm blaster)",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "cable",
+    "target": "triceps",
+    "image": "images/2406-ThKP69G.jpg",
+    "gif_url": "videos/2406-ThKP69G.gif"
+  },
+  {
+    "id": "0207",
+    "name": "cable reverse-grip pushdown",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "cable",
+    "target": "triceps",
+    "image": "images/0207-VjYliFZ.jpg",
+    "gif_url": "videos/0207-VjYliFZ.gif"
+  },
+  {
+    "id": "1724",
+    "name": "cable rope high pulley overhead tricep extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "cable",
+    "target": "triceps",
+    "image": "images/1724-NN8nSNT.jpg",
+    "gif_url": "videos/1724-NN8nSNT.gif"
+  },
+  {
+    "id": "1725",
+    "name": "cable rope incline tricep extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "cable",
+    "target": "triceps",
+    "image": "images/1725-ZujAdR9.jpg",
+    "gif_url": "videos/1725-ZujAdR9.gif"
+  },
+  {
+    "id": "1726",
+    "name": "cable rope lying on floor tricep extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "cable",
+    "target": "triceps",
+    "image": "images/1726-U3ffHlY.jpg",
+    "gif_url": "videos/1726-U3ffHlY.gif"
+  },
+  {
+    "id": "0231",
+    "name": "cable standing one arm triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "cable",
+    "target": "triceps",
+    "image": "images/0231-sYCcnon.jpg",
+    "gif_url": "videos/0231-sYCcnon.gif"
+  },
+  {
+    "id": "1727",
+    "name": "cable standing reverse grip one arm overhead tricep extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "cable",
+    "target": "triceps",
+    "image": "images/1727-i11JWU7.jpg",
+    "gif_url": "videos/1727-i11JWU7.gif"
+  },
+  {
+    "id": "0241",
+    "name": "cable triceps pushdown (v-bar)",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "cable",
+    "target": "triceps",
+    "image": "images/0241-gAwDzB3.jpg",
+    "gif_url": "videos/0241-gAwDzB3.gif"
+  },
+  {
+    "id": "2405",
+    "name": "cable triceps pushdown (v-bar) (with arm blaster)",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "cable",
+    "target": "triceps",
+    "image": "images/2405-OxJk1fg.jpg",
+    "gif_url": "videos/2405-OxJk1fg.gif"
+  },
+  {
+    "id": "1728",
+    "name": "cable two arm tricep kickback",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "cable",
+    "target": "triceps",
+    "image": "images/1728-vvNjDJS.jpg",
+    "gif_url": "videos/1728-vvNjDJS.gif"
+  },
+  {
+    "id": "0259",
+    "name": "close-grip push-up",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps",
+    "image": "images/0259-x6KpKpq.jpg",
+    "gif_url": "videos/0259-x6KpKpq.gif"
+  },
+  {
+    "id": "2398",
+    "name": "close-grip push-up (on knees)",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps",
+    "image": "images/2398-v3vLFW0.jpg",
+    "gif_url": "videos/2398-v3vLFW0.gif"
+  },
+  {
+    "id": "0283",
+    "name": "diamond push-up",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps",
+    "image": "images/0283-soIB2rj.jpg",
+    "gif_url": "videos/0283-soIB2rj.gif"
+  },
+  {
+    "id": "1731",
+    "name": "dumbbell close grip press",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/1731-7jGOBF3.jpg",
+    "gif_url": "videos/1731-7jGOBF3.gif"
+  },
+  {
+    "id": "0296",
+    "name": "dumbbell close-grip press",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/0296-RxayqAZ.jpg",
+    "gif_url": "videos/0296-RxayqAZ.gif"
+  },
+  {
+    "id": "1617",
+    "name": "dumbbell decline one arm hammer press",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/1617-SHUMp5H.jpg",
+    "gif_url": "videos/1617-SHUMp5H.gif"
+  },
+  {
+    "id": "0306",
+    "name": "dumbbell decline triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/0306-OTgkHwR.jpg",
+    "gif_url": "videos/0306-OTgkHwR.gif"
+  },
+  {
+    "id": "1732",
+    "name": "dumbbell forward lunge triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/1732-XalXcvM.jpg",
+    "gif_url": "videos/1732-XalXcvM.gif"
+  },
+  {
+    "id": "1618",
+    "name": "dumbbell incline hammer press on exercise ball",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/1618-wkgnGfb.jpg",
+    "gif_url": "videos/1618-wkgnGfb.gif"
+  },
+  {
+    "id": "1619",
+    "name": "dumbbell incline one arm hammer press",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/1619-LL1UiTX.jpg",
+    "gif_url": "videos/1619-LL1UiTX.gif"
+  },
+  {
+    "id": "1620",
+    "name": "dumbbell incline one arm hammer press on exercise ball",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/1620-jDnrkar.jpg",
+    "gif_url": "videos/1620-jDnrkar.gif"
+  },
+  {
+    "id": "0330",
+    "name": "dumbbell incline triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/0330-OVIKwsd.jpg",
+    "gif_url": "videos/0330-OVIKwsd.gif"
+  },
+  {
+    "id": "1733",
+    "name": "dumbbell incline two arm extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/1733-U7D9Fx3.jpg",
+    "gif_url": "videos/1733-U7D9Fx3.gif"
+  },
+  {
+    "id": "0333",
+    "name": "dumbbell kickback",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/0333-W6PxUkg.jpg",
+    "gif_url": "videos/0333-W6PxUkg.gif"
+  },
+  {
+    "id": "1734",
+    "name": "dumbbell kickbacks on exercise ball",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/1734-cAvTaSg.jpg",
+    "gif_url": "videos/1734-cAvTaSg.gif"
+  },
+  {
+    "id": "0337",
+    "name": "dumbbell lying extension (across face)",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/0337-L2V5Nan.jpg",
+    "gif_url": "videos/0337-L2V5Nan.gif"
+  },
+  {
+    "id": "1729",
+    "name": "dumbbell lying alternate extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/1729-NfP83rA.jpg",
+    "gif_url": "videos/1729-NfP83rA.gif"
+  },
+  {
+    "id": "0338",
+    "name": "dumbbell lying elbow press",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/0338-eOCOwIR.jpg",
+    "gif_url": "videos/0338-eOCOwIR.gif"
+  },
+  {
+    "id": "0344",
+    "name": "dumbbell lying one arm pronated triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/0344-wyaqzOS.jpg",
+    "gif_url": "videos/0344-wyaqzOS.gif"
+  },
+  {
+    "id": "0346",
+    "name": "dumbbell lying one arm supinated triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/0346-zZlORz6.jpg",
+    "gif_url": "videos/0346-zZlORz6.gif"
+  },
+  {
+    "id": "1735",
+    "name": "dumbbell lying single extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/1735-6MfS53i.jpg",
+    "gif_url": "videos/1735-6MfS53i.gif"
+  },
+  {
+    "id": "0351",
+    "name": "dumbbell lying triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/0351-mpKZGWz.jpg",
+    "gif_url": "videos/0351-mpKZGWz.gif"
+  },
+  {
+    "id": "0352",
+    "name": "dumbbell neutral grip bench press",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/0352-pP8wP2P.jpg",
+    "gif_url": "videos/0352-pP8wP2P.gif"
+  },
+  {
+    "id": "1736",
+    "name": "dumbbell one arm french press on exercise ball",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/1736-ziFKQXP.jpg",
+    "gif_url": "videos/1736-ziFKQXP.gif"
+  },
+  {
+    "id": "1621",
+    "name": "dumbbell one arm hammer press on exercise ball",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/1621-VYmYxK5.jpg",
+    "gif_url": "videos/1621-VYmYxK5.gif"
+  },
+  {
+    "id": "0354",
+    "name": "dumbbell one arm kickback",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/0354-bQy2Eni.jpg",
+    "gif_url": "videos/0354-bQy2Eni.gif"
+  },
+  {
+    "id": "0362",
+    "name": "dumbbell one arm triceps extension (on bench)",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/0362-nAuHPcD.jpg",
+    "gif_url": "videos/0362-nAuHPcD.gif"
+  },
+  {
+    "id": "1623",
+    "name": "dumbbell palms in incline bench press",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/1623-8eqjhOl.jpg",
+    "gif_url": "videos/1623-8eqjhOl.gif"
+  },
+  {
+    "id": "0373",
+    "name": "dumbbell pronate-grip triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/0373-bpJL2Qs.jpg",
+    "gif_url": "videos/0373-bpJL2Qs.gif"
+  },
+  {
+    "id": "0389",
+    "name": "dumbbell seated bench extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/0389-JhYSVwT.jpg",
+    "gif_url": "videos/0389-JhYSVwT.gif"
+  },
+  {
+    "id": "1730",
+    "name": "dumbbell seated bent over alternate kickback",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/1730-x0lwvfq.jpg",
+    "gif_url": "videos/1730-x0lwvfq.gif"
+  },
+  {
+    "id": "1737",
+    "name": "dumbbell seated bent over triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/1737-4ievMJ9.jpg",
+    "gif_url": "videos/1737-4ievMJ9.gif"
+  },
+  {
+    "id": "0394",
+    "name": "dumbbell seated kickback",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/0394-en550rk.jpg",
+    "gif_url": "videos/0394-en550rk.gif"
+  },
+  {
+    "id": "0398",
+    "name": "dumbbell seated one arm kickback",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/0398-VQ3sNCn.jpg",
+    "gif_url": "videos/0398-VQ3sNCn.gif"
+  },
+  {
+    "id": "1738",
+    "name": "dumbbell seated reverse grip one arm overhead tricep extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/1738-5fKX7wi.jpg",
+    "gif_url": "videos/1738-5fKX7wi.gif"
+  },
+  {
+    "id": "2188",
+    "name": "dumbbell seated triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/2188-kont8Ut.jpg",
+    "gif_url": "videos/2188-kont8Ut.gif"
+  },
+  {
+    "id": "1739",
+    "name": "dumbbell standing alternating tricep kickback",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/1739-Gi2BXfK.jpg",
+    "gif_url": "videos/1739-Gi2BXfK.gif"
+  },
+  {
+    "id": "1740",
+    "name": "dumbbell standing bent over one arm triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/1740-CJwa0vD.jpg",
+    "gif_url": "videos/1740-CJwa0vD.gif"
+  },
+  {
+    "id": "1741",
+    "name": "dumbbell standing bent over two arm triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/1741-3T12T87.jpg",
+    "gif_url": "videos/1741-3T12T87.gif"
+  },
+  {
+    "id": "0420",
+    "name": "dumbbell standing kickback",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/0420-UmpPAAe.jpg",
+    "gif_url": "videos/0420-UmpPAAe.gif"
+  },
+  {
+    "id": "0423",
+    "name": "dumbbell standing one arm extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/0423-BCUR88E.jpg",
+    "gif_url": "videos/0423-BCUR88E.gif"
+  },
+  {
+    "id": "0430",
+    "name": "dumbbell standing triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/0430-PdmaD0N.jpg",
+    "gif_url": "videos/0430-PdmaD0N.gif"
+  },
+  {
+    "id": "0436",
+    "name": "dumbbell tate press",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/0436-s5PdDyY.jpg",
+    "gif_url": "videos/0436-s5PdDyY.gif"
+  },
+  {
+    "id": "1742",
+    "name": "dumbbell tricep kickback with stork stance",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/1742-wOLmCXc.jpg",
+    "gif_url": "videos/1742-wOLmCXc.gif"
+  },
+  {
+    "id": "1743",
+    "name": "dumbbell twisting bench press",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/1743-z6TAHoT.jpg",
+    "gif_url": "videos/1743-z6TAHoT.gif"
+  },
+  {
+    "id": "2189",
+    "name": "dumbbells seated triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/2189-FQXdXzY.jpg",
+    "gif_url": "videos/2189-FQXdXzY.gif"
+  },
+  {
+    "id": "3287",
+    "name": "elbow dips",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps",
+    "image": "images/3287-LkoAWAE.jpg",
+    "gif_url": "videos/3287-LkoAWAE.gif"
+  },
+  {
+    "id": "1744",
+    "name": "exercise ball dip",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "stability ball",
+    "target": "triceps",
+    "image": "images/1744-kprile3.jpg",
+    "gif_url": "videos/1744-kprile3.gif"
+  },
+  {
+    "id": "1745",
+    "name": "exercise ball seated triceps stretch",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "stability ball",
+    "target": "triceps",
+    "image": "images/1745-7ePTw4B.jpg",
+    "gif_url": "videos/1745-7ePTw4B.gif"
+  },
+  {
+    "id": "1746",
+    "name": "exercise ball supine triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/1746-Gm2Uv1z.jpg",
+    "gif_url": "videos/1746-Gm2Uv1z.gif"
+  },
+  {
+    "id": "1747",
+    "name": "ez bar french press on exercise ball",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "ez barbell",
+    "target": "triceps",
+    "image": "images/1747-CFN9P8G.jpg",
+    "gif_url": "videos/1747-CFN9P8G.gif"
+  },
+  {
+    "id": "1748",
+    "name": "ez bar lying close grip triceps extension behind head",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "ez barbell",
+    "target": "triceps",
+    "image": "images/1748-6CKUx7o.jpg",
+    "gif_url": "videos/1748-6CKUx7o.gif"
+  },
+  {
+    "id": "1749",
+    "name": "ez bar standing french press",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "ez barbell",
+    "target": "triceps",
+    "image": "images/1749-1cTf2Ux.jpg",
+    "gif_url": "videos/1749-1cTf2Ux.gif"
+  },
+  {
+    "id": "0448",
+    "name": "ez barbell decline close grip face press",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "ez barbell",
+    "target": "triceps",
+    "image": "images/0448-DgZQ11d.jpg",
+    "gif_url": "videos/0448-DgZQ11d.gif"
+  },
+  {
+    "id": "2186",
+    "name": "ez barbell decline triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "ez barbell",
+    "target": "triceps",
+    "image": "images/2186-CQHoDm0.jpg",
+    "gif_url": "videos/2186-CQHoDm0.gif"
+  },
+  {
+    "id": "0449",
+    "name": "ez barbell incline triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "ez barbell",
+    "target": "triceps",
+    "image": "images/0449-KyLtiLT.jpg",
+    "gif_url": "videos/0449-KyLtiLT.gif"
+  },
+  {
+    "id": "0450",
+    "name": "ez barbell jm bench press",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "ez barbell",
+    "target": "triceps",
+    "image": "images/0450-hnOYgH3.jpg",
+    "gif_url": "videos/0450-hnOYgH3.gif"
+  },
+  {
+    "id": "0453",
+    "name": "ez barbell seated triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "ez barbell",
+    "target": "triceps",
+    "image": "images/0453-iaapw0g.jpg",
+    "gif_url": "videos/0453-iaapw0g.gif"
+  },
+  {
+    "id": "2432",
+    "name": "ez-bar close-grip bench press",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "ez barbell",
+    "target": "triceps",
+    "image": "images/2432-da4cXST.jpg",
+    "gif_url": "videos/2432-da4cXST.gif"
+  },
+  {
+    "id": "3302",
+    "name": "handstand",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps",
+    "image": "images/3302-XooAdhl.jpg",
+    "gif_url": "videos/3302-XooAdhl.gif"
+  },
+  {
+    "id": "0471",
+    "name": "handstand push-up",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps",
+    "image": "images/0471-rQxwMxO.jpg",
+    "gif_url": "videos/0471-rQxwMxO.gif"
+  },
+  {
+    "id": "3289",
+    "name": "impossible dips",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps",
+    "image": "images/3289-05Cf2v8.jpg",
+    "gif_url": "videos/3289-05Cf2v8.gif"
+  },
+  {
+    "id": "0490",
+    "name": "incline close-grip push-up",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps",
+    "image": "images/0490-1YB40kg.jpg",
+    "gif_url": "videos/0490-1YB40kg.gif"
+  },
+  {
+    "id": "0591",
+    "name": "lever overhand triceps dip",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "leverage machine",
+    "target": "triceps",
+    "image": "images/0591-D5yqP2p.jpg",
+    "gif_url": "videos/0591-D5yqP2p.gif"
+  },
+  {
+    "id": "1451",
+    "name": "lever seated dip",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "leverage machine",
+    "target": "triceps",
+    "image": "images/1451-BRImeP8.jpg",
+    "gif_url": "videos/1451-BRImeP8.gif"
+  },
+  {
+    "id": "0607",
+    "name": "lever triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "leverage machine",
+    "target": "triceps",
+    "image": "images/0607-Ser9eQp.jpg",
+    "gif_url": "videos/0607-Ser9eQp.gif"
+  },
+  {
+    "id": "1701",
+    "name": "medicine ball close grip push up",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "medicine ball",
+    "target": "triceps",
+    "image": "images/1701-8K7m2SS.jpg",
+    "gif_url": "videos/1701-8K7m2SS.gif"
+  },
+  {
+    "id": "1750",
+    "name": "medicine ball supine chest throw",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "medicine ball",
+    "target": "triceps",
+    "image": "images/1750-Al3tP0D.jpg",
+    "gif_url": "videos/1750-Al3tP0D.gif"
+  },
+  {
+    "id": "2328",
+    "name": "narrow push-up on exercise ball",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "stability ball",
+    "target": "triceps",
+    "image": "images/2328-4cWjYEN.jpg",
+    "gif_url": "videos/2328-4cWjYEN.gif"
+  },
+  {
+    "id": "0637",
+    "name": "olympic barbell triceps extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "olympic barbell",
+    "target": "triceps",
+    "image": "images/0637-wu5LXwz.jpg",
+    "gif_url": "videos/0637-wu5LXwz.gif"
+  },
+  {
+    "id": "0639",
+    "name": "one arm dip",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps",
+    "image": "images/0639-FAoIFMw.jpg",
+    "gif_url": "videos/0639-FAoIFMw.gif"
+  },
+  {
+    "id": "0643",
+    "name": "overhead triceps stretch",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps",
+    "image": "images/0643-Z5YStHW.jpg",
+    "gif_url": "videos/0643-Z5YStHW.gif"
+  },
+  {
+    "id": "0660",
+    "name": "push-up close-grip off dumbbell",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps",
+    "image": "images/0660-KZXAtKQ.jpg",
+    "gif_url": "videos/0660-KZXAtKQ.gif"
+  },
+  {
+    "id": "1467",
+    "name": "push-up on lower arms",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps",
+    "image": "images/1467-4Jt8QsQ.jpg",
+    "gif_url": "videos/1467-4Jt8QsQ.gif"
+  },
+  {
+    "id": "0672",
+    "name": "reverse dip",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps",
+    "image": "images/0672-NZ5Qqkz.jpg",
+    "gif_url": "videos/0672-NZ5Qqkz.gif"
+  },
+  {
+    "id": "0677",
+    "name": "ring dips",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps",
+    "image": "images/0677-ezTvXcr.jpg",
+    "gif_url": "videos/0677-ezTvXcr.gif"
+  },
+  {
+    "id": "0717",
+    "name": "side push-up",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps",
+    "image": "images/0717-wpbD28t.jpg",
+    "gif_url": "videos/0717-wpbD28t.gif"
+  },
+  {
+    "id": "2142",
+    "name": "ski ergometer",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "skierg machine",
+    "target": "triceps",
+    "image": "images/2142-vpQaQkH.jpg",
+    "gif_url": "videos/2142-vpQaQkH.gif"
+  },
+  {
+    "id": "0751",
+    "name": "smith close-grip bench press",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "smith machine",
+    "target": "triceps",
+    "image": "images/0751-WcHl7ru.jpg",
+    "gif_url": "videos/0751-WcHl7ru.gif"
+  },
+  {
+    "id": "1625",
+    "name": "smith machine decline close grip bench press",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "smith machine",
+    "target": "triceps",
+    "image": "images/1625-yB9SvIF.jpg",
+    "gif_url": "videos/1625-yB9SvIF.gif"
+  },
+  {
+    "id": "1752",
+    "name": "smith machine incline tricep extension",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "smith machine",
+    "target": "triceps",
+    "image": "images/1752-o8aOcrz.jpg",
+    "gif_url": "videos/1752-o8aOcrz.gif"
+  },
+  {
+    "id": "3291",
+    "name": "stalder press",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps",
+    "image": "images/3291-zd4P4B2.jpg",
+    "gif_url": "videos/3291-zd4P4B2.gif"
+  },
+  {
+    "id": "1753",
+    "name": "three bench dip",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps",
+    "image": "images/1753-DQ0cqkT.jpg",
+    "gif_url": "videos/1753-DQ0cqkT.gif"
+  },
+  {
+    "id": "0814",
+    "name": "triceps dip",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps",
+    "image": "images/0814-X6C6i5Y.jpg",
+    "gif_url": "videos/0814-X6C6i5Y.gif"
+  },
+  {
+    "id": "0812",
+    "name": "triceps dip (bench leg)",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps",
+    "image": "images/0812-VuoerH0.jpg",
+    "gif_url": "videos/0812-VuoerH0.gif"
+  },
+  {
+    "id": "0813",
+    "name": "triceps dip (between benches)",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps",
+    "image": "images/0813-Wgbn9qo.jpg",
+    "gif_url": "videos/0813-Wgbn9qo.gif"
+  },
+  {
+    "id": "0815",
+    "name": "triceps dips floor",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps",
+    "image": "images/0815-7aVz15j.jpg",
+    "gif_url": "videos/0815-7aVz15j.gif"
+  },
+  {
+    "id": "0816",
+    "name": "triceps press",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps",
+    "image": "images/0816-fSrPP6B.jpg",
+    "gif_url": "videos/0816-fSrPP6B.gif"
+  },
+  {
+    "id": "0817",
+    "name": "triceps stretch",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps",
+    "image": "images/0817-uOV3Itw.jpg",
+    "gif_url": "videos/0817-uOV3Itw.gif"
+  },
+  {
+    "id": "0830",
+    "name": "weighted bench dip",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "weighted",
+    "target": "triceps",
+    "image": "images/0830-MU9HnE7.jpg",
+    "gif_url": "videos/0830-MU9HnE7.gif"
+  },
+  {
+    "id": "1754",
+    "name": "weighted three bench dips",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "weighted",
+    "target": "triceps",
+    "image": "images/1754-gtO1ErP.jpg",
+    "gif_url": "videos/1754-gtO1ErP.gif"
+  },
+  {
+    "id": "1755",
+    "name": "weighted tricep dips",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "weighted",
+    "target": "triceps",
+    "image": "images/1755-bZq4bwK.jpg",
+    "gif_url": "videos/1755-bZq4bwK.gif"
+  },
+  {
+    "id": "1767",
+    "name": "weighted triceps dip on high parallel bars",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "weighted",
+    "target": "triceps",
+    "image": "images/1767-K1vlode.jpg",
+    "gif_url": "videos/1767-K1vlode.gif"
+  }
+]

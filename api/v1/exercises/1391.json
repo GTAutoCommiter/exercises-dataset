@@ -1,0 +1,102 @@
+{
+  "id": "1391",
+  "name": "sled calf press on leg press",
+  "category": "lower legs",
+  "body_part": "lower legs",
+  "equipment": "sled machine",
+  "instructions": {
+    "en": "Adjust the seat of the leg press machine so that your knees are slightly bent when your feet are on the sled. Place your feet shoulder-width apart on the sled, with your toes pointing forward. Release the safety handles and push the sled away from you by extending your knees and ankles. Pause for a moment at the top of the movement, then slowly lower the sled back down by bending your knees and ankles. Repeat for the desired number of repetitions.",
+    "it": "Regola il sedile della pressa per gambe in modo che le ginocchia siano leggermente piegate quando i piedi sono sulla slitta. Posiziona i piedi sulla slitta alla larghezza delle spalle, con le dita dei piedi rivolte in avanti. Rilascia le maniglie di sicurezza e allontana la slitta da te estendendo le ginocchia e le caviglie. Fermati per un momento nella parte superiore del movimento, quindi abbassa lentamente la slitta piegando le ginocchia e le caviglie. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Leg press makinesinin koltuğunu, ayaklarınız kızağın üzerindeyken dizleriniz hafifçe bükülecek şekilde ayarlayın. Ayaklarınızı omuz genişliğinde, ayak parmaklarınız ileriyi gösterecek şekilde kızak üzerine yerleştirin. Güvenlik kollarını serbest bırakın ve dizlerinizi ve ayak bileklerinizi uzatarak kızağı kendinizden uzaklaştırın. Hareketin en üst noktasında bir an duraklayın, ardından dizlerinizi ve ayak bileklerinizi bükerek kızağı yavaşça geriye doğru indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta el asiento de la máquina de prensa de piernas de modo que las rodillas queden ligeramente flexionadas cuando los pies estén sobre el trineo. Coloca los pies separados a la altura de los hombros sobre el trineo, con los dedos de los pies apuntando hacia delante. Suelta las asas de seguridad y empuja el trineo alejándolo de ti extendiendo las rodillas y los tobillos. Haz una pausa por un momento en la parte alta del movimiento, luego baja lentamente el trineo doblando las rodillas y los tobillos. Repite el número de repeticiones deseado.",
+    "ru": "Отрегулируйте сиденье тренажера для жима ногами так, чтобы колени были слегка согнуты, когда ноги стоят на санях. Поставьте ноги на сани на ширине плеч, носки ног направлены вперед. Отпустите ручки безопасности и оттолкните сани от себя, вытянув колени и лодыжки. Сделайте паузу на мгновение в верхней точке движения, затем медленно опустите сани обратно вниз, сгибая колени и лодыжки. Повторите необходимое количество повторений.",
+    "zh": "调整压腿机的座椅，使双脚踩在雪橇上时膝盖稍微弯曲。 将双脚与肩同宽放在雪橇上，脚趾指向前方。 松开安全手柄，并通过伸展膝盖和脚踝将雪橇推离您。 在动作的最高点暂停片刻，然后弯曲膝盖和脚踝，慢慢将雪橇放回原处。 重复所需的重复次数。",
+    "hi": "लेग प्रेस मशीन की सीट को समायोजित करें ताकि जब आपके पैर स्लेज पर हों तो आपके घुटने थोड़े मुड़े हुए हों। अपने पैरों को स्लेज पर कंधे की चौड़ाई से अलग रखें, आपके पैर की उंगलियां आगे की ओर हों। सुरक्षा हैंडल छोड़ें और अपने घुटनों और टखनों को फैलाकर स्लेज को अपने से दूर धकेलें। गति के शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने घुटनों और टखनों को मोड़कर स्लेज को वापस नीचे लाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Wyreguluj siedzisko wyciskarki nóg tak, aby kolana były lekko ugięte, gdy stopy znajdują się na suwnicy. Ustaw stopy na suwnicy na szerokość barków, palcami skierowanymi do przodu. Zwolnij uchwyty zabezpieczające i odepchnij suwnicę od siebie, prostując kolana i kostki. Zatrzymaj się na chwilę w górnej fazie ruchu, a następnie powoli opuść suwnicę, uginając kolana i kostki. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "레그 프레스 머신의 시트를 발을 슬래드에 놓았을 때 무릎이 약간 구부러지도록 조정하세요. 슬래드에 발을 어깨 너비만큼 벌려 놓되 발가락이 앞을 향하도록 하세요. 안전 손잡이를 풀고 무릎과 발목을 펴서 슬래드를 몸에서 밀어내세요. 동작의 정상에서 잠깐 멈춘 후 무릎과 발목을 구부려 슬래드를 천천히 내려놓으세요. 원하는 반복 횟수만큼 반복하세요.",
+    "fr": "Règle le siège de la presse à jambes de sorte que tes genoux soient légèrement fléchis lorsque tes pieds sont sur le traîneau. Place tes pieds écartés à la largeur des épaules sur le traîneau, les orteils pointés vers l'avant. Relâche les poignées de sécurité et pousse la machine à traîneau loin de toi en étendant tes genoux et tes chevilles. Marque une pause en haut du mouvement, puis abaisse lentement le traîneau en fléchissant tes genoux et tes chevilles. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the seat of the leg press machine so that your knees are slightly bent when your feet are on the sled.",
+      "Place your feet shoulder-width apart on the sled, with your toes pointing forward.",
+      "Release the safety handles and push the sled away from you by extending your knees and ankles.",
+      "Pause for a moment at the top of the movement, then slowly lower the sled back down by bending your knees and ankles.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Regola il sedile della pressa per gambe in modo che le ginocchia siano leggermente piegate quando i piedi sono sulla slitta.",
+      "Posiziona i piedi sulla slitta alla larghezza delle spalle, con le dita dei piedi rivolte in avanti.",
+      "Rilascia le maniglie di sicurezza e allontana la slitta da te estendendo le ginocchia e le caviglie.",
+      "Fermati per un momento nella parte superiore del movimento, quindi abbassa lentamente la slitta piegando le ginocchia e le caviglie.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Leg press makinesinin koltuğunu, ayaklarınız kızağın üzerindeyken dizleriniz hafifçe bükülecek şekilde ayarlayın.",
+      "Ayaklarınızı omuz genişliğinde, ayak parmaklarınız ileriyi gösterecek şekilde kızak üzerine yerleştirin.",
+      "Güvenlik kollarını serbest bırakın ve dizlerinizi ve ayak bileklerinizi uzatarak kızağı kendinizden uzaklaştırın.",
+      "Hareketin en üst noktasında bir an duraklayın, ardından dizlerinizi ve ayak bileklerinizi bükerek kızağı yavaşça geriye doğru indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta el asiento de la máquina de prensa de piernas de modo que las rodillas queden ligeramente flexionadas cuando los pies estén sobre el trineo.",
+      "Coloca los pies separados a la altura de los hombros sobre el trineo, con los dedos de los pies apuntando hacia delante.",
+      "Suelta las asas de seguridad y empuja el trineo alejándolo de ti extendiendo las rodillas y los tobillos.",
+      "Haz una pausa por un momento en la parte alta del movimiento, luego baja lentamente el trineo doblando las rodillas y los tobillos.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Отрегулируйте сиденье тренажера для жима ногами так, чтобы колени были слегка согнуты, когда ноги стоят на санях.",
+      "Поставьте ноги на сани на ширине плеч, носки ног направлены вперед.",
+      "Отпустите ручки безопасности и оттолкните сани от себя, вытянув колени и лодыжки.",
+      "Сделайте паузу на мгновение в верхней точке движения, затем медленно опустите сани обратно вниз, сгибая колени и лодыжки.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "调整压腿机的座椅，使双脚踩在雪橇上时膝盖稍微弯曲。",
+      "将双脚与肩同宽放在雪橇上，脚趾指向前方。",
+      "松开安全手柄，并通过伸展膝盖和脚踝将雪橇推离您。",
+      "在动作的最高点暂停片刻，然后弯曲膝盖和脚踝，慢慢将雪橇放回原处。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "लेग प्रेस मशीन की सीट को समायोजित करें ताकि जब आपके पैर स्लेज पर हों तो आपके घुटने थोड़े मुड़े हुए हों।",
+      "अपने पैरों को स्लेज पर कंधे की चौड़ाई से अलग रखें, आपके पैर की उंगलियां आगे की ओर हों।",
+      "सुरक्षा हैंडल छोड़ें और अपने घुटनों और टखनों को फैलाकर स्लेज को अपने से दूर धकेलें।",
+      "गति के शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने घुटनों और टखनों को मोड़कर स्लेज को वापस नीचे लाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Wyreguluj siedzisko wyciskarki nóg tak, aby kolana były lekko ugięte, gdy stopy znajdują się na suwnicy.",
+      "Ustaw stopy na suwnicy na szerokość barków, palcami skierowanymi do przodu.",
+      "Zwolnij uchwyty zabezpieczające i odepchnij suwnicę od siebie, prostując kolana i kostki.",
+      "Zatrzymaj się na chwilę w górnej fazie ruchu, a następnie powoli opuść suwnicę, uginając kolana i kostki.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "레그 프레스 머신의 시트를 발을 슬래드에 놓았을 때 무릎이 약간 구부러지도록 조정하세요.",
+      "슬래드에 발을 어깨 너비만큼 벌려 놓되 발가락이 앞을 향하도록 하세요.",
+      "안전 손잡이를 풀고 무릎과 발목을 펴서 슬래드를 몸에서 밀어내세요.",
+      "동작의 정상에서 잠깐 멈춘 후 무릎과 발목을 구부려 슬래드를 천천히 내려놓으세요.",
+      "원하는 반복 횟수만큼 반복하세요."
+    ],
+    "fr": [
+      "Règle le siège de la presse à jambes de sorte que tes genoux soient légèrement fléchis lorsque tes pieds sont sur le traîneau.",
+      "Place tes pieds écartés à la largeur des épaules sur le traîneau, les orteils pointés vers l'avant.",
+      "Relâche les poignées de sécurité et pousse la machine à traîneau loin de toi en étendant tes genoux et tes chevilles.",
+      "Marque une pause en haut du mouvement, puis abaisse lentement le traîneau en fléchissant tes genoux et tes chevilles.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings",
+    "quadriceps"
+  ],
+  "target": "calves",
+  "image": "images/1391-ykHcWme.jpg",
+  "gif_url": "videos/1391-ykHcWme.gif",
+  "media_id": "ykHcWme",
+  "created_at": "2026-03-18T12:31:32.890244+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

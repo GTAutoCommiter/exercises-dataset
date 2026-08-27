@@ -1,0 +1,112 @@
+{
+  "id": "2805",
+  "name": "dumbbell single leg deadlift with stepbox support",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Stand with your feet hip-width apart, holding a dumbbell in your right hand. Place your left foot on a stepbox or elevated surface behind you. Keeping your back straight and core engaged, hinge forward at the hips, lowering the dumbbell towards the ground. As you lower the dumbbell, simultaneously lift your left leg behind you, maintaining a straight line from head to heel. Lower the dumbbell until you feel a stretch in your right hamstring, then return to the starting position. Repeat for the desired number of repetitions, then switch sides.",
+    "it": "Stai in piedi con i piedi alla larghezza dei fianchi, tenendo un manubrio nella mano destra. Metti il piede sinistro su una scaletta o una superficie rialzata dietro di te. Tenendo la schiena dritta e il core attivo, piega in avanti ai fianchi, abbassando il manubrio verso terra. Mentre abbassi il manubrio, solleva contemporaneamente la gamba sinistra dietro di te, mantenendo una linea retta dalla testa al tallone. Abbassa il manubrio finché non senti uno stiramento al muscolo femorale destro, poi torna alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni, poi cambia lato.",
+    "tr": "Ayaklarınızı kalça genişliğinde açın ve sağ elinizde bir dambıl tutun. Sol ayağınızı arkanızdaki bir basamak veya yükseltilmiş yüzeye yerleştirin. Sırtınızı düz ve merkez bölgenizi meşgul tutarak, kalçalarınızı öne doğru çekerek dambılı yere doğru indirin. Dambılı indirirken, aynı anda sol bacağınızı da arkanızda kaldırın ve baştan topuğa kadar düz bir çizgiyi koruyun. Sağ hamstringinizde bir gerginlik hissedene kadar dambılı indirin, ardından başlangıç ​​pozisyonuna dönün. İstenilen tekrar sayısı kadar tekrarlayın, ardından taraf değiştirin.",
+    "es": "Ponte de pie con los pies separados a la altura de las caderas, sujetando una mancuerna con la mano derecha. Coloca el pie izquierdo sobre un cajón de step o una superficie elevada detrás de ti. Manteniendo la espalda recta y el core activado, inclínate hacia adelante desde las caderas, bajando la mancuerna hacia el suelo. Mientras bajas la mancuerna, levanta al mismo tiempo la pierna izquierda detrás de ti, manteniendo una línea recta desde la cabeza hasta el talón. Baja la mancuerna hasta sentir un estiramiento en el isquiotibial derecho, luego vuelve a la posición inicial. Repite el número de repeticiones deseado, luego cambia de lado.",
+    "ru": "Встаньте, ноги на ширине плеч, в правой руке держите гантель. Поставьте левую ногу на ступеньку или возвышенную поверхность позади себя. Удерживая спину прямой и напряженным корпус, наклонитесь вперед в бедрах, опуская гантель к земле. Опуская гантель, одновременно поднимите левую ногу позади себя, сохраняя прямую линию от головы до пятки. Опускайте гантель до тех пор, пока не почувствуете растяжение правого задней поверхности бедра, затем вернитесь в исходное положение. Повторите желаемое количество повторений, затем поменяйте сторону.",
+    "zh": "双脚分开与臀部同宽站立，右手握住哑铃。 将左脚放在身后的台阶或高架表面上。 保持背部挺直，核心收紧，髋部向前转动，将哑铃放低至地面。 当你放下哑铃时，同时将左腿抬起到身后，从头到脚跟保持一条直线。 降低哑铃，直到感觉到右腿筋拉伸，然后回到起始位置。 重复所需的重复次数，然后换边。",
+    "hi": "अपने पैरों को कूल्हे-चौड़ाई से अलग करके खड़े रहें, अपने दाहिने हाथ में डम्बल पकड़ें। अपने बाएँ पैर को अपने पीछे किसी स्टेपबॉक्स या ऊँची सतह पर रखें। अपनी पीठ को सीधा और मुख्य भाग को व्यस्त रखते हुए, कूल्हों पर आगे की ओर झुकें, डम्बल को ज़मीन की ओर झुकाएँ। जैसे ही आप डम्बल को नीचे करते हैं, उसी समय अपने बाएं पैर को अपने पीछे उठाएं, सिर से एड़ी तक एक सीधी रेखा बनाए रखें। जब तक आप अपनी दाहिनी हैमस्ट्रिंग में खिंचाव महसूस न करें तब तक डम्बल को नीचे रखें, फिर प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएं, फिर पक्ष बदलें।",
+    "pl": "Stań w rozkroku na szerokość bioder, trzymając hantlę w prawej dłoni. Ustaw lewą stopę na podeście lub podwyższonej powierzchni za sobą. Trzymając plecy proste, a mięśnie brzucha napięte, pochyl tułów do przodu w biodrach, opuszczając hantlę w kierunku podłogi. Opuszczając hantlę, jednocześnie unoś lewą nogę do tyłu, utrzymując prostą linię od głowy do pięty. Opuszczaj hantlę, aż poczujesz rozciąganie w prawym mięśniu dwugłowym uda, a następnie wróć do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń, a następnie zmień stronę.",
+    "ko": "발을 골반 너비로 벌리고 오른쪽 손에 덤벨을 들어 섭니다. 왼쪽 발을 뒤에 있는 스텝박스나 높은 곳에 올립니다. 등을 곧게 펴고 코어에 힘을 주면서 엉덩이에서 경첩처럼 움직여 덤벨을 지면 쪽으로 내립니다. 덤벨을 내릴 때 동시에 왼쪽 다리를 뒤로 들어올리면서 머리에서 발뒤꿈치까지 일직선을 유지합니다. 오른쪽 햄스트링에 스트레칭을 느낄 때까지 덤벨을 내린 후 처음 위치로 돌아옵니다. 원하는 반복 횟수만큼 반복한 후 반대쪽으로 바꿉니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des hanches, en tenant un haltère dans ta main droite. Place ton pied gauche sur un stepbox ou une surface surélevée derrière toi. En gardant le dos droit et la sangle abdominale gainée, bascule vers l'avant au niveau des hanches, en abaissant l'haltère vers le sol. En abaissant l'haltère, lève simultanément ta jambe gauche derrière toi en maintenant une ligne droite de la tête au talon. Abaisse l'haltère jusqu'à ce que tu ressentes un étirement dans ton ischio-jambier droit, puis reviens à la position de départ. Répète le nombre de répétitions souhaité, puis change de côté."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet hip-width apart, holding a dumbbell in your right hand.",
+      "Place your left foot on a stepbox or elevated surface behind you.",
+      "Keeping your back straight and core engaged, hinge forward at the hips, lowering the dumbbell towards the ground.",
+      "As you lower the dumbbell, simultaneously lift your left leg behind you, maintaining a straight line from head to heel.",
+      "Lower the dumbbell until you feel a stretch in your right hamstring, then return to the starting position.",
+      "Repeat for the desired number of repetitions, then switch sides."
+    ],
+    "it": [
+      "Stai in piedi con i piedi alla larghezza dei fianchi, tenendo un manubrio nella mano destra.",
+      "Metti il piede sinistro su una scaletta o una superficie rialzata dietro di te.",
+      "Tenendo la schiena dritta e il core attivo, piega in avanti ai fianchi, abbassando il manubrio verso terra.",
+      "Mentre abbassi il manubrio, solleva contemporaneamente la gamba sinistra dietro di te, mantenendo una linea retta dalla testa al tallone.",
+      "Abbassa il manubrio finché non senti uno stiramento al muscolo femorale destro, poi torna alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni, poi cambia lato."
+    ],
+    "tr": [
+      "Ayaklarınızı kalça genişliğinde açın ve sağ elinizde bir dambıl tutun.",
+      "Sol ayağınızı arkanızdaki bir basamak veya yükseltilmiş yüzeye yerleştirin.",
+      "Sırtınızı düz ve merkez bölgenizi meşgul tutarak, kalçalarınızı öne doğru çekerek dambılı yere doğru indirin.",
+      "Dambılı indirirken, aynı anda sol bacağınızı da arkanızda kaldırın ve baştan topuğa kadar düz bir çizgiyi koruyun.",
+      "Sağ hamstringinizde bir gerginlik hissedene kadar dambılı indirin, ardından başlangıç ​​pozisyonuna dönün.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından taraf değiştirin."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de las caderas, sujetando una mancuerna con la mano derecha.",
+      "Coloca el pie izquierdo sobre un cajón de step o una superficie elevada detrás de ti.",
+      "Manteniendo la espalda recta y el core activado, inclínate hacia adelante desde las caderas, bajando la mancuerna hacia el suelo.",
+      "Mientras bajas la mancuerna, levanta al mismo tiempo la pierna izquierda detrás de ti, manteniendo una línea recta desde la cabeza hasta el talón.",
+      "Baja la mancuerna hasta sentir un estiramiento en el isquiotibial derecho, luego vuelve a la posición inicial.",
+      "Repite el número de repeticiones deseado, luego cambia de lado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, в правой руке держите гантель.",
+      "Поставьте левую ногу на ступеньку или возвышенную поверхность позади себя.",
+      "Удерживая спину прямой и напряженным корпус, наклонитесь вперед в бедрах, опуская гантель к земле.",
+      "Опуская гантель, одновременно поднимите левую ногу позади себя, сохраняя прямую линию от головы до пятки.",
+      "Опускайте гантель до тех пор, пока не почувствуете растяжение правого задней поверхности бедра, затем вернитесь в исходное положение.",
+      "Повторите желаемое количество повторений, затем поменяйте сторону."
+    ],
+    "zh": [
+      "双脚分开与臀部同宽站立，右手握住哑铃。",
+      "将左脚放在身后的台阶或高架表面上。",
+      "保持背部挺直，核心收紧，髋部向前转动，将哑铃放低至地面。",
+      "当你放下哑铃时，同时将左腿抬起到身后，从头到脚跟保持一条直线。",
+      "降低哑铃，直到感觉到右腿筋拉伸，然后回到起始位置。",
+      "重复所需的重复次数，然后换边。"
+    ],
+    "hi": [
+      "अपने पैरों को कूल्हे-चौड़ाई से अलग करके खड़े रहें, अपने दाहिने हाथ में डम्बल पकड़ें।",
+      "अपने बाएँ पैर को अपने पीछे किसी स्टेपबॉक्स या ऊँची सतह पर रखें।",
+      "अपनी पीठ को सीधा और मुख्य भाग को व्यस्त रखते हुए, कूल्हों पर आगे की ओर झुकें, डम्बल को ज़मीन की ओर झुकाएँ।",
+      "जैसे ही आप डम्बल को नीचे करते हैं, उसी समय अपने बाएं पैर को अपने पीछे उठाएं, सिर से एड़ी तक एक सीधी रेखा बनाए रखें।",
+      "जब तक आप अपनी दाहिनी हैमस्ट्रिंग में खिंचाव महसूस न करें तब तक डम्बल को नीचे रखें, फिर प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर पक्ष बदलें।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość bioder, trzymając hantlę w prawej dłoni.",
+      "Ustaw lewą stopę na podeście lub podwyższonej powierzchni za sobą.",
+      "Trzymając plecy proste, a mięśnie brzucha napięte, pochyl tułów do przodu w biodrach, opuszczając hantlę w kierunku podłogi.",
+      "Opuszczając hantlę, jednocześnie unoś lewą nogę do tyłu, utrzymując prostą linię od głowy do pięty.",
+      "Opuszczaj hantlę, aż poczujesz rozciąganie w prawym mięśniu dwugłowym uda, a następnie wróć do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń, a następnie zmień stronę."
+    ],
+    "ko": [
+      "발을 골반 너비로 벌리고 오른쪽 손에 덤벨을 들어 섭니다.",
+      "왼쪽 발을 뒤에 있는 스텝박스나 높은 곳에 올립니다.",
+      "등을 곧게 펴고 코어에 힘을 주면서 엉덩이에서 경첩처럼 움직여 덤벨을 지면 쪽으로 내립니다.",
+      "덤벨을 내릴 때 동시에 왼쪽 다리를 뒤로 들어올리면서 머리에서 발뒤꿈치까지 일직선을 유지합니다.",
+      "오른쪽 햄스트링에 스트레칭을 느낄 때까지 덤벨을 내린 후 처음 위치로 돌아옵니다.",
+      "원하는 반복 횟수만큼 반복한 후 반대쪽으로 바꿉니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des hanches, en tenant un haltère dans ta main droite.",
+      "Place ton pied gauche sur un stepbox ou une surface surélevée derrière toi.",
+      "En gardant le dos droit et la sangle abdominale gainée, bascule vers l'avant au niveau des hanches, en abaissant l'haltère vers le sol.",
+      "En abaissant l'haltère, lève simultanément ta jambe gauche derrière toi en maintenant une ligne droite de la tête au talon.",
+      "Abaisse l'haltère jusqu'à ce que tu ressentes un étirement dans ton ischio-jambier droit, puis reviens à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis change de côté."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings",
+    "lower back"
+  ],
+  "target": "glutes",
+  "image": "images/2805-daBmy1Y.jpg",
+  "gif_url": "videos/2805-daBmy1Y.gif",
+  "media_id": "daBmy1Y",
+  "created_at": "2026-03-18T12:31:32.881706+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

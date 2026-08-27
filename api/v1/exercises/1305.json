@@ -1,0 +1,92 @@
+{
+  "id": "1305",
+  "name": "medicine ball chest push single response",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "medicine ball",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart, holding the medicine ball at chest level. Extend your arms forward, pushing the medicine ball away from your chest. Pause for a moment, then slowly bring the medicine ball back to your chest. Repeat for the desired number of repetitions.",
+    "it": "Stare con i piedi alla larghezza delle spalle, tenendo la palla medica all'altezza del petto. Estendi le braccia in avanti, spingendo la palla medica lontano dal petto. Fai una pausa per un momento, quindi riporta lentamente la palla medica al petto. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Sağlık topunu göğüs hizasında tutarak ayaklarınızı omuz genişliğinde açın. Sağlık topunu göğsünüzden uzaklaştırarak kollarınızı ileri doğru uzatın. Bir an duraklayın ve sağlık topunu yavaşça göğsünüze geri getirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros, sosteniendo el balón medicinal a la altura del pecho. Extiende los brazos hacia adelante, alejando el balón medicinal de tu pecho. Haz una pausa por un momento y luego lleva lentamente el balón medicinal de vuelta al pecho. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, удерживая медицинский мяч на уровне груди. Вытяните руки вперед, отталкивая медицинский мяч от груди. Сделайте паузу на мгновение, затем медленно верните медицинский мяч обратно к груди. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，将健身球保持在胸部水平。 向前伸展双臂，将药球推离胸部。 暂停片刻，然后慢慢地将健身球放回胸前。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े रहें, दवा की गेंद को छाती के स्तर पर पकड़ें। अपनी बाहों को आगे बढ़ाएं, दवा की गेंद को अपनी छाती से दूर धकेलें। एक पल के लिए रुकें, फिर धीरे-धीरे दवा की गेंद को वापस अपनी छाती पर लाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań w rozkroku na szerokość barków, trzymając piłkę lekarską na wysokości klatki piersiowej. Wyprostuj ramiona do przodu, odpychając piłkę lekarską od klatki piersiowej. Zatrzymaj się na chwilę, a następnie powoli przyciągnij piłkę lekarską z powrotem do klatki piersiowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "어깨 너비로 발을 벌리고 서서 메디신볼을 가슴 높이에 들고 있습니다. 양팔을 앞으로 펴면서 메디신볼을 가슴에서 밀어냅니다. 잠깐 멈춘 후 천천히 메디신볼을 가슴으로 다시 가져옵니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant le médecine-ball à hauteur de poitrine. Étends tes bras vers l'avant, en poussant le médecine-ball loin de ta poitrine. Marque une pause, puis ramène lentement le médecine-ball vers ta poitrine. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart, holding the medicine ball at chest level.",
+      "Extend your arms forward, pushing the medicine ball away from your chest.",
+      "Pause for a moment, then slowly bring the medicine ball back to your chest.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stare con i piedi alla larghezza delle spalle, tenendo la palla medica all'altezza del petto.",
+      "Estendi le braccia in avanti, spingendo la palla medica lontano dal petto.",
+      "Fai una pausa per un momento, quindi riporta lentamente la palla medica al petto.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Sağlık topunu göğüs hizasında tutarak ayaklarınızı omuz genişliğinde açın.",
+      "Sağlık topunu göğsünüzden uzaklaştırarak kollarınızı ileri doğru uzatın.",
+      "Bir an duraklayın ve sağlık topunu yavaşça göğsünüze geri getirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros, sosteniendo el balón medicinal a la altura del pecho.",
+      "Extiende los brazos hacia adelante, alejando el balón medicinal de tu pecho.",
+      "Haz una pausa por un momento y luego lleva lentamente el balón medicinal de vuelta al pecho.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, удерживая медицинский мяч на уровне груди.",
+      "Вытяните руки вперед, отталкивая медицинский мяч от груди.",
+      "Сделайте паузу на мгновение, затем медленно верните медицинский мяч обратно к груди.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，将健身球保持在胸部水平。",
+      "向前伸展双臂，将药球推离胸部。",
+      "暂停片刻，然后慢慢地将健身球放回胸前。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े रहें, दवा की गेंद को छाती के स्तर पर पकड़ें।",
+      "अपनी बाहों को आगे बढ़ाएं, दवा की गेंद को अपनी छाती से दूर धकेलें।",
+      "एक पल के लिए रुकें, फिर धीरे-धीरे दवा की गेंद को वापस अपनी छाती पर लाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków, trzymając piłkę lekarską na wysokości klatki piersiowej.",
+      "Wyprostuj ramiona do przodu, odpychając piłkę lekarską od klatki piersiowej.",
+      "Zatrzymaj się na chwilę, a następnie powoli przyciągnij piłkę lekarską z powrotem do klatki piersiowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "어깨 너비로 발을 벌리고 서서 메디신볼을 가슴 높이에 들고 있습니다.",
+      "양팔을 앞으로 펴면서 메디신볼을 가슴에서 밀어냅니다.",
+      "잠깐 멈춘 후 천천히 메디신볼을 가슴으로 다시 가져옵니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant le médecine-ball à hauteur de poitrine.",
+      "Étends tes bras vers l'avant, en poussant le médecine-ball loin de ta poitrine.",
+      "Marque une pause, puis ramène lentement le médecine-ball vers ta poitrine.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "target": "pectorals",
+  "image": "images/1305-jeHtrlO.jpg",
+  "gif_url": "videos/1305-jeHtrlO.gif",
+  "media_id": "jeHtrlO",
+  "created_at": "2026-03-18T12:31:32.887615+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

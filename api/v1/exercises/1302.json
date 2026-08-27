@@ -1,0 +1,102 @@
+{
+  "id": "1302",
+  "name": "medicine ball chest pass",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "medicine ball",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart, holding the medicine ball at chest level. Extend your arms forward, pushing the medicine ball away from your chest with force. As you release the ball, follow through with your arms and torso, transferring your weight from your back foot to your front foot. Catch the ball as it rebounds off the wall or partner, and immediately repeat the movement. Continue for the desired number of repetitions.",
+    "it": "Stare con i piedi alla larghezza delle spalle, tenendo la palla medica all'altezza del petto. Estendi le braccia in avanti, spingendo con forza la palla medica lontano dal petto. Mentre rilasci la palla, prosegui con le braccia e il busto, trasferendo il peso dal piede posteriore a quello anteriore. Prendi la palla mentre rimbalza sul muro o sul partner e ripeti immediatamente il movimento. Continuare per il numero di ripetizioni desiderato.",
+    "tr": "Sağlık topunu göğüs hizasında tutarak ayaklarınızı omuz genişliğinde açın. Sağlık topunu kuvvetle göğsünüzden uzaklaştırarak kollarınızı ileri doğru uzatın. Topu bırakırken kollarınız ve gövdenizle devam ederek ağırlığınızı arka ayağınızdan ön ayağınıza aktarın. Duvardan veya partnerinizden seken topu yakalayın ve hareketi hemen tekrarlayın. İstenilen tekrar sayısı kadar devam edin.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros, sosteniendo el balón medicinal a la altura del pecho. Extiende los brazos hacia adelante, empujando el balón medicinal con fuerza para alejarlo del pecho. Al soltar el balón, continúa el movimiento con los brazos y el torso, transfiriendo el peso del pie de atrás al pie de adelante. Atrapa el balón cuando rebote en la pared o en tu compañero, y repite el movimiento de inmediato. Continúa durante el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, удерживая медицинский мяч на уровне груди. Вытяните руки вперед, с силой отталкивая медицинский мяч от груди. Выпуская мяч, продолжайте движение руками и туловищем, перенося вес тела с задней ноги на переднюю. Поймайте мяч, когда он отскакивает от стены или партнера, и сразу же повторите движение. Продолжайте необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，将健身球保持在胸部水平。 向前伸展双臂，用力将药球推离胸部。 当你释放球时，用你的手臂和躯干将球从后脚转移到前脚。 当球从墙壁或伙伴身上反弹时接住球，并立即重复该动作。 继续进行所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े रहें, दवा की गेंद को छाती के स्तर पर पकड़ें। अपनी बाहों को आगे बढ़ाएं, दवा की गेंद को बलपूर्वक अपनी छाती से दूर धकेलें। जैसे ही आप गेंद को छोड़ते हैं, अपनी भुजाओं और धड़ के साथ आगे बढ़ें, अपने वजन को अपने पिछले पैर से अपने सामने के पैर पर स्थानांतरित करें। जैसे ही गेंद दीवार या साथी से टकराकर उछलती है, उसे पकड़ें और तुरंत यही क्रिया दोहराएँ। दोहराव की वांछित संख्या के लिए जारी रखें।",
+    "pl": "Stań w rozkroku na szerokość barków, trzymając piłkę lekarską na wysokości klatki piersiowej. Wyprostuj ramiona do przodu, odpychając piłkę lekarską od klatki piersiowej z siłą. Uwalniając piłkę, kontynuuj ruch ramionami i tułowiem, przenosząc ciężar ciała z tylnej na przednią stopę. Złap piłkę, gdy odbije się od ściany lub partnera, i natychmiast powtórz ruch. Kontynuuj przez zadaną liczbę powtórzeń.",
+    "ko": "어깨 너비로 발을 벌리고 서서 메디신볼을 가슴 높이에 들고 있습니다. 양팔을 앞으로 펴면서 메디신볼을 가슴에서 힘껏 던집니다. 공을 놓으면서 팔과 상체로 팔로우 스루하여 등과 엉덩이에서 앞쪽 다리로 체중을 이동시킵니다. 벽이나 파트너에게서 튀어나오는 공을 캐치해서 즉시 동작을 반복합니다. 원하는 횟수만큼 계속합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant le médecine-ball à hauteur de poitrine. Étends tes bras vers l'avant, en poussant le médecine-ball loin de ta poitrine avec force. En relâchant le ballon, accompagne le mouvement avec tes bras et ton torse en transférant ton poids de ton pied arrière à ton pied avant. Attrape la balle lorsqu'elle rebondit sur le mur ou revient du partenaire, et répète immédiatement le mouvement. Continue pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart, holding the medicine ball at chest level.",
+      "Extend your arms forward, pushing the medicine ball away from your chest with force.",
+      "As you release the ball, follow through with your arms and torso, transferring your weight from your back foot to your front foot.",
+      "Catch the ball as it rebounds off the wall or partner, and immediately repeat the movement.",
+      "Continue for the desired number of repetitions."
+    ],
+    "it": [
+      "Stare con i piedi alla larghezza delle spalle, tenendo la palla medica all'altezza del petto.",
+      "Estendi le braccia in avanti, spingendo con forza la palla medica lontano dal petto.",
+      "Mentre rilasci la palla, prosegui con le braccia e il busto, trasferendo il peso dal piede posteriore a quello anteriore.",
+      "Prendi la palla mentre rimbalza sul muro o sul partner e ripeti immediatamente il movimento.",
+      "Continuare per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Sağlık topunu göğüs hizasında tutarak ayaklarınızı omuz genişliğinde açın.",
+      "Sağlık topunu kuvvetle göğsünüzden uzaklaştırarak kollarınızı ileri doğru uzatın.",
+      "Topu bırakırken kollarınız ve gövdenizle devam ederek ağırlığınızı arka ayağınızdan ön ayağınıza aktarın.",
+      "Duvardan veya partnerinizden seken topu yakalayın ve hareketi hemen tekrarlayın.",
+      "İstenilen tekrar sayısı kadar devam edin."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros, sosteniendo el balón medicinal a la altura del pecho.",
+      "Extiende los brazos hacia adelante, empujando el balón medicinal con fuerza para alejarlo del pecho.",
+      "Al soltar el balón, continúa el movimiento con los brazos y el torso, transfiriendo el peso del pie de atrás al pie de adelante.",
+      "Atrapa el balón cuando rebote en la pared o en tu compañero, y repite el movimiento de inmediato.",
+      "Continúa durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, удерживая медицинский мяч на уровне груди.",
+      "Вытяните руки вперед, с силой отталкивая медицинский мяч от груди.",
+      "Выпуская мяч, продолжайте движение руками и туловищем, перенося вес тела с задней ноги на переднюю.",
+      "Поймайте мяч, когда он отскакивает от стены или партнера, и сразу же повторите движение.",
+      "Продолжайте необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，将健身球保持在胸部水平。",
+      "向前伸展双臂，用力将药球推离胸部。",
+      "当你释放球时，用你的手臂和躯干将球从后脚转移到前脚。",
+      "当球从墙壁或伙伴身上反弹时接住球，并立即重复该动作。",
+      "继续进行所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े रहें, दवा की गेंद को छाती के स्तर पर पकड़ें।",
+      "अपनी बाहों को आगे बढ़ाएं, दवा की गेंद को बलपूर्वक अपनी छाती से दूर धकेलें।",
+      "जैसे ही आप गेंद को छोड़ते हैं, अपनी भुजाओं और धड़ के साथ आगे बढ़ें, अपने वजन को अपने पिछले पैर से अपने सामने के पैर पर स्थानांतरित करें।",
+      "जैसे ही गेंद दीवार या साथी से टकराकर उछलती है, उसे पकड़ें और तुरंत यही क्रिया दोहराएँ।",
+      "दोहराव की वांछित संख्या के लिए जारी रखें।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków, trzymając piłkę lekarską na wysokości klatki piersiowej.",
+      "Wyprostuj ramiona do przodu, odpychając piłkę lekarską od klatki piersiowej z siłą.",
+      "Uwalniając piłkę, kontynuuj ruch ramionami i tułowiem, przenosząc ciężar ciała z tylnej na przednią stopę.",
+      "Złap piłkę, gdy odbije się od ściany lub partnera, i natychmiast powtórz ruch.",
+      "Kontynuuj przez zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "어깨 너비로 발을 벌리고 서서 메디신볼을 가슴 높이에 들고 있습니다.",
+      "양팔을 앞으로 펴면서 메디신볼을 가슴에서 힘껏 던집니다.",
+      "공을 놓으면서 팔과 상체로 팔로우 스루하여 등과 엉덩이에서 앞쪽 다리로 체중을 이동시킵니다.",
+      "벽이나 파트너에게서 튀어나오는 공을 캐치해서 즉시 동작을 반복합니다.",
+      "원하는 횟수만큼 계속합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant le médecine-ball à hauteur de poitrine.",
+      "Étends tes bras vers l'avant, en poussant le médecine-ball loin de ta poitrine avec force.",
+      "En relâchant le ballon, accompagne le mouvement avec tes bras et ton torse en transférant ton poids de ton pied arrière à ton pied avant.",
+      "Attrape la balle lorsqu'elle rebondit sur le mur ou revient du partenaire, et répète immédiatement le mouvement.",
+      "Continue pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "target": "pectorals",
+  "image": "images/1302-aDoFKrE.jpg",
+  "gif_url": "videos/1302-aDoFKrE.gif",
+  "media_id": "aDoFKrE",
+  "created_at": "2026-03-18T12:31:32.887561+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

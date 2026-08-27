@@ -1,0 +1,102 @@
+{
+  "id": "0185",
+  "name": "cable lying fly",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Attach the handles to the cables and lie flat on a bench with your feet flat on the ground. Hold the handles with your palms facing each other and your arms extended straight above your chest. Keeping a slight bend in your elbows, lower your arms out to the sides in a wide arc until you feel a stretch in your chest. Pause for a moment, then squeeze your chest muscles to bring your arms back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Attacca le manici ai cavi e sdraiati piatto su una panca con i piedi piatti a terra. Tieni le maniglie con i palmi rivolti l'uno verso l'altro e le braccia dritte sopra il petto. Mantenendo una leggera piega dei gomiti, abbassa le braccia ai lati in un ampio arco finché non senti uno stiramento al petto. Fermati un attimo, poi stringi i muscoli del petto per riportare le braccia alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Tutamaçları kablolara takın ve ayaklarınız yere düz basacak şekilde bir bankın üzerine düz bir şekilde uzanın. Avuç içleriniz birbirine bakacak ve kollarınız göğsünüzün üzerine düz bir şekilde uzanacak şekilde tutamakları tutun. Dirseklerinizi hafif bükerek, göğsünüzde bir gerginlik hissedene kadar kollarınızı geniş bir yay çizerek yanlara doğru indirin. Bir an duraklayın, ardından kollarınızı başlangıç ​​pozisyonuna geri getirmek için göğüs kaslarınızı sıkın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Sujeta las agarraderas a los cables y túmbate boca arriba en un banco con los pies apoyados planos en el suelo. Sujeta las agarraderas con las palmas una frente a la otra y los brazos extendidos rectos por encima del pecho. Manteniendo una ligera flexión en los codos, baja los brazos hacia los lados en un amplio arco hasta sentir un estiramiento en el pecho. Haz una pausa por un momento y luego aprieta los músculos del pecho para regresar los brazos a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Прикрепите ручки к тросам и лягте на скамью, поставив ноги на землю. Возьмитесь за ручки ладонями друг к другу, а руки вытяните прямо над грудью. Сохраняя небольшой изгиб в локтях, опустите руки в стороны по широкой дуге, пока не почувствуете растяжение в груди. Сделайте паузу на мгновение, затем сожмите мышцы груди, чтобы вернуть руки в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "将手柄连接到电缆上，平放在长凳上，双脚平放在地面上。 手掌相对，握住手柄，双臂伸直至胸部上方。 保持肘部轻微弯曲，将手臂以宽弧线向两侧放低，直到感觉到胸部有拉伸感。 暂停片刻，然后挤压胸部肌肉，使手臂回到起始位置。 重复所需的重复次数。",
+    "hi": "केबलों के हैंडल जोड़ें और अपने पैरों को ज़मीन पर सपाट रखते हुए एक बेंच पर सीधे लेट जाएँ। अपनी हथेलियों को एक-दूसरे के सामने रखते हुए हैंडल को पकड़ें और आपकी भुजाएँ सीधे आपकी छाती के ऊपर फैली हुई हों। अपनी कोहनियों को थोड़ा मोड़ते हुए, अपनी भुजाओं को एक चौड़े चाप में बगल की ओर तब तक नीचे लाएँ जब तक आपको अपनी छाती में खिंचाव महसूस न हो। एक पल के लिए रुकें, फिर अपनी बाहों को प्रारंभिक स्थिति में वापस लाने के लिए अपनी छाती की मांसपेशियों को निचोड़ें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Podłącz uchwyty do lin i połóż się na ławce, stopy płasko na podłodze. Trzymaj uchwyty, dłonie zwrócone do siebie, ramiona wyprostowane prosto nad klatką piersiową. Zachowując lekkie ugięcie w łokciach, opuść ramiona na boki szerokim łukiem, aż poczujesz rozciąganie w klatce piersiowej. Zatrzymaj się na moment, a następnie napnij mięśnie klatki piersiowej, aby wrócić ramionami do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "손잡이를 케이블에 부착하고 평평한 벤치에 누워 발을 땅에 평평하게 놓습니다. 손잡이를 손가락이 서로 향하도록 잡고 팔을 가슴 위로 쭉 펼칩니다. 팔꿈치에 약간의 굽곡을 유지하면서 팔을 옆으로 넓은 호로 내려 가슴의 스트레칭을 느낍니다. 잠깐 멈추었다가 가슴 근육을 쥐어 팔을 시작 위치로 돌아옵니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Fixe les poignées aux câbles et allonge-toi à plat sur un banc, les pieds à plat sur le sol. Tiens les poignées, les paumes tournées l'une vers l'autre et les bras étendus droit au-dessus de ta poitrine. En gardant une légère flexion des coudes, abaisse les bras sur les côtés en un large arc jusqu'à ressentir un étirement dans la poitrine. Marque une pause, puis contracte tes muscles pectoraux pour ramener tes bras à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Attach the handles to the cables and lie flat on a bench with your feet flat on the ground.",
+      "Hold the handles with your palms facing each other and your arms extended straight above your chest.",
+      "Keeping a slight bend in your elbows, lower your arms out to the sides in a wide arc until you feel a stretch in your chest.",
+      "Pause for a moment, then squeeze your chest muscles to bring your arms back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Attacca le manici ai cavi e sdraiati piatto su una panca con i piedi piatti a terra.",
+      "Tieni le maniglie con i palmi rivolti l'uno verso l'altro e le braccia dritte sopra il petto.",
+      "Mantenendo una leggera piega dei gomiti, abbassa le braccia ai lati in un ampio arco finché non senti uno stiramento al petto.",
+      "Fermati un attimo, poi stringi i muscoli del petto per riportare le braccia alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Tutamaçları kablolara takın ve ayaklarınız yere düz basacak şekilde bir bankın üzerine düz bir şekilde uzanın.",
+      "Avuç içleriniz birbirine bakacak ve kollarınız göğsünüzün üzerine düz bir şekilde uzanacak şekilde tutamakları tutun.",
+      "Dirseklerinizi hafif bükerek, göğsünüzde bir gerginlik hissedene kadar kollarınızı geniş bir yay çizerek yanlara doğru indirin.",
+      "Bir an duraklayın, ardından kollarınızı başlangıç ​​pozisyonuna geri getirmek için göğüs kaslarınızı sıkın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Sujeta las agarraderas a los cables y túmbate boca arriba en un banco con los pies apoyados planos en el suelo.",
+      "Sujeta las agarraderas con las palmas una frente a la otra y los brazos extendidos rectos por encima del pecho.",
+      "Manteniendo una ligera flexión en los codos, baja los brazos hacia los lados en un amplio arco hasta sentir un estiramiento en el pecho.",
+      "Haz una pausa por un momento y luego aprieta los músculos del pecho para regresar los brazos a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Прикрепите ручки к тросам и лягте на скамью, поставив ноги на землю.",
+      "Возьмитесь за ручки ладонями друг к другу, а руки вытяните прямо над грудью.",
+      "Сохраняя небольшой изгиб в локтях, опустите руки в стороны по широкой дуге, пока не почувствуете растяжение в груди.",
+      "Сделайте паузу на мгновение, затем сожмите мышцы груди, чтобы вернуть руки в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将手柄连接到电缆上，平放在长凳上，双脚平放在地面上。",
+      "手掌相对，握住手柄，双臂伸直至胸部上方。",
+      "保持肘部轻微弯曲，将手臂以宽弧线向两侧放低，直到感觉到胸部有拉伸感。",
+      "暂停片刻，然后挤压胸部肌肉，使手臂回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "केबलों के हैंडल जोड़ें और अपने पैरों को ज़मीन पर सपाट रखते हुए एक बेंच पर सीधे लेट जाएँ।",
+      "अपनी हथेलियों को एक-दूसरे के सामने रखते हुए हैंडल को पकड़ें और आपकी भुजाएँ सीधे आपकी छाती के ऊपर फैली हुई हों।",
+      "अपनी कोहनियों को थोड़ा मोड़ते हुए, अपनी भुजाओं को एक चौड़े चाप में बगल की ओर तब तक नीचे लाएँ जब तक आपको अपनी छाती में खिंचाव महसूस न हो।",
+      "एक पल के लिए रुकें, फिर अपनी बाहों को प्रारंभिक स्थिति में वापस लाने के लिए अपनी छाती की मांसपेशियों को निचोड़ें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Podłącz uchwyty do lin i połóż się na ławce, stopy płasko na podłodze.",
+      "Trzymaj uchwyty, dłonie zwrócone do siebie, ramiona wyprostowane prosto nad klatką piersiową.",
+      "Zachowując lekkie ugięcie w łokciach, opuść ramiona na boki szerokim łukiem, aż poczujesz rozciąganie w klatce piersiowej.",
+      "Zatrzymaj się na moment, a następnie napnij mięśnie klatki piersiowej, aby wrócić ramionami do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "손잡이를 케이블에 부착하고 평평한 벤치에 누워 발을 땅에 평평하게 놓습니다.",
+      "손잡이를 손가락이 서로 향하도록 잡고 팔을 가슴 위로 쭉 펼칩니다.",
+      "팔꿈치에 약간의 굽곡을 유지하면서 팔을 옆으로 넓은 호로 내려 가슴의 스트레칭을 느낍니다.",
+      "잠깐 멈추었다가 가슴 근육을 쥐어 팔을 시작 위치로 돌아옵니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Fixe les poignées aux câbles et allonge-toi à plat sur un banc, les pieds à plat sur le sol.",
+      "Tiens les poignées, les paumes tournées l'une vers l'autre et les bras étendus droit au-dessus de ta poitrine.",
+      "En gardant une légère flexion des coudes, abaisse les bras sur les côtés en un large arc jusqu'à ressentir un étirement dans la poitrine.",
+      "Marque une pause, puis contracte tes muscles pectoraux pour ramener tes bras à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "deltoids",
+  "secondary_muscles": [
+    "deltoids",
+    "triceps"
+  ],
+  "target": "pectorals",
+  "image": "images/0185-lJJ7Yq8.jpg",
+  "gif_url": "videos/0185-lJJ7Yq8.gif",
+  "media_id": "lJJ7Yq8",
+  "created_at": "2026-03-18T12:31:32.874931+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

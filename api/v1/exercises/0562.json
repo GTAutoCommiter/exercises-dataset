@@ -1,0 +1,92 @@
+{
+  "id": "0562",
+  "name": "landmine 180",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and hold the barbell with both hands in front of your chest. Bend your knees slightly and rotate your torso to the right, swinging the barbell down towards your right hip. As you reach the bottom of the movement, quickly reverse the motion and rotate your torso to the left, swinging the barbell up and across your body towards your left shoulder. Continue this twisting motion, alternating sides, for the desired number of repetitions.",
+    "it": "Stare con i piedi alla larghezza delle spalle e tenere il bilanciere con entrambe le mani davanti al petto. Piega leggermente le ginocchia e ruota il busto verso destra, facendo oscillare il bilanciere verso il fianco destro. Quando raggiungi la fine del movimento, inverti rapidamente il movimento e ruota il busto verso sinistra, facendo oscillare il bilanciere verso l'alto e attraverso il corpo verso la spalla sinistra. Continua questo movimento di torsione, alternando i lati, per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınızı omuz genişliğinde açın ve halteri iki elinizle göğsünüzün önünde tutun. Dizlerinizi hafifçe bükün ve gövdenizi sağa döndürerek halteri sağ kalçanıza doğru sallayın. Hareketin alt kısmına ulaştığınızda, hareketi hızlı bir şekilde tersine çevirin ve gövdenizi sola döndürerek halteri yukarı ve vücudunuzun üzerinden sol omzunuza doğru sallayın. İstenilen sayıda tekrar için bu bükme hareketine tarafları değiştirerek devam edin.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y sujeta la barra con ambas manos frente al pecho. Flexiona ligeramente las rodillas y rota el torso hacia la derecha, llevando la barra hacia la cadera derecha. Cuando llegues a la parte baja del movimiento, invierte rápidamente el movimiento y rota el torso hacia la izquierda, llevando la barra hacia arriba y a través del cuerpo en dirección al hombro izquierdo. Continúa este movimiento de giro, alternando lados, durante el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, и держите штангу обеими руками перед грудью. Слегка согните ноги в коленях и поверните туловище вправо, перемещая штангу вниз к правому бедру. Достигнув нижней точки движения, быстро поменяйте направление движения и поверните туловище влево, поднимая штангу вверх и поперек тела к левому плечу. Продолжайте это скручивающее движение, чередуя стороны, необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，双手握住杠铃于胸前。 稍微弯曲膝盖并将躯干向右旋转，将杠铃向下朝右臀部摆动。 当你到达动作的底部时，快速反向运动并向左旋转你的躯干，向上摆动杠铃并穿过你的身体朝向左肩。 继续这个扭转动作，两侧交替，达到所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और दोनों हाथों से बारबेल को अपनी छाती के सामने पकड़ें। अपने घुटनों को थोड़ा मोड़ें और अपने धड़ को दाईं ओर घुमाएं, बारबेल को अपने दाहिने कूल्हे की ओर झुकाएं। जैसे ही आप आंदोलन के निचले भाग पर पहुंचते हैं, गति को तुरंत उलट दें और अपने धड़ को बाईं ओर घुमाएं, बारबेल को ऊपर और अपने शरीर के पार अपने बाएं कंधे की ओर घुमाएं। दोहराव की वांछित संख्या के लिए, पक्षों को बदलते हुए, इस घुमाव गति को जारी रखें।",
+    "pl": "Stań ze stopami rozstawionymi na szerokość barków i trzymaj sztangę obiema dłońmi przed klatką piersiową. Ugnij lekko kolana i obróć tułów w prawo, opuszczając sztangę w kierunku prawego biodra. Osiągając dolną część ruchu, szybko odwróć ruch i obróć tułów w lewo, wymachując sztangą w górę i w poprzek ciała w stronę lewego barku. Kontynuuj ten ruch skrętny, zmieniając strony, zgodnie z zaplanowaną liczbą powtórzeń.",
+    "ko": "발을 어깨너비로 벌리고 선 자세에서 양손으로 바벨을 가슴 앞에 잡습니다. 무릎을 약간 구부리고 몸통을 오른쪽으로 회전시키면서 바벨을 오른쪽 엉덩이 쪽으로 아래로 스윙합니다. 동작의 맨 아래에 도달했을 때 빠르게 동작을 역으로 하여 몸통을 왼쪽으로 회전시키면서 바벨을 위로 스윙하고 몸을 가로질러 왼쪽 어깨 쪽으로 가져옵니다. 양쪽을 교대로 하는 이 비틀기 동작을 원하는 횟수만큼 계속합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens la barre à deux mains devant ta poitrine. Fléchis légèrement les genoux et fais pivoter ton torse vers la droite en balançant la barre vers ta hanche droite. Une fois au bas du mouvement, inverse rapidement le mouvement et pivote ton torse vers la gauche en balançant la barre vers le haut et en travers de ton corps vers ton épaule gauche. Continue ce mouvement de torsion en alternant les côtés, pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and hold the barbell with both hands in front of your chest.",
+      "Bend your knees slightly and rotate your torso to the right, swinging the barbell down towards your right hip.",
+      "As you reach the bottom of the movement, quickly reverse the motion and rotate your torso to the left, swinging the barbell up and across your body towards your left shoulder.",
+      "Continue this twisting motion, alternating sides, for the desired number of repetitions."
+    ],
+    "it": [
+      "Stare con i piedi alla larghezza delle spalle e tenere il bilanciere con entrambe le mani davanti al petto.",
+      "Piega leggermente le ginocchia e ruota il busto verso destra, facendo oscillare il bilanciere verso il fianco destro.",
+      "Quando raggiungi la fine del movimento, inverti rapidamente il movimento e ruota il busto verso sinistra, facendo oscillare il bilanciere verso l'alto e attraverso il corpo verso la spalla sinistra.",
+      "Continua questo movimento di torsione, alternando i lati, per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınızı omuz genişliğinde açın ve halteri iki elinizle göğsünüzün önünde tutun.",
+      "Dizlerinizi hafifçe bükün ve gövdenizi sağa döndürerek halteri sağ kalçanıza doğru sallayın.",
+      "Hareketin alt kısmına ulaştığınızda, hareketi hızlı bir şekilde tersine çevirin ve gövdenizi sola döndürerek halteri yukarı ve vücudunuzun üzerinden sol omzunuza doğru sallayın.",
+      "İstenilen sayıda tekrar için bu bükme hareketine tarafları değiştirerek devam edin."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y sujeta la barra con ambas manos frente al pecho.",
+      "Flexiona ligeramente las rodillas y rota el torso hacia la derecha, llevando la barra hacia la cadera derecha.",
+      "Cuando llegues a la parte baja del movimiento, invierte rápidamente el movimiento y rota el torso hacia la izquierda, llevando la barra hacia arriba y a través del cuerpo en dirección al hombro izquierdo.",
+      "Continúa este movimiento de giro, alternando lados, durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, и держите штангу обеими руками перед грудью.",
+      "Слегка согните ноги в коленях и поверните туловище вправо, перемещая штангу вниз к правому бедру.",
+      "Достигнув нижней точки движения, быстро поменяйте направление движения и поверните туловище влево, поднимая штангу вверх и поперек тела к левому плечу.",
+      "Продолжайте это скручивающее движение, чередуя стороны, необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，双手握住杠铃于胸前。",
+      "稍微弯曲膝盖并将躯干向右旋转，将杠铃向下朝右臀部摆动。",
+      "当你到达动作的底部时，快速反向运动并向左旋转你的躯干，向上摆动杠铃并穿过你的身体朝向左肩。",
+      "继续这个扭转动作，两侧交替，达到所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और दोनों हाथों से बारबेल को अपनी छाती के सामने पकड़ें।",
+      "अपने घुटनों को थोड़ा मोड़ें और अपने धड़ को दाईं ओर घुमाएं, बारबेल को अपने दाहिने कूल्हे की ओर झुकाएं।",
+      "जैसे ही आप आंदोलन के निचले भाग पर पहुंचते हैं, गति को तुरंत उलट दें और अपने धड़ को बाईं ओर घुमाएं, बारबेल को ऊपर और अपने शरीर के पार अपने बाएं कंधे की ओर घुमाएं।",
+      "दोहराव की वांछित संख्या के लिए, पक्षों को बदलते हुए, इस घुमाव गति को जारी रखें।"
+    ],
+    "pl": [
+      "Stań ze stopami rozstawionymi na szerokość barków i trzymaj sztangę obiema dłońmi przed klatką piersiową.",
+      "Ugnij lekko kolana i obróć tułów w prawo, opuszczając sztangę w kierunku prawego biodra.",
+      "Osiągając dolną część ruchu, szybko odwróć ruch i obróć tułów w lewo, wymachując sztangą w górę i w poprzek ciała w stronę lewego barku.",
+      "Kontynuuj ten ruch skrętny, zmieniając strony, zgodnie z zaplanowaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨너비로 벌리고 선 자세에서 양손으로 바벨을 가슴 앞에 잡습니다.",
+      "무릎을 약간 구부리고 몸통을 오른쪽으로 회전시키면서 바벨을 오른쪽 엉덩이 쪽으로 아래로 스윙합니다.",
+      "동작의 맨 아래에 도달했을 때 빠르게 동작을 역으로 하여 몸통을 왼쪽으로 회전시키면서 바벨을 위로 스윙하고 몸을 가로질러 왼쪽 어깨 쪽으로 가져옵니다.",
+      "양쪽을 교대로 하는 이 비틀기 동작을 원하는 횟수만큼 계속합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens la barre à deux mains devant ta poitrine.",
+      "Fléchis légèrement les genoux et fais pivoter ton torse vers la droite en balançant la barre vers ta hanche droite.",
+      "Une fois au bas du mouvement, inverse rapidement le mouvement et pivote ton torse vers la gauche en balançant la barre vers le haut et en travers de ton corps vers ton épaule gauche.",
+      "Continue ce mouvement de torsion en alternant les côtés, pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "obliques",
+  "secondary_muscles": [
+    "obliques",
+    "quadriceps"
+  ],
+  "target": "abs",
+  "image": "images/0562-QYysSLV.jpg",
+  "gif_url": "videos/0562-QYysSLV.gif",
+  "media_id": "QYysSLV",
+  "created_at": "2026-03-18T12:31:32.885909+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

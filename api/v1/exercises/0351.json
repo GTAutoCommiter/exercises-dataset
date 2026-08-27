@@ -1,0 +1,101 @@
+{
+  "id": "0351",
+  "name": "dumbbell lying triceps extension",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Lie flat on a bench with a dumbbell in each hand, palms facing each other. Extend your arms straight up over your chest, keeping your elbows close to your body. Lower the dumbbells down towards your forehead, bending your elbows. Pause for a moment, then extend your arms back up to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Sdraiati disteso su una panchina con un manubrio in ogni mano, i palmi uno verso l'altro. Allunga le braccia dritte sul petto, tenendo i gomiti vicini al corpo. Abbassa i manubri verso la fronte, piegando i gomiti. Fermati un attimo, poi rialza le braccia fino alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Her iki elinizde birer dambıl olacak şekilde, avuçlarınız birbirine bakacak şekilde bir bankın üzerine düz bir şekilde uzanın. Dirseklerinizi vücudunuza yakın tutarak kollarınızı düz bir şekilde göğsünüzün üzerine doğru uzatın. Dirseklerinizi bükerek dambılları alnınıza doğru indirin. Bir an duraklayın, ardından kollarınızı başlangıç ​​pozisyonuna kadar uzatın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Túmbate boca arriba en un banco con una mancuerna en cada mano, con las palmas enfrentadas entre sí. Extiende los brazos rectos hacia arriba sobre el pecho, manteniendo los codos cerca del cuerpo. Baja las mancuernas hacia la frente, flexionando los codos. Haz una pausa breve y luego extiende los brazos de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Лягте на скамью, взяв в каждую руку по гантели, ладони обращены друг к другу. Вытяните руки прямо вверх над грудью, держа локти близко к телу. Опустите гантели ко лбу, сгибая локти. Сделайте паузу на мгновение, затем вытяните руки обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "平躺在长凳上，双手各握一个哑铃，手掌相对。 将手臂伸直越过胸部，保持肘部靠近身体。 将哑铃向前额方向降低，弯曲肘部。 暂停片刻，然后将手臂伸回到起始位置。 重复所需的重复次数。",
+    "hi": "प्रत्येक हाथ में डम्बल लेकर, हथेलियाँ एक-दूसरे के सामने रखते हुए, एक बेंच पर सीधे लेट जाएँ। अपनी कोहनियों को अपने शरीर के करीब रखते हुए, अपनी बाहों को अपनी छाती के ऊपर सीधा फैलाएँ। अपनी कोहनियों को झुकाते हुए डम्बल को अपने माथे की ओर नीचे करें। एक पल के लिए रुकें, फिर अपनी भुजाओं को वापस प्रारंभिक स्थिति तक फैलाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Połóż się na ławce, trzymając w każdej dłoni hantlę, dłonie skierowane do siebie. Wyprostuj ręce nad klatką piersiową, trzymając łokcie blisko ciała. Opuszczaj hantle w stronę czoła, zginając łokcie. Zatrzymaj się na chwilę, a następnie wyprostuj ręce z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "벤치에 누워 양쪽 손에 덤벨을 들고 손가락이 마주 보도록 잡습니다. 팔꿈치는 몸 가까이 유지한 채 팔을 가슴 위로 펼칩니다. 팔꿈치를 굽히며 덤벨을 이마 방향으로 천천히 내립니다. 잠시 멈춘 후 처음 위치로 팔을 펼칩니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Allonge-toi à plat sur un banc avec un haltère dans chaque main, les paumes se faisant face. Étends les bras droit au-dessus de la poitrine, en gardant les coudes près du corps. Abaisse les haltères vers ton front, en fléchissant tes coudes. Marque une pause, puis étends tes bras vers le haut pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Lie flat on a bench with a dumbbell in each hand, palms facing each other.",
+      "Extend your arms straight up over your chest, keeping your elbows close to your body.",
+      "Lower the dumbbells down towards your forehead, bending your elbows.",
+      "Pause for a moment, then extend your arms back up to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Sdraiati disteso su una panchina con un manubrio in ogni mano, i palmi uno verso l'altro.",
+      "Allunga le braccia dritte sul petto, tenendo i gomiti vicini al corpo.",
+      "Abbassa i manubri verso la fronte, piegando i gomiti.",
+      "Fermati un attimo, poi rialza le braccia fino alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Her iki elinizde birer dambıl olacak şekilde, avuçlarınız birbirine bakacak şekilde bir bankın üzerine düz bir şekilde uzanın.",
+      "Dirseklerinizi vücudunuza yakın tutarak kollarınızı düz bir şekilde göğsünüzün üzerine doğru uzatın.",
+      "Dirseklerinizi bükerek dambılları alnınıza doğru indirin.",
+      "Bir an duraklayın, ardından kollarınızı başlangıç ​​pozisyonuna kadar uzatın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Túmbate boca arriba en un banco con una mancuerna en cada mano, con las palmas enfrentadas entre sí.",
+      "Extiende los brazos rectos hacia arriba sobre el pecho, manteniendo los codos cerca del cuerpo.",
+      "Baja las mancuernas hacia la frente, flexionando los codos.",
+      "Haz una pausa breve y luego extiende los brazos de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Лягте на скамью, взяв в каждую руку по гантели, ладони обращены друг к другу.",
+      "Вытяните руки прямо вверх над грудью, держа локти близко к телу.",
+      "Опустите гантели ко лбу, сгибая локти.",
+      "Сделайте паузу на мгновение, затем вытяните руки обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "平躺在长凳上，双手各握一个哑铃，手掌相对。",
+      "将手臂伸直越过胸部，保持肘部靠近身体。",
+      "将哑铃向前额方向降低，弯曲肘部。",
+      "暂停片刻，然后将手臂伸回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "प्रत्येक हाथ में डम्बल लेकर, हथेलियाँ एक-दूसरे के सामने रखते हुए, एक बेंच पर सीधे लेट जाएँ।",
+      "अपनी कोहनियों को अपने शरीर के करीब रखते हुए, अपनी बाहों को अपनी छाती के ऊपर सीधा फैलाएँ।",
+      "अपनी कोहनियों को झुकाते हुए डम्बल को अपने माथे की ओर नीचे करें।",
+      "एक पल के लिए रुकें, फिर अपनी भुजाओं को वापस प्रारंभिक स्थिति तक फैलाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Połóż się na ławce, trzymając w każdej dłoni hantlę, dłonie skierowane do siebie.",
+      "Wyprostuj ręce nad klatką piersiową, trzymając łokcie blisko ciała.",
+      "Opuszczaj hantle w stronę czoła, zginając łokcie.",
+      "Zatrzymaj się na chwilę, a następnie wyprostuj ręce z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "벤치에 누워 양쪽 손에 덤벨을 들고 손가락이 마주 보도록 잡습니다.",
+      "팔꿈치는 몸 가까이 유지한 채 팔을 가슴 위로 펼칩니다.",
+      "팔꿈치를 굽히며 덤벨을 이마 방향으로 천천히 내립니다.",
+      "잠시 멈춘 후 처음 위치로 팔을 펼칩니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Allonge-toi à plat sur un banc avec un haltère dans chaque main, les paumes se faisant face.",
+      "Étends les bras droit au-dessus de la poitrine, en gardant les coudes près du corps.",
+      "Abaisse les haltères vers ton front, en fléchissant tes coudes.",
+      "Marque une pause, puis étends tes bras vers le haut pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders"
+  ],
+  "target": "triceps",
+  "image": "images/0351-mpKZGWz.jpg",
+  "gif_url": "videos/0351-mpKZGWz.gif",
+  "media_id": "mpKZGWz",
+  "created_at": "2026-03-18T12:31:32.879637+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

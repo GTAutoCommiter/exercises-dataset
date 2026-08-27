@@ -1,0 +1,122 @@
+{
+  "id": "1265",
+  "name": "cable one arm incline press",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Adjust the cable machine to a low pulley position. Sit on an incline bench facing away from the cable machine. Grasp the handle with one hand and bring it up to shoulder height. Position your feet firmly on the ground and maintain a stable position. Press the handle forward and upward, extending your arm fully. Pause for a moment at the top, then slowly lower the handle back to the starting position. Repeat for the desired number of repetitions, then switch sides.",
+    "it": "Regola la macchina a cavo su una posizione bassa della carrucola. Siediti su una panca inclinata rivolta dall'altra parte rispetto alla macchina per cavi. Afferra il manico con una mano e portalo all'altezza della spalla. Posiziona i piedi saldamente a terra e mantieni una posizione stabile. Spingi la maniglia in avanti e verso l'alto, estendendo completamente il braccio. Fermati un attimo in cima, poi abbassa lentamente la maniglia fino alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni, poi cambia lato.",
+    "tr": "Kablo makinesini alçak makara konumuna ayarlayın. Kablo makinesinden uzağa bakan eğimli bir bankta oturun. Tutamağı bir elinizle kavrayın ve omuz yüksekliğine kadar kaldırın. Ayaklarınızı yere sağlam bir şekilde yerleştirin ve sabit bir pozisyon koruyun. Kolunuzu tamamen uzatarak kolu ileri ve yukarıya doğru bastırın. Tepede bir an duraklayın, ardından kolu yavaşça başlangıç ​​pozisyonuna indirin. İstenilen tekrar sayısı kadar tekrarlayın, ardından taraf değiştirin.",
+    "es": "Ajusta la máquina de cable a una posición de polea baja. Siéntate en un banco inclinado de espaldas a la máquina de cable. Sujeta la agarradera con una mano y llévala hasta la altura del hombro. Coloca los pies firmemente en el suelo y mantén una posición estable. Empuja la agarradera hacia adelante y hacia arriba, extendiendo el brazo por completo. Haz una pausa breve en la parte más alta, luego baja lentamente la agarradera de vuelta a la posición inicial. Repite el número de repeticiones deseado, luego cambia de lado.",
+    "ru": "Отрегулируйте тросовую машину в нижнее положение шкива. Сядьте на наклонную скамью лицом в сторону от канатной машины. Возьмитесь за ручку одной рукой и поднимите ее на высоту плеч. Твердо поставьте ноги на землю и сохраняйте устойчивое положение. Нажмите ручку вперед и вверх, полностью вытянув руку. Задержитесь на мгновение в верхней точке, затем медленно опустите рукоятку обратно в исходное положение. Повторите желаемое количество повторений, затем поменяйте сторону.",
+    "zh": "将拉索机调整至低滑轮位置。 坐在倾斜的长凳上，背对缆绳机。 用一只手抓住手柄并将其举至肩膀高度。 将双脚牢牢放在地面上并保持稳定的位置。 向前和向上按下手柄，充分伸展手臂。 在最高点暂停片刻，然后慢慢将手柄放回起始位置。 重复所需的重复次数，然后换边。",
+    "hi": "केबल मशीन को निचली चरखी स्थिति में समायोजित करें। केबल मशीन से दूर की ओर मुंह करके एक झुकी हुई बेंच पर बैठें। एक हाथ से हैंडल को पकड़ें और इसे कंधे की ऊंचाई तक ले आएं। अपने पैरों को ज़मीन पर मजबूती से रखें और स्थिर स्थिति बनाए रखें। अपने हाथ को पूरी तरह फैलाते हुए हैंडल को आगे और ऊपर की ओर दबाएं। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे हैंडल को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएं, फिर पक्ष बदलें।",
+    "pl": "Ustaw wyciąg w pozycji dolnego bloczka. Usiądź na ławce skośnej tyłem do wyciągu. Chwyć uchwyt jedną ręką i przyciągnij go do wysokości barku. Ustaw stopy pewnie na podłodze i utrzymuj stabilną pozycję. Wypchnij uchwyt do przodu i w górę, całkowicie prostując ramię. Zatrzymaj się na moment na górze, a następnie powoli opuść uchwyt do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń, a następnie zmień stronę.",
+    "ko": "케이블 머신을 낮은 풀리 위치로 조정합니다. 인클라인 벤치에 앉아 케이블 머신에서 등을 돌립니다. 한손으로 손잡이를 잡고 어깨 높이로 들어올립니다. 발을 땅에 단단히 놓고 안정적인 자세를 유지합니다. 손잡이를 앞으로 위로 눌러 팔을 완전히 펼칩니다. 위에서 잠깐 멈추었다가 손잡이를 천천히 시작 위치로 내립니다. 원하는 횟수만큼 반복한 후 반대쪽으로 바꿉니다.",
+    "fr": "Règle la machine à câble en position poulie basse. Assieds-toi sur un banc incliné, dos à la machine à câble. Saisis la poignée d'une main et amène-la à hauteur d'épaules. Positionne tes pieds fermement sur le sol et maintiens une position stable. Pousse la poignée vers l'avant et vers le haut, en tendant complètement ton bras. Marque une pause en haut, puis abaisse lentement la poignée pour revenir à la position de départ. Répète le nombre de répétitions souhaité, puis change de côté."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the cable machine to a low pulley position.",
+      "Sit on an incline bench facing away from the cable machine.",
+      "Grasp the handle with one hand and bring it up to shoulder height.",
+      "Position your feet firmly on the ground and maintain a stable position.",
+      "Press the handle forward and upward, extending your arm fully.",
+      "Pause for a moment at the top, then slowly lower the handle back to the starting position.",
+      "Repeat for the desired number of repetitions, then switch sides."
+    ],
+    "it": [
+      "Regola la macchina a cavo su una posizione bassa della carrucola.",
+      "Siediti su una panca inclinata rivolta dall'altra parte rispetto alla macchina per cavi.",
+      "Afferra il manico con una mano e portalo all'altezza della spalla.",
+      "Posiziona i piedi saldamente a terra e mantieni una posizione stabile.",
+      "Spingi la maniglia in avanti e verso l'alto, estendendo completamente il braccio.",
+      "Fermati un attimo in cima, poi abbassa lentamente la maniglia fino alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni, poi cambia lato."
+    ],
+    "tr": [
+      "Kablo makinesini alçak makara konumuna ayarlayın.",
+      "Kablo makinesinden uzağa bakan eğimli bir bankta oturun.",
+      "Tutamağı bir elinizle kavrayın ve omuz yüksekliğine kadar kaldırın.",
+      "Ayaklarınızı yere sağlam bir şekilde yerleştirin ve sabit bir pozisyon koruyun.",
+      "Kolunuzu tamamen uzatarak kolu ileri ve yukarıya doğru bastırın.",
+      "Tepede bir an duraklayın, ardından kolu yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından taraf değiştirin."
+    ],
+    "es": [
+      "Ajusta la máquina de cable a una posición de polea baja.",
+      "Siéntate en un banco inclinado de espaldas a la máquina de cable.",
+      "Sujeta la agarradera con una mano y llévala hasta la altura del hombro.",
+      "Coloca los pies firmemente en el suelo y mantén una posición estable.",
+      "Empuja la agarradera hacia adelante y hacia arriba, extendiendo el brazo por completo.",
+      "Haz una pausa breve en la parte más alta, luego baja lentamente la agarradera de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado, luego cambia de lado."
+    ],
+    "ru": [
+      "Отрегулируйте тросовую машину в нижнее положение шкива.",
+      "Сядьте на наклонную скамью лицом в сторону от канатной машины.",
+      "Возьмитесь за ручку одной рукой и поднимите ее на высоту плеч.",
+      "Твердо поставьте ноги на землю и сохраняйте устойчивое положение.",
+      "Нажмите ручку вперед и вверх, полностью вытянув руку.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите рукоятку обратно в исходное положение.",
+      "Повторите желаемое количество повторений, затем поменяйте сторону."
+    ],
+    "zh": [
+      "将拉索机调整至低滑轮位置。",
+      "坐在倾斜的长凳上，背对缆绳机。",
+      "用一只手抓住手柄并将其举至肩膀高度。",
+      "将双脚牢牢放在地面上并保持稳定的位置。",
+      "向前和向上按下手柄，充分伸展手臂。",
+      "在最高点暂停片刻，然后慢慢将手柄放回起始位置。",
+      "重复所需的重复次数，然后换边。"
+    ],
+    "hi": [
+      "केबल मशीन को निचली चरखी स्थिति में समायोजित करें।",
+      "केबल मशीन से दूर की ओर मुंह करके एक झुकी हुई बेंच पर बैठें।",
+      "एक हाथ से हैंडल को पकड़ें और इसे कंधे की ऊंचाई तक ले आएं।",
+      "अपने पैरों को ज़मीन पर मजबूती से रखें और स्थिर स्थिति बनाए रखें।",
+      "अपने हाथ को पूरी तरह फैलाते हुए हैंडल को आगे और ऊपर की ओर दबाएं।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे हैंडल को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर पक्ष बदलें।"
+    ],
+    "pl": [
+      "Ustaw wyciąg w pozycji dolnego bloczka.",
+      "Usiądź na ławce skośnej tyłem do wyciągu.",
+      "Chwyć uchwyt jedną ręką i przyciągnij go do wysokości barku.",
+      "Ustaw stopy pewnie na podłodze i utrzymuj stabilną pozycję.",
+      "Wypchnij uchwyt do przodu i w górę, całkowicie prostując ramię.",
+      "Zatrzymaj się na moment na górze, a następnie powoli opuść uchwyt do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń, a następnie zmień stronę."
+    ],
+    "ko": [
+      "케이블 머신을 낮은 풀리 위치로 조정합니다.",
+      "인클라인 벤치에 앉아 케이블 머신에서 등을 돌립니다.",
+      "한손으로 손잡이를 잡고 어깨 높이로 들어올립니다.",
+      "발을 땅에 단단히 놓고 안정적인 자세를 유지합니다.",
+      "손잡이를 앞으로 위로 눌러 팔을 완전히 펼칩니다.",
+      "위에서 잠깐 멈추었다가 손잡이를 천천히 시작 위치로 내립니다.",
+      "원하는 횟수만큼 반복한 후 반대쪽으로 바꿉니다."
+    ],
+    "fr": [
+      "Règle la machine à câble en position poulie basse.",
+      "Assieds-toi sur un banc incliné, dos à la machine à câble.",
+      "Saisis la poignée d'une main et amène-la à hauteur d'épaules.",
+      "Positionne tes pieds fermement sur le sol et maintiens une position stable.",
+      "Pousse la poignée vers l'avant et vers le haut, en tendant complètement ton bras.",
+      "Marque une pause en haut, puis abaisse lentement la poignée pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis change de côté."
+    ]
+  },
+  "muscle_group": "deltoids",
+  "secondary_muscles": [
+    "deltoids",
+    "triceps"
+  ],
+  "target": "pectorals",
+  "image": "images/1265-GKEH6jj.jpg",
+  "gif_url": "videos/1265-GKEH6jj.gif",
+  "media_id": "GKEH6jj",
+  "created_at": "2026-03-18T12:31:32.875069+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

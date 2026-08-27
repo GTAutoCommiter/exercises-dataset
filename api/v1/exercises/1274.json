@@ -1,0 +1,92 @@
+{
+  "id": "1274",
+  "name": "deep push up",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Start in a high plank position with your hands slightly wider than shoulder-width apart and your body in a straight line. Lower your chest towards the ground by bending your elbows, keeping them close to your body. Push through your palms to extend your arms and return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Inizia in posizione di plank alta, con le mani leggermente più larghe della larghezza delle spalle e il corpo in linea retta. Abbassa il petto verso il suolo piegando i gomiti, tenendoli vicini al corpo. Spingi attraverso i palmi per estendere le braccia e tornare alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Elleriniz omuz genişliğinden biraz daha geniş ve vücudunuz düz bir çizgide olacak şekilde yüksek bir plank pozisyonuyla başlayın. Dirseklerinizi bükerek, vücudunuza yakın tutarak göğsünüzü yere doğru indirin. Kollarınızı uzatmak ve başlangıç ​​pozisyonuna dönmek için avuçlarınızı itin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Comienza en posición de plancha alta con las manos un poco más separadas que el ancho de los hombros y el cuerpo en línea recta. Baja el pecho hacia el suelo flexionando los codos, manteniéndolos cerca del cuerpo. Empuja con las palmas para extender los brazos y regresar a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Начните с положения высокой планки, расставив руки чуть шире плеч, а тело образуя прямую линию. Опустите грудь к земле, согнув локти и удерживая их близко к телу. Оттолкнитесь ладонями, чтобы вытянуть руки и вернуться в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "从高平板支撑位置开始，双手分开略宽于肩宽，身体呈一条直线。 弯曲肘部，使胸部靠近地面，使胸部靠近地面。 推动手掌以伸展手臂并返回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने हाथों को कंधे की चौड़ाई से थोड़ा अधिक चौड़ा करके और अपने शरीर को एक सीधी रेखा में रखते हुए एक उच्च तख़्त स्थिति में शुरुआत करें। अपनी कोहनियों को मोड़कर, उन्हें अपने शरीर के पास रखते हुए, अपनी छाती को ज़मीन की ओर नीचे करें। अपनी हथेलियों से धक्का देकर अपनी भुजाओं को फैलाएं और प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Zacznij w pozycji wysokiej deski, dłonie nieco szerzej niż na szerokość barków, ciało w jednej linii prostej. Opuść klatkę piersiową w kierunku podłogi, zginając łokcie, trzymając je blisko ciała. Wypchnij się przez dłonie, prostując ramiona, aby wrócić do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "손을 어깨너비보다 약간 넓게 바닥에 올려놓고 팔을 펴서 높은 널빤지 자세에서 시작합니다. 머리부터 발끝까지 몸을 일직선으로 유지합니다. 팔꿈치를 구부려 가슴을 바닥 쪽으로 내리고 팔꿈치를 몸 가까이 유지합니다. 손바닥으로 밀어 팔을 펴서 처음 위치로 돌아갑니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Commence en position de planche haute, les mains un peu plus écartées que la largeur des épaules et le corps bien aligné. Abaisse ta poitrine vers le sol en fléchissant les coudes, en les gardant près de ton corps. Pousse à travers tes paumes pour étendre tes bras et revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start in a high plank position with your hands slightly wider than shoulder-width apart and your body in a straight line.",
+      "Lower your chest towards the ground by bending your elbows, keeping them close to your body.",
+      "Push through your palms to extend your arms and return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia in posizione di plank alta, con le mani leggermente più larghe della larghezza delle spalle e il corpo in linea retta.",
+      "Abbassa il petto verso il suolo piegando i gomiti, tenendoli vicini al corpo.",
+      "Spingi attraverso i palmi per estendere le braccia e tornare alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Elleriniz omuz genişliğinden biraz daha geniş ve vücudunuz düz bir çizgide olacak şekilde yüksek bir plank pozisyonuyla başlayın.",
+      "Dirseklerinizi bükerek, vücudunuza yakın tutarak göğsünüzü yere doğru indirin.",
+      "Kollarınızı uzatmak ve başlangıç ​​pozisyonuna dönmek için avuçlarınızı itin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Comienza en posición de plancha alta con las manos un poco más separadas que el ancho de los hombros y el cuerpo en línea recta.",
+      "Baja el pecho hacia el suelo flexionando los codos, manteniéndolos cerca del cuerpo.",
+      "Empuja con las palmas para extender los brazos y regresar a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с положения высокой планки, расставив руки чуть шире плеч, а тело образуя прямую линию.",
+      "Опустите грудь к земле, согнув локти и удерживая их близко к телу.",
+      "Оттолкнитесь ладонями, чтобы вытянуть руки и вернуться в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "从高平板支撑位置开始，双手分开略宽于肩宽，身体呈一条直线。",
+      "弯曲肘部，使胸部靠近地面，使胸部靠近地面。",
+      "推动手掌以伸展手臂并返回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने हाथों को कंधे की चौड़ाई से थोड़ा अधिक चौड़ा करके और अपने शरीर को एक सीधी रेखा में रखते हुए एक उच्च तख़्त स्थिति में शुरुआत करें।",
+      "अपनी कोहनियों को मोड़कर, उन्हें अपने शरीर के पास रखते हुए, अपनी छाती को ज़मीन की ओर नीचे करें।",
+      "अपनी हथेलियों से धक्का देकर अपनी भुजाओं को फैलाएं और प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Zacznij w pozycji wysokiej deski, dłonie nieco szerzej niż na szerokość barków, ciało w jednej linii prostej.",
+      "Opuść klatkę piersiową w kierunku podłogi, zginając łokcie, trzymając je blisko ciała.",
+      "Wypchnij się przez dłonie, prostując ramiona, aby wrócić do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "손을 어깨너비보다 약간 넓게 바닥에 올려놓고 팔을 펴서 높은 널빤지 자세에서 시작합니다. 머리부터 발끝까지 몸을 일직선으로 유지합니다.",
+      "팔꿈치를 구부려 가슴을 바닥 쪽으로 내리고 팔꿈치를 몸 가까이 유지합니다.",
+      "손바닥으로 밀어 팔을 펴서 처음 위치로 돌아갑니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Commence en position de planche haute, les mains un peu plus écartées que la largeur des épaules et le corps bien aligné.",
+      "Abaisse ta poitrine vers le sol en fléchissant les coudes, en les gardant près de ton corps.",
+      "Pousse à travers tes paumes pour étendre tes bras et revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "target": "pectorals",
+  "image": "images/1274-vptOQ4N.jpg",
+  "gif_url": "videos/1274-vptOQ4N.gif",
+  "media_id": "vptOQ4N",
+  "created_at": "2026-03-18T12:31:32.877433+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

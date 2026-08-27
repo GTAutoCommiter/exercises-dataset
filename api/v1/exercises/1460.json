@@ -1,0 +1,113 @@
+{
+  "id": "1460",
+  "name": "walking lunge",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart. Take a step forward with your right leg, lowering your body into a lunge position. Keep your torso upright and your front knee aligned with your ankle. Push off with your right foot and bring your left foot forward, stepping into a lunge position with your left leg. Continue alternating legs and walking forward, maintaining a controlled and steady pace. Repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi alla larghezza delle spalle. Fai un passo avanti con la gamba destra, abbassando il corpo in una posizione di affondo. Mantieni il busto in posizione verticale e il ginocchio anteriore allineato con la caviglia. Spingi con il piede destro e porta il piede sinistro in avanti, assumendo una posizione di affondo con la gamba sinistra. Continua ad alternare le gambe e a camminare in avanti, mantenendo un ritmo controllato e costante. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durun. Sağ bacağınızla öne doğru bir adım atın, vücudunuzu hamle pozisyonuna indirin. Gövdenizi dik tutun ve ön dizinizi ayak bileğinizle aynı hizada tutun. Sağ ayağınızla itin ve sol ayağınızı öne doğru getirin, sol bacağınızla hamle pozisyonuna geçin. Kontrollü ve sabit bir tempoyu koruyarak bacaklarınızı değiştirerek ileri doğru yürümeye devam edin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros. Da un paso adelante con la pierna derecha, bajando el cuerpo a una posición de zancada. Mantén el torso erguido y la rodilla delantera alineada con el tobillo. Empújate con el pie derecho y lleva el pie izquierdo hacia adelante, entrando en una posición de zancada con la pierna izquierda. Continúa alternando las piernas y avanzando, manteniendo un ritmo controlado y constante. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч. Сделайте шаг вперед правой ногой, опуская тело в положение выпада. Держите туловище прямо, а переднее колено на одной линии с лодыжкой. Оттолкнитесь правой ногой и вынесите левую ногу вперед, приняв положение выпада левой ногой. Продолжайте чередовать ноги и идти вперед, сохраняя контролируемый и устойчивый темп. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立。 右腿向前迈出一步，将身体降低至弓步位置。 保持躯干直立，前膝与脚踝对齐。 右脚蹬地，左脚向前，左腿呈弓步姿势。 继续交替双腿向前行走，保持受控且稳定的步伐。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई की दूरी पर रखकर खड़े हो जाएं। अपने दाहिने पैर के साथ एक कदम आगे बढ़ाएं, अपने शरीर को लूंज स्थिति में नीचे लाएं। अपने धड़ को सीधा रखें और अपने सामने के घुटने को अपने टखने के साथ संरेखित रखें। अपने दाहिने पैर से धक्का दें और अपने बाएं पैर को आगे लाएं, अपने बाएं पैर के साथ एक लंज स्थिति में आ जाएं। नियंत्रित और स्थिर गति बनाए रखते हुए पैरों को बारी-बारी से बदलना और आगे बढ़ना जारी रखें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań ze stopami rozstawionymi na szerokość barków. Zrób krok do przodu prawą nogą, opuszczając ciało w pozycję wykroku. Trzymaj tułów wyprostowany, a przednie kolano w linii z kostką. Odepchnij się prawą stopą i przyciągnij lewą stopę do przodu, wchodząc w pozycję wykroku lewą nogą. Kontynuuj naprzemienne nogi i chodzenie do przodu, zachowując kontrolowane i stałe tempo. Powtórz zgodnie z żądaną liczbą powtórzeń.",
+    "ko": "발을 어깨 너비로 벌리고 서십시오. 오른쪽 다리를 앞으로 내딛고 런지 자세로 내려갑니다. 몸통을 곧게 유지하고 앞쪽 무릎이 발목과 일직선상에 있도록 합니다. 오른쪽 발을 밀어내고 왼쪽 발을 앞으로 내딛어 왼쪽 다리로 런지 자세를 잡습니다. 양쪽 다리를 번갈아 가며 앞으로 걸으면서 통제된 속도를 유지합니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules. Fais un pas en avant avec la jambe droite, en abaissant ton corps en position de fente. Garde le torse droit et le genou avant aligné avec la cheville. Pousse sur ton pied droit et amène ton pied gauche vers l'avant, en te plaçant en position de fente avec ta jambe gauche. Continue à alterner les jambes et à avancer en maintenant un rythme contrôlé et régulier. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart.",
+      "Take a step forward with your right leg, lowering your body into a lunge position.",
+      "Keep your torso upright and your front knee aligned with your ankle.",
+      "Push off with your right foot and bring your left foot forward, stepping into a lunge position with your left leg.",
+      "Continue alternating legs and walking forward, maintaining a controlled and steady pace.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle.",
+      "Fai un passo avanti con la gamba destra, abbassando il corpo in una posizione di affondo.",
+      "Mantieni il busto in posizione verticale e il ginocchio anteriore allineato con la caviglia.",
+      "Spingi con il piede destro e porta il piede sinistro in avanti, assumendo una posizione di affondo con la gamba sinistra.",
+      "Continua ad alternare le gambe e a camminare in avanti, mantenendo un ritmo controllato e costante.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durun.",
+      "Sağ bacağınızla öne doğru bir adım atın, vücudunuzu hamle pozisyonuna indirin.",
+      "Gövdenizi dik tutun ve ön dizinizi ayak bileğinizle aynı hizada tutun.",
+      "Sağ ayağınızla itin ve sol ayağınızı öne doğru getirin, sol bacağınızla hamle pozisyonuna geçin.",
+      "Kontrollü ve sabit bir tempoyu koruyarak bacaklarınızı değiştirerek ileri doğru yürümeye devam edin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros.",
+      "Da un paso adelante con la pierna derecha, bajando el cuerpo a una posición de zancada.",
+      "Mantén el torso erguido y la rodilla delantera alineada con el tobillo.",
+      "Empújate con el pie derecho y lleva el pie izquierdo hacia adelante, entrando en una posición de zancada con la pierna izquierda.",
+      "Continúa alternando las piernas y avanzando, manteniendo un ritmo controlado y constante.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч.",
+      "Сделайте шаг вперед правой ногой, опуская тело в положение выпада.",
+      "Держите туловище прямо, а переднее колено на одной линии с лодыжкой.",
+      "Оттолкнитесь правой ногой и вынесите левую ногу вперед, приняв положение выпада левой ногой.",
+      "Продолжайте чередовать ноги и идти вперед, сохраняя контролируемый и устойчивый темп.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立。",
+      "右腿向前迈出一步，将身体降低至弓步位置。",
+      "保持躯干直立，前膝与脚踝对齐。",
+      "右脚蹬地，左脚向前，左腿呈弓步姿势。",
+      "继续交替双腿向前行走，保持受控且稳定的步伐。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई की दूरी पर रखकर खड़े हो जाएं।",
+      "अपने दाहिने पैर के साथ एक कदम आगे बढ़ाएं, अपने शरीर को लूंज स्थिति में नीचे लाएं।",
+      "अपने धड़ को सीधा रखें और अपने सामने के घुटने को अपने टखने के साथ संरेखित रखें।",
+      "अपने दाहिने पैर से धक्का दें और अपने बाएं पैर को आगे लाएं, अपने बाएं पैर के साथ एक लंज स्थिति में आ जाएं।",
+      "नियंत्रित और स्थिर गति बनाए रखते हुए पैरों को बारी-बारी से बदलना और आगे बढ़ना जारी रखें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań ze stopami rozstawionymi na szerokość barków.",
+      "Zrób krok do przodu prawą nogą, opuszczając ciało w pozycję wykroku.",
+      "Trzymaj tułów wyprostowany, a przednie kolano w linii z kostką.",
+      "Odepchnij się prawą stopą i przyciągnij lewą stopę do przodu, wchodząc w pozycję wykroku lewą nogą.",
+      "Kontynuuj naprzemienne nogi i chodzenie do przodu, zachowując kontrolowane i stałe tempo.",
+      "Powtórz zgodnie z żądaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 너비로 벌리고 서십시오.",
+      "오른쪽 다리를 앞으로 내딛고 런지 자세로 내려갑니다.",
+      "몸통을 곧게 유지하고 앞쪽 무릎이 발목과 일직선상에 있도록 합니다.",
+      "오른쪽 발을 밀어내고 왼쪽 발을 앞으로 내딛어 왼쪽 다리로 런지 자세를 잡습니다.",
+      "양쪽 다리를 번갈아 가며 앞으로 걸으면서 통제된 속도를 유지합니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules.",
+      "Fais un pas en avant avec la jambe droite, en abaissant ton corps en position de fente.",
+      "Garde le torse droit et le genou avant aligné avec la cheville.",
+      "Pousse sur ton pied droit et amène ton pied gauche vers l'avant, en te plaçant en position de fente avec ta jambe gauche.",
+      "Continue à alterner les jambes et à avancer en maintenant un rythme contrôlé et régulier.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "glutes",
+  "image": "images/1460-IZVHb27.jpg",
+  "gif_url": "videos/1460-IZVHb27.gif",
+  "media_id": "IZVHb27",
+  "created_at": "2026-03-18T12:31:32.905661+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

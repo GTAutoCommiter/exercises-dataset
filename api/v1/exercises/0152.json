@@ -1,0 +1,101 @@
+{
+  "id": "0152",
+  "name": "cable concentration extension (on knee)",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Sit on a bench or chair with your knees bent and feet flat on the ground. Hold the cable handle with your right hand and place your elbow on the inside of your right knee. Extend your arm fully, keeping your elbow stationary and close to your knee. Pause for a moment at the top, then slowly lower your arm back to the starting position. Repeat for the desired number of repetitions, then switch sides.",
+    "it": "Siediti su una panca o una sedia con le ginocchia piegate e i piedi piatti a terra. Tieni la maniglia del cavo con la mano destra e posiziona il gomito all'interno del ginocchio destro. Allunga completamente il braccio, mantenendo il gomito fermo e vicino al ginocchio. Fermati un attimo in cima, poi abbassa lentamente il braccio fino alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni, poi cambia lato.",
+    "tr": "Dizleriniz bükülmüş ve ayaklarınız yere düz basacak şekilde bir bankta veya sandalyede oturun. Kablo tutamağını sağ elinizle tutun ve dirseğinizi sağ dizinizin iç kısmına yerleştirin. Dirseğinizi sabit ve dizinize yakın tutarak kolunuzu tamamen uzatın. Tepe noktasında bir an duraklayın, ardından kolunuzu yavaşça başlangıç ​​pozisyonuna indirin. İstenilen tekrar sayısı kadar tekrarlayın, ardından taraf değiştirin.",
+    "es": "Siéntate en un banco o silla con las rodillas flexionadas y los pies planos en el suelo. Sujeta la agarradera del cable con la mano derecha y coloca el codo en la parte interna de la rodilla derecha. Extiende completamente el brazo, manteniendo el codo quieto y cerca de la rodilla. Haz una pausa breve en la parte más alta, luego baja lentamente el brazo de vuelta a la posición inicial. Repite el número de repeticiones deseado, luego cambia de lado.",
+    "ru": "Сядьте на скамью или стул, согните колени и поставьте ступни на землю. Возьмите рукоятку троса правой рукой и поместите локоть на внутреннюю часть правого колена. Полностью выпрямите руку, держа локоть неподвижно и близко к колену. Задержитесь на мгновение в верхней точке, затем медленно опустите руку обратно в исходное положение. Повторите желаемое количество повторений, затем поменяйте сторону.",
+    "zh": "坐在长凳或椅子上，膝盖弯曲，双脚平放在地上。 用右手握住电缆手柄，并将肘部放在右膝盖内侧。 充分伸展手臂，保持肘部静止并靠近膝盖。 在顶部停顿片刻，然后慢慢将手臂放回起始位置。 重复所需的重复次数，然后换边。",
+    "hi": "अपने घुटनों को मोड़कर और पैरों को ज़मीन पर सपाट करके एक बेंच या कुर्सी पर बैठें। केबल के हैंडल को अपने दाहिने हाथ से पकड़ें और अपनी कोहनी को अपने दाहिने घुटने के अंदर पर रखें। अपनी बांह को पूरी तरह फैलाएं, अपनी कोहनी को स्थिर रखें और अपने घुटने के करीब रखें। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने हाथ को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएं, फिर पक्ष बदलें।",
+    "pl": "Usiądź na ławce lub krześle, z kolanami ugiętymi, a stopami płasko na podłodze. Chwyć uchwyt wyciągu prawą ręką i umieść łokieć na wewnętrznej stronie prawego kolana. Wyprostuj ramię w pełni, trzymając łokieć nieruchomo i blisko kolana. Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść ramię z powrotem do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń, a następnie zmień stronę.",
+    "ko": "벤치나 의자에 앉아 무릎을 구부리고 발을 바닥에 평평하게 합니다. 오른쪽 손으로 케이블 핸들을 잡고 팔꿈치를 오른쪽 무릎 안쪽에 놓습니다. 팔꿈치를 고정시키고 무릎 가까이에 유지하면서 팔을 완전히 펼칩니다. 최상단에서 잠깐 멈추었다가 팔을 천천히 시작 위치로 내립니다. 원하는 횟수만큼 반복한 후 반대쪽으로 전환합니다.",
+    "fr": "Assieds-toi sur un banc ou une chaise, les genoux fléchis et les pieds à plat sur le sol. Tiens la poignée de câble de la main droite et place ton coude sur l'intérieur de ton genou droit. Étends complètement ton bras, en gardant ton coude immobile et près de ton genou. Marque une pause en haut, puis abaisse lentement ton bras pour revenir à la position de départ. Répète le nombre de répétitions souhaité, puis change de côté."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on a bench or chair with your knees bent and feet flat on the ground.",
+      "Hold the cable handle with your right hand and place your elbow on the inside of your right knee.",
+      "Extend your arm fully, keeping your elbow stationary and close to your knee.",
+      "Pause for a moment at the top, then slowly lower your arm back to the starting position.",
+      "Repeat for the desired number of repetitions, then switch sides."
+    ],
+    "it": [
+      "Siediti su una panca o una sedia con le ginocchia piegate e i piedi piatti a terra.",
+      "Tieni la maniglia del cavo con la mano destra e posiziona il gomito all'interno del ginocchio destro.",
+      "Allunga completamente il braccio, mantenendo il gomito fermo e vicino al ginocchio.",
+      "Fermati un attimo in cima, poi abbassa lentamente il braccio fino alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni, poi cambia lato."
+    ],
+    "tr": [
+      "Dizleriniz bükülmüş ve ayaklarınız yere düz basacak şekilde bir bankta veya sandalyede oturun.",
+      "Kablo tutamağını sağ elinizle tutun ve dirseğinizi sağ dizinizin iç kısmına yerleştirin.",
+      "Dirseğinizi sabit ve dizinize yakın tutarak kolunuzu tamamen uzatın.",
+      "Tepe noktasında bir an duraklayın, ardından kolunuzu yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından taraf değiştirin."
+    ],
+    "es": [
+      "Siéntate en un banco o silla con las rodillas flexionadas y los pies planos en el suelo.",
+      "Sujeta la agarradera del cable con la mano derecha y coloca el codo en la parte interna de la rodilla derecha.",
+      "Extiende completamente el brazo, manteniendo el codo quieto y cerca de la rodilla.",
+      "Haz una pausa breve en la parte más alta, luego baja lentamente el brazo de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado, luego cambia de lado."
+    ],
+    "ru": [
+      "Сядьте на скамью или стул, согните колени и поставьте ступни на землю.",
+      "Возьмите рукоятку троса правой рукой и поместите локоть на внутреннюю часть правого колена.",
+      "Полностью выпрямите руку, держа локоть неподвижно и близко к колену.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите руку обратно в исходное положение.",
+      "Повторите желаемое количество повторений, затем поменяйте сторону."
+    ],
+    "zh": [
+      "坐在长凳或椅子上，膝盖弯曲，双脚平放在地上。",
+      "用右手握住电缆手柄，并将肘部放在右膝盖内侧。",
+      "充分伸展手臂，保持肘部静止并靠近膝盖。",
+      "在顶部停顿片刻，然后慢慢将手臂放回起始位置。",
+      "重复所需的重复次数，然后换边。"
+    ],
+    "hi": [
+      "अपने घुटनों को मोड़कर और पैरों को ज़मीन पर सपाट करके एक बेंच या कुर्सी पर बैठें।",
+      "केबल के हैंडल को अपने दाहिने हाथ से पकड़ें और अपनी कोहनी को अपने दाहिने घुटने के अंदर पर रखें।",
+      "अपनी बांह को पूरी तरह फैलाएं, अपनी कोहनी को स्थिर रखें और अपने घुटने के करीब रखें।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने हाथ को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर पक्ष बदलें।"
+    ],
+    "pl": [
+      "Usiądź na ławce lub krześle, z kolanami ugiętymi, a stopami płasko na podłodze.",
+      "Chwyć uchwyt wyciągu prawą ręką i umieść łokieć na wewnętrznej stronie prawego kolana.",
+      "Wyprostuj ramię w pełni, trzymając łokieć nieruchomo i blisko kolana.",
+      "Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść ramię z powrotem do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń, a następnie zmień stronę."
+    ],
+    "ko": [
+      "벤치나 의자에 앉아 무릎을 구부리고 발을 바닥에 평평하게 합니다.",
+      "오른쪽 손으로 케이블 핸들을 잡고 팔꿈치를 오른쪽 무릎 안쪽에 놓습니다.",
+      "팔꿈치를 고정시키고 무릎 가까이에 유지하면서 팔을 완전히 펼칩니다.",
+      "최상단에서 잠깐 멈추었다가 팔을 천천히 시작 위치로 내립니다.",
+      "원하는 횟수만큼 반복한 후 반대쪽으로 전환합니다."
+    ],
+    "fr": [
+      "Assieds-toi sur un banc ou une chaise, les genoux fléchis et les pieds à plat sur le sol.",
+      "Tiens la poignée de câble de la main droite et place ton coude sur l'intérieur de ton genou droit.",
+      "Étends complètement ton bras, en gardant ton coude immobile et près de ton genou.",
+      "Marque une pause en haut, puis abaisse lentement ton bras pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis change de côté."
+    ]
+  },
+  "muscle_group": "forearms",
+  "secondary_muscles": [
+    "forearms"
+  ],
+  "target": "triceps",
+  "image": "images/0152-Db7eEgw.jpg",
+  "gif_url": "videos/0152-Db7eEgw.gif",
+  "media_id": "Db7eEgw",
+  "created_at": "2026-03-18T12:31:32.874232+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

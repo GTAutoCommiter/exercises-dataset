@@ -1,0 +1,102 @@
+{
+  "id": "1301",
+  "name": "machine inner chest press",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "leverage machine",
+  "instructions": {
+    "en": "Adjust the seat height and position yourself on the machine with your back flat against the pad. Grasp the handles with an overhand grip and position your elbows at a 90-degree angle. Push the handles forward until your arms are fully extended, exhaling during the movement. Pause for a moment at the end of the movement, then slowly return to the starting position, inhaling as you do so. Repeat for the desired number of repetitions.",
+    "it": "Regolare l'altezza del sedile e posizionarsi sulla macchina con la schiena appoggiata al cuscino. Afferrare le maniglie con una presa prona e posizionare i gomiti con un angolo di 90 gradi. Spingi le maniglie in avanti finché le braccia non sono completamente distese, espirando durante il movimento. Fai una pausa per un momento alla fine del movimento, quindi ritorna lentamente alla posizione di partenza, inspirando mentre lo fai. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Koltuk yüksekliğini ayarlayın ve sırtınız yastığa yaslanacak şekilde kendinizi makinenin üzerine konumlandırın. Tutma yerlerini üstten kavrayın ve dirseklerinizi 90 derecelik bir açıyla konumlandırın. Hareket sırasında nefes vererek, kollarınız tamamen uzayıncaya kadar kolları ileri doğru itin. Hareketin sonunda bir an duraklayın, ardından nefes alarak yavaşça başlangıç ​​pozisyonuna dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta la altura del asiento y colócate en la máquina con la espalda totalmente apoyada en la almohadilla. Sujeta las asas con un agarre prono y coloca los codos en un ángulo de 90 grados. Empuja las asas hacia adelante hasta que los brazos queden completamente extendidos, exhalando durante el movimiento. Haz una pausa al final del movimiento y luego vuelve lentamente a la posición inicial, inhalando mientras lo haces. Repite el número de repeticiones deseado.",
+    "ru": "Отрегулируйте высоту сиденья и расположитесь на тренажере, прижавшись спиной к подушке. Возьмитесь за рукоятки хватом сверху и расположите локти под углом 90 градусов. Толкайте ручки вперед до полного выпрямления рук, выдыхая во время движения. Сделайте паузу в конце движения, затем медленно вернитесь в исходное положение, вдыхая при этом. Повторите необходимое количество повторений.",
+    "zh": "调整座椅高度，将自己放在机器上，背部平放在垫子上。 正手握住手柄，肘部呈 90 度角。 向前推动手柄，直到手臂完全伸展，运动过程中呼气。 动作结束时暂停片刻，然后慢慢回到起始位置，同时吸气。 重复所需的重复次数。",
+    "hi": "सीट की ऊंचाई को समायोजित करें और अपनी पीठ को पैड के सामने सपाट रखते हुए अपने आप को मशीन पर रखें। हैंडल को ओवरहैंड ग्रिप से पकड़ें और अपनी कोहनियों को 90 डिग्री के कोण पर रखें। हैंडल को तब तक आगे की ओर धकेलें जब तक कि आपकी भुजाएं पूरी तरह से विस्तारित न हो जाएं, आंदोलन के दौरान सांस छोड़ें। आंदोलन के अंत में एक पल के लिए रुकें, फिर धीरे-धीरे सांस लेते हुए प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Wyreguluj wysokość siedziska i ustaw się na maszynie, opierając plecy płasko o wałek. Chwyć uchwyty nachwytem i ustaw łokcie pod kątem 90 stopni. Wypchnij uchwyty do przodu, aż ramiona będą w pełni wyprostowane, wydychając powietrze podczas ruchu. Zatrzymaj się na chwilę na końcu ruchu, a następnie powoli wróć do pozycji wyjściowej, wdychając powietrze. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "머신의 시트 높이를 조정하고 등을 패드에 평평하게 대고 머신에 앉습니다. 손잡이를 오버핸드 그립으로 잡고 팘을 90도 각도로 위치시킵니다. 숨을 내쉬면서 손잡이를 앞으로 밀어 팔을 완전히 펴집니다. 동작의 끝에서 잠깐 멈춘 후 숨을 들이쉬면서 천천히 처음 위치로 돌아옵니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Règle la hauteur du siège et installe-toi sur la machine, le dos bien à plat contre le coussin. Saisis les poignées avec une prise en pronation et place tes coudes à un angle de 90 degrés. Pousse les poignées vers l'avant jusqu'à ce que tes bras soient complètement tendus, en expirant pendant le mouvement. Marque une pause à la fin du mouvement, puis reviens lentement à la position de départ en inspirant. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the seat height and position yourself on the machine with your back flat against the pad.",
+      "Grasp the handles with an overhand grip and position your elbows at a 90-degree angle.",
+      "Push the handles forward until your arms are fully extended, exhaling during the movement.",
+      "Pause for a moment at the end of the movement, then slowly return to the starting position, inhaling as you do so.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Regolare l'altezza del sedile e posizionarsi sulla macchina con la schiena appoggiata al cuscino.",
+      "Afferrare le maniglie con una presa prona e posizionare i gomiti con un angolo di 90 gradi.",
+      "Spingi le maniglie in avanti finché le braccia non sono completamente distese, espirando durante il movimento.",
+      "Fai una pausa per un momento alla fine del movimento, quindi ritorna lentamente alla posizione di partenza, inspirando mentre lo fai.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Koltuk yüksekliğini ayarlayın ve sırtınız yastığa yaslanacak şekilde kendinizi makinenin üzerine konumlandırın.",
+      "Tutma yerlerini üstten kavrayın ve dirseklerinizi 90 derecelik bir açıyla konumlandırın.",
+      "Hareket sırasında nefes vererek, kollarınız tamamen uzayıncaya kadar kolları ileri doğru itin.",
+      "Hareketin sonunda bir an duraklayın, ardından nefes alarak yavaşça başlangıç ​​pozisyonuna dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta la altura del asiento y colócate en la máquina con la espalda totalmente apoyada en la almohadilla.",
+      "Sujeta las asas con un agarre prono y coloca los codos en un ángulo de 90 grados.",
+      "Empuja las asas hacia adelante hasta que los brazos queden completamente extendidos, exhalando durante el movimiento.",
+      "Haz una pausa al final del movimiento y luego vuelve lentamente a la posición inicial, inhalando mientras lo haces.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Отрегулируйте высоту сиденья и расположитесь на тренажере, прижавшись спиной к подушке.",
+      "Возьмитесь за рукоятки хватом сверху и расположите локти под углом 90 градусов.",
+      "Толкайте ручки вперед до полного выпрямления рук, выдыхая во время движения.",
+      "Сделайте паузу в конце движения, затем медленно вернитесь в исходное положение, вдыхая при этом.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "调整座椅高度，将自己放在机器上，背部平放在垫子上。",
+      "正手握住手柄，肘部呈 90 度角。",
+      "向前推动手柄，直到手臂完全伸展，运动过程中呼气。",
+      "动作结束时暂停片刻，然后慢慢回到起始位置，同时吸气。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "सीट की ऊंचाई को समायोजित करें और अपनी पीठ को पैड के सामने सपाट रखते हुए अपने आप को मशीन पर रखें।",
+      "हैंडल को ओवरहैंड ग्रिप से पकड़ें और अपनी कोहनियों को 90 डिग्री के कोण पर रखें।",
+      "हैंडल को तब तक आगे की ओर धकेलें जब तक कि आपकी भुजाएं पूरी तरह से विस्तारित न हो जाएं, आंदोलन के दौरान सांस छोड़ें।",
+      "आंदोलन के अंत में एक पल के लिए रुकें, फिर धीरे-धीरे सांस लेते हुए प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Wyreguluj wysokość siedziska i ustaw się na maszynie, opierając plecy płasko o wałek.",
+      "Chwyć uchwyty nachwytem i ustaw łokcie pod kątem 90 stopni.",
+      "Wypchnij uchwyty do przodu, aż ramiona będą w pełni wyprostowane, wydychając powietrze podczas ruchu.",
+      "Zatrzymaj się na chwilę na końcu ruchu, a następnie powoli wróć do pozycji wyjściowej, wdychając powietrze.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "머신의 시트 높이를 조정하고 등을 패드에 평평하게 대고 머신에 앉습니다.",
+      "손잡이를 오버핸드 그립으로 잡고 팘을 90도 각도로 위치시킵니다.",
+      "숨을 내쉬면서 손잡이를 앞으로 밀어 팔을 완전히 펴집니다.",
+      "동작의 끝에서 잠깐 멈춘 후 숨을 들이쉬면서 천천히 처음 위치로 돌아옵니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Règle la hauteur du siège et installe-toi sur la machine, le dos bien à plat contre le coussin.",
+      "Saisis les poignées avec une prise en pronation et place tes coudes à un angle de 90 degrés.",
+      "Pousse les poignées vers l'avant jusqu'à ce que tes bras soient complètement tendus, en expirant pendant le mouvement.",
+      "Marque une pause à la fin du mouvement, puis reviens lentement à la position de départ en inspirant.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "target": "pectorals",
+  "image": "images/1301-wDN97Ca.jpg",
+  "gif_url": "videos/1301-wDN97Ca.gif",
+  "media_id": "wDN97Ca",
+  "created_at": "2026-03-18T12:31:32.887505+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,92 @@
+{
+  "id": "2355",
+  "name": "arm slingers hanging bent knee legs",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Hang from a pull-up bar with your arms fully extended and your knees bent at a 90-degree angle. Engage your core and lift your knees towards your chest, bringing them as close to your elbows as possible. Slowly lower your legs back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Appendere a una barra per trazioni con le braccia completamente distese e le ginocchia piegate con un angolo di 90 gradi. Coinvolgi il tuo core e solleva le ginocchia verso il petto, portandole il più vicino possibile ai gomiti. Abbassa lentamente le gambe fino alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Kollarınız tamamen uzatılmış ve dizleriniz 90 derecelik bir açıyla bükülmüş haldeyken barfiks barına asın. Merkez bölgenizi devreye sokun ve dizlerinizi göğsünüze doğru kaldırın, onları mümkün olduğunca dirseklerinize yaklaştırın. Bacaklarınızı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Cuélgate de una barra de dominadas con los brazos completamente extendidos y las rodillas flexionadas formando un ángulo de 90 grados. Activa el core y levanta las rodillas hacia el pecho, acercándolas lo más posible a los codos. Baja lentamente las piernas de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Повисните на перекладине, полностью выпрямив руки и согнув колени под углом 90 градусов. Напрягите корпус и поднимите колени к груди, приближая их как можно ближе к локтям. Медленно опустите ноги обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "悬挂在引体向上杆上，双臂完全伸展，膝盖弯曲成 90 度角。 收紧核心并将膝盖抬向胸部，尽可能靠近肘部。 慢慢地将双腿放回起始位置。 重复所需的重复次数。",
+    "hi": "अपनी बाहों को पूरी तरह फैलाकर और अपने घुटनों को 90 डिग्री के कोण पर मोड़कर पुल-अप बार से लटकें। अपने कोर को संलग्न करें और अपने घुटनों को अपनी छाती की ओर उठाएं, उन्हें जितना संभव हो सके अपनी कोहनी के करीब लाएं। धीरे-धीरे अपने पैरों को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Zwiśnij na drążku do podciągania z rękami w pełni wyprostowanymi i kolanami ugiętymi pod kątem 90 stopni. Napnij mięśnie brzucha i unieś kolana w kierunku klatki piersiowej, przybliżając je jak najbardziej do łokci. Powoli opuść nogi z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę razy.",
+    "ko": "턱걸이 바에 팔을 완전히 펴 매달립니다. 무릎을 90도 각도로 구부립니다. 복근을 긴장시키고 무릎을 가슴 쪽으로 올리되 팔꿈치에 최대한 가깝게 가져옵니다. 천천히 다리를 시작 자세로 내립니다.",
+    "fr": "Suspends-toi à une barre de traction, les bras complètement étendus et les genoux fléchis à un angle de 90 degrés. Gaine ta sangle abdominale et lève tes genoux vers ta poitrine, en les amenant aussi près que possible de tes coudes. Abaisse lentement tes jambes vers la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Hang from a pull-up bar with your arms fully extended and your knees bent at a 90-degree angle.",
+      "Engage your core and lift your knees towards your chest, bringing them as close to your elbows as possible.",
+      "Slowly lower your legs back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Appendere a una barra per trazioni con le braccia completamente distese e le ginocchia piegate con un angolo di 90 gradi.",
+      "Coinvolgi il tuo core e solleva le ginocchia verso il petto, portandole il più vicino possibile ai gomiti.",
+      "Abbassa lentamente le gambe fino alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Kollarınız tamamen uzatılmış ve dizleriniz 90 derecelik bir açıyla bükülmüş haldeyken barfiks barına asın.",
+      "Merkez bölgenizi devreye sokun ve dizlerinizi göğsünüze doğru kaldırın, onları mümkün olduğunca dirseklerinize yaklaştırın.",
+      "Bacaklarınızı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Cuélgate de una barra de dominadas con los brazos completamente extendidos y las rodillas flexionadas formando un ángulo de 90 grados.",
+      "Activa el core y levanta las rodillas hacia el pecho, acercándolas lo más posible a los codos.",
+      "Baja lentamente las piernas de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Повисните на перекладине, полностью выпрямив руки и согнув колени под углом 90 градусов.",
+      "Напрягите корпус и поднимите колени к груди, приближая их как можно ближе к локтям.",
+      "Медленно опустите ноги обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "悬挂在引体向上杆上，双臂完全伸展，膝盖弯曲成 90 度角。",
+      "收紧核心并将膝盖抬向胸部，尽可能靠近肘部。",
+      "慢慢地将双腿放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपनी बाहों को पूरी तरह फैलाकर और अपने घुटनों को 90 डिग्री के कोण पर मोड़कर पुल-अप बार से लटकें।",
+      "अपने कोर को संलग्न करें और अपने घुटनों को अपनी छाती की ओर उठाएं, उन्हें जितना संभव हो सके अपनी कोहनी के करीब लाएं।",
+      "धीरे-धीरे अपने पैरों को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Zwiśnij na drążku do podciągania z rękami w pełni wyprostowanymi i kolanami ugiętymi pod kątem 90 stopni.",
+      "Napnij mięśnie brzucha i unieś kolana w kierunku klatki piersiowej, przybliżając je jak najbardziej do łokci.",
+      "Powoli opuść nogi z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "턱걸이 바에 팔을 완전히 펴 매달립니다.",
+      "무릎을 90도 각도로 구부립니다.",
+      "복근을 긴장시키고 무릎을 가슴 쪽으로 올리되 팔꿈치에 최대한 가깝게 가져옵니다.",
+      "천천히 다리를 시작 자세로 내립니다."
+    ],
+    "fr": [
+      "Suspends-toi à une barre de traction, les bras complètement étendus et les genoux fléchis à un angle de 90 degrés.",
+      "Gaine ta sangle abdominale et lève tes genoux vers ta poitrine, en les amenant aussi près que possible de tes coudes.",
+      "Abaisse lentement tes jambes vers la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "back"
+  ],
+  "target": "abs",
+  "image": "images/2355-uWpxD4v.jpg",
+  "gif_url": "videos/2355-uWpxD4v.gif",
+  "media_id": "uWpxD4v",
+  "created_at": "2026-03-18T12:31:32.855118+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "back",
+    "slug": "back",
+    "count": 203,
+    "url": "api/v1/by-category/back.json"
+  },
+  {
+    "name": "cardio",
+    "slug": "cardio",
+    "count": 29,
+    "url": "api/v1/by-category/cardio.json"
+  },
+  {
+    "name": "chest",
+    "slug": "chest",
+    "count": 163,
+    "url": "api/v1/by-category/chest.json"
+  },
+  {
+    "name": "lower arms",
+    "slug": "lower-arms",
+    "count": 37,
+    "url": "api/v1/by-category/lower-arms.json"
+  },
+  {
+    "name": "lower legs",
+    "slug": "lower-legs",
+    "count": 59,
+    "url": "api/v1/by-category/lower-legs.json"
+  },
+  {
+    "name": "neck",
+    "slug": "neck",
+    "count": 2,
+    "url": "api/v1/by-category/neck.json"
+  },
+  {
+    "name": "shoulders",
+    "slug": "shoulders",
+    "count": 143,
+    "url": "api/v1/by-category/shoulders.json"
+  },
+  {
+    "name": "upper arms",
+    "slug": "upper-arms",
+    "count": 292,
+    "url": "api/v1/by-category/upper-arms.json"
+  },
+  {
+    "name": "upper legs",
+    "slug": "upper-legs",
+    "count": 227,
+    "url": "api/v1/by-category/upper-legs.json"
+  },
+  {
+    "name": "waist",
+    "slug": "waist",
+    "count": 169,
+    "url": "api/v1/by-category/waist.json"
+  }
+]

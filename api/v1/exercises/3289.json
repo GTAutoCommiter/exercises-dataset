@@ -1,0 +1,102 @@
+{
+  "id": "3289",
+  "name": "impossible dips",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Position yourself between two parallel bars with your arms fully extended and your body suspended in the air. Bend your knees and cross your ankles. Lower your body by bending your elbows until your upper arms are parallel to the ground. Pause for a moment, then push yourself back up to the starting position by straightening your arms. Repeat for the desired number of repetitions.",
+    "it": "Posizionati tra due barre parallele con le braccia completamente tese e il corpo sospeso in aria. Piega le ginocchia e incrocia le caviglie. Abbassa il corpo piegando i gomiti finché la parte superiore delle braccia non è parallela al suolo. Fai una pausa per un momento, quindi ritorna alla posizione di partenza raddrizzando le braccia. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Kollarınız tamamen uzatılmış ve vücudunuz havada asılı kalacak şekilde kendinizi iki paralel çubuğun arasına konumlandırın. Dizlerinizi bükün ve ayak bileklerinizi çaprazlayın. Üst kollarınız yere paralel oluncaya kadar dirseklerinizi bükerek vücudunuzu indirin. Bir an duraklayın, ardından kollarınızı düzleştirerek kendinizi başlangıç ​​pozisyonuna doğru itin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Colócate entre dos barras paralelas con los brazos completamente extendidos y el cuerpo suspendido en el aire. Flexiona las rodillas y cruza los tobillos. Baja el cuerpo flexionando los codos hasta que los brazos queden paralelos al suelo. Haz una pausa breve, luego empújate de nuevo hacia arriba a la posición inicial estirando los brazos. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте между двумя параллельными брусьями, полностью вытянув руки и подвешивая тело в воздухе. Согните колени и скрестите лодыжки. Опустите тело, сгибая локти, пока плечи не станут параллельны земле. Сделайте паузу на мгновение, затем вернитесь в исходное положение, выпрямляя руки. Повторите необходимое количество повторений.",
+    "zh": "将自己定位在两个双杠之间，双臂完全伸展，身体悬浮在空中。 弯曲膝盖并交叉脚踝。 弯曲肘部降低身体，直到上臂与地面平行。 暂停片刻，然后伸直手臂，将自己推回起始位置。 重复所需的重复次数。",
+    "hi": "अपनी भुजाओं को पूरी तरह फैलाकर और अपने शरीर को हवा में लटकाकर अपने आप को दो समानांतर पट्टियों के बीच रखें। अपने घुटनों को मोड़ें और अपनी एड़ियों को क्रॉस करें। अपनी कोहनियों को मोड़कर अपने शरीर को तब तक नीचे लाएँ जब तक कि आपकी ऊपरी भुजाएँ ज़मीन के समानांतर न हो जाएँ। एक पल के लिए रुकें, फिर अपनी बाहों को सीधा करके खुद को शुरुआती स्थिति में वापस धकेलें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Ustaw się między dwoma równoległymi poręczami, ramiona w pełni wyprostowane, a ciało uniesione w powietrzu. Zegnij kolana i skrzyżuj kostki. Opuść ciało, zginając łokcie, aż górna część ramion będzie równoległa do podłogi. Zatrzymaj się na chwilę, a następnie odepchnij się z powrotem do pozycji wyjściowej, prostując ramiona. Powtórz zalecaną liczbę razy.",
+    "ko": "두 개의 평행봉 사이에 위치하고 팔을 완전히 펼친 후 몸을 공중에 떠 있게 합니다. 무릎을 구부리고 발목을 교차시킵니다. 팔꿈치를 구부려 상체를 내립니다. 팔뚝이 지면과 평행할 때까지 내립니다. 잠시 멈춘 후 팔을 펴서 시작 위치로 밀어 올립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Positionne-toi entre deux barres parallèles, les bras complètement tendus et le corps suspendu dans les airs. Fléchis tes genoux et croise tes chevilles. Abaisse ton corps en fléchissant tes coudes jusqu'à ce que le haut de tes bras soit parallèle au sol. Marque une pause, puis repousse-toi vers le haut jusqu'à la position de départ en tendant tes bras. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Position yourself between two parallel bars with your arms fully extended and your body suspended in the air.",
+      "Bend your knees and cross your ankles.",
+      "Lower your body by bending your elbows until your upper arms are parallel to the ground.",
+      "Pause for a moment, then push yourself back up to the starting position by straightening your arms.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Posizionati tra due barre parallele con le braccia completamente tese e il corpo sospeso in aria.",
+      "Piega le ginocchia e incrocia le caviglie.",
+      "Abbassa il corpo piegando i gomiti finché la parte superiore delle braccia non è parallela al suolo.",
+      "Fai una pausa per un momento, quindi ritorna alla posizione di partenza raddrizzando le braccia.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Kollarınız tamamen uzatılmış ve vücudunuz havada asılı kalacak şekilde kendinizi iki paralel çubuğun arasına konumlandırın.",
+      "Dizlerinizi bükün ve ayak bileklerinizi çaprazlayın.",
+      "Üst kollarınız yere paralel oluncaya kadar dirseklerinizi bükerek vücudunuzu indirin.",
+      "Bir an duraklayın, ardından kollarınızı düzleştirerek kendinizi başlangıç ​​pozisyonuna doğru itin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Colócate entre dos barras paralelas con los brazos completamente extendidos y el cuerpo suspendido en el aire.",
+      "Flexiona las rodillas y cruza los tobillos.",
+      "Baja el cuerpo flexionando los codos hasta que los brazos queden paralelos al suelo.",
+      "Haz una pausa breve, luego empújate de nuevo hacia arriba a la posición inicial estirando los brazos.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте между двумя параллельными брусьями, полностью вытянув руки и подвешивая тело в воздухе.",
+      "Согните колени и скрестите лодыжки.",
+      "Опустите тело, сгибая локти, пока плечи не станут параллельны земле.",
+      "Сделайте паузу на мгновение, затем вернитесь в исходное положение, выпрямляя руки.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将自己定位在两个双杠之间，双臂完全伸展，身体悬浮在空中。",
+      "弯曲膝盖并交叉脚踝。",
+      "弯曲肘部降低身体，直到上臂与地面平行。",
+      "暂停片刻，然后伸直手臂，将自己推回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपनी भुजाओं को पूरी तरह फैलाकर और अपने शरीर को हवा में लटकाकर अपने आप को दो समानांतर पट्टियों के बीच रखें।",
+      "अपने घुटनों को मोड़ें और अपनी एड़ियों को क्रॉस करें।",
+      "अपनी कोहनियों को मोड़कर अपने शरीर को तब तक नीचे लाएँ जब तक कि आपकी ऊपरी भुजाएँ ज़मीन के समानांतर न हो जाएँ।",
+      "एक पल के लिए रुकें, फिर अपनी बाहों को सीधा करके खुद को शुरुआती स्थिति में वापस धकेलें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Ustaw się między dwoma równoległymi poręczami, ramiona w pełni wyprostowane, a ciało uniesione w powietrzu.",
+      "Zegnij kolana i skrzyżuj kostki.",
+      "Opuść ciało, zginając łokcie, aż górna część ramion będzie równoległa do podłogi.",
+      "Zatrzymaj się na chwilę, a następnie odepchnij się z powrotem do pozycji wyjściowej, prostując ramiona.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "두 개의 평행봉 사이에 위치하고 팔을 완전히 펼친 후 몸을 공중에 떠 있게 합니다.",
+      "무릎을 구부리고 발목을 교차시킵니다.",
+      "팔꿈치를 구부려 상체를 내립니다.",
+      "팔뚝이 지면과 평행할 때까지 내립니다.",
+      "잠시 멈춘 후 팔을 펴서 시작 위치로 밀어 올립니다."
+    ],
+    "fr": [
+      "Positionne-toi entre deux barres parallèles, les bras complètement tendus et le corps suspendu dans les airs.",
+      "Fléchis tes genoux et croise tes chevilles.",
+      "Abaisse ton corps en fléchissant tes coudes jusqu'à ce que le haut de tes bras soit parallèle au sol.",
+      "Marque une pause, puis repousse-toi vers le haut jusqu'à la position de départ en tendant tes bras.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "chest",
+  "secondary_muscles": [
+    "chest",
+    "shoulders"
+  ],
+  "target": "triceps",
+  "image": "images/3289-05Cf2v8.jpg",
+  "gif_url": "videos/3289-05Cf2v8.gif",
+  "media_id": "05Cf2v8",
+  "created_at": "2026-03-18T12:31:32.88437+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

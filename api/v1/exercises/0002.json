@@ -1,0 +1,101 @@
+{
+  "id": "0002",
+  "name": "45° side bend",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and your arms extended straight down by your sides. Keeping your back straight and your core engaged, slowly bend your torso to one side, lowering your hand towards your knee. Pause for a moment at the bottom, then slowly return to the starting position. Repeat on the other side. Continue alternating sides for the desired number of repetitions.",
+    "it": "Stai con i piedi alla larghezza delle spalle e le braccia distese lungo i fianchi. Mantenendo la schiena dritta e il core impegnato, piega lentamente il busto da un lato, abbassando la mano verso il ginocchio. Fermati per un momento in basso, quindi torna lentamente alla posizione di partenza. Ripeti dall'altra parte. Continua ad alternare i lati per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız omuz genişliğinde açık ve kollarınız yanlarınızda düz bir şekilde uzatılmış şekilde ayakta durun. Sırtınızı düz ve merkez bölgenizi meşgul tutarak gövdenizi yavaşça bir tarafa doğru eğin ve elinizi dizinize doğru indirin. Altta bir an duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün. Diğer tarafta tekrarlayın. İstenilen tekrar sayısı için alternatif taraflara devam edin.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y los brazos extendidos hacia abajo a los lados. Manteniendo la espalda recta y el core activado, flexiona lentamente el torso hacia un lado, bajando la mano hacia la rodilla. Haz una pausa por un momento en la parte inferior, luego regresa lentamente a la posición inicial. Repite del otro lado. Continúa alternando lados durante el número de repeticiones deseado.",
+    "ru": "Встаньте, поставив ноги на ширине плеч и вытянув руки по бокам. Удерживая спину прямой и напрягая корпус, медленно наклоните туловище в сторону, опуская руку к колену. Задержитесь на мгновение внизу, затем медленно вернитесь в исходное положение. Повторите с другой стороны. Продолжайте чередовать стороны желаемое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，双臂在身体两侧笔直向下伸展。 保持背部挺直，核心肌群参与，慢慢将躯干向一侧弯曲，将手向膝盖方向放低。 在底部停顿片刻，然后慢慢回到起始位置。 在另一侧重复。 继续交替进行所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और आपकी भुजाएं आपके बगल में सीधी नीचे की ओर फैली हुई हों। अपनी पीठ को सीधा रखते हुए और अपने कोर को व्यस्त रखते हुए, धीरे-धीरे अपने धड़ को एक तरफ झुकाएं, अपने हाथ को अपने घुटने की ओर नीचे करें। नीचे एक पल के लिए रुकें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं। दूसरी तरफ दोहराएं। दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।",
+    "pl": "Stań w rozkroku na szerokość barków, ramiona wyprostowane wzdłuż tułowia. Utrzymując proste plecy i napięty brzuch, powoli pochyl tułów w bok, opuszczając dłoń w kierunku kolana. Zatrzymaj się na chwilę w dolnej pozycji, a następnie powoli wróć do pozycji wyjściowej. Powtórz po drugiej stronie. Kontynuuj naprzemienne wykonywanie ruchu na obie strony przez zalecaną liczbę powtórzeń.",
+    "ko": "발을 어깨 넓이로 벌리고 팔을 양쪽에 내려 펼칩니다. 등을 곧게 펴고 복근을 긴장시킨 상태에서 천천히 몸통을 한쪽으로 구부려 손을 무릎 쪽으로 내립니다. 맨 아래에서 잠깐 멈췄다가 천천히 시작 자세로 돌아옵니다. 반대쪽에서 반복합니다. 원하는 반복 횟수만큼 좌우를 번갈아가며 계속합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et les bras tendus vers le bas le long du corps. En gardant le dos droit et ta sangle abdominale gainée, penche lentement ton torse sur un côté, en abaissant ta main vers ton genou. Marque une pause en bas, puis reviens lentement à la position de départ. Répète de l'autre côté. Continue à alterner les côtés pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and your arms extended straight down by your sides.",
+      "Keeping your back straight and your core engaged, slowly bend your torso to one side, lowering your hand towards your knee.",
+      "Pause for a moment at the bottom, then slowly return to the starting position.",
+      "Repeat on the other side.",
+      "Continue alternating sides for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle e le braccia distese lungo i fianchi.",
+      "Mantenendo la schiena dritta e il core impegnato, piega lentamente il busto da un lato, abbassando la mano verso il ginocchio.",
+      "Fermati per un momento in basso, quindi torna lentamente alla posizione di partenza.",
+      "Ripeti dall'altra parte.",
+      "Continua ad alternare i lati per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık ve kollarınız yanlarınızda düz bir şekilde uzatılmış şekilde ayakta durun.",
+      "Sırtınızı düz ve merkez bölgenizi meşgul tutarak gövdenizi yavaşça bir tarafa doğru eğin ve elinizi dizinize doğru indirin.",
+      "Altta bir an duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün.",
+      "Diğer tarafta tekrarlayın.",
+      "İstenilen tekrar sayısı için alternatif taraflara devam edin."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y los brazos extendidos hacia abajo a los lados.",
+      "Manteniendo la espalda recta y el core activado, flexiona lentamente el torso hacia un lado, bajando la mano hacia la rodilla.",
+      "Haz una pausa por un momento en la parte inferior, luego regresa lentamente a la posición inicial.",
+      "Repite del otro lado.",
+      "Continúa alternando lados durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, поставив ноги на ширине плеч и вытянув руки по бокам.",
+      "Удерживая спину прямой и напрягая корпус, медленно наклоните туловище в сторону, опуская руку к колену.",
+      "Задержитесь на мгновение внизу, затем медленно вернитесь в исходное положение.",
+      "Повторите с другой стороны.",
+      "Продолжайте чередовать стороны желаемое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，双臂在身体两侧笔直向下伸展。",
+      "保持背部挺直，核心肌群参与，慢慢将躯干向一侧弯曲，将手向膝盖方向放低。",
+      "在底部停顿片刻，然后慢慢回到起始位置。",
+      "在另一侧重复。",
+      "继续交替进行所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और आपकी भुजाएं आपके बगल में सीधी नीचे की ओर फैली हुई हों।",
+      "अपनी पीठ को सीधा रखते हुए और अपने कोर को व्यस्त रखते हुए, धीरे-धीरे अपने धड़ को एक तरफ झुकाएं, अपने हाथ को अपने घुटने की ओर नीचे करें।",
+      "नीचे एक पल के लिए रुकें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं।",
+      "दूसरी तरफ दोहराएं।",
+      "दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków, ramiona wyprostowane wzdłuż tułowia.",
+      "Utrzymując proste plecy i napięty brzuch, powoli pochyl tułów w bok, opuszczając dłoń w kierunku kolana.",
+      "Zatrzymaj się na chwilę w dolnej pozycji, a następnie powoli wróć do pozycji wyjściowej.",
+      "Powtórz po drugiej stronie.",
+      "Kontynuuj naprzemienne wykonywanie ruchu na obie strony przez zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 넓이로 벌리고 팔을 양쪽에 내려 펼칩니다.",
+      "등을 곧게 펴고 복근을 긴장시킨 상태에서 천천히 몸통을 한쪽으로 구부려 손을 무릎 쪽으로 내립니다.",
+      "맨 아래에서 잠깐 멈췄다가 천천히 시작 자세로 돌아옵니다.",
+      "반대쪽에서 반복합니다.",
+      "원하는 반복 횟수만큼 좌우를 번갈아가며 계속합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et les bras tendus vers le bas le long du corps.",
+      "En gardant le dos droit et ta sangle abdominale gainée, penche lentement ton torse sur un côté, en abaissant ta main vers ton genou.",
+      "Marque une pause en bas, puis reviens lentement à la position de départ.",
+      "Répète de l'autre côté.",
+      "Continue à alterner les côtés pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "obliques",
+  "secondary_muscles": [
+    "obliques"
+  ],
+  "target": "abs",
+  "image": "images/0002-Hy9D21L.jpg",
+  "gif_url": "videos/0002-Hy9D21L.gif",
+  "media_id": "Hy9D21L",
+  "created_at": "2026-03-18T12:31:32.854953+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

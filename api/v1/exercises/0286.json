@@ -1,0 +1,92 @@
+{
+  "id": "0286",
+  "name": "dumbbell alternate side press",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand at shoulder height. Press one dumbbell overhead while keeping the other dumbbell at shoulder height. Lower the pressed dumbbell back to shoulder height while pressing the other dumbbell overhead. Continue alternating sides for the desired number of repetitions.",
+    "it": "Stai con i piedi a larghezza delle spalle, tenendo un manubrio in ogni mano all'altezza delle spalle. Premi un manubrio sopra la testa mantenendo l'altro all'altezza delle spalle. Abbassa il manubrio premuto all'altezza delle spalle mentre premi l'altro manubrio sopra la testa. Continua ad alternare i lati per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız omuz genişliğinde açık, her iki elinizde de omuz hizasında birer dambıl tutarak ayakta durun. Bir dambılı başınızın üstüne bastırırken diğer dambılı omuz hizasında tutun. Diğer dambılı başınızın üzerine bastırırken, bastığınız dambılı tekrar omuz yüksekliğine indirin. İstenilen tekrar sayısı için alternatif taraflara devam edin.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros, sujetando una mancuerna en cada mano a la altura de los hombros. Empuja una mancuerna por encima de la cabeza mientras mantienes la otra mancuerna a la altura del hombro. Baja la mancuerna empujada de vuelta a la altura del hombro mientras empujas la otra mancuerna por encima de la cabeza. Continúa alternando lados durante el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, держа в каждой руке по гантели на уровне плеч. Выжмите одну гантель над головой, удерживая другую на уровне плеч. Опустите отжатую гантель обратно на высоту плеч, одновременно выжимая другую гантель над головой. Продолжайте чередовать стороны желаемое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，双手各握一个哑铃，与肩同高。 将一个哑铃推过头顶，同时将另一个哑铃保持在与肩同高的位置。 将按下的哑铃放回肩部高度，同时将另一个哑铃压过头顶。 继续交替进行所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, प्रत्येक हाथ में कंधे की ऊंचाई पर डंबल पकड़ें। एक डम्बल को ऊपर की ओर दबाएँ जबकि दूसरे डम्बल को कंधे की ऊँचाई पर रखें। दूसरे डम्बल को ऊपर की ओर दबाते हुए दबाए गए डम्बल को वापस कंधे की ऊँचाई तक नीचे लाएँ। दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।",
+    "pl": "Stań, ustawiając stopy na szerokość barków, trzymając hantlę w każdej dłoni na wysokości barków. Wyciśnij jedną hantlę nad głowę, trzymając drugą hantlę na wysokości barku. Opuść wyciśniętą hantlę z powrotem na wysokość barku, jednocześnie wyciskając drugą hantlę nad głowę. Kontynuuj zmianę stron przez zalecaną liczbę powtórzeń.",
+    "ko": "발을 어깨너비로 벌리고 선 후 양손에 덤벨을 어깨 높이에서 들어 올립니다. 한쪽 덤벨을 머리 위로 올리며 다른 쪽 덤벨은 어깨 높이에 유지합니다. 올려진 덤벨을 다시 어깨 높이로 내리면서 반대쪽 덤벨을 머리 위로 올립니다. 원하는 반복 횟수만큼 양쪽을 번갈아 계속합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un haltère dans chaque main à hauteur d'épaule. Développe un haltère au-dessus de ta tête tout en gardant l'autre haltère à hauteur des épaules. Abaisse l'haltère pressé à hauteur des épaules tout en pressant l'autre haltère au-dessus de la tête. Continue à alterner les côtés pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart, holding a dumbbell in each hand at shoulder height.",
+      "Press one dumbbell overhead while keeping the other dumbbell at shoulder height.",
+      "Lower the pressed dumbbell back to shoulder height while pressing the other dumbbell overhead.",
+      "Continue alternating sides for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi a larghezza delle spalle, tenendo un manubrio in ogni mano all'altezza delle spalle.",
+      "Premi un manubrio sopra la testa mantenendo l'altro all'altezza delle spalle.",
+      "Abbassa il manubrio premuto all'altezza delle spalle mentre premi l'altro manubrio sopra la testa.",
+      "Continua ad alternare i lati per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık, her iki elinizde de omuz hizasında birer dambıl tutarak ayakta durun.",
+      "Bir dambılı başınızın üstüne bastırırken diğer dambılı omuz hizasında tutun.",
+      "Diğer dambılı başınızın üzerine bastırırken, bastığınız dambılı tekrar omuz yüksekliğine indirin.",
+      "İstenilen tekrar sayısı için alternatif taraflara devam edin."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros, sujetando una mancuerna en cada mano a la altura de los hombros.",
+      "Empuja una mancuerna por encima de la cabeza mientras mantienes la otra mancuerna a la altura del hombro.",
+      "Baja la mancuerna empujada de vuelta a la altura del hombro mientras empujas la otra mancuerna por encima de la cabeza.",
+      "Continúa alternando lados durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, держа в каждой руке по гантели на уровне плеч.",
+      "Выжмите одну гантель над головой, удерживая другую на уровне плеч.",
+      "Опустите отжатую гантель обратно на высоту плеч, одновременно выжимая другую гантель над головой.",
+      "Продолжайте чередовать стороны желаемое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，双手各握一个哑铃，与肩同高。",
+      "将一个哑铃推过头顶，同时将另一个哑铃保持在与肩同高的位置。",
+      "将按下的哑铃放回肩部高度，同时将另一个哑铃压过头顶。",
+      "继续交替进行所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, प्रत्येक हाथ में कंधे की ऊंचाई पर डंबल पकड़ें।",
+      "एक डम्बल को ऊपर की ओर दबाएँ जबकि दूसरे डम्बल को कंधे की ऊँचाई पर रखें।",
+      "दूसरे डम्बल को ऊपर की ओर दबाते हुए दबाए गए डम्बल को वापस कंधे की ऊँचाई तक नीचे लाएँ।",
+      "दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।"
+    ],
+    "pl": [
+      "Stań, ustawiając stopy na szerokość barków, trzymając hantlę w każdej dłoni na wysokości barków.",
+      "Wyciśnij jedną hantlę nad głowę, trzymając drugą hantlę na wysokości barku.",
+      "Opuść wyciśniętą hantlę z powrotem na wysokość barku, jednocześnie wyciskając drugą hantlę nad głowę.",
+      "Kontynuuj zmianę stron przez zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨너비로 벌리고 선 후 양손에 덤벨을 어깨 높이에서 들어 올립니다.",
+      "한쪽 덤벨을 머리 위로 올리며 다른 쪽 덤벨은 어깨 높이에 유지합니다.",
+      "올려진 덤벨을 다시 어깨 높이로 내리면서 반대쪽 덤벨을 머리 위로 올립니다.",
+      "원하는 반복 횟수만큼 양쪽을 번갈아 계속합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un haltère dans chaque main à hauteur d'épaule.",
+      "Développe un haltère au-dessus de ta tête tout en gardant l'autre haltère à hauteur des épaules.",
+      "Abaisse l'haltère pressé à hauteur des épaules tout en pressant l'autre haltère au-dessus de la tête.",
+      "Continue à alterner les côtés pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "core"
+  ],
+  "target": "delts",
+  "image": "images/0286-izMnLqz.jpg",
+  "gif_url": "videos/0286-izMnLqz.gif",
+  "media_id": "izMnLqz",
+  "created_at": "2026-03-18T12:31:32.877583+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

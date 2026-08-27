@@ -1,0 +1,102 @@
+{
+  "id": "0161",
+  "name": "cable forward raise",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and your knees slightly bent. Hold the cable handle with an overhand grip, palms facing down, and your arms fully extended in front of you. Keeping your arms straight, raise the cable handle up to shoulder level. Pause for a moment at the top, then slowly lower the cable handle back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stai in piedi con i piedi a larghezza delle spalle e le ginocchia leggermente piegate. Tieni la maniglia del cavo con una presa sopra la mano, palmi rivolti verso il basso e le braccia completamente distese davanti a te. Tenendo le braccia dritte, solleva la maniglia del cavo fino all'altezza delle spalle. Fermati un attimo in cima, poi abbassa lentamente la maniglia del cavo fino alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız omuz genişliğinde açık ve dizleriniz hafifçe bükülü şekilde ayakta durun. Kablo tutamağını üstten kavrayarak, avuçlarınız aşağıya bakacak şekilde ve kollarınız tamamen önünüzde uzatılmış şekilde tutun. Kollarınızı düz tutarak kablo tutamağını omuz hizasına kadar kaldırın. Tepede bir an duraklayın, ardından kablo tutamağını yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y las rodillas ligeramente flexionadas. Sujeta la agarradera del cable con agarre prono, palmas hacia abajo, y los brazos completamente extendidos frente a ti. Manteniendo los brazos rectos, levanta la agarradera del cable hasta la altura de los hombros. Haz una pausa breve en la parte más alta, luego baja lentamente la agarradera del cable de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, поставив ноги на ширине плеч и слегка согнув колени. Держите рукоятку троса хватом сверху, ладонями вниз, а руки полностью вытянуты перед собой. Держа руки прямыми, поднимите рукоятку троса до уровня плеч. Задержитесь на мгновение в верхней точке, затем медленно опустите рукоятку троса обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，膝盖稍微弯曲。 正手握住电缆手柄，手掌朝下，双臂在身前完全伸展。 保持手臂伸直，将电缆手柄抬高至肩部水平。 在顶部暂停片刻，然后慢慢将缆索手柄放回起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और आपके घुटने थोड़े मुड़े हुए हों। केबल के हैंडल को ओवरहैंड ग्रिप से पकड़ें, हथेलियाँ नीचे की ओर हों और आपकी भुजाएँ आपके सामने पूरी तरह फैली हुई हों। अपनी भुजाओं को सीधा रखते हुए, केबल के हैंडल को कंधे के स्तर तक उठाएँ। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे केबल हैंडल को वापस प्रारंभिक स्थिति में नीचे लाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań w rozkroku na szerokość barków, kolana lekko ugięte. Trzymaj uchwyt wyciągu nachwytem, dłońmi skierowanymi w dół, ramiona całkowicie wyprostowane przed sobą. Utrzymując proste ramiona, unieś uchwyt do wysokości barków. Zatrzymaj się na moment na górze, a następnie powoli opuść uchwyt do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "발을 어깨 너비로 벌리고 무릎을 약간 구부립니다. 오버핸드 그립(손바닥이 아래로)으로 케이블 핸들을 잡고 팔을 앞으로 완전히 펼칩니다. 팔을 곧게 유지하면서 케이블 핸들을 어깨 높이까지 올립니다. 최상단에서 잠깐 멈추었다가 케이블 핸들을 천천히 시작 위치로 내립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et les genoux légèrement fléchis. Tiens la poignée de câble en prise pronation, les paumes tournées vers le bas et les bras complètement étendus devant toi. En gardant les bras tendus, lève la poignée du câble à hauteur d'épaule. Marque une pause en haut, puis abaisse lentement la poignée du câble pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and your knees slightly bent.",
+      "Hold the cable handle with an overhand grip, palms facing down, and your arms fully extended in front of you.",
+      "Keeping your arms straight, raise the cable handle up to shoulder level.",
+      "Pause for a moment at the top, then slowly lower the cable handle back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai in piedi con i piedi a larghezza delle spalle e le ginocchia leggermente piegate.",
+      "Tieni la maniglia del cavo con una presa sopra la mano, palmi rivolti verso il basso e le braccia completamente distese davanti a te.",
+      "Tenendo le braccia dritte, solleva la maniglia del cavo fino all'altezza delle spalle.",
+      "Fermati un attimo in cima, poi abbassa lentamente la maniglia del cavo fino alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık ve dizleriniz hafifçe bükülü şekilde ayakta durun.",
+      "Kablo tutamağını üstten kavrayarak, avuçlarınız aşağıya bakacak şekilde ve kollarınız tamamen önünüzde uzatılmış şekilde tutun.",
+      "Kollarınızı düz tutarak kablo tutamağını omuz hizasına kadar kaldırın.",
+      "Tepede bir an duraklayın, ardından kablo tutamağını yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y las rodillas ligeramente flexionadas.",
+      "Sujeta la agarradera del cable con agarre prono, palmas hacia abajo, y los brazos completamente extendidos frente a ti.",
+      "Manteniendo los brazos rectos, levanta la agarradera del cable hasta la altura de los hombros.",
+      "Haz una pausa breve en la parte más alta, luego baja lentamente la agarradera del cable de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, поставив ноги на ширине плеч и слегка согнув колени.",
+      "Держите рукоятку троса хватом сверху, ладонями вниз, а руки полностью вытянуты перед собой.",
+      "Держа руки прямыми, поднимите рукоятку троса до уровня плеч.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите рукоятку троса обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，膝盖稍微弯曲。",
+      "正手握住电缆手柄，手掌朝下，双臂在身前完全伸展。",
+      "保持手臂伸直，将电缆手柄抬高至肩部水平。",
+      "在顶部暂停片刻，然后慢慢将缆索手柄放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और आपके घुटने थोड़े मुड़े हुए हों।",
+      "केबल के हैंडल को ओवरहैंड ग्रिप से पकड़ें, हथेलियाँ नीचे की ओर हों और आपकी भुजाएँ आपके सामने पूरी तरह फैली हुई हों।",
+      "अपनी भुजाओं को सीधा रखते हुए, केबल के हैंडल को कंधे के स्तर तक उठाएँ।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे केबल हैंडल को वापस प्रारंभिक स्थिति में नीचे लाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków, kolana lekko ugięte.",
+      "Trzymaj uchwyt wyciągu nachwytem, dłońmi skierowanymi w dół, ramiona całkowicie wyprostowane przed sobą.",
+      "Utrzymując proste ramiona, unieś uchwyt do wysokości barków.",
+      "Zatrzymaj się na moment na górze, a następnie powoli opuść uchwyt do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 너비로 벌리고 무릎을 약간 구부립니다.",
+      "오버핸드 그립(손바닥이 아래로)으로 케이블 핸들을 잡고 팔을 앞으로 완전히 펼칩니다.",
+      "팔을 곧게 유지하면서 케이블 핸들을 어깨 높이까지 올립니다.",
+      "최상단에서 잠깐 멈추었다가 케이블 핸들을 천천히 시작 위치로 내립니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et les genoux légèrement fléchis.",
+      "Tiens la poignée de câble en prise pronation, les paumes tournées vers le bas et les bras complètement étendus devant toi.",
+      "En gardant les bras tendus, lève la poignée du câble à hauteur d'épaule.",
+      "Marque une pause en haut, puis abaisse lentement la poignée du câble pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "forearms"
+  ],
+  "target": "delts",
+  "image": "images/0161-hvHhCv8.jpg",
+  "gif_url": "videos/0161-hvHhCv8.gif",
+  "media_id": "hvHhCv8",
+  "created_at": "2026-03-18T12:31:32.874436+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

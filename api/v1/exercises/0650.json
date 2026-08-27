@@ -1,0 +1,101 @@
+{
+  "id": "0650",
+  "name": "pull-in (on stability ball)",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "stability ball",
+  "instructions": {
+    "en": "Start by sitting on the stability ball with your feet flat on the ground and your knees bent at a 90-degree angle. Place your hands on the sides of the stability ball for support. Engage your abs and slowly roll your hips forward, bringing your knees towards your chest. Pause for a moment at the top of the movement, then slowly extend your legs back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Inizia sedendoti sulla palla di stabilità con i piedi appoggiati a terra e le ginocchia piegate con un angolo di 90 gradi. Metti le mani sui lati della palla stabilizzante per supporto. Coinvolgi gli addominali e ruota lentamente i fianchi in avanti, portando le ginocchia verso il petto. Fai una pausa per un momento nella parte superiore del movimento, quindi estendi lentamente le gambe fino alla posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız yere düz basacak ve dizleriniz 90 derecelik bir açıyla bükülmüş olacak şekilde stabilite topunun üzerine oturarak başlayın. Destek için ellerinizi denge topunun yanlarına yerleştirin. Karın kaslarınızı devreye sokun ve kalçalarınızı yavaşça öne doğru yuvarlayarak dizlerinizi göğsünüze doğru getirin. Hareketin en üst noktasında bir an duraklayın, ardından bacaklarınızı yavaşça başlangıç ​​pozisyonuna geri uzatın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Comienza sentándote en el balón de estabilidad con los pies planos en el suelo y las rodillas flexionadas a un ángulo de 90 grados. Coloca las manos a los lados del balón de estabilidad para mayor apoyo. Activa el abdomen y rueda lentamente las caderas hacia adelante, llevando las rodillas hacia el pecho. Haz una pausa por un momento en la parte alta del movimiento y luego extiende lentamente las piernas de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Начните с того, что сядьте на мяч для стабилизации, поставив ступни на землю и согнув колени под углом 90 градусов. Положите руки по бокам мяча для устойчивости. Напрягите пресс и медленно поверните бедра вперед, подтягивая колени к груди. Сделайте паузу на мгновение в верхней точке движения, затем медленно вытяните ноги обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "首先坐在稳定球上，双脚平放在地面上，膝盖弯曲成 90 度角。 将双手放在稳定球的两侧以获得支撑。 收紧腹肌，慢慢向前滚动臀部，使膝盖靠近胸部。 在动作的最高点停顿片刻，然后慢慢将双腿伸展回起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को ज़मीन पर सपाट करके और अपने घुटनों को 90 डिग्री के कोण पर मोड़कर स्टेबिलिटी बॉल पर बैठकर शुरुआत करें। समर्थन के लिए अपने हाथों को स्टेबिलिटी बॉल के किनारों पर रखें। अपने पेट को संलग्न करें और धीरे-धीरे अपने कूल्हों को आगे की ओर घुमाएं, अपने घुटनों को अपनी छाती की ओर लाएं। गति के शीर्ष पर एक क्षण के लिए रुकें, फिर धीरे-धीरे अपने पैरों को प्रारंभिक स्थिति में वापस लाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Rozpocznij, siedząc na piłce stabilizacyjnej ze stopami płasko opartymi na podłodze i kolanami ugiętymi pod kątem 90 stopni. Oprzyj ręce po bokach piłki dla wsparcia. Napnij mięśnie brzucha i powoli przetocz biodra do przodu, przyciągając kolana do klatki piersiowej. Zatrzymaj się na chwilę na szczycie ruchu, a następnie powoli wyprostuj nogi z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę razy.",
+    "ko": "안정성 공 위에 앉아 발을 땅에 대고 무릎을 90도로 구부린 자세에서 시작합니다. 지지를 위해 손을 안정성 공의 옆쪽에 놓습니다. 복근을 조여 천천히 엉덩이를 앞으로 굴려 무릎을 가슴 쪽으로 가져옵니다. 움직임의 맨 위에서 잠깐 멈춘 후 천천히 다리를 처음 자세로 펼칩니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Commence assis sur le ballon de stabilité, les pieds à plat sur le sol et les genoux fléchis à un angle de 90 degrés. Place tes mains sur les côtés du ballon de stabilité pour te soutenir. Gaine tes abdominaux et enroule lentement tes hanches vers l'avant, en amenant tes genoux vers ta poitrine. Marque une pause en haut du mouvement, puis étends lentement tes jambes pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start by sitting on the stability ball with your feet flat on the ground and your knees bent at a 90-degree angle.",
+      "Place your hands on the sides of the stability ball for support.",
+      "Engage your abs and slowly roll your hips forward, bringing your knees towards your chest.",
+      "Pause for a moment at the top of the movement, then slowly extend your legs back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia sedendoti sulla palla di stabilità con i piedi appoggiati a terra e le ginocchia piegate con un angolo di 90 gradi.",
+      "Metti le mani sui lati della palla stabilizzante per supporto.",
+      "Coinvolgi gli addominali e ruota lentamente i fianchi in avanti, portando le ginocchia verso il petto.",
+      "Fai una pausa per un momento nella parte superiore del movimento, quindi estendi lentamente le gambe fino alla posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız yere düz basacak ve dizleriniz 90 derecelik bir açıyla bükülmüş olacak şekilde stabilite topunun üzerine oturarak başlayın.",
+      "Destek için ellerinizi denge topunun yanlarına yerleştirin.",
+      "Karın kaslarınızı devreye sokun ve kalçalarınızı yavaşça öne doğru yuvarlayarak dizlerinizi göğsünüze doğru getirin.",
+      "Hareketin en üst noktasında bir an duraklayın, ardından bacaklarınızı yavaşça başlangıç ​​pozisyonuna geri uzatın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Comienza sentándote en el balón de estabilidad con los pies planos en el suelo y las rodillas flexionadas a un ángulo de 90 grados.",
+      "Coloca las manos a los lados del balón de estabilidad para mayor apoyo.",
+      "Activa el abdomen y rueda lentamente las caderas hacia adelante, llevando las rodillas hacia el pecho.",
+      "Haz una pausa por un momento en la parte alta del movimiento y luego extiende lentamente las piernas de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с того, что сядьте на мяч для стабилизации, поставив ступни на землю и согнув колени под углом 90 градусов.",
+      "Положите руки по бокам мяча для устойчивости.",
+      "Напрягите пресс и медленно поверните бедра вперед, подтягивая колени к груди.",
+      "Сделайте паузу на мгновение в верхней точке движения, затем медленно вытяните ноги обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "首先坐在稳定球上，双脚平放在地面上，膝盖弯曲成 90 度角。",
+      "将双手放在稳定球的两侧以获得支撑。",
+      "收紧腹肌，慢慢向前滚动臀部，使膝盖靠近胸部。",
+      "在动作的最高点停顿片刻，然后慢慢将双腿伸展回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को ज़मीन पर सपाट करके और अपने घुटनों को 90 डिग्री के कोण पर मोड़कर स्टेबिलिटी बॉल पर बैठकर शुरुआत करें।",
+      "समर्थन के लिए अपने हाथों को स्टेबिलिटी बॉल के किनारों पर रखें।",
+      "अपने पेट को संलग्न करें और धीरे-धीरे अपने कूल्हों को आगे की ओर घुमाएं, अपने घुटनों को अपनी छाती की ओर लाएं।",
+      "गति के शीर्ष पर एक क्षण के लिए रुकें, फिर धीरे-धीरे अपने पैरों को प्रारंभिक स्थिति में वापस लाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Rozpocznij, siedząc na piłce stabilizacyjnej ze stopami płasko opartymi na podłodze i kolanami ugiętymi pod kątem 90 stopni.",
+      "Oprzyj ręce po bokach piłki dla wsparcia.",
+      "Napnij mięśnie brzucha i powoli przetocz biodra do przodu, przyciągając kolana do klatki piersiowej.",
+      "Zatrzymaj się na chwilę na szczycie ruchu, a następnie powoli wyprostuj nogi z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "안정성 공 위에 앉아 발을 땅에 대고 무릎을 90도로 구부린 자세에서 시작합니다.",
+      "지지를 위해 손을 안정성 공의 옆쪽에 놓습니다.",
+      "복근을 조여 천천히 엉덩이를 앞으로 굴려 무릎을 가슴 쪽으로 가져옵니다.",
+      "움직임의 맨 위에서 잠깐 멈춘 후 천천히 다리를 처음 자세로 펼칩니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Commence assis sur le ballon de stabilité, les pieds à plat sur le sol et les genoux fléchis à un angle de 90 degrés.",
+      "Place tes mains sur les côtés du ballon de stabilité pour te soutenir.",
+      "Gaine tes abdominaux et enroule lentement tes hanches vers l'avant, en amenant tes genoux vers ta poitrine.",
+      "Marque une pause en haut du mouvement, puis étends lentement tes jambes pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hip flexors",
+  "secondary_muscles": [
+    "hip flexors"
+  ],
+  "target": "abs",
+  "image": "images/0650-UQr48Oi.jpg",
+  "gif_url": "videos/0650-UQr48Oi.gif",
+  "media_id": "UQr48Oi",
+  "created_at": "2026-03-18T12:31:32.888387+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

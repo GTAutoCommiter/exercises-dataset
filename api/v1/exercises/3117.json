@@ -1,0 +1,132 @@
+{
+  "id": "3117",
+  "name": "band fixed back close grip pulldown",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "band",
+  "instructions": {
+    "en": "Attach the band to a fixed point above you, such as a pull-up bar or sturdy beam. Sit down on a bench or chair facing the band, with your feet flat on the ground and your knees bent. Grasp the band with a close grip, palms facing towards you. Keep your back straight and engage your core. Pull the band down towards your chest, squeezing your shoulder blades together. Pause for a moment at the bottom of the movement, feeling the contraction in your lats. Slowly release the band back to the starting position, maintaining control throughout the movement. Repeat for the desired number of repetitions.",
+    "it": "Attacca la fascia a un punto fisso sopra di te, come una barra per trazioni o una trave robusta. Siediti su una panca o una sedia di fronte alla fascia, con i piedi appoggiati a terra e le ginocchia piegate. Afferra la fascia con una presa salda, i palmi rivolti verso di te. Tieni la schiena dritta e coinvolgi il core. Tirare la fascia verso il petto, stringendo insieme le scapole. Fermati per un momento alla fine del movimento, sentendo la contrazione dei dorsali. Rilascia lentamente la fascia nella posizione iniziale, mantenendo il controllo durante tutto il movimento. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Bandı, çekme çubuğu veya sağlam kiriş gibi üstünüzdeki sabit bir noktaya takın. Ayaklarınız yere düz basacak ve dizleriniz bükülü olacak şekilde banda dönük bir bank veya sandalyeye oturun. Bandı, avuçlarınız size doğru bakacak şekilde sıkı bir kavrama ile kavrayın. Sırtınızı düz tutun ve çekirdeğinizi meşgul edin. Bandı göğsünüze doğru çekin, kürek kemiklerinizi birbirine doğru sıkıştırın. Hareketin alt noktasında bir anlığına duraklayın ve latlarınızdaki kasılmayı hissedin. Hareket boyunca kontrolü koruyarak bandı yavaşça başlangıç ​​pozisyonuna geri bırakın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Sujeta la banda a un punto fijo por encima de ti, como una barra de dominadas o una viga resistente. Siéntate en un banco o silla frente a la banda, con los pies apoyados en el suelo y las rodillas flexionadas. Agarra la banda con un agarre cerrado, con las palmas hacia ti. Mantén la espalda recta y activa el core. Tira de la banda hacia el pecho, juntando los omóplatos. Haz una pausa por un momento en la parte inferior del movimiento, sintiendo la contracción en los dorsales. Suelta lentamente la banda de vuelta a la posición inicial, manteniendo el control durante todo el movimiento. Repite el número de repeticiones deseado.",
+    "ru": "Прикрепите ленту к фиксированной точке над вами, например, к перекладине или прочной балке. Сядьте на скамью или стул лицом к ленте, поставьте ступни на землю и согните колени. Возьмитесь за ленту крепким хватом ладонями к себе. Держите спину прямо и задействуйте корпус. Потяните ленту вниз к груди, сжимая лопатки вместе. Сделайте паузу на мгновение в нижней части движения, чувствуя сокращение широчайших мышц. Медленно отпустите ленту обратно в исходное положение, сохраняя контроль на протяжении всего движения. Повторите необходимое количество повторений.",
+    "zh": "将弹力带固定在您上方的固定点上，例如上拉杆或坚固的横梁。 坐在面向乐队的长凳或椅子上，双脚平放在地上，膝盖弯曲。 紧紧握住弹力带，手掌朝向您。 保持背部挺直并启动核心肌群。 将弹力带向下拉向胸部，将肩胛骨挤压在一起。 在动作的底部暂停片刻，感受背阔肌的收缩。 慢慢地将弹力带释放回起始位置，在整个运动过程中保持控制。 重复所需的重复次数。",
+    "hi": "बैंड को अपने ऊपर एक निश्चित बिंदु पर संलग्न करें, जैसे कि पुल-अप बार या मजबूत बीम। बैंड के सामने एक बेंच या कुर्सी पर बैठें, आपके पैर ज़मीन पर सपाट हों और आपके घुटने मुड़े हुए हों। बैंड को ज़ोर से पकड़ें, हथेलियाँ आपकी ओर हों। अपनी पीठ सीधी रखें और अपने कोर को संलग्न रखें। अपने कंधे के ब्लेड को एक साथ दबाते हुए, बैंड को अपनी छाती की ओर नीचे खींचें। गति के निचले भाग में एक पल के लिए रुकें, अपने लैट्स में संकुचन महसूस करें। पूरे आंदोलन पर नियंत्रण बनाए रखते हुए, बैंड को धीरे-धीरे प्रारंभिक स्थिति में वापस छोड़ें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Przymocuj taśmę do stałego punktu nad sobą, takiego jak drążek do podciągania lub stabilna belka. Usiądź na ławce lub krześle przodem do taśmy, stopy płasko na podłodze, a kolana ugięte. Chwyć taśmę wąskim chwytem, dłońmi skierowanymi do siebie. Utrzymuj proste plecy i napnij mięśnie brzucha. Ściągnij taśmę w dół w kierunku klatki piersiowej, ściskając łopatki. Zatrzymaj się na chwilę w dolnej fazie ruchu, odczuwając napięcie w mięśniach najszerszych grzbietu. Powoli uwolnij taśmę z powrotem do pozycji wyjściowej, zachowując kontrolę przez cały ruch. Powtórz zalecaną liczbę razy.",
+    "ko": "밴드를 풀업바나 견고한 빔과 같이 머리 위의 고정된 지점에 부착합니다. 벤치나 의자에 앉아 밴드를 마주보고 발을 바닥에 붙이며 무릎을 구부립니다. 밴드를 좁은 손거리로 잡되 손바닥이 자신을 향하게 합니다. 등을 곧게 펼치고 복부에 힘을 줍니다. 밴드를 가슴 쪽으로 당기며 견갑골을 함께 짜냅니다. 동작의 아래쪽에서 잠깐 멈춰 등 근육의 수축을 느낍니다. 천천히 밴드를 시작 자세로 돌려놓되 전체 동작을 통해 제어를 유지합니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Fixe l'élastique à un point fixe au-dessus de toi, comme une barre de traction ou une poutre solide. Assieds-toi sur un banc ou une chaise face à l'élastique, les pieds à plat sur le sol et les genoux fléchis. Saisis l'élastique avec une prise serrée, les paumes tournées vers toi. Garde le dos droit et gaine ta sangle abdominale. Tire l'élastique vers ta poitrine, en contractant tes omoplates. Marque une pause en bas du mouvement, en ressentant la contraction dans tes grands dorsaux. Relâche lentement l'élastique pour revenir à la position de départ, en gardant le contrôle tout au long du mouvement. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Attach the band to a fixed point above you, such as a pull-up bar or sturdy beam.",
+      "Sit down on a bench or chair facing the band, with your feet flat on the ground and your knees bent.",
+      "Grasp the band with a close grip, palms facing towards you.",
+      "Keep your back straight and engage your core.",
+      "Pull the band down towards your chest, squeezing your shoulder blades together.",
+      "Pause for a moment at the bottom of the movement, feeling the contraction in your lats.",
+      "Slowly release the band back to the starting position, maintaining control throughout the movement.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Attacca la fascia a un punto fisso sopra di te, come una barra per trazioni o una trave robusta.",
+      "Siediti su una panca o una sedia di fronte alla fascia, con i piedi appoggiati a terra e le ginocchia piegate.",
+      "Afferra la fascia con una presa salda, i palmi rivolti verso di te.",
+      "Tieni la schiena dritta e coinvolgi il core.",
+      "Tirare la fascia verso il petto, stringendo insieme le scapole.",
+      "Fermati per un momento alla fine del movimento, sentendo la contrazione dei dorsali.",
+      "Rilascia lentamente la fascia nella posizione iniziale, mantenendo il controllo durante tutto il movimento.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Bandı, çekme çubuğu veya sağlam kiriş gibi üstünüzdeki sabit bir noktaya takın.",
+      "Ayaklarınız yere düz basacak ve dizleriniz bükülü olacak şekilde banda dönük bir bank veya sandalyeye oturun.",
+      "Bandı, avuçlarınız size doğru bakacak şekilde sıkı bir kavrama ile kavrayın.",
+      "Sırtınızı düz tutun ve çekirdeğinizi meşgul edin.",
+      "Bandı göğsünüze doğru çekin, kürek kemiklerinizi birbirine doğru sıkıştırın.",
+      "Hareketin alt noktasında bir anlığına duraklayın ve latlarınızdaki kasılmayı hissedin.",
+      "Hareket boyunca kontrolü koruyarak bandı yavaşça başlangıç ​​pozisyonuna geri bırakın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Sujeta la banda a un punto fijo por encima de ti, como una barra de dominadas o una viga resistente.",
+      "Siéntate en un banco o silla frente a la banda, con los pies apoyados en el suelo y las rodillas flexionadas.",
+      "Agarra la banda con un agarre cerrado, con las palmas hacia ti.",
+      "Mantén la espalda recta y activa el core.",
+      "Tira de la banda hacia el pecho, juntando los omóplatos.",
+      "Haz una pausa por un momento en la parte inferior del movimiento, sintiendo la contracción en los dorsales.",
+      "Suelta lentamente la banda de vuelta a la posición inicial, manteniendo el control durante todo el movimiento.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Прикрепите ленту к фиксированной точке над вами, например, к перекладине или прочной балке.",
+      "Сядьте на скамью или стул лицом к ленте, поставьте ступни на землю и согните колени.",
+      "Возьмитесь за ленту крепким хватом ладонями к себе.",
+      "Держите спину прямо и задействуйте корпус.",
+      "Потяните ленту вниз к груди, сжимая лопатки вместе.",
+      "Сделайте паузу на мгновение в нижней части движения, чувствуя сокращение широчайших мышц.",
+      "Медленно отпустите ленту обратно в исходное положение, сохраняя контроль на протяжении всего движения.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将弹力带固定在您上方的固定点上，例如上拉杆或坚固的横梁。",
+      "坐在面向乐队的长凳或椅子上，双脚平放在地上，膝盖弯曲。",
+      "紧紧握住弹力带，手掌朝向您。",
+      "保持背部挺直并启动核心肌群。",
+      "将弹力带向下拉向胸部，将肩胛骨挤压在一起。",
+      "在动作的底部暂停片刻，感受背阔肌的收缩。",
+      "慢慢地将弹力带释放回起始位置，在整个运动过程中保持控制。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "बैंड को अपने ऊपर एक निश्चित बिंदु पर संलग्न करें, जैसे कि पुल-अप बार या मजबूत बीम।",
+      "बैंड के सामने एक बेंच या कुर्सी पर बैठें, आपके पैर ज़मीन पर सपाट हों और आपके घुटने मुड़े हुए हों।",
+      "बैंड को ज़ोर से पकड़ें, हथेलियाँ आपकी ओर हों।",
+      "अपनी पीठ सीधी रखें और अपने कोर को संलग्न रखें।",
+      "अपने कंधे के ब्लेड को एक साथ दबाते हुए, बैंड को अपनी छाती की ओर नीचे खींचें।",
+      "गति के निचले भाग में एक पल के लिए रुकें, अपने लैट्स में संकुचन महसूस करें।",
+      "पूरे आंदोलन पर नियंत्रण बनाए रखते हुए, बैंड को धीरे-धीरे प्रारंभिक स्थिति में वापस छोड़ें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Przymocuj taśmę do stałego punktu nad sobą, takiego jak drążek do podciągania lub stabilna belka.",
+      "Usiądź na ławce lub krześle przodem do taśmy, stopy płasko na podłodze, a kolana ugięte.",
+      "Chwyć taśmę wąskim chwytem, dłońmi skierowanymi do siebie.",
+      "Utrzymuj proste plecy i napnij mięśnie brzucha.",
+      "Ściągnij taśmę w dół w kierunku klatki piersiowej, ściskając łopatki.",
+      "Zatrzymaj się na chwilę w dolnej fazie ruchu, odczuwając napięcie w mięśniach najszerszych grzbietu.",
+      "Powoli uwolnij taśmę z powrotem do pozycji wyjściowej, zachowując kontrolę przez cały ruch.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "밴드를 풀업바나 견고한 빔과 같이 머리 위의 고정된 지점에 부착합니다.",
+      "벤치나 의자에 앉아 밴드를 마주보고 발을 바닥에 붙이며 무릎을 구부립니다.",
+      "밴드를 좁은 손거리로 잡되 손바닥이 자신을 향하게 합니다.",
+      "등을 곧게 펼치고 복부에 힘을 줍니다.",
+      "밴드를 가슴 쪽으로 당기며 견갑골을 함께 짜냅니다.",
+      "동작의 아래쪽에서 잠깐 멈춰 등 근육의 수축을 느낍니다.",
+      "천천히 밴드를 시작 자세로 돌려놓되 전체 동작을 통해 제어를 유지합니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Fixe l'élastique à un point fixe au-dessus de toi, comme une barre de traction ou une poutre solide.",
+      "Assieds-toi sur un banc ou une chaise face à l'élastique, les pieds à plat sur le sol et les genoux fléchis.",
+      "Saisis l'élastique avec une prise serrée, les paumes tournées vers toi.",
+      "Garde le dos droit et gaine ta sangle abdominale.",
+      "Tire l'élastique vers ta poitrine, en contractant tes omoplates.",
+      "Marque une pause en bas du mouvement, en ressentant la contraction dans tes grands dorsaux.",
+      "Relâche lentement l'élastique pour revenir à la position de départ, en gardant le contrôle tout au long du mouvement.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "forearms"
+  ],
+  "target": "lats",
+  "image": "images/3117-4LoWllp.jpg",
+  "gif_url": "videos/3117-4LoWllp.gif",
+  "media_id": "4LoWllp",
+  "created_at": "2026-03-18T12:31:32.855899+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

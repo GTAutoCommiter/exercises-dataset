@@ -1,0 +1,132 @@
+{
+  "id": "0588",
+  "name": "lever narrow grip seated row",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "leverage machine",
+  "instructions": {
+    "en": "Adjust the seat height and footrests to ensure proper form. Sit on the machine with your feet flat on the footrests and your knees slightly bent. Grasp the handles with a narrow grip, palms facing each other. Keep your back straight and lean slightly forward. Pull the handles towards your torso, squeezing your shoulder blades together. Pause for a moment at the peak of the movement. Slowly release the handles and return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Regolare l'altezza del sedile e i poggiapiedi per garantire la forma corretta. Sedersi sulla macchina con i piedi appoggiati sulle pedane e le ginocchia leggermente piegate. Afferrare le maniglie con una presa stretta, i palmi rivolti l'uno verso l'altro. Tieni la schiena dritta e inclinati leggermente in avanti. Tirare le maniglie verso il busto, stringendo insieme le scapole. Fermati un attimo al culmine del movimento. Rilascia lentamente le maniglie e torna alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Doğru formu sağlamak için koltuk yüksekliğini ve ayak dayama yerlerini ayarlayın. Ayaklarınız ayak dayama yerlerinin üzerinde düz ve dizleriniz hafifçe bükülü olacak şekilde makineye oturun. Avuç içleri birbirine bakacak şekilde tutamakları dar bir tutuşla kavrayın. Sırtınızı düz tutun ve hafifçe öne doğru eğilin. Kolları gövdenize doğru çekin, kürek kemiklerinizi birbirine doğru sıkıştırın. Hareketin zirvesinde bir an duraklayın. Kolları yavaşça bırakın ve başlangıç ​​pozisyonuna dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta la altura del asiento y los apoyapiés para asegurar una postura correcta. Siéntate en la máquina con los pies planos sobre los apoyapiés y las rodillas ligeramente flexionadas. Sujeta las asas con un agarre estrecho, con las palmas una frente a la otra. Mantén la espalda recta e inclínate ligeramente hacia adelante. Tira de las asas hacia el torso, juntando los omóplatos. Haz una pausa breve en la parte alta del movimiento. Suelta lentamente las asas y vuelve a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Отрегулируйте высоту сиденья и подножек, чтобы обеспечить правильную форму. Сядьте на тренажер, поставьте ноги на подножки и слегка согните колени. Возьмитесь за ручки узким хватом, ладони обращены друг к другу. Держите спину прямо и слегка наклонитесь вперед. Потяните ручки к туловищу, сжимая лопатки вместе. Сделайте паузу на мгновение в пике движения. Медленно отпустите ручки и вернитесь в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "调整座椅高度和脚踏板以确保形状正确。 坐在机器上，双脚平放在脚踏板上，膝盖稍微弯曲。 紧紧握住手柄，手掌相对。 保持背部挺直并稍微向前倾斜。 将手柄拉向躯干，将肩胛骨挤压在一起。 在动作的最高点停顿片刻。 慢慢松开手柄并返回到起始位置。 重复所需的重复次数。",
+    "hi": "उचित रूप सुनिश्चित करने के लिए सीट की ऊंचाई और फुटरेस्ट को समायोजित करें। अपने पैरों को फ़ुटरेस्ट पर सपाट करके और अपने घुटनों को थोड़ा मोड़कर मशीन पर बैठें। हैंडल को पतली पकड़ से पकड़ें, हथेलियाँ एक दूसरे के सामने हों। अपनी पीठ सीधी रखें और थोड़ा आगे की ओर झुकें। अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए, हैंडल को अपने धड़ की ओर खींचें। आंदोलन के चरम पर एक क्षण के लिए रुकें। धीरे-धीरे हैंडल को छोड़ें और प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Wyreguluj wysokość siedziska i podpórki na stopy, aby zapewnić prawidłową technikę. Usiądź na maszynie, opierając stopy płasko na podpórkach, a kolana lekko ugięte. Chwyć uchwyty wąskim chwytem, dłonie skierowane do siebie. Trzymaj plecy proste i pochyl się lekko do przodu. Przyciągnij uchwyty w kierunku tułowia, ściągając łopatki. Zatrzymaj się na chwilę w szczytowym punkcie ruchu. Powoli zwolnij uchwyty i wróć do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "시트 높이와 풋레스트를 조정하여 올바른 자세를 유지합니다. 발을 풋레스트에 평평하게 놓고 무릎을 약간 굽힌 상태로 머신에 앉습니다. 손가락을 서로 향하게 하는 좁은 그립으로 핸들을 잡습니다. 등을 일직선으로 유지하고 약간 앞으로 기울입니다. 핸들을 몸 쪽으로 당기면서 견갑골을 함께 짜줍니다. 운동의 정점에서 잠깐 멈춤니다. 천천히 핸들을 놓고 처음 위치로 돌아갑니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Règle la hauteur du siège et les repose-pieds pour garantir une bonne exécution. Assieds-toi sur la machine, les pieds à plat sur les repose-pieds et les genoux légèrement fléchis. Saisis les poignées avec une prise serrée, les paumes tournées l'une vers l'autre. Garde le dos droit et penche-toi légèrement vers l'avant. Tire les poignées vers ton torse en contractant tes omoplates l'une vers l'autre. Marque une pause au sommet du mouvement. Relâche lentement les poignées et reviens à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the seat height and footrests to ensure proper form.",
+      "Sit on the machine with your feet flat on the footrests and your knees slightly bent.",
+      "Grasp the handles with a narrow grip, palms facing each other.",
+      "Keep your back straight and lean slightly forward.",
+      "Pull the handles towards your torso, squeezing your shoulder blades together.",
+      "Pause for a moment at the peak of the movement.",
+      "Slowly release the handles and return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Regolare l'altezza del sedile e i poggiapiedi per garantire la forma corretta.",
+      "Sedersi sulla macchina con i piedi appoggiati sulle pedane e le ginocchia leggermente piegate.",
+      "Afferrare le maniglie con una presa stretta, i palmi rivolti l'uno verso l'altro.",
+      "Tieni la schiena dritta e inclinati leggermente in avanti.",
+      "Tirare le maniglie verso il busto, stringendo insieme le scapole.",
+      "Fermati un attimo al culmine del movimento.",
+      "Rilascia lentamente le maniglie e torna alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Doğru formu sağlamak için koltuk yüksekliğini ve ayak dayama yerlerini ayarlayın.",
+      "Ayaklarınız ayak dayama yerlerinin üzerinde düz ve dizleriniz hafifçe bükülü olacak şekilde makineye oturun.",
+      "Avuç içleri birbirine bakacak şekilde tutamakları dar bir tutuşla kavrayın.",
+      "Sırtınızı düz tutun ve hafifçe öne doğru eğilin.",
+      "Kolları gövdenize doğru çekin, kürek kemiklerinizi birbirine doğru sıkıştırın.",
+      "Hareketin zirvesinde bir an duraklayın.",
+      "Kolları yavaşça bırakın ve başlangıç ​​pozisyonuna dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta la altura del asiento y los apoyapiés para asegurar una postura correcta.",
+      "Siéntate en la máquina con los pies planos sobre los apoyapiés y las rodillas ligeramente flexionadas.",
+      "Sujeta las asas con un agarre estrecho, con las palmas una frente a la otra.",
+      "Mantén la espalda recta e inclínate ligeramente hacia adelante.",
+      "Tira de las asas hacia el torso, juntando los omóplatos.",
+      "Haz una pausa breve en la parte alta del movimiento.",
+      "Suelta lentamente las asas y vuelve a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Отрегулируйте высоту сиденья и подножек, чтобы обеспечить правильную форму.",
+      "Сядьте на тренажер, поставьте ноги на подножки и слегка согните колени.",
+      "Возьмитесь за ручки узким хватом, ладони обращены друг к другу.",
+      "Держите спину прямо и слегка наклонитесь вперед.",
+      "Потяните ручки к туловищу, сжимая лопатки вместе.",
+      "Сделайте паузу на мгновение в пике движения.",
+      "Медленно отпустите ручки и вернитесь в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "调整座椅高度和脚踏板以确保形状正确。",
+      "坐在机器上，双脚平放在脚踏板上，膝盖稍微弯曲。",
+      "紧紧握住手柄，手掌相对。",
+      "保持背部挺直并稍微向前倾斜。",
+      "将手柄拉向躯干，将肩胛骨挤压在一起。",
+      "在动作的最高点停顿片刻。",
+      "慢慢松开手柄并返回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "उचित रूप सुनिश्चित करने के लिए सीट की ऊंचाई और फुटरेस्ट को समायोजित करें।",
+      "अपने पैरों को फ़ुटरेस्ट पर सपाट करके और अपने घुटनों को थोड़ा मोड़कर मशीन पर बैठें।",
+      "हैंडल को पतली पकड़ से पकड़ें, हथेलियाँ एक दूसरे के सामने हों।",
+      "अपनी पीठ सीधी रखें और थोड़ा आगे की ओर झुकें।",
+      "अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए, हैंडल को अपने धड़ की ओर खींचें।",
+      "आंदोलन के चरम पर एक क्षण के लिए रुकें।",
+      "धीरे-धीरे हैंडल को छोड़ें और प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Wyreguluj wysokość siedziska i podpórki na stopy, aby zapewnić prawidłową technikę.",
+      "Usiądź na maszynie, opierając stopy płasko na podpórkach, a kolana lekko ugięte.",
+      "Chwyć uchwyty wąskim chwytem, dłonie skierowane do siebie.",
+      "Trzymaj plecy proste i pochyl się lekko do przodu.",
+      "Przyciągnij uchwyty w kierunku tułowia, ściągając łopatki.",
+      "Zatrzymaj się na chwilę w szczytowym punkcie ruchu.",
+      "Powoli zwolnij uchwyty i wróć do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "시트 높이와 풋레스트를 조정하여 올바른 자세를 유지합니다.",
+      "발을 풋레스트에 평평하게 놓고 무릎을 약간 굽힌 상태로 머신에 앉습니다.",
+      "손가락을 서로 향하게 하는 좁은 그립으로 핸들을 잡습니다.",
+      "등을 일직선으로 유지하고 약간 앞으로 기울입니다.",
+      "핸들을 몸 쪽으로 당기면서 견갑골을 함께 짜줍니다.",
+      "운동의 정점에서 잠깐 멈춤니다.",
+      "천천히 핸들을 놓고 처음 위치로 돌아갑니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Règle la hauteur du siège et les repose-pieds pour garantir une bonne exécution.",
+      "Assieds-toi sur la machine, les pieds à plat sur les repose-pieds et les genoux légèrement fléchis.",
+      "Saisis les poignées avec une prise serrée, les paumes tournées l'une vers l'autre.",
+      "Garde le dos droit et penche-toi légèrement vers l'avant.",
+      "Tire les poignées vers ton torse en contractant tes omoplates l'une vers l'autre.",
+      "Marque une pause au sommet du mouvement.",
+      "Relâche lentement les poignées et reviens à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "forearms"
+  ],
+  "target": "upper back",
+  "image": "images/0588-IGjKj1v.jpg",
+  "gif_url": "videos/0588-IGjKj1v.gif",
+  "media_id": "IGjKj1v",
+  "created_at": "2026-03-18T12:31:32.886596+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

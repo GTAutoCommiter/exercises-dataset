@@ -1,0 +1,111 @@
+{
+  "id": "1726",
+  "name": "cable rope lying on floor tricep extension",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Attach a rope to a cable machine and set it to the lowest position. Lie on the floor facing up, with your head towards the cable machine. Hold the rope with both hands, palms facing each other, and extend your arms straight up towards the ceiling. Keep your upper arms stationary and slowly lower the rope towards your forehead, bending your elbows. Pause for a moment, then extend your arms back up to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Attacca una corda a una macchina per cavi e impostala nella posizione più bassa. Sdraiati a terra con la testa rivolta verso l'alto, con la testa rivolta verso la macchina per cavi. Tieni la corda con entrambe le mani, palmi rivolti l'uno verso l'altro, e estendi le braccia dritte verso il soffitto. Mantieni ferme le braccia superiori e abbassa lentamente la corda verso la fronte, piegando i gomiti. Fermati un attimo, poi rialza le braccia fino alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Bir kablo makinesine bir halat bağlayın ve en alt konuma ayarlayın. Başınız kablo makinesine dönük olacak şekilde, yukarı bakacak şekilde yere yatın. Halatı iki elinizle, avuçlarınız birbirine bakacak şekilde tutun ve kollarınızı tavana doğru düz bir şekilde uzatın. Üst kollarınızı sabit tutun ve dirseklerinizi bükerek ipi yavaşça alnınıza doğru indirin. Bir an duraklayın, ardından kollarınızı başlangıç ​​pozisyonuna kadar uzatın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Sujeta una cuerda a una máquina de cable y colócala en la posición más baja. Túmbate en el suelo boca arriba, con la cabeza orientada hacia la máquina de cable. Sujeta la cuerda con ambas manos, con las palmas una frente a la otra, y extiende los brazos rectos hacia el techo. Mantén la parte superior de los brazos inmóvil y baja lentamente la cuerda hacia la frente, flexionando los codos. Haz una pausa breve y luego extiende los brazos de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Прикрепите веревку к канатной машине и установите ее в самое нижнее положение. Лягте на пол лицом вверх, головой в сторону канатной машины. Возьмите веревку обеими руками, ладонями друг к другу, и вытяните руки прямо вверх к потолку. Держите плечи неподвижно и медленно опустите веревку ко лбу, сгибая локти. Сделайте паузу на мгновение, затем вытяните руки обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "将绳子连接到缆绳机上并将其设置到最低位置。 面朝上躺在地板上，头朝向电缆机。 双手握住绳子，掌心相对，双臂伸直向上伸向天花板。 保持上臂静止，慢慢地将绳子放低到前额，弯曲肘部。 暂停片刻，然后将手臂伸回到起始位置。 重复所需的重复次数。",
+    "hi": "केबल मशीन में एक रस्सी जोड़ें और इसे सबसे निचले स्थान पर सेट करें। फर्श पर ऊपर की ओर मुंह करके लेटें, अपना सिर केबल मशीन की ओर रखें। रस्सी को दोनों हाथों से पकड़ें, हथेलियाँ एक-दूसरे के सामने हों, और अपनी भुजाओं को छत की ओर सीधा ऊपर फैलाएँ। अपनी ऊपरी भुजाओं को स्थिर रखें और अपनी कोहनियों को मोड़ते हुए धीरे-धीरे रस्सी को अपने माथे की ओर नीचे करें। एक पल के लिए रुकें, फिर अपनी भुजाओं को वापस प्रारंभिक स्थिति तक फैलाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Podłącz linę do wyciągu i ustaw ją w najniższej pozycji. Połóż się na podłodze twarzą do góry, głową w kierunku wyciągu. Trzymaj linę obiema rękami, dłonie zwrócone do siebie, i wyprostuj ramiona prosto w kierunku sufitu. Trzymaj ramiona górne nieruchomo i powoli opuść linę w kierunku czoła, uginając łokcie. Zatrzymaj się na moment, a następnie wyprostuj ramiona, wracając do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "로프를 케이블 머신에 장착하고 가장 낮은 위치에 설정합니다. 바닥에 누워 얼굴을 위로 향하고 머리가 케이블 머신을 향합니다. 양손으로 로프를 잡고 손가락이 서로를 향하며 팔을 천장을 향해 곧게 펼칩니다. 상박을 고정시키고 팔꿈치를 구부려 로프를 이마를 향해 천천히 내립니다. 잠시 멈추었다가 팔을 시작 위치로 펼쳐 올립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Fixe une corde à une machine à câble et règle-la à la position la plus basse. Allonge-toi au sol face vers le haut, la tête orientée vers la machine à câble. Tiens la corde des deux mains, les paumes tournées l'une vers l'autre, et étends tes bras droit vers le plafond. Garde le haut des bras immobile et abaisse lentement la corde vers ton front en fléchissant les coudes. Marque une pause, puis étends tes bras vers le haut pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Attach a rope to a cable machine and set it to the lowest position.",
+      "Lie on the floor facing up, with your head towards the cable machine.",
+      "Hold the rope with both hands, palms facing each other, and extend your arms straight up towards the ceiling.",
+      "Keep your upper arms stationary and slowly lower the rope towards your forehead, bending your elbows.",
+      "Pause for a moment, then extend your arms back up to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Attacca una corda a una macchina per cavi e impostala nella posizione più bassa.",
+      "Sdraiati a terra con la testa rivolta verso l'alto, con la testa rivolta verso la macchina per cavi.",
+      "Tieni la corda con entrambe le mani, palmi rivolti l'uno verso l'altro, e estendi le braccia dritte verso il soffitto.",
+      "Mantieni ferme le braccia superiori e abbassa lentamente la corda verso la fronte, piegando i gomiti.",
+      "Fermati un attimo, poi rialza le braccia fino alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Bir kablo makinesine bir halat bağlayın ve en alt konuma ayarlayın.",
+      "Başınız kablo makinesine dönük olacak şekilde, yukarı bakacak şekilde yere yatın.",
+      "Halatı iki elinizle, avuçlarınız birbirine bakacak şekilde tutun ve kollarınızı tavana doğru düz bir şekilde uzatın.",
+      "Üst kollarınızı sabit tutun ve dirseklerinizi bükerek ipi yavaşça alnınıza doğru indirin.",
+      "Bir an duraklayın, ardından kollarınızı başlangıç ​​pozisyonuna kadar uzatın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Sujeta una cuerda a una máquina de cable y colócala en la posición más baja.",
+      "Túmbate en el suelo boca arriba, con la cabeza orientada hacia la máquina de cable.",
+      "Sujeta la cuerda con ambas manos, con las palmas una frente a la otra, y extiende los brazos rectos hacia el techo.",
+      "Mantén la parte superior de los brazos inmóvil y baja lentamente la cuerda hacia la frente, flexionando los codos.",
+      "Haz una pausa breve y luego extiende los brazos de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Прикрепите веревку к канатной машине и установите ее в самое нижнее положение.",
+      "Лягте на пол лицом вверх, головой в сторону канатной машины.",
+      "Возьмите веревку обеими руками, ладонями друг к другу, и вытяните руки прямо вверх к потолку.",
+      "Держите плечи неподвижно и медленно опустите веревку ко лбу, сгибая локти.",
+      "Сделайте паузу на мгновение, затем вытяните руки обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将绳子连接到缆绳机上并将其设置到最低位置。",
+      "面朝上躺在地板上，头朝向电缆机。",
+      "双手握住绳子，掌心相对，双臂伸直向上伸向天花板。",
+      "保持上臂静止，慢慢地将绳子放低到前额，弯曲肘部。",
+      "暂停片刻，然后将手臂伸回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "केबल मशीन में एक रस्सी जोड़ें और इसे सबसे निचले स्थान पर सेट करें।",
+      "फर्श पर ऊपर की ओर मुंह करके लेटें, अपना सिर केबल मशीन की ओर रखें।",
+      "रस्सी को दोनों हाथों से पकड़ें, हथेलियाँ एक-दूसरे के सामने हों, और अपनी भुजाओं को छत की ओर सीधा ऊपर फैलाएँ।",
+      "अपनी ऊपरी भुजाओं को स्थिर रखें और अपनी कोहनियों को मोड़ते हुए धीरे-धीरे रस्सी को अपने माथे की ओर नीचे करें।",
+      "एक पल के लिए रुकें, फिर अपनी भुजाओं को वापस प्रारंभिक स्थिति तक फैलाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Podłącz linę do wyciągu i ustaw ją w najniższej pozycji.",
+      "Połóż się na podłodze twarzą do góry, głową w kierunku wyciągu.",
+      "Trzymaj linę obiema rękami, dłonie zwrócone do siebie, i wyprostuj ramiona prosto w kierunku sufitu.",
+      "Trzymaj ramiona górne nieruchomo i powoli opuść linę w kierunku czoła, uginając łokcie.",
+      "Zatrzymaj się na moment, a następnie wyprostuj ramiona, wracając do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "로프를 케이블 머신에 장착하고 가장 낮은 위치에 설정합니다.",
+      "바닥에 누워 얼굴을 위로 향하고 머리가 케이블 머신을 향합니다.",
+      "양손으로 로프를 잡고 손가락이 서로를 향하며 팔을 천장을 향해 곧게 펼칩니다.",
+      "상박을 고정시키고 팔꿈치를 구부려 로프를 이마를 향해 천천히 내립니다.",
+      "잠시 멈추었다가 팔을 시작 위치로 펼쳐 올립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Fixe une corde à une machine à câble et règle-la à la position la plus basse.",
+      "Allonge-toi au sol face vers le haut, la tête orientée vers la machine à câble.",
+      "Tiens la corde des deux mains, les paumes tournées l'une vers l'autre, et étends tes bras droit vers le plafond.",
+      "Garde le haut des bras immobile et abaisse lentement la corde vers ton front en fléchissant les coudes.",
+      "Marque une pause, puis étends tes bras vers le haut pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders"
+  ],
+  "target": "triceps",
+  "image": "images/1726-U3ffHlY.jpg",
+  "gif_url": "videos/1726-U3ffHlY.gif",
+  "media_id": "U3ffHlY",
+  "created_at": "2026-03-18T12:31:32.875786+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

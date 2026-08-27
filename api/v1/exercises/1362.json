@@ -1,0 +1,102 @@
+{
+  "id": "1362",
+  "name": "sphinx",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Lie face down on the ground with your forearms flat on the floor, elbows directly under your shoulders. Engage your core and lift your chest off the ground, keeping your forearms and toes on the floor. Hold this position for a few seconds, making sure to keep your neck in a neutral position. Slowly lower your chest back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Sdraiati a faccia in giù a terra con gli avambracci appoggiati sul pavimento, i gomiti direttamente sotto le spalle. Coinvolgi il tuo core e solleva il petto da terra, mantenendo gli avambracci e le dita dei piedi sul pavimento. Mantieni questa posizione per alcuni secondi, assicurandoti di mantenere il collo in una posizione neutra. Abbassa lentamente il petto fino alla posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ön kollarınız yere düz basacak şekilde, dirsekleriniz doğrudan omuzlarınızın altında olacak şekilde yere yüzüstü yatın. Merkez bölgenizi devreye sokun ve ön kollarınızı ve ayak parmaklarınızı yerde tutarak göğsünüzü yerden kaldırın. Boynunuzu nötr pozisyonda tuttuğunuzdan emin olarak bu pozisyonu birkaç saniye basılı tutun. Göğsünüzü yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Túmbate boca abajo en el suelo con los antebrazos planos sobre el piso y los codos justo debajo de los hombros. Activa el core y levanta el pecho del suelo, manteniendo los antebrazos y los dedos de los pies en el piso. Mantén esta posición durante unos segundos, asegurándote de mantener el cuello en una posición neutral. Baja lentamente el pecho de nuevo a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Лягте лицом вниз на пол, положив предплечья на пол, локти прямо под плечами. Напрягите корпус и поднимите грудь от земли, удерживая предплечья и пальцы ног на полу. Удерживайте это положение несколько секунд, следя за тем, чтобы шея оставалась в нейтральном положении. Медленно опустите грудь обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "面朝下躺在地上，前臂平放在地板上，肘部直接位于肩膀下方。 收紧核心肌群，将胸部抬离地面，将前臂和脚趾保持在地板上。 保持这个姿势几秒钟，确保颈部保持在中立位置。 慢慢地将胸部放回起始位置。 重复所需的重复次数。",
+    "hi": "अपने अग्रबाहुओं को फर्श पर सपाट रखते हुए, कोहनियों को सीधे अपने कंधों के नीचे रखते हुए, जमीन पर मुंह करके लेट जाएं। अपने कोर को संलग्न करें और अपनी छाती को जमीन से ऊपर उठाएं, अपने अग्रभागों और पैर की उंगलियों को फर्श पर रखें। कुछ सेकंड के लिए इस स्थिति में रहें, यह सुनिश्चित करें कि आपकी गर्दन तटस्थ स्थिति में रहे। धीरे-धीरे अपनी छाती को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Połóż się twarzą w dół na podłodze, z przedramionami płasko opartymi na podłodze, łokciami bezpośrednio pod barkami. Napnij mięśnie brzucha i unieś klatkę piersiową nad podłogę, trzymając przedramiona i palce stóp na podłodze. Przytrzymaj tę pozycję przez kilka sekund, dbając o utrzymanie szyi w pozycji neutralnej. Powoli opuść klatkę piersiową z powrotem do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "바닥에 엎드려서 팔뚝을 바닥에 평평하게 놓고 팔꿈치가 어깨 바로 아래에 오도록 합니다. 복부에 힘을 주고 가슴을 바닥에서 들어올리되 팔뚝과 발가락은 바닥에 붙인 상태를 유지합니다. 목이 중립 위치에 있도록 주의하면서 이 자세를 몇 초간 유지합니다. 가슴을 천천히 바닥으로 내립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Allonge-toi face vers le bas au sol, les avant-bras à plat au sol, les coudes directement sous tes épaules. Gaine ta sangle abdominale et lève ta poitrine du sol, en gardant tes avant-bras et tes orteils au sol. Maintiens cette position pendant quelques secondes, en veillant à garder ton cou dans une position neutre. Abaisse lentement ta poitrine vers la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Lie face down on the ground with your forearms flat on the floor, elbows directly under your shoulders.",
+      "Engage your core and lift your chest off the ground, keeping your forearms and toes on the floor.",
+      "Hold this position for a few seconds, making sure to keep your neck in a neutral position.",
+      "Slowly lower your chest back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Sdraiati a faccia in giù a terra con gli avambracci appoggiati sul pavimento, i gomiti direttamente sotto le spalle.",
+      "Coinvolgi il tuo core e solleva il petto da terra, mantenendo gli avambracci e le dita dei piedi sul pavimento.",
+      "Mantieni questa posizione per alcuni secondi, assicurandoti di mantenere il collo in una posizione neutra.",
+      "Abbassa lentamente il petto fino alla posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ön kollarınız yere düz basacak şekilde, dirsekleriniz doğrudan omuzlarınızın altında olacak şekilde yere yüzüstü yatın.",
+      "Merkez bölgenizi devreye sokun ve ön kollarınızı ve ayak parmaklarınızı yerde tutarak göğsünüzü yerden kaldırın.",
+      "Boynunuzu nötr pozisyonda tuttuğunuzdan emin olarak bu pozisyonu birkaç saniye basılı tutun.",
+      "Göğsünüzü yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Túmbate boca abajo en el suelo con los antebrazos planos sobre el piso y los codos justo debajo de los hombros.",
+      "Activa el core y levanta el pecho del suelo, manteniendo los antebrazos y los dedos de los pies en el piso.",
+      "Mantén esta posición durante unos segundos, asegurándote de mantener el cuello en una posición neutral.",
+      "Baja lentamente el pecho de nuevo a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Лягте лицом вниз на пол, положив предплечья на пол, локти прямо под плечами.",
+      "Напрягите корпус и поднимите грудь от земли, удерживая предплечья и пальцы ног на полу.",
+      "Удерживайте это положение несколько секунд, следя за тем, чтобы шея оставалась в нейтральном положении.",
+      "Медленно опустите грудь обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "面朝下躺在地上，前臂平放在地板上，肘部直接位于肩膀下方。",
+      "收紧核心肌群，将胸部抬离地面，将前臂和脚趾保持在地板上。",
+      "保持这个姿势几秒钟，确保颈部保持在中立位置。",
+      "慢慢地将胸部放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने अग्रबाहुओं को फर्श पर सपाट रखते हुए, कोहनियों को सीधे अपने कंधों के नीचे रखते हुए, जमीन पर मुंह करके लेट जाएं।",
+      "अपने कोर को संलग्न करें और अपनी छाती को जमीन से ऊपर उठाएं, अपने अग्रभागों और पैर की उंगलियों को फर्श पर रखें।",
+      "कुछ सेकंड के लिए इस स्थिति में रहें, यह सुनिश्चित करें कि आपकी गर्दन तटस्थ स्थिति में रहे।",
+      "धीरे-धीरे अपनी छाती को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Połóż się twarzą w dół na podłodze, z przedramionami płasko opartymi na podłodze, łokciami bezpośrednio pod barkami.",
+      "Napnij mięśnie brzucha i unieś klatkę piersiową nad podłogę, trzymając przedramiona i palce stóp na podłodze.",
+      "Przytrzymaj tę pozycję przez kilka sekund, dbając o utrzymanie szyi w pozycji neutralnej.",
+      "Powoli opuść klatkę piersiową z powrotem do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "바닥에 엎드려서 팔뚝을 바닥에 평평하게 놓고 팔꿈치가 어깨 바로 아래에 오도록 합니다.",
+      "복부에 힘을 주고 가슴을 바닥에서 들어올리되 팔뚝과 발가락은 바닥에 붙인 상태를 유지합니다.",
+      "목이 중립 위치에 있도록 주의하면서 이 자세를 몇 초간 유지합니다.",
+      "가슴을 천천히 바닥으로 내립니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Allonge-toi face vers le bas au sol, les avant-bras à plat au sol, les coudes directement sous tes épaules.",
+      "Gaine ta sangle abdominale et lève ta poitrine du sol, en gardant tes avant-bras et tes orteils au sol.",
+      "Maintiens cette position pendant quelques secondes, en veillant à garder ton cou dans une position neutre.",
+      "Abaisse lentement ta poitrine vers la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "glutes",
+  "secondary_muscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "target": "spine",
+  "image": "images/1362-DIVyqrU.jpg",
+  "gif_url": "videos/1362-DIVyqrU.gif",
+  "media_id": "DIVyqrU",
+  "created_at": "2026-03-18T12:31:32.891306+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

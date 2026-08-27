@@ -1,0 +1,103 @@
+{
+  "id": "1291",
+  "name": "dumbbell one arm pullover on exercise ball",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Sit on an exercise ball with your feet flat on the ground and your knees bent at a 90-degree angle. Hold a dumbbell with one hand and extend your arm straight up above your chest. Slowly lower the dumbbell behind your head while keeping your arm straight. Pause for a moment, then raise the dumbbell back to the starting position. Repeat for the desired number of repetitions, then switch arms.",
+    "it": "Siediti su una palla da ginnastica con i piedi piatti a terra e le ginocchia piegate a 90 gradi. Tieni un manubrio con una mano e allunga il braccio dritto sopra il petto. Abbassa lentamente il manubrio dietro la testa mantenendo il braccio dritto. Fermati un attimo, poi solleva il manubrio di nuovo alla posizione di partenza. Ripeti per il numero desiderato di ripetizioni, poi cambia braccio.",
+    "tr": "Ayaklarınız yere düz basacak ve dizleriniz 90 derecelik bir açıyla bükülmüş olacak şekilde bir egzersiz topunun üzerine oturun. Bir elinizle dambılı tutun ve kolunuzu göğsünüzün üzerine doğru uzatın. Kolunuzu düz tutarak dambılı başınızın arkasına yavaşça indirin. Bir an duraklayın ve dambılı tekrar başlangıç ​​pozisyonuna kaldırın. İstenilen tekrar sayısı kadar tekrarlayın, ardından kolları değiştirin.",
+    "es": "Siéntate sobre un balón de estabilidad con los pies apoyados en el suelo y las rodillas flexionadas en un ángulo de 90 grados. Sostén una mancuerna con una mano y extiende el brazo recto hacia arriba sobre el pecho. Baja lentamente la mancuerna detrás de la cabeza manteniendo el brazo recto. Haz una pausa por un momento, luego levanta la mancuerna de vuelta a la posición inicial. Repite el número de repeticiones deseado, luego cambia de brazo.",
+    "ru": "Сядьте на гимнастический мяч, поставьте ступни на землю и согните колени под углом 90 градусов. Возьмите гантель одной рукой и вытяните руку прямо над грудью. Медленно опустите гантель за голову, сохраняя руку прямой. Сделайте паузу на мгновение, затем поднимите гантель обратно в исходное положение. Повторите желаемое количество повторений, затем поменяйте руки.",
+    "zh": "坐在健身球上，双脚平放在地上，膝盖弯曲成 90 度角。 用一只手握住哑铃，将手臂伸直至胸部上方。 慢慢地将哑铃放到脑后，同时保持手臂伸直。 暂停片刻，然后将哑铃举回到起始位置。 重复所需的重复次数，然后换臂。",
+    "hi": "अपने पैरों को ज़मीन पर सपाट करके और अपने घुटनों को 90 डिग्री के कोण पर मोड़कर एक व्यायाम बॉल पर बैठें। एक हाथ से डम्बल पकड़ें और अपने हाथ को सीधे अपनी छाती के ऊपर फैलाएँ। अपने हाथ को सीधा रखते हुए धीरे-धीरे डम्बल को अपने सिर के पीछे नीचे लाएँ। एक पल के लिए रुकें, फिर डम्बल को वापस प्रारंभिक स्थिति में उठाएं। दोहराव की वांछित संख्या के लिए दोहराएं, फिर हथियार बदल लें।",
+    "pl": "Usiądź na piłce gimnastycznej, stopy oprzyj płasko na podłodze, a kolana zegnij pod kątem 90 stopni. Trzymaj hantlę jedną ręką i wyprostuj rękę prosto nad klatką piersiową. Powoli opuszczaj hantlę za głowę, utrzymując wyprostowaną rękę. Zatrzymaj się na chwilę, a następnie unieś hantlę z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń, a następnie zmień rękę.",
+    "ko": "익서사이즈 볼에 앉아 발을 땅에 고정하고 무릎을 90도로 굽힙니다. 한쪽 손으로 덤벨을 들고 팔을 가슴 위로 펼칩니다. 팔을 곧게 유지하며 덤벨을 머리 뒤로 천천히 내립니다. 잠시 멈춘 후 덤벨을 처음 위치로 올립니다. 원하는 횟수만큼 반복한 후 반대쪽 팔로 바꿔 진행합니다.",
+    "fr": "Assieds-toi sur un ballon d'exercice, les pieds à plat sur le sol et les genoux fléchis à un angle de 90 degrés. Tiens un haltère d'une main et étends ton bras droit au-dessus de ta poitrine. Abaisse lentement l'haltère derrière ta tête tout en gardant ton bras tendu. Marque une pause, puis ramène l'haltère à la position de départ. Répète le nombre de répétitions souhaité, puis change de bras."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on an exercise ball with your feet flat on the ground and your knees bent at a 90-degree angle.",
+      "Hold a dumbbell with one hand and extend your arm straight up above your chest.",
+      "Slowly lower the dumbbell behind your head while keeping your arm straight.",
+      "Pause for a moment, then raise the dumbbell back to the starting position.",
+      "Repeat for the desired number of repetitions, then switch arms."
+    ],
+    "it": [
+      "Siediti su una palla da ginnastica con i piedi piatti a terra e le ginocchia piegate a 90 gradi.",
+      "Tieni un manubrio con una mano e allunga il braccio dritto sopra il petto.",
+      "Abbassa lentamente il manubrio dietro la testa mantenendo il braccio dritto.",
+      "Fermati un attimo, poi solleva il manubrio di nuovo alla posizione di partenza.",
+      "Ripeti per il numero desiderato di ripetizioni, poi cambia braccio."
+    ],
+    "tr": [
+      "Ayaklarınız yere düz basacak ve dizleriniz 90 derecelik bir açıyla bükülmüş olacak şekilde bir egzersiz topunun üzerine oturun.",
+      "Bir elinizle dambılı tutun ve kolunuzu göğsünüzün üzerine doğru uzatın.",
+      "Kolunuzu düz tutarak dambılı başınızın arkasına yavaşça indirin.",
+      "Bir an duraklayın ve dambılı tekrar başlangıç ​​pozisyonuna kaldırın.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından kolları değiştirin."
+    ],
+    "es": [
+      "Siéntate sobre un balón de estabilidad con los pies apoyados en el suelo y las rodillas flexionadas en un ángulo de 90 grados.",
+      "Sostén una mancuerna con una mano y extiende el brazo recto hacia arriba sobre el pecho.",
+      "Baja lentamente la mancuerna detrás de la cabeza manteniendo el brazo recto.",
+      "Haz una pausa por un momento, luego levanta la mancuerna de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado, luego cambia de brazo."
+    ],
+    "ru": [
+      "Сядьте на гимнастический мяч, поставьте ступни на землю и согните колени под углом 90 градусов.",
+      "Возьмите гантель одной рукой и вытяните руку прямо над грудью.",
+      "Медленно опустите гантель за голову, сохраняя руку прямой.",
+      "Сделайте паузу на мгновение, затем поднимите гантель обратно в исходное положение.",
+      "Повторите желаемое количество повторений, затем поменяйте руки."
+    ],
+    "zh": [
+      "坐在健身球上，双脚平放在地上，膝盖弯曲成 90 度角。",
+      "用一只手握住哑铃，将手臂伸直至胸部上方。",
+      "慢慢地将哑铃放到脑后，同时保持手臂伸直。",
+      "暂停片刻，然后将哑铃举回到起始位置。",
+      "重复所需的重复次数，然后换臂。"
+    ],
+    "hi": [
+      "अपने पैरों को ज़मीन पर सपाट करके और अपने घुटनों को 90 डिग्री के कोण पर मोड़कर एक व्यायाम बॉल पर बैठें।",
+      "एक हाथ से डम्बल पकड़ें और अपने हाथ को सीधे अपनी छाती के ऊपर फैलाएँ।",
+      "अपने हाथ को सीधा रखते हुए धीरे-धीरे डम्बल को अपने सिर के पीछे नीचे लाएँ।",
+      "एक पल के लिए रुकें, फिर डम्बल को वापस प्रारंभिक स्थिति में उठाएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर हथियार बदल लें।"
+    ],
+    "pl": [
+      "Usiądź na piłce gimnastycznej, stopy oprzyj płasko na podłodze, a kolana zegnij pod kątem 90 stopni.",
+      "Trzymaj hantlę jedną ręką i wyprostuj rękę prosto nad klatką piersiową.",
+      "Powoli opuszczaj hantlę za głowę, utrzymując wyprostowaną rękę.",
+      "Zatrzymaj się na chwilę, a następnie unieś hantlę z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń, a następnie zmień rękę."
+    ],
+    "ko": [
+      "익서사이즈 볼에 앉아 발을 땅에 고정하고 무릎을 90도로 굽힙니다.",
+      "한쪽 손으로 덤벨을 들고 팔을 가슴 위로 펼칩니다.",
+      "팔을 곧게 유지하며 덤벨을 머리 뒤로 천천히 내립니다.",
+      "잠시 멈춘 후 덤벨을 처음 위치로 올립니다.",
+      "원하는 횟수만큼 반복한 후 반대쪽 팔로 바꿔 진행합니다."
+    ],
+    "fr": [
+      "Assieds-toi sur un ballon d'exercice, les pieds à plat sur le sol et les genoux fléchis à un angle de 90 degrés.",
+      "Tiens un haltère d'une main et étends ton bras droit au-dessus de ta poitrine.",
+      "Abaisse lentement l'haltère derrière ta tête tout en gardant ton bras tendu.",
+      "Marque une pause, puis ramène l'haltère à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis change de bras."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "latissimus dorsi",
+    "rhomboids"
+  ],
+  "target": "pectorals",
+  "image": "images/1291-bQHPBU3.jpg",
+  "gif_url": "videos/1291-bQHPBU3.gif",
+  "media_id": "bQHPBU3",
+  "created_at": "2026-03-18T12:31:32.879966+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

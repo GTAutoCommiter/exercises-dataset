@@ -1,0 +1,362 @@
+[
+  {
+    "id": "0641",
+    "name": "otis up",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "weighted",
+    "target": "abs",
+    "image": "images/0641-UVL20oz.jpg",
+    "gif_url": "videos/0641-UVL20oz.gif"
+  },
+  {
+    "id": "0830",
+    "name": "weighted bench dip",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "weighted",
+    "target": "triceps",
+    "image": "images/0830-MU9HnE7.jpg",
+    "gif_url": "videos/0830-MU9HnE7.gif"
+  },
+  {
+    "id": "2987",
+    "name": "weighted close grip chin-up on dip cage",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "weighted",
+    "target": "lats",
+    "image": "images/2987-Gk1r408.jpg",
+    "gif_url": "videos/2987-Gk1r408.gif"
+  },
+  {
+    "id": "3643",
+    "name": "weighted cossack squats (male)",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "weighted",
+    "target": "glutes",
+    "image": "images/3643-GWoKnIm.jpg",
+    "gif_url": "videos/3643-GWoKnIm.gif"
+  },
+  {
+    "id": "0832",
+    "name": "weighted crunch",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "weighted",
+    "target": "abs",
+    "image": "images/0832-s8nrDXF.jpg",
+    "gif_url": "videos/0832-s8nrDXF.gif"
+  },
+  {
+    "id": "3670",
+    "name": "weighted decline sit-up",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "weighted",
+    "target": "abs",
+    "image": "images/3670-EZeDVzO.jpg",
+    "gif_url": "videos/3670-EZeDVzO.gif"
+  },
+  {
+    "id": "0833",
+    "name": "weighted donkey calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "weighted",
+    "target": "calves",
+    "image": "images/0833-LmaFNZS.jpg",
+    "gif_url": "videos/0833-LmaFNZS.gif"
+  },
+  {
+    "id": "1310",
+    "name": "weighted drop push up",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "weighted",
+    "target": "pectorals",
+    "image": "images/1310-PSlvNMs.jpg",
+    "gif_url": "videos/1310-PSlvNMs.gif"
+  },
+  {
+    "id": "2135",
+    "name": "weighted front plank",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "weighted",
+    "target": "abs",
+    "image": "images/2135-VBAWRPG.jpg",
+    "gif_url": "videos/2135-VBAWRPG.gif"
+  },
+  {
+    "id": "0834",
+    "name": "weighted front raise",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "weighted",
+    "target": "delts",
+    "image": "images/0834-e4aFmFY.jpg",
+    "gif_url": "videos/0834-e4aFmFY.gif"
+  },
+  {
+    "id": "0866",
+    "name": "weighted hanging leg-hip raise",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "weighted",
+    "target": "abs",
+    "image": "images/0866-QOA0FD0.jpg",
+    "gif_url": "videos/0866-QOA0FD0.gif"
+  },
+  {
+    "id": "0835",
+    "name": "weighted hyperextension (on stability ball)",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "weighted",
+    "target": "spine",
+    "image": "images/0835-8urJS9b.jpg",
+    "gif_url": "videos/0835-8urJS9b.gif"
+  },
+  {
+    "id": "3641",
+    "name": "weighted kneeling step with swing",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "weighted",
+    "target": "delts",
+    "image": "images/3641-7uFJuXp.jpg",
+    "gif_url": "videos/3641-7uFJuXp.gif"
+  },
+  {
+    "id": "3644",
+    "name": "weighted lunge with swing",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "weighted",
+    "target": "glutes",
+    "image": "images/3644-5WiFcYk.jpg",
+    "gif_url": "videos/3644-5WiFcYk.gif"
+  },
+  {
+    "id": "3286",
+    "name": "weighted muscle up",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "weighted",
+    "target": "lats",
+    "image": "images/3286-JsOV1SU.jpg",
+    "gif_url": "videos/3286-JsOV1SU.gif"
+  },
+  {
+    "id": "3312",
+    "name": "weighted muscle up (on bar)",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "weighted",
+    "target": "lats",
+    "image": "images/3312-MCkqdKE.jpg",
+    "gif_url": "videos/3312-MCkqdKE.gif"
+  },
+  {
+    "id": "3290",
+    "name": "weighted one hand pull up",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "weighted",
+    "target": "lats",
+    "image": "images/3290-fXfqg1E.jpg",
+    "gif_url": "videos/3290-fXfqg1E.gif"
+  },
+  {
+    "id": "0840",
+    "name": "weighted overhead crunch (on stability ball)",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "weighted",
+    "target": "abs",
+    "image": "images/0840-xmM75XG.jpg",
+    "gif_url": "videos/0840-xmM75XG.gif"
+  },
+  {
+    "id": "0841",
+    "name": "weighted pull-up",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "weighted",
+    "target": "lats",
+    "image": "images/0841-HMzLjXx.jpg",
+    "gif_url": "videos/0841-HMzLjXx.gif"
+  },
+  {
+    "id": "0844",
+    "name": "weighted round arm",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "weighted",
+    "target": "delts",
+    "image": "images/0844-VLYXo8S.jpg",
+    "gif_url": "videos/0844-VLYXo8S.gif"
+  },
+  {
+    "id": "0846",
+    "name": "weighted russian twist",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "weighted",
+    "target": "abs",
+    "image": "images/0846-fZFZ704.jpg",
+    "gif_url": "videos/0846-fZFZ704.gif"
+  },
+  {
+    "id": "0845",
+    "name": "weighted russian twist (legs up)",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "weighted",
+    "target": "abs",
+    "image": "images/0845-WU9BLIs.jpg",
+    "gif_url": "videos/0845-WU9BLIs.gif"
+  },
+  {
+    "id": "2371",
+    "name": "weighted russian twist v. 2",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "weighted",
+    "target": "abs",
+    "image": "images/2371-YIUAtYf.jpg",
+    "gif_url": "videos/2371-YIUAtYf.gif"
+  },
+  {
+    "id": "0849",
+    "name": "weighted seated twist (on stability ball)",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "weighted",
+    "target": "abs",
+    "image": "images/0849-s34Y4LR.jpg",
+    "gif_url": "videos/0849-s34Y4LR.gif"
+  },
+  {
+    "id": "0850",
+    "name": "weighted side bend (on stability ball)",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "weighted",
+    "target": "abs",
+    "image": "images/0850-6bOA1Oi.jpg",
+    "gif_url": "videos/0850-6bOA1Oi.gif"
+  },
+  {
+    "id": "0851",
+    "name": "weighted sissy squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "weighted",
+    "target": "quads",
+    "image": "images/0851-0lQnxMZ.jpg",
+    "gif_url": "videos/0851-0lQnxMZ.gif"
+  },
+  {
+    "id": "0852",
+    "name": "weighted squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "weighted",
+    "target": "glutes",
+    "image": "images/0852-JZuApnB.jpg",
+    "gif_url": "videos/0852-JZuApnB.gif"
+  },
+  {
+    "id": "0853",
+    "name": "weighted standing curl",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "weighted",
+    "target": "biceps",
+    "image": "images/0853-M5Y7GPg.jpg",
+    "gif_url": "videos/0853-M5Y7GPg.gif"
+  },
+  {
+    "id": "0854",
+    "name": "weighted standing hand squeeze",
+    "category": "lower arms",
+    "body_part": "lower arms",
+    "equipment": "weighted",
+    "target": "forearms",
+    "image": "images/0854-bjqbauy.jpg",
+    "gif_url": "videos/0854-bjqbauy.gif"
+  },
+  {
+    "id": "3313",
+    "name": "weighted straight bar dip",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "weighted",
+    "target": "pectorals",
+    "image": "images/3313-Ff18ItA.jpg",
+    "gif_url": "videos/3313-Ff18ItA.gif"
+  },
+  {
+    "id": "3642",
+    "name": "weighted stretch lunge",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "weighted",
+    "target": "glutes",
+    "image": "images/3642-13VW2VO.jpg",
+    "gif_url": "videos/3642-13VW2VO.gif"
+  },
+  {
+    "id": "0856",
+    "name": "weighted svend press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "weighted",
+    "target": "pectorals",
+    "image": "images/0856-I1OBLnn.jpg",
+    "gif_url": "videos/0856-I1OBLnn.gif"
+  },
+  {
+    "id": "1754",
+    "name": "weighted three bench dips",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "weighted",
+    "target": "triceps",
+    "image": "images/1754-gtO1ErP.jpg",
+    "gif_url": "videos/1754-gtO1ErP.gif"
+  },
+  {
+    "id": "1755",
+    "name": "weighted tricep dips",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "weighted",
+    "target": "triceps",
+    "image": "images/1755-bZq4bwK.jpg",
+    "gif_url": "videos/1755-bZq4bwK.gif"
+  },
+  {
+    "id": "1767",
+    "name": "weighted triceps dip on high parallel bars",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "weighted",
+    "target": "triceps",
+    "image": "images/1767-K1vlode.jpg",
+    "gif_url": "videos/1767-K1vlode.gif"
+  },
+  {
+    "id": "0859",
+    "name": "wrist rollerer",
+    "category": "lower arms",
+    "body_part": "lower arms",
+    "equipment": "weighted",
+    "target": "forearms",
+    "image": "images/0859-bd5b860.jpg",
+    "gif_url": "videos/0859-bd5b860.gif"
+  }
+]

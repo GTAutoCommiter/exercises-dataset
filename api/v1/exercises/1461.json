@@ -1,0 +1,134 @@
+{
+  "id": "1461",
+  "name": "barbell full squat (back pov)",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart, toes slightly turned out. Hold the barbell across your upper back, resting it on your traps or rear delts. Engage your core and keep your chest up as you begin to lower your body down. Bend at the knees and hips, pushing your hips back and down as if sitting into a chair. Lower your body until your thighs are parallel to the ground or slightly below. Keep your knees in line with your toes and your weight in your heels. Drive through your heels to stand back up, extending your hips and knees. Repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi alla larghezza delle spalle, le dita leggermente rivolte verso l'esterno. Tieni il bilanciere sulla parte superiore della schiena, appoggiandolo sulle trappole o sui deltoidi posteriori. Coinvolgi il tuo core e mantieni il petto sollevato mentre inizi ad abbassare il corpo. Piega le ginocchia e i fianchi, spingendo i fianchi indietro e in basso come se fossi seduto su una sedia. Abbassa il corpo finché le cosce non sono parallele al suolo o leggermente al di sotto. Tieni le ginocchia in linea con le dita dei piedi e il peso sui talloni. Spingi i talloni per rialzarti, estendendo i fianchi e le ginocchia. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız omuz genişliğinde açık, ayak parmaklarınız hafifçe dışa dönük olacak şekilde ayakta durun. Halterinizi sırtınızın üst kısmında tutun ve trapezlerinize veya arka deltalarınıza dayayın. Vücudunuzu aşağı indirmeye başladığınızda merkez bölgenizi devreye sokun ve göğsünüzü yukarıda tutun. Dizlerinizi ve kalçalarınızı bükün, sanki bir sandalyeye oturuyormuş gibi kalçalarınızı geriye ve aşağı doğru itin. Uyluklarınız yere paralel veya biraz aşağıda oluncaya kadar vücudunuzu indirin. Dizlerinizi ayak parmaklarınızla aynı hizada ve ağırlığınızı topuklarınızda tutun. Kalçalarınızı ve dizlerinizi uzatarak ayağa kalkmak için topuklarınızı kullanın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros, con los dedos de los pies ligeramente hacia afuera. Sujeta la barra sobre la parte superior de la espalda, apoyándola en los trapecios o los deltoides posteriores. Activa el core y mantén el pecho elevado mientras comienzas a bajar el cuerpo. Flexiona las rodillas y las caderas, empujando las caderas hacia atrás y hacia abajo como si te sentaras en una silla. Baja el cuerpo hasta que los muslos queden paralelos al suelo o un poco por debajo. Mantén las rodillas alineadas con los dedos de los pies y el peso sobre los talones. Empuja con los talones para volver a ponerte de pie, extendiendo las caderas y las rodillas. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, носки слегка развернуты наружу. Держите штангу на верхней части спины, опираясь на трапеции или задние дельты. Напрягите корпус и держите грудь поднятой, когда начинаете опускать тело вниз. Согните колени и бедра, отводя бедра назад и вниз, как будто вы сидите на стуле. Опускайте тело до тех пор, пока бедра не станут параллельны земле или немного ниже. Держите колени на одной линии с пальцами ног, а вес тела перенесите на пятки. Протолкните пятки, чтобы встать обратно, выпрямляя бедра и колени. Повторите необходимое количество повторений.",
+    "zh": "站立，双脚分开与肩同宽，脚趾稍微向外。 将杠铃放在上背部，将其放在斜方肌或三角肌后束上。 当你开始降低身体时，启动你的核心并保持胸部挺直。 弯曲膝盖和臀部，向后和向下推臀部，就像坐在椅子上一样。 降低身体，直到大腿与地面平行或稍低于地面。 保持膝盖与脚趾对齐，并将重量放在脚后跟上。 通过脚后跟站起来，伸展臀部和膝盖。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, पैर की उंगलियां थोड़ी बाहर निकली हुई हों। बारबेल को अपनी ऊपरी पीठ पर पकड़ें, इसे अपने जाल या पीछे के डेल्टा पर टिकाएं। जब आप अपने शरीर को नीचे करना शुरू करें तो अपने कोर को संलग्न करें और अपनी छाती को ऊपर रखें। घुटनों और कूल्हों पर झुकें, अपने कूल्हों को पीछे और नीचे धकेलें जैसे कि कुर्सी पर बैठे हों। अपने शरीर को तब तक नीचे झुकाएँ जब तक कि आपकी जाँघें ज़मीन के समानांतर या थोड़ा नीचे न आ जाएँ। अपने घुटनों को अपने पंजों की सीध में रखें और अपना वजन अपनी एड़ियों पर रखें। अपने कूल्हों और घुटनों को फैलाते हुए वापस खड़े होने के लिए अपनी एड़ी से ड्राइव करें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań w rozkroku na szerokość barków, z lekko rozstawionymi na zewnątrz palcami stóp. Trzymaj sztangę na górnej części pleców, opierając ją na mięśniach czworobocznych lub tylnych aktonach barków. Napnij mięśnie tułowia i utrzymuj uniesioną klatkę piersiową, rozpoczynając opuszczanie ciała. Ugnij kolana i biodra, cofając biodra w dół, jakbyś siadał na krześle. Opuszczaj ciało, aż uda będą równoległe do podłoża lub nieco niżej. Utrzymuj kolana w linii ze stopami, a ciężar ciała w piętach. Wypchnij się przez pięty, wracając do pozycji stojącej, prostując biodra i kolana. Powtórz odpowiednią liczbę razy.",
+    "ko": "발을 어깨넓이로 벌리고 발가락을 약간 바깥쪽으로 향하게 섭니다. 바벨을 상체 뒤쪽에 올려놓으면서 승모근이나 후삼각근에 걸쳐놓습니다. 복부에 힘을 주고 가슴을 펼친 상태를 유지하면서 몸을 내리기 시작합니다. 무릎과 허리를 구부려 의자에 앉는 것처럼 허리를 뒤로 내립니다. 몸을 내려서 넓적다리가 바닥과 평행하거나 약간 아래까지 내려갑니다. 무릎이 발가락과 일직선상에 있고 체중은 발 뒤꿈치에 있는지 확인합니다. 발 뒤꿈치로 힘을 주어 일어나면서 허리와 무릎을 펼칩니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules, les orteils légèrement tournés vers l'extérieur. Tiens la barre en travers du haut de ton dos, en la faisant reposer sur tes trapèzes ou tes deltoïdes postérieurs. Gaine ta sangle abdominale et garde ta poitrine relevée pendant que tu commences à abaisser ton corps. Fléchis les genoux et les hanches en poussant tes hanches vers l'arrière et vers le bas comme si tu t'asseyais sur une chaise. Abaisse ton corps jusqu'à ce que tes cuisses soient parallèles au sol ou légèrement en dessous. Garde les genoux alignés avec les orteils et le poids dans les talons. Pousse sur tes talons pour te relever, en étendant tes hanches et tes genoux. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart, toes slightly turned out.",
+      "Hold the barbell across your upper back, resting it on your traps or rear delts.",
+      "Engage your core and keep your chest up as you begin to lower your body down.",
+      "Bend at the knees and hips, pushing your hips back and down as if sitting into a chair.",
+      "Lower your body until your thighs are parallel to the ground or slightly below.",
+      "Keep your knees in line with your toes and your weight in your heels.",
+      "Drive through your heels to stand back up, extending your hips and knees.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle, le dita leggermente rivolte verso l'esterno.",
+      "Tieni il bilanciere sulla parte superiore della schiena, appoggiandolo sulle trappole o sui deltoidi posteriori.",
+      "Coinvolgi il tuo core e mantieni il petto sollevato mentre inizi ad abbassare il corpo.",
+      "Piega le ginocchia e i fianchi, spingendo i fianchi indietro e in basso come se fossi seduto su una sedia.",
+      "Abbassa il corpo finché le cosce non sono parallele al suolo o leggermente al di sotto.",
+      "Tieni le ginocchia in linea con le dita dei piedi e il peso sui talloni.",
+      "Spingi i talloni per rialzarti, estendendo i fianchi e le ginocchia.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık, ayak parmaklarınız hafifçe dışa dönük olacak şekilde ayakta durun.",
+      "Halterinizi sırtınızın üst kısmında tutun ve trapezlerinize veya arka deltalarınıza dayayın.",
+      "Vücudunuzu aşağı indirmeye başladığınızda merkez bölgenizi devreye sokun ve göğsünüzü yukarıda tutun.",
+      "Dizlerinizi ve kalçalarınızı bükün, sanki bir sandalyeye oturuyormuş gibi kalçalarınızı geriye ve aşağı doğru itin.",
+      "Uyluklarınız yere paralel veya biraz aşağıda oluncaya kadar vücudunuzu indirin.",
+      "Dizlerinizi ayak parmaklarınızla aynı hizada ve ağırlığınızı topuklarınızda tutun.",
+      "Kalçalarınızı ve dizlerinizi uzatarak ayağa kalkmak için topuklarınızı kullanın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros, con los dedos de los pies ligeramente hacia afuera.",
+      "Sujeta la barra sobre la parte superior de la espalda, apoyándola en los trapecios o los deltoides posteriores.",
+      "Activa el core y mantén el pecho elevado mientras comienzas a bajar el cuerpo.",
+      "Flexiona las rodillas y las caderas, empujando las caderas hacia atrás y hacia abajo como si te sentaras en una silla.",
+      "Baja el cuerpo hasta que los muslos queden paralelos al suelo o un poco por debajo.",
+      "Mantén las rodillas alineadas con los dedos de los pies y el peso sobre los talones.",
+      "Empuja con los talones para volver a ponerte de pie, extendiendo las caderas y las rodillas.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, носки слегка развернуты наружу.",
+      "Держите штангу на верхней части спины, опираясь на трапеции или задние дельты.",
+      "Напрягите корпус и держите грудь поднятой, когда начинаете опускать тело вниз.",
+      "Согните колени и бедра, отводя бедра назад и вниз, как будто вы сидите на стуле.",
+      "Опускайте тело до тех пор, пока бедра не станут параллельны земле или немного ниже.",
+      "Держите колени на одной линии с пальцами ног, а вес тела перенесите на пятки.",
+      "Протолкните пятки, чтобы встать обратно, выпрямляя бедра и колени.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "站立，双脚分开与肩同宽，脚趾稍微向外。",
+      "将杠铃放在上背部，将其放在斜方肌或三角肌后束上。",
+      "当你开始降低身体时，启动你的核心并保持胸部挺直。",
+      "弯曲膝盖和臀部，向后和向下推臀部，就像坐在椅子上一样。",
+      "降低身体，直到大腿与地面平行或稍低于地面。",
+      "保持膝盖与脚趾对齐，并将重量放在脚后跟上。",
+      "通过脚后跟站起来，伸展臀部和膝盖。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, पैर की उंगलियां थोड़ी बाहर निकली हुई हों।",
+      "बारबेल को अपनी ऊपरी पीठ पर पकड़ें, इसे अपने जाल या पीछे के डेल्टा पर टिकाएं।",
+      "जब आप अपने शरीर को नीचे करना शुरू करें तो अपने कोर को संलग्न करें और अपनी छाती को ऊपर रखें।",
+      "घुटनों और कूल्हों पर झुकें, अपने कूल्हों को पीछे और नीचे धकेलें जैसे कि कुर्सी पर बैठे हों।",
+      "अपने शरीर को तब तक नीचे झुकाएँ जब तक कि आपकी जाँघें ज़मीन के समानांतर या थोड़ा नीचे न आ जाएँ।",
+      "अपने घुटनों को अपने पंजों की सीध में रखें और अपना वजन अपनी एड़ियों पर रखें।",
+      "अपने कूल्हों और घुटनों को फैलाते हुए वापस खड़े होने के लिए अपनी एड़ी से ड्राइव करें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków, z lekko rozstawionymi na zewnątrz palcami stóp.",
+      "Trzymaj sztangę na górnej części pleców, opierając ją na mięśniach czworobocznych lub tylnych aktonach barków.",
+      "Napnij mięśnie tułowia i utrzymuj uniesioną klatkę piersiową, rozpoczynając opuszczanie ciała.",
+      "Ugnij kolana i biodra, cofając biodra w dół, jakbyś siadał na krześle.",
+      "Opuszczaj ciało, aż uda będą równoległe do podłoża lub nieco niżej.",
+      "Utrzymuj kolana w linii ze stopami, a ciężar ciała w piętach.",
+      "Wypchnij się przez pięty, wracając do pozycji stojącej, prostując biodra i kolana.",
+      "Powtórz odpowiednią liczbę razy."
+    ],
+    "ko": [
+      "발을 어깨넓이로 벌리고 발가락을 약간 바깥쪽으로 향하게 섭니다.",
+      "바벨을 상체 뒤쪽에 올려놓으면서 승모근이나 후삼각근에 걸쳐놓습니다.",
+      "복부에 힘을 주고 가슴을 펼친 상태를 유지하면서 몸을 내리기 시작합니다.",
+      "무릎과 허리를 구부려 의자에 앉는 것처럼 허리를 뒤로 내립니다.",
+      "몸을 내려서 넓적다리가 바닥과 평행하거나 약간 아래까지 내려갑니다.",
+      "무릎이 발가락과 일직선상에 있고 체중은 발 뒤꿈치에 있는지 확인합니다.",
+      "발 뒤꿈치로 힘을 주어 일어나면서 허리와 무릎을 펼칩니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules, les orteils légèrement tournés vers l'extérieur.",
+      "Tiens la barre en travers du haut de ton dos, en la faisant reposer sur tes trapèzes ou tes deltoïdes postérieurs.",
+      "Gaine ta sangle abdominale et garde ta poitrine relevée pendant que tu commences à abaisser ton corps.",
+      "Fléchis les genoux et les hanches en poussant tes hanches vers l'arrière et vers le bas comme si tu t'asseyais sur une chaise.",
+      "Abaisse ton corps jusqu'à ce que tes cuisses soient parallèles au sol ou légèrement en dessous.",
+      "Garde les genoux alignés avec les orteils et le poids dans les talons.",
+      "Pousse sur tes talons pour te relever, en étendant tes hanches et tes genoux.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves",
+    "core"
+  ],
+  "target": "glutes",
+  "image": "images/1461-DhMl549.jpg",
+  "gif_url": "videos/1461-DhMl549.gif",
+  "media_id": "DhMl549",
+  "created_at": "2026-03-18T12:31:32.871562+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

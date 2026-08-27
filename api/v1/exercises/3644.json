@@ -1,0 +1,103 @@
+{
+  "id": "3644",
+  "name": "weighted lunge with swing",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "weighted",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart, holding a weight in each hand. Take a step forward with your right foot, lowering your body into a lunge position. As you lunge forward, swing the weights forward and upward, keeping your arms straight. Push off with your right foot and return to the starting position, swinging the weights back down. Repeat with your left foot and continue alternating legs for the desired number of repetitions.",
+    "it": "Stai con i piedi alla larghezza delle spalle, tenendo un peso in ciascuna mano. Fai un passo avanti con il piede destro, abbassando il corpo in una posizione di affondo. Mentre ti affondi in avanti, fai oscillare i pesi in avanti e verso l'alto, mantenendo le braccia tese. Spingi con il piede destro e torna alla posizione di partenza, riportando i pesi verso il basso. Ripeti con il piede sinistro e continua ad alternare le gambe per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız omuz genişliğinde açık, her iki elinize de birer ağırlık tutarak ayakta durun. Sağ ayağınızla öne doğru bir adım atın ve vücudunuzu hamle pozisyonuna indirin. İleriye doğru hamle yaparken, kollarınızı düz tutarak ağırlıkları ileri ve yukarı doğru sallayın. Sağ ayağınızla itin ve ağırlıkları geriye doğru sallayarak başlangıç ​​pozisyonuna dönün. Sol ayağınızla tekrarlayın ve istediğiniz sayıda tekrar için bacaklarınızı değiştirerek devam edin.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros, sosteniendo un peso en cada mano. Da un paso adelante con el pie derecho, bajando el cuerpo hasta una posición de zancada. Mientras avanzas en la zancada, balancea los pesos hacia adelante y hacia arriba, manteniendo los brazos rectos. Empújate con el pie derecho y vuelve a la posición inicial, balanceando los pesos de nuevo hacia abajo. Repite con el pie izquierdo y continúa alternando las piernas el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, держа в каждой руке по гире. Сделайте шаг вперед правой ногой, опуская тело в положение выпада. Делая выпад вперед, делайте махи гантелями вперед и вверх, держа руки прямыми. Оттолкнитесь правой ногой и вернитесь в исходное положение, опуская гирю обратно. Повторите то же самое левой ногой и продолжайте чередовать ноги желаемое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，每只手各握一个重物。 右脚向前迈出一步，将身体降低至弓步位置。 当你向前冲时，向前和向上摆动重物，保持手臂伸直。 用右脚推出并返回到起始位置，将重物向下摆动。 用左脚重复上述动作，并继续交替双腿，完成所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, प्रत्येक हाथ में वजन पकड़ें। अपने दाहिने पैर से एक कदम आगे बढ़ाएं, अपने शरीर को नीचे झुकाकर स्थिति में लाएं। जैसे ही आप आगे बढ़ते हैं, अपनी बाहों को सीधा रखते हुए वजन को आगे और ऊपर की ओर झुकाएं। अपने दाहिने पैर से धक्का दें और वज़न को वापस नीचे झुकाते हुए प्रारंभिक स्थिति में लौट आएं। अपने बाएं पैर से दोहराएं और वांछित संख्या में दोहराव के लिए पैरों को बारी-बारी से जारी रखें।",
+    "pl": "Stań ze stopami rozstawionymi na szerokość barków, trzymając obciążenie w każdej dłoni. Zrób krok do przodu prawą stopą, opuszczając ciało w pozycję wykroku. Podczas wykroku wykonaj zamach obciążeniami do przodu i w górę, trzymając ramiona proste. Odepchnij się prawą stopą i wróć do pozycji wyjściowej, wykonując zamach obciążeniami z powrotem w dół. Powtórz lewą stopą i kontynuuj naprzemienne nogi przez żądaną liczbę powtórzeń.",
+    "ko": "발을 어깨 너비로 벌리고 서서 각 손에 무게를 들고 있습니다. 오른쪽 발을 앞으로 내딛고 런지 자세로 내려갑니다. 앞으로 런지하면서 무게를 앞과 위로 흔들고 팔을 곧게 유지합니다. 오른쪽 발을 밀어내 처음 위치로 돌아오며 무게를 내려갑니다. 왼쪽 발로 반복하고 원하는 횟수 동안 다리를 번갈아 가며 계속합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un poids dans chaque main. Fais un pas en avant avec le pied droit, en abaissant ton corps en position de fente. En te fendant vers l'avant, balance les poids vers l'avant et vers le haut en gardant tes bras tendus. Pousse sur ton pied droit et reviens à la position de départ en ramenant les poids vers le bas. Répète avec ton pied gauche et continue à alterner les jambes pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart, holding a weight in each hand.",
+      "Take a step forward with your right foot, lowering your body into a lunge position.",
+      "As you lunge forward, swing the weights forward and upward, keeping your arms straight.",
+      "Push off with your right foot and return to the starting position, swinging the weights back down.",
+      "Repeat with your left foot and continue alternating legs for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle, tenendo un peso in ciascuna mano.",
+      "Fai un passo avanti con il piede destro, abbassando il corpo in una posizione di affondo.",
+      "Mentre ti affondi in avanti, fai oscillare i pesi in avanti e verso l'alto, mantenendo le braccia tese.",
+      "Spingi con il piede destro e torna alla posizione di partenza, riportando i pesi verso il basso.",
+      "Ripeti con il piede sinistro e continua ad alternare le gambe per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık, her iki elinize de birer ağırlık tutarak ayakta durun.",
+      "Sağ ayağınızla öne doğru bir adım atın ve vücudunuzu hamle pozisyonuna indirin.",
+      "İleriye doğru hamle yaparken, kollarınızı düz tutarak ağırlıkları ileri ve yukarı doğru sallayın.",
+      "Sağ ayağınızla itin ve ağırlıkları geriye doğru sallayarak başlangıç ​​pozisyonuna dönün.",
+      "Sol ayağınızla tekrarlayın ve istediğiniz sayıda tekrar için bacaklarınızı değiştirerek devam edin."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros, sosteniendo un peso en cada mano.",
+      "Da un paso adelante con el pie derecho, bajando el cuerpo hasta una posición de zancada.",
+      "Mientras avanzas en la zancada, balancea los pesos hacia adelante y hacia arriba, manteniendo los brazos rectos.",
+      "Empújate con el pie derecho y vuelve a la posición inicial, balanceando los pesos de nuevo hacia abajo.",
+      "Repite con el pie izquierdo y continúa alternando las piernas el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, держа в каждой руке по гире.",
+      "Сделайте шаг вперед правой ногой, опуская тело в положение выпада.",
+      "Делая выпад вперед, делайте махи гантелями вперед и вверх, держа руки прямыми.",
+      "Оттолкнитесь правой ногой и вернитесь в исходное положение, опуская гирю обратно.",
+      "Повторите то же самое левой ногой и продолжайте чередовать ноги желаемое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，每只手各握一个重物。",
+      "右脚向前迈出一步，将身体降低至弓步位置。",
+      "当你向前冲时，向前和向上摆动重物，保持手臂伸直。",
+      "用右脚推出并返回到起始位置，将重物向下摆动。",
+      "用左脚重复上述动作，并继续交替双腿，完成所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, प्रत्येक हाथ में वजन पकड़ें।",
+      "अपने दाहिने पैर से एक कदम आगे बढ़ाएं, अपने शरीर को नीचे झुकाकर स्थिति में लाएं।",
+      "जैसे ही आप आगे बढ़ते हैं, अपनी बाहों को सीधा रखते हुए वजन को आगे और ऊपर की ओर झुकाएं।",
+      "अपने दाहिने पैर से धक्का दें और वज़न को वापस नीचे झुकाते हुए प्रारंभिक स्थिति में लौट आएं।",
+      "अपने बाएं पैर से दोहराएं और वांछित संख्या में दोहराव के लिए पैरों को बारी-बारी से जारी रखें।"
+    ],
+    "pl": [
+      "Stań ze stopami rozstawionymi na szerokość barków, trzymając obciążenie w każdej dłoni.",
+      "Zrób krok do przodu prawą stopą, opuszczając ciało w pozycję wykroku.",
+      "Podczas wykroku wykonaj zamach obciążeniami do przodu i w górę, trzymając ramiona proste.",
+      "Odepchnij się prawą stopą i wróć do pozycji wyjściowej, wykonując zamach obciążeniami z powrotem w dół.",
+      "Powtórz lewą stopą i kontynuuj naprzemienne nogi przez żądaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 너비로 벌리고 서서 각 손에 무게를 들고 있습니다.",
+      "오른쪽 발을 앞으로 내딛고 런지 자세로 내려갑니다.",
+      "앞으로 런지하면서 무게를 앞과 위로 흔들고 팔을 곧게 유지합니다.",
+      "오른쪽 발을 밀어내 처음 위치로 돌아오며 무게를 내려갑니다.",
+      "왼쪽 발로 반복하고 원하는 횟수 동안 다리를 번갈아 가며 계속합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un poids dans chaque main.",
+      "Fais un pas en avant avec le pied droit, en abaissant ton corps en position de fente.",
+      "En te fendant vers l'avant, balance les poids vers l'avant et vers le haut en gardant tes bras tendus.",
+      "Pousse sur ton pied droit et reviens à la position de départ en ramenant les poids vers le bas.",
+      "Répète avec ton pied gauche et continue à alterner les jambes pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "glutes",
+  "image": "images/3644-5WiFcYk.jpg",
+  "gif_url": "videos/3644-5WiFcYk.gif",
+  "media_id": "5WiFcYk",
+  "created_at": "2026-03-18T12:31:32.905971+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

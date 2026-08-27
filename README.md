@@ -33,7 +33,7 @@
 - 1,324 exercises with category, body-part, equipment, target and muscle-group data
 - an animation GIF + 180×180 thumbnail for every exercise (media © [Gym visual](https://gymvisual.com/) — see [License](#-license--use))
 - step-by-step instructions in 10 languages (🇬🇧 English, 🇪🇸 Spanish, 🇮🇹 Italian, 🇹🇷 Turkish, 🇷🇺 Russian, 🇨🇳 Chinese, 🇮🇳 Hindi, 🇵🇱 Polish, 🇰🇷 Korean, 🇫🇷 French)
-- the interactive browser (`index.html`) and developer setup guide (`setup.html`)
+- interactive browser (`index.html`), setup guide (`setup.html`), and static REST API (`api/v1/`, see [API.md](API.md))
 
 ---
 
@@ -104,13 +104,22 @@ A step-by-step guide for integrating the dataset into your own application:
 
 ```
 exercises-dataset/
+├── api/v1/                  # Pre-generated static REST API for GitHub Pages / CDN (see API.md)
+│   ├── meta.json            # Dataset metadata & stats
+│   ├── exercises.json       # Compact exercises list (~346 KB)
+│   ├── exercises/{id}.json  # Individual exercise detail JSONs
+│   ├── categories.json      # Category summaries & counts
+│   └── lang/{lang}.json     # Single-language localized datasets
 ├── data/
-│   ├── exercises.json        # Full dataset — 1,324 exercise records (JSON array)
-│   └── exercises.schema.json # JSON Schema (2020-12) describing every record
+│   ├── exercises.json       # Full dataset — 1,324 exercise records (JSON array)
+│   └── exercises.schema.json# JSON Schema (2020-12) describing every record
+├── scripts/
+│   └── generate_api.py      # Python script to build static REST API
 ├── images/                  # 1,324 × 180×180 thumbnails  (© Gym visual)
 ├── videos/                  # 1,324 × 180×180 animation GIFs  (© Gym visual)
 ├── index.html               # Interactive exercise browser (client-side, no server needed)
 ├── setup.html               # Developer setup guide (DB import + API integration)
+├── API.md                   # Static REST API documentation & backend integration code
 ├── NOTICE.md                # Media attribution & license terms
 └── README.md
 ```

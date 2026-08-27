@@ -1,0 +1,102 @@
+{
+  "id": "1272",
+  "name": "chest stretch with exercise ball",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "stability ball",
+  "instructions": {
+    "en": "Sit on the stability ball with your feet flat on the ground and your back straight. Hold the exercise ball with both hands and extend your arms straight out in front of you. Slowly bring the exercise ball towards your chest, feeling a stretch in your chest muscles. Hold the stretch for a few seconds, then slowly return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Siediti sulla palla di stabilità con i piedi piatti a terra e la schiena dritta. Tieni la palla da esercizio con entrambe le mani e estendi le braccia dritte davanti a te. Porta lentamente la palla da esercizio verso il petto, sentendo uno stiramento nei muscoli del petto. Mantieni lo stretching per qualche secondo, poi torna lentamente alla posizione di partenza. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız yere düz basacak ve sırtınız düz olacak şekilde stabilite topunun üzerine oturun. Egzersiz topunu iki elinizle tutun ve kollarınızı düz bir şekilde önünüze doğru uzatın. Egzersiz topunu yavaşça göğsünüze doğru getirin, göğüs kaslarınızın gerildiğini hissedin. Gerdirmeyi birkaç saniye basılı tutun, ardından yavaşça başlangıç ​​pozisyonuna dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Siéntate en el balón de estabilidad con los pies planos en el suelo y la espalda recta. Sujeta el balón de ejercicio con ambas manos y extiende los brazos rectos frente a ti. Lleva lentamente el balón de ejercicio hacia tu pecho, sintiendo un estiramiento en los músculos del pecho. Mantén el estiramiento durante unos segundos, luego regresa lentamente a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Сядьте на мяч, поставив ноги на землю и выпрямив спину. Возьмите мяч для упражнений обеими руками и вытяните руки прямо перед собой. Медленно поднесите мяч к груди, чувствуя растяжение мышц груди. Удерживайте растяжку несколько секунд, затем медленно вернитесь в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "坐在稳定球上，双脚平放在地面上，背部挺直。 双手握住健身球，并将双臂伸直至身前。 慢慢地将健身球移向胸部，感受胸部肌肉的拉伸。 保持伸展几秒钟，然后慢慢回到起始位置。 重复所需的重复次数。",
+    "hi": "स्टेबिलिटी बॉल पर अपने पैरों को ज़मीन पर सपाट और अपनी पीठ को सीधा करके बैठें। एक्सरसाइज बॉल को दोनों हाथों से पकड़ें और अपनी बाहों को अपने सामने सीधा फैलाएं। अपनी छाती की मांसपेशियों में खिंचाव महसूस करते हुए धीरे-धीरे व्यायाम गेंद को अपनी छाती की ओर लाएँ। कुछ सेकंड के लिए खिंचाव बनाए रखें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Usiądź na piłce gimnastycznej, stopy płasko na podłodze, plecy proste. Trzymaj piłkę gimnastyczną obiema rękami i wyciągnij ramiona prosto przed sobą. Powoli przyciągnij piłkę w kierunku klatki piersiowej, odczuwając rozciąganie w mięśniach klatki piersiowej. Utrzymaj rozciąganie przez kilka sekund, a następnie powoli wróć do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "발을 지면에 붙이고 등을 곧게 펴서 안정성 공에 앉습니다. 운동 공을 양손으로 잡고 팔을 앞쪽으로 곧게 펼칩니다. 운동 공을 천천히 가슴 쪽으로 당기면서 가슴 근육에서 스트레치를 느낍니다. 몇 초 동안 스트레치를 유지한 후 천천히 시작 위치로 돌아갑니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Assieds-toi sur le ballon de stabilité, les pieds à plat sur le sol et le dos droit. Tiens le ballon d'exercice des deux mains et étends tes bras droit devant toi. Ramène lentement le ballon d'exercice vers ta poitrine, en ressentant un étirement dans les muscles pectoraux. Maintiens l'étirement pendant quelques secondes, puis reviens lentement à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on the stability ball with your feet flat on the ground and your back straight.",
+      "Hold the exercise ball with both hands and extend your arms straight out in front of you.",
+      "Slowly bring the exercise ball towards your chest, feeling a stretch in your chest muscles.",
+      "Hold the stretch for a few seconds, then slowly return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Siediti sulla palla di stabilità con i piedi piatti a terra e la schiena dritta.",
+      "Tieni la palla da esercizio con entrambe le mani e estendi le braccia dritte davanti a te.",
+      "Porta lentamente la palla da esercizio verso il petto, sentendo uno stiramento nei muscoli del petto.",
+      "Mantieni lo stretching per qualche secondo, poi torna lentamente alla posizione di partenza.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız yere düz basacak ve sırtınız düz olacak şekilde stabilite topunun üzerine oturun.",
+      "Egzersiz topunu iki elinizle tutun ve kollarınızı düz bir şekilde önünüze doğru uzatın.",
+      "Egzersiz topunu yavaşça göğsünüze doğru getirin, göğüs kaslarınızın gerildiğini hissedin.",
+      "Gerdirmeyi birkaç saniye basılı tutun, ardından yavaşça başlangıç ​​pozisyonuna dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Siéntate en el balón de estabilidad con los pies planos en el suelo y la espalda recta.",
+      "Sujeta el balón de ejercicio con ambas manos y extiende los brazos rectos frente a ti.",
+      "Lleva lentamente el balón de ejercicio hacia tu pecho, sintiendo un estiramiento en los músculos del pecho.",
+      "Mantén el estiramiento durante unos segundos, luego regresa lentamente a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на мяч, поставив ноги на землю и выпрямив спину.",
+      "Возьмите мяч для упражнений обеими руками и вытяните руки прямо перед собой.",
+      "Медленно поднесите мяч к груди, чувствуя растяжение мышц груди.",
+      "Удерживайте растяжку несколько секунд, затем медленно вернитесь в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "坐在稳定球上，双脚平放在地面上，背部挺直。",
+      "双手握住健身球，并将双臂伸直至身前。",
+      "慢慢地将健身球移向胸部，感受胸部肌肉的拉伸。",
+      "保持伸展几秒钟，然后慢慢回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "स्टेबिलिटी बॉल पर अपने पैरों को ज़मीन पर सपाट और अपनी पीठ को सीधा करके बैठें।",
+      "एक्सरसाइज बॉल को दोनों हाथों से पकड़ें और अपनी बाहों को अपने सामने सीधा फैलाएं।",
+      "अपनी छाती की मांसपेशियों में खिंचाव महसूस करते हुए धीरे-धीरे व्यायाम गेंद को अपनी छाती की ओर लाएँ।",
+      "कुछ सेकंड के लिए खिंचाव बनाए रखें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Usiądź na piłce gimnastycznej, stopy płasko na podłodze, plecy proste.",
+      "Trzymaj piłkę gimnastyczną obiema rękami i wyciągnij ramiona prosto przed sobą.",
+      "Powoli przyciągnij piłkę w kierunku klatki piersiowej, odczuwając rozciąganie w mięśniach klatki piersiowej.",
+      "Utrzymaj rozciąganie przez kilka sekund, a następnie powoli wróć do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 지면에 붙이고 등을 곧게 펴서 안정성 공에 앉습니다.",
+      "운동 공을 양손으로 잡고 팔을 앞쪽으로 곧게 펼칩니다.",
+      "운동 공을 천천히 가슴 쪽으로 당기면서 가슴 근육에서 스트레치를 느낍니다.",
+      "몇 초 동안 스트레치를 유지한 후 천천히 시작 위치로 돌아갑니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Assieds-toi sur le ballon de stabilité, les pieds à plat sur le sol et le dos droit.",
+      "Tiens le ballon d'exercice des deux mains et étends tes bras droit devant toi.",
+      "Ramène lentement le ballon d'exercice vers ta poitrine, en ressentant un étirement dans les muscles pectoraux.",
+      "Maintiens l'étirement pendant quelques secondes, puis reviens lentement à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "target": "pectorals",
+  "image": "images/1272-ykA5tU7.jpg",
+  "gif_url": "videos/1272-ykA5tU7.gif",
+  "media_id": "ykA5tU7",
+  "created_at": "2026-03-18T12:31:32.877005+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

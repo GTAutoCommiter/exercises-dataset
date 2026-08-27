@@ -1,0 +1,121 @@
+{
+  "id": "0200",
+  "name": "cable pushdown (with rope attachment)",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Attach a rope attachment to a high pulley on a cable machine. Stand facing the machine with your feet shoulder-width apart and a slight bend in your knees. Grasp the rope with an overhand grip, palms facing each other. Keep your elbows close to your sides and your upper arms stationary throughout the exercise. Exhale and push the rope downward by extending your elbows until your arms are fully extended. Pause for a moment, then inhale and slowly return to the starting position by allowing your elbows to flex. Repeat for the desired number of repetitions.",
+    "it": "Attacca un attacco di corda a una puleggia alta su una macchina a cavo. Stai rivolto verso la macchina con i piedi a larghezza delle spalle e con una leggera piega delle ginocchia. Afferra la corda con una presa sopra la mano, palmi rivolti l'uno verso l'altro. Tieni i gomiti vicini ai fianchi e le braccia superiori ferme durante l'esercizio. Espira e spingi la corda verso il basso estendendo i gomiti finché le braccia non sono completamente estese. Fermati un attimo, poi inspira e torna lentamente alla posizione iniziale lasciando che i gomiti si flaccino. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Bir kablo makinesindeki yüksek makaraya bir halat eklentisi takın. Ayaklarınız omuz genişliğinde açık ve dizleriniz hafif bükülü olacak şekilde makineye dönük olarak ayakta durun. Halatı avuç içleri birbirine bakacak şekilde üstten kavrayın. Egzersiz boyunca dirseklerinizi yanlarınıza yakın ve üst kollarınızı sabit tutun. Nefes verin ve kollarınız tamamen uzayana kadar dirseklerinizi uzatarak ipi aşağı doğru itin. Bir an duraklayın, sonra nefes alın ve dirseklerinizin esnemesine izin vererek yavaşça başlangıç ​​pozisyonuna dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Sujeta un accesorio de cuerda a una polea alta en una máquina de cable. Ponte de pie frente a la máquina con los pies separados a la altura de los hombros y una ligera flexión en las rodillas. Sujeta la cuerda con un agarre prono, con las palmas una frente a la otra. Mantén los codos cerca de los costados y los brazos superiores quietos durante todo el ejercicio. Exhala y empuja la cuerda hacia abajo extendiendo los codos hasta que los brazos queden completamente extendidos. Haz una pausa por un momento, luego inhala y regresa lentamente a la posición inicial permitiendo que los codos se flexionen. Repite el número de repeticiones deseado.",
+    "ru": "Прикрепите веревку к высокому блоку канатной машины. Встаньте лицом к тренажеру, ноги на ширине плеч и слегка согните колени. Возьмите веревку хватом сверху, ладони обращены друг к другу. На протяжении всего упражнения держите локти близко к бокам, а плечи неподвижными. Выдохните и толкните веревку вниз, разгибая локти до тех пор, пока руки полностью не выпрямятся. Сделайте паузу на мгновение, затем вдохните и медленно вернитесь в исходное положение, сгибая локти. Повторите необходимое количество повторений.",
+    "zh": "将绳索附件连接到缆绳机上的高滑轮上。 面向机器站立，双脚分开与肩同宽，膝盖稍微弯曲。 正手握住绳子，手掌相对。 在整个练习过程中，保持肘部靠近身体两侧，上臂保持静止。 呼气并伸展肘部将绳子向下推，直到手臂完全伸展。 暂停片刻，然后吸气，并让肘部弯曲，慢慢回到起始位置。 重复所需的重复次数。",
+    "hi": "एक केबल मशीन पर एक उच्च चरखी से रस्सी का लगाव जोड़ें। अपने पैरों को कंधे की चौड़ाई पर फैलाकर और घुटनों को थोड़ा मोड़कर मशीन की ओर मुंह करके खड़े हो जाएं। रस्सी को ऊपरी पकड़ से पकड़ें, हथेलियाँ एक-दूसरे के सामने हों। पूरे अभ्यास के दौरान अपनी कोहनियों को अपनी भुजाओं के पास और अपनी ऊपरी भुजाओं को स्थिर रखें। सांस छोड़ें और अपनी कोहनियों को फैलाकर रस्सी को तब तक नीचे की ओर धकेलें जब तक कि आपकी बाहें पूरी तरह फैल न जाएं। एक पल के लिए रुकें, फिर सांस लें और अपनी कोहनियों को मोड़कर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Podłącz uchwyt z liną do wyciągu górnego. Stań przodem do maszyny, stopy rozstawione na szerokość barków, kolana lekko ugięte. Chwyć linę nachwytem, dłonie zwrócone do siebie. Trzymaj łokcie blisko boków, a ramiona górne nieruchomo przez cały czas trwania ćwiczenia. Wydychaj powietrze i pchnij linę w dół, prostując łokcie, aż ramiona będą całkowicie wyprostowane. Zatrzymaj się na moment, a następnie wdychaj powietrze i powoli wróć do pozycji wyjściowej, pozwalając łokciom się ugiąć. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "케이블 머신의 높은 도르래에 로프 어태치먼트를 부착합니다. 머신을 향해 어깨 너비로 발을 벌리고 무릎을 약간 구부립니다. 손바닥이 서로 마주보도록 오버핸드 그립으로 로프를 잡습니다. 팔꿈치를 옆에 붙이고 운동 전체에서 상완을 고정한 채로 유지합니다. 숨을 내쉬며 팔꿈치를 펴서 팔이 완전히 펴질 때까지 로프를 아래로 밉니다. 잠깐 멈춘 후 숨을 들이쉬며 팔꿈치를 구부려 천천히 시작 위치로 돌립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Fixe une corde à une poulie haute sur une machine à câble. Tiens-toi face à la machine, les pieds écartés à la largeur des épaules et les genoux légèrement fléchis. Saisis la corde avec une prise en pronation, les paumes tournées l'une vers l'autre. Garde tes coudes près de tes flancs et le haut de tes bras immobile tout au long de l'exercice. Expire et pousse la corde vers le bas en étendant tes coudes jusqu'à ce que tes bras soient complètement tendus. Marque une pause, puis inspire et reviens lentement à la position de départ en laissant tes coudes fléchir. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Attach a rope attachment to a high pulley on a cable machine.",
+      "Stand facing the machine with your feet shoulder-width apart and a slight bend in your knees.",
+      "Grasp the rope with an overhand grip, palms facing each other.",
+      "Keep your elbows close to your sides and your upper arms stationary throughout the exercise.",
+      "Exhale and push the rope downward by extending your elbows until your arms are fully extended.",
+      "Pause for a moment, then inhale and slowly return to the starting position by allowing your elbows to flex.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Attacca un attacco di corda a una puleggia alta su una macchina a cavo.",
+      "Stai rivolto verso la macchina con i piedi a larghezza delle spalle e con una leggera piega delle ginocchia.",
+      "Afferra la corda con una presa sopra la mano, palmi rivolti l'uno verso l'altro.",
+      "Tieni i gomiti vicini ai fianchi e le braccia superiori ferme durante l'esercizio.",
+      "Espira e spingi la corda verso il basso estendendo i gomiti finché le braccia non sono completamente estese.",
+      "Fermati un attimo, poi inspira e torna lentamente alla posizione iniziale lasciando che i gomiti si flaccino.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Bir kablo makinesindeki yüksek makaraya bir halat eklentisi takın.",
+      "Ayaklarınız omuz genişliğinde açık ve dizleriniz hafif bükülü olacak şekilde makineye dönük olarak ayakta durun.",
+      "Halatı avuç içleri birbirine bakacak şekilde üstten kavrayın.",
+      "Egzersiz boyunca dirseklerinizi yanlarınıza yakın ve üst kollarınızı sabit tutun.",
+      "Nefes verin ve kollarınız tamamen uzayana kadar dirseklerinizi uzatarak ipi aşağı doğru itin.",
+      "Bir an duraklayın, sonra nefes alın ve dirseklerinizin esnemesine izin vererek yavaşça başlangıç ​​pozisyonuna dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Sujeta un accesorio de cuerda a una polea alta en una máquina de cable.",
+      "Ponte de pie frente a la máquina con los pies separados a la altura de los hombros y una ligera flexión en las rodillas.",
+      "Sujeta la cuerda con un agarre prono, con las palmas una frente a la otra.",
+      "Mantén los codos cerca de los costados y los brazos superiores quietos durante todo el ejercicio.",
+      "Exhala y empuja la cuerda hacia abajo extendiendo los codos hasta que los brazos queden completamente extendidos.",
+      "Haz una pausa por un momento, luego inhala y regresa lentamente a la posición inicial permitiendo que los codos se flexionen.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Прикрепите веревку к высокому блоку канатной машины.",
+      "Встаньте лицом к тренажеру, ноги на ширине плеч и слегка согните колени.",
+      "Возьмите веревку хватом сверху, ладони обращены друг к другу.",
+      "На протяжении всего упражнения держите локти близко к бокам, а плечи неподвижными.",
+      "Выдохните и толкните веревку вниз, разгибая локти до тех пор, пока руки полностью не выпрямятся.",
+      "Сделайте паузу на мгновение, затем вдохните и медленно вернитесь в исходное положение, сгибая локти.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将绳索附件连接到缆绳机上的高滑轮上。",
+      "面向机器站立，双脚分开与肩同宽，膝盖稍微弯曲。",
+      "正手握住绳子，手掌相对。",
+      "在整个练习过程中，保持肘部靠近身体两侧，上臂保持静止。",
+      "呼气并伸展肘部将绳子向下推，直到手臂完全伸展。",
+      "暂停片刻，然后吸气，并让肘部弯曲，慢慢回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "एक केबल मशीन पर एक उच्च चरखी से रस्सी का लगाव जोड़ें।",
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर और घुटनों को थोड़ा मोड़कर मशीन की ओर मुंह करके खड़े हो जाएं।",
+      "रस्सी को ऊपरी पकड़ से पकड़ें, हथेलियाँ एक-दूसरे के सामने हों।",
+      "पूरे अभ्यास के दौरान अपनी कोहनियों को अपनी भुजाओं के पास और अपनी ऊपरी भुजाओं को स्थिर रखें।",
+      "सांस छोड़ें और अपनी कोहनियों को फैलाकर रस्सी को तब तक नीचे की ओर धकेलें जब तक कि आपकी बाहें पूरी तरह फैल न जाएं।",
+      "एक पल के लिए रुकें, फिर सांस लें और अपनी कोहनियों को मोड़कर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Podłącz uchwyt z liną do wyciągu górnego.",
+      "Stań przodem do maszyny, stopy rozstawione na szerokość barków, kolana lekko ugięte.",
+      "Chwyć linę nachwytem, dłonie zwrócone do siebie.",
+      "Trzymaj łokcie blisko boków, a ramiona górne nieruchomo przez cały czas trwania ćwiczenia.",
+      "Wydychaj powietrze i pchnij linę w dół, prostując łokcie, aż ramiona będą całkowicie wyprostowane.",
+      "Zatrzymaj się na moment, a następnie wdychaj powietrze i powoli wróć do pozycji wyjściowej, pozwalając łokciom się ugiąć.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "케이블 머신의 높은 도르래에 로프 어태치먼트를 부착합니다.",
+      "머신을 향해 어깨 너비로 발을 벌리고 무릎을 약간 구부립니다.",
+      "손바닥이 서로 마주보도록 오버핸드 그립으로 로프를 잡습니다.",
+      "팔꿈치를 옆에 붙이고 운동 전체에서 상완을 고정한 채로 유지합니다.",
+      "숨을 내쉬며 팔꿈치를 펴서 팔이 완전히 펴질 때까지 로프를 아래로 밉니다.",
+      "잠깐 멈춘 후 숨을 들이쉬며 팔꿈치를 구부려 천천히 시작 위치로 돌립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Fixe une corde à une poulie haute sur une machine à câble.",
+      "Tiens-toi face à la machine, les pieds écartés à la largeur des épaules et les genoux légèrement fléchis.",
+      "Saisis la corde avec une prise en pronation, les paumes tournées l'une vers l'autre.",
+      "Garde tes coudes près de tes flancs et le haut de tes bras immobile tout au long de l'exercice.",
+      "Expire et pousse la corde vers le bas en étendant tes coudes jusqu'à ce que tes bras soient complètement tendus.",
+      "Marque une pause, puis inspire et reviens lentement à la position de départ en laissant tes coudes fléchir.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "forearms",
+  "secondary_muscles": [
+    "forearms"
+  ],
+  "target": "triceps",
+  "image": "images/0200-dU605di.jpg",
+  "gif_url": "videos/0200-dU605di.gif",
+  "media_id": "dU605di",
+  "created_at": "2026-03-18T12:31:32.875469+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

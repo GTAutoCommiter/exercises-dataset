@@ -1,0 +1,124 @@
+{
+  "id": "0028",
+  "name": "barbell clean and press",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and the barbell on the floor in front of you. Bend your knees and hinge at the hips to lower down and grip the barbell with an overhand grip, hands slightly wider than shoulder-width apart. Drive through your heels and extend your hips and knees to lift the barbell off the floor, keeping it close to your body. As the barbell reaches your thighs, explosively extend your hips, shrug your shoulders, and pull the barbell up towards your chest. As the barbell reaches chest height, quickly drop under it and catch it at shoulder level, with your elbows pointing forward and your palms facing up. From the catch position, press the barbell overhead by extending your arms and pushing the barbell straight up. Lower the barbell back down to the starting position and repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi alla larghezza delle spalle e il bilanciere sul pavimento di fronte a te. Piega le ginocchia e fai perno sui fianchi per abbassarti e afferrare il bilanciere con una presa prona, con le mani leggermente più larghe della larghezza delle spalle. Guida attraverso i talloni ed estendi i fianchi e le ginocchia per sollevare il bilanciere dal pavimento, tenendolo vicino al corpo. Quando il bilanciere raggiunge le cosce, estendi in modo esplosivo i fianchi, alza le spalle e tira il bilanciere verso il petto. Quando il bilanciere raggiunge l'altezza del petto, abbassati rapidamente sotto di esso e afferralo all'altezza delle spalle, con i gomiti rivolti in avanti e i palmi rivolti verso l'alto. Dalla posizione di presa, premi il bilanciere sopra la testa estendendo le braccia e spingendo il bilanciere verso l'alto. Abbassare nuovamente il bilanciere nella posizione iniziale e ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız omuz genişliğinde açık ve halter önünüzde yerde olacak şekilde ayakta durun. Dizlerinizi bükün ve kalçalarınızı menteşeleyerek aşağı indirin ve halteri üstten kavrayarak tutun, eller omuz genişliğinden biraz daha açık olsun. Topuklarınızın üzerinden geçin ve halterinizi vücudunuza yakın tutarak yerden kaldırmak için kalçalarınızı ve dizlerinizi uzatın. Halter uyluklarınıza ulaştığında kalçalarınızı patlayıcı bir şekilde uzatın, omuzlarınızı silkin ve halteri göğsünüze doğru çekin. Halter göğüs yüksekliğine ulaştığında, hızla altına inin ve dirsekleriniz öne ve avuçlarınız yukarıya bakacak şekilde omuz hizasında yakalayın. Yakalama konumundan, kollarınızı uzatarak ve halteri düz bir şekilde yukarı doğru iterek halterin başının üstüne basın. Halteri başlangıç ​​pozisyonuna indirin ve istenilen sayıda tekrar yapın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y la barra en el suelo frente a ti. Flexiona las rodillas y las caderas para bajar y agarrar la barra con un agarre pronado, con las manos un poco más separadas que el ancho de los hombros. Empuja con los talones y extiende las caderas y las rodillas para levantar la barra del suelo, manteniéndola cerca del cuerpo. Cuando la barra llegue a los muslos, extiende las caderas de forma explosiva, encoge los hombros y tira de la barra hacia el pecho. Cuando la barra llegue a la altura del pecho, baja rápidamente debajo de ella y atrápala a la altura de los hombros, con los codos apuntando hacia delante y las palmas hacia arriba. Desde la posición de recepción, empuja la barra por encima de la cabeza extendiendo los brazos y llevando la barra recta hacia arriba. Baja la barra de vuelta a la posición inicial y repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, положите штангу на пол перед собой. Согните ноги в коленях и наклоните бедра, чтобы опуститься и взять штангу хватом сверху, расставив руки чуть шире плеч. Двигайтесь пятками и выпрямите бедра и колени, чтобы поднять штангу от пола, удерживая ее близко к телу. Когда штанга достигнет бедер, резко разогните бедра, пожмите плечами и подтяните штангу к груди. Когда штанга достигнет уровня груди, быстро опуститесь под нее и поймайте ее на уровне плеч, направив локти вперед и ладони вверх. Из позиции захвата выжмите штангу над головой, вытянув руки и толкнув штангу прямо вверх. Опустите штангу обратно в исходное положение и повторите желаемое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，杠铃放在你面前的地板上。 弯曲膝盖并以臀部为铰链降低并用正手握住杠铃，双手分开略宽于肩宽。 通过脚后跟发力，伸展臀部和膝盖，将杠铃抬离地板，使其靠近身体。 当杠铃到达大腿时，爆发性伸展臀部，耸肩，并将杠铃拉向胸部。 当杠铃到达胸部高度时，迅速将其降至肩部水平，肘部向前，手掌朝上。 从接球位置开始，伸展双臂并将杠铃笔直向上推，将杠铃压过头顶。 将杠铃放回起始位置，然后重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और बारबेल आपके सामने फर्श पर हो। अपने घुटनों को मोड़ें और कूल्हों पर टिकाकर नीचे की ओर झुकें और बारबेल को ओवरहैंड ग्रिप से पकड़ें, हाथों को कंधे की चौड़ाई से थोड़ा चौड़ा रखें। अपनी एड़ी के माध्यम से ड्राइव करें और बारबेल को अपने शरीर के करीब रखते हुए, फर्श से उठाने के लिए अपने कूल्हों और घुटनों का विस्तार करें। जैसे ही बारबेल आपकी जांघों तक पहुंचे, अपने कूल्हों को तेजी से फैलाएं, अपने कंधों को सिकोड़ें और बारबेल को अपनी छाती की ओर ऊपर खींचें। जैसे ही बारबेल छाती की ऊंचाई तक पहुंचती है, तुरंत इसके नीचे झुकें और इसे कंधे के स्तर पर पकड़ें, आपकी कोहनी आगे की ओर और आपकी हथेलियाँ ऊपर की ओर हों। पकड़ने की स्थिति से, अपनी बाहों को फैलाकर बारबेल को ऊपर की ओर दबाएं और बारबेल को सीधा ऊपर की ओर धकेलें। बारबेल को वापस प्रारंभिक स्थिति में लाएँ और वांछित संख्या में दोहराव के लिए दोहराएँ।",
+    "pl": "Stań w rozkroku na szerokość barków, ze sztangą leżącą na podłodze przed tobą. Ugnij kolana i pochyl się w biodrach, aby chwycić sztangę chwytem nachwytem, dłonie nieco szerzej niż szerokość barków. Odepchnij się od podłoża piętami i wyprostuj biodra i kolana, unosząc sztangę z podłogi blisko ciała. Gdy sztanga osiągnie wysokość ud, dynamicznie wyprostuj biodra, unieś barki i przyciągnij sztangę w górę w kierunku klatki piersiowej. Gdy sztanga osiągnie wysokość klatki piersiowej, szybko zejdź pod nią i złap ją na wysokości barków, z łokciami skierowanymi do przodu i dłońmi skierowanymi do góry. Z pozycji podchwytu wypchnij sztangę nad głowę, prostując ręce i pchając sztangę prosto w górę. Opuść sztangę z powrotem do pozycji wyjściowej i powtórz odpowiednią liczbę razy.",
+    "ko": "발을 어깨넓이로 벌리고 서서 바벨을 몸 앞 바닥에 놓습니다. 무릎을 굽혀 허리를 숙이면서 손가락이 앞을 향하도록 바벨을 잡고 손은 어깨넓이보다 약간 넓게 위치시킵니다. 발 뒤꿈치로 힘을 주어 바벨을 들어올리면서 몸 가까이 유지하고 허리와 무릎을 펼칩니다. 바벨이 넓적다리에 닿으면 신속하게 허리를 펼치고 어깨를 으쓱하면서 바벨을 가슴 쪽으로 당깁니다. 바벨이 가슴 높이에 도달하면 신속하게 몸 아래로 내려가서 어깨 높이에서 바벨을 받으면서 팔꿈치는 앞으로 향하고 손바닥은 앞을 향하게 합니다. 받은 위치에서 팔을 펼쳐 바벨을 머리 위로 누릅니다. 바벨을 시작 위치로 내리고 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et la barre au sol devant toi. Fléchis les genoux et bascule au niveau des hanches pour descendre et saisir la barre en prise pronation, les mains légèrement plus écartées que la largeur des épaules. Pousse sur tes talons et étends tes hanches et tes genoux pour soulever la barre du sol, en la gardant près de ton corps. Lorsque la barre atteint tes cuisses, étends tes hanches de façon explosive, hausse les épaules et tire la barre vers ta poitrine. Lorsque la barre atteint la hauteur de la poitrine, glisse-toi rapidement en dessous et réceptionne-la à hauteur des épaules, les coudes pointés vers l'avant et les paumes tournées vers le haut. Depuis la position de réception, développe la barre au-dessus de la tête en tendant tes bras et en poussant la barre droit vers le haut. Abaisse la barre jusqu'à la position de départ et répète pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and the barbell on the floor in front of you.",
+      "Bend your knees and hinge at the hips to lower down and grip the barbell with an overhand grip, hands slightly wider than shoulder-width apart.",
+      "Drive through your heels and extend your hips and knees to lift the barbell off the floor, keeping it close to your body.",
+      "As the barbell reaches your thighs, explosively extend your hips, shrug your shoulders, and pull the barbell up towards your chest.",
+      "As the barbell reaches chest height, quickly drop under it and catch it at shoulder level, with your elbows pointing forward and your palms facing up.",
+      "From the catch position, press the barbell overhead by extending your arms and pushing the barbell straight up.",
+      "Lower the barbell back down to the starting position and repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle e il bilanciere sul pavimento di fronte a te.",
+      "Piega le ginocchia e fai perno sui fianchi per abbassarti e afferrare il bilanciere con una presa prona, con le mani leggermente più larghe della larghezza delle spalle.",
+      "Guida attraverso i talloni ed estendi i fianchi e le ginocchia per sollevare il bilanciere dal pavimento, tenendolo vicino al corpo.",
+      "Quando il bilanciere raggiunge le cosce, estendi in modo esplosivo i fianchi, alza le spalle e tira il bilanciere verso il petto.",
+      "Quando il bilanciere raggiunge l'altezza del petto, abbassati rapidamente sotto di esso e afferralo all'altezza delle spalle, con i gomiti rivolti in avanti e i palmi rivolti verso l'alto.",
+      "Dalla posizione di presa, premi il bilanciere sopra la testa estendendo le braccia e spingendo il bilanciere verso l'alto.",
+      "Abbassare nuovamente il bilanciere nella posizione iniziale e ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık ve halter önünüzde yerde olacak şekilde ayakta durun.",
+      "Dizlerinizi bükün ve kalçalarınızı menteşeleyerek aşağı indirin ve halteri üstten kavrayarak tutun, eller omuz genişliğinden biraz daha açık olsun.",
+      "Topuklarınızın üzerinden geçin ve halterinizi vücudunuza yakın tutarak yerden kaldırmak için kalçalarınızı ve dizlerinizi uzatın.",
+      "Halter uyluklarınıza ulaştığında kalçalarınızı patlayıcı bir şekilde uzatın, omuzlarınızı silkin ve halteri göğsünüze doğru çekin.",
+      "Halter göğüs yüksekliğine ulaştığında, hızla altına inin ve dirsekleriniz öne ve avuçlarınız yukarıya bakacak şekilde omuz hizasında yakalayın.",
+      "Yakalama konumundan, kollarınızı uzatarak ve halteri düz bir şekilde yukarı doğru iterek halterin başının üstüne basın.",
+      "Halteri başlangıç ​​pozisyonuna indirin ve istenilen sayıda tekrar yapın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y la barra en el suelo frente a ti.",
+      "Flexiona las rodillas y las caderas para bajar y agarrar la barra con un agarre pronado, con las manos un poco más separadas que el ancho de los hombros.",
+      "Empuja con los talones y extiende las caderas y las rodillas para levantar la barra del suelo, manteniéndola cerca del cuerpo.",
+      "Cuando la barra llegue a los muslos, extiende las caderas de forma explosiva, encoge los hombros y tira de la barra hacia el pecho.",
+      "Cuando la barra llegue a la altura del pecho, baja rápidamente debajo de ella y atrápala a la altura de los hombros, con los codos apuntando hacia delante y las palmas hacia arriba.",
+      "Desde la posición de recepción, empuja la barra por encima de la cabeza extendiendo los brazos y llevando la barra recta hacia arriba.",
+      "Baja la barra de vuelta a la posición inicial y repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, положите штангу на пол перед собой.",
+      "Согните ноги в коленях и наклоните бедра, чтобы опуститься и взять штангу хватом сверху, расставив руки чуть шире плеч.",
+      "Двигайтесь пятками и выпрямите бедра и колени, чтобы поднять штангу от пола, удерживая ее близко к телу.",
+      "Когда штанга достигнет бедер, резко разогните бедра, пожмите плечами и подтяните штангу к груди.",
+      "Когда штанга достигнет уровня груди, быстро опуститесь под нее и поймайте ее на уровне плеч, направив локти вперед и ладони вверх.",
+      "Из позиции захвата выжмите штангу над головой, вытянув руки и толкнув штангу прямо вверх.",
+      "Опустите штангу обратно в исходное положение и повторите желаемое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，杠铃放在你面前的地板上。",
+      "弯曲膝盖并以臀部为铰链降低并用正手握住杠铃，双手分开略宽于肩宽。",
+      "通过脚后跟发力，伸展臀部和膝盖，将杠铃抬离地板，使其靠近身体。",
+      "当杠铃到达大腿时，爆发性伸展臀部，耸肩，并将杠铃拉向胸部。",
+      "当杠铃到达胸部高度时，迅速将其降至肩部水平，肘部向前，手掌朝上。",
+      "从接球位置开始，伸展双臂并将杠铃笔直向上推，将杠铃压过头顶。",
+      "将杠铃放回起始位置，然后重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और बारबेल आपके सामने फर्श पर हो।",
+      "अपने घुटनों को मोड़ें और कूल्हों पर टिकाकर नीचे की ओर झुकें और बारबेल को ओवरहैंड ग्रिप से पकड़ें, हाथों को कंधे की चौड़ाई से थोड़ा चौड़ा रखें।",
+      "अपनी एड़ी के माध्यम से ड्राइव करें और बारबेल को अपने शरीर के करीब रखते हुए, फर्श से उठाने के लिए अपने कूल्हों और घुटनों का विस्तार करें।",
+      "जैसे ही बारबेल आपकी जांघों तक पहुंचे, अपने कूल्हों को तेजी से फैलाएं, अपने कंधों को सिकोड़ें और बारबेल को अपनी छाती की ओर ऊपर खींचें।",
+      "जैसे ही बारबेल छाती की ऊंचाई तक पहुंचती है, तुरंत इसके नीचे झुकें और इसे कंधे के स्तर पर पकड़ें, आपकी कोहनी आगे की ओर और आपकी हथेलियाँ ऊपर की ओर हों।",
+      "पकड़ने की स्थिति से, अपनी बाहों को फैलाकर बारबेल को ऊपर की ओर दबाएं और बारबेल को सीधा ऊपर की ओर धकेलें।",
+      "बारबेल को वापस प्रारंभिक स्थिति में लाएँ और वांछित संख्या में दोहराव के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków, ze sztangą leżącą na podłodze przed tobą.",
+      "Ugnij kolana i pochyl się w biodrach, aby chwycić sztangę chwytem nachwytem, dłonie nieco szerzej niż szerokość barków.",
+      "Odepchnij się od podłoża piętami i wyprostuj biodra i kolana, unosząc sztangę z podłogi blisko ciała.",
+      "Gdy sztanga osiągnie wysokość ud, dynamicznie wyprostuj biodra, unieś barki i przyciągnij sztangę w górę w kierunku klatki piersiowej.",
+      "Gdy sztanga osiągnie wysokość klatki piersiowej, szybko zejdź pod nią i złap ją na wysokości barków, z łokciami skierowanymi do przodu i dłońmi skierowanymi do góry.",
+      "Z pozycji podchwytu wypchnij sztangę nad głowę, prostując ręce i pchając sztangę prosto w górę.",
+      "Opuść sztangę z powrotem do pozycji wyjściowej i powtórz odpowiednią liczbę razy."
+    ],
+    "ko": [
+      "발을 어깨넓이로 벌리고 서서 바벨을 몸 앞 바닥에 놓습니다.",
+      "무릎을 굽혀 허리를 숙이면서 손가락이 앞을 향하도록 바벨을 잡고 손은 어깨넓이보다 약간 넓게 위치시킵니다.",
+      "발 뒤꿈치로 힘을 주어 바벨을 들어올리면서 몸 가까이 유지하고 허리와 무릎을 펼칩니다.",
+      "바벨이 넓적다리에 닿으면 신속하게 허리를 펼치고 어깨를 으쓱하면서 바벨을 가슴 쪽으로 당깁니다.",
+      "바벨이 가슴 높이에 도달하면 신속하게 몸 아래로 내려가서 어깨 높이에서 바벨을 받으면서 팔꿈치는 앞으로 향하고 손바닥은 앞을 향하게 합니다.",
+      "받은 위치에서 팔을 펼쳐 바벨을 머리 위로 누릅니다.",
+      "바벨을 시작 위치로 내리고 원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et la barre au sol devant toi.",
+      "Fléchis les genoux et bascule au niveau des hanches pour descendre et saisir la barre en prise pronation, les mains légèrement plus écartées que la largeur des épaules.",
+      "Pousse sur tes talons et étends tes hanches et tes genoux pour soulever la barre du sol, en la gardant près de ton corps.",
+      "Lorsque la barre atteint tes cuisses, étends tes hanches de façon explosive, hausse les épaules et tire la barre vers ta poitrine.",
+      "Lorsque la barre atteint la hauteur de la poitrine, glisse-toi rapidement en dessous et réceptionne-la à hauteur des épaules, les coudes pointés vers l'avant et les paumes tournées vers le haut.",
+      "Depuis la position de réception, développe la barre au-dessus de la tête en tendant tes bras et en poussant la barre droit vers le haut.",
+      "Abaisse la barre jusqu'à la position de départ et répète pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings",
+    "glutes",
+    "shoulders",
+    "triceps"
+  ],
+  "target": "quads",
+  "image": "images/0028-SGY8Zui.jpg",
+  "gif_url": "videos/0028-SGY8Zui.gif",
+  "media_id": "SGY8Zui",
+  "created_at": "2026-03-18T12:31:32.870347+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

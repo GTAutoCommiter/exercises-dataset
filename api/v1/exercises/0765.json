@@ -1,0 +1,122 @@
+{
+  "id": "0765",
+  "name": "smith seated shoulder press",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "smith machine",
+  "instructions": {
+    "en": "Adjust the seat height so that the handles are at shoulder level. Sit on the machine with your back against the pad and your feet flat on the floor. Grasp the handles with an overhand grip and lift them off the supports, extending your arms fully. Lower the handles down to shoulder level, keeping your elbows slightly bent. Press the handles up overhead until your arms are fully extended. Pause for a moment at the top, then slowly lower the handles back down to shoulder level. Repeat for the desired number of repetitions.",
+    "it": "Regolare l'altezza del sedile in modo che le maniglie siano all'altezza delle spalle. Sedersi sulla macchina con la schiena contro il cuscino e i piedi appoggiati sul pavimento. Afferrare le maniglie con una presa prona e sollevarle dai supporti, estendendo completamente le braccia. Abbassare le maniglie all'altezza delle spalle, mantenendo i gomiti leggermente piegati. Spingi le maniglie sopra la testa finché le braccia non sono completamente estese. Fermati per un momento in alto, quindi abbassa lentamente le maniglie fino all'altezza delle spalle. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Koltuğun yüksekliğini, tutacaklar omuz hizasında olacak şekilde ayarlayın. Sırtınız yastığa dayalı ve ayaklarınız yere düz basacak şekilde makinenin üzerine oturun. Tutamaçları üstten kavrayın ve kollarınızı tamamen uzatarak desteklerden kaldırın. Dirseklerinizi hafifçe bükerek kolları omuz hizasına kadar indirin. Kollarınız tamamen uzayana kadar kolları yukarı doğru bastırın. Üstte bir an duraklayın, ardından kolları yavaşça omuz seviyesine indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta la altura del asiento de modo que las asas queden a la altura de los hombros. Siéntate en la máquina con la espalda contra la almohadilla y los pies planos sobre el suelo. Sujeta las asas con un agarre prono y levántalas de los soportes, extendiendo los brazos por completo. Baja las asas hasta la altura de los hombros, manteniendo los codos ligeramente flexionados. Empuja las asas hacia arriba, por encima de la cabeza, hasta que los brazos queden completamente extendidos. Haz una pausa por un momento en la parte alta y luego baja lentamente las agarraderas de vuelta a la altura del hombro. Repite el número de repeticiones deseado.",
+    "ru": "Отрегулируйте высоту сиденья так, чтобы ручки находились на уровне плеч. Сядьте на тренажер, прислонившись спиной к подушке, а ноги поставьте на пол. Возьмитесь за рукоятки верхним хватом и поднимите их с опор, полностью выпрямив руки. Опустите рукоятки до уровня плеч, держа локти слегка согнутыми. Поднимите ручки над головой, пока руки полностью не выпрямятся. Задержитесь на мгновение в верхней точке, затем медленно опустите ручки обратно до уровня плеч. Повторите необходимое количество повторений.",
+    "zh": "调整座椅高度，使手柄与肩部齐平。 坐在机器上，背部靠在垫子上，双脚平放在地板上。 正手握住手柄，将其提离支撑物，充分伸展双臂。 将手柄降低至肩部水平，保持肘部稍微弯曲。 将手柄向上推过头顶，直到手臂完全伸展。 在顶部暂停片刻，然后慢慢将手柄放回至肩部水平。 重复所需的重复次数。",
+    "hi": "सीट की ऊंचाई समायोजित करें ताकि हैंडल कंधे के स्तर पर हों। मशीन पर अपनी पीठ पैड से सटाकर और अपने पैरों को फर्श पर सपाट करके बैठें। हैंडल को ओवरहैंड ग्रिप से पकड़ें और अपनी बाहों को पूरी तरह फैलाते हुए उन्हें सपोर्ट से ऊपर उठाएं। अपनी कोहनियों को थोड़ा मुड़ा हुआ रखते हुए, हैंडल को कंधे के स्तर तक नीचे लाएँ। जब तक आपकी बाहें पूरी तरह विस्तारित न हो जाएं तब तक हैंडल को ऊपर की ओर दबाएं। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे हैंडल को वापस कंधे के स्तर तक नीचे लाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Ustaw wysokość siedziska tak, aby uchwyty znajdowały się na wysokości barków. Usiądź na maszynie, opierając plecy o podkładkę, a stopy płasko na podłodze. Chwyć uchwyty nachwytem i zdejmij je z podpórek, całkowicie prostując ręce. Opuść uchwyty do wysokości barków, trzymając łokcie lekko ugięte. Wypchnij uchwyty nad głowę, aż ręce będą całkowicie wyprostowane. Zatrzymaj się na chwilę na górze, a następnie powoli opuść uchwyty z powrotem do wysokości barków. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "시트의 높이를 손잡이가 어깨 높이에 오도록 조정합니다. 머신에 앉아서 등받이에 등을 대고 발을 바닥에 평평하게 놓습니다. 손잡이를 오버핸드 그립으로 잡고 지지대에서 들어 팔을 완전히 펼칩니다. 손잡이를 어깨 높이로 내리되 팔꿈치를 약간 구부립니다. 손잡이를 머리 위로 올려 팔을 완전히 펼칩니다. 위에서 잠깐 멈추고 손잡이를 어깨 높이로 천천히 내립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Règle la hauteur du siège de sorte que les poignées soient à hauteur des épaules. Assieds-toi sur la machine, le dos contre le coussinet et les pieds à plat sur le sol. Saisis les poignées avec une prise en pronation et soulève-les des supports, en étendant complètement les bras. Abaisse les poignées à hauteur des épaules, en gardant tes coudes légèrement fléchis. Pousse les poignées vers le haut au-dessus de ta tête jusqu'à ce que tes bras soient complètement tendus. Marque une pause en haut, puis abaisse lentement les poignées à hauteur des épaules. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the seat height so that the handles are at shoulder level.",
+      "Sit on the machine with your back against the pad and your feet flat on the floor.",
+      "Grasp the handles with an overhand grip and lift them off the supports, extending your arms fully.",
+      "Lower the handles down to shoulder level, keeping your elbows slightly bent.",
+      "Press the handles up overhead until your arms are fully extended.",
+      "Pause for a moment at the top, then slowly lower the handles back down to shoulder level.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Regolare l'altezza del sedile in modo che le maniglie siano all'altezza delle spalle.",
+      "Sedersi sulla macchina con la schiena contro il cuscino e i piedi appoggiati sul pavimento.",
+      "Afferrare le maniglie con una presa prona e sollevarle dai supporti, estendendo completamente le braccia.",
+      "Abbassare le maniglie all'altezza delle spalle, mantenendo i gomiti leggermente piegati.",
+      "Spingi le maniglie sopra la testa finché le braccia non sono completamente estese.",
+      "Fermati per un momento in alto, quindi abbassa lentamente le maniglie fino all'altezza delle spalle.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Koltuğun yüksekliğini, tutacaklar omuz hizasında olacak şekilde ayarlayın.",
+      "Sırtınız yastığa dayalı ve ayaklarınız yere düz basacak şekilde makinenin üzerine oturun.",
+      "Tutamaçları üstten kavrayın ve kollarınızı tamamen uzatarak desteklerden kaldırın.",
+      "Dirseklerinizi hafifçe bükerek kolları omuz hizasına kadar indirin.",
+      "Kollarınız tamamen uzayana kadar kolları yukarı doğru bastırın.",
+      "Üstte bir an duraklayın, ardından kolları yavaşça omuz seviyesine indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta la altura del asiento de modo que las asas queden a la altura de los hombros.",
+      "Siéntate en la máquina con la espalda contra la almohadilla y los pies planos sobre el suelo.",
+      "Sujeta las asas con un agarre prono y levántalas de los soportes, extendiendo los brazos por completo.",
+      "Baja las asas hasta la altura de los hombros, manteniendo los codos ligeramente flexionados.",
+      "Empuja las asas hacia arriba, por encima de la cabeza, hasta que los brazos queden completamente extendidos.",
+      "Haz una pausa por un momento en la parte alta y luego baja lentamente las agarraderas de vuelta a la altura del hombro.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Отрегулируйте высоту сиденья так, чтобы ручки находились на уровне плеч.",
+      "Сядьте на тренажер, прислонившись спиной к подушке, а ноги поставьте на пол.",
+      "Возьмитесь за рукоятки верхним хватом и поднимите их с опор, полностью выпрямив руки.",
+      "Опустите рукоятки до уровня плеч, держа локти слегка согнутыми.",
+      "Поднимите ручки над головой, пока руки полностью не выпрямятся.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите ручки обратно до уровня плеч.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "调整座椅高度，使手柄与肩部齐平。",
+      "坐在机器上，背部靠在垫子上，双脚平放在地板上。",
+      "正手握住手柄，将其提离支撑物，充分伸展双臂。",
+      "将手柄降低至肩部水平，保持肘部稍微弯曲。",
+      "将手柄向上推过头顶，直到手臂完全伸展。",
+      "在顶部暂停片刻，然后慢慢将手柄放回至肩部水平。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "सीट की ऊंचाई समायोजित करें ताकि हैंडल कंधे के स्तर पर हों।",
+      "मशीन पर अपनी पीठ पैड से सटाकर और अपने पैरों को फर्श पर सपाट करके बैठें।",
+      "हैंडल को ओवरहैंड ग्रिप से पकड़ें और अपनी बाहों को पूरी तरह फैलाते हुए उन्हें सपोर्ट से ऊपर उठाएं।",
+      "अपनी कोहनियों को थोड़ा मुड़ा हुआ रखते हुए, हैंडल को कंधे के स्तर तक नीचे लाएँ।",
+      "जब तक आपकी बाहें पूरी तरह विस्तारित न हो जाएं तब तक हैंडल को ऊपर की ओर दबाएं।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे हैंडल को वापस कंधे के स्तर तक नीचे लाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Ustaw wysokość siedziska tak, aby uchwyty znajdowały się na wysokości barków.",
+      "Usiądź na maszynie, opierając plecy o podkładkę, a stopy płasko na podłodze.",
+      "Chwyć uchwyty nachwytem i zdejmij je z podpórek, całkowicie prostując ręce.",
+      "Opuść uchwyty do wysokości barków, trzymając łokcie lekko ugięte.",
+      "Wypchnij uchwyty nad głowę, aż ręce będą całkowicie wyprostowane.",
+      "Zatrzymaj się na chwilę na górze, a następnie powoli opuść uchwyty z powrotem do wysokości barków.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "시트의 높이를 손잡이가 어깨 높이에 오도록 조정합니다.",
+      "머신에 앉아서 등받이에 등을 대고 발을 바닥에 평평하게 놓습니다.",
+      "손잡이를 오버핸드 그립으로 잡고 지지대에서 들어 팔을 완전히 펼칩니다.",
+      "손잡이를 어깨 높이로 내리되 팔꿈치를 약간 구부립니다.",
+      "손잡이를 머리 위로 올려 팔을 완전히 펼칩니다.",
+      "위에서 잠깐 멈추고 손잡이를 어깨 높이로 천천히 내립니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Règle la hauteur du siège de sorte que les poignées soient à hauteur des épaules.",
+      "Assieds-toi sur la machine, le dos contre le coussinet et les pieds à plat sur le sol.",
+      "Saisis les poignées avec une prise en pronation et soulève-les des supports, en étendant complètement les bras.",
+      "Abaisse les poignées à hauteur des épaules, en gardant tes coudes légèrement fléchis.",
+      "Pousse les poignées vers le haut au-dessus de ta tête jusqu'à ce que tes bras soient complètement tendus.",
+      "Marque une pause en haut, puis abaisse lentement les poignées à hauteur des épaules.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "upper back"
+  ],
+  "target": "delts",
+  "image": "images/0765-xUwnBMT.jpg",
+  "gif_url": "videos/0765-xUwnBMT.gif",
+  "media_id": "xUwnBMT",
+  "created_at": "2026-03-18T12:31:32.890963+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

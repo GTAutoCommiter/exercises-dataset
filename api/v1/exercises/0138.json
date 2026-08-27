@@ -1,0 +1,102 @@
+{
+  "id": "0138",
+  "name": "bottoms-up",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Lie flat on your back with your legs extended and your arms by your sides. Bend your knees and bring them towards your chest, keeping your feet off the ground. Engaging your abs, lift your hips off the ground, bringing your knees towards your head. Pause for a moment at the top, then slowly lower your hips back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Sdraiati sulla schiena con le gambe distese e le braccia lungo i fianchi. Piega le ginocchia e portale al petto, tenendo i piedi sollevati da terra. Attiva gli addominali, solleva i fianchi da terra, avvicinando le ginocchia alla testa. Fermati un attimo in cima, poi abbassa lentamente i fianchi fino alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Bacaklarınız uzatılmış ve kollarınız yanlarınızda olacak şekilde sırt üstü yatın. Dizlerinizi bükün ve ayaklarınızı yerden uzak tutarak onları göğsünüze doğru getirin. Karın kaslarınızı devreye sokarak kalçalarınızı yerden kaldırın, dizlerinizi başınıza doğru getirin. Tepe noktasında bir an duraklayın, ardından kalçalarınızı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Túmbate sobre tu espalda con las piernas extendidas y los brazos a los lados. Flexiona las rodillas y llévalas hacia el pecho, manteniendo los pies fuera del suelo. Activando el abdomen, levanta las caderas del suelo, llevando las rodillas hacia la cabeza. Haz una pausa por un momento en la parte superior, luego baja lentamente las caderas de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Лягте на спину, вытянув ноги и положив руки по бокам. Согните колени и подтяните их к груди, не отрывая ступни от земли. Включив пресс, поднимите бедра от земли, поднеся колени к голове. Задержитесь на мгновение в верхней точке, затем медленно опустите бедра обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "平躺，双腿伸展，双臂放在身体两侧。 弯曲膝盖并将其靠近胸部，保持双脚离开地面。 收紧腹肌，将臀部抬离地面，将膝盖靠近头部。 在顶部暂停片刻，然后慢慢将臀部放回起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को फैलाकर और अपनी भुजाओं को बगल में रखकर अपनी पीठ के बल सीधे लेट जाएँ। अपने घुटनों को मोड़ें और उन्हें अपनी छाती की ओर लाएँ, अपने पैरों को ज़मीन से दूर रखें। अपने पेट को जोड़ते हुए, अपने कूल्हों को ज़मीन से ऊपर उठाएं, अपने घुटनों को अपने सिर की ओर लाएं। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने कूल्हों को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Połóż się płasko na plecach, z nogami wyprostowanymi, a ramionami wzdłuż tułowia. Ugnij kolana i przyciągnij je w kierunku klatki piersiowej, trzymając stopy nad podłogą. Napinając mięśnie brzucha, unieś biodra nad podłogę, przyciągając kolana w kierunku głowy. Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść biodra z powrotem do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "등을 대고 누워 다리를 펼친 후 팔을 몸 옆에 놓습니다. 무릎을 구부려 다리를 가슴 방향으로 가져오면서 발은 바닥에서 떨어뜨립니다. 복부를 engaged 하고 엉덩이를 바닥에서 들어 올려 무릎을 머리 방향으로 가져옵니다. 맨 위에서 잠시 멈춘 후 천천히 엉덩이를 시작 자세로 내립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Allonge-toi sur le dos, les jambes tendues et les bras le long du corps. Fléchis tes genoux et amène-les vers ta poitrine en gardant tes pieds décollés du sol. En gainant tes abdominaux, soulève tes hanches du sol, en amenant tes genoux vers ta tête. Marque une pause en haut, puis abaisse lentement tes hanches pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Lie flat on your back with your legs extended and your arms by your sides.",
+      "Bend your knees and bring them towards your chest, keeping your feet off the ground.",
+      "Engaging your abs, lift your hips off the ground, bringing your knees towards your head.",
+      "Pause for a moment at the top, then slowly lower your hips back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Sdraiati sulla schiena con le gambe distese e le braccia lungo i fianchi.",
+      "Piega le ginocchia e portale al petto, tenendo i piedi sollevati da terra.",
+      "Attiva gli addominali, solleva i fianchi da terra, avvicinando le ginocchia alla testa.",
+      "Fermati un attimo in cima, poi abbassa lentamente i fianchi fino alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Bacaklarınız uzatılmış ve kollarınız yanlarınızda olacak şekilde sırt üstü yatın.",
+      "Dizlerinizi bükün ve ayaklarınızı yerden uzak tutarak onları göğsünüze doğru getirin.",
+      "Karın kaslarınızı devreye sokarak kalçalarınızı yerden kaldırın, dizlerinizi başınıza doğru getirin.",
+      "Tepe noktasında bir an duraklayın, ardından kalçalarınızı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Túmbate sobre tu espalda con las piernas extendidas y los brazos a los lados.",
+      "Flexiona las rodillas y llévalas hacia el pecho, manteniendo los pies fuera del suelo.",
+      "Activando el abdomen, levanta las caderas del suelo, llevando las rodillas hacia la cabeza.",
+      "Haz una pausa por un momento en la parte superior, luego baja lentamente las caderas de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Лягте на спину, вытянув ноги и положив руки по бокам.",
+      "Согните колени и подтяните их к груди, не отрывая ступни от земли.",
+      "Включив пресс, поднимите бедра от земли, поднеся колени к голове.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите бедра обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "平躺，双腿伸展，双臂放在身体两侧。",
+      "弯曲膝盖并将其靠近胸部，保持双脚离开地面。",
+      "收紧腹肌，将臀部抬离地面，将膝盖靠近头部。",
+      "在顶部暂停片刻，然后慢慢将臀部放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को फैलाकर और अपनी भुजाओं को बगल में रखकर अपनी पीठ के बल सीधे लेट जाएँ।",
+      "अपने घुटनों को मोड़ें और उन्हें अपनी छाती की ओर लाएँ, अपने पैरों को ज़मीन से दूर रखें।",
+      "अपने पेट को जोड़ते हुए, अपने कूल्हों को ज़मीन से ऊपर उठाएं, अपने घुटनों को अपने सिर की ओर लाएं।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने कूल्हों को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Połóż się płasko na plecach, z nogami wyprostowanymi, a ramionami wzdłuż tułowia.",
+      "Ugnij kolana i przyciągnij je w kierunku klatki piersiowej, trzymając stopy nad podłogą.",
+      "Napinając mięśnie brzucha, unieś biodra nad podłogę, przyciągając kolana w kierunku głowy.",
+      "Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść biodra z powrotem do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "등을 대고 누워 다리를 펼친 후 팔을 몸 옆에 놓습니다.",
+      "무릎을 구부려 다리를 가슴 방향으로 가져오면서 발은 바닥에서 떨어뜨립니다.",
+      "복부를 engaged 하고 엉덩이를 바닥에서 들어 올려 무릎을 머리 방향으로 가져옵니다.",
+      "맨 위에서 잠시 멈춘 후 천천히 엉덩이를 시작 자세로 내립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Allonge-toi sur le dos, les jambes tendues et les bras le long du corps.",
+      "Fléchis tes genoux et amène-les vers ta poitrine en gardant tes pieds décollés du sol.",
+      "En gainant tes abdominaux, soulève tes hanches du sol, en amenant tes genoux vers ta tête.",
+      "Marque une pause en haut, puis abaisse lentement tes hanches pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "obliques",
+  "secondary_muscles": [
+    "obliques",
+    "hip flexors"
+  ],
+  "target": "abs",
+  "image": "images/0138-CI6baTY.jpg",
+  "gif_url": "videos/0138-CI6baTY.gif",
+  "media_id": "CI6baTY",
+  "created_at": "2026-03-18T12:31:32.874+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

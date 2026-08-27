@@ -1,0 +1,92 @@
+{
+  "id": "1397",
+  "name": "standing calves",
+  "category": "lower legs",
+  "body_part": "lower legs",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart, toes pointing forward. Raise your heels off the ground as high as possible, standing on your toes. Hold the position for a moment, then slowly lower your heels back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi alla larghezza delle spalle, le dita dei piedi rivolte in avanti. Solleva i talloni da terra il più in alto possibile, stando sulle punte dei piedi. Mantieni la posizione per un momento, quindi abbassa lentamente i talloni fino alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız omuz genişliğinde açık, ayak parmaklarınız ileriyi gösterecek şekilde ayakta durun. Ayak parmaklarınızın üzerinde durarak topuklarınızı yerden mümkün olduğunca yükseğe kaldırın. Bir süre bu pozisyonda kalın, ardından topuklarınızı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros, con las puntas de los pies apuntando hacia adelante. Levanta los talones del suelo lo más alto posible, apoyándote sobre la punta de los pies. Mantén la posición por un momento y luego baja lentamente los talones de nuevo a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, носки направлены вперед. Поднимите пятки от земли как можно выше, встав на носки. Задержитесь в этом положении на мгновение, затем медленно опустите пятки обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，脚趾指向前方。 将脚后跟抬离地面，尽可能高，用脚趾站立。 保持该姿势片刻，然后慢慢降低脚跟回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, पैर की उंगलियां आगे की ओर हों। अपने पैर की उंगलियों पर खड़े होकर, अपनी एड़ियों को जमीन से जितना संभव हो उतना ऊपर उठाएं। एक क्षण के लिए इस स्थिति में रहें, फिर धीरे-धीरे अपनी एड़ियों को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań w rozkroku na szerokość barków, palcami stóp skierowanymi do przodu. Unieś pięty nad podłogę jak najwyżej, stając na palcach. Przytrzymaj pozycję przez chwilę, a następnie powoli opuść pięty z powrotem do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "발을 어깨너비로 벌리고 발가락이 앞을 향하도록 서 있습니다. 뒤꿈치를 땅에서 떼고 최대한 높이 올려 발가락 위로 서 있습니다. 자세를 잠깐 유지한 후 뒤꿈치를 천천히 시작 자세로 내립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules, les orteils pointés vers l'avant. Lève tes talons du sol aussi haut que possible en te tenant sur la pointe des pieds. Maintiens la position un moment, puis abaisse lentement tes talons jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart, toes pointing forward.",
+      "Raise your heels off the ground as high as possible, standing on your toes.",
+      "Hold the position for a moment, then slowly lower your heels back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle, le dita dei piedi rivolte in avanti.",
+      "Solleva i talloni da terra il più in alto possibile, stando sulle punte dei piedi.",
+      "Mantieni la posizione per un momento, quindi abbassa lentamente i talloni fino alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık, ayak parmaklarınız ileriyi gösterecek şekilde ayakta durun.",
+      "Ayak parmaklarınızın üzerinde durarak topuklarınızı yerden mümkün olduğunca yükseğe kaldırın.",
+      "Bir süre bu pozisyonda kalın, ardından topuklarınızı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros, con las puntas de los pies apuntando hacia adelante.",
+      "Levanta los talones del suelo lo más alto posible, apoyándote sobre la punta de los pies.",
+      "Mantén la posición por un momento y luego baja lentamente los talones de nuevo a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, носки направлены вперед.",
+      "Поднимите пятки от земли как можно выше, встав на носки.",
+      "Задержитесь в этом положении на мгновение, затем медленно опустите пятки обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，脚趾指向前方。",
+      "将脚后跟抬离地面，尽可能高，用脚趾站立。",
+      "保持该姿势片刻，然后慢慢降低脚跟回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, पैर की उंगलियां आगे की ओर हों।",
+      "अपने पैर की उंगलियों पर खड़े होकर, अपनी एड़ियों को जमीन से जितना संभव हो उतना ऊपर उठाएं।",
+      "एक क्षण के लिए इस स्थिति में रहें, फिर धीरे-धीरे अपनी एड़ियों को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków, palcami stóp skierowanymi do przodu.",
+      "Unieś pięty nad podłogę jak najwyżej, stając na palcach.",
+      "Przytrzymaj pozycję przez chwilę, a następnie powoli opuść pięty z powrotem do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨너비로 벌리고 발가락이 앞을 향하도록 서 있습니다.",
+      "뒤꿈치를 땅에서 떼고 최대한 높이 올려 발가락 위로 서 있습니다.",
+      "자세를 잠깐 유지한 후 뒤꿈치를 천천히 시작 자세로 내립니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules, les orteils pointés vers l'avant.",
+      "Lève tes talons du sol aussi haut que possible en te tenant sur la pointe des pieds.",
+      "Maintiens la position un moment, puis abaisse lentement tes talons jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings",
+    "glutes"
+  ],
+  "target": "calves",
+  "image": "images/1397-XIHEoCG.jpg",
+  "gif_url": "videos/1397-XIHEoCG.gif",
+  "media_id": "XIHEoCG",
+  "created_at": "2026-03-18T12:31:32.891567+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

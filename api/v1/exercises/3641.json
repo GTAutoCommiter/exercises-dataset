@@ -1,0 +1,92 @@
+{
+  "id": "3641",
+  "name": "weighted kneeling step with swing",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "weighted",
+  "instructions": {
+    "en": "Start in a kneeling position with your knees hip-width apart and your back straight. Hold a weight in each hand, with your arms extended straight down in front of you. Engage your core and swing the weights up and overhead, keeping your arms straight. Lower the weights back down to the starting position and repeat for the desired number of repetitions.",
+    "it": "Inizia in posizione inginocchiata con le ginocchia alla larghezza dei fianchi e la schiena dritta. Tieni un peso in ciascuna mano, con le braccia tese verso il basso davanti a te. Coinvolgi il tuo core e fai oscillare i pesi verso l'alto e sopra la testa, mantenendo le braccia dritte. Abbassare i pesi nella posizione iniziale e ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Dizleriniz kalça genişliğinde ve sırtınız düz olacak şekilde diz çökme pozisyonunda başlayın. Kollarınız önünüzde düz bir şekilde uzatılmış halde, her iki elinize de bir ağırlık tutun. Merkez bölgenizi devreye sokun ve kollarınızı düz tutarak ağırlıkları yukarı ve başınızın üzerine doğru sallayın. Ağırlıkları başlangıç ​​pozisyonuna indirin ve istenilen sayıda tekrar yapın.",
+    "es": "Comienza en posición de rodillas con las rodillas separadas a la altura de las caderas y la espalda recta. Sostén un peso en cada mano, con los brazos extendidos rectos hacia abajo frente a ti. Activa el core y balancea los pesos hacia arriba y por encima de la cabeza, manteniendo los brazos rectos. Baja los pesos de nuevo a la posición inicial y repite el número de repeticiones deseado.",
+    "ru": "Начните в положении стоя на коленях, расставив колени на ширине плеч и выпрямив спину. Возьмите по гантели в каждую руку, вытянув руки прямо перед собой. Напрягите корпус и поднимите гири вверх и над головой, держа руки прямыми. Опустите гири обратно в исходное положение и повторите желаемое количество повторений.",
+    "zh": "从跪姿开始，膝盖分开与臀部同宽，背部挺直。 每只手各握一个重物，双臂在身前笔直向下伸展。 启动你的核心肌群，将重物向上举过头顶，保持手臂伸直。 将重量放回起始位置，然后重复所需的重复次数。",
+    "hi": "अपने घुटनों को कूल्हे की चौड़ाई के बराबर दूरी पर और अपनी पीठ को सीधा रखते हुए घुटनों के बल बैठने की स्थिति से शुरुआत करें। प्रत्येक हाथ में एक वज़न पकड़ें, अपनी भुजाएँ अपने सामने सीधी नीचे की ओर फैलाएँ। अपने कोर को संलग्न करें और अपनी भुजाओं को सीधा रखते हुए वजन को ऊपर और ऊपर की ओर झुकाएँ। वजन को वापस प्रारंभिक स्थिति में कम करें और वांछित संख्या में दोहराव के लिए दोहराएं।",
+    "pl": "Zacznij w pozycji klęczącej z kolanami rozstawionymi na szerokość bioder i plecami wyprostowanymi. Trzymaj obciążenie w każdej dłoni, z ramionami wyprostowanymi prosto w dół przed sobą. Napnij mięśnie brzucha i wykonaj zamach obciążeniami w górę i nad głowę, trzymając ramiona proste. Opuść obciążenia z powrotem do pozycji wyjściowej i powtórz zgodnie z żądaną liczbą powtórzeń.",
+    "ko": "무릎을 엉덩이 너비로 벌리고 등을 곧게 유지하며 무릎을 꿇은 자세로 시작합니다. 각 손에 무게를 들되 팔을 몸 앞으로 곧게 펼칩니다. 코어에 힘을 주고 팔을 곧게 유지한 채 무게를 위로 흔들어 머리 위로 들어올립니다. 무게를 처음 위치로 내려갑니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Commence à genoux, les genoux écartés à la largeur des hanches et le dos droit. Tiens un poids dans chaque main, les bras étendus droit vers le bas devant toi. Gaine ta sangle abdominale et balance les poids vers le haut au-dessus de ta tête, en gardant les bras tendus. Abaisse les poids jusqu'à la position de départ et répète pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start in a kneeling position with your knees hip-width apart and your back straight.",
+      "Hold a weight in each hand, with your arms extended straight down in front of you.",
+      "Engage your core and swing the weights up and overhead, keeping your arms straight.",
+      "Lower the weights back down to the starting position and repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia in posizione inginocchiata con le ginocchia alla larghezza dei fianchi e la schiena dritta.",
+      "Tieni un peso in ciascuna mano, con le braccia tese verso il basso davanti a te.",
+      "Coinvolgi il tuo core e fai oscillare i pesi verso l'alto e sopra la testa, mantenendo le braccia dritte.",
+      "Abbassare i pesi nella posizione iniziale e ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Dizleriniz kalça genişliğinde ve sırtınız düz olacak şekilde diz çökme pozisyonunda başlayın.",
+      "Kollarınız önünüzde düz bir şekilde uzatılmış halde, her iki elinize de bir ağırlık tutun.",
+      "Merkez bölgenizi devreye sokun ve kollarınızı düz tutarak ağırlıkları yukarı ve başınızın üzerine doğru sallayın.",
+      "Ağırlıkları başlangıç ​​pozisyonuna indirin ve istenilen sayıda tekrar yapın."
+    ],
+    "es": [
+      "Comienza en posición de rodillas con las rodillas separadas a la altura de las caderas y la espalda recta.",
+      "Sostén un peso en cada mano, con los brazos extendidos rectos hacia abajo frente a ti.",
+      "Activa el core y balancea los pesos hacia arriba y por encima de la cabeza, manteniendo los brazos rectos.",
+      "Baja los pesos de nuevo a la posición inicial y repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните в положении стоя на коленях, расставив колени на ширине плеч и выпрямив спину.",
+      "Возьмите по гантели в каждую руку, вытянув руки прямо перед собой.",
+      "Напрягите корпус и поднимите гири вверх и над головой, держа руки прямыми.",
+      "Опустите гири обратно в исходное положение и повторите желаемое количество повторений."
+    ],
+    "zh": [
+      "从跪姿开始，膝盖分开与臀部同宽，背部挺直。",
+      "每只手各握一个重物，双臂在身前笔直向下伸展。",
+      "启动你的核心肌群，将重物向上举过头顶，保持手臂伸直。",
+      "将重量放回起始位置，然后重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने घुटनों को कूल्हे की चौड़ाई के बराबर दूरी पर और अपनी पीठ को सीधा रखते हुए घुटनों के बल बैठने की स्थिति से शुरुआत करें।",
+      "प्रत्येक हाथ में एक वज़न पकड़ें, अपनी भुजाएँ अपने सामने सीधी नीचे की ओर फैलाएँ।",
+      "अपने कोर को संलग्न करें और अपनी भुजाओं को सीधा रखते हुए वजन को ऊपर और ऊपर की ओर झुकाएँ।",
+      "वजन को वापस प्रारंभिक स्थिति में कम करें और वांछित संख्या में दोहराव के लिए दोहराएं।"
+    ],
+    "pl": [
+      "Zacznij w pozycji klęczącej z kolanami rozstawionymi na szerokość bioder i plecami wyprostowanymi.",
+      "Trzymaj obciążenie w każdej dłoni, z ramionami wyprostowanymi prosto w dół przed sobą.",
+      "Napnij mięśnie brzucha i wykonaj zamach obciążeniami w górę i nad głowę, trzymając ramiona proste.",
+      "Opuść obciążenia z powrotem do pozycji wyjściowej i powtórz zgodnie z żądaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "무릎을 엉덩이 너비로 벌리고 등을 곧게 유지하며 무릎을 꿇은 자세로 시작합니다.",
+      "각 손에 무게를 들되 팔을 몸 앞으로 곧게 펼칩니다.",
+      "코어에 힘을 주고 팔을 곧게 유지한 채 무게를 위로 흔들어 머리 위로 들어올립니다.",
+      "무게를 처음 위치로 내려갑니다."
+    ],
+    "fr": [
+      "Commence à genoux, les genoux écartés à la largeur des hanches et le dos droit.",
+      "Tiens un poids dans chaque main, les bras étendus droit vers le bas devant toi.",
+      "Gaine ta sangle abdominale et balance les poids vers le haut au-dessus de ta tête, en gardant les bras tendus.",
+      "Abaisse les poids jusqu'à la position de départ et répète pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "core"
+  ],
+  "target": "delts",
+  "image": "images/3641-7uFJuXp.jpg",
+  "gif_url": "videos/3641-7uFJuXp.gif",
+  "media_id": "7uFJuXp",
+  "created_at": "2026-03-18T12:31:32.905951+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

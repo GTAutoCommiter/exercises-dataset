@@ -1,0 +1,113 @@
+{
+  "id": "2736",
+  "name": "lever reverse grip lateral pulldown",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "leverage machine",
+  "instructions": {
+    "en": "Adjust the seat height and position yourself on the machine with your knees under the pads and your feet flat on the ground. Grasp the handles with an overhand grip, slightly wider than shoulder-width apart. Sit upright with your chest out and shoulders back, maintaining a slight arch in your lower back. Pull the handles down towards your chest, leading with your elbows and squeezing your shoulder blades together. Pause for a moment at the bottom of the movement, then slowly release the handles back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Regola l'altezza del sedile e posizionati sulla macchina con le ginocchia sotto le imbottiture e i piedi appoggiati a terra. Afferrare le maniglie con una presa prona, leggermente più larga della larghezza delle spalle. Siediti in posizione eretta con il petto in fuori e le spalle indietro, mantenendo un leggero arco nella parte bassa della schiena. Tirare le maniglie verso il petto, guidandole con i gomiti e stringendo insieme le scapole. Fermati per un momento alla fine del movimento, quindi rilascia lentamente le maniglie nella posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Koltuk yüksekliğini ayarlayın ve dizleriniz yastıkların altında ve ayaklarınız yere düz basacak şekilde kendinizi makinenin üzerine konumlandırın. Tutamaçları omuz genişliğinden biraz daha geniş olacak şekilde üstten kavrayın. Göğsünüz dışarıda ve omuzlarınız geride olacak şekilde dik oturun, alt sırtınızın hafif bir kavisini koruyun. Kolları göğsünüze doğru çekin, dirseklerinizle ilerleyin ve kürek kemiklerinizi birbirine sıkıştırın. Hareketin alt noktasında bir an duraklayın, ardından kolları yavaşça başlangıç ​​pozisyonuna bırakın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta la altura del asiento y colócate en la máquina con las rodillas debajo de las almohadillas y los pies planos en el suelo. Agarra las agarraderas con un agarre prono, un poco más separadas que el ancho de los hombros. Siéntate erguido con el pecho hacia afuera y los hombros hacia atrás, manteniendo un ligero arco en la zona lumbar. Tira de las asas hacia el pecho, liderando con los codos y juntando los omóplatos. Haz una pausa breve en la parte baja del movimiento, luego suelta lentamente las asas de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Отрегулируйте высоту сиденья и расположитесь на машине так, чтобы колени находились под подушками, а ступни стояли на земле. Возьмитесь за ручки хватом сверху, на расстоянии чуть шире плеч. Сядьте прямо, вытянув грудь и отведя плечи назад, сохраняя небольшой изгиб в пояснице. Потяните ручки вниз к груди, ведя локти и сжимая лопатки вместе. Сделайте паузу на мгновение в нижней части движения, затем медленно отпустите ручки обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "调整座椅高度，将自己放在机器上，膝盖位于垫子下方，双脚平放在地面上。 正手握住手柄，握距略宽于肩宽。 坐直，挺胸，肩膀向后，保持下背部轻微的拱形。 将手柄向下拉向胸部，用肘部引导并将肩胛骨挤压在一起。 在动作底部暂停片刻，然后慢慢松开手柄回到起始位置。 重复所需的重复次数。",
+    "hi": "सीट की ऊंचाई को समायोजित करें और अपने घुटनों को पैड के नीचे और पैरों को जमीन पर सपाट रखते हुए मशीन पर खुद को रखें। हैंडल को कंधे की चौड़ाई से थोड़ा अधिक चौड़े ओवरहैंड ग्रिप से पकड़ें। अपनी छाती को बाहर और कंधों को पीछे की ओर रखते हुए सीधे बैठें, अपनी पीठ के निचले हिस्से में हल्का सा आर्क बनाए रखें। हैंडल को अपनी छाती की ओर नीचे खींचें, अपनी कोहनियों की मदद से आगे बढ़ें और अपने कंधे के ब्लेड को एक साथ दबाएं। गति के निचले भाग पर एक पल के लिए रुकें, फिर धीरे-धीरे हैंडल को प्रारंभिक स्थिति में वापस छोड़ दें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Wyreguluj wysokość siedziska i ustaw się na maszynie, umieszczając kolana pod wałkami, a stopy płasko na podłodze. Chwyć uchwyty nachwytem, nieco szerzej niż na szerokość barków. Usiądź prosto, wypinając klatkę piersiową i cofając barki, zachowując lekkie wygięcie w odcinku lędźwiowym. Przyciągnij uchwyty w dół w kierunku klatki piersiowej, prowadząc ruch łokciami i ściągając łopatki. Zatrzymaj się na chwilę w dolnym punkcie ruchu, a następnie powoli zwolnij uchwyty do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "시트 높이를 조정하고 무릎을 패드 아래에 올리고 발을 바닥에 평평하게 놓은 상태로 머신에 위치합니다. 오버핸드 그립으로 어깨 너비보다 약간 더 넓게 핸들을 잡습니다. 가슴을 펼치고 등을 펼친 상태에서 앉고 하단부 등에 약간의 아치를 유지합니다. 팔꿈치를 앞으로 리드하면서 핸들을 가슴 쪽으로 당기고 견갑골을 함께 짜줍니다. 운동의 하단에서 잠깐 멈춘 후, 천천히 핸들을 처음 위치로 놓습니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Règle la hauteur du siège et installe-toi sur la machine, les genoux sous les coussins et les pieds à plat sur le sol. Saisis les poignées avec une prise en pronation, légèrement plus écartées que la largeur des épaules. Tiens-toi bien droit, la poitrine sortie et les épaules en arrière, en conservant une légère cambrure dans le bas du dos. Tire les poignées vers le bas en direction de ta poitrine en menant avec tes coudes et en contractant tes omoplates l'une vers l'autre. Marque une pause en bas du mouvement, puis relâche lentement les poignées jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the seat height and position yourself on the machine with your knees under the pads and your feet flat on the ground.",
+      "Grasp the handles with an overhand grip, slightly wider than shoulder-width apart.",
+      "Sit upright with your chest out and shoulders back, maintaining a slight arch in your lower back.",
+      "Pull the handles down towards your chest, leading with your elbows and squeezing your shoulder blades together.",
+      "Pause for a moment at the bottom of the movement, then slowly release the handles back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Regola l'altezza del sedile e posizionati sulla macchina con le ginocchia sotto le imbottiture e i piedi appoggiati a terra.",
+      "Afferrare le maniglie con una presa prona, leggermente più larga della larghezza delle spalle.",
+      "Siediti in posizione eretta con il petto in fuori e le spalle indietro, mantenendo un leggero arco nella parte bassa della schiena.",
+      "Tirare le maniglie verso il petto, guidandole con i gomiti e stringendo insieme le scapole.",
+      "Fermati per un momento alla fine del movimento, quindi rilascia lentamente le maniglie nella posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Koltuk yüksekliğini ayarlayın ve dizleriniz yastıkların altında ve ayaklarınız yere düz basacak şekilde kendinizi makinenin üzerine konumlandırın.",
+      "Tutamaçları omuz genişliğinden biraz daha geniş olacak şekilde üstten kavrayın.",
+      "Göğsünüz dışarıda ve omuzlarınız geride olacak şekilde dik oturun, alt sırtınızın hafif bir kavisini koruyun.",
+      "Kolları göğsünüze doğru çekin, dirseklerinizle ilerleyin ve kürek kemiklerinizi birbirine sıkıştırın.",
+      "Hareketin alt noktasında bir an duraklayın, ardından kolları yavaşça başlangıç ​​pozisyonuna bırakın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta la altura del asiento y colócate en la máquina con las rodillas debajo de las almohadillas y los pies planos en el suelo.",
+      "Agarra las agarraderas con un agarre prono, un poco más separadas que el ancho de los hombros.",
+      "Siéntate erguido con el pecho hacia afuera y los hombros hacia atrás, manteniendo un ligero arco en la zona lumbar.",
+      "Tira de las asas hacia el pecho, liderando con los codos y juntando los omóplatos.",
+      "Haz una pausa breve en la parte baja del movimiento, luego suelta lentamente las asas de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Отрегулируйте высоту сиденья и расположитесь на машине так, чтобы колени находились под подушками, а ступни стояли на земле.",
+      "Возьмитесь за ручки хватом сверху, на расстоянии чуть шире плеч.",
+      "Сядьте прямо, вытянув грудь и отведя плечи назад, сохраняя небольшой изгиб в пояснице.",
+      "Потяните ручки вниз к груди, ведя локти и сжимая лопатки вместе.",
+      "Сделайте паузу на мгновение в нижней части движения, затем медленно отпустите ручки обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "调整座椅高度，将自己放在机器上，膝盖位于垫子下方，双脚平放在地面上。",
+      "正手握住手柄，握距略宽于肩宽。",
+      "坐直，挺胸，肩膀向后，保持下背部轻微的拱形。",
+      "将手柄向下拉向胸部，用肘部引导并将肩胛骨挤压在一起。",
+      "在动作底部暂停片刻，然后慢慢松开手柄回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "सीट की ऊंचाई को समायोजित करें और अपने घुटनों को पैड के नीचे और पैरों को जमीन पर सपाट रखते हुए मशीन पर खुद को रखें।",
+      "हैंडल को कंधे की चौड़ाई से थोड़ा अधिक चौड़े ओवरहैंड ग्रिप से पकड़ें।",
+      "अपनी छाती को बाहर और कंधों को पीछे की ओर रखते हुए सीधे बैठें, अपनी पीठ के निचले हिस्से में हल्का सा आर्क बनाए रखें।",
+      "हैंडल को अपनी छाती की ओर नीचे खींचें, अपनी कोहनियों की मदद से आगे बढ़ें और अपने कंधे के ब्लेड को एक साथ दबाएं।",
+      "गति के निचले भाग पर एक पल के लिए रुकें, फिर धीरे-धीरे हैंडल को प्रारंभिक स्थिति में वापस छोड़ दें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Wyreguluj wysokość siedziska i ustaw się na maszynie, umieszczając kolana pod wałkami, a stopy płasko na podłodze.",
+      "Chwyć uchwyty nachwytem, nieco szerzej niż na szerokość barków.",
+      "Usiądź prosto, wypinając klatkę piersiową i cofając barki, zachowując lekkie wygięcie w odcinku lędźwiowym.",
+      "Przyciągnij uchwyty w dół w kierunku klatki piersiowej, prowadząc ruch łokciami i ściągając łopatki.",
+      "Zatrzymaj się na chwilę w dolnym punkcie ruchu, a następnie powoli zwolnij uchwyty do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "시트 높이를 조정하고 무릎을 패드 아래에 올리고 발을 바닥에 평평하게 놓은 상태로 머신에 위치합니다.",
+      "오버핸드 그립으로 어깨 너비보다 약간 더 넓게 핸들을 잡습니다.",
+      "가슴을 펼치고 등을 펼친 상태에서 앉고 하단부 등에 약간의 아치를 유지합니다.",
+      "팔꿈치를 앞으로 리드하면서 핸들을 가슴 쪽으로 당기고 견갑골을 함께 짜줍니다.",
+      "운동의 하단에서 잠깐 멈춘 후, 천천히 핸들을 처음 위치로 놓습니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Règle la hauteur du siège et installe-toi sur la machine, les genoux sous les coussins et les pieds à plat sur le sol.",
+      "Saisis les poignées avec une prise en pronation, légèrement plus écartées que la largeur des épaules.",
+      "Tiens-toi bien droit, la poitrine sortie et les épaules en arrière, en conservant une légère cambrure dans le bas du dos.",
+      "Tire les poignées vers le bas en direction de ta poitrine en menant avec tes coudes et en contractant tes omoplates l'une vers l'autre.",
+      "Marque une pause en bas du mouvement, puis relâche lentement les poignées jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "rhomboids",
+    "rear deltoids"
+  ],
+  "target": "lats",
+  "image": "images/2736-ky8FLU8.jpg",
+  "gif_url": "videos/2736-ky8FLU8.gif",
+  "media_id": "ky8FLU8",
+  "created_at": "2026-03-18T12:31:32.886778+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

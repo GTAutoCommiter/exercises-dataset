@@ -1,0 +1,102 @@
+{
+  "id": "1716",
+  "name": "assisted seated pectoralis major stretch with stability ball",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "assisted",
+  "instructions": {
+    "en": "Sit on a stability ball with your feet flat on the ground and your back straight. Hold a stability ball with both hands and extend your arms straight out in front of you. Slowly lower the stability ball towards your chest, feeling a stretch in your pectoral muscles. Hold the stretch for a few seconds, then slowly return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Siediti su una palla stabilizzata con i piedi appoggiati a terra e la schiena dritta. Tieni una palla stabilizzante con entrambe le mani ed estendi le braccia davanti a te. Abbassa lentamente la sfera di stabilità verso il petto, avvertendo un allungamento dei muscoli pettorali. Mantieni la posizione per alcuni secondi, quindi torna lentamente alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız yere düz basacak ve sırtınız düz olacak şekilde bir stabilite topunun üzerine oturun. Denge topunu iki elinizle tutun ve kollarınızı düz bir şekilde önünüze doğru uzatın. Göğüs kaslarınızın gerildiğini hissederek stabilite topunu yavaşça göğsünüze doğru indirin. Gerdirmeyi birkaç saniye basılı tutun, ardından yavaşça başlangıç ​​pozisyonuna dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Siéntate sobre un balón de estabilidad con los pies apoyados en el suelo y la espalda recta. Sostén un balón de estabilidad con ambas manos y extiende los brazos rectos frente a ti. Baja lentamente el balón de estabilidad hacia el pecho, sintiendo un estiramiento en los pectorales. Mantén el estiramiento durante unos segundos, luego regresa lentamente a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Сядьте на мяч, поставив ноги на землю и выпрямив спину. Возьмите мяч для стабилизации обеими руками и вытяните руки прямо перед собой. Медленно опустите мяч-стабилизатор к груди, чувствуя растяжение грудных мышц. Удерживайте растяжку несколько секунд, затем медленно вернитесь в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "坐在稳定球上，双脚平放在地面上，背部挺直。 双手握住稳定球，并将双臂伸直至身前。 慢慢地将稳定球降低到胸部，感受胸肌的拉伸。 保持伸展几秒钟，然后慢慢回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को ज़मीन पर सपाट और अपनी पीठ को सीधा रखते हुए एक स्टेबिलिटी बॉल पर बैठें। दोनों हाथों से एक स्टेबिलिटी बॉल पकड़ें और अपनी भुजाओं को अपने सामने सीधा फैलाएँ। अपनी पेक्टोरल मांसपेशियों में खिंचाव महसूस करते हुए धीरे-धीरे स्टेबिलिटी बॉल को अपनी छाती की ओर नीचे लाएँ। कुछ सेकंड के लिए खिंचाव बनाए रखें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Usiądź na piłce stabilizacyjnej ze stopami płasko na podłodze i prostymi plecami. Trzymaj piłkę stabilizacyjną obiema rękami i wyciągnij ramiona prosto przed siebie. Powoli opuść piłkę w kierunku klatki piersiowej, odczuwając rozciąganie w mięśniach piersiowych. Utrzymaj rozciąganie przez kilka sekund, a następnie powoli wróć do pozycji wyjściowej. Powtórz zalecaną liczbę razy.",
+    "ko": "짐볼에 앉아 발을 바닥에 평평하게 놓고 등을 펴서 바른 자세를 유지합니다. 짐볼을 양손으로 잡고 팔을 앞으로 곧게 펼칩니다. 짐볼을 가슴 쪽으로 천천히 내려 가슴 근육에서 스트레칭을 느낍니다. 몇 초 동안 스트레칭을 유지한 후 천천히 시작 위치로 돌아옵니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Assieds-toi sur un ballon de stabilité, les pieds à plat sur le sol et le dos droit. Tiens un ballon de stabilité des deux mains et étends tes bras droit devant toi. Abaisse lentement le ballon de stabilité vers ta poitrine, en ressentant un étirement dans tes muscles pectoraux. Maintiens l'étirement pendant quelques secondes, puis reviens lentement à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on a stability ball with your feet flat on the ground and your back straight.",
+      "Hold a stability ball with both hands and extend your arms straight out in front of you.",
+      "Slowly lower the stability ball towards your chest, feeling a stretch in your pectoral muscles.",
+      "Hold the stretch for a few seconds, then slowly return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Siediti su una palla stabilizzata con i piedi appoggiati a terra e la schiena dritta.",
+      "Tieni una palla stabilizzante con entrambe le mani ed estendi le braccia davanti a te.",
+      "Abbassa lentamente la sfera di stabilità verso il petto, avvertendo un allungamento dei muscoli pettorali.",
+      "Mantieni la posizione per alcuni secondi, quindi torna lentamente alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız yere düz basacak ve sırtınız düz olacak şekilde bir stabilite topunun üzerine oturun.",
+      "Denge topunu iki elinizle tutun ve kollarınızı düz bir şekilde önünüze doğru uzatın.",
+      "Göğüs kaslarınızın gerildiğini hissederek stabilite topunu yavaşça göğsünüze doğru indirin.",
+      "Gerdirmeyi birkaç saniye basılı tutun, ardından yavaşça başlangıç ​​pozisyonuna dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Siéntate sobre un balón de estabilidad con los pies apoyados en el suelo y la espalda recta.",
+      "Sostén un balón de estabilidad con ambas manos y extiende los brazos rectos frente a ti.",
+      "Baja lentamente el balón de estabilidad hacia el pecho, sintiendo un estiramiento en los pectorales.",
+      "Mantén el estiramiento durante unos segundos, luego regresa lentamente a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на мяч, поставив ноги на землю и выпрямив спину.",
+      "Возьмите мяч для стабилизации обеими руками и вытяните руки прямо перед собой.",
+      "Медленно опустите мяч-стабилизатор к груди, чувствуя растяжение грудных мышц.",
+      "Удерживайте растяжку несколько секунд, затем медленно вернитесь в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "坐在稳定球上，双脚平放在地面上，背部挺直。",
+      "双手握住稳定球，并将双臂伸直至身前。",
+      "慢慢地将稳定球降低到胸部，感受胸肌的拉伸。",
+      "保持伸展几秒钟，然后慢慢回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को ज़मीन पर सपाट और अपनी पीठ को सीधा रखते हुए एक स्टेबिलिटी बॉल पर बैठें।",
+      "दोनों हाथों से एक स्टेबिलिटी बॉल पकड़ें और अपनी भुजाओं को अपने सामने सीधा फैलाएँ।",
+      "अपनी पेक्टोरल मांसपेशियों में खिंचाव महसूस करते हुए धीरे-धीरे स्टेबिलिटी बॉल को अपनी छाती की ओर नीचे लाएँ।",
+      "कुछ सेकंड के लिए खिंचाव बनाए रखें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Usiądź na piłce stabilizacyjnej ze stopami płasko na podłodze i prostymi plecami.",
+      "Trzymaj piłkę stabilizacyjną obiema rękami i wyciągnij ramiona prosto przed siebie.",
+      "Powoli opuść piłkę w kierunku klatki piersiowej, odczuwając rozciąganie w mięśniach piersiowych.",
+      "Utrzymaj rozciąganie przez kilka sekund, a następnie powoli wróć do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "짐볼에 앉아 발을 바닥에 평평하게 놓고 등을 펴서 바른 자세를 유지합니다.",
+      "짐볼을 양손으로 잡고 팔을 앞으로 곧게 펼칩니다.",
+      "짐볼을 가슴 쪽으로 천천히 내려 가슴 근육에서 스트레칭을 느낍니다.",
+      "몇 초 동안 스트레칭을 유지한 후 천천히 시작 위치로 돌아옵니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Assieds-toi sur un ballon de stabilité, les pieds à plat sur le sol et le dos droit.",
+      "Tiens un ballon de stabilité des deux mains et étends tes bras droit devant toi.",
+      "Abaisse lentement le ballon de stabilité vers ta poitrine, en ressentant un étirement dans tes muscles pectoraux.",
+      "Maintiens l'étirement pendant quelques secondes, puis reviens lentement à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "target": "pectorals",
+  "image": "images/1716-RoV1Rfa.jpg",
+  "gif_url": "videos/1716-RoV1Rfa.gif",
+  "media_id": "RoV1Rfa",
+  "created_at": "2026-03-18T12:31:32.855456+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

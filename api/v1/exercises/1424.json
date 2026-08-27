@@ -1,0 +1,111 @@
+{
+  "id": "1424",
+  "name": "seated glute stretch",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Sit on the ground with your legs extended in front of you. Bend your right knee and cross your right ankle over your left thigh. Place your right hand on the ground behind you for support. With your left hand, gently press down on your right knee to deepen the stretch. Hold the stretch for 30 seconds to 1 minute. Switch sides and repeat.",
+    "it": "Siediti a terra con le gambe distese davanti a te. Piega il ginocchio destro e incrocia la caviglia destra sopra la coscia sinistra. Metti la mano destra a terra dietro di te per supporto. Con la mano sinistra, premi delicatamente verso il basso il ginocchio destro per approfondire l'allungamento. Mantieni l'allungamento da 30 secondi a 1 minuto. Cambia lato e ripeti.",
+    "tr": "Bacaklarınız önünüzde uzatılmış halde yere oturun. Sağ dizinizi bükün ve sağ ayak bileğinizi sol uyluğunuzun üzerinden geçirin. Destek için sağ elinizi arkanızda yere koyun. Gerginliği derinleştirmek için sol elinizle sağ dizinize hafifçe bastırın. Uzatmayı 30 saniye ila 1 dakika arasında tutun. Tarafları değiştirin ve tekrarlayın.",
+    "es": "Siéntate en el suelo con las piernas extendidas frente a ti. Dobla la rodilla derecha y cruza el tobillo derecho sobre el muslo izquierdo. Coloca la mano derecha en el suelo detrás de ti para apoyarte. Con la mano izquierda, presiona suavemente la rodilla derecha para profundizar el estiramiento. Mantén el estiramiento durante 30 segundos a 1 minuto. Cambia de lado y repite.",
+    "ru": "Сядьте на пол, вытянув ноги перед собой. Согните правое колено и перекиньте правую лодыжку через левое бедро. Положите правую руку на землю позади себя для поддержки. Левой рукой осторожно надавите на правое колено, чтобы углубить растяжку. Удерживайте растяжку от 30 секунд до 1 минуты. Поменяйте стороны и повторите.",
+    "zh": "坐在地上，双腿在身前伸展。 弯曲右膝，将右脚踝交叉在左大腿上。 将右手放在身后的地面上以获得支撑。 用左手轻轻按下右膝盖以加深伸展。 保持拉伸 30 秒到 1 分钟。 换边并重复。",
+    "hi": "अपने पैरों को सामने फैलाकर जमीन पर बैठें। अपने दाहिने घुटने को मोड़ें और अपने दाहिने टखने को अपनी बाईं जांघ के ऊपर से पार करें। समर्थन के लिए अपना दाहिना हाथ अपने पीछे ज़मीन पर रखें। खिंचाव को गहरा करने के लिए अपने बाएं हाथ से अपने दाहिने घुटने को धीरे से दबाएं। 30 सेकंड से 1 मिनट तक खिंचाव बनाए रखें। पक्ष बदलें और दोहराएं।",
+    "pl": "Usiądź na podłodze z nogami wyprostowanymi przed sobą. Ugnij prawe kolano i skrzyżuj prawą kostkę nad lewym udem. Oprzyj prawą rękę na podłodze za sobą dla wsparcia. Lewą ręką delikatnie dociśnij prawe kolano, aby pogłębić rozciąganie. Przytrzymaj rozciągnięcie przez 30 sekund do 1 minuty. Zmień strony i powtórz.",
+    "ko": "지면에 앉은 상태에서 두 다리를 앞으로 쭉 뻗습니다. 오른쪽 무릎을 구부려 오른쪽 발목을 왼쪽 허벅지 바깥쪽에 올립니다. 지지를 위해 오른쪽 손을 몸 뒤 지면에 올립니다. 왼쪽 손으로 오른쪽 무릎을 부드럽게 누르며 스트레칭을 깊게 합니다. 스트레칭을 30초에서 1분간 유지합니다. 반대쪽으로 바꾸어 반복합니다.",
+    "fr": "Assieds-toi au sol, les jambes tendues devant toi. Fléchis ton genou droit et croise ta cheville droite sur ta cuisse gauche. Place ta main droite sur le sol derrière toi pour te soutenir. Avec ta main gauche, appuie doucement sur ton genou droit pour accentuer l'étirement. Maintiens l'étirement pendant 30 secondes à 1 minute. Change de côté et répète."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on the ground with your legs extended in front of you.",
+      "Bend your right knee and cross your right ankle over your left thigh.",
+      "Place your right hand on the ground behind you for support.",
+      "With your left hand, gently press down on your right knee to deepen the stretch.",
+      "Hold the stretch for 30 seconds to 1 minute.",
+      "Switch sides and repeat."
+    ],
+    "it": [
+      "Siediti a terra con le gambe distese davanti a te.",
+      "Piega il ginocchio destro e incrocia la caviglia destra sopra la coscia sinistra.",
+      "Metti la mano destra a terra dietro di te per supporto.",
+      "Con la mano sinistra, premi delicatamente verso il basso il ginocchio destro per approfondire l'allungamento.",
+      "Mantieni l'allungamento da 30 secondi a 1 minuto.",
+      "Cambia lato e ripeti."
+    ],
+    "tr": [
+      "Bacaklarınız önünüzde uzatılmış halde yere oturun.",
+      "Sağ dizinizi bükün ve sağ ayak bileğinizi sol uyluğunuzun üzerinden geçirin.",
+      "Destek için sağ elinizi arkanızda yere koyun.",
+      "Gerginliği derinleştirmek için sol elinizle sağ dizinize hafifçe bastırın.",
+      "Uzatmayı 30 saniye ila 1 dakika arasında tutun.",
+      "Tarafları değiştirin ve tekrarlayın."
+    ],
+    "es": [
+      "Siéntate en el suelo con las piernas extendidas frente a ti.",
+      "Dobla la rodilla derecha y cruza el tobillo derecho sobre el muslo izquierdo.",
+      "Coloca la mano derecha en el suelo detrás de ti para apoyarte.",
+      "Con la mano izquierda, presiona suavemente la rodilla derecha para profundizar el estiramiento.",
+      "Mantén el estiramiento durante 30 segundos a 1 minuto.",
+      "Cambia de lado y repite."
+    ],
+    "ru": [
+      "Сядьте на пол, вытянув ноги перед собой.",
+      "Согните правое колено и перекиньте правую лодыжку через левое бедро.",
+      "Положите правую руку на землю позади себя для поддержки.",
+      "Левой рукой осторожно надавите на правое колено, чтобы углубить растяжку.",
+      "Удерживайте растяжку от 30 секунд до 1 минуты.",
+      "Поменяйте стороны и повторите."
+    ],
+    "zh": [
+      "坐在地上，双腿在身前伸展。",
+      "弯曲右膝，将右脚踝交叉在左大腿上。",
+      "将右手放在身后的地面上以获得支撑。",
+      "用左手轻轻按下右膝盖以加深伸展。",
+      "保持拉伸 30 秒到 1 分钟。",
+      "换边并重复。"
+    ],
+    "hi": [
+      "अपने पैरों को सामने फैलाकर जमीन पर बैठें।",
+      "अपने दाहिने घुटने को मोड़ें और अपने दाहिने टखने को अपनी बाईं जांघ के ऊपर से पार करें।",
+      "समर्थन के लिए अपना दाहिना हाथ अपने पीछे ज़मीन पर रखें।",
+      "खिंचाव को गहरा करने के लिए अपने बाएं हाथ से अपने दाहिने घुटने को धीरे से दबाएं।",
+      "30 सेकंड से 1 मिनट तक खिंचाव बनाए रखें।",
+      "पक्ष बदलें और दोहराएं।"
+    ],
+    "pl": [
+      "Usiądź na podłodze z nogami wyprostowanymi przed sobą.",
+      "Ugnij prawe kolano i skrzyżuj prawą kostkę nad lewym udem.",
+      "Oprzyj prawą rękę na podłodze za sobą dla wsparcia.",
+      "Lewą ręką delikatnie dociśnij prawe kolano, aby pogłębić rozciąganie.",
+      "Przytrzymaj rozciągnięcie przez 30 sekund do 1 minuty.",
+      "Zmień strony i powtórz."
+    ],
+    "ko": [
+      "지면에 앉은 상태에서 두 다리를 앞으로 쭉 뻗습니다.",
+      "오른쪽 무릎을 구부려 오른쪽 발목을 왼쪽 허벅지 바깥쪽에 올립니다.",
+      "지지를 위해 오른쪽 손을 몸 뒤 지면에 올립니다.",
+      "왼쪽 손으로 오른쪽 무릎을 부드럽게 누르며 스트레칭을 깊게 합니다.",
+      "스트레칭을 30초에서 1분간 유지합니다.",
+      "반대쪽으로 바꾸어 반복합니다."
+    ],
+    "fr": [
+      "Assieds-toi au sol, les jambes tendues devant toi.",
+      "Fléchis ton genou droit et croise ta cheville droite sur ta cuisse gauche.",
+      "Place ta main droite sur le sol derrière toi pour te soutenir.",
+      "Avec ta main gauche, appuie doucement sur ton genou droit pour accentuer l'étirement.",
+      "Maintiens l'étirement pendant 30 secondes à 1 minute.",
+      "Change de côté et répète."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings"
+  ],
+  "target": "glutes",
+  "image": "images/1424-DeDThfG.jpg",
+  "gif_url": "videos/1424-DeDThfG.gif",
+  "media_id": "DeDThfG",
+  "created_at": "2026-03-18T12:31:32.889454+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

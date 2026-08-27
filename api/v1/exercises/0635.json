@@ -1,0 +1,101 @@
+{
+  "id": "0635",
+  "name": "oblique crunches floor",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Lie on your back with your knees bent and feet flat on the floor. Place your hands behind your head or cross them over your chest. Engage your abs and lift your shoulder blades off the floor, rotating your torso to one side. Pause for a moment, then lower your shoulder blades back down to the floor. Repeat on the other side, alternating sides with each repetition.",
+    "it": "Sdraiati sulla schiena con le ginocchia piegate e i piedi appoggiati sul pavimento. Metti le mani dietro la testa o incrociale sul petto. Coinvolgi gli addominali e solleva le scapole dal pavimento, ruotando il busto da un lato. Fai una pausa per un momento, quindi abbassa le scapole sul pavimento. Ripeti dall'altro lato, alternando i lati ad ogni ripetizione.",
+    "tr": "Dizleriniz bükülmüş ve ayaklarınız yere düz basacak şekilde sırt üstü yatın. Ellerinizi başınızın arkasına koyun veya göğsünüzün üzerinde çaprazlayın. Karın kaslarınızı devreye sokun ve gövdenizi bir tarafa çevirerek kürek kemiklerinizi yerden kaldırın. Bir an duraklayın, ardından kürek kemiklerinizi tekrar yere indirin. Her tekrarda tarafları değiştirerek diğer tarafta tekrarlayın.",
+    "es": "Túmbate boca arriba con las rodillas flexionadas y los pies planos en el suelo. Coloca las manos detrás de la cabeza o crúzalas sobre el pecho. Activa el abdomen y levanta las escápulas del suelo, rotando el torso hacia un lado. Haz una pausa por un momento y luego baja las escápulas de nuevo hasta el suelo. Repite hacia el otro lado, alternando los lados en cada repetición.",
+    "ru": "Лягте на спину, согните колени и поставьте ступни на пол. Заведите руки за голову или скрестите их на груди. Напрягите пресс и поднимите лопатки от пола, поворачивая туловище в одну сторону. Сделайте паузу на мгновение, затем опустите лопатки обратно на пол. Повторите то же самое с другой стороны, чередуя стороны при каждом повторении.",
+    "zh": "仰卧，膝盖弯曲，双脚平放在地板上。 将双手放在脑后或交叉放在胸前。 收紧腹肌，将肩胛骨抬离地面，将躯干旋转到一侧。 暂停片刻，然后将肩胛骨放回到地板上。 在另一侧重复，每次重复时交替进行。",
+    "hi": "अपने घुटनों को मोड़कर और पैरों को फर्श पर सपाट रखते हुए अपनी पीठ के बल लेटें। अपने हाथों को अपने सिर के पीछे रखें या उन्हें अपनी छाती के ऊपर से पार करें। अपने पेट को संलग्न करें और अपने धड़ को एक तरफ घुमाते हुए अपने कंधे के ब्लेड को फर्श से ऊपर उठाएं। एक पल के लिए रुकें, फिर अपने कंधे के ब्लेड को वापस फर्श पर नीचे लाएँ। प्रत्येक पुनरावृत्ति के साथ पक्षों को बदलते हुए, दूसरी तरफ दोहराएं।",
+    "pl": "Połóż się na plecach, ugnij kolana i oprzyj stopy płasko na podłodze. Umieść dłonie za głową lub skrzyżuj je na klatce piersiowej. Napnij mięśnie brzucha i unieś łopatki nad podłogę, obracając tors w jedną stronę. Zatrzymaj się na chwilę, a następnie opuść łopatki z powrotem na podłogę. Powtórz po drugiej stronie, zmieniając strony z każdym powtórzeniem.",
+    "ko": "무릎을 구부리고 발을 바닥에 평평하게 놓고 등을 대고 누워 있습니다. 손을 머리 뒤에 올려놓거나 가슴 위에 교차시킵니다. 복근을 활성화하고 어깨 블레이드를 바닥에서 들어올리면서 몸통을 한쪽으로 회전합니다. 잠시 멈추었다가 어깨 블레이드를 바닥으로 내립니다. 반대쪽에서 반복하며 각 회마다 양쪽을 번갈아 진행합니다.",
+    "fr": "Allonge-toi sur le dos, les genoux fléchis et les pieds à plat au sol. Place tes mains derrière ta tête ou croise-les sur ta poitrine. Gaine tes abdominaux et décolle tes omoplates du sol, en faisant pivoter ton torse d'un côté. Marque une pause, puis abaisse lentement tes omoplates vers le sol. Répète de l'autre côté en alternant les côtés à chaque répétition."
+  },
+  "instruction_steps": {
+    "en": [
+      "Lie on your back with your knees bent and feet flat on the floor.",
+      "Place your hands behind your head or cross them over your chest.",
+      "Engage your abs and lift your shoulder blades off the floor, rotating your torso to one side.",
+      "Pause for a moment, then lower your shoulder blades back down to the floor.",
+      "Repeat on the other side, alternating sides with each repetition."
+    ],
+    "it": [
+      "Sdraiati sulla schiena con le ginocchia piegate e i piedi appoggiati sul pavimento.",
+      "Metti le mani dietro la testa o incrociale sul petto.",
+      "Coinvolgi gli addominali e solleva le scapole dal pavimento, ruotando il busto da un lato.",
+      "Fai una pausa per un momento, quindi abbassa le scapole sul pavimento.",
+      "Ripeti dall'altro lato, alternando i lati ad ogni ripetizione."
+    ],
+    "tr": [
+      "Dizleriniz bükülmüş ve ayaklarınız yere düz basacak şekilde sırt üstü yatın.",
+      "Ellerinizi başınızın arkasına koyun veya göğsünüzün üzerinde çaprazlayın.",
+      "Karın kaslarınızı devreye sokun ve gövdenizi bir tarafa çevirerek kürek kemiklerinizi yerden kaldırın.",
+      "Bir an duraklayın, ardından kürek kemiklerinizi tekrar yere indirin.",
+      "Her tekrarda tarafları değiştirerek diğer tarafta tekrarlayın."
+    ],
+    "es": [
+      "Túmbate boca arriba con las rodillas flexionadas y los pies planos en el suelo.",
+      "Coloca las manos detrás de la cabeza o crúzalas sobre el pecho.",
+      "Activa el abdomen y levanta las escápulas del suelo, rotando el torso hacia un lado.",
+      "Haz una pausa por un momento y luego baja las escápulas de nuevo hasta el suelo.",
+      "Repite hacia el otro lado, alternando los lados en cada repetición."
+    ],
+    "ru": [
+      "Лягте на спину, согните колени и поставьте ступни на пол.",
+      "Заведите руки за голову или скрестите их на груди.",
+      "Напрягите пресс и поднимите лопатки от пола, поворачивая туловище в одну сторону.",
+      "Сделайте паузу на мгновение, затем опустите лопатки обратно на пол.",
+      "Повторите то же самое с другой стороны, чередуя стороны при каждом повторении."
+    ],
+    "zh": [
+      "仰卧，膝盖弯曲，双脚平放在地板上。",
+      "将双手放在脑后或交叉放在胸前。",
+      "收紧腹肌，将肩胛骨抬离地面，将躯干旋转到一侧。",
+      "暂停片刻，然后将肩胛骨放回到地板上。",
+      "在另一侧重复，每次重复时交替进行。"
+    ],
+    "hi": [
+      "अपने घुटनों को मोड़कर और पैरों को फर्श पर सपाट रखते हुए अपनी पीठ के बल लेटें।",
+      "अपने हाथों को अपने सिर के पीछे रखें या उन्हें अपनी छाती के ऊपर से पार करें।",
+      "अपने पेट को संलग्न करें और अपने धड़ को एक तरफ घुमाते हुए अपने कंधे के ब्लेड को फर्श से ऊपर उठाएं।",
+      "एक पल के लिए रुकें, फिर अपने कंधे के ब्लेड को वापस फर्श पर नीचे लाएँ।",
+      "प्रत्येक पुनरावृत्ति के साथ पक्षों को बदलते हुए, दूसरी तरफ दोहराएं।"
+    ],
+    "pl": [
+      "Połóż się na plecach, ugnij kolana i oprzyj stopy płasko na podłodze.",
+      "Umieść dłonie za głową lub skrzyżuj je na klatce piersiowej.",
+      "Napnij mięśnie brzucha i unieś łopatki nad podłogę, obracając tors w jedną stronę.",
+      "Zatrzymaj się na chwilę, a następnie opuść łopatki z powrotem na podłogę.",
+      "Powtórz po drugiej stronie, zmieniając strony z każdym powtórzeniem."
+    ],
+    "ko": [
+      "무릎을 구부리고 발을 바닥에 평평하게 놓고 등을 대고 누워 있습니다.",
+      "손을 머리 뒤에 올려놓거나 가슴 위에 교차시킵니다.",
+      "복근을 활성화하고 어깨 블레이드를 바닥에서 들어올리면서 몸통을 한쪽으로 회전합니다.",
+      "잠시 멈추었다가 어깨 블레이드를 바닥으로 내립니다.",
+      "반대쪽에서 반복하며 각 회마다 양쪽을 번갈아 진행합니다."
+    ],
+    "fr": [
+      "Allonge-toi sur le dos, les genoux fléchis et les pieds à plat au sol.",
+      "Place tes mains derrière ta tête ou croise-les sur ta poitrine.",
+      "Gaine tes abdominaux et décolle tes omoplates du sol, en faisant pivoter ton torse d'un côté.",
+      "Marque une pause, puis abaisse lentement tes omoplates vers le sol.",
+      "Répète de l'autre côté en alternant les côtés à chaque répétition."
+    ]
+  },
+  "muscle_group": "obliques",
+  "secondary_muscles": [
+    "obliques"
+  ],
+  "target": "abs",
+  "image": "images/0635-QUDd8WS.jpg",
+  "gif_url": "videos/0635-QUDd8WS.gif",
+  "media_id": "QUDd8WS",
+  "created_at": "2026-03-18T12:31:32.887896+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,112 @@
+{
+  "id": "0304",
+  "name": "dumbbell decline shrug v. 2",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Set up a decline bench at a 45-degree angle. Lie face down on the bench with your chest and stomach resting on it. Hold a dumbbell in each hand with your palms facing each other and your arms fully extended. Keeping your arms straight, raise your shoulders as high as possible while squeezing your shoulder blades together. Hold the contraction for a brief pause, then lower the dumbbells back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Installare una panca di declino con un angolo di 45 gradi. Sdraiati a faccia in giù sulla panchina con petto e pancia appoggiati sopra. Tieni un manubrio in ogni mano con i palmi rivolti l'uno verso l'altro e le braccia completamente estese. Tieni le braccia dritte, alza le spalle il più possibile stringendo le scapole insieme. Tieni la contrazione per una breve pausa, poi abbassa i manubri alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "45 derecelik bir açıyla bir düşüş tezgahı kurun. Göğsünüz ve karnınız üzerine yaslanacak şekilde bankta yüz üstü uzanın. Avuç içleriniz birbirine bakacak ve kollarınız tamamen uzatılmış şekilde her iki elinizde birer dambıl tutun. Kollarınızı düz tutarak omuzlarınızı olabildiğince yükseğe kaldırın ve kürek kemiklerinizi birbirine doğru sıkın. Kısa bir süre kasılmayı sürdürün, ardından dambılları tekrar başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta un banco declinado a un ángulo de 45 grados. Túmbate boca abajo en el banco con el pecho y el abdomen apoyados sobre él. Sostén una mancuerna en cada mano con las palmas enfrentadas entre sí y los brazos completamente extendidos. Manteniendo los brazos rectos, levanta los hombros lo más alto posible mientras juntas los omóplatos. Mantén la contracción durante una breve pausa, luego baja las mancuernas de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Установите наклонную скамью под углом 45 градусов. Лягте лицом вниз на скамью, положив на нее грудь и живот. Возьмите по гантели в каждую руку ладонями друг к другу и полностью выпрямите руки. Держа руки прямыми, поднимите плечи как можно выше, сводя лопатки вместе. Удерживайте сокращение на короткую паузу, затем опустите гантели обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "设置一个 45 度角的下斜凳。 脸朝下躺在长凳上，胸部和腹部靠在长凳上。 每只手握住一个哑铃，手掌相对，双臂完全伸展。 保持手臂伸直，尽可能高地抬高肩膀，同时将肩胛骨挤压在一起。 保持收缩短暂停顿，然后将哑铃放回起始位置。 重复所需的重复次数。",
+    "hi": "45-डिग्री के कोण पर डिक्लाइन बेंच स्थापित करें। अपनी छाती और पेट को उस पर टिकाकर बेंच पर मुंह करके लेट जाएं। अपनी हथेलियों को एक-दूसरे के सामने रखते हुए और अपनी बाहों को पूरी तरह फैलाकर प्रत्येक हाथ में एक डम्बल पकड़ें। अपनी बाहों को सीधा रखते हुए, अपने कंधों को एक साथ निचोड़ते हुए अपने कंधों को जितना संभव हो उतना ऊपर उठाएं। संकुचन को थोड़ी देर के लिए रोककर रखें, फिर डम्बल को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Ustaw ławkę skośną pod kątem 45 stopni. Połóż się na niej twarzą w dół, opierając klatkę piersiową i brzuch o ławkę. Chwyć hantle w obie ręce, dłonie skierowane do siebie, ramiona w pełni wyprostowane. Trzymając ręce proste, unieś barki jak najwyżej, ściągając jednocześnie łopatki. Zatrzymaj napięcie na chwilę, a następnie opuść hantle do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "디클라인 벤치를 45도 각도로 설정합니다. 벤치에 엎드려서 가슴과 복부가 벤치에 닿도록 합니다. 각 손에 덤벨을 들고 손바닥이 서로 마주보도록 하며 팔을 완전히 펴집니다. 팔을 곧게 유지하면서 어깨를 최대한 높이 올리되 어깨뼈를 함께 쥡니다. 수축을 잠깐 멈춘 후 덤벨을 시작 위치로 천천히 내립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Installe un banc décliné à un angle de 45 degrés. Allonge-toi face vers le bas sur le banc, la poitrine et le ventre reposant dessus. Tiens un haltère dans chaque main, les paumes tournées l'une vers l'autre et les bras complètement étendus. En gardant les bras tendus, lève tes épaules le plus haut possible en resserrant tes omoplates. Maintiens la contraction pendant une brève pause, puis abaisse les haltères jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Set up a decline bench at a 45-degree angle.",
+      "Lie face down on the bench with your chest and stomach resting on it.",
+      "Hold a dumbbell in each hand with your palms facing each other and your arms fully extended.",
+      "Keeping your arms straight, raise your shoulders as high as possible while squeezing your shoulder blades together.",
+      "Hold the contraction for a brief pause, then lower the dumbbells back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Installare una panca di declino con un angolo di 45 gradi.",
+      "Sdraiati a faccia in giù sulla panchina con petto e pancia appoggiati sopra.",
+      "Tieni un manubrio in ogni mano con i palmi rivolti l'uno verso l'altro e le braccia completamente estese.",
+      "Tieni le braccia dritte, alza le spalle il più possibile stringendo le scapole insieme.",
+      "Tieni la contrazione per una breve pausa, poi abbassa i manubri alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "45 derecelik bir açıyla bir düşüş tezgahı kurun.",
+      "Göğsünüz ve karnınız üzerine yaslanacak şekilde bankta yüz üstü uzanın.",
+      "Avuç içleriniz birbirine bakacak ve kollarınız tamamen uzatılmış şekilde her iki elinizde birer dambıl tutun.",
+      "Kollarınızı düz tutarak omuzlarınızı olabildiğince yükseğe kaldırın ve kürek kemiklerinizi birbirine doğru sıkın.",
+      "Kısa bir süre kasılmayı sürdürün, ardından dambılları tekrar başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta un banco declinado a un ángulo de 45 grados.",
+      "Túmbate boca abajo en el banco con el pecho y el abdomen apoyados sobre él.",
+      "Sostén una mancuerna en cada mano con las palmas enfrentadas entre sí y los brazos completamente extendidos.",
+      "Manteniendo los brazos rectos, levanta los hombros lo más alto posible mientras juntas los omóplatos.",
+      "Mantén la contracción durante una breve pausa, luego baja las mancuernas de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Установите наклонную скамью под углом 45 градусов.",
+      "Лягте лицом вниз на скамью, положив на нее грудь и живот.",
+      "Возьмите по гантели в каждую руку ладонями друг к другу и полностью выпрямите руки.",
+      "Держа руки прямыми, поднимите плечи как можно выше, сводя лопатки вместе.",
+      "Удерживайте сокращение на короткую паузу, затем опустите гантели обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "设置一个 45 度角的下斜凳。",
+      "脸朝下躺在长凳上，胸部和腹部靠在长凳上。",
+      "每只手握住一个哑铃，手掌相对，双臂完全伸展。",
+      "保持手臂伸直，尽可能高地抬高肩膀，同时将肩胛骨挤压在一起。",
+      "保持收缩短暂停顿，然后将哑铃放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "45-डिग्री के कोण पर डिक्लाइन बेंच स्थापित करें।",
+      "अपनी छाती और पेट को उस पर टिकाकर बेंच पर मुंह करके लेट जाएं।",
+      "अपनी हथेलियों को एक-दूसरे के सामने रखते हुए और अपनी बाहों को पूरी तरह फैलाकर प्रत्येक हाथ में एक डम्बल पकड़ें।",
+      "अपनी बाहों को सीधा रखते हुए, अपने कंधों को एक साथ निचोड़ते हुए अपने कंधों को जितना संभव हो उतना ऊपर उठाएं।",
+      "संकुचन को थोड़ी देर के लिए रोककर रखें, फिर डम्बल को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Ustaw ławkę skośną pod kątem 45 stopni.",
+      "Połóż się na niej twarzą w dół, opierając klatkę piersiową i brzuch o ławkę.",
+      "Chwyć hantle w obie ręce, dłonie skierowane do siebie, ramiona w pełni wyprostowane.",
+      "Trzymając ręce proste, unieś barki jak najwyżej, ściągając jednocześnie łopatki.",
+      "Zatrzymaj napięcie na chwilę, a następnie opuść hantle do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "디클라인 벤치를 45도 각도로 설정합니다.",
+      "벤치에 엎드려서 가슴과 복부가 벤치에 닿도록 합니다.",
+      "각 손에 덤벨을 들고 손바닥이 서로 마주보도록 하며 팔을 완전히 펴집니다.",
+      "팔을 곧게 유지하면서 어깨를 최대한 높이 올리되 어깨뼈를 함께 쥡니다.",
+      "수축을 잠깐 멈춘 후 덤벨을 시작 위치로 천천히 내립니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Installe un banc décliné à un angle de 45 degrés.",
+      "Allonge-toi face vers le bas sur le banc, la poitrine et le ventre reposant dessus.",
+      "Tiens un haltère dans chaque main, les paumes tournées l'une vers l'autre et les bras complètement étendus.",
+      "En gardant les bras tendus, lève tes épaules le plus haut possible en resserrant tes omoplates.",
+      "Maintiens la contraction pendant une brève pause, puis abaisse les haltères jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "rhomboids"
+  ],
+  "target": "traps",
+  "image": "images/0304-bRlbdjK.jpg",
+  "gif_url": "videos/0304-bRlbdjK.gif",
+  "media_id": "bRlbdjK",
+  "created_at": "2026-03-18T12:31:32.878229+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

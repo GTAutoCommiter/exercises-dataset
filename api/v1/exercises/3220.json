@@ -1,0 +1,113 @@
+{
+  "id": "3220",
+  "name": "astride jumps (male)",
+  "category": "cardio",
+  "body_part": "cardio",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart. Bend your knees and lower your body into a squat position. Jump explosively upwards, extending your legs and arms. While in the air, spread your legs apart and bring your arms out to the sides. Land softly with your feet shoulder-width apart, bending your knees to absorb the impact. Repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi alla larghezza delle spalle. Piega le ginocchia e abbassa il corpo in una posizione tozza. Salta in modo esplosivo verso l'alto, estendendo le gambe e le braccia. Mentre sei in aria, allarga le gambe e porta le braccia ai lati. Atterra dolcemente con i piedi alla larghezza delle spalle, piegando le ginocchia per assorbire l'impatto. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durun. Dizlerinizi bükün ve vücudunuzu çömelme pozisyonuna indirin. Bacaklarınızı ve kollarınızı uzatarak patlayıcı bir şekilde yukarı doğru zıplayın. Havadayken bacaklarınızı iki yana açın ve kollarınızı yanlara doğru açın. Ayaklarınız omuz genişliğinde açık olacak şekilde yumuşak bir şekilde yere inin ve darbeyi absorbe etmek için dizlerinizi bükün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros. Flexiona las rodillas y baja el cuerpo hacia una posición de sentadilla. Salta explosivamente hacia arriba, extendiendo las piernas y los brazos. Mientras estás en el aire, separa las piernas y lleva los brazos hacia los lados. Aterriza suavemente con los pies separados a la altura de los hombros, flexionando las rodillas para absorber el impacto. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч. Согните колени и опустите тело в присед. Резко прыгните вверх, вытягивая ноги и руки. Находясь в воздухе, разведите ноги в стороны и разведите руки в стороны. Мягко приземлитесь, поставив ноги на ширине плеч, согнув колени, чтобы поглотить удар. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立。 弯曲膝盖并将身体降低至蹲姿。 爆发性向上跳跃，伸展双腿和手臂。 在空中时，将双腿分开，并将双臂向两侧伸出。 双脚分开与肩同宽，轻轻落地，弯曲膝盖以吸收冲击力。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई की दूरी पर रखकर खड़े हो जाएं। अपने घुटनों को मोड़ें और अपने शरीर को स्क्वाट स्थिति में नीचे लाएँ। अपने पैरों और भुजाओं को फैलाते हुए तेजी से ऊपर की ओर कूदें। हवा में रहते हुए, अपने पैरों को फैलाएं और अपनी भुजाओं को बगल की ओर लाएं। अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए, प्रभाव को अवशोषित करने के लिए अपने घुटनों को मोड़ते हुए, धीरे से जमीन पर उतरें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań w rozkroku na szerokość barków. Ugnij kolana i opuść ciało do pozycji przysiadu. Wyskocz gwałtownie w górę, prostując nogi i ramiona. Będąc w powietrzu, rozłóż nogi na boki i wyprostuj ramiona na boki. Wyląduj miękko, stopy w rozkroku na szerokość barków, uginając kolana, aby zamortyzować lądowanie. Powtórz zalecaną liczbę razy.",
+    "ko": "발을 어깨너비로 벌리고 섭니다. 무릎을 구부려 스쿼트 자세로 몸을 내립니다. 다리와 팔을 펼치며 폭발적으로 위로 점프합니다. 공중에서 다리를 벌리고 팔을 양옆으로 펼칩니다. 발을 어깨너비로 벌리고 착지하면서 무릎을 구부려 충격을 흡수합니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules. Fléchis les genoux et abaisse ton corps en position accroupie. Saute vers le haut de manière explosive, en étendant tes jambes et tes bras. En l'air, écarte les jambes et tends les bras sur les côtés. Atterris en douceur avec les pieds écartés à la largeur des épaules, en fléchissant les genoux pour absorber l'impact. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart.",
+      "Bend your knees and lower your body into a squat position.",
+      "Jump explosively upwards, extending your legs and arms.",
+      "While in the air, spread your legs apart and bring your arms out to the sides.",
+      "Land softly with your feet shoulder-width apart, bending your knees to absorb the impact.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle.",
+      "Piega le ginocchia e abbassa il corpo in una posizione tozza.",
+      "Salta in modo esplosivo verso l'alto, estendendo le gambe e le braccia.",
+      "Mentre sei in aria, allarga le gambe e porta le braccia ai lati.",
+      "Atterra dolcemente con i piedi alla larghezza delle spalle, piegando le ginocchia per assorbire l'impatto.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durun.",
+      "Dizlerinizi bükün ve vücudunuzu çömelme pozisyonuna indirin.",
+      "Bacaklarınızı ve kollarınızı uzatarak patlayıcı bir şekilde yukarı doğru zıplayın.",
+      "Havadayken bacaklarınızı iki yana açın ve kollarınızı yanlara doğru açın.",
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde yumuşak bir şekilde yere inin ve darbeyi absorbe etmek için dizlerinizi bükün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros.",
+      "Flexiona las rodillas y baja el cuerpo hacia una posición de sentadilla.",
+      "Salta explosivamente hacia arriba, extendiendo las piernas y los brazos.",
+      "Mientras estás en el aire, separa las piernas y lleva los brazos hacia los lados.",
+      "Aterriza suavemente con los pies separados a la altura de los hombros, flexionando las rodillas para absorber el impacto.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч.",
+      "Согните колени и опустите тело в присед.",
+      "Резко прыгните вверх, вытягивая ноги и руки.",
+      "Находясь в воздухе, разведите ноги в стороны и разведите руки в стороны.",
+      "Мягко приземлитесь, поставив ноги на ширине плеч, согнув колени, чтобы поглотить удар.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立。",
+      "弯曲膝盖并将身体降低至蹲姿。",
+      "爆发性向上跳跃，伸展双腿和手臂。",
+      "在空中时，将双腿分开，并将双臂向两侧伸出。",
+      "双脚分开与肩同宽，轻轻落地，弯曲膝盖以吸收冲击力。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई की दूरी पर रखकर खड़े हो जाएं।",
+      "अपने घुटनों को मोड़ें और अपने शरीर को स्क्वाट स्थिति में नीचे लाएँ।",
+      "अपने पैरों और भुजाओं को फैलाते हुए तेजी से ऊपर की ओर कूदें।",
+      "हवा में रहते हुए, अपने पैरों को फैलाएं और अपनी भुजाओं को बगल की ओर लाएं।",
+      "अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए, प्रभाव को अवशोषित करने के लिए अपने घुटनों को मोड़ते हुए, धीरे से जमीन पर उतरें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków.",
+      "Ugnij kolana i opuść ciało do pozycji przysiadu.",
+      "Wyskocz gwałtownie w górę, prostując nogi i ramiona.",
+      "Będąc w powietrzu, rozłóż nogi na boki i wyprostuj ramiona na boki.",
+      "Wyląduj miękko, stopy w rozkroku na szerokość barków, uginając kolana, aby zamortyzować lądowanie.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "발을 어깨너비로 벌리고 섭니다.",
+      "무릎을 구부려 스쿼트 자세로 몸을 내립니다.",
+      "다리와 팔을 펼치며 폭발적으로 위로 점프합니다.",
+      "공중에서 다리를 벌리고 팔을 양옆으로 펼칩니다.",
+      "발을 어깨너비로 벌리고 착지하면서 무릎을 구부려 충격을 흡수합니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules.",
+      "Fléchis les genoux et abaisse ton corps en position accroupie.",
+      "Saute vers le haut de manière explosive, en étendant tes jambes et tes bras.",
+      "En l'air, écarte les jambes et tends les bras sur les côtés.",
+      "Atterris en douceur avec les pieds écartés à la largeur des épaules, en fléchissant les genoux pour absorber l'impact.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "cardiovascular system",
+  "image": "images/3220-f9lVSSI.jpg",
+  "gif_url": "videos/3220-f9lVSSI.gif",
+  "media_id": "f9lVSSI",
+  "created_at": "2026-03-18T12:31:32.855601+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

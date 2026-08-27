@@ -1,0 +1,121 @@
+{
+  "id": "0592",
+  "name": "lever preacher curl",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "leverage machine",
+  "instructions": {
+    "en": "Adjust the seat height and position yourself on the leverage machine. Place your upper arms on the pad and grip the handles with an underhand grip. Keep your back straight and your elbows positioned on the pad. Exhale and curl your forearms towards your upper arms, contracting your biceps. Pause for a moment at the top of the movement, squeezing your biceps. Inhale and slowly lower the handles back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Regola l'altezza del sedile e posizionati sulla macchina con leva. Posiziona la parte superiore delle braccia sul cuscinetto e afferra le maniglie con una presa subdola. Tieni la schiena dritta e i gomiti posizionati sul cuscino. Espira e piega gli avambracci verso la parte superiore delle braccia, contraendo i bicipiti. Fermati per un momento nella parte superiore del movimento, contraendo i bicipiti. Inspira e abbassa lentamente le maniglie nella posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Koltuğun yüksekliğini ayarlayın ve kaldıraç makinesinin üzerine kendinizi konumlandırın. Üst kollarınızı yastığa yerleştirin ve kolları alttan kavrayarak tutun. Sırtınızı düz tutun ve dirseklerinizi yastığa yerleştirin. Nefes verin ve önkollarınızı üst kollarınıza doğru kıvırın, bicepslerinizi kasın. Hareketin en üst noktasında bicepslerinizi sıkarak bir an duraklayın. Nefes alın ve kolları yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta la altura del asiento y colócate en la máquina de palanca. Coloca los brazos superiores en la almohadilla y sujeta las asas con un agarre supino. Mantén la espalda recta y los codos colocados sobre la almohadilla. Exhala y flexiona los antebrazos hacia los brazos superiores, contrayendo los bíceps. Haz una pausa breve en la parte más alta del movimiento, contrayendo los bíceps. Inhala y baja lentamente las asas de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Отрегулируйте высоту сиденья и расположитесь на рычаге машины. Положите плечи на подушку и возьмитесь за рукоятки хватом снизу. Держите спину прямо, а локти положите на подушку. Выдохните и согните предплечья к плечам, напрягая бицепсы. Задержитесь на мгновение в верхней точке движения, напрягая бицепсы. Вдохните и медленно опустите ручки обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "调整座椅高度并将自己放在杠杆机上。 将上臂放在垫子上，并用反手握住手柄。 保持背部挺直，并将肘部放在垫子上。 呼气并将前臂向上臂弯曲，收缩二头肌。 在动作的最高点暂停片刻，挤压你的二头肌。 吸气并慢慢将手柄放回起始位置。 重复所需的重复次数。",
+    "hi": "सीट की ऊंचाई समायोजित करें और स्वयं को लीवरेज मशीन पर रखें। अपनी ऊपरी भुजाओं को पैड पर रखें और हैंडल को अंडरहैंड ग्रिप से पकड़ें। अपनी पीठ सीधी रखें और अपनी कोहनियाँ पैड पर रखें। साँस छोड़ें और अपने अग्रबाहुओं को ऊपरी भुजाओं की ओर मोड़ें, अपने बाइसेप्स को सिकोड़ें। अपने बाइसेप्स को निचोड़ते हुए, गति के शीर्ष पर एक पल के लिए रुकें। श्वास लें और धीरे-धीरे हैंडल को प्रारंभिक स्थिति में वापस लाएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Wyreguluj wysokość siedziska i ustaw się na maszynie dźwigniowej. Oprzyj górne części ramion na wałku i chwyć uchwyty podchwytem. Trzymaj plecy proste, a łokcie oparte na wałku. Wydychaj powietrze i zegnij przedramiona w kierunku ramion, napinając bicepsy. Zatrzymaj się na chwilę w górnym punkcie ruchu, ściskając bicepsy. Wdychaj powietrze i powoli opuść uchwyty do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "시트 높이를 조정하고 레버 머신에 위치합니다. 팔의 윗부분을 패드에 올리고 언더핸드 그립으로 핸들을 잡습니다. 등을 일직선으로 유지하고 팔꿈치를 패드 위에 위치시킵니다. 숨을 내쉬면서 팔뚝을 팔의 윗부분 쪽으로 컬링하면서 이두근을 수축시킵니다. 운동의 상단에서 이두근을 짜주면서 잠깐 멈춤니다. 숨을 들이쉬면서 핸들을 천천히 처음 위치로 낮춥니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Règle la hauteur du siège et installe-toi sur la machine à levier. Place le haut de tes bras sur le coussin et saisis les poignées en prise supination. Garde le dos droit et tes coudes positionnés sur le coussin. Expire et remonte tes avant-bras vers le haut de tes bras, en contractant tes biceps. Marque une pause en haut du mouvement, en contractant tes biceps. Inspire et abaisse lentement les poignées jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the seat height and position yourself on the leverage machine.",
+      "Place your upper arms on the pad and grip the handles with an underhand grip.",
+      "Keep your back straight and your elbows positioned on the pad.",
+      "Exhale and curl your forearms towards your upper arms, contracting your biceps.",
+      "Pause for a moment at the top of the movement, squeezing your biceps.",
+      "Inhale and slowly lower the handles back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Regola l'altezza del sedile e posizionati sulla macchina con leva.",
+      "Posiziona la parte superiore delle braccia sul cuscinetto e afferra le maniglie con una presa subdola.",
+      "Tieni la schiena dritta e i gomiti posizionati sul cuscino.",
+      "Espira e piega gli avambracci verso la parte superiore delle braccia, contraendo i bicipiti.",
+      "Fermati per un momento nella parte superiore del movimento, contraendo i bicipiti.",
+      "Inspira e abbassa lentamente le maniglie nella posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Koltuğun yüksekliğini ayarlayın ve kaldıraç makinesinin üzerine kendinizi konumlandırın.",
+      "Üst kollarınızı yastığa yerleştirin ve kolları alttan kavrayarak tutun.",
+      "Sırtınızı düz tutun ve dirseklerinizi yastığa yerleştirin.",
+      "Nefes verin ve önkollarınızı üst kollarınıza doğru kıvırın, bisepslerinizi kasın.",
+      "Hareketin en üst noktasında bicepslerinizi sıkarak bir an duraklayın.",
+      "Nefes alın ve kolları yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta la altura del asiento y colócate en la máquina de palanca.",
+      "Coloca los brazos superiores en la almohadilla y sujeta las asas con un agarre supino.",
+      "Mantén la espalda recta y los codos colocados sobre la almohadilla.",
+      "Exhala y flexiona los antebrazos hacia los brazos superiores, contrayendo los bíceps.",
+      "Haz una pausa breve en la parte más alta del movimiento, contrayendo los bíceps.",
+      "Inhala y baja lentamente las asas de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Отрегулируйте высоту сиденья и расположитесь на рычаге машины.",
+      "Положите плечи на подушку и возьмитесь за рукоятки хватом снизу.",
+      "Держите спину прямо, а локти положите на подушку.",
+      "Выдохните и согните предплечья к плечам, напрягая бицепсы.",
+      "Задержитесь на мгновение в верхней точке движения, напрягая бицепсы.",
+      "Вдохните и медленно опустите ручки обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "调整座椅高度并将自己放在杠杆机上。",
+      "将上臂放在垫子上，并用反手握住手柄。",
+      "保持背部挺直，并将肘部放在垫子上。",
+      "呼气并将前臂向上臂弯曲，收缩二头肌。",
+      "在动作的最高点暂停片刻，挤压你的二头肌。",
+      "吸气并慢慢将手柄放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "सीट की ऊंचाई समायोजित करें और स्वयं को लीवरेज मशीन पर रखें।",
+      "अपनी ऊपरी भुजाओं को पैड पर रखें और हैंडल को अंडरहैंड ग्रिप से पकड़ें।",
+      "अपनी पीठ सीधी रखें और अपनी कोहनियाँ पैड पर रखें।",
+      "साँस छोड़ें और अपने अग्रबाहुओं को ऊपरी भुजाओं की ओर मोड़ें, अपने बाइसेप्स को सिकोड़ें।",
+      "अपने बाइसेप्स को निचोड़ते हुए, गति के शीर्ष पर एक पल के लिए रुकें।",
+      "श्वास लें और धीरे-धीरे हैंडल को प्रारंभिक स्थिति में वापस लाएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Wyreguluj wysokość siedziska i ustaw się na maszynie dźwigniowej.",
+      "Oprzyj górne części ramion na wałku i chwyć uchwyty podchwytem.",
+      "Trzymaj plecy proste, a łokcie oparte na wałku.",
+      "Wydychaj powietrze i zegnij przedramiona w kierunku ramion, napinając bicepsy.",
+      "Zatrzymaj się na chwilę w górnym punkcie ruchu, ściskając bicepsy.",
+      "Wdychaj powietrze i powoli opuść uchwyty do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "시트 높이를 조정하고 레버 머신에 위치합니다.",
+      "팔의 윗부분을 패드에 올리고 언더핸드 그립으로 핸들을 잡습니다.",
+      "등을 일직선으로 유지하고 팔꿈치를 패드 위에 위치시킵니다.",
+      "숨을 내쉬면서 팔뚝을 팔의 윗부분 쪽으로 컬링하면서 이두근을 수축시킵니다.",
+      "운동의 상단에서 이두근을 짜주면서 잠깐 멈춤니다.",
+      "숨을 들이쉬면서 핸들을 천천히 처음 위치로 낮춥니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Règle la hauteur du siège et installe-toi sur la machine à levier.",
+      "Place le haut de tes bras sur le coussin et saisis les poignées en prise supination.",
+      "Garde le dos droit et tes coudes positionnés sur le coussin.",
+      "Expire et remonte tes avant-bras vers le haut de tes bras, en contractant tes biceps.",
+      "Marque une pause en haut du mouvement, en contractant tes biceps.",
+      "Inspire et abaisse lentement les poignées jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "forearms",
+  "secondary_muscles": [
+    "forearms"
+  ],
+  "target": "biceps",
+  "image": "images/0592-b6hQYMb.jpg",
+  "gif_url": "videos/0592-b6hQYMb.gif",
+  "media_id": "b6hQYMb",
+  "created_at": "2026-03-18T12:31:32.886716+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

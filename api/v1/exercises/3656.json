@@ -1,0 +1,103 @@
+{
+  "id": "3656",
+  "name": "short stride run",
+  "category": "cardio",
+  "body_part": "cardio",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Find an open space or a treadmill to perform the exercise. Stand tall with your feet hip-width apart. Start jogging in place, lifting your knees high and pumping your arms. After a few seconds, start taking short strides forward, maintaining a quick pace. Continue running with short strides for the desired duration or distance.",
+    "it": "Trova uno spazio aperto o un tapis roulant per eseguire l'esercizio. Stai in piedi con i piedi alla larghezza dei fianchi. Inizia a fare jogging sul posto, sollevando le ginocchia in alto e pompando le braccia. Dopo alcuni secondi, inizia a fare brevi passi in avanti, mantenendo un ritmo veloce. Continua a correre a passi brevi per la durata o la distanza desiderata.",
+    "tr": "Egzersizi gerçekleştirmek için açık bir alan veya koşu bandı bulun. Ayaklarınız kalça genişliğinde açık olacak şekilde dik durun. Yerinizde koşmaya başlayın, dizlerinizi yukarı kaldırın ve kollarınızı pompalayın. Birkaç saniye sonra, hızlı tempoyu koruyarak ileriye doğru kısa adımlar atmaya başlayın. İstenilen süre veya mesafe boyunca kısa adımlarla koşmaya devam edin.",
+    "es": "Busca un espacio abierto o una cinta de correr para realizar el ejercicio. Ponte de pie con los pies separados a la altura de la cadera. Comienza a trotar en el lugar, levantando las rodillas alto y moviendo los brazos. Después de unos segundos, comienza a dar pasos cortos hacia delante, manteniendo un ritmo rápido. Continúa corriendo con pasos cortos durante la duración o distancia deseada.",
+    "ru": "Найдите открытое пространство или беговую дорожку для выполнения упражнения. Встаньте прямо, ноги на ширине плеч. Начните бег на месте, высоко поднимая колени и качая руками. Через несколько секунд начните делать короткие шаги вперед, сохраняя быстрый темп. Продолжайте бежать короткими шагами желаемую продолжительность или расстояние.",
+    "zh": "找一个空地或跑步机来进行锻炼。 站直，双脚分开与臀部同宽。 开始原地慢跑，抬起膝盖并挥动手臂。 几秒钟后，开始小步前进，保持快速的步伐。 继续小步跑所需的时间或距离。",
+    "hi": "व्यायाम करने के लिए एक खुली जगह या ट्रेडमिल ढूंढें। अपने पैरों को कूल्हे-चौड़ाई से अलग करके सीधे खड़े रहें। अपने घुटनों को ऊंचा उठाते हुए और अपनी बाहों को पंप करते हुए, अपनी जगह पर जॉगिंग करना शुरू करें। कुछ सेकंड के बाद, तेज गति बनाए रखते हुए छोटे-छोटे कदम आगे बढ़ाना शुरू करें। वांछित अवधि या दूरी तक छोटे-छोटे कदमों के साथ दौड़ना जारी रखें।",
+    "pl": "Znajdź otwartą przestrzeń lub bieżnię, aby wykonać ćwiczenie. Stań prosto, stopy w rozkroku na szerokość bioder. Zacznij biec w miejscu, wysoko unosząc kolana i pracując rękami. Po kilku sekundach zacznij wykonywać krótkie kroki do przodu, zachowując szybkie tempo. Kontynuuj bieg krótkimi krokami przez wybrany czas lub dystans.",
+    "ko": "운동을 수행할 열린 공간 또는 트레드밀을 찾으세요. 발을 엉덩이 너비로 벌리고 똑바로 서세요. 무릎을 높이 들고 팔을 펌프하며 제자리에서 가볍게 뛰기를 시작합니다. 몇 초 후, 빠른 속도를 유지하면서 짧은 보폭으로 앞으로 나아가기를 시작합니다. 원하는 기간 또는 거리 동안 짧은 보폭으로 계속 달립니다.",
+    "fr": "Trouve un espace dégagé ou un tapis de course pour effectuer l'exercice. Tiens-toi bien droit, les pieds écartés à la largeur des hanches. Commence à courir sur place, en levant bien les genoux et en pompant avec les bras. Après quelques secondes, commence à faire de petites foulées vers l'avant en maintenant un rythme rapide. Continue à courir à petites foulées pendant la durée ou la distance souhaitée."
+  },
+  "instruction_steps": {
+    "en": [
+      "Find an open space or a treadmill to perform the exercise.",
+      "Stand tall with your feet hip-width apart.",
+      "Start jogging in place, lifting your knees high and pumping your arms.",
+      "After a few seconds, start taking short strides forward, maintaining a quick pace.",
+      "Continue running with short strides for the desired duration or distance."
+    ],
+    "it": [
+      "Trova uno spazio aperto o un tapis roulant per eseguire l'esercizio.",
+      "Stai in piedi con i piedi alla larghezza dei fianchi.",
+      "Inizia a fare jogging sul posto, sollevando le ginocchia in alto e pompando le braccia.",
+      "Dopo alcuni secondi, inizia a fare brevi passi in avanti, mantenendo un ritmo veloce.",
+      "Continua a correre a passi brevi per la durata o la distanza desiderata."
+    ],
+    "tr": [
+      "Egzersizi gerçekleştirmek için açık bir alan veya koşu bandı bulun.",
+      "Ayaklarınız kalça genişliğinde açık olacak şekilde dik durun.",
+      "Yerinizde koşmaya başlayın, dizlerinizi yukarı kaldırın ve kollarınızı pompalayın.",
+      "Birkaç saniye sonra, hızlı tempoyu koruyarak ileriye doğru kısa adımlar atmaya başlayın.",
+      "İstenilen süre veya mesafe boyunca kısa adımlarla koşmaya devam edin."
+    ],
+    "es": [
+      "Busca un espacio abierto o una cinta de correr para realizar el ejercicio.",
+      "Ponte de pie con los pies separados a la altura de la cadera.",
+      "Comienza a trotar en el lugar, levantando las rodillas alto y moviendo los brazos.",
+      "Después de unos segundos, comienza a dar pasos cortos hacia delante, manteniendo un ritmo rápido.",
+      "Continúa corriendo con pasos cortos durante la duración o distancia deseada."
+    ],
+    "ru": [
+      "Найдите открытое пространство или беговую дорожку для выполнения упражнения.",
+      "Встаньте прямо, ноги на ширине плеч.",
+      "Начните бег на месте, высоко поднимая колени и качая руками.",
+      "Через несколько секунд начните делать короткие шаги вперед, сохраняя быстрый темп.",
+      "Продолжайте бежать короткими шагами желаемую продолжительность или расстояние."
+    ],
+    "zh": [
+      "找一个空地或跑步机来进行锻炼。",
+      "站直，双脚分开与臀部同宽。",
+      "开始原地慢跑，抬起膝盖并挥动手臂。",
+      "几秒钟后，开始小步前进，保持快速的步伐。",
+      "继续小步跑所需的时间或距离。"
+    ],
+    "hi": [
+      "व्यायाम करने के लिए एक खुली जगह या ट्रेडमिल ढूंढें।",
+      "अपने पैरों को कूल्हे-चौड़ाई से अलग करके सीधे खड़े रहें।",
+      "अपने घुटनों को ऊंचा उठाते हुए और अपनी बाहों को पंप करते हुए, अपनी जगह पर जॉगिंग करना शुरू करें।",
+      "कुछ सेकंड के बाद, तेज गति बनाए रखते हुए छोटे-छोटे कदम आगे बढ़ाना शुरू करें।",
+      "वांछित अवधि या दूरी तक छोटे-छोटे कदमों के साथ दौड़ना जारी रखें।"
+    ],
+    "pl": [
+      "Znajdź otwartą przestrzeń lub bieżnię, aby wykonać ćwiczenie.",
+      "Stań prosto, stopy w rozkroku na szerokość bioder.",
+      "Zacznij biec w miejscu, wysoko unosząc kolana i pracując rękami.",
+      "Po kilku sekundach zacznij wykonywać krótkie kroki do przodu, zachowując szybkie tempo.",
+      "Kontynuuj bieg krótkimi krokami przez wybrany czas lub dystans."
+    ],
+    "ko": [
+      "운동을 수행할 열린 공간 또는 트레드밀을 찾으세요.",
+      "발을 엉덩이 너비로 벌리고 똑바로 서세요.",
+      "무릎을 높이 들고 팔을 펌프하며 제자리에서 가볍게 뛰기를 시작합니다.",
+      "몇 초 후, 빠른 속도를 유지하면서 짧은 보폭으로 앞으로 나아가기를 시작합니다.",
+      "원하는 기간 또는 거리 동안 짧은 보폭으로 계속 달립니다."
+    ],
+    "fr": [
+      "Trouve un espace dégagé ou un tapis de course pour effectuer l'exercice.",
+      "Tiens-toi bien droit, les pieds écartés à la largeur des hanches.",
+      "Commence à courir sur place, en levant bien les genoux et en pompant avec les bras.",
+      "Après quelques secondes, commence à faire de petites foulées vers l'avant en maintenant un rythme rapide.",
+      "Continue à courir à petites foulées pendant la durée ou la distance souhaitée."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "cardiovascular system",
+  "image": "images/3656-CcWEoWV.jpg",
+  "gif_url": "videos/3656-CcWEoWV.gif",
+  "media_id": "CcWEoWV",
+  "created_at": "2026-03-18T12:31:32.88964+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

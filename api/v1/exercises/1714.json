@@ -1,0 +1,101 @@
+{
+  "id": "1714",
+  "name": "assisted prone rectus femoris stretch",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "assisted",
+  "instructions": {
+    "en": "Lie face down on the ground with your legs straight. Bend your right knee and reach back with your right hand to grab your right foot or ankle. Gently pull your right foot or ankle towards your glutes, feeling a stretch in the front of your right thigh. Hold the stretch for 20-30 seconds. Release and repeat on the other side.",
+    "it": "Sdraiati a faccia in giù con le gambe dritte. Piega il ginocchio destro e allunga la mano destra indietro per afferrare il piede o la caviglia destra. Tira delicatamente il piede destro o la caviglia verso i glutei, avvertendo un allungamento nella parte anteriore della coscia destra. Mantieni l'allungamento per 20-30 secondi. Rilascia e ripeti dall'altra parte.",
+    "tr": "Bacaklarınız düz olacak şekilde yüz üstü yere yatın. Sağ dizinizi bükün ve sağ ayağınızı veya ayak bileğinizi tutmak için sağ elinizle geriye doğru uzanın. Sağ uyluğunuzun ön kısmında bir gerginlik hissederek sağ ayağınızı veya ayak bileğinizi yavaşça kalçalarınıza doğru çekin. Uzatmayı 20-30 saniye kadar tutun. Serbest bırakın ve diğer tarafta tekrarlayın.",
+    "es": "Túmbate boca abajo en el suelo con las piernas rectas. Flexiona la rodilla derecha y lleva la mano derecha hacia atrás para agarrar el pie o el tobillo derecho. Jala suavemente el pie o el tobillo derecho hacia los glúteos, sintiendo un estiramiento en la parte frontal del muslo derecho. Mantén el estiramiento durante 20-30 segundos. Suelta y repite del otro lado.",
+    "ru": "Лягте лицом вниз на землю, выпрямив ноги. Согните правое колено и протяните правую руку назад, чтобы схватить правую ступню или лодыжку. Аккуратно потяните правую ступню или лодыжку к ягодицам, ощущая растяжение в передней части правого бедра. Удерживайте растяжку 20–30 секунд. Отпустите и повторите с другой стороны.",
+    "zh": "脸朝下躺在地上，双腿伸直。 弯曲右膝，用右手向后伸抓住右脚或脚踝。 轻轻地将右脚或脚踝拉向臀部，感受右大腿前部的拉伸。 保持拉伸 20-30 秒。 松开并在另一侧重复。",
+    "hi": "अपने पैरों को सीधा करके जमीन पर मुंह करके लेट जाएं। अपने दाहिने घुटने को मोड़ें और अपने दाहिने पैर या टखने को पकड़ने के लिए अपने दाहिने हाथ से पीछे जाएँ। अपनी दाहिनी जांघ के सामने खिंचाव महसूस करते हुए धीरे से अपने दाहिने पैर या टखने को अपने ग्लूट्स की ओर खींचें। 20-30 सेकंड तक खिंचाव बनाए रखें। छोड़ें और दूसरी तरफ दोहराएं।",
+    "pl": "Połóż się na brzuchu na podłodze z prostymi nogami. Ugnij prawe kolano i sięgnij prawą ręką do tyłu, aby chwycić prawą stopę lub kostkę. Delikatnie przyciągnij prawą stopę lub kostkę w kierunku pośladków, odczuwając rozciąganie z przodu prawego uda. Utrzymaj rozciąganie przez 20-30 sekund. Zwolnij i powtórz po drugiej stronie.",
+    "ko": "바닥에 엎드린 상태로 누워 두 다리를 곧게 펼칩니다. 오른쪽 무릎을 구부리고 오른손으로 뒤로 뻗어 오른발이나 발목을 잡습니다. 오른발이나 발목을 엉덩이 쪽으로 천천히 당겨 오른쪽 허벅지 앞부분에 스트레칭을 느낍니다. 20~30초 동안 스트레칭을 유지합니다. 반대쪽도 같은 방식으로 반복합니다.",
+    "fr": "Allonge-toi face vers le bas au sol, les jambes droites. Fléchis ton genou droit et attrape ton pied ou ta cheville droite en tendant ta main droite vers l'arrière. Tire doucement ton pied ou ta cheville droite vers tes fessiers, en sentant un étirement à l'avant de ta cuisse droite. Maintiens l'étirement pendant 20 à 30 secondes. Relâche et répète de l'autre côté."
+  },
+  "instruction_steps": {
+    "en": [
+      "Lie face down on the ground with your legs straight.",
+      "Bend your right knee and reach back with your right hand to grab your right foot or ankle.",
+      "Gently pull your right foot or ankle towards your glutes, feeling a stretch in the front of your right thigh.",
+      "Hold the stretch for 20-30 seconds.",
+      "Release and repeat on the other side."
+    ],
+    "it": [
+      "Sdraiati a faccia in giù con le gambe dritte.",
+      "Piega il ginocchio destro e allunga la mano destra indietro per afferrare il piede o la caviglia destra.",
+      "Tira delicatamente il piede destro o la caviglia verso i glutei, avvertendo un allungamento nella parte anteriore della coscia destra.",
+      "Mantieni l'allungamento per 20-30 secondi.",
+      "Rilascia e ripeti dall'altra parte."
+    ],
+    "tr": [
+      "Bacaklarınız düz olacak şekilde yüz üstü yere yatın.",
+      "Sağ dizinizi bükün ve sağ ayağınızı veya ayak bileğinizi tutmak için sağ elinizle geriye doğru uzanın.",
+      "Sağ uyluğunuzun ön kısmında bir gerginlik hissederek sağ ayağınızı veya ayak bileğinizi yavaşça kalçalarınıza doğru çekin.",
+      "Uzatmayı 20-30 saniye kadar tutun.",
+      "Serbest bırakın ve diğer tarafta tekrarlayın."
+    ],
+    "es": [
+      "Túmbate boca abajo en el suelo con las piernas rectas.",
+      "Flexiona la rodilla derecha y lleva la mano derecha hacia atrás para agarrar el pie o el tobillo derecho.",
+      "Jala suavemente el pie o el tobillo derecho hacia los glúteos, sintiendo un estiramiento en la parte frontal del muslo derecho.",
+      "Mantén el estiramiento durante 20-30 segundos.",
+      "Suelta y repite del otro lado."
+    ],
+    "ru": [
+      "Лягте лицом вниз на землю, выпрямив ноги.",
+      "Согните правое колено и протяните правую руку назад, чтобы схватить правую ступню или лодыжку.",
+      "Аккуратно потяните правую ступню или лодыжку к ягодицам, ощущая растяжение в передней части правого бедра.",
+      "Удерживайте растяжку 20–30 секунд.",
+      "Отпустите и повторите с другой стороны."
+    ],
+    "zh": [
+      "脸朝下躺在地上，双腿伸直。",
+      "弯曲右膝，用右手向后伸抓住右脚或脚踝。",
+      "轻轻地将右脚或脚踝拉向臀部，感受右大腿前部的拉伸。",
+      "保持拉伸 20-30 秒。",
+      "松开并在另一侧重复。"
+    ],
+    "hi": [
+      "अपने पैरों को सीधा करके जमीन पर मुंह करके लेट जाएं।",
+      "अपने दाहिने घुटने को मोड़ें और अपने दाहिने पैर या टखने को पकड़ने के लिए अपने दाहिने हाथ से पीछे जाएँ।",
+      "अपनी दाहिनी जांघ के सामने खिंचाव महसूस करते हुए धीरे से अपने दाहिने पैर या टखने को अपने ग्लूट्स की ओर खींचें।",
+      "20-30 सेकंड तक खिंचाव बनाए रखें।",
+      "छोड़ें और दूसरी तरफ दोहराएं।"
+    ],
+    "pl": [
+      "Połóż się na brzuchu na podłodze z prostymi nogami.",
+      "Ugnij prawe kolano i sięgnij prawą ręką do tyłu, aby chwycić prawą stopę lub kostkę.",
+      "Delikatnie przyciągnij prawą stopę lub kostkę w kierunku pośladków, odczuwając rozciąganie z przodu prawego uda.",
+      "Utrzymaj rozciąganie przez 20-30 sekund.",
+      "Zwolnij i powtórz po drugiej stronie."
+    ],
+    "ko": [
+      "바닥에 엎드린 상태로 누워 두 다리를 곧게 펼칩니다.",
+      "오른쪽 무릎을 구부리고 오른손으로 뒤로 뻗어 오른발이나 발목을 잡습니다.",
+      "오른발이나 발목을 엉덩이 쪽으로 천천히 당겨 오른쪽 허벅지 앞부분에 스트레칭을 느낍니다.",
+      "20~30초 동안 스트레칭을 유지합니다.",
+      "반대쪽도 같은 방식으로 반복합니다."
+    ],
+    "fr": [
+      "Allonge-toi face vers le bas au sol, les jambes droites.",
+      "Fléchis ton genou droit et attrape ton pied ou ta cheville droite en tendant ta main droite vers l'arrière.",
+      "Tire doucement ton pied ou ta cheville droite vers tes fessiers, en sentant un étirement à l'avant de ta cuisse droite.",
+      "Maintiens l'étirement pendant 20 à 30 secondes.",
+      "Relâche et répète de l'autre côté."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps"
+  ],
+  "target": "abs",
+  "image": "images/1714-2Ryn564.jpg",
+  "gif_url": "videos/1714-2Ryn564.gif",
+  "media_id": "2Ryn564",
+  "created_at": "2026-03-18T12:31:32.855419+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,112 @@
+{
+  "id": "1262",
+  "name": "cable one arm decline chest fly",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Attach a D-handle to a low pulley cable machine and set the bench to a decline angle. Lie down on the bench with your head towards the machine and grab the handle with your right hand. Extend your arm straight up above your chest, keeping a slight bend in your elbow. With a controlled motion, lower your arm out to the side until your hand is in line with your shoulder. Pause for a moment, then reverse the motion and bring your arm back to the starting position. Repeat for the desired number of repetitions, then switch to your left arm and repeat the exercise.",
+    "it": "Fissa una maniglia a D a una macchina a cavo a puleggia bassa e imposta il banco su un angolo di declino. Sdraiati sulla panca con la testa rivolta verso la macchina e afferra il manico con la mano destra. Allunga il braccio dritto sopra il petto, mantenendo una leggera piega del gomito. Con un movimento controllato, abbassa il braccio di lato finché la mano non è allineata con la spalla. Fermati un attimo, poi inverti il movimento e riporta il braccio alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni, poi passa al braccio sinistro e ripeti l'esercizio.",
+    "tr": "Alçak makaralı bir kablo makinesine bir D kolu takın ve tezgahı bir düşüş açısına ayarlayın. Başınız makineye doğru olacak şekilde bankın üzerine uzanın ve sağ elinizle kolu tutun. Kolunuzu göğsünüzün üzerine doğru uzatın, dirseğinizde hafif bir kıvrım olsun. Kontrollü bir hareketle, eliniz omzunuzla aynı hizaya gelinceye kadar kolunuzu yana doğru indirin. Bir an duraklayın, ardından hareketi tersine çevirin ve kolunuzu başlangıç ​​pozisyonuna getirin. İstediğiniz tekrar sayısı kadar tekrarlayın, ardından sol kolunuza geçin ve egzersizi tekrarlayın.",
+    "es": "Sujeta una agarradera en D a una máquina de cable con polea baja y coloca el banco en un ángulo declinado. Túmbate en el banco con la cabeza orientada hacia la máquina y agarra la agarradera con la mano derecha. Extiende el brazo recto por encima del pecho, manteniendo una ligera flexión en el codo. Con un movimiento controlado, baja el brazo hacia el lado hasta que la mano quede alineada con el hombro. Haz una pausa por un momento y luego invierte el movimiento para regresar el brazo a la posición inicial. Repite el número de repeticiones deseado y luego cambia al brazo izquierdo y repite el ejercicio.",
+    "ru": "Прикрепите D-образную рукоятку к тросовой машине с низким шкивом и установите скамью под углом наклона. Лягте на скамью головой в сторону станка и возьмитесь за рукоятку правой рукой. Вытяните руку прямо над грудью, сохраняя небольшой изгиб в локте. Контролируемым движением опустите руку в сторону, пока она не окажется на одной линии с плечом. Сделайте паузу на мгновение, затем выполните обратное движение и верните руку в исходное положение. Повторите необходимое количество повторений, затем переключитесь на левую руку и повторите упражнение.",
+    "zh": "将 D 形手柄连接到低滑轮绳索机器上，并将长凳设置为下降角度。 躺在长凳上，头朝向机器，用右手抓住手柄。 将手臂伸直至胸部上方，保持肘部轻微弯曲。 控制动作，将手臂向一侧放低，直到手与肩膀在一条直线上。 暂停片刻，然后反转动作并将手臂恢复到起始位置。 重复所需的重复次数，然后切换到左臂并重复练习。",
+    "hi": "एक लो पुली केबल मशीन में एक डी-हैंडल संलग्न करें और बेंच को एक गिरावट कोण पर सेट करें। मशीन की ओर सिर करके बेंच पर लेट जाएं और अपने दाहिने हाथ से हैंडल को पकड़ लें। अपनी बांह को अपनी छाती के ऊपर सीधा फैलाएं, अपनी कोहनी को थोड़ा मोड़ते हुए। नियंत्रित गति के साथ, अपने हाथ को बगल की ओर नीचे करें जब तक कि आपका हाथ आपके कंधे की सीध में न आ जाए। एक पल के लिए रुकें, फिर गति को उल्टा करें और अपने हाथ को प्रारंभिक स्थिति में वापस लाएँ। दोहराव की वांछित संख्या के लिए दोहराएं, फिर अपने बाएं हाथ पर स्विच करें और व्यायाम दोहराएं।",
+    "pl": "Podłącz uchwyt typu D do wyciągu z dolnym bloczkiem i ustaw ławkę pod kątem skośnym w dół. Połóż się na ławce głową w kierunku maszyny i chwyć uchwyt prawą ręką. Wyprostuj ramię prosto nad klatką piersiową, zachowując lekkie ugięcie w łokciu. Kontrolowanym ruchem opuść ramię na bok, aż dłoń znajdzie się w linii z barkiem. Zatrzymaj się na moment, a następnie odwróć ruch i wróć ramieniem do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń, a następnie zmień na lewą rękę i powtórz ćwiczenie.",
+    "ko": "D핸들을 낮은 풀리 케이블 머신에 부착하고 벤치를 디클라인 각도로 설정합니다. 벤치에 누워 머리를 머신 쪽으로 향하게 하고 오른손으로 손잡이를 잡습니다. 팔을 가슴 위로 쭉 펼쳐 팔꿈치에 약간의 굽곡을 유지합니다. 조절하여 팔을 옆으로 내려 손이 어깨와 일직선이 되도록 합니다. 잠깐 멈추었다가 동작을 역으로 하여 팔을 시작 위치로 가져옵니다. 원하는 횟수만큼 반복한 후 왼팔로 바꿔 같은 운동을 반복합니다.",
+    "fr": "Fixe une poignée en D à une poulie basse d'une machine à câble et règle le banc en position déclinée. Allonge-toi sur le banc, la tête orientée vers la machine, et saisis la poignée de ta main droite. Étends ton bras droit au-dessus de ta poitrine, en gardant une légère flexion dans ton coude. Dans un mouvement contrôlé, abaisse ton bras sur le côté jusqu'à ce que ta main soit alignée avec ton épaule. Marque une pause, puis inverse le mouvement et ramène ton bras à la position de départ. Répète le nombre de répétitions souhaité, puis passe à ton bras gauche et répète l'exercice."
+  },
+  "instruction_steps": {
+    "en": [
+      "Attach a D-handle to a low pulley cable machine and set the bench to a decline angle.",
+      "Lie down on the bench with your head towards the machine and grab the handle with your right hand.",
+      "Extend your arm straight up above your chest, keeping a slight bend in your elbow.",
+      "With a controlled motion, lower your arm out to the side until your hand is in line with your shoulder.",
+      "Pause for a moment, then reverse the motion and bring your arm back to the starting position.",
+      "Repeat for the desired number of repetitions, then switch to your left arm and repeat the exercise."
+    ],
+    "it": [
+      "Fissa una maniglia a D a una macchina a cavo a puleggia bassa e imposta il banco su un angolo di declino.",
+      "Sdraiati sulla panca con la testa rivolta verso la macchina e afferra il manico con la mano destra.",
+      "Allunga il braccio dritto sopra il petto, mantenendo una leggera piega del gomito.",
+      "Con un movimento controllato, abbassa il braccio di lato finché la mano non è allineata con la spalla.",
+      "Fermati un attimo, poi inverti il movimento e riporta il braccio alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni, poi passa al braccio sinistro e ripeti l'esercizio."
+    ],
+    "tr": [
+      "Alçak makaralı bir kablo makinesine bir D kolu takın ve tezgahı bir düşüş açısına ayarlayın.",
+      "Başınız makineye doğru olacak şekilde bankın üzerine uzanın ve sağ elinizle kolu tutun.",
+      "Kolunuzu göğsünüzün üzerine doğru uzatın, dirseğinizde hafif bir kıvrım olsun.",
+      "Kontrollü bir hareketle, eliniz omzunuzla aynı hizaya gelinceye kadar kolunuzu yana doğru indirin.",
+      "Bir an duraklayın, ardından hareketi tersine çevirin ve kolunuzu başlangıç ​​pozisyonuna getirin.",
+      "İstediğiniz tekrar sayısı kadar tekrarlayın, ardından sol kolunuza geçin ve egzersizi tekrarlayın."
+    ],
+    "es": [
+      "Sujeta una agarradera en D a una máquina de cable con polea baja y coloca el banco en un ángulo declinado.",
+      "Túmbate en el banco con la cabeza orientada hacia la máquina y agarra la agarradera con la mano derecha.",
+      "Extiende el brazo recto por encima del pecho, manteniendo una ligera flexión en el codo.",
+      "Con un movimiento controlado, baja el brazo hacia el lado hasta que la mano quede alineada con el hombro.",
+      "Haz una pausa por un momento y luego invierte el movimiento para regresar el brazo a la posición inicial.",
+      "Repite el número de repeticiones deseado y luego cambia al brazo izquierdo y repite el ejercicio."
+    ],
+    "ru": [
+      "Прикрепите D-образную рукоятку к тросовой машине с низким шкивом и установите скамью под углом наклона.",
+      "Лягте на скамью головой в сторону станка и возьмитесь за рукоятку правой рукой.",
+      "Вытяните руку прямо над грудью, сохраняя небольшой изгиб в локте.",
+      "Контролируемым движением опустите руку в сторону, пока она не окажется на одной линии с плечом.",
+      "Сделайте паузу на мгновение, затем выполните обратное движение и верните руку в исходное положение.",
+      "Повторите необходимое количество повторений, затем переключитесь на левую руку и повторите упражнение."
+    ],
+    "zh": [
+      "将 D 形手柄连接到低滑轮绳索机器上，并将长凳设置为下降角度。",
+      "躺在长凳上，头朝向机器，用右手抓住手柄。",
+      "将手臂伸直至胸部上方，保持肘部轻微弯曲。",
+      "控制动作，将手臂向一侧放低，直到手与肩膀在一条直线上。",
+      "暂停片刻，然后反转动作并将手臂恢复到起始位置。",
+      "重复所需的重复次数，然后切换到左臂并重复练习。"
+    ],
+    "hi": [
+      "एक लो पुली केबल मशीन में एक डी-हैंडल संलग्न करें और बेंच को एक गिरावट कोण पर सेट करें।",
+      "मशीन की ओर सिर करके बेंच पर लेट जाएं और अपने दाहिने हाथ से हैंडल को पकड़ लें।",
+      "अपनी बांह को अपनी छाती के ऊपर सीधा फैलाएं, अपनी कोहनी को थोड़ा मोड़ते हुए।",
+      "नियंत्रित गति के साथ, अपने हाथ को बगल की ओर नीचे करें जब तक कि आपका हाथ आपके कंधे की सीध में न आ जाए।",
+      "एक पल के लिए रुकें, फिर गति को उल्टा करें और अपने हाथ को प्रारंभिक स्थिति में वापस लाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर अपने बाएं हाथ पर स्विच करें और व्यायाम दोहराएं।"
+    ],
+    "pl": [
+      "Podłącz uchwyt typu D do wyciągu z dolnym bloczkiem i ustaw ławkę pod kątem skośnym w dół.",
+      "Połóż się na ławce głową w kierunku maszyny i chwyć uchwyt prawą ręką.",
+      "Wyprostuj ramię prosto nad klatką piersiową, zachowując lekkie ugięcie w łokciu.",
+      "Kontrolowanym ruchem opuść ramię na bok, aż dłoń znajdzie się w linii z barkiem.",
+      "Zatrzymaj się na moment, a następnie odwróć ruch i wróć ramieniem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń, a następnie zmień na lewą rękę i powtórz ćwiczenie."
+    ],
+    "ko": [
+      "D핸들을 낮은 풀리 케이블 머신에 부착하고 벤치를 디클라인 각도로 설정합니다.",
+      "벤치에 누워 머리를 머신 쪽으로 향하게 하고 오른손으로 손잡이를 잡습니다.",
+      "팔을 가슴 위로 쭉 펼쳐 팔꿈치에 약간의 굽곡을 유지합니다.",
+      "조절하여 팔을 옆으로 내려 손이 어깨와 일직선이 되도록 합니다.",
+      "잠깐 멈추었다가 동작을 역으로 하여 팔을 시작 위치로 가져옵니다.",
+      "원하는 횟수만큼 반복한 후 왼팔로 바꿔 같은 운동을 반복합니다."
+    ],
+    "fr": [
+      "Fixe une poignée en D à une poulie basse d'une machine à câble et règle le banc en position déclinée.",
+      "Allonge-toi sur le banc, la tête orientée vers la machine, et saisis la poignée de ta main droite.",
+      "Étends ton bras droit au-dessus de ta poitrine, en gardant une légère flexion dans ton coude.",
+      "Dans un mouvement contrôlé, abaisse ton bras sur le côté jusqu'à ce que ta main soit alignée avec ton épaule.",
+      "Marque une pause, puis inverse le mouvement et ramène ton bras à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis passe à ton bras gauche et répète l'exercice."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "target": "pectorals",
+  "image": "images/1262-w4dLzSx.jpg",
+  "gif_url": "videos/1262-w4dLzSx.gif",
+  "media_id": "w4dLzSx",
+  "created_at": "2026-03-18T12:31:32.875015+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,101 @@
+{
+  "id": "0175",
+  "name": "cable kneeling crunch",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Attach a rope handle to a high pulley and kneel down facing away from the machine. Hold the rope handle with both hands and place it behind your head, keeping your elbows out to the sides. Keeping your hips stationary, flex your waist and crunch your torso down towards your thighs. Pause for a moment at the bottom, then slowly return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Attacca una maniglia di corda a una carrucola alta e inginocchiati rivolto di spalle alla macchina. Tieni il manico della corda con entrambe le mani e posizionalo dietro la testa, tenendo i gomiti ai lati. Tieni i fianchi fermi, fletti la vita e schiaccia il busto verso le cosce. Fermati un attimo in fondo, poi torna lentamente alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Yüksek bir makaraya bir halat sapı takın ve makineden uzağa bakacak şekilde diz çökün. İpin sapını iki elinizle tutun ve dirseklerinizi yanlara doğru uzatarak başınızın arkasına yerleştirin. Kalçalarınızı sabit tutarak belinizi esnetin ve gövdenizi uyluklarınıza doğru indirin. Altta bir an duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Sujeta una agarradera de cuerda a una polea alta y ponte de rodillas de espaldas a la máquina. Sujeta la agarradera de cuerda con ambas manos y colócala detrás de la cabeza, manteniendo los codos hacia afuera a los lados. Manteniendo las caderas inmóviles, flexiona la cintura y encoge el torso hacia los muslos. Haz una pausa por un momento en la parte inferior, luego regresa lentamente a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Прикрепите веревочную ручку к высокому шкиву и встаньте на колени лицом от машины. Возьмите рукоятку веревки обеими руками и поместите ее за голову, держа локти в стороны. Удерживая бедра неподвижными, согните талию и наклоните туловище к бедрам. Задержитесь на мгновение внизу, затем медленно вернитесь в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "将绳索手柄连接到高滑轮上，然后面向远离机器的方向跪下。 双手握住绳柄，将其放在脑后，肘部向两侧伸出。 保持臀部不动，弯曲腰部并将躯干向大腿方向挤压。 在底部停顿片刻，然后慢慢回到起始位置。 重复所需的重复次数。",
+    "hi": "एक ऊंची चरखी में रस्सी का हैंडल जोड़ें और मशीन से दूर की ओर मुंह करके घुटने टेकें। रस्सी के हैंडल को दोनों हाथों से पकड़ें और इसे अपने सिर के पीछे रखें, अपनी कोहनियों को बगल की ओर रखें। अपने कूल्हों को स्थिर रखते हुए, अपनी कमर को मोड़ें और अपने धड़ को अपनी जांघों की ओर झुकाएँ। नीचे एक पल के लिए रुकें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Podłącz uchwyt z liną do górnego bloczka i uklęknij tyłem do maszyny. Trzymaj uchwyt obiema rękami za głową, łokcie skierowane na boki. Utrzymując nieruchome biodra, zegnij tułów i wykonaj brzuszek w kierunku ud. Zatrzymaj się na moment na dole, a następnie powoli wróć do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "로프 손잡이를 높은 풀리에 부착하고 머신에 등을 향하게 무릎을 꿇고 앉습니다. 로프 손잡이를 양손으로 잡고 머리 뒤에 놓으며 팔꿈치를 옆으로 벌립니다. 엉덩이를 고정하고 허리를 구부려 몸통을 허벅지 쪽으로 크런치합니다. 아래에서 잠깐 멈추었다가 천천히 시작 위치로 돌아옵니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Fixe une poignée à corde à une poulie haute et agenouille-toi dos à la machine. Tiens la poignée corde des deux mains et place-la derrière ta tête, en gardant tes coudes vers les côtés. En gardant tes hanches immobiles, fléchis ta taille et enroule ton torse vers tes cuisses. Marque une pause en bas, puis reviens lentement à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Attach a rope handle to a high pulley and kneel down facing away from the machine.",
+      "Hold the rope handle with both hands and place it behind your head, keeping your elbows out to the sides.",
+      "Keeping your hips stationary, flex your waist and crunch your torso down towards your thighs.",
+      "Pause for a moment at the bottom, then slowly return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Attacca una maniglia di corda a una carrucola alta e inginocchiati rivolto di spalle alla macchina.",
+      "Tieni il manico della corda con entrambe le mani e posizionalo dietro la testa, tenendo i gomiti ai lati.",
+      "Tieni i fianchi fermi, fletti la vita e schiaccia il busto verso le cosce.",
+      "Fermati un attimo in fondo, poi torna lentamente alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Yüksek bir makaraya bir halat sapı takın ve makineden uzağa bakacak şekilde diz çökün.",
+      "İpin sapını iki elinizle tutun ve dirseklerinizi yanlara doğru uzatarak başınızın arkasına yerleştirin.",
+      "Kalçalarınızı sabit tutarak belinizi esnetin ve gövdenizi uyluklarınıza doğru indirin.",
+      "Altta bir an duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Sujeta una agarradera de cuerda a una polea alta y ponte de rodillas de espaldas a la máquina.",
+      "Sujeta la agarradera de cuerda con ambas manos y colócala detrás de la cabeza, manteniendo los codos hacia afuera a los lados.",
+      "Manteniendo las caderas inmóviles, flexiona la cintura y encoge el torso hacia los muslos.",
+      "Haz una pausa por un momento en la parte inferior, luego regresa lentamente a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Прикрепите веревочную ручку к высокому шкиву и встаньте на колени лицом от машины.",
+      "Возьмите рукоятку веревки обеими руками и поместите ее за голову, держа локти в стороны.",
+      "Удерживая бедра неподвижными, согните талию и наклоните туловище к бедрам.",
+      "Задержитесь на мгновение внизу, затем медленно вернитесь в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将绳索手柄连接到高滑轮上，然后面向远离机器的方向跪下。",
+      "双手握住绳柄，将其放在脑后，肘部向两侧伸出。",
+      "保持臀部不动，弯曲腰部并将躯干向大腿方向挤压。",
+      "在底部停顿片刻，然后慢慢回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "एक ऊंची चरखी में रस्सी का हैंडल जोड़ें और मशीन से दूर की ओर मुंह करके घुटने टेकें।",
+      "रस्सी के हैंडल को दोनों हाथों से पकड़ें और इसे अपने सिर के पीछे रखें, अपनी कोहनियों को बगल की ओर रखें।",
+      "अपने कूल्हों को स्थिर रखते हुए, अपनी कमर को मोड़ें और अपने धड़ को अपनी जांघों की ओर झुकाएँ।",
+      "नीचे एक पल के लिए रुकें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Podłącz uchwyt z liną do górnego bloczka i uklęknij tyłem do maszyny.",
+      "Trzymaj uchwyt obiema rękami za głową, łokcie skierowane na boki.",
+      "Utrzymując nieruchome biodra, zegnij tułów i wykonaj brzuszek w kierunku ud.",
+      "Zatrzymaj się na moment na dole, a następnie powoli wróć do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "로프 손잡이를 높은 풀리에 부착하고 머신에 등을 향하게 무릎을 꿇고 앉습니다.",
+      "로프 손잡이를 양손으로 잡고 머리 뒤에 놓으며 팔꿈치를 옆으로 벌립니다.",
+      "엉덩이를 고정하고 허리를 구부려 몸통을 허벅지 쪽으로 크런치합니다.",
+      "아래에서 잠깐 멈추었다가 천천히 시작 위치로 돌아옵니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Fixe une poignée à corde à une poulie haute et agenouille-toi dos à la machine.",
+      "Tiens la poignée corde des deux mains et place-la derrière ta tête, en gardant tes coudes vers les côtés.",
+      "En gardant tes hanches immobiles, fléchis ta taille et enroule ton torse vers tes cuisses.",
+      "Marque une pause en bas, puis reviens lentement à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "obliques",
+  "secondary_muscles": [
+    "obliques"
+  ],
+  "target": "abs",
+  "image": "images/0175-WW95auq.jpg",
+  "gif_url": "videos/0175-WW95auq.gif",
+  "media_id": "WW95auq",
+  "created_at": "2026-03-18T12:31:32.874713+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,103 @@
+{
+  "id": "0077",
+  "name": "barbell rear lunge v. 2",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and hold a barbell across your upper back. Take a step backward with your right foot, landing on the ball of your foot. Bend both knees to lower your body until your left thigh is parallel to the ground. Push through your left heel to return to the starting position. Repeat with the other leg.",
+    "it": "Stai con i piedi alla larghezza delle spalle e tieni un bilanciere sulla parte superiore della schiena. Fai un passo indietro con il piede destro, atterrando sulla pianta del piede. Piega entrambe le ginocchia per abbassare il corpo finché la coscia sinistra non è parallela al suolo. Spingi attraverso il tallone sinistro per tornare alla posizione di partenza. Ripeti con l'altra gamba.",
+    "tr": "Ayaklarınızı omuz genişliğinde açın ve halteri sırtınızın üst kısmına doğru tutun. Sağ ayağınızla geriye doğru bir adım atın ve ayak parmaklarınızın ucuna inin. Sol uyluğunuz yere paralel oluncaya kadar vücudunuzu indirmek için her iki dizinizi de bükün. Başlangıç ​​pozisyonuna dönmek için sol topuğunuzu itin. Diğer bacakla tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y sujeta una barra sobre la parte superior de la espalda. Da un paso hacia atrás con el pie derecho, apoyándote en la punta del pie. Flexiona ambas rodillas para bajar el cuerpo hasta que el muslo izquierdo quede paralelo al suelo. Empuja con el talón izquierdo para volver a la posición inicial. Repite con la otra pierna.",
+    "ru": "Встаньте, ноги на ширине плеч, держите штангу на верхней части спины. Сделайте шаг назад правой ногой, приземлившись на подушечку стопы. Согните оба колена и опустите тело до тех пор, пока левое бедро не станет параллельно земле. Оттолкнитесь левой пяткой, чтобы вернуться в исходное положение. Повторите с другой ногой.",
+    "zh": "双脚分开与肩同宽站立，将杠铃放在上背部。 右脚向后退一步，用脚掌着地。 弯曲双膝降低身体，直到左大腿与地面平行。 推动左脚跟返回到起始位置。 换另一条腿重复上述步骤。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और अपनी पीठ के ऊपरी हिस्से पर एक बारबेल पकड़ें। अपने दाहिने पैर से एक कदम पीछे ले जाएं, अपने पैर की गेंद पर उतरें। अपने शरीर को नीचे करने के लिए दोनों घुटनों को मोड़ें जब तक कि आपकी बाईं जांघ जमीन के समानांतर न हो जाए। प्रारंभिक स्थिति में लौटने के लिए अपनी बायीं एड़ी को धक्का दें। दूसरे पैर से दोहराएँ।",
+    "pl": "Stań w rozkroku na szerokość barków, trzymając sztangę na górnej części pleców. Zrób krok w tył prawą stopą, lądując na palcach stopy. Ugnij oba kolana, opuszczając ciało, aż lewe udo będzie równoległe do podłoża. Odepchnij się przez lewą piętę, wracając do pozycji wyjściowej. Powtórz drugą nogą.",
+    "ko": "어깨너비로 발을 벌리고 바벨을 상부 등에 걸칩니다. 오른발로 뒤로 한발을 내디디며 발의 공 부분에 착지합니다. 양쪽 무릎을 구부려 왼쪽 허벅지가 지면과 평행할 때까지 몸을 내립니다. 왼쪽 발뒤꿈치로 밀어 시작 위치로 돌아옵니다. 반대쪽 다리로 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens une barre en travers du haut de ton dos. Fais un pas en arrière avec le pied droit, en atterrissant sur la pointe du pied. Fléchis les deux genoux pour abaisser ton corps jusqu'à ce que ta cuisse gauche soit parallèle au sol. Pousse à travers ton talon gauche pour revenir à la position de départ. Répète avec l'autre jambe."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and hold a barbell across your upper back.",
+      "Take a step backward with your right foot, landing on the ball of your foot.",
+      "Bend both knees to lower your body until your left thigh is parallel to the ground.",
+      "Push through your left heel to return to the starting position.",
+      "Repeat with the other leg."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle e tieni un bilanciere sulla parte superiore della schiena.",
+      "Fai un passo indietro con il piede destro, atterrando sulla pianta del piede.",
+      "Piega entrambe le ginocchia per abbassare il corpo finché la coscia sinistra non è parallela al suolo.",
+      "Spingi attraverso il tallone sinistro per tornare alla posizione di partenza.",
+      "Ripeti con l'altra gamba."
+    ],
+    "tr": [
+      "Ayaklarınızı omuz genişliğinde açın ve halteri sırtınızın üst kısmına doğru tutun.",
+      "Sağ ayağınızla geriye doğru bir adım atın ve ayak parmaklarınızın ucuna inin.",
+      "Sol uyluğunuz yere paralel oluncaya kadar vücudunuzu indirmek için her iki dizinizi de bükün.",
+      "Başlangıç ​​pozisyonuna dönmek için sol topuğunuzu itin.",
+      "Diğer bacakla tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y sujeta una barra sobre la parte superior de la espalda.",
+      "Da un paso hacia atrás con el pie derecho, apoyándote en la punta del pie.",
+      "Flexiona ambas rodillas para bajar el cuerpo hasta que el muslo izquierdo quede paralelo al suelo.",
+      "Empuja con el talón izquierdo para volver a la posición inicial.",
+      "Repite con la otra pierna."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, держите штангу на верхней части спины.",
+      "Сделайте шаг назад правой ногой, приземлившись на подушечку стопы.",
+      "Согните оба колена и опустите тело до тех пор, пока левое бедро не станет параллельно земле.",
+      "Оттолкнитесь левой пяткой, чтобы вернуться в исходное положение.",
+      "Повторите с другой ногой."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，将杠铃放在上背部。",
+      "右脚向后退一步，用脚掌着地。",
+      "弯曲双膝降低身体，直到左大腿与地面平行。",
+      "推动左脚跟返回到起始位置。",
+      "换另一条腿重复上述步骤。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और अपनी पीठ के ऊपरी हिस्से पर एक बारबेल पकड़ें।",
+      "अपने दाहिने पैर से एक कदम पीछे ले जाएं, अपने पैर की गेंद पर उतरें।",
+      "अपने शरीर को नीचे करने के लिए दोनों घुटनों को मोड़ें जब तक कि आपकी बाईं जांघ जमीन के समानांतर न हो जाए।",
+      "प्रारंभिक स्थिति में लौटने के लिए अपनी बायीं एड़ी को धक्का दें।",
+      "दूसरे पैर से दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków, trzymając sztangę na górnej części pleców.",
+      "Zrób krok w tył prawą stopą, lądując na palcach stopy.",
+      "Ugnij oba kolana, opuszczając ciało, aż lewe udo będzie równoległe do podłoża.",
+      "Odepchnij się przez lewą piętę, wracając do pozycji wyjściowej.",
+      "Powtórz drugą nogą."
+    ],
+    "ko": [
+      "어깨너비로 발을 벌리고 바벨을 상부 등에 걸칩니다.",
+      "오른발로 뒤로 한발을 내디디며 발의 공 부분에 착지합니다.",
+      "양쪽 무릎을 구부려 왼쪽 허벅지가 지면과 평행할 때까지 몸을 내립니다.",
+      "왼쪽 발뒤꿈치로 밀어 시작 위치로 돌아옵니다.",
+      "반대쪽 다리로 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et tiens une barre en travers du haut de ton dos.",
+      "Fais un pas en arrière avec le pied droit, en atterrissant sur la pointe du pied.",
+      "Fléchis les deux genoux pour abaisser ton corps jusqu'à ce que ta cuisse gauche soit parallèle au sol.",
+      "Pousse à travers ton talon gauche pour revenir à la position de départ.",
+      "Répète avec l'autre jambe."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "glutes",
+  "image": "images/0077-62Nw60O.jpg",
+  "gif_url": "videos/0077-62Nw60O.gif",
+  "media_id": "62Nw60O",
+  "created_at": "2026-03-18T12:31:32.872379+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

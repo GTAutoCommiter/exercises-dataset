@@ -1,0 +1,122 @@
+{
+  "id": "1015",
+  "name": "band vertical pallof press",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "band",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and wrap the band around a sturdy object at chest height. Hold the band with both hands and step away from the anchor point, creating tension in the band. Position yourself perpendicular to the anchor point, with your side facing the band. Extend your arms straight out in front of you, keeping your hands at chest height. Engage your core and press the band away from your chest, fully extending your arms. Hold the position for a few seconds, then slowly bring the band back towards your chest. Repeat for the desired number of repetitions, then switch sides.",
+    "it": "Stare con i piedi alla larghezza delle spalle e avvolgere la fascia attorno a un oggetto robusto all'altezza del petto. Tieni la fascia con entrambe le mani e allontanati dal punto di ancoraggio, creando tensione nella fascia. Posizionati perpendicolare al punto di ancoraggio, con il fianco rivolto verso la fascia. Estendi le braccia davanti a te, mantenendo le mani all'altezza del petto. Coinvolgi il tuo core e allontana la fascia dal petto, estendendo completamente le braccia. Mantieni la posizione per qualche secondo, poi riporta lentamente la fascia verso il petto. Ripeti per il numero di ripetizioni desiderato, quindi cambia lato.",
+    "tr": "Ayaklarınızı omuz genişliğinde açın ve bandı göğüs yüksekliğinde sağlam bir nesnenin etrafına sarın. Bandı iki elinizle tutun ve bağlantı noktasından uzaklaşarak bantta gerginlik yaratın. Yan tarafınız banda bakacak şekilde kendinizi bağlantı noktasına dik olarak konumlandırın. Ellerinizi göğüs hizasında tutarak kollarınızı düz bir şekilde önünüze doğru uzatın. Merkez bölgenizi devreye sokun ve kollarınızı tamamen uzatarak bandı göğsünüzden uzağa doğru bastırın. Birkaç saniye bu pozisyonda kalın, ardından bandı yavaşça göğsünüze doğru getirin. İstenilen tekrar sayısı kadar tekrarlayın, ardından taraf değiştirin.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y enrolla la banda alrededor de un objeto firme a la altura del pecho. Sujeta la banda con ambas manos y aléjate del punto de anclaje, creando tensión en la banda. Colócate perpendicular al punto de anclaje, con el costado mirando hacia la banda. Extiende los brazos rectos hacia delante, manteniendo las manos a la altura del pecho. Activa el core y empuja la banda alejándola del pecho, extendiendo completamente los brazos. Mantén la posición durante unos segundos y luego lleva lentamente la banda de vuelta hacia el pecho. Repite el número de repeticiones deseado, luego cambia de lado.",
+    "ru": "Встаньте, ноги на ширине плеч, и оберните ленту вокруг прочного предмета на уровне груди. Возьмите ленту обеими руками и отойдите от точки крепления, создавая напряжение в ленте. Встаньте перпендикулярно точке крепления, боком к ленте. Вытяните руки прямо перед собой, держа ладони на уровне груди. Напрягите корпус и отведите ленту от груди, полностью выпрямляя руки. Удерживайте это положение несколько секунд, затем медленно верните ленту обратно к груди. Повторите желаемое количество повторений, затем поменяйте сторону.",
+    "zh": "双脚分开与肩同宽站立，将弹力带缠绕在胸部高度的坚固物体上。 用双手握住弹力带并远离锚点，在弹力带中产生张力。 使自己垂直于锚点，一侧面向弹力带。 将双臂伸直在身前，保持双手与胸同高。 收紧核心肌群，将弹力带压离胸部，充分伸展手臂。 保持该姿势几秒钟，然后慢慢将弹力带拉回到胸部。 重复所需的重复次数，然后换边。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और बैंड को छाती की ऊंचाई पर किसी मजबूत वस्तु के चारों ओर लपेटें। बैंड को दोनों हाथों से पकड़ें और एंकर पॉइंट से दूर चले जाएं, जिससे बैंड में तनाव पैदा होगा। अपने आप को एंकर बिंदु पर लंबवत रखें, आपका पक्ष बैंड की ओर हो। अपनी बाहों को अपने सामने सीधा फैलाएं, अपने हाथों को छाती की ऊंचाई पर रखें। अपने कोर को संलग्न करें और अपनी बाहों को पूरी तरह फैलाते हुए बैंड को अपनी छाती से दूर दबाएं। कुछ सेकंड के लिए इसी स्थिति में रहें, फिर धीरे-धीरे बैंड को वापस अपनी छाती की ओर लाएं। दोहराव की वांछित संख्या के लिए दोहराएं, फिर पक्ष बदलें।",
+    "pl": "Stań w rozkroku na szerokość barków i owiń taśmę wokół stabilnego obiektu na wysokości klatki piersiowej. Trzymaj taśmę obiema rękami i odejdź od punktu zaczepienia, tworząc napięcie w taśmie. Ustaw się prostopadle do punktu zaczepienia, bokiem do taśmy. Wyciągnij ramiona prosto przed siebie, utrzymując dłonie na wysokości klatki piersiowej. Napnij mięśnie brzucha i wypchnij taśmę od klatki piersiowej, w pełni prostując ramiona. Utrzymaj pozycję przez kilka sekund, a następnie powoli przyciągnij taśmę z powrotem w kierunku klatki piersiowej. Powtórz zalecaną liczbę razy, a następnie zmień stronę.",
+    "ko": "어깨 너비로 발을 벌리고 서서 밴드를 가슴 높이의 견고한 물체 주위에 감싸고 고정합니다. 밴드를 양손으로 잡고 고정점에서 멀어지며 밴드에 장력을 만듭니다. 고정점에 수직으로 위치하되 옆이 밴드를 향하도록 합니다. 팔을 앞으로 곧게 뻗되 손이 가슴 높이에 있도록 합니다. 코어를 활성화하고 밴드를 가슴에서 밀어냅니다. 몇 초간 그 자세를 유지한 후, 천천히 밴드를 가슴 쪽으로 당겨옵니다. 원하는 횟수만큼 반복한 후 반대쪽으로 전환합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et enroule l'élastique autour d'un objet solide à hauteur de poitrine. Tiens l'élastique des deux mains et éloigne-toi du point d'ancrage, en créant de la tension dans l'élastique. Positionne-toi perpendiculairement au point d'ancrage, ton côté face à l'élastique. Étends les bras droit devant toi, en gardant les mains à hauteur de poitrine. Gaine ta sangle abdominale et pousse l'élastique loin de ta poitrine, en étendant complètement tes bras. Maintiens la position pendant quelques secondes, puis ramène lentement l'élastique vers ta poitrine. Répète le nombre de répétitions souhaité, puis change de côté."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and wrap the band around a sturdy object at chest height.",
+      "Hold the band with both hands and step away from the anchor point, creating tension in the band.",
+      "Position yourself perpendicular to the anchor point, with your side facing the band.",
+      "Extend your arms straight out in front of you, keeping your hands at chest height.",
+      "Engage your core and press the band away from your chest, fully extending your arms.",
+      "Hold the position for a few seconds, then slowly bring the band back towards your chest.",
+      "Repeat for the desired number of repetitions, then switch sides."
+    ],
+    "it": [
+      "Stare con i piedi alla larghezza delle spalle e avvolgere la fascia attorno a un oggetto robusto all'altezza del petto.",
+      "Tieni la fascia con entrambe le mani e allontanati dal punto di ancoraggio, creando tensione nella fascia.",
+      "Posizionati perpendicolare al punto di ancoraggio, con il fianco rivolto verso la fascia.",
+      "Estendi le braccia davanti a te, mantenendo le mani all'altezza del petto.",
+      "Coinvolgi il tuo core e allontana la fascia dal petto, estendendo completamente le braccia.",
+      "Mantieni la posizione per qualche secondo, poi riporta lentamente la fascia verso il petto.",
+      "Ripeti per il numero di ripetizioni desiderato, quindi cambia lato."
+    ],
+    "tr": [
+      "Ayaklarınızı omuz genişliğinde açın ve bandı göğüs yüksekliğinde sağlam bir nesnenin etrafına sarın.",
+      "Bandı iki elinizle tutun ve bağlantı noktasından uzaklaşarak bantta gerginlik yaratın.",
+      "Yan tarafınız banda bakacak şekilde kendinizi bağlantı noktasına dik olarak konumlandırın.",
+      "Ellerinizi göğüs hizasında tutarak kollarınızı düz bir şekilde önünüze doğru uzatın.",
+      "Merkez bölgenizi devreye sokun ve kollarınızı tamamen uzatarak bandı göğsünüzden uzağa doğru bastırın.",
+      "Birkaç saniye bu pozisyonda kalın, ardından bandı yavaşça göğsünüze doğru getirin.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından taraf değiştirin."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y enrolla la banda alrededor de un objeto firme a la altura del pecho.",
+      "Sujeta la banda con ambas manos y aléjate del punto de anclaje, creando tensión en la banda.",
+      "Colócate perpendicular al punto de anclaje, con el costado mirando hacia la banda.",
+      "Extiende los brazos rectos hacia delante, manteniendo las manos a la altura del pecho.",
+      "Activa el core y empuja la banda alejándola del pecho, extendiendo completamente los brazos.",
+      "Mantén la posición durante unos segundos y luego lleva lentamente la banda de vuelta hacia el pecho.",
+      "Repite el número de repeticiones deseado, luego cambia de lado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, и оберните ленту вокруг прочного предмета на уровне груди.",
+      "Возьмите ленту обеими руками и отойдите от точки крепления, создавая напряжение в ленте.",
+      "Встаньте перпендикулярно точке крепления, боком к ленте.",
+      "Вытяните руки прямо перед собой, держа ладони на уровне груди.",
+      "Напрягите корпус и отведите ленту от груди, полностью выпрямляя руки.",
+      "Удерживайте это положение несколько секунд, затем медленно верните ленту обратно к груди.",
+      "Повторите желаемое количество повторений, затем поменяйте сторону."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，将弹力带缠绕在胸部高度的坚固物体上。",
+      "用双手握住弹力带并远离锚点，在弹力带中产生张力。",
+      "使自己垂直于锚点，一侧面向弹力带。",
+      "将双臂伸直在身前，保持双手与胸同高。",
+      "收紧核心肌群，将弹力带压离胸部，充分伸展手臂。",
+      "保持该姿势几秒钟，然后慢慢将弹力带拉回到胸部。",
+      "重复所需的重复次数，然后换边。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और बैंड को छाती की ऊंचाई पर किसी मजबूत वस्तु के चारों ओर लपेटें।",
+      "बैंड को दोनों हाथों से पकड़ें और एंकर पॉइंट से दूर चले जाएं, जिससे बैंड में तनाव पैदा होगा।",
+      "अपने आप को एंकर बिंदु पर लंबवत रखें, आपका पक्ष बैंड की ओर हो।",
+      "अपनी बाहों को अपने सामने सीधा फैलाएं, अपने हाथों को छाती की ऊंचाई पर रखें।",
+      "अपने कोर को संलग्न करें और अपनी बाहों को पूरी तरह फैलाते हुए बैंड को अपनी छाती से दूर दबाएं।",
+      "कुछ सेकंड के लिए इसी स्थिति में रहें, फिर धीरे-धीरे बैंड को वापस अपनी छाती की ओर लाएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर पक्ष बदलें।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków i owiń taśmę wokół stabilnego obiektu na wysokości klatki piersiowej.",
+      "Trzymaj taśmę obiema rękami i odejdź od punktu zaczepienia, tworząc napięcie w taśmie.",
+      "Ustaw się prostopadle do punktu zaczepienia, bokiem do taśmy.",
+      "Wyciągnij ramiona prosto przed siebie, utrzymując dłonie na wysokości klatki piersiowej.",
+      "Napnij mięśnie brzucha i wypchnij taśmę od klatki piersiowej, w pełni prostując ramiona.",
+      "Utrzymaj pozycję przez kilka sekund, a następnie powoli przyciągnij taśmę z powrotem w kierunku klatki piersiowej.",
+      "Powtórz zalecaną liczbę razy, a następnie zmień stronę."
+    ],
+    "ko": [
+      "어깨 너비로 발을 벌리고 서서 밴드를 가슴 높이의 견고한 물체 주위에 감싸고 고정합니다.",
+      "밴드를 양손으로 잡고 고정점에서 멀어지며 밴드에 장력을 만듭니다.",
+      "고정점에 수직으로 위치하되 옆이 밴드를 향하도록 합니다.",
+      "팔을 앞으로 곧게 뻗되 손이 가슴 높이에 있도록 합니다.",
+      "코어를 활성화하고 밴드를 가슴에서 밀어냅니다.",
+      "몇 초간 그 자세를 유지한 후, 천천히 밴드를 가슴 쪽으로 당겨옵니다.",
+      "원하는 횟수만큼 반복한 후 반대쪽으로 전환합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et enroule l'élastique autour d'un objet solide à hauteur de poitrine.",
+      "Tiens l'élastique des deux mains et éloigne-toi du point d'ancrage, en créant de la tension dans l'élastique.",
+      "Positionne-toi perpendiculairement au point d'ancrage, ton côté face à l'élastique.",
+      "Étends les bras droit devant toi, en gardant les mains à hauteur de poitrine.",
+      "Gaine ta sangle abdominale et pousse l'élastique loin de ta poitrine, en étendant complètement tes bras.",
+      "Maintiens la position pendant quelques secondes, puis ramène lentement l'élastique vers ta poitrine.",
+      "Répète le nombre de répétitions souhaité, puis change de côté."
+    ]
+  },
+  "muscle_group": "obliques",
+  "secondary_muscles": [
+    "obliques",
+    "glutes"
+  ],
+  "target": "abs",
+  "image": "images/1015-G7PXMlT.jpg",
+  "gif_url": "videos/1015-G7PXMlT.gif",
+  "media_id": "G7PXMlT",
+  "created_at": "2026-03-18T12:31:32.870152+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

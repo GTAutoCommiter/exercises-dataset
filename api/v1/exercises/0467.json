@@ -1,0 +1,112 @@
+{
+  "id": "0467",
+  "name": "gorilla chin",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and your knees slightly bent. Grasp a pull-up bar with an overhand grip, slightly wider than shoulder-width apart. Hang from the bar with your arms fully extended and your palms facing away from you. Engage your core and pull your body up towards the bar, bringing your chin above the bar. Pause for a moment at the top, then slowly lower your body back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi alla larghezza delle spalle e le ginocchia leggermente piegate. Afferrare una barra per trazioni con una presa prona, leggermente più larga della larghezza delle spalle. Appendi alla barra con le braccia completamente distese e i palmi rivolti lontano da te. Coinvolgi il core e solleva il corpo verso la barra, portando il mento sopra la barra. Fai una pausa per un momento in alto, quindi abbassa lentamente il corpo fino alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız omuz genişliğinde açık ve dizleriniz hafifçe bükülü şekilde ayakta durun. Barfiks çubuğunu omuz genişliğinden biraz daha geniş olacak şekilde üstten tutuşla kavrayın. Kollarınız tamamen uzatılmış ve avuçlarınız sizden uzağa bakacak şekilde bardan sarkın. Merkez bölgenizi devreye sokun ve vücudunuzu bara doğru çekin, çenenizi barın üzerine getirin. Tepe noktasında bir an duraklayın, ardından vücudunuzu yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y las rodillas ligeramente flexionadas. Sujeta una barra de dominadas con agarre prono, ligeramente más ancho que la altura de los hombros. Cuélgate de la barra con los brazos completamente extendidos y las palmas hacia afuera. Activa el core y tira del cuerpo hacia la barra, llevando la barbilla por encima de la barra. Haz una pausa por un momento en la parte superior, luego baja lentamente el cuerpo de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, поставив ноги на ширине плеч и слегка согнув колени. Возьмитесь за перекладину хватом сверху, на расстоянии чуть шире ширины плеч. Повисните на перекладине, полностью вытянув руки и повернув ладони от себя. Напрягите корпус и подтяните тело к перекладине, поднимая подбородок над перекладиной. Задержитесь на мгновение в верхней точке, затем медленно опустите тело обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，膝盖稍微弯曲。 正手握住引体向上杆，握距略宽于肩宽。 悬挂在杠上，双臂完全伸展，手掌背向自己。 收紧核心肌群，将身体拉向杠铃杆，将下巴置于杠铃上方。 在顶部停顿片刻，然后慢慢将身体放回起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और आपके घुटने थोड़े मुड़े हुए हों। पुल-अप बार को कंधे की चौड़ाई से थोड़ा चौड़ा ओवरहैंड ग्रिप से पकड़ें। अपनी बाहों को पूरी तरह फैलाकर और अपनी हथेलियों को आपसे दूर रखते हुए बार से लटकें। अपने कोर को संलग्न करें और अपने शरीर को बार की ओर खींचें, अपनी ठुड्डी को बार के ऊपर लाएं। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने शरीर को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań ze stopami na szerokość barków i lekko ugiętymi kolanami. Chwyć drążek do podciągania nachwytem, nieco szerzej niż na szerokość barków. Zawiśnij na drążku z w pełni wyprostowanymi ramionami, dłonie skierowane od siebie. Napnij mięśnie brzucha i podciągnij ciało w stronę drążka, unosząc brodę powyżej drążka. Zatrzymaj się na chwilę na górze, a następnie powoli opuść ciało z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę razy.",
+    "ko": "발을 어깨너비로 벌리고 무릎을 약간 구부립니다. 팔을 어깨너비보다 약간 넓게 벌려 오버그립으로 풀업 바를 잡습니다. 팔을 완전히 펴고 손바닥이 몸에서 멀어지도록 하여 바에 매달립니다. 복부를 조여 몸을 바 쪽으로 당겨 턱을 바 위로 올립니다. 위쪽에서 잠깐 멈추었다가 몸을 천천히 시작 위치로 내립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et les genoux légèrement fléchis. Saisis une barre de traction avec une prise en pronation, un peu plus large que la largeur des épaules. Suspends-toi à la barre, les bras complètement étendus et les paumes tournées vers l'extérieur. Gaine ta sangle abdominale et tire ton corps vers la barre, en amenant ton menton au-dessus de la barre. Marque une pause en haut, puis abaisse lentement ton corps pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and your knees slightly bent.",
+      "Grasp a pull-up bar with an overhand grip, slightly wider than shoulder-width apart.",
+      "Hang from the bar with your arms fully extended and your palms facing away from you.",
+      "Engage your core and pull your body up towards the bar, bringing your chin above the bar.",
+      "Pause for a moment at the top, then slowly lower your body back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle e le ginocchia leggermente piegate.",
+      "Afferrare una barra per trazioni con una presa prona, leggermente più larga della larghezza delle spalle.",
+      "Appendi alla barra con le braccia completamente distese e i palmi rivolti lontano da te.",
+      "Coinvolgi il core e solleva il corpo verso la barra, portando il mento sopra la barra.",
+      "Fai una pausa per un momento in alto, quindi abbassa lentamente il corpo fino alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık ve dizleriniz hafifçe bükülü şekilde ayakta durun.",
+      "Barfiks çubuğunu omuz genişliğinden biraz daha geniş olacak şekilde üstten tutuşla kavrayın.",
+      "Kollarınız tamamen uzatılmış ve avuçlarınız sizden uzağa bakacak şekilde bardan sarkın.",
+      "Merkez bölgenizi devreye sokun ve vücudunuzu bara doğru çekin, çenenizi barın üzerine getirin.",
+      "Tepe noktasında bir an duraklayın, ardından vücudunuzu yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y las rodillas ligeramente flexionadas.",
+      "Sujeta una barra de dominadas con agarre prono, ligeramente más ancho que la altura de los hombros.",
+      "Cuélgate de la barra con los brazos completamente extendidos y las palmas hacia afuera.",
+      "Activa el core y tira del cuerpo hacia la barra, llevando la barbilla por encima de la barra.",
+      "Haz una pausa por un momento en la parte superior, luego baja lentamente el cuerpo de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, поставив ноги на ширине плеч и слегка согнув колени.",
+      "Возьмитесь за перекладину хватом сверху, на расстоянии чуть шире ширины плеч.",
+      "Повисните на перекладине, полностью вытянув руки и повернув ладони от себя.",
+      "Напрягите корпус и подтяните тело к перекладине, поднимая подбородок над перекладиной.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите тело обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，膝盖稍微弯曲。",
+      "正手握住引体向上杆，握距略宽于肩宽。",
+      "悬挂在杠上，双臂完全伸展，手掌背向自己。",
+      "收紧核心肌群，将身体拉向杠铃杆，将下巴置于杠铃上方。",
+      "在顶部停顿片刻，然后慢慢将身体放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और आपके घुटने थोड़े मुड़े हुए हों।",
+      "पुल-अप बार को कंधे की चौड़ाई से थोड़ा चौड़ा ओवरहैंड ग्रिप से पकड़ें।",
+      "अपनी बाहों को पूरी तरह फैलाकर और अपनी हथेलियों को आपसे दूर रखते हुए बार से लटकें।",
+      "अपने कोर को संलग्न करें और अपने शरीर को बार की ओर खींचें, अपनी ठुड्डी को बार के ऊपर लाएं।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने शरीर को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań ze stopami na szerokość barków i lekko ugiętymi kolanami.",
+      "Chwyć drążek do podciągania nachwytem, nieco szerzej niż na szerokość barków.",
+      "Zawiśnij na drążku z w pełni wyprostowanymi ramionami, dłonie skierowane od siebie.",
+      "Napnij mięśnie brzucha i podciągnij ciało w stronę drążka, unosząc brodę powyżej drążka.",
+      "Zatrzymaj się na chwilę na górze, a następnie powoli opuść ciało z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "발을 어깨너비로 벌리고 무릎을 약간 구부립니다.",
+      "팔을 어깨너비보다 약간 넓게 벌려 오버그립으로 풀업 바를 잡습니다.",
+      "팔을 완전히 펴고 손바닥이 몸에서 멀어지도록 하여 바에 매달립니다.",
+      "복부를 조여 몸을 바 쪽으로 당겨 턱을 바 위로 올립니다.",
+      "위쪽에서 잠깐 멈추었다가 몸을 천천히 시작 위치로 내립니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et les genoux légèrement fléchis.",
+      "Saisis une barre de traction avec une prise en pronation, un peu plus large que la largeur des épaules.",
+      "Suspends-toi à la barre, les bras complètement étendus et les paumes tournées vers l'extérieur.",
+      "Gaine ta sangle abdominale et tire ton corps vers la barre, en amenant ton menton au-dessus de la barre.",
+      "Marque une pause en haut, puis abaisse lentement ton corps pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "forearms",
+  "secondary_muscles": [
+    "forearms",
+    "biceps"
+  ],
+  "target": "abs",
+  "image": "images/0467-bmwlYvD.jpg",
+  "gif_url": "videos/0467-bmwlYvD.gif",
+  "media_id": "bmwlYvD",
+  "created_at": "2026-03-18T12:31:32.883934+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

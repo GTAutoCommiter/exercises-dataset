@@ -1,0 +1,125 @@
+{
+  "id": "2466",
+  "name": "bridge - mountain climber (cross body)",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Start in a high plank position with your hands directly under your shoulders and your body in a straight line. Engage your core and lift your right foot off the ground, bringing your right knee towards your left elbow. Return your right foot to the starting position and repeat the movement with your left foot towards your right elbow. Continue alternating sides, moving at a controlled pace. Keep your hips level and avoid lifting your hips too high or sagging them too low. Maintain a steady breathing pattern throughout the exercise. Repeat for the desired number of repetitions.",
+    "it": "Inizia in posizione di plank alta con le mani direttamente sotto le spalle e il corpo in linea retta. Attiva il core e solleva il piede destro da terra, avvicinando il ginocchio destro al gomito sinistro. Riporta il piede destro nella posizione iniziale e ripeti il movimento con il piede sinistro verso il gomito destro. Continua ad alternare i lati, muovendoti a un ritmo controllato. Mantieni i fianchi in linea e evita di sollevarli troppo in alto o di abbassarli troppo. Mantieni un ritmo di respirazione regolare durante tutto l'esercizio. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Elleriniz doğrudan omuzlarınızın altında ve vücudunuz düz bir çizgide olacak şekilde yüksek bir plank pozisyonuyla başlayın. Merkez bölgenizi devreye sokun ve sağ ayağınızı yerden kaldırın, sağ dizinizi sol dirseğinize doğru getirin. Sağ ayağınızı başlangıç ​​pozisyonuna getirin ve sol ayağınızı sağ dirseğinize doğru hareket ettirerek hareketi tekrarlayın. Kontrollü bir hızda ilerleyerek alternatif taraflara devam edin. Kalçalarınızı düz tutun ve kalçalarınızı çok yükseğe kaldırmaktan veya çok aşağı sarkmaktan kaçının. Egzersiz boyunca sabit bir nefes alma düzeni sağlayın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Comienza en una posición de plancha alta con las manos justo debajo de los hombros y el cuerpo en línea recta. Activa el core y levanta el pie derecho del suelo, llevando la rodilla derecha hacia el codo izquierdo. Vuelve a colocar el pie derecho en la posición inicial y repite el movimiento llevando el pie izquierdo hacia el codo derecho. Continúa alternando los lados, moviéndote a un ritmo controlado. Mantén las caderas niveladas y evita levantarlas demasiado alto o dejarlas caer demasiado bajo. Mantén un patrón de respiración constante durante todo el ejercicio. Repite el número de repeticiones deseado.",
+    "ru": "Начните с позиции высокой планки, положив руки прямо под плечи, а тело образуя прямую линию. Напрягите корпус и поднимите правую ногу от земли, поднеся правое колено к левому локтю. Верните правую ногу в исходное положение и повторите движение левой ногой к правому локтю. Продолжайте чередовать стороны, двигаясь в контролируемом темпе. Держите бедра ровно, не поднимайте бедра слишком высоко и не опускайте их слишком низко. Поддерживайте ровный ритм дыхания на протяжении всего упражнения. Повторите необходимое количество повторений.",
+    "zh": "从高平板支撑位置开始，双手直接放在肩膀下方，身体呈一条直线。 启动你的核心并将右脚抬离地面，将右膝移向左肘。 将右脚放回到起始位置，然后将左脚朝向右肘重复该动作。 继续交替两侧，以受控的速度移动。 保持臀部水平，避免臀部抬得太高或下垂得太低。 在整个练习过程中保持稳定的呼吸模式。 重复所需的重复次数。",
+    "hi": "अपने हाथों को सीधे अपने कंधों के नीचे और अपने शरीर को एक सीधी रेखा में रखते हुए एक उच्च तख़्त स्थिति में शुरुआत करें। अपने कोर को संलग्न करें और अपने दाहिने पैर को जमीन से ऊपर उठाएं, अपने दाहिने घुटने को अपनी बाईं कोहनी की ओर लाएं। अपने दाहिने पैर को प्रारंभिक स्थिति में लौटाएँ और अपने बाएँ पैर से अपनी दाहिनी कोहनी की ओर इस क्रिया को दोहराएँ। नियंत्रित गति से आगे बढ़ते हुए, पक्षों को बदलना जारी रखें। अपने कूल्हों को समतल रखें और अपने कूल्हों को बहुत ऊपर उठाने या बहुत नीचे झुकाने से बचें। पूरे अभ्यास के दौरान एक स्थिर श्वास पैटर्न बनाए रखें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Zacznij w wysokiej pozycji deski, z dłońmi bezpośrednio pod barkami, a ciałem w prostej linii. Napnij mięśnie brzucha i unieś prawą stopę nad podłogę, przyciągając prawe kolano w kierunku lewego łokcia. Wróć prawą stopą do pozycji wyjściowej i powtórz ruch lewą stopą w kierunku prawego łokcia. Kontynuuj naprzemienne strony, poruszając się w kontrolowanym tempie. Trzymaj biodra na jednym poziomie, unikając ich zbytniego unoszenia lub opadania. Zachowaj stały rytm oddychania przez cały czas trwania ćwiczenia. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "손을 어깨 바로 아래 놓고 팔꿈치를 펼친 하이 플랭크 자세에서 시작합니다. 코어를 engaged 하고 오른쪽 발을 바닥에서 들어 올려 오른쪽 무릎을 왼쪽 팔꿈치 방향으로 가져옵니다. 오른쪽 발을 시작 자세로 돌아온 후 왼쪽 발을 들어 올려 왼쪽 무릎을 오른쪽 팔꿈치 방향으로 가져옵니다. 조절된 속도로 양쪽을 번갈아가며 계속합니다. 엉덩이를 수평으로 유지하면서 너무 높이 들거나 처지지 않도록 합니다. 운동 전체에서 안정적인 호흡 패턴을 유지합니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Commence en position de planche haute, les mains directement sous les épaules et le corps bien aligné. Gaine ta sangle abdominale et lève ton pied droit du sol, en amenant ton genou droit vers ton coude gauche. Ramène ton pied droit à la position de départ et répète le mouvement en amenant ton pied gauche vers ton coude droit. Continue à alterner les côtés en te déplaçant à un rythme contrôlé. Garde tes hanches à niveau et évite de les lever trop haut ou de les laisser trop s'affaisser. Maintiens une respiration régulière pendant tout l'exercice. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start in a high plank position with your hands directly under your shoulders and your body in a straight line.",
+      "Engage your core and lift your right foot off the ground, bringing your right knee towards your left elbow.",
+      "Return your right foot to the starting position and repeat the movement with your left foot towards your right elbow.",
+      "Continue alternating sides, moving at a controlled pace.",
+      "Keep your hips level and avoid lifting your hips too high or sagging them too low.",
+      "Maintain a steady breathing pattern throughout the exercise.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia in posizione di plank alta con le mani direttamente sotto le spalle e il corpo in linea retta.",
+      "Attiva il core e solleva il piede destro da terra, avvicinando il ginocchio destro al gomito sinistro.",
+      "Riporta il piede destro nella posizione iniziale e ripeti il movimento con il piede sinistro verso il gomito destro.",
+      "Continua ad alternare i lati, muovendoti a un ritmo controllato.",
+      "Mantieni i fianchi in linea e evita di sollevarli troppo in alto o di abbassarli troppo.",
+      "Mantieni un ritmo di respirazione regolare durante tutto l'esercizio.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Elleriniz doğrudan omuzlarınızın altında ve vücudunuz düz bir çizgide olacak şekilde yüksek bir plank pozisyonuyla başlayın.",
+      "Merkez bölgenizi devreye sokun ve sağ ayağınızı yerden kaldırın, sağ dizinizi sol dirseğinize doğru getirin.",
+      "Sağ ayağınızı başlangıç ​​pozisyonuna getirin ve sol ayağınızı sağ dirseğinize doğru hareket ettirerek hareketi tekrarlayın.",
+      "Kontrollü bir hızda ilerleyerek alternatif taraflara devam edin.",
+      "Kalçalarınızı düz tutun ve kalçalarınızı çok yükseğe kaldırmaktan veya çok aşağı sarkmaktan kaçının.",
+      "Egzersiz boyunca sabit bir nefes alma düzeni sağlayın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Comienza en una posición de plancha alta con las manos justo debajo de los hombros y el cuerpo en línea recta.",
+      "Activa el core y levanta el pie derecho del suelo, llevando la rodilla derecha hacia el codo izquierdo.",
+      "Vuelve a colocar el pie derecho en la posición inicial y repite el movimiento llevando el pie izquierdo hacia el codo derecho.",
+      "Continúa alternando los lados, moviéndote a un ritmo controlado.",
+      "Mantén las caderas niveladas y evita levantarlas demasiado alto o dejarlas caer demasiado bajo.",
+      "Mantén un patrón de respiración constante durante todo el ejercicio.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с позиции высокой планки, положив руки прямо под плечи, а тело образуя прямую линию.",
+      "Напрягите корпус и поднимите правую ногу от земли, поднеся правое колено к левому локтю.",
+      "Верните правую ногу в исходное положение и повторите движение левой ногой к правому локтю.",
+      "Продолжайте чередовать стороны, двигаясь в контролируемом темпе.",
+      "Держите бедра ровно, не поднимайте бедра слишком высоко и не опускайте их слишком низко.",
+      "Поддерживайте ровный ритм дыхания на протяжении всего упражнения.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "从高平板支撑位置开始，双手直接放在肩膀下方，身体呈一条直线。",
+      "启动你的核心并将右脚抬离地面，将右膝移向左肘。",
+      "将右脚放回到起始位置，然后将左脚朝向右肘重复该动作。",
+      "继续交替两侧，以受控的速度移动。",
+      "保持臀部水平，避免臀部抬得太高或下垂得太低。",
+      "在整个练习过程中保持稳定的呼吸模式。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने हाथों को सीधे अपने कंधों के नीचे और अपने शरीर को एक सीधी रेखा में रखते हुए एक उच्च तख़्त स्थिति में शुरुआत करें।",
+      "अपने कोर को संलग्न करें और अपने दाहिने पैर को जमीन से ऊपर उठाएं, अपने दाहिने घुटने को अपनी बाईं कोहनी की ओर लाएं।",
+      "अपने दाहिने पैर को प्रारंभिक स्थिति में लौटाएँ और अपने बाएँ पैर से अपनी दाहिनी कोहनी की ओर इस क्रिया को दोहराएँ।",
+      "नियंत्रित गति से आगे बढ़ते हुए, पक्षों को बदलना जारी रखें।",
+      "अपने कूल्हों को समतल रखें और अपने कूल्हों को बहुत ऊपर उठाने या बहुत नीचे झुकाने से बचें।",
+      "पूरे अभ्यास के दौरान एक स्थिर श्वास पैटर्न बनाए रखें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Zacznij w wysokiej pozycji deski, z dłońmi bezpośrednio pod barkami, a ciałem w prostej linii.",
+      "Napnij mięśnie brzucha i unieś prawą stopę nad podłogę, przyciągając prawe kolano w kierunku lewego łokcia.",
+      "Wróć prawą stopą do pozycji wyjściowej i powtórz ruch lewą stopą w kierunku prawego łokcia.",
+      "Kontynuuj naprzemienne strony, poruszając się w kontrolowanym tempie.",
+      "Trzymaj biodra na jednym poziomie, unikając ich zbytniego unoszenia lub opadania.",
+      "Zachowaj stały rytm oddychania przez cały czas trwania ćwiczenia.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "손을 어깨 바로 아래 놓고 팔꿈치를 펼친 하이 플랭크 자세에서 시작합니다.",
+      "코어를 engaged 하고 오른쪽 발을 바닥에서 들어 올려 오른쪽 무릎을 왼쪽 팔꿈치 방향으로 가져옵니다.",
+      "오른쪽 발을 시작 자세로 돌아온 후 왼쪽 발을 들어 올려 왼쪽 무릎을 오른쪽 팔꿈치 방향으로 가져옵니다.",
+      "조절된 속도로 양쪽을 번갈아가며 계속합니다.",
+      "엉덩이를 수평으로 유지하면서 너무 높이 들거나 처지지 않도록 합니다.",
+      "운동 전체에서 안정적인 호흡 패턴을 유지합니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Commence en position de planche haute, les mains directement sous les épaules et le corps bien aligné.",
+      "Gaine ta sangle abdominale et lève ton pied droit du sol, en amenant ton genou droit vers ton coude gauche.",
+      "Ramène ton pied droit à la position de départ et répète le mouvement en amenant ton pied gauche vers ton coude droit.",
+      "Continue à alterner les côtés en te déplaçant à un rythme contrôlé.",
+      "Garde tes hanches à niveau et évite de les lever trop haut ou de les laisser trop s'affaisser.",
+      "Maintiens une respiration régulière pendant tout l'exercice.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "glutes",
+  "secondary_muscles": [
+    "glutes",
+    "quadriceps",
+    "hamstrings",
+    "shoulders",
+    "triceps"
+  ],
+  "target": "abs",
+  "image": "images/2466-9c6T1YX.jpg",
+  "gif_url": "videos/2466-9c6T1YX.gif",
+  "media_id": "9c6T1YX",
+  "created_at": "2026-03-18T12:31:32.874036+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

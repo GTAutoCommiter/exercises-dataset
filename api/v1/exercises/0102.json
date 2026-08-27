@@ -1,0 +1,113 @@
+{
+  "id": "0102",
+  "name": "barbell squat (on knees)",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Start by kneeling on the ground with your knees hip-width apart and your toes pointing forward. Place a barbell across your shoulders, gripping it with an overhand grip and your hands slightly wider than shoulder-width apart. Engage your core and keep your chest lifted as you slowly lower your body down by bending your knees, keeping your back straight. Continue lowering until your thighs are parallel to the ground, or as low as you can comfortably go. Pause for a moment at the bottom, then push through your heels to return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Inizia inginocchiandoti a terra con le ginocchia larghe all'altezza dei fianchi e le dita dei piedi rivolte in avanti. Metti un bilanciere sulle spalle, stringendolo con una presa sopra la mano e con le mani leggermente più larghe della larghezza delle spalle. Attiva il core e tieni il petto sollevato mentre abbassi lentamente il corpo piegando le ginocchia e mantenendo la schiena dritta. Continua ad abbassare finché le cosce non sono parallele al suolo, o il più in basso che puoi comodamente. Fermati un attimo in fondo, poi spingi attraverso i talloni per tornare alla posizione di partenza. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Dizleriniz kalça genişliğinde ve ayak parmaklarınız ileriyi gösterecek şekilde yere diz çökerek başlayın. Omuzlarınızın üzerine bir halter yerleştirin, üstten kavrayarak tutun ve elleriniz omuz genişliğinden biraz daha geniş olsun. Sırtınızı düz tutarak dizlerinizi bükerek vücudunuzu yavaşça aşağıya doğru indirirken, çekirdeğinizi devreye sokun ve göğsünüzü yukarıda tutun. Uyluklarınız yere paralel veya rahatça gidebileceğiniz kadar alçalana kadar alçaltmaya devam edin. Altta bir an duraklayın, ardından başlangıç ​​pozisyonuna dönmek için topuklarınızı itin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Comienza arrodillado en el suelo con las rodillas separadas a la altura de las caderas y las puntas de los pies apuntando hacia adelante. Coloca una barra sobre los hombros, sujetándola con agarre prono y las manos un poco más separadas que el ancho de los hombros. Activa el core y mantén el pecho elevado mientras bajas lentamente el cuerpo flexionando las rodillas, manteniendo la espalda recta. Continúa bajando hasta que los muslos queden paralelos al suelo, o tan abajo como puedas hacerlo cómodamente. Haz una pausa por un momento en la parte inferior, luego empuja con los talones para regresar a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Начните с того, что встаньте на колени на землю, расставив колени на ширине бедер и направив пальцы ног вперед. Положите штангу на плечи, возьмите ее хватом сверху и расставьте руки чуть шире плеч. Напрягите корпус и держите грудь поднятой, медленно опуская тело вниз, сгибая колени, сохраняя спину прямой. Продолжайте опускаться до тех пор, пока ваши бедра не станут параллельны земле или настолько низко, насколько вам будет удобно. Задержитесь на мгновение внизу, затем оттолкнитесь пятками, чтобы вернуться в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "首先跪在地上，膝盖分开与臀部同宽，脚趾向前。 将杠铃放在肩膀上，正手握住杠铃，双手分开的距离略大于肩宽。 收紧核心并保持胸部抬起，同时弯曲膝盖慢慢降低身体，保持背部挺直。 继续降低，直到大腿与地面平行，或者尽可能低。 在底部停顿片刻，然后推动脚后跟回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने घुटनों को कूल्हे की चौड़ाई से अलग रखते हुए और अपने पैर की उंगलियों को आगे की ओर रखते हुए जमीन पर घुटने टेककर शुरुआत करें। अपने कंधों पर एक बारबेल रखें, इसे ओवरहैंड ग्रिप से पकड़ें और अपने हाथों को कंधे की चौड़ाई से थोड़ा चौड़ा रखें। अपने कोर को संलग्न करें और अपनी छाती को ऊपर उठाकर रखें और धीरे-धीरे अपने घुटनों को मोड़कर, अपनी पीठ को सीधा रखते हुए अपने शरीर को नीचे लाएँ। तब तक नीचे उतरना जारी रखें जब तक कि आपकी जांघें ज़मीन के समानांतर न हो जाएं, या उतना नीचे न आ जाएं जितना आप आराम से जा सकें। नीचे एक पल के लिए रुकें, फिर प्रारंभिक स्थिति में लौटने के लिए अपनी एड़ियों से धक्का दें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Zacznij, klęcząc na podłodze, z kolanami rozstawionymi na szerokość bioder, a palcami stóp skierowanymi do przodu. Umieść sztangę na barkach, chwytając ją nachwytem, z dłońmi nieco szerzej niż na szerokość barków. Napnij mięśnie brzucha i trzymaj klatkę piersiową uniesioną, powoli opuszczając ciało poprzez zginanie kolan, trzymając plecy proste. Kontynuuj opuszczanie, aż uda będą równoległe do podłoża, lub tak nisko, jak pozwala ci na to komfort. Zatrzymaj się na chwilę w dolnej pozycji, a następnie wypchnij się przez pięty, wracając do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "무릎을 골반 너비로 벌리고 발가락이 앞을 향하도록 지면에 무릎을 꿇고 시작합니다. 바벨을 어깨 위에 올리고 엎질러 잡으며 양손은 어깨 너비보다 약간 넓게 벌립니다. 핵심부를 단단히 조이고 가슴을 들어올린 상태를 유지하면서 무릎을 구부려 천천히 몸을 내립니다. 등을 펴서 유지합니다. 넓적다리가 지면과 평행할 때까지 계속 내리거나 편하게 내릴 수 있는 만큼 내립니다. 바닥에서 잠시 멈춘 후 발꿈치를 통해 밀어올려 시작 위치로 돌아옵니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Commence à genoux au sol, les genoux écartés à la largeur des hanches et les orteils pointés vers l'avant. Place une barre sur tes épaules, en la saisissant en prise pronation avec tes mains légèrement plus écartées que la largeur des épaules. Gaine ta sangle abdominale et garde ta poitrine relevée pendant que tu abaisses lentement ton corps en pliant tes genoux, en gardant ton dos droit. Continue à descendre jusqu'à ce que tes cuisses soient parallèles au sol, ou aussi bas que tu peux confortablement aller. Marque une pause en bas, puis pousse sur tes talons pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start by kneeling on the ground with your knees hip-width apart and your toes pointing forward.",
+      "Place a barbell across your shoulders, gripping it with an overhand grip and your hands slightly wider than shoulder-width apart.",
+      "Engage your core and keep your chest lifted as you slowly lower your body down by bending your knees, keeping your back straight.",
+      "Continue lowering until your thighs are parallel to the ground, or as low as you can comfortably go.",
+      "Pause for a moment at the bottom, then push through your heels to return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia inginocchiandoti a terra con le ginocchia larghe all'altezza dei fianchi e le dita dei piedi rivolte in avanti.",
+      "Metti un bilanciere sulle spalle, stringendolo con una presa sopra la mano e con le mani leggermente più larghe della larghezza delle spalle.",
+      "Attiva il core e tieni il petto sollevato mentre abbassi lentamente il corpo piegando le ginocchia e mantenendo la schiena dritta.",
+      "Continua ad abbassare finché le cosce non sono parallele al suolo, o il più in basso che puoi comodamente.",
+      "Fermati un attimo in fondo, poi spingi attraverso i talloni per tornare alla posizione di partenza.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Dizleriniz kalça genişliğinde ve ayak parmaklarınız ileriyi gösterecek şekilde yere diz çökerek başlayın.",
+      "Omuzlarınızın üzerine bir halter yerleştirin, üstten kavrayarak tutun ve elleriniz omuz genişliğinden biraz daha geniş olsun.",
+      "Sırtınızı düz tutarak dizlerinizi bükerek vücudunuzu yavaşça aşağıya doğru indirirken, çekirdeğinizi devreye sokun ve göğsünüzü yukarıda tutun.",
+      "Uyluklarınız yere paralel veya rahatça gidebileceğiniz kadar alçalana kadar alçaltmaya devam edin.",
+      "Altta bir an duraklayın, ardından başlangıç ​​pozisyonuna dönmek için topuklarınızı itin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Comienza arrodillado en el suelo con las rodillas separadas a la altura de las caderas y las puntas de los pies apuntando hacia adelante.",
+      "Coloca una barra sobre los hombros, sujetándola con agarre prono y las manos un poco más separadas que el ancho de los hombros.",
+      "Activa el core y mantén el pecho elevado mientras bajas lentamente el cuerpo flexionando las rodillas, manteniendo la espalda recta.",
+      "Continúa bajando hasta que los muslos queden paralelos al suelo, o tan abajo como puedas hacerlo cómodamente.",
+      "Haz una pausa por un momento en la parte inferior, luego empuja con los talones para regresar a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с того, что встаньте на колени на землю, расставив колени на ширине бедер и направив пальцы ног вперед.",
+      "Положите штангу на плечи, возьмите ее хватом сверху и расставьте руки чуть шире плеч.",
+      "Напрягите корпус и держите грудь поднятой, медленно опуская тело вниз, сгибая колени, сохраняя спину прямой.",
+      "Продолжайте опускаться до тех пор, пока ваши бедра не станут параллельны земле или настолько низко, насколько вам будет удобно.",
+      "Задержитесь на мгновение внизу, затем оттолкнитесь пятками, чтобы вернуться в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "首先跪在地上，膝盖分开与臀部同宽，脚趾向前。",
+      "将杠铃放在肩膀上，正手握住杠铃，双手分开的距离略大于肩宽。",
+      "收紧核心并保持胸部抬起，同时弯曲膝盖慢慢降低身体，保持背部挺直。",
+      "继续降低，直到大腿与地面平行，或者尽可能低。",
+      "在底部停顿片刻，然后推动脚后跟回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने घुटनों को कूल्हे की चौड़ाई से अलग रखते हुए और अपने पैर की उंगलियों को आगे की ओर रखते हुए जमीन पर घुटने टेककर शुरुआत करें।",
+      "अपने कंधों पर एक बारबेल रखें, इसे ओवरहैंड ग्रिप से पकड़ें और अपने हाथों को कंधे की चौड़ाई से थोड़ा चौड़ा रखें।",
+      "अपने कोर को संलग्न करें और अपनी छाती को ऊपर उठाकर रखें और धीरे-धीरे अपने घुटनों को मोड़कर, अपनी पीठ को सीधा रखते हुए अपने शरीर को नीचे लाएँ।",
+      "तब तक नीचे उतरना जारी रखें जब तक कि आपकी जांघें ज़मीन के समानांतर न हो जाएं, या उतना नीचे न आ जाएं जितना आप आराम से जा सकें।",
+      "नीचे एक पल के लिए रुकें, फिर प्रारंभिक स्थिति में लौटने के लिए अपनी एड़ियों से धक्का दें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Zacznij, klęcząc na podłodze, z kolanami rozstawionymi na szerokość bioder, a palcami stóp skierowanymi do przodu.",
+      "Umieść sztangę na barkach, chwytając ją nachwytem, z dłońmi nieco szerzej niż na szerokość barków.",
+      "Napnij mięśnie brzucha i trzymaj klatkę piersiową uniesioną, powoli opuszczając ciało poprzez zginanie kolan, trzymając plecy proste.",
+      "Kontynuuj opuszczanie, aż uda będą równoległe do podłoża, lub tak nisko, jak pozwala ci na to komfort.",
+      "Zatrzymaj się na chwilę w dolnej pozycji, a następnie wypchnij się przez pięty, wracając do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "무릎을 골반 너비로 벌리고 발가락이 앞을 향하도록 지면에 무릎을 꿇고 시작합니다.",
+      "바벨을 어깨 위에 올리고 엎질러 잡으며 양손은 어깨 너비보다 약간 넓게 벌립니다.",
+      "핵심부를 단단히 조이고 가슴을 들어올린 상태를 유지하면서 무릎을 구부려 천천히 몸을 내립니다.",
+      "넓적다리가 지면과 평행할 때까지 계속 내리거나 편하게 내릴 수 있는 만큼 내립니다.",
+      "바닥에서 잠시 멈춘 후 발꿈치를 통해 밀어올려 시작 위치로 돌아옵니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Commence à genoux au sol, les genoux écartés à la largeur des hanches et les orteils pointés vers l'avant.",
+      "Place une barre sur tes épaules, en la saisissant en prise pronation avec tes mains légèrement plus écartées que la largeur des épaules.",
+      "Gaine ta sangle abdominale et garde ta poitrine relevée pendant que tu abaisses lentement ton corps en pliant tes genoux, en gardant ton dos droit.",
+      "Continue à descendre jusqu'à ce que tes cuisses soient parallèles au sol, ou aussi bas que tu peux confortablement aller.",
+      "Marque une pause en bas, puis pousse sur tes talons pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "glutes",
+  "secondary_muscles": [
+    "glutes",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "quads",
+  "image": "images/0102-oR7O9LW.jpg",
+  "gif_url": "videos/0102-oR7O9LW.gif",
+  "media_id": "oR7O9LW",
+  "created_at": "2026-03-18T12:31:32.872993+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

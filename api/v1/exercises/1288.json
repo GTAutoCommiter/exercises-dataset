@@ -1,0 +1,112 @@
+{
+  "id": "1288",
+  "name": "dumbbell one arm fly on exercise ball",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Sit on an exercise ball with a dumbbell in one hand and your feet flat on the ground. Walk your feet forward and roll your body down until your upper back is resting on the exercise ball. Extend your arm with the dumbbell straight up above your chest, palm facing inwards. Slowly lower the dumbbell out to the side, keeping a slight bend in your elbow. Pause for a moment, then squeeze your chest muscles to bring the dumbbell back to the starting position. Repeat for the desired number of repetitions, then switch arms.",
+    "it": "Siediti su una palla da ginnastica con un manubrio in una mano e i piedi piantati a terra. Fai avanti i piedi e fai girare il corpo verso il basso finché la parte superiore della schiena non si appoggia al pallone da ginnastica. Allunga il braccio con il manubrio dritto sopra il petto, palmo rivolto verso l'interno. Abbassa lentamente il manubrio di lato, mantenendo una leggera piega del gomito. Fermati un attimo, poi stringi i muscoli del petto per riportare il manubrio alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni, poi cambia braccio.",
+    "tr": "Bir elinizde bir dambıl ve ayaklarınız yere düz basacak şekilde bir egzersiz topunun üzerine oturun. Ayaklarınızı ileri doğru yürütün ve üst sırtınız egzersiz topunun üzerinde durana kadar vücudunuzu aşağı doğru yuvarlayın. Kolunuzu dambılı göğsünüzün üzerinde, avuç içi içe bakacak şekilde uzatın. Dirseğinizi hafifçe bükerek dambılı yavaşça yana doğru indirin. Bir an duraklayın, ardından dambılı başlangıç ​​pozisyonuna geri getirmek için göğüs kaslarınızı sıkın. İstenilen tekrar sayısı kadar tekrarlayın, ardından kolları değiştirin.",
+    "es": "Siéntate sobre un balón de estabilidad con una mancuerna en una mano y los pies apoyados en el suelo. Camina con los pies hacia adelante y baja el cuerpo rodando hasta que la parte superior de la espalda quede apoyada sobre el balón de estabilidad. Extiende el brazo con la mancuerna recto hacia arriba sobre el pecho, con la palma hacia adentro. Baja lentamente la mancuerna hacia el lado, manteniendo una ligera flexión en el codo. Haz una pausa por un momento, luego contrae los músculos del pecho para llevar la mancuerna de vuelta a la posición inicial. Repite el número de repeticiones deseado, luego cambia de brazo.",
+    "ru": "Сядьте на мяч для упражнений, возьмите в одну руку гантель, поставьте ноги на землю. Пройдите ногами вперед и перекатывайтесь вниз, пока верхняя часть спины не окажется на мяче для упражнений. Вытяните руку с гантелью прямо над грудью ладонью внутрь. Медленно опустите гантель в сторону, сохраняя небольшой изгиб в локте. Сделайте паузу на мгновение, затем сожмите мышцы груди, чтобы вернуть гантель в исходное положение. Повторите желаемое количество повторений, затем поменяйте руки.",
+    "zh": "坐在健身球上，一只手拿着哑铃，双脚平放在地上。 双脚向前走，身体向下滚动，直到上背部靠在健身球上。 将手臂伸直，将哑铃举至胸部上方，手掌朝内。 慢慢地将哑铃向一侧放低，保持肘部轻微弯曲。 暂停片刻，然后挤压胸部肌肉，使哑铃回到起始位置。 重复所需的重复次数，然后换臂。",
+    "hi": "एक हाथ में डम्बल लेकर व्यायाम बॉल पर बैठें और आपके पैर ज़मीन पर सपाट हों। अपने पैरों को आगे की ओर बढ़ाएं और अपने शरीर को तब तक नीचे की ओर घुमाएं जब तक कि आपकी ऊपरी पीठ व्यायाम गेंद पर आराम न कर ले। अपनी बांह को डंबल के साथ सीधे अपनी छाती के ऊपर फैलाएं, हथेली अंदर की ओर हो। अपनी कोहनी को थोड़ा मोड़ते हुए धीरे-धीरे डम्बल को बगल की ओर नीचे करें। एक पल के लिए रुकें, फिर डम्बल को शुरुआती स्थिति में वापस लाने के लिए अपनी छाती की मांसपेशियों को निचोड़ें। दोहराव की वांछित संख्या के लिए दोहराएं, फिर हथियार बदल लें।",
+    "pl": "Usiądź na piłce gimnastycznej, trzymając hantlę w jednej ręce, stopy oprzyj płasko na podłodze. Przejdź stopami do przodu i przetaczaj ciało w dół, aż górna część pleców będzie oparta na piłce. Wyprostuj rękę z hantlą prosto nad klatką piersiową, dłonią skierowaną do wewnątrz. Powoli opuszczaj hantlę na bok, utrzymując lekkie ugięcie w łokciu. Zatrzymaj się na chwilę, a następnie napnij mięśnie klatki piersiowej, aby wrócić hantlą do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń, a następnie zmień rękę.",
+    "ko": "익서사이즈 볼에 앉아 한쪽 손에 덤벨을 들고 발을 땅에 고정합니다. 발을 앞으로 걷으며 신체를 굴려 등 위쪽이 익서사이즈 볼에 지지되게 합니다. 덤벨을 들은 팔을 가슴 위로 펼친 후 손가락이 안쪽을 향하도록 합니다. 팔꿈치에 약간의 구부러짐을 유지한 채 덤벨을 옆으로 천천히 내립니다. 잠시 멈춘 후 가슴 근육을 수축하여 덤벨을 처음 위치로 올립니다. 원하는 횟수만큼 반복한 후 반대쪽 팔로 바꿔 진행합니다.",
+    "fr": "Assieds-toi sur un ballon d'exercice avec un haltère dans une main et les pieds à plat sur le sol. Avance les pieds et fais rouler ton corps vers le bas jusqu'à ce que le haut de ton dos repose sur le ballon d'exercice. Étends ton bras avec l'haltère droit au-dessus de ta poitrine, paume tournée vers l'intérieur. Abaisse lentement l'haltère vers le côté, en gardant une légère flexion dans ton coude. Marque une pause, puis contracte tes muscles pectoraux pour ramener l'haltère à la position de départ. Répète le nombre de répétitions souhaité, puis change de bras."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on an exercise ball with a dumbbell in one hand and your feet flat on the ground.",
+      "Walk your feet forward and roll your body down until your upper back is resting on the exercise ball.",
+      "Extend your arm with the dumbbell straight up above your chest, palm facing inwards.",
+      "Slowly lower the dumbbell out to the side, keeping a slight bend in your elbow.",
+      "Pause for a moment, then squeeze your chest muscles to bring the dumbbell back to the starting position.",
+      "Repeat for the desired number of repetitions, then switch arms."
+    ],
+    "it": [
+      "Siediti su una palla da ginnastica con un manubrio in una mano e i piedi piantati a terra.",
+      "Fai avanti i piedi e fai girare il corpo verso il basso finché la parte superiore della schiena non si appoggia al pallone da ginnastica.",
+      "Allunga il braccio con il manubrio dritto sopra il petto, palmo rivolto verso l'interno.",
+      "Abbassa lentamente il manubrio di lato, mantenendo una leggera piega del gomito.",
+      "Fermati un attimo, poi stringi i muscoli del petto per riportare il manubrio alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni, poi cambia braccio."
+    ],
+    "tr": [
+      "Bir elinizde bir dambıl ve ayaklarınız yere düz basacak şekilde bir egzersiz topunun üzerine oturun.",
+      "Ayaklarınızı ileri doğru yürütün ve üst sırtınız egzersiz topunun üzerinde durana kadar vücudunuzu aşağı doğru yuvarlayın.",
+      "Kolunuzu dambılı göğsünüzün üzerinde, avuç içi içe bakacak şekilde uzatın.",
+      "Dirseğinizi hafifçe bükerek dambılı yavaşça yana doğru indirin.",
+      "Bir an duraklayın, ardından dambılı başlangıç ​​pozisyonuna geri getirmek için göğüs kaslarınızı sıkın.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından kolları değiştirin."
+    ],
+    "es": [
+      "Siéntate sobre un balón de estabilidad con una mancuerna en una mano y los pies apoyados en el suelo.",
+      "Camina con los pies hacia adelante y baja el cuerpo rodando hasta que la parte superior de la espalda quede apoyada sobre el balón de estabilidad.",
+      "Extiende el brazo con la mancuerna recto hacia arriba sobre el pecho, con la palma hacia adentro.",
+      "Baja lentamente la mancuerna hacia el lado, manteniendo una ligera flexión en el codo.",
+      "Haz una pausa por un momento, luego contrae los músculos del pecho para llevar la mancuerna de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado, luego cambia de brazo."
+    ],
+    "ru": [
+      "Сядьте на мяч для упражнений, возьмите в одну руку гантель, поставьте ноги на землю.",
+      "Пройдите ногами вперед и перекатывайтесь вниз, пока верхняя часть спины не окажется на мяче для упражнений.",
+      "Вытяните руку с гантелью прямо над грудью ладонью внутрь.",
+      "Медленно опустите гантель в сторону, сохраняя небольшой изгиб в локте.",
+      "Сделайте паузу на мгновение, затем сожмите мышцы груди, чтобы вернуть гантель в исходное положение.",
+      "Повторите желаемое количество повторений, затем поменяйте руки."
+    ],
+    "zh": [
+      "坐在健身球上，一只手拿着哑铃，双脚平放在地上。",
+      "双脚向前走，身体向下滚动，直到上背部靠在健身球上。",
+      "将手臂伸直，将哑铃举至胸部上方，手掌朝内。",
+      "慢慢地将哑铃向一侧放低，保持肘部轻微弯曲。",
+      "暂停片刻，然后挤压胸部肌肉，使哑铃回到起始位置。",
+      "重复所需的重复次数，然后换臂。"
+    ],
+    "hi": [
+      "एक हाथ में डम्बल लेकर व्यायाम बॉल पर बैठें और आपके पैर ज़मीन पर सपाट हों।",
+      "अपने पैरों को आगे की ओर बढ़ाएं और अपने शरीर को तब तक नीचे की ओर घुमाएं जब तक कि आपकी ऊपरी पीठ व्यायाम गेंद पर आराम न कर ले।",
+      "अपनी बांह को डंबल के साथ सीधे अपनी छाती के ऊपर फैलाएं, हथेली अंदर की ओर हो।",
+      "अपनी कोहनी को थोड़ा मोड़ते हुए धीरे-धीरे डम्बल को बगल की ओर नीचे करें।",
+      "एक पल के लिए रुकें, फिर डम्बल को शुरुआती स्थिति में वापस लाने के लिए अपनी छाती की मांसपेशियों को निचोड़ें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर हथियार बदल लें।"
+    ],
+    "pl": [
+      "Usiądź na piłce gimnastycznej, trzymając hantlę w jednej ręce, stopy oprzyj płasko na podłodze.",
+      "Przejdź stopami do przodu i przetaczaj ciało w dół, aż górna część pleców będzie oparta na piłce.",
+      "Wyprostuj rękę z hantlą prosto nad klatką piersiową, dłonią skierowaną do wewnątrz.",
+      "Powoli opuszczaj hantlę na bok, utrzymując lekkie ugięcie w łokciu.",
+      "Zatrzymaj się na chwilę, a następnie napnij mięśnie klatki piersiowej, aby wrócić hantlą do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń, a następnie zmień rękę."
+    ],
+    "ko": [
+      "익서사이즈 볼에 앉아 한쪽 손에 덤벨을 들고 발을 땅에 고정합니다.",
+      "발을 앞으로 걷으며 신체를 굴려 등 위쪽이 익서사이즈 볼에 지지되게 합니다.",
+      "덤벨을 들은 팔을 가슴 위로 펼친 후 손가락이 안쪽을 향하도록 합니다.",
+      "팔꿈치에 약간의 구부러짐을 유지한 채 덤벨을 옆으로 천천히 내립니다.",
+      "잠시 멈춘 후 가슴 근육을 수축하여 덤벨을 처음 위치로 올립니다.",
+      "원하는 횟수만큼 반복한 후 반대쪽 팔로 바꿔 진행합니다."
+    ],
+    "fr": [
+      "Assieds-toi sur un ballon d'exercice avec un haltère dans une main et les pieds à plat sur le sol.",
+      "Avance les pieds et fais rouler ton corps vers le bas jusqu'à ce que le haut de ton dos repose sur le ballon d'exercice.",
+      "Étends ton bras avec l'haltère droit au-dessus de ta poitrine, paume tournée vers l'intérieur.",
+      "Abaisse lentement l'haltère vers le côté, en gardant une légère flexion dans ton coude.",
+      "Marque une pause, puis contracte tes muscles pectoraux pour ramener l'haltère à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis change de bras."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "target": "pectorals",
+  "image": "images/1288-Am02iPd.jpg",
+  "gif_url": "videos/1288-Am02iPd.gif",
+  "media_id": "Am02iPd",
+  "created_at": "2026-03-18T12:31:32.879782+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

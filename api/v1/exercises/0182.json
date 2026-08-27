@@ -1,0 +1,131 @@
+{
+  "id": "0182",
+  "name": "cable lying close-grip curl",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Attach a straight bar to a low pulley cable machine. Lie face up on a flat bench with your feet flat on the ground. Grasp the bar with an underhand grip, hands shoulder-width apart. Extend your arms fully, keeping your elbows close to your sides. Keeping your upper arms stationary, curl the bar towards your chest by contracting your biceps. Pause for a moment at the top, squeezing your biceps. Slowly lower the bar back to the starting position, fully extending your arms. Repeat for the desired number of repetitions.",
+    "it": "Attacca una barra dritta a una macchina a cavo a carrucole bassa. Sdraiati a faccia in su su una panca piatta con i piedi piatti a terra. Afferra la barra con una presa sotto, mani divaricate alla larghezza delle spalle. Allunga completamente le braccia, tenendo i gomiti vicini ai fianchi. Mantenendo ferme le braccia superiori, piega la barra verso il petto contraendo i bicipiti. Fermati un attimo in cima, stringendo i bicipiti. Abbassa lentamente la barra fino alla posizione iniziale, estendendo completamente le braccia. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Düşük makaralı bir kablo makinesine düz bir çubuk takın. Ayaklarınız yere düz basacak şekilde düz bir bankta yüz üstü uzanın. Barı alttan kavrayın, eller omuz genişliğinde açık olsun. Dirseklerinizi yanlarınıza yakın tutarak kollarınızı tamamen uzatın. Üst kollarınızı sabit tutarak, bicepslerinizi kasarak barı göğsünüze doğru kıvırın. Bicepslerinizi sıkarak tepede bir an duraklayın. Kollarınızı tamamen uzatarak barı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Coloca una barra recta en una máquina de cable con polea baja. Túmbate boca arriba en un banco plano con los pies apoyados planos en el suelo. Sujeta la barra con agarre supino, manos separadas a la altura de los hombros. Extiende los brazos por completo, manteniendo los codos cerca de los costados. Manteniendo la parte superior de los brazos inmóvil, curva la barra hacia el pecho contrayendo los bíceps. Haz una pausa breve en la parte alta, apretando los bíceps. Baja lentamente la barra de vuelta a la posición inicial, extendiendo los brazos por completo. Repite el número de repeticiones deseado.",
+    "ru": "Прикрепите прямую штангу к канатной машине с низким шкивом. Лягте лицом вверх на плоскую скамью, положив ступни на землю. Возьмитесь за перекладину хватом снизу, руки на ширине плеч. Полностью выпрямите руки, держа локти близко к бокам. Удерживая плечи неподвижно, поднимите штангу к груди, напрягая бицепсы. Задержитесь на мгновение в верхней точке, напрягая бицепсы. Медленно опустите штангу обратно в исходное положение, полностью выпрямляя руки. Повторите необходимое количество повторений.",
+    "zh": "将直杆连接到低滑轮电缆机上。 面朝上躺在平坦的长凳上，双脚平放在地上。 反手握住杠铃，双手与肩同宽。 充分伸展双臂，保持肘部靠近身体两侧。 保持上臂静止，通过收缩二头肌将杠铃卷向胸部。 在顶部暂停片刻，挤压你的二头肌。 慢慢地将杠铃放回起始位置，充分伸展双臂。 重复所需的重复次数。",
+    "hi": "लो पुली केबल मशीन में एक सीधी पट्टी जोड़ें। अपने पैरों को जमीन पर सपाट रखते हुए एक सपाट बेंच पर मुंह करके लेट जाएं। बार को अंडरहैंड ग्रिप से पकड़ें, हाथ कंधे की चौड़ाई से अलग हों। अपनी कोहनियों को अपनी भुजाओं के पास रखते हुए, अपनी भुजाओं को पूरी तरह फैलाएँ। अपनी ऊपरी भुजाओं को स्थिर रखते हुए, अपने बाइसेप्स को सिकोड़कर बार को अपनी छाती की ओर मोड़ें। अपने बाइसेप्स को निचोड़ते हुए शीर्ष पर एक पल के लिए रुकें। अपनी भुजाओं को पूरी तरह फैलाते हुए बार को धीरे-धीरे प्रारंभिक स्थिति में वापस लाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Podłącz prostą drążkę do wyciągu z dolnym bloczkiem. Połóż się na plecach na płaskiej ławce, stopy płasko na podłodze. Chwyć drążek podchwytem, dłonie rozstawione na szerokość barków. Całkowicie wyprostuj ramiona, trzymając łokcie blisko ciała. Utrzymując nieruchome ramiona górne, unieś drążek w kierunku klatki piersiowej, napinając bicepsy. Zatrzymaj się na moment na górze, mocno napinając bicepsy. Powoli opuść drążek do pozycji wyjściowej, całkowicie prostując ramiona. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "스트레이트 바를 낮은 풀리 케이블 머신에 부착합니다. 평평한 벤치에 얼굴을 위로 하여 누우면서 발을 땅에 평평하게 놓습니다. 언더핸드 그립으로 바를 잡고 손을 어깨너비로 벌립니다. 팔을 완전히 펼쳐 팔꿈치를 몸 옆에 가깝게 유지합니다. 위팔을 고정한 상태로 이두근을 수축시켜 바를 가슴 쪽으로 컬합니다. 위에서 잠깐 멈추고 이두근을 쥡니다. 바를 천천히 시작 위치로 내려 팔을 완전히 펼칩니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Fixe une barre droite à une machine à câble à poulie basse. Allonge-toi face vers le haut sur un banc plat, les pieds à plat au sol. Saisis la barre avec une prise en supination, les mains écartées à la largeur des épaules. Étends complètement tes bras, en gardant tes coudes près de tes flancs. En gardant le haut des bras immobile, fléchis la barre vers ta poitrine en contractant tes biceps. Marque une pause en haut, en contractant tes biceps. Abaisse lentement la barre vers la position de départ, en tendant complètement tes bras. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Attach a straight bar to a low pulley cable machine.",
+      "Lie face up on a flat bench with your feet flat on the ground.",
+      "Grasp the bar with an underhand grip, hands shoulder-width apart.",
+      "Extend your arms fully, keeping your elbows close to your sides.",
+      "Keeping your upper arms stationary, curl the bar towards your chest by contracting your biceps.",
+      "Pause for a moment at the top, squeezing your biceps.",
+      "Slowly lower the bar back to the starting position, fully extending your arms.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Attacca una barra dritta a una macchina a cavo a carrucole bassa.",
+      "Sdraiati a faccia in su su una panca piatta con i piedi piatti a terra.",
+      "Afferra la barra con una presa sotto, mani divaricate alla larghezza delle spalle.",
+      "Allunga completamente le braccia, tenendo i gomiti vicini ai fianchi.",
+      "Mantenendo ferme le braccia superiori, piega la barra verso il petto contraendo i bicipiti.",
+      "Fermati un attimo in cima, stringendo i bicipiti.",
+      "Abbassa lentamente la barra fino alla posizione iniziale, estendendo completamente le braccia.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Düşük makaralı bir kablo makinesine düz bir çubuk takın.",
+      "Ayaklarınız yere düz basacak şekilde düz bir bankta yüz üstü uzanın.",
+      "Barı alttan kavrayın, eller omuz genişliğinde açık olsun.",
+      "Dirseklerinizi yanlarınıza yakın tutarak kollarınızı tamamen uzatın.",
+      "Üst kollarınızı sabit tutarak, bicepslerinizi kasarak barı göğsünüze doğru kıvırın.",
+      "Bicepslerinizi sıkarak tepede bir an duraklayın.",
+      "Kollarınızı tamamen uzatarak barı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Coloca una barra recta en una máquina de cable con polea baja.",
+      "Túmbate boca arriba en un banco plano con los pies apoyados planos en el suelo.",
+      "Sujeta la barra con agarre supino, manos separadas a la altura de los hombros.",
+      "Extiende los brazos por completo, manteniendo los codos cerca de los costados.",
+      "Manteniendo la parte superior de los brazos inmóvil, curva la barra hacia el pecho contrayendo los bíceps.",
+      "Haz una pausa breve en la parte alta, apretando los bíceps.",
+      "Baja lentamente la barra de vuelta a la posición inicial, extendiendo los brazos por completo.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Прикрепите прямую штангу к канатной машине с низким шкивом.",
+      "Лягте лицом вверх на плоскую скамью, положив ступни на землю.",
+      "Возьмитесь за перекладину хватом снизу, руки на ширине плеч.",
+      "Полностью выпрямите руки, держа локти близко к бокам.",
+      "Удерживая плечи неподвижно, поднимите штангу к груди, напрягая бицепсы.",
+      "Задержитесь на мгновение в верхней точке, напрягая бицепсы.",
+      "Медленно опустите штангу обратно в исходное положение, полностью выпрямляя руки.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将直杆连接到低滑轮电缆机上。",
+      "面朝上躺在平坦的长凳上，双脚平放在地上。",
+      "反手握住杠铃，双手与肩同宽。",
+      "充分伸展双臂，保持肘部靠近身体两侧。",
+      "保持上臂静止，通过收缩二头肌将杠铃卷向胸部。",
+      "在顶部暂停片刻，挤压你的二头肌。",
+      "慢慢地将杠铃放回起始位置，充分伸展双臂。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "लो पुली केबल मशीन में एक सीधी पट्टी जोड़ें।",
+      "अपने पैरों को जमीन पर सपाट रखते हुए एक सपाट बेंच पर मुंह करके लेट जाएं।",
+      "बार को अंडरहैंड ग्रिप से पकड़ें, हाथ कंधे की चौड़ाई से अलग हों।",
+      "अपनी कोहनियों को अपनी भुजाओं के पास रखते हुए, अपनी भुजाओं को पूरी तरह फैलाएँ।",
+      "अपनी ऊपरी भुजाओं को स्थिर रखते हुए, अपने बाइसेप्स को सिकोड़कर बार को अपनी छाती की ओर मोड़ें।",
+      "अपने बाइसेप्स को निचोड़ते हुए शीर्ष पर एक पल के लिए रुकें।",
+      "अपनी भुजाओं को पूरी तरह फैलाते हुए बार को धीरे-धीरे प्रारंभिक स्थिति में वापस लाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Podłącz prostą drążkę do wyciągu z dolnym bloczkiem.",
+      "Połóż się na plecach na płaskiej ławce, stopy płasko na podłodze.",
+      "Chwyć drążek podchwytem, dłonie rozstawione na szerokość barków.",
+      "Całkowicie wyprostuj ramiona, trzymając łokcie blisko ciała.",
+      "Utrzymując nieruchome ramiona górne, unieś drążek w kierunku klatki piersiowej, napinając bicepsy.",
+      "Zatrzymaj się na moment na górze, mocno napinając bicepsy.",
+      "Powoli opuść drążek do pozycji wyjściowej, całkowicie prostując ramiona.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "스트레이트 바를 낮은 풀리 케이블 머신에 부착합니다.",
+      "평평한 벤치에 얼굴을 위로 하여 누우면서 발을 땅에 평평하게 놓습니다.",
+      "언더핸드 그립으로 바를 잡고 손을 어깨너비로 벌립니다.",
+      "팔을 완전히 펼쳐 팔꿈치를 몸 옆에 가깝게 유지합니다.",
+      "위팔을 고정한 상태로 이두근을 수축시켜 바를 가슴 쪽으로 컬합니다.",
+      "위에서 잠깐 멈추고 이두근을 쥡니다.",
+      "바를 천천히 시작 위치로 내려 팔을 완전히 펼칩니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Fixe une barre droite à une machine à câble à poulie basse.",
+      "Allonge-toi face vers le haut sur un banc plat, les pieds à plat au sol.",
+      "Saisis la barre avec une prise en supination, les mains écartées à la largeur des épaules.",
+      "Étends complètement tes bras, en gardant tes coudes près de tes flancs.",
+      "En gardant le haut des bras immobile, fléchis la barre vers ta poitrine en contractant tes biceps.",
+      "Marque une pause en haut, en contractant tes biceps.",
+      "Abaisse lentement la barre vers la position de départ, en tendant complètement tes bras.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "forearms",
+  "secondary_muscles": [
+    "forearms"
+  ],
+  "target": "biceps",
+  "image": "images/0182-61GrD55.jpg",
+  "gif_url": "videos/0182-61GrD55.gif",
+  "media_id": "61GrD55",
+  "created_at": "2026-03-18T12:31:32.874894+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

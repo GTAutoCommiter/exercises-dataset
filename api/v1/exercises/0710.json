@@ -1,0 +1,102 @@
+{
+  "id": "0710",
+  "name": "side hip abduction",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and your hands on your hips. Shift your weight to one leg and lift the opposite leg out to the side, keeping it straight. Pause for a moment at the top, then slowly lower your leg back down to the starting position. Repeat on the other side. Continue alternating sides for the desired number of repetitions.",
+    "it": "Stai con i piedi alla larghezza delle spalle e le mani sui fianchi. Sposta il peso su una gamba e solleva la gamba opposta lateralmente, mantenendola dritta. Fai una pausa per un momento in alto, quindi abbassa lentamente la gamba fino alla posizione iniziale. Ripeti dall'altra parte. Continua ad alternare i lati per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız omuz genişliğinde açık ve elleriniz kalçalarınızın üzerinde olacak şekilde ayakta durun. Ağırlığınızı bir bacağınıza verin ve diğer bacağınızı düz tutarak yana doğru kaldırın. Tepe noktasında bir an duraklayın, ardından bacağınızı yavaşça başlangıç ​​pozisyonuna indirin. Diğer tarafta tekrarlayın. İstenilen tekrar sayısı için alternatif taraflara devam edin.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y las manos en las caderas. Traslada el peso a una pierna y levanta la pierna opuesta hacia el lado, manteniéndola recta. Haz una pausa por un momento en la posición alta, luego baja lentamente la pierna de nuevo a la posición inicial. Repite del otro lado. Continúa alternando lados durante el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, руки на бедрах. Перенесите вес тела на одну ногу и поднимите противоположную ногу в сторону, сохраняя ее прямой. Задержитесь на мгновение в верхней точке, затем медленно опустите ногу обратно в исходное положение. Повторите с другой стороны. Продолжайте чередовать стороны желаемое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，双手放在臀部。 将重心转移到一条腿上，并将另一条腿向一侧抬起，保持伸直。 在顶部暂停片刻，然后慢慢将腿放回起始位置。 在另一侧重复。 继续交替进行所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर और अपने हाथों को अपने कूल्हों पर रखकर खड़े हो जाएं। अपना वजन एक पैर पर डालें और दूसरे पैर को सीधा रखते हुए बगल की तरफ उठाएं। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने पैर को वापस प्रारंभिक स्थिति में ले आएं। दूसरी तरफ दोहराएं। दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।",
+    "pl": "Stań w rozkroku na szerokość barków, z rękami na biodrach. Przenieś ciężar ciała na jedną nogę i unieś przeciwną nogę na bok, trzymając ją prosto. Zatrzymaj się na chwilę na górze, a następnie powoli opuść nogę z powrotem do pozycji wyjściowej. Powtórz po drugiej stronie. Kontynuuj naprzemienne wykonywanie ruchu przez zalecaną liczbę powtórzeń.",
+    "ko": "발을 어깨너비로 벌리고 손을 엉덩이에 올려놓고 서세요. 한쪽 다리로 체중을 이동하고 다른 쪽 다리를 옆으로 들어 올립니다. 다리는 펴진 상태로 유지합니다. 위쪽에서 잠깐 멈춘 후 다리를 천천히 시작 위치로 내립니다. 반대쪽에서 반복합니다. 원하는 반복 횟수만큼 양쪽을 번갈아 진행합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et les mains sur les hanches. Reporte ton poids sur une jambe et lève la jambe opposée sur le côté, en la gardant tendue. Marque une pause en haut, puis abaisse lentement ta jambe pour revenir à la position de départ. Répète de l'autre côté. Continue à alterner les côtés pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and your hands on your hips.",
+      "Shift your weight to one leg and lift the opposite leg out to the side, keeping it straight.",
+      "Pause for a moment at the top, then slowly lower your leg back down to the starting position.",
+      "Repeat on the other side.",
+      "Continue alternating sides for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle e le mani sui fianchi.",
+      "Sposta il peso su una gamba e solleva la gamba opposta lateralmente, mantenendola dritta.",
+      "Fai una pausa per un momento in alto, quindi abbassa lentamente la gamba fino alla posizione iniziale.",
+      "Ripeti dall'altra parte.",
+      "Continua ad alternare i lati per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık ve elleriniz kalçalarınızın üzerinde olacak şekilde ayakta durun.",
+      "Ağırlığınızı bir bacağınıza verin ve diğer bacağınızı düz tutarak yana doğru kaldırın.",
+      "Tepe noktasında bir an duraklayın, ardından bacağınızı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "Diğer tarafta tekrarlayın.",
+      "İstenilen tekrar sayısı için alternatif taraflara devam edin."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y las manos en las caderas.",
+      "Traslada el peso a una pierna y levanta la pierna opuesta hacia el lado, manteniéndola recta.",
+      "Haz una pausa por un momento en la posición alta, luego baja lentamente la pierna de nuevo a la posición inicial.",
+      "Repite del otro lado.",
+      "Continúa alternando lados durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, руки на бедрах.",
+      "Перенесите вес тела на одну ногу и поднимите противоположную ногу в сторону, сохраняя ее прямой.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите ногу обратно в исходное положение.",
+      "Повторите с другой стороны.",
+      "Продолжайте чередовать стороны желаемое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，双手放在臀部。",
+      "将重心转移到一条腿上，并将另一条腿向一侧抬起，保持伸直。",
+      "在顶部暂停片刻，然后慢慢将腿放回起始位置。",
+      "在另一侧重复。",
+      "继续交替进行所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर और अपने हाथों को अपने कूल्हों पर रखकर खड़े हो जाएं।",
+      "अपना वजन एक पैर पर डालें और दूसरे पैर को सीधा रखते हुए बगल की तरफ उठाएं।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने पैर को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दूसरी तरफ दोहराएं।",
+      "दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków, z rękami na biodrach.",
+      "Przenieś ciężar ciała na jedną nogę i unieś przeciwną nogę na bok, trzymając ją prosto.",
+      "Zatrzymaj się na chwilę na górze, a następnie powoli opuść nogę z powrotem do pozycji wyjściowej.",
+      "Powtórz po drugiej stronie.",
+      "Kontynuuj naprzemienne wykonywanie ruchu przez zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨너비로 벌리고 손을 엉덩이에 올려놓고 서세요.",
+      "한쪽 다리로 체중을 이동하고 다른 쪽 다리를 옆으로 들어 올립니다. 다리는 펴진 상태로 유지합니다.",
+      "위쪽에서 잠깐 멈춘 후 다리를 천천히 시작 위치로 내립니다.",
+      "반대쪽에서 반복합니다.",
+      "원하는 반복 횟수만큼 양쪽을 번갈아 진행합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et les mains sur les hanches.",
+      "Reporte ton poids sur une jambe et lève la jambe opposée sur le côté, en la gardant tendue.",
+      "Marque une pause en haut, puis abaisse lentement ta jambe pour revenir à la position de départ.",
+      "Répète de l'autre côté.",
+      "Continue à alterner les côtés pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "glutes",
+  "secondary_muscles": [
+    "glutes",
+    "quadriceps"
+  ],
+  "target": "abductors",
+  "image": "images/0710-7WaDzyL.jpg",
+  "gif_url": "videos/0710-7WaDzyL.gif",
+  "media_id": "7WaDzyL",
+  "created_at": "2026-03-18T12:31:32.889765+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

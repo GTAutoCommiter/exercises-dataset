@@ -1,0 +1,123 @@
+{
+  "id": "0609",
+  "name": "london bridge",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "rope",
+  "instructions": {
+    "en": "Attach the rope to a high anchor point. Stand facing away from the anchor point with your feet shoulder-width apart. Grasp the rope with an overhand grip, palms facing down. Lean forward slightly, keeping your back straight and core engaged. Pull the rope towards your body, squeezing your shoulder blades together. Pause for a moment at the peak of the movement, then slowly release the tension and return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Attaccare la corda a un punto di ancoraggio alto. Stai di fronte al punto di ancoraggio con i piedi alla larghezza delle spalle. Afferrare la corda con una presa prona, i palmi rivolti verso il basso. Inclinati leggermente in avanti, mantenendo la schiena dritta e il core impegnato. Tira la corda verso il tuo corpo, stringendo insieme le scapole. Fermati per un momento al culmine del movimento, quindi rilascia lentamente la tensione e ritorna alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Halatı yüksek bir bağlantı noktasına bağlayın. Ayaklarınız omuz genişliğinde açık olacak şekilde, bağlantı noktasından uzağa bakacak şekilde durun. Halatı avuç içleriniz aşağıya bakacak şekilde üstten kavrayın. Hafifçe öne doğru eğilin, sırtınızı düz ve göbek bölgenizi meşgul tutun. İpi vücudunuza doğru çekin ve kürek kemiklerinizi birbirine sıkıştırın. Hareketin zirvesinde bir an duraklayın, ardından yavaş yavaş gerilimi bırakın ve başlangıç ​​pozisyonuna dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Sujeta la cuerda a un punto de anclaje alto. Ponte de pie de espaldas al punto de anclaje con los pies separados a la altura de los hombros. Agarra la cuerda con un agarre prono, con las palmas hacia abajo. Inclínate ligeramente hacia adelante, manteniendo la espalda recta y el core activado. Tira de la cuerda hacia tu cuerpo, juntando las escápulas. Haz una pausa por un momento en el punto más alto del movimiento, luego libera lentamente la tensión y regresa a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Прикрепите веревку к высокой точке крепления. Встаньте лицом от точки крепления, поставив ноги на ширине плеч. Возьмите веревку прямым хватом ладонями вниз. Слегка наклонитесь вперед, сохраняя спину прямой и напряженным корпусом. Потяните веревку к себе, сжимая лопатки вместе. Задержитесь на мгновение на пике движения, затем медленно ослабьте напряжение и вернитесь в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "将绳子连接到高锚点。 背对锚点站立，双脚与肩同宽。 正手握住绳子，手掌朝下。 稍微向前倾，保持背部挺直，核心参与。 将绳子拉向身体，将肩胛骨挤压在一起。 在动作的最高点停顿片刻，然后慢慢释放张力，回到起始位置。 重复所需的重复次数。",
+    "hi": "रस्सी को ऊँचे लंगर बिंदु से जोड़ दें। अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए एंकर पॉइंट से दूर की ओर मुंह करके खड़े हो जाएं। रस्सी को हाथ से पकड़ें, हथेलियाँ नीचे की ओर हों। अपनी पीठ सीधी और कोर व्यस्त रखते हुए थोड़ा आगे झुकें। अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए रस्सी को अपने शरीर की ओर खींचें। गति के चरम पर एक पल के लिए रुकें, फिर धीरे-धीरे तनाव छोड़ें और प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Przymocuj linkę do wysokiego punktu mocowania. Stań tyłem do punktu mocowania, stopy na szerokość barków. Chwyć linkę nachwytem, dłonie skierowane w dół. Pochyl się lekko do przodu, trzymając plecy proste i napięte mięśnie tułowia. Przyciągnij linkę w kierunku ciała, ściągając łopatki. Zatrzymaj się na chwilę w szczytowym punkcie ruchu, a następnie powoli zwolnij napięcie i wróć do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "로프를 높은 고정점에 부착합니다. 고정점을 향해 등을 하고 어깨너비로 발을 벌려 섭니다. 손바닥을 아래로 향하게 하여 로프를 손바닥으로 잡습니다. 약간 앞으로 기울이되 등을 펴고 복부에 힘을 주고 유지합니다. 로프를 몸 쪽으로 당기면서 견갑골을 조입니다. 동작의 최상단에서 잠시 멈춘 후 천천히 긴장을 이완하고 시작 위치로 돌아옵니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Fixe la corde à un point d'ancrage haut. Tiens-toi dos au point d'ancrage, les pieds écartés à la largeur des épaules. Saisis la corde avec une prise en pronation, les paumes tournées vers le bas. Penche-toi légèrement en avant, en gardant le dos droit et la sangle abdominale gainée. Tire la corde vers ton corps en contractant tes omoplates l'une vers l'autre. Marque une pause au sommet du mouvement, puis relâche lentement la tension et reviens à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Attach the rope to a high anchor point.",
+      "Stand facing away from the anchor point with your feet shoulder-width apart.",
+      "Grasp the rope with an overhand grip, palms facing down.",
+      "Lean forward slightly, keeping your back straight and core engaged.",
+      "Pull the rope towards your body, squeezing your shoulder blades together.",
+      "Pause for a moment at the peak of the movement, then slowly release the tension and return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Attaccare la corda a un punto di ancoraggio alto.",
+      "Stai di fronte al punto di ancoraggio con i piedi alla larghezza delle spalle.",
+      "Afferrare la corda con una presa prona, i palmi rivolti verso il basso.",
+      "Inclinati leggermente in avanti, mantenendo la schiena dritta e il core impegnato.",
+      "Tira la corda verso il tuo corpo, stringendo insieme le scapole.",
+      "Fermati per un momento al culmine del movimento, quindi rilascia lentamente la tensione e ritorna alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Halatı yüksek bir bağlantı noktasına bağlayın.",
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde, bağlantı noktasından uzağa bakacak şekilde durun.",
+      "Halatı avuç içleriniz aşağıya bakacak şekilde üstten kavrayın.",
+      "Hafifçe öne doğru eğilin, sırtınızı düz ve göbek bölgenizi meşgul tutun.",
+      "İpi vücudunuza doğru çekin ve kürek kemiklerinizi birbirine sıkıştırın.",
+      "Hareketin zirvesinde bir an duraklayın, ardından yavaş yavaş gerilimi bırakın ve başlangıç ​​pozisyonuna dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Sujeta la cuerda a un punto de anclaje alto.",
+      "Ponte de pie de espaldas al punto de anclaje con los pies separados a la altura de los hombros.",
+      "Agarra la cuerda con un agarre prono, con las palmas hacia abajo.",
+      "Inclínate ligeramente hacia adelante, manteniendo la espalda recta y el core activado.",
+      "Tira de la cuerda hacia tu cuerpo, juntando las escápulas.",
+      "Haz una pausa por un momento en el punto más alto del movimiento, luego libera lentamente la tensión y regresa a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Прикрепите веревку к высокой точке крепления.",
+      "Встаньте лицом от точки крепления, поставив ноги на ширине плеч.",
+      "Возьмите веревку прямым хватом ладонями вниз.",
+      "Слегка наклонитесь вперед, сохраняя спину прямой и напряженным корпусом.",
+      "Потяните веревку к себе, сжимая лопатки вместе.",
+      "Задержитесь на мгновение на пике движения, затем медленно ослабьте напряжение и вернитесь в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将绳子连接到高锚点。",
+      "背对锚点站立，双脚与肩同宽。",
+      "正手握住绳子，手掌朝下。",
+      "稍微向前倾，保持背部挺直，核心参与。",
+      "将绳子拉向身体，将肩胛骨挤压在一起。",
+      "在动作的最高点停顿片刻，然后慢慢释放张力，回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "रस्सी को ऊँचे लंगर बिंदु से जोड़ दें।",
+      "अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए एंकर पॉइंट से दूर की ओर मुंह करके खड़े हो जाएं।",
+      "रस्सी को हाथ से पकड़ें, हथेलियाँ नीचे की ओर हों।",
+      "अपनी पीठ सीधी और कोर व्यस्त रखते हुए थोड़ा आगे झुकें।",
+      "अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए रस्सी को अपने शरीर की ओर खींचें।",
+      "गति के चरम पर एक पल के लिए रुकें, फिर धीरे-धीरे तनाव छोड़ें और प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Przymocuj linkę do wysokiego punktu mocowania.",
+      "Stań tyłem do punktu mocowania, stopy na szerokość barków.",
+      "Chwyć linkę nachwytem, dłonie skierowane w dół.",
+      "Pochyl się lekko do przodu, trzymając plecy proste i napięte mięśnie tułowia.",
+      "Przyciągnij linkę w kierunku ciała, ściągając łopatki.",
+      "Zatrzymaj się na chwilę w szczytowym punkcie ruchu, a następnie powoli zwolnij napięcie i wróć do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "로프를 높은 고정점에 부착합니다.",
+      "고정점을 향해 등을 하고 어깨너비로 발을 벌려 섭니다.",
+      "손바닥을 아래로 향하게 하여 로프를 손바닥으로 잡습니다.",
+      "약간 앞으로 기울이되 등을 펴고 복부에 힘을 주고 유지합니다.",
+      "로프를 몸 쪽으로 당기면서 견갑골을 조입니다.",
+      "동작의 최상단에서 잠시 멈춘 후 천천히 긴장을 이완하고 시작 위치로 돌아옵니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Fixe la corde à un point d'ancrage haut.",
+      "Tiens-toi dos au point d'ancrage, les pieds écartés à la largeur des épaules.",
+      "Saisis la corde avec une prise en pronation, les paumes tournées vers le bas.",
+      "Penche-toi légèrement en avant, en gardant le dos droit et la sangle abdominale gainée.",
+      "Tire la corde vers ton corps en contractant tes omoplates l'une vers l'autre.",
+      "Marque une pause au sommet du mouvement, puis relâche lentement la tension et reviens à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "biceps",
+    "forearms"
+  ],
+  "target": "upper back",
+  "image": "images/0609-bLyQokI.jpg",
+  "gif_url": "videos/0609-bLyQokI.gif",
+  "media_id": "bLyQokI",
+  "created_at": "2026-03-18T12:31:32.887347+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

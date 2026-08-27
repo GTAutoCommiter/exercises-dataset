@@ -1,0 +1,102 @@
+{
+  "id": "1753",
+  "name": "three bench dip",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Sit on a bench with your hands gripping the edge, fingers pointing forward. Slide your butt off the bench, supporting your weight with your hands. Bend your elbows and lower your body until your upper arms are parallel to the ground. Push yourself back up to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Sedersi su una panca con le mani che afferrano il bordo e le dita rivolte in avanti. Fai scivolare il sedere fuori dalla panca, sostenendo il peso con le mani. Piega i gomiti e abbassa il corpo finché la parte superiore delle braccia non è parallela al suolo. Spingiti indietro fino alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Elleriniz kenarını kavrayarak, parmaklarınız ileriyi gösterecek şekilde bir bankta oturun. Ağırlığınızı ellerinizle destekleyerek kıçınızı benchten kaydırın. Dirseklerinizi bükün ve üst kollarınız yere paralel oluncaya kadar vücudunuzu indirin. Kendinizi başlangıç ​​pozisyonuna geri itin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Siéntate en un banco con las manos agarrando el borde, los dedos apuntando hacia adelante. Desliza los glúteos fuera del banco, sosteniendo tu peso con las manos. Flexiona los codos y baja el cuerpo hasta que la parte superior de los brazos quede paralela al suelo. Empújate de vuelta hacia arriba hasta la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Сядьте на скамью, взявшись руками за край, пальцами вперед. Сдвиньте ягодицы со скамьи, поддерживая вес руками. Согните локти и опустите тело до тех пор, пока плечи не станут параллельны земле. Вернитесь в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "坐在长凳上，双手抓住边缘，手指指向前方。 将臀部滑离长凳，用手支撑体重。 弯曲肘部并降低身体，直到上臂与地面平行。 将自己推回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने हाथों से किनारे को पकड़कर, उँगलियाँ आगे की ओर करके बेंच पर बैठें। अपने हाथों से अपने वजन को सहारा देते हुए, अपने बट को बेंच से स्लाइड करें। अपनी कोहनियों को मोड़ें और अपने शरीर को तब तक नीचे करें जब तक कि आपकी ऊपरी भुजाएं जमीन के समानांतर न हो जाएं। अपने आप को वापस प्रारंभिक स्थिति में धकेलें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Usiądź na ławce, trzymając dłońmi jej krawędź, palcami skierowanymi do przodu. Zsuń pośladki z ławki, podpierając ciężar ciała dłońmi. Ugnij łokcie i opuść ciało, aż ramiona będą równoległe do podłoża. Wypchnij się z powrotem do pozycji wyjściowej. Powtórz zgodnie z żądaną liczbą powtórzeń.",
+    "ko": "벤치 위에 앉아 가장자리를 손으로 잡고 손가락은 앞을 향하게 합니다. 엉덩이를 벤치에서 미끄러뜨려 손으로 체중을 지탱합니다. 팔꿈치를 구부려 몸을 내립니다. 위팔이 땅과 평행해질 때까지 내립니다. 자신을 밀어 시작 위치로 돌아옵니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Assieds-toi sur un banc, les mains agrippant le bord, doigts pointant vers l'avant. Fais glisser tes fesses hors du banc, en soutenant ton poids avec tes mains. Plie tes coudes et abaisse ton corps jusqu'à ce que le haut de tes bras soit parallèle au sol. Repousse-toi vers le haut jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on a bench with your hands gripping the edge, fingers pointing forward.",
+      "Slide your butt off the bench, supporting your weight with your hands.",
+      "Bend your elbows and lower your body until your upper arms are parallel to the ground.",
+      "Push yourself back up to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Sedersi su una panca con le mani che afferrano il bordo e le dita rivolte in avanti.",
+      "Fai scivolare il sedere fuori dalla panca, sostenendo il peso con le mani.",
+      "Piega i gomiti e abbassa il corpo finché la parte superiore delle braccia non è parallela al suolo.",
+      "Spingiti indietro fino alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Elleriniz kenarını kavrayarak, parmaklarınız ileriyi gösterecek şekilde bir bankta oturun.",
+      "Ağırlığınızı ellerinizle destekleyerek kıçınızı benchten kaydırın.",
+      "Dirseklerinizi bükün ve üst kollarınız yere paralel oluncaya kadar vücudunuzu indirin.",
+      "Kendinizi başlangıç ​​pozisyonuna geri itin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Siéntate en un banco con las manos agarrando el borde, los dedos apuntando hacia adelante.",
+      "Desliza los glúteos fuera del banco, sosteniendo tu peso con las manos.",
+      "Flexiona los codos y baja el cuerpo hasta que la parte superior de los brazos quede paralela al suelo.",
+      "Empújate de vuelta hacia arriba hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на скамью, взявшись руками за край, пальцами вперед.",
+      "Сдвиньте ягодицы со скамьи, поддерживая вес руками.",
+      "Согните локти и опустите тело до тех пор, пока плечи не станут параллельны земле.",
+      "Вернитесь в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "坐在长凳上，双手抓住边缘，手指指向前方。",
+      "将臀部滑离长凳，用手支撑体重。",
+      "弯曲肘部并降低身体，直到上臂与地面平行。",
+      "将自己推回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने हाथों से किनारे को पकड़कर, उँगलियाँ आगे की ओर करके बेंच पर बैठें।",
+      "अपने हाथों से अपने वजन को सहारा देते हुए, अपने बट को बेंच से स्लाइड करें।",
+      "अपनी कोहनियों को मोड़ें और अपने शरीर को तब तक नीचे करें जब तक कि आपकी ऊपरी भुजाएं जमीन के समानांतर न हो जाएं।",
+      "अपने आप को वापस प्रारंभिक स्थिति में धकेलें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Usiądź na ławce, trzymając dłońmi jej krawędź, palcami skierowanymi do przodu.",
+      "Zsuń pośladki z ławki, podpierając ciężar ciała dłońmi.",
+      "Ugnij łokcie i opuść ciało, aż ramiona będą równoległe do podłoża.",
+      "Wypchnij się z powrotem do pozycji wyjściowej.",
+      "Powtórz zgodnie z żądaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "벤치 위에 앉아 가장자리를 손으로 잡고 손가락은 앞을 향하게 합니다.",
+      "엉덩이를 벤치에서 미끄러뜨려 손으로 체중을 지탱합니다.",
+      "팔꿈치를 구부려 몸을 내립니다. 위팔이 땅과 평행해질 때까지 내립니다.",
+      "자신을 밀어 시작 위치로 돌아옵니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Assieds-toi sur un banc, les mains agrippant le bord, doigts pointant vers l'avant.",
+      "Fais glisser tes fesses hors du banc, en soutenant ton poids avec tes mains.",
+      "Plie tes coudes et abaisse ton corps jusqu'à ce que le haut de tes bras soit parallèle au sol.",
+      "Repousse-toi vers le haut jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "chest",
+  "secondary_muscles": [
+    "chest",
+    "shoulders"
+  ],
+  "target": "triceps",
+  "image": "images/1753-DQ0cqkT.jpg",
+  "gif_url": "videos/1753-DQ0cqkT.gif",
+  "media_id": "DQ0cqkT",
+  "created_at": "2026-03-18T12:31:32.905212+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

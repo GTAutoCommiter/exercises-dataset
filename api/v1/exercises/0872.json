@@ -1,0 +1,101 @@
+{
+  "id": "0872",
+  "name": "reverse crunch",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Lie flat on your back with your arms extended along your sides. Bend your knees and lift your feet off the ground, bringing your thighs perpendicular to the floor. Contract your abs and curl your hips off the floor, bringing your knees towards your chest. Pause for a moment at the top, then slowly lower your hips back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Sdraiati sulla schiena con le braccia distese lungo i fianchi. Piega le ginocchia e solleva i piedi da terra, portando le cosce perpendicolari al pavimento. Contrai gli addominali e solleva i fianchi dal pavimento, portando le ginocchia verso il petto. Fai una pausa per un momento in alto, quindi abbassa lentamente i fianchi fino alla posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Kollarınız yanlarınız boyunca uzatılmış halde sırtüstü düz bir şekilde uzanın. Dizlerinizi bükün ve ayaklarınızı yerden kaldırın, uyluklarınızı yere dik olarak getirin. Karın kaslarınızı kasın ve kalçalarınızı yerden kaldırarak dizlerinizi göğsünüze doğru çekin. Tepe noktasında bir an duraklayın, ardından kalçalarınızı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Túmbate boca arriba con los brazos extendidos a los lados del cuerpo. Flexiona las rodillas y levanta los pies del suelo, llevando los muslos perpendiculares al suelo. Contrae el abdomen y eleva las caderas del suelo, llevando las rodillas hacia el pecho. Haz una pausa por un momento en la parte superior, luego baja lentamente las caderas de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Лягте на спину, вытянув руки по бокам. Согните ноги в коленях и оторвите ступни от земли, приведя бедра перпендикулярно полу. Напрягите пресс и оторвите бедра от пола, подтягивая колени к груди. Задержитесь на мгновение в верхней точке, затем медленно опустите бедра обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "平躺，双臂沿着身体两侧伸展。 弯曲膝盖，将脚抬离地面，使大腿垂直于地板。 收缩腹肌，将臀部卷离地板，使膝盖靠近胸部。 在顶部暂停片刻，然后慢慢将臀部放回起始位置。 重复所需的重复次数。",
+    "hi": "अपनी पीठ के बल सीधे लेट जाएँ और अपनी भुजाएँ बगल में फैलाएँ। अपने घुटनों को मोड़ें और अपने पैरों को जमीन से ऊपर उठाएं, अपनी जांघों को फर्श पर सीधा लाएं। अपने पेट को सिकोड़ें और अपने कूल्हों को फर्श से मोड़ें, अपने घुटनों को अपनी छाती की ओर लाएँ। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने कूल्हों को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Połóż się płasko na plecach z rękami wyprostowanymi wzdłuż tułowia. Ugnij kolana i unieś stopy nad podłogę, ustawiając uda prostopadle do podłogi. Napnij mięśnie brzucha i unieś biodra znad podłogi, przyciągając kolana do klatki piersiowej. Zatrzymaj się na chwilę na górze, a następnie powoli opuść biodra z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę razy.",
+    "ko": "팔을 양옆으로 펼친 상태로 등을 바닥에 대고 누웁니다. 무릎을 구부리고 발을 바닥에서 떼면서 허벅지가 바닥에 수직이 되게 합니다. 복부에 힘을 주고 골반을 바닥에서 들어올리면서 무릎을 가슴 쪽으로 모아냅니다. 최상단에서 순간 멈춘 후 천천히 골반을 시작 위치로 낮춥니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Allonge-toi sur le dos, les bras tendus le long du corps. Fléchis les genoux et décolle les pieds du sol en amenant tes cuisses perpendiculaires au sol. Contracte tes abdominaux et enroule tes hanches en les décollant du sol, en ramenant tes genoux vers ta poitrine. Marque une pause en haut, puis abaisse lentement tes hanches pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Lie flat on your back with your arms extended along your sides.",
+      "Bend your knees and lift your feet off the ground, bringing your thighs perpendicular to the floor.",
+      "Contract your abs and curl your hips off the floor, bringing your knees towards your chest.",
+      "Pause for a moment at the top, then slowly lower your hips back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Sdraiati sulla schiena con le braccia distese lungo i fianchi.",
+      "Piega le ginocchia e solleva i piedi da terra, portando le cosce perpendicolari al pavimento.",
+      "Contrai gli addominali e solleva i fianchi dal pavimento, portando le ginocchia verso il petto.",
+      "Fai una pausa per un momento in alto, quindi abbassa lentamente i fianchi fino alla posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Kollarınız yanlarınız boyunca uzatılmış halde sırtüstü düz bir şekilde uzanın.",
+      "Dizlerinizi bükün ve ayaklarınızı yerden kaldırın, uyluklarınızı yere dik olarak getirin.",
+      "Karın kaslarınızı kasın ve kalçalarınızı yerden kaldırarak dizlerinizi göğsünüze doğru çekin.",
+      "Tepe noktasında bir an duraklayın, ardından kalçalarınızı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Túmbate boca arriba con los brazos extendidos a los lados del cuerpo.",
+      "Flexiona las rodillas y levanta los pies del suelo, llevando los muslos perpendiculares al suelo.",
+      "Contrae el abdomen y eleva las caderas del suelo, llevando las rodillas hacia el pecho.",
+      "Haz una pausa por un momento en la parte superior, luego baja lentamente las caderas de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Лягте на спину, вытянув руки по бокам.",
+      "Согните ноги в коленях и оторвите ступни от земли, приведя бедра перпендикулярно полу.",
+      "Напрягите пресс и оторвите бедра от пола, подтягивая колени к груди.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите бедра обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "平躺，双臂沿着身体两侧伸展。",
+      "弯曲膝盖，将脚抬离地面，使大腿垂直于地板。",
+      "收缩腹肌，将臀部卷离地板，使膝盖靠近胸部。",
+      "在顶部暂停片刻，然后慢慢将臀部放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपनी पीठ के बल सीधे लेट जाएँ और अपनी भुजाएँ बगल में फैलाएँ।",
+      "अपने घुटनों को मोड़ें और अपने पैरों को जमीन से ऊपर उठाएं, अपनी जांघों को फर्श पर सीधा लाएं।",
+      "अपने पेट को सिकोड़ें और अपने कूल्हों को फर्श से मोड़ें, अपने घुटनों को अपनी छाती की ओर लाएँ।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने कूल्हों को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Połóż się płasko na plecach z rękami wyprostowanymi wzdłuż tułowia.",
+      "Ugnij kolana i unieś stopy nad podłogę, ustawiając uda prostopadle do podłogi.",
+      "Napnij mięśnie brzucha i unieś biodra znad podłogi, przyciągając kolana do klatki piersiowej.",
+      "Zatrzymaj się na chwilę na górze, a następnie powoli opuść biodra z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "팔을 양옆으로 펼친 상태로 등을 바닥에 대고 누웁니다.",
+      "무릎을 구부리고 발을 바닥에서 떼면서 허벅지가 바닥에 수직이 되게 합니다.",
+      "복부에 힘을 주고 골반을 바닥에서 들어올리면서 무릎을 가슴 쪽으로 모아냅니다.",
+      "최상단에서 순간 멈춘 후 천천히 골반을 시작 위치로 낮춥니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Allonge-toi sur le dos, les bras tendus le long du corps.",
+      "Fléchis les genoux et décolle les pieds du sol en amenant tes cuisses perpendiculaires au sol.",
+      "Contracte tes abdominaux et enroule tes hanches en les décollant du sol, en ramenant tes genoux vers ta poitrine.",
+      "Marque une pause en haut, puis abaisse lentement tes hanches pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hip flexors",
+  "secondary_muscles": [
+    "hip flexors"
+  ],
+  "target": "abs",
+  "image": "images/0872-nCU1Ekp.jpg",
+  "gif_url": "videos/0872-nCU1Ekp.gif",
+  "media_id": "nCU1Ekp",
+  "created_at": "2026-03-18T12:31:32.888959+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,92 @@
+{
+  "id": "1459",
+  "name": "dumbbell romanian deadlift",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand with an overhand grip. Keeping your back straight and your core engaged, hinge at the hips and lower the dumbbells towards the ground, allowing your knees to bend slightly. Lower the dumbbells until you feel a stretch in your hamstrings, then push through your heels and engage your glutes to return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi a larghezza delle spalle, tenendo un manubrio in ogni mano con una presa sopra la testa. Tenendo la schiena dritta e il core attivo, incurvati ai fianchi e abbassa i manubri verso terra, permettendo alle ginocchia di piegarsi leggermente. Abbassa i manubri finché non senti uno stiramento ai muscoli femorale, poi spingi attraverso i talloni e attiva i glutei per tornare alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınızı omuz genişliğinde açın, her iki elinizde de birer dambıl tutun ve üstten kavrayın. Sırtınızı düz ve merkez bölgenizi meşgul tutarak, kalçalarınıza yaslanın ve dambılları yere doğru indirerek dizlerinizin hafifçe bükülmesine izin verin. Diz arkası kirişlerinizde bir gerginlik hissedene kadar dambılları indirin, ardından topuklarınızı itin ve başlangıç ​​pozisyonuna dönmek için kalça kaslarınızı çalıştırın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros, sujetando una mancuerna en cada mano con un agarre prono. Manteniendo la espalda recta y el core activado, inclínate desde las caderas y baja las mancuernas hacia el suelo, permitiendo que las rodillas se flexionen ligeramente. Baja las mancuernas hasta sentir un estiramiento en los isquiotibiales, luego empuja con los talones y activa los glúteos para volver a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, держите по гантели в каждой руке хватом сверху. Удерживая спину прямой, а корпус напряженным, наклонитесь в бедрах и опустите гантели к земле, слегка согнув колени. Опускайте гантели до тех пор, пока не почувствуете растяжение подколенных сухожилий, затем надавите на пятки и задействуйте ягодицы, чтобы вернуться в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，双手各握一个哑铃，正握。 保持背部挺直，核心收紧，以臀部为铰链，将哑铃向地面降低，让膝盖稍微弯曲。 降低哑铃，直到感觉到腿筋拉伸，然后推动脚后跟并收紧臀肌，回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, प्रत्येक हाथ में डंबल को ओवरहैंड पकड़ के साथ पकड़ें। अपनी पीठ को सीधा और अपने कोर को व्यस्त रखते हुए, कूल्हों पर टिकाएं और डम्बल को जमीन की ओर झुकाएं, जिससे आपके घुटने थोड़े मुड़ जाएं। जब तक आप अपनी हैमस्ट्रिंग में खिंचाव महसूस न करें तब तक डम्बल को नीचे रखें, फिर अपनी एड़ियों से धक्का दें और अपने ग्लूट्स को जोड़कर प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań w rozkroku na szerokość barków, trzymając w każdej dłoni hantlę chwytem nachwytem. Utrzymując proste plecy i napięty brzuch, pochyl się w biodrach i opuszczaj hantle w stronę podłogi, pozwalając kolanom lekko się ugiąć. Opuszczaj hantle, aż poczujesz rozciąganie w mięśniach dwugłowych uda, a następnie odepchnij się piętami i napnij pośladki, aby wrócić do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "어깨너비로 발을 벌리고 각 손에 덤벨을 들되 오버핸드 그립으로 잡는다. 등을 곧게 유지하고 복부에 힘을 준 채 엉덩이에서 몸을 구부려 덤벨을 땅 쪽으로 낮춘다. 무릎이 약간 구부러지도록 허용한다. 햄스트링에서 스트레칭을 느낄 때까지 덤벨을 낮춘 후 발뒤꿈치를 통해 힘을 주고 둔근을 수축시켜 시작 위치로 돌아온다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un haltère dans chaque main en prise pronation. En gardant le dos droit et ta sangle abdominale gainée, bascule au niveau des hanches et abaisse les haltères vers le sol, en laissant tes genoux se fléchir légèrement. Abaisse les haltères jusqu'à ce que tu ressentes un étirement dans tes ischio-jambiers, puis pousse sur tes talons et gaine tes fessiers pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart, holding a dumbbell in each hand with an overhand grip.",
+      "Keeping your back straight and your core engaged, hinge at the hips and lower the dumbbells towards the ground, allowing your knees to bend slightly.",
+      "Lower the dumbbells until you feel a stretch in your hamstrings, then push through your heels and engage your glutes to return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi a larghezza delle spalle, tenendo un manubrio in ogni mano con una presa sopra la testa.",
+      "Tenendo la schiena dritta e il core attivo, incurvati ai fianchi e abbassa i manubri verso terra, permettendo alle ginocchia di piegarsi leggermente.",
+      "Abbassa i manubri finché non senti uno stiramento ai muscoli femorale, poi spingi attraverso i talloni e attiva i glutei per tornare alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınızı omuz genişliğinde açın, her iki elinizde de birer dambıl tutun ve üstten kavrayın.",
+      "Sırtınızı düz ve merkez bölgenizi meşgul tutarak, kalçalarınıza yaslanın ve dambılları yere doğru indirerek dizlerinizin hafifçe bükülmesine izin verin.",
+      "Diz arkası kirişlerinizde bir gerginlik hissedene kadar dambılları indirin, ardından topuklarınızı itin ve başlangıç ​​pozisyonuna dönmek için kalça kaslarınızı çalıştırın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros, sujetando una mancuerna en cada mano con un agarre prono.",
+      "Manteniendo la espalda recta y el core activado, inclínate desde las caderas y baja las mancuernas hacia el suelo, permitiendo que las rodillas se flexionen ligeramente.",
+      "Baja las mancuernas hasta sentir un estiramiento en los isquiotibiales, luego empuja con los talones y activa los glúteos para volver a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, держите по гантели в каждой руке хватом сверху.",
+      "Удерживая спину прямой, а корпус напряженным, наклонитесь в бедрах и опустите гантели к земле, слегка согнув колени.",
+      "Опускайте гантели до тех пор, пока не почувствуете растяжение подколенных сухожилий, затем надавите на пятки и задействуйте ягодицы, чтобы вернуться в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，双手各握一个哑铃，正握。",
+      "保持背部挺直，核心收紧，以臀部为铰链，将哑铃向地面降低，让膝盖稍微弯曲。",
+      "降低哑铃，直到感觉到腿筋拉伸，然后推动脚后跟并收紧臀肌，回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, प्रत्येक हाथ में डंबल को ओवरहैंड पकड़ के साथ पकड़ें।",
+      "अपनी पीठ को सीधा और अपने कोर को व्यस्त रखते हुए, कूल्हों पर टिकाएं और डम्बल को जमीन की ओर झुकाएं, जिससे आपके घुटने थोड़े मुड़ जाएं।",
+      "जब तक आप अपनी हैमस्ट्रिंग में खिंचाव महसूस न करें तब तक डम्बल को नीचे रखें, फिर अपनी एड़ियों से धक्का दें और अपने ग्लूट्स को जोड़कर प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków, trzymając w każdej dłoni hantlę chwytem nachwytem.",
+      "Utrzymując proste plecy i napięty brzuch, pochyl się w biodrach i opuszczaj hantle w stronę podłogi, pozwalając kolanom lekko się ugiąć.",
+      "Opuszczaj hantle, aż poczujesz rozciąganie w mięśniach dwugłowych uda, a następnie odepchnij się piętami i napnij pośladki, aby wrócić do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "어깨너비로 발을 벌리고 각 손에 덤벨을 들되 오버핸드 그립으로 잡는다.",
+      "등을 곧게 유지하고 복부에 힘을 준 채 엉덩이에서 몸을 구부려 덤벨을 땅 쪽으로 낮춘다. 무릎이 약간 구부러지도록 허용한다.",
+      "햄스트링에서 스트레칭을 느낄 때까지 덤벨을 낮춘 후 발뒤꿈치를 통해 힘을 주고 둔근을 수축시켜 시작 위치로 돌아온다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un haltère dans chaque main en prise pronation.",
+      "En gardant le dos droit et ta sangle abdominale gainée, bascule au niveau des hanches et abaisse les haltères vers le sol, en laissant tes genoux se fléchir légèrement.",
+      "Abaisse les haltères jusqu'à ce que tu ressentes un étirement dans tes ischio-jambiers, puis pousse sur tes talons et gaine tes fessiers pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings",
+    "lower back"
+  ],
+  "target": "glutes",
+  "image": "images/1459-rR0LJzx.jpg",
+  "gif_url": "videos/1459-rR0LJzx.gif",
+  "media_id": "rR0LJzx",
+  "created_at": "2026-03-18T12:31:32.880954+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

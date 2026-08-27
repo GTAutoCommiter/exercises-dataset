@@ -1,0 +1,103 @@
+{
+  "id": "3217",
+  "name": "modified hindu push-up (male)",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Start in a push-up position with your hands slightly wider than shoulder-width apart and your feet hip-width apart. Lower your body towards the ground, bending your elbows and keeping your core engaged. As you lower your body, shift your weight back and lift your hips up towards the ceiling, creating an inverted V shape with your body. Continue to lower your body until your chest is just above the ground, then reverse the movement, pushing your hips back down and extending your arms to return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Inizia in una posizione push-up con le mani leggermente più larghe della larghezza delle spalle e i piedi alla larghezza dei fianchi. Abbassa il corpo verso terra, piegando i gomiti e mantenendo il core impegnato. Mentre abbassi il corpo, sposta il peso indietro e solleva i fianchi verso il soffitto, creando una forma a V rovesciata con il tuo corpo. Continua ad abbassare il corpo finché il petto non si trova appena sopra il suolo, quindi inverti il ​​movimento, spingendo i fianchi verso il basso ed estendendo le braccia per tornare alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Elleriniz omuz genişliğinden biraz daha açık ve ayaklarınız kalça genişliğinde açık olacak şekilde şınav pozisyonuna başlayın. Vücudunuzu yere doğru indirin, dirseklerinizi bükün ve merkez bölgenizi meşgul tutun. Vücudunuzu indirirken ağırlığınızı geriye verin ve kalçalarınızı tavana doğru kaldırarak vücudunuzla ters bir V şekli oluşturun. Göğsünüz yerden hemen yukarı çıkana kadar vücudunuzu indirmeye devam edin, ardından hareketi tersine çevirerek kalçalarınızı geriye doğru itin ve başlangıç ​​pozisyonuna dönmek için kollarınızı uzatın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Comienza en posición de flexión con las manos un poco más separadas que la anchura de los hombros y los pies separados a la altura de las caderas. Baja el cuerpo hacia el suelo, flexionando los codos y manteniendo el core activado. Mientras bajas el cuerpo, desplaza el peso hacia atrás y eleva las caderas hacia el techo, formando una V invertida con tu cuerpo. Sigue bajando el cuerpo hasta que el pecho quede justo por encima del suelo y luego invierte el movimiento, empujando las caderas hacia abajo y extendiendo los brazos para volver a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Начните с позиции для отжиманий, поставив руки чуть шире ширины плеч и ноги на ширине плеч. Опустите тело к земле, сгибая локти и сохраняя корпус напряженным. Опуская тело, перенесите вес назад и поднимите бедра вверх к потолку, создавая своим телом перевернутую V-образную форму. Продолжайте опускать тело до тех пор, пока грудь не окажется чуть выше земли, затем поменяйте направление движения, отталкивая бедра вниз и вытягивая руки, чтобы вернуться в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "从俯卧撑位置开始，双手分开略宽于肩宽，双脚分开与臀部同宽。 将身体向地面降低，弯曲肘部并保持核心参与。 当你降低身体时，将你的重心向后转移，并将臀部向上抬向天花板，与你的身体形成一个倒V形。 继续降低身体，直到胸部刚好高于地面，然后反向运动，将臀部向下推，并伸展手臂回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने हाथों को कंधे की चौड़ाई से थोड़ा चौड़ा और अपने पैरों को कूल्हे की चौड़ाई से थोड़ा अलग रखते हुए पुश-अप स्थिति से शुरुआत करें। अपने शरीर को ज़मीन की ओर नीचे करें, अपनी कोहनियों को मोड़ें और अपने कोर को व्यस्त रखें। जैसे ही आप अपने शरीर को नीचे लाते हैं, अपना वजन पीछे ले जाएं और अपने कूल्हों को छत की ओर ऊपर उठाएं, जिससे आपके शरीर के साथ एक उलटा वी आकार बन जाए। अपने शरीर को तब तक नीचे झुकाते रहें जब तक कि आपकी छाती ज़मीन के ठीक ऊपर न आ जाए, फिर गति को उलट दें, अपने कूल्हों को पीछे की ओर धकेलें और अपनी बाहों को फैलाकर प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Zacznij w pozycji pompki, dłonie ustawione nieco szerzej niż na szerokość barków, a stopy na szerokość bioder. Opuść ciało w kierunku podłogi, uginając łokcie i napinając mięśnie tułowia. Podczas obniżania ciała przesuń ciężar do tyłu i unieś biodra w kierunku sufitu, tworząc ciałem odwrócony kształt litery V. Kontynuuj obniżanie ciała, aż klatka piersiowa znajdzie się tuż nad podłogą, a następnie odwróć ruch, przesuwając biodra w dół i prostując ramiona, aby wrócić do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "푸시업 자세에서 손을 어깨 너비보다 약간 넓게 놓고 발을 엉덩이 너비로 벌립니다. 팘을 구부려 몸을 땅을 향해 낮추고 코어에 힘을 줍니다. 몸을 내리면서 무게를 뒤로 이동하고 엉덩이를 천장을 향해 들어올려 역 V자 모양을 만듭니다. 가슴이 거의 땅에 닿을 때까지 계속 몸을 낮추고, 그 다음 반대 동작을 해서 엉덩이를 아래로 누르고 팔을 펴서 처음 위치로 돌아옵니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Commence en position de pompe, les mains un peu plus écartées que la largeur des épaules et les pieds écartés à la largeur des hanches. Abaisse ton corps vers le sol, en fléchissant les coudes et en gardant ta sangle abdominale gainée. En abaissant ton corps, déplace ton poids vers l'arrière et soulève tes hanches vers le plafond, créant un V inversé avec ton corps. Continue à abaisser ton corps jusqu'à ce que ta poitrine soit juste au-dessus du sol, puis inverse le mouvement en repoussant tes hanches vers le bas et en étendant tes bras pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start in a push-up position with your hands slightly wider than shoulder-width apart and your feet hip-width apart.",
+      "Lower your body towards the ground, bending your elbows and keeping your core engaged.",
+      "As you lower your body, shift your weight back and lift your hips up towards the ceiling, creating an inverted V shape with your body.",
+      "Continue to lower your body until your chest is just above the ground, then reverse the movement, pushing your hips back down and extending your arms to return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia in una posizione push-up con le mani leggermente più larghe della larghezza delle spalle e i piedi alla larghezza dei fianchi.",
+      "Abbassa il corpo verso terra, piegando i gomiti e mantenendo il core impegnato.",
+      "Mentre abbassi il corpo, sposta il peso indietro e solleva i fianchi verso il soffitto, creando una forma a V rovesciata con il tuo corpo.",
+      "Continua ad abbassare il corpo finché il petto non si trova appena sopra il suolo, quindi inverti il ​​movimento, spingendo i fianchi verso il basso ed estendendo le braccia per tornare alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Elleriniz omuz genişliğinden biraz daha açık ve ayaklarınız kalça genişliğinde açık olacak şekilde şınav pozisyonuna başlayın.",
+      "Vücudunuzu yere doğru indirin, dirseklerinizi bükün ve merkez bölgenizi meşgul tutun.",
+      "Vücudunuzu indirirken ağırlığınızı geriye verin ve kalçalarınızı tavana doğru kaldırarak vücudunuzla ters bir V şekli oluşturun.",
+      "Göğsünüz yerden hemen yukarı çıkana kadar vücudunuzu indirmeye devam edin, ardından hareketi tersine çevirerek kalçalarınızı geriye doğru itin ve başlangıç ​​pozisyonuna dönmek için kollarınızı uzatın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Comienza en posición de flexión con las manos un poco más separadas que la anchura de los hombros y los pies separados a la altura de las caderas.",
+      "Baja el cuerpo hacia el suelo, flexionando los codos y manteniendo el core activado.",
+      "Mientras bajas el cuerpo, desplaza el peso hacia atrás y eleva las caderas hacia el techo, formando una V invertida con tu cuerpo.",
+      "Sigue bajando el cuerpo hasta que el pecho quede justo por encima del suelo y luego invierte el movimiento, empujando las caderas hacia abajo y extendiendo los brazos para volver a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с позиции для отжиманий, поставив руки чуть шире ширины плеч и ноги на ширине плеч.",
+      "Опустите тело к земле, сгибая локти и сохраняя корпус напряженным.",
+      "Опуская тело, перенесите вес назад и поднимите бедра вверх к потолку, создавая своим телом перевернутую V-образную форму.",
+      "Продолжайте опускать тело до тех пор, пока грудь не окажется чуть выше земли, затем поменяйте направление движения, отталкивая бедра вниз и вытягивая руки, чтобы вернуться в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "从俯卧撑位置开始，双手分开略宽于肩宽，双脚分开与臀部同宽。",
+      "将身体向地面降低，弯曲肘部并保持核心参与。",
+      "当你降低身体时，将你的重心向后转移，并将臀部向上抬向天花板，与你的身体形成一个倒V形。",
+      "继续降低身体，直到胸部刚好高于地面，然后反向运动，将臀部向下推，并伸展手臂回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने हाथों को कंधे की चौड़ाई से थोड़ा चौड़ा और अपने पैरों को कूल्हे की चौड़ाई से थोड़ा अलग रखते हुए पुश-अप स्थिति से शुरुआत करें।",
+      "अपने शरीर को ज़मीन की ओर नीचे करें, अपनी कोहनियों को मोड़ें और अपने कोर को व्यस्त रखें।",
+      "जैसे ही आप अपने शरीर को नीचे लाते हैं, अपना वजन पीछे ले जाएं और अपने कूल्हों को छत की ओर ऊपर उठाएं, जिससे आपके शरीर के साथ एक उलटा वी आकार बन जाए।",
+      "अपने शरीर को तब तक नीचे झुकाते रहें जब तक कि आपकी छाती ज़मीन के ठीक ऊपर न आ जाए, फिर गति को उलट दें, अपने कूल्हों को पीछे की ओर धकेलें और अपनी बाहों को फैलाकर प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Zacznij w pozycji pompki, dłonie ustawione nieco szerzej niż na szerokość barków, a stopy na szerokość bioder.",
+      "Opuść ciało w kierunku podłogi, uginając łokcie i napinając mięśnie tułowia.",
+      "Podczas obniżania ciała przesuń ciężar do tyłu i unieś biodra w kierunku sufitu, tworząc ciałem odwrócony kształt litery V.",
+      "Kontynuuj obniżanie ciała, aż klatka piersiowa znajdzie się tuż nad podłogą, a następnie odwróć ruch, przesuwając biodra w dół i prostując ramiona, aby wrócić do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "푸시업 자세에서 손을 어깨 너비보다 약간 넓게 놓고 발을 엉덩이 너비로 벌립니다.",
+      "팘을 구부려 몸을 땅을 향해 낮추고 코어에 힘을 줍니다.",
+      "몸을 내리면서 무게를 뒤로 이동하고 엉덩이를 천장을 향해 들어올려 역 V자 모양을 만듭니다.",
+      "가슴이 거의 땅에 닿을 때까지 계속 몸을 낮추고, 그 다음 반대 동작을 해서 엉덩이를 아래로 누르고 팔을 펴서 처음 위치로 돌아옵니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Commence en position de pompe, les mains un peu plus écartées que la largeur des épaules et les pieds écartés à la largeur des hanches.",
+      "Abaisse ton corps vers le sol, en fléchissant les coudes et en gardant ta sangle abdominale gainée.",
+      "En abaissant ton corps, déplace ton poids vers l'arrière et soulève tes hanches vers le plafond, créant un V inversé avec ton corps.",
+      "Continue à abaisser ton corps jusqu'à ce que ta poitrine soit juste au-dessus du sol, puis inverse le mouvement en repoussant tes hanches vers le bas et en étendant tes bras pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "shoulders",
+    "core"
+  ],
+  "target": "pectorals",
+  "image": "images/3217-epOSYUZ.jpg",
+  "gif_url": "videos/3217-epOSYUZ.gif",
+  "media_id": "epOSYUZ",
+  "created_at": "2026-03-18T12:31:32.887723+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,103 @@
+{
+  "id": "2331",
+  "name": "cycle cross trainer",
+  "category": "cardio",
+  "body_part": "cardio",
+  "equipment": "leverage machine",
+  "instructions": {
+    "en": "Adjust the seat height and position yourself on the cycle cross trainer. Place your feet on the pedals and grip the handlebars. Start pedaling in a smooth and controlled motion. Maintain a steady pace and increase the resistance if desired. Continue pedaling for the desired duration of your cardio workout.",
+    "it": "Regola l'altezza della sella e posizionati sul ciclocross trainer. Appoggia i piedi sui pedali e stringi il manubrio. Inizia a pedalare con un movimento fluido e controllato. Mantieni un ritmo costante e aumenta la resistenza se lo desideri. Continua a pedalare per la durata desiderata del tuo allenamento cardio.",
+    "tr": "Koltuğun yüksekliğini ayarlayın ve kendinizi bisiklet cross trainer'ının üzerinde konumlandırın. Ayaklarınızı pedalların üzerine koyun ve gidonu tutun. Yumuşak ve kontrollü bir hareketle pedal çevirmeye başlayın. İstikrarlı bir tempoyu koruyun ve isterseniz direnci artırın. Kardiyo egzersizinizin istediğiniz süresi boyunca pedal çevirmeye devam edin.",
+    "es": "Ajusta la altura del asiento y colócate en la bicicleta elíptica. Coloca los pies en los pedales y sujeta el manillar. Comienza a pedalear con un movimiento suave y controlado. Mantén un ritmo constante y aumenta la resistencia si lo deseas. Continúa pedaleando durante la duración deseada de tu entrenamiento cardiovascular.",
+    "ru": "Отрегулируйте высоту сиденья и расположитесь на велотренажере. Поставьте ноги на педали и возьмитесь за руль. Начните крутить педали плавными и контролируемыми движениями. Поддерживайте устойчивый темп и при желании увеличивайте сопротивление. Продолжайте крутить педали в течение желаемой продолжительности кардио-тренировки.",
+    "zh": "调整座椅高度并将自己放在自行车交叉训练机上。 将脚放在踏板上并抓住车把。 开始以平稳且受控的动作踩踏。 保持稳定的步伐并根据需要增加阻力。 继续踩踏您的有氧运动所需的持续时间。",
+    "hi": "सीट की ऊंचाई समायोजित करें और अपने आप को साइकिल क्रॉस ट्रेनर पर रखें। अपने पैरों को पैडल पर रखें और हैंडलबार को पकड़ें। सहज और नियंत्रित गति में पैडल चलाना शुरू करें। स्थिर गति बनाए रखें और यदि चाहें तो प्रतिरोध बढ़ाएँ। अपने कार्डियो वर्कआउट की वांछित अवधि तक पैडल चलाना जारी रखें।",
+    "pl": "Wyreguluj wysokość siedziska i ustaw się na orbitreku. Umieść stopy na pedałach i chwyć uchwyty. Zacznij pedałować płynnym, kontrolowanym ruchem. Utrzymuj stałe tempo i zwiększ opór, jeśli chcesz. Kontynuuj pedałowanie przez zalecany czas trwania treningu cardio.",
+    "ko": "사이클 크로스 트레이너의 안장 높이를 조정하고 올바르게 위치합니다. 발을 페달에 올려놓고 손잡이를 잡습니다. 부드럽고 조절된 동작으로 페달을 밟기 시작합니다. 일정한 속도를 유지하고 필요시 저항을 증가시킵니다. 원하는 시간 동안 계속 페달을 밟습니다.",
+    "fr": "Règle la hauteur du siège et installe-toi sur le vélo cross trainer. Place tes pieds sur les pédales et agrippe le guidon. Commence à pédaler d'un mouvement fluide et contrôlé. Maintiens un rythme régulier et augmente la résistance si tu le souhaites. Continue à pédaler pendant la durée souhaitée de ta séance de cardio."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the seat height and position yourself on the cycle cross trainer.",
+      "Place your feet on the pedals and grip the handlebars.",
+      "Start pedaling in a smooth and controlled motion.",
+      "Maintain a steady pace and increase the resistance if desired.",
+      "Continue pedaling for the desired duration of your cardio workout."
+    ],
+    "it": [
+      "Regola l'altezza della sella e posizionati sul ciclocross trainer.",
+      "Appoggia i piedi sui pedali e stringi il manubrio.",
+      "Inizia a pedalare con un movimento fluido e controllato.",
+      "Mantieni un ritmo costante e aumenta la resistenza se lo desideri.",
+      "Continua a pedalare per la durata desiderata del tuo allenamento cardio."
+    ],
+    "tr": [
+      "Koltuğun yüksekliğini ayarlayın ve kendinizi bisiklet cross trainer'ının üzerinde konumlandırın.",
+      "Ayaklarınızı pedalların üzerine koyun ve gidonu tutun.",
+      "Yumuşak ve kontrollü bir hareketle pedal çevirmeye başlayın.",
+      "İstikrarlı bir tempoyu koruyun ve isterseniz direnci artırın.",
+      "Kardiyo egzersizinizin istediğiniz süresi boyunca pedal çevirmeye devam edin."
+    ],
+    "es": [
+      "Ajusta la altura del asiento y colócate en la bicicleta elíptica.",
+      "Coloca los pies en los pedales y sujeta el manillar.",
+      "Comienza a pedalear con un movimiento suave y controlado.",
+      "Mantén un ritmo constante y aumenta la resistencia si lo deseas.",
+      "Continúa pedaleando durante la duración deseada de tu entrenamiento cardiovascular."
+    ],
+    "ru": [
+      "Отрегулируйте высоту сиденья и расположитесь на велотренажере.",
+      "Поставьте ноги на педали и возьмитесь за руль.",
+      "Начните крутить педали плавными и контролируемыми движениями.",
+      "Поддерживайте устойчивый темп и при желании увеличивайте сопротивление.",
+      "Продолжайте крутить педали в течение желаемой продолжительности кардио-тренировки."
+    ],
+    "zh": [
+      "调整座椅高度并将自己放在自行车交叉训练机上。",
+      "将脚放在踏板上并抓住车把。",
+      "开始以平稳且受控的动作踩踏。",
+      "保持稳定的步伐并根据需要增加阻力。",
+      "继续踩踏您的有氧运动所需的持续时间。"
+    ],
+    "hi": [
+      "सीट की ऊंचाई समायोजित करें और अपने आप को साइकिल क्रॉस ट्रेनर पर रखें।",
+      "अपने पैरों को पैडल पर रखें और हैंडलबार को पकड़ें।",
+      "सहज और नियंत्रित गति में पैडल चलाना शुरू करें।",
+      "स्थिर गति बनाए रखें और यदि चाहें तो प्रतिरोध बढ़ाएँ।",
+      "अपने कार्डियो वर्कआउट की वांछित अवधि तक पैडल चलाना जारी रखें।"
+    ],
+    "pl": [
+      "Wyreguluj wysokość siedziska i ustaw się na orbitreku.",
+      "Umieść stopy na pedałach i chwyć uchwyty.",
+      "Zacznij pedałować płynnym, kontrolowanym ruchem.",
+      "Utrzymuj stałe tempo i zwiększ opór, jeśli chcesz.",
+      "Kontynuuj pedałowanie przez zalecany czas trwania treningu cardio."
+    ],
+    "ko": [
+      "사이클 크로스 트레이너의 안장 높이를 조정하고 올바르게 위치합니다.",
+      "발을 페달에 올려놓고 손잡이를 잡습니다.",
+      "부드럽고 조절된 동작으로 페달을 밟기 시작합니다.",
+      "일정한 속도를 유지하고 필요시 저항을 증가시킵니다.",
+      "원하는 시간 동안 계속 페달을 밟습니다."
+    ],
+    "fr": [
+      "Règle la hauteur du siège et installe-toi sur le vélo cross trainer.",
+      "Place tes pieds sur les pédales et agrippe le guidon.",
+      "Commence à pédaler d'un mouvement fluide et contrôlé.",
+      "Maintiens un rythme régulier et augmente la résistance si tu le souhaites.",
+      "Continue à pédaler pendant la durée souhaitée de ta séance de cardio."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "glutes"
+  ],
+  "target": "cardiovascular system",
+  "image": "images/2331-XSCHmiI.jpg",
+  "gif_url": "videos/2331-XSCHmiI.gif",
+  "media_id": "XSCHmiI",
+  "created_at": "2026-03-18T12:31:32.877347+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

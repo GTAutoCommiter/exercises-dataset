@@ -1,0 +1,882 @@
+[
+  {
+    "id": "3297",
+    "name": "back lever",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "body weight",
+    "target": "upper back",
+    "image": "images/3297-GaSzzuh.jpg",
+    "gif_url": "videos/3297-GaSzzuh.gif"
+  },
+  {
+    "id": "0988",
+    "name": "band one arm standing low row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "band",
+    "target": "upper back",
+    "image": "images/0988-km0sQC0.jpg",
+    "gif_url": "videos/0988-km0sQC0.gif"
+  },
+  {
+    "id": "0990",
+    "name": "band one arm twisting seated row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "band",
+    "target": "upper back",
+    "image": "images/0990-DKBwJrL.jpg",
+    "gif_url": "videos/0990-DKBwJrL.gif"
+  },
+  {
+    "id": "0027",
+    "name": "barbell bent over row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "barbell",
+    "target": "upper back",
+    "image": "images/0027-eZyBC3j.jpg",
+    "gif_url": "videos/0027-eZyBC3j.gif"
+  },
+  {
+    "id": "0049",
+    "name": "barbell incline row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "barbell",
+    "target": "upper back",
+    "image": "images/0049-dmgMp3n.jpg",
+    "gif_url": "videos/0049-dmgMp3n.gif"
+  },
+  {
+    "id": "0064",
+    "name": "barbell one arm bent over row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "barbell",
+    "target": "upper back",
+    "image": "images/0064-Jsgsc27.jpg",
+    "gif_url": "videos/0064-Jsgsc27.gif"
+  },
+  {
+    "id": "3017",
+    "name": "barbell pendlay row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "barbell",
+    "target": "upper back",
+    "image": "images/3017-r0z6xzQ.jpg",
+    "gif_url": "videos/3017-r0z6xzQ.gif"
+  },
+  {
+    "id": "0118",
+    "name": "barbell reverse grip bent over row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "barbell",
+    "target": "upper back",
+    "image": "images/0118-SzX3uzM.jpg",
+    "gif_url": "videos/0118-SzX3uzM.gif"
+  },
+  {
+    "id": "1317",
+    "name": "barbell reverse grip incline bench row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "barbell",
+    "target": "upper back",
+    "image": "images/1317-8d8qJQI.jpg",
+    "gif_url": "videos/1317-8d8qJQI.gif"
+  },
+  {
+    "id": "3168",
+    "name": "bodyweight squatting row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "body weight",
+    "target": "upper back",
+    "image": "images/3168-3xK09Sk.jpg",
+    "gif_url": "videos/3168-3xK09Sk.gif"
+  },
+  {
+    "id": "3167",
+    "name": "bodyweight squatting row (with towel)",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "body weight",
+    "target": "upper back",
+    "image": "images/3167-BReCuOn.jpg",
+    "gif_url": "videos/3167-BReCuOn.gif"
+  },
+  {
+    "id": "3156",
+    "name": "bodyweight standing close-grip one arm row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "body weight",
+    "target": "upper back",
+    "image": "images/3156-v2DfH14.jpg",
+    "gif_url": "videos/3156-v2DfH14.gif"
+  },
+  {
+    "id": "3158",
+    "name": "bodyweight standing close-grip row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "body weight",
+    "target": "upper back",
+    "image": "images/3158-tig3PXb.jpg",
+    "gif_url": "videos/3158-tig3PXb.gif"
+  },
+  {
+    "id": "3162",
+    "name": "bodyweight standing one arm row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "body weight",
+    "target": "upper back",
+    "image": "images/3162-xbkPfaw.jpg",
+    "gif_url": "videos/3162-xbkPfaw.gif"
+  },
+  {
+    "id": "3161",
+    "name": "bodyweight standing one arm row (with towel)",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "body weight",
+    "target": "upper back",
+    "image": "images/3161-O4oIqQD.jpg",
+    "gif_url": "videos/3161-O4oIqQD.gif"
+  },
+  {
+    "id": "3166",
+    "name": "bodyweight standing row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "body weight",
+    "target": "upper back",
+    "image": "images/3166-wd4ds3s.jpg",
+    "gif_url": "videos/3166-wd4ds3s.gif"
+  },
+  {
+    "id": "3165",
+    "name": "bodyweight standing row (with towel)",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "body weight",
+    "target": "upper back",
+    "image": "images/3165-uTv34oq.jpg",
+    "gif_url": "videos/3165-uTv34oq.gif"
+  },
+  {
+    "id": "0159",
+    "name": "cable decline seated wide-grip row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "cable",
+    "target": "upper back",
+    "image": "images/0159-kesXOpB.jpg",
+    "gif_url": "videos/0159-kesXOpB.gif"
+  },
+  {
+    "id": "0160",
+    "name": "cable floor seated wide-grip row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "cable",
+    "target": "upper back",
+    "image": "images/0160-veXwo0D.jpg",
+    "gif_url": "videos/0160-veXwo0D.gif"
+  },
+  {
+    "id": "0167",
+    "name": "cable high row (kneeling)",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "cable",
+    "target": "upper back",
+    "image": "images/0167-ZSJNetl.jpg",
+    "gif_url": "videos/0167-ZSJNetl.gif"
+  },
+  {
+    "id": "1318",
+    "name": "cable incline bench row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "cable",
+    "target": "upper back",
+    "image": "images/1318-yaMIo4D.jpg",
+    "gif_url": "videos/1318-yaMIo4D.gif"
+  },
+  {
+    "id": "0180",
+    "name": "cable low seated row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "cable",
+    "target": "upper back",
+    "image": "images/0180-hvV79Si.jpg",
+    "gif_url": "videos/0180-hvV79Si.gif"
+  },
+  {
+    "id": "0189",
+    "name": "cable one arm bent over row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "cable",
+    "target": "upper back",
+    "image": "images/0189-EIsE3u8.jpg",
+    "gif_url": "videos/0189-EIsE3u8.gif"
+  },
+  {
+    "id": "0193",
+    "name": "cable one arm straight back high row (kneeling)",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "cable",
+    "target": "upper back",
+    "image": "images/0193-WrYPP2g.jpg",
+    "gif_url": "videos/0193-WrYPP2g.gif"
+  },
+  {
+    "id": "1319",
+    "name": "cable palm rotational row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "cable",
+    "target": "upper back",
+    "image": "images/1319-OmQ8w0p.jpg",
+    "gif_url": "videos/1319-OmQ8w0p.gif"
+  },
+  {
+    "id": "0208",
+    "name": "cable reverse-grip straight back seated high row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "cable",
+    "target": "upper back",
+    "image": "images/0208-PNtsX17.jpg",
+    "gif_url": "videos/0208-PNtsX17.gif"
+  },
+  {
+    "id": "1320",
+    "name": "cable rope crossover seated row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "cable",
+    "target": "upper back",
+    "image": "images/1320-UFGF6gk.jpg",
+    "gif_url": "videos/1320-UFGF6gk.gif"
+  },
+  {
+    "id": "1321",
+    "name": "cable rope elevated seated row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "cable",
+    "target": "upper back",
+    "image": "images/1321-c8oybX6.jpg",
+    "gif_url": "videos/1321-c8oybX6.gif"
+  },
+  {
+    "id": "1322",
+    "name": "cable rope extension incline bench row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "cable",
+    "target": "upper back",
+    "image": "images/1322-MgKwAAo.jpg",
+    "gif_url": "videos/1322-MgKwAAo.gif"
+  },
+  {
+    "id": "1323",
+    "name": "cable rope seated row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "cable",
+    "target": "upper back",
+    "image": "images/1323-SJqRxOt.jpg",
+    "gif_url": "videos/1323-SJqRxOt.gif"
+  },
+  {
+    "id": "0214",
+    "name": "cable seated one arm alternate row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "cable",
+    "target": "upper back",
+    "image": "images/0214-vpp9Ku2.jpg",
+    "gif_url": "videos/0214-vpp9Ku2.gif"
+  },
+  {
+    "id": "0861",
+    "name": "cable seated row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "cable",
+    "target": "upper back",
+    "image": "images/0861-fUBheHs.jpg",
+    "gif_url": "videos/0861-fUBheHs.gif"
+  },
+  {
+    "id": "0218",
+    "name": "cable seated wide-grip row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "cable",
+    "target": "upper back",
+    "image": "images/0218-qcY50ZD.jpg",
+    "gif_url": "videos/0218-qcY50ZD.gif"
+  },
+  {
+    "id": "0234",
+    "name": "cable standing row (v-bar)",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "cable",
+    "target": "upper back",
+    "image": "images/0234-4f8RXP8.jpg",
+    "gif_url": "videos/0234-4f8RXP8.gif"
+  },
+  {
+    "id": "0236",
+    "name": "cable standing twist row (v-bar)",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "cable",
+    "target": "upper back",
+    "image": "images/0236-JOZhu2h.jpg",
+    "gif_url": "videos/0236-JOZhu2h.gif"
+  },
+  {
+    "id": "0239",
+    "name": "cable straight back seated row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "cable",
+    "target": "upper back",
+    "image": "images/0239-Tq6gbK6.jpg",
+    "gif_url": "videos/0239-Tq6gbK6.gif"
+  },
+  {
+    "id": "1324",
+    "name": "cable upper row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "cable",
+    "target": "upper back",
+    "image": "images/1324-PQStVXH.jpg",
+    "gif_url": "videos/1324-PQStVXH.gif"
+  },
+  {
+    "id": "0248",
+    "name": "cambered bar lying row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "barbell",
+    "target": "upper back",
+    "image": "images/0248-R5swFnc.jpg",
+    "gif_url": "videos/0248-R5swFnc.gif"
+  },
+  {
+    "id": "0253",
+    "name": "chin-ups (narrow parallel grip)",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "body weight",
+    "target": "upper back",
+    "image": "images/0253-G70mEAJ.jpg",
+    "gif_url": "videos/0253-G70mEAJ.gif"
+  },
+  {
+    "id": "0293",
+    "name": "dumbbell bent over row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "dumbbell",
+    "target": "upper back",
+    "image": "images/0293-BJ0Hz5L.jpg",
+    "gif_url": "videos/0293-BJ0Hz5L.gif"
+  },
+  {
+    "id": "0327",
+    "name": "dumbbell incline row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "dumbbell",
+    "target": "upper back",
+    "image": "images/0327-7vG5o25.jpg",
+    "gif_url": "videos/0327-7vG5o25.gif"
+  },
+  {
+    "id": "3541",
+    "name": "dumbbell incline y-raise",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "dumbbell",
+    "target": "upper back",
+    "image": "images/3541-PbzNu7c.jpg",
+    "gif_url": "videos/3541-PbzNu7c.gif"
+  },
+  {
+    "id": "1328",
+    "name": "dumbbell lying rear delt row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "dumbbell",
+    "target": "upper back",
+    "image": "images/1328-XUUD0Fs.jpg",
+    "gif_url": "videos/1328-XUUD0Fs.gif"
+  },
+  {
+    "id": "0292",
+    "name": "dumbbell one arm bent-over row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "dumbbell",
+    "target": "upper back",
+    "image": "images/0292-C0MA9bC.jpg",
+    "gif_url": "videos/0292-C0MA9bC.gif"
+  },
+  {
+    "id": "1329",
+    "name": "dumbbell palm rotational bent over row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "dumbbell",
+    "target": "upper back",
+    "image": "images/1329-wt6rwjk.jpg",
+    "gif_url": "videos/1329-wt6rwjk.gif"
+  },
+  {
+    "id": "1330",
+    "name": "dumbbell reverse grip incline bench one arm row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "dumbbell",
+    "target": "upper back",
+    "image": "images/1330-ZIViNh1.jpg",
+    "gif_url": "videos/1330-ZIViNh1.gif"
+  },
+  {
+    "id": "1331",
+    "name": "dumbbell reverse grip incline bench two arm row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "dumbbell",
+    "target": "upper back",
+    "image": "images/1331-9pQSkH8.jpg",
+    "gif_url": "videos/1331-9pQSkH8.gif"
+  },
+  {
+    "id": "2327",
+    "name": "dumbbell reverse grip row (female)",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "dumbbell",
+    "target": "upper back",
+    "image": "images/2327-Nh3mvOO.jpg",
+    "gif_url": "videos/2327-Nh3mvOO.gif"
+  },
+  {
+    "id": "3664",
+    "name": "dumbbell side plank with rear fly",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "dumbbell",
+    "target": "upper back",
+    "image": "images/3664-X6ytgYZ.jpg",
+    "gif_url": "videos/3664-X6ytgYZ.gif"
+  },
+  {
+    "id": "1772",
+    "name": "elbow lift - reverse push-up",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "body weight",
+    "target": "upper back",
+    "image": "images/1772-wbUYILZ.jpg",
+    "gif_url": "videos/1772-wbUYILZ.gif"
+  },
+  {
+    "id": "3292",
+    "name": "elevator",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "body weight",
+    "target": "upper back",
+    "image": "images/3292-zYmNaoY.jpg",
+    "gif_url": "videos/3292-zYmNaoY.gif"
+  },
+  {
+    "id": "1344",
+    "name": "ez bar reverse grip bent over row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "ez barbell",
+    "target": "upper back",
+    "image": "images/1344-G8dXpNG.jpg",
+    "gif_url": "videos/1344-G8dXpNG.gif"
+  },
+  {
+    "id": "3295",
+    "name": "front lever reps",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "body weight",
+    "target": "upper back",
+    "image": "images/3295-hbY9wqG.jpg",
+    "gif_url": "videos/3295-hbY9wqG.gif"
+  },
+  {
+    "id": "0499",
+    "name": "inverted row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "body weight",
+    "target": "upper back",
+    "image": "images/0499-bZGHsAZ.jpg",
+    "gif_url": "videos/0499-bZGHsAZ.gif"
+  },
+  {
+    "id": "2300",
+    "name": "inverted row bent knees",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "body weight",
+    "target": "upper back",
+    "image": "images/2300-VPPtusI.jpg",
+    "gif_url": "videos/2300-VPPtusI.gif"
+  },
+  {
+    "id": "2298",
+    "name": "inverted row on bench",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "body weight",
+    "target": "upper back",
+    "image": "images/2298-Mxa7Cr8.jpg",
+    "gif_url": "videos/2298-Mxa7Cr8.gif"
+  },
+  {
+    "id": "0497",
+    "name": "inverted row v. 2",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "body weight",
+    "target": "upper back",
+    "image": "images/0497-uX3sUBz.jpg",
+    "gif_url": "videos/0497-uX3sUBz.gif"
+  },
+  {
+    "id": "0498",
+    "name": "inverted row with straps",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "body weight",
+    "target": "upper back",
+    "image": "images/0498-jdiExfW.jpg",
+    "gif_url": "videos/0498-jdiExfW.gif"
+  },
+  {
+    "id": "0521",
+    "name": "kettlebell alternating renegade row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "kettlebell",
+    "target": "upper back",
+    "image": "images/0521-b9kqlBy.jpg",
+    "gif_url": "videos/0521-b9kqlBy.gif"
+  },
+  {
+    "id": "0522",
+    "name": "kettlebell alternating row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "kettlebell",
+    "target": "upper back",
+    "image": "images/0522-Ca76jUE.jpg",
+    "gif_url": "videos/0522-Ca76jUE.gif"
+  },
+  {
+    "id": "0541",
+    "name": "kettlebell one arm row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "kettlebell",
+    "target": "upper back",
+    "image": "images/0541-g9AsZ8P.jpg",
+    "gif_url": "videos/0541-g9AsZ8P.gif"
+  },
+  {
+    "id": "1345",
+    "name": "kettlebell two arm row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "kettlebell",
+    "target": "upper back",
+    "image": "images/1345-wf24o8S.jpg",
+    "gif_url": "videos/1345-wf24o8S.gif"
+  },
+  {
+    "id": "0571",
+    "name": "lever alternating narrow grip seated row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "upper back",
+    "image": "images/0571-w2oRpuH.jpg",
+    "gif_url": "videos/0571-w2oRpuH.gif"
+  },
+  {
+    "id": "0574",
+    "name": "lever bent over row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "barbell",
+    "target": "upper back",
+    "image": "images/0574-X3cqyXz.jpg",
+    "gif_url": "videos/0574-X3cqyXz.gif"
+  },
+  {
+    "id": "3200",
+    "name": "lever bent-over row with v-bar",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "upper back",
+    "image": "images/3200-LuBEORI.jpg",
+    "gif_url": "videos/3200-LuBEORI.gif"
+  },
+  {
+    "id": "0581",
+    "name": "lever high row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "upper back",
+    "image": "images/0581-nZZZy9m.jpg",
+    "gif_url": "videos/0581-nZZZy9m.gif"
+  },
+  {
+    "id": "0588",
+    "name": "lever narrow grip seated row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "upper back",
+    "image": "images/0588-IGjKj1v.jpg",
+    "gif_url": "videos/0588-IGjKj1v.gif"
+  },
+  {
+    "id": "0589",
+    "name": "lever one arm bent over row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "barbell",
+    "target": "upper back",
+    "image": "images/0589-Fhdtwf3.jpg",
+    "gif_url": "videos/0589-Fhdtwf3.gif"
+  },
+  {
+    "id": "1356",
+    "name": "lever one arm lateral high row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "upper back",
+    "image": "images/1356-OIFMAp1.jpg",
+    "gif_url": "videos/1356-OIFMAp1.gif"
+  },
+  {
+    "id": "1348",
+    "name": "lever reverse grip vertical row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "upper back",
+    "image": "images/1348-ZqNOWQ6.jpg",
+    "gif_url": "videos/1348-ZqNOWQ6.gif"
+  },
+  {
+    "id": "1349",
+    "name": "lever reverse t-bar row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "upper back",
+    "image": "images/1349-BgljGjd.jpg",
+    "gif_url": "videos/1349-BgljGjd.gif"
+  },
+  {
+    "id": "1350",
+    "name": "lever seated row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "upper back",
+    "image": "images/1350-7I6LNUG.jpg",
+    "gif_url": "videos/1350-7I6LNUG.gif"
+  },
+  {
+    "id": "0606",
+    "name": "lever t bar row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "upper back",
+    "image": "images/0606-aaXr7ld.jpg",
+    "gif_url": "videos/0606-aaXr7ld.gif"
+  },
+  {
+    "id": "1351",
+    "name": "lever t-bar reverse grip row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "upper back",
+    "image": "images/1351-FVM1AUZ.jpg",
+    "gif_url": "videos/1351-FVM1AUZ.gif"
+  },
+  {
+    "id": "1313",
+    "name": "lever unilateral row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "leverage machine",
+    "target": "upper back",
+    "image": "images/1313-oROuvrX.jpg",
+    "gif_url": "videos/1313-oROuvrX.gif"
+  },
+  {
+    "id": "0609",
+    "name": "london bridge",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "rope",
+    "target": "upper back",
+    "image": "images/0609-bLyQokI.jpg",
+    "gif_url": "videos/0609-bLyQokI.gif"
+  },
+  {
+    "id": "1354",
+    "name": "medicine ball overhead slam",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "medicine ball",
+    "target": "upper back",
+    "image": "images/1354-oHg8eop.jpg",
+    "gif_url": "videos/1354-oHg8eop.gif"
+  },
+  {
+    "id": "1773",
+    "name": "one arm towel row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "body weight",
+    "target": "upper back",
+    "image": "images/1773-bKWbrTA.jpg",
+    "gif_url": "videos/1773-bKWbrTA.gif"
+  },
+  {
+    "id": "3144",
+    "name": "resistance band seated straight back row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "resistance band",
+    "target": "upper back",
+    "image": "images/3144-Nu7jqFE.jpg",
+    "gif_url": "videos/3144-Nu7jqFE.gif"
+  },
+  {
+    "id": "0680",
+    "name": "rope climb",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "rope",
+    "target": "upper back",
+    "image": "images/0680-yaAxcQr.jpg",
+    "gif_url": "videos/0680-yaAxcQr.gif"
+  },
+  {
+    "id": "3304",
+    "name": "skin the cat",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "body weight",
+    "target": "upper back",
+    "image": "images/3304-MSfvriJ.jpg",
+    "gif_url": "videos/3304-MSfvriJ.gif"
+  },
+  {
+    "id": "1359",
+    "name": "smith bent over row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "smith machine",
+    "target": "upper back",
+    "image": "images/1359-ZX9UZmj.jpg",
+    "gif_url": "videos/1359-ZX9UZmj.gif"
+  },
+  {
+    "id": "0761",
+    "name": "smith narrow row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "smith machine",
+    "target": "upper back",
+    "image": "images/0761-JGKowMS.jpg",
+    "gif_url": "videos/0761-JGKowMS.gif"
+  },
+  {
+    "id": "1360",
+    "name": "smith one arm row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "smith machine",
+    "target": "upper back",
+    "image": "images/1360-Q4DSJPC.jpg",
+    "gif_url": "videos/1360-Q4DSJPC.gif"
+  },
+  {
+    "id": "1361",
+    "name": "smith reverse grip bent over row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "smith machine",
+    "target": "upper back",
+    "image": "images/1361-aaxA3cm.jpg",
+    "gif_url": "videos/1361-aaxA3cm.gif"
+  },
+  {
+    "id": "3669",
+    "name": "standing archer",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "body weight",
+    "target": "upper back",
+    "image": "images/3669-JF8AkMX.jpg",
+    "gif_url": "videos/3669-JF8AkMX.gif"
+  },
+  {
+    "id": "0808",
+    "name": "suspended row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "body weight",
+    "target": "upper back",
+    "image": "images/0808-4OaumBr.jpg",
+    "gif_url": "videos/0808-4OaumBr.gif"
+  },
+  {
+    "id": "1365",
+    "name": "upper back stretch",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "body weight",
+    "target": "upper back",
+    "image": "images/1365-GSDioYu.jpg",
+    "gif_url": "videos/1365-GSDioYu.gif"
+  }
+]

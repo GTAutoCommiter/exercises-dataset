@@ -1,0 +1,111 @@
+{
+  "id": "0023",
+  "name": "barbell alternate biceps curl",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Stand up straight with your feet shoulder-width apart and hold a barbell in each hand, palms facing forward. Keep your upper arms stationary and exhale as you curl the weights while contracting your biceps. Continue to raise the barbells until your biceps are fully contracted and the barbells are at shoulder level. Hold the contracted position for a brief pause as you squeeze your biceps. Inhale as you slowly begin to lower the barbells back to the starting position. Repeat for the desired number of repetitions, alternating arms.",
+    "it": "Stai dritto con i piedi alla larghezza delle spalle e tieni un bilanciere in ciascuna mano, con i palmi rivolti in avanti. Mantieni ferma la parte superiore delle braccia ed espira mentre pieghi i pesi mentre contrai i bicipiti. Continua a sollevare i bilancieri finché i bicipiti non saranno completamente contratti e i bilancieri saranno all'altezza delle spalle. Mantieni la posizione contratta per una breve pausa mentre contrai i bicipiti. Inspira mentre inizi lentamente ad abbassare i bilancieri nella posizione iniziale. Ripeti per il numero di ripetizioni desiderato, alternando le braccia.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde dik durun ve avuç içleriniz öne bakacak şekilde her iki elinizde birer halter tutun. Üst kollarınızı sabit tutun ve bicepslerinizi kasarken ağırlıkları kıvırırken nefes verin. Bicepsleriniz tamamen kasılana ve halterler omuz hizasına gelene kadar halterleri kaldırmaya devam edin. Bicepslerinizi sıkarken kasılmış pozisyonu kısa bir süre koruyun. Halterleri yavaşça başlangıç ​​pozisyonuna indirmeye başlarken nefes alın. İstenilen sayıda tekrar için kolları değiştirerek tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y sujeta una barra en cada mano, con las palmas mirando hacia delante. Mantén los brazos superiores fijos y exhala mientras levantas el peso contrayendo los bíceps. Continúa levantando las barras hasta que los bíceps estén completamente contraídos y las barras estén a la altura de los hombros. Mantén la posición contraída durante una breve pausa mientras aprietas los bíceps. Inhala mientras comienzas a bajar lentamente las barras de vuelta a la posición inicial. Repite el número de repeticiones deseado, alternando los brazos.",
+    "ru": "Встаньте прямо, ноги на ширине плеч, возьмите в каждую руку по штанге ладонями вперед. Держите плечи неподвижно и выдыхайте, сгибая штангу и одновременно сокращая бицепсы. Продолжайте поднимать штангу до тех пор, пока ваши бицепсы полностью не сократятся и штанга не окажется на уровне плеч. Задержитесь в сокращенном положении на короткую паузу, одновременно сжимая бицепсы. На вдохе начните медленно опускать штангу обратно в исходное положение. Повторите желаемое количество повторений, чередуя руки.",
+    "zh": "站直，双脚分开与肩同宽，每只手握住一个杠铃，手掌朝前。 保持上臂静止，在弯举哑铃时呼气，同时收缩二头肌。 继续举起杠铃，直到二头肌完全收缩并且杠铃与肩部齐平。 挤压二头肌时，保持收缩位置短暂停顿。 吸气，慢慢开始将杠铃放回起始位置。 重复所需的重复次数，交替手臂。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई की दूरी पर रखते हुए सीधे खड़े हो जाएं और प्रत्येक हाथ में एक बारबेल पकड़ें, हथेलियाँ आगे की ओर हों। अपनी ऊपरी भुजाओं को स्थिर रखें और अपने बाइसेप्स को सिकोड़ते हुए वजन को मोड़ते हुए सांस छोड़ें। बारबेल्स को तब तक उठाना जारी रखें जब तक कि आपके बाइसेप्स पूरी तरह से सिकुड़ न जाएं और बारबेल्स कंधे के स्तर पर न आ जाएं। जब आप अपने बाइसेप्स को निचोड़ते हैं तो थोड़ी देर के लिए अनुबंधित स्थिति में रहें। जैसे ही आप धीरे-धीरे बारबेल्स को शुरुआती स्थिति में वापस लाना शुरू करते हैं, श्वास लें। दोहराव की वांछित संख्या के लिए दोहराएँ, बारी-बारी से हथियार।",
+    "pl": "Stań prosto, stopy rozstaw na szerokość barków i chwyć sztangielkę w każdą rękę, dłonie skierowane do przodu. Utrzymując ramiona nieruchomo, wydychaj powietrze, uginając ręce i napinając biceps. Unoś sztangielki, aż biceps będzie w pełni napięty, a sztangielki znajdą się na wysokości barków. Zatrzymaj się na chwilę w pozycji szczytowej, mocno napinając biceps. Wdychaj powietrze, powoli opuszczając sztangielki do pozycji wyjściowej. Powtórz odpowiednią liczbę razy, na przemian dla obu rąk.",
+    "ko": "똑바로 서서 어깨 너비로 발을 벌리고 각 손에 바벨을 잡되 손바닥이 앞을 향하도록 합니다. 위팔을 고정한 상태에서 숨을 내쉬며 이두근을 수축시키면서 무게를 구부립니다. 바벨을 계속 들어올려 이두근이 완전히 수축되고 바벨이 어깨 높이에 도달할 때까지 들어올립니다. 이두근을 조인 상태에서 잠시 멈춘 후 숨을 들이쉬면서 천천히 바벨을 원래 위치로 내립니다. 원하는 횟수만큼 팔을 번갈아 반복합니다.",
+    "fr": "Tiens-toi bien droit, les pieds écartés à la largeur des épaules, et tiens une barre dans chaque main, les paumes tournées vers l'avant. Garde le haut des bras immobile et expire en fléchissant les poids tout en contractant tes biceps. Continue à lever les barres jusqu'à ce que tes biceps soient complètement contractés et que les barres soient à hauteur d'épaule. Maintiens la position contractée pendant une brève pause en contractant tes biceps. Inspire pendant que tu commences lentement à abaisser les barres jusqu'à la position de départ. Répète le nombre de répétitions souhaité en alternant les bras."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand up straight with your feet shoulder-width apart and hold a barbell in each hand, palms facing forward.",
+      "Keep your upper arms stationary and exhale as you curl the weights while contracting your biceps.",
+      "Continue to raise the barbells until your biceps are fully contracted and the barbells are at shoulder level.",
+      "Hold the contracted position for a brief pause as you squeeze your biceps.",
+      "Inhale as you slowly begin to lower the barbells back to the starting position.",
+      "Repeat for the desired number of repetitions, alternating arms."
+    ],
+    "it": [
+      "Stai dritto con i piedi alla larghezza delle spalle e tieni un bilanciere in ciascuna mano, con i palmi rivolti in avanti.",
+      "Mantieni ferma la parte superiore delle braccia ed espira mentre pieghi i pesi mentre contrai i bicipiti.",
+      "Continua a sollevare i bilancieri finché i bicipiti non saranno completamente contratti e i bilancieri saranno all'altezza delle spalle.",
+      "Mantieni la posizione contratta per una breve pausa mentre contrai i bicipiti.",
+      "Inspira mentre inizi lentamente ad abbassare i bilancieri nella posizione iniziale.",
+      "Ripeti per il numero di ripetizioni desiderato, alternando le braccia."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde dik durun ve avuç içleriniz öne bakacak şekilde her iki elinizde birer halter tutun.",
+      "Üst kollarınızı sabit tutun ve bicepslerinizi kasarken ağırlıkları kıvırırken nefes verin.",
+      "Bicepsleriniz tamamen kasılana ve halterler omuz hizasına gelene kadar halterleri kaldırmaya devam edin.",
+      "Bicepslerinizi sıkarken kasılmış pozisyonu kısa bir süre koruyun.",
+      "Halterleri yavaşça başlangıç ​​pozisyonuna indirmeye başlarken nefes alın.",
+      "İstenilen sayıda tekrar için kolları değiştirerek tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y sujeta una barra en cada mano, con las palmas mirando hacia delante.",
+      "Mantén los brazos superiores fijos y exhala mientras levantas el peso contrayendo los bíceps.",
+      "Continúa levantando las barras hasta que los bíceps estén completamente contraídos y las barras estén a la altura de los hombros.",
+      "Mantén la posición contraída durante una breve pausa mientras aprietas los bíceps.",
+      "Inhala mientras comienzas a bajar lentamente las barras de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado, alternando los brazos."
+    ],
+    "ru": [
+      "Встаньте прямо, ноги на ширине плеч, возьмите в каждую руку по штанге ладонями вперед.",
+      "Держите плечи неподвижно и выдыхайте, сгибая штангу и одновременно сокращая бицепсы.",
+      "Продолжайте поднимать штангу до тех пор, пока ваши бицепсы полностью не сократятся и штанга не окажется на уровне плеч.",
+      "Задержитесь в сокращенном положении на короткую паузу, одновременно сжимая бицепсы.",
+      "На вдохе начните медленно опускать штангу обратно в исходное положение.",
+      "Повторите желаемое количество повторений, чередуя руки."
+    ],
+    "zh": [
+      "站直，双脚分开与肩同宽，每只手握住一个杠铃，手掌朝前。",
+      "保持上臂静止，在弯举哑铃时呼气，同时收缩二头肌。",
+      "继续举起杠铃，直到二头肌完全收缩并且杠铃与肩部齐平。",
+      "挤压二头肌时，保持收缩位置短暂停顿。",
+      "吸气，慢慢开始将杠铃放回起始位置。",
+      "重复所需的重复次数，交替手臂。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई की दूरी पर रखते हुए सीधे खड़े हो जाएं और प्रत्येक हाथ में एक बारबेल पकड़ें, हथेलियाँ आगे की ओर हों।",
+      "अपनी ऊपरी भुजाओं को स्थिर रखें और अपने बाइसेप्स को सिकोड़ते हुए वजन को मोड़ते हुए सांस छोड़ें।",
+      "बारबेल्स को तब तक उठाना जारी रखें जब तक कि आपके बाइसेप्स पूरी तरह से सिकुड़ न जाएं और बारबेल्स कंधे के स्तर पर न आ जाएं।",
+      "जब आप अपने बाइसेप्स को निचोड़ते हैं तो थोड़ी देर के लिए अनुबंधित स्थिति में रहें।",
+      "जैसे ही आप धीरे-धीरे बारबेल्स को शुरुआती स्थिति में वापस लाना शुरू करते हैं, श्वास लें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ, बारी-बारी से हथियार।"
+    ],
+    "pl": [
+      "Stań prosto, stopy rozstaw na szerokość barków i chwyć sztangielkę w każdą rękę, dłonie skierowane do przodu.",
+      "Utrzymując ramiona nieruchomo, wydychaj powietrze, uginając ręce i napinając biceps.",
+      "Unoś sztangielki, aż biceps będzie w pełni napięty, a sztangielki znajdą się na wysokości barków.",
+      "Zatrzymaj się na chwilę w pozycji szczytowej, mocno napinając biceps.",
+      "Wdychaj powietrze, powoli opuszczając sztangielki do pozycji wyjściowej.",
+      "Powtórz odpowiednią liczbę razy, na przemian dla obu rąk."
+    ],
+    "ko": [
+      "똑바로 서서 어깨 너비로 발을 벌리고 각 손에 바벨을 잡되 손바닥이 앞을 향하도록 합니다.",
+      "위팔을 고정한 상태에서 숨을 내쉬며 이두근을 수축시키면서 무게를 구부립니다.",
+      "바벨을 계속 들어올려 이두근이 완전히 수축되고 바벨이 어깨 높이에 도달할 때까지 들어올립니다.",
+      "이두근을 조인 상태에서 잠시 멈춰 수축을 유지합니다.",
+      "숨을 들이쉬면서 천천히 바벨을 원래 위치로 내립니다.",
+      "원하는 횟수만큼 팔을 번갈아 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi bien droit, les pieds écartés à la largeur des épaules, et tiens une barre dans chaque main, les paumes tournées vers l'avant.",
+      "Garde le haut des bras immobile et expire en fléchissant les poids tout en contractant tes biceps.",
+      "Continue à lever les barres jusqu'à ce que tes biceps soient complètement contractés et que les barres soient à hauteur d'épaule.",
+      "Maintiens la position contractée pendant une brève pause en contractant tes biceps.",
+      "Inspire pendant que tu commences lentement à abaisser les barres jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité en alternant les bras."
+    ]
+  },
+  "muscle_group": "forearms",
+  "secondary_muscles": [
+    "forearms"
+  ],
+  "target": "biceps",
+  "image": "images/0023-Yza7XrQ.jpg",
+  "gif_url": "videos/0023-Yza7XrQ.gif",
+  "media_id": "Yza7XrQ",
+  "created_at": "2026-03-18T12:31:32.870212+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

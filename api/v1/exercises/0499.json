@@ -1,0 +1,122 @@
+{
+  "id": "0499",
+  "name": "inverted row",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Set up a bar at waist height or use a suspension trainer. Stand facing the bar or suspension trainer, with your feet shoulder-width apart. Grab the bar or handles with an overhand grip, slightly wider than shoulder-width apart. Lean back, keeping your body straight and your heels on the ground. Pull your chest towards the bar or handles, squeezing your shoulder blades together. Pause for a moment at the top, then slowly lower yourself back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Installa una barra all'altezza della vita o usa un trainer per le sospensioni. Mettiti di fronte alla barra o al trainer in sospensione, con i piedi alla larghezza delle spalle. Afferra la barra o le maniglie con una presa prona, leggermente più larga della larghezza delle spalle. Appoggiati all'indietro, mantenendo il corpo dritto e i talloni a terra. Tira il petto verso la barra o le maniglie, stringendo insieme le scapole. Fermati per un momento in alto, quindi abbassati lentamente nella posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Bel yüksekliğinde bir bar kurun veya bir süspansiyon antrenörü kullanın. Ayaklarınız omuz genişliğinde açık olacak şekilde çubuğa veya süspansiyon antrenörüne dönük olarak ayakta durun. Barı veya tutamaçlarını omuz genişliğinden biraz daha geniş olacak şekilde üstten kavrayın. Arkanıza yaslanın, vücudunuzu düz tutun ve topuklarınızı yerde tutun. Omuz bıçaklarınızı birbirine sıkıştırarak göğsünüzü bara veya tutamaklara doğru çekin. Tepe noktasında bir an duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Coloca una barra a la altura de la cintura o usa un entrenador de suspensión. Ponte de pie frente a la barra o al entrenador de suspensión, con los pies separados a la altura de los hombros. Agarra la barra o las asas con agarre prono, ligeramente más ancho que la altura de los hombros. Inclínate hacia atrás, manteniendo el cuerpo recto y los talones en el suelo. Tira del pecho hacia la barra o las asas, apretando los omóplatos entre sí. Haz una pausa breve en la parte más alta, luego baja lentamente de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Установите перекладину на уровне талии или используйте тренажер для подвешивания. Встаньте лицом к штанге или тренажеру для отягощения, поставив ноги на ширине плеч. Возьмитесь за перекладину или ручки хватом сверху, на расстоянии чуть шире ширины плеч. Откиньтесь назад, держа тело прямо, а пятки на земле. Подтяните грудь к перекладине или ручкам, сведя лопатки вместе. Задержитесь на мгновение в верхней точке, затем медленно опуститесь обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "在腰部高度设置一个杠铃或使用悬挂训练器。 面向杠铃或悬吊训练器站立，双脚分开与肩同宽。 正手握住杠铃或手柄，握距略宽于肩宽。 向后倾斜，保持身体挺直，脚后跟着地。 将胸部拉向杠铃或手柄，将肩胛骨挤压在一起。 在顶部停顿片刻，然后慢慢降低回到起始位置。 重复所需的重复次数。",
+    "hi": "कमर की ऊंचाई पर बार स्थापित करें या सस्पेंशन ट्रेनर का उपयोग करें। अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए बार या सस्पेंशन ट्रेनर की ओर मुंह करके खड़े हो जाएं। बार या हैंडल को कंधे की चौड़ाई से थोड़ा चौड़ा ओवरहैंड पकड़ से पकड़ें। अपने शरीर को सीधा और अपनी एड़ियों को ज़मीन पर रखते हुए पीछे झुकें। अपने कंधे के ब्लेड को एक साथ दबाते हुए अपनी छाती को बार या हैंडल की ओर खींचें। शीर्ष पर एक क्षण के लिए रुकें, फिर धीरे-धीरे अपने आप को प्रारंभिक स्थिति में वापस ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Ustaw drążek na wysokości bioder lub użyj trenera TRX. Stań przodem do drążka lub trenera TRX, stopy rozstawione na szerokość barków. Chwyć drążek lub uchwyty nachwytem, nieco szerzej niż szerokość barków. Odchyl się do tyłu, utrzymując proste ciało i pięty oparte na podłodze. Przyciągnij klatkę piersiową w stronę drążka lub uchwytów, ściskając łopatki. Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli wróć do pozycji wyjściowej. Powtórz zgodnie z zaplanowaną liczbą powtórzeń.",
+    "ko": "막대를 허리 높이에 설정하거나 서스펜션 트레이너를 사용합니다. 막대나 서스펜션 트레이너 앞에 서면서 발을 어깨너비로 벌립니다. 손아등그립으로 막대나 손잡이를 어깨너비보다 약간 넓게 잡습니다. 몸을 곧게 유지하고 발꿈치를 바닥에 붙인 채로 뒤로 기울입니다. 가슴을 막대나 손잡이 쪽으로 당기면서 어깨뼈를 함께 조입니다. 위쪽에서 잠시 멈춘 후 천천히 시작 자세로 내려옵니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Installe une barre à hauteur de taille ou utilise un entraîneur en suspension. Tiens-toi face à la barre ou au sangle de suspension, les pieds écartés à la largeur des épaules. Saisis la barre ou les poignées avec une prise en pronation, un peu plus large que la largeur des épaules. Penche-toi en arrière, en gardant le corps droit et les talons au sol. Tire ta poitrine vers la barre ou les poignées en contractant tes omoplates l'une vers l'autre. Marque une pause en haut, puis abaisse-toi lentement pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Set up a bar at waist height or use a suspension trainer.",
+      "Stand facing the bar or suspension trainer, with your feet shoulder-width apart.",
+      "Grab the bar or handles with an overhand grip, slightly wider than shoulder-width apart.",
+      "Lean back, keeping your body straight and your heels on the ground.",
+      "Pull your chest towards the bar or handles, squeezing your shoulder blades together.",
+      "Pause for a moment at the top, then slowly lower yourself back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Installa una barra all'altezza della vita o usa un trainer per le sospensioni.",
+      "Mettiti di fronte alla barra o al trainer in sospensione, con i piedi alla larghezza delle spalle.",
+      "Afferra la barra o le maniglie con una presa prona, leggermente più larga della larghezza delle spalle.",
+      "Appoggiati all'indietro, mantenendo il corpo dritto e i talloni a terra.",
+      "Tira il petto verso la barra o le maniglie, stringendo insieme le scapole.",
+      "Fermati per un momento in alto, quindi abbassati lentamente nella posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Bel yüksekliğinde bir bar kurun veya bir süspansiyon antrenörü kullanın.",
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde çubuğa veya süspansiyon antrenörüne dönük olarak ayakta durun.",
+      "Barı veya tutamaçlarını omuz genişliğinden biraz daha geniş olacak şekilde üstten kavrayın.",
+      "Arkanıza yaslanın, vücudunuzu düz tutun ve topuklarınızı yerde tutun.",
+      "Omuz bıçaklarınızı birbirine sıkıştırarak göğsünüzü bara veya tutamaklara doğru çekin.",
+      "Tepe noktasında bir an duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Coloca una barra a la altura de la cintura o usa un entrenador de suspensión.",
+      "Ponte de pie frente a la barra o al entrenador de suspensión, con los pies separados a la altura de los hombros.",
+      "Agarra la barra o las asas con agarre prono, ligeramente más ancho que la altura de los hombros.",
+      "Inclínate hacia atrás, manteniendo el cuerpo recto y los talones en el suelo.",
+      "Tira del pecho hacia la barra o las asas, apretando los omóplatos entre sí.",
+      "Haz una pausa breve en la parte más alta, luego baja lentamente de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Установите перекладину на уровне талии или используйте тренажер для подвешивания.",
+      "Встаньте лицом к штанге или тренажеру для отягощения, поставив ноги на ширине плеч.",
+      "Возьмитесь за перекладину или ручки хватом сверху, на расстоянии чуть шире ширины плеч.",
+      "Откиньтесь назад, держа тело прямо, а пятки на земле.",
+      "Подтяните грудь к перекладине или ручкам, сведя лопатки вместе.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опуститесь обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "在腰部高度设置一个杠铃或使用悬挂训练器。",
+      "面向杠铃或悬吊训练器站立，双脚分开与肩同宽。",
+      "正手握住杠铃或手柄，握距略宽于肩宽。",
+      "向后倾斜，保持身体挺直，脚后跟着地。",
+      "将胸部拉向杠铃或手柄，将肩胛骨挤压在一起。",
+      "在顶部停顿片刻，然后慢慢降低回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "कमर की ऊंचाई पर बार स्थापित करें या सस्पेंशन ट्रेनर का उपयोग करें।",
+      "अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए बार या सस्पेंशन ट्रेनर की ओर मुंह करके खड़े हो जाएं।",
+      "बार या हैंडल को कंधे की चौड़ाई से थोड़ा चौड़ा ओवरहैंड पकड़ से पकड़ें।",
+      "अपने शरीर को सीधा और अपनी एड़ियों को ज़मीन पर रखते हुए पीछे झुकें।",
+      "अपने कंधे के ब्लेड को एक साथ दबाते हुए अपनी छाती को बार या हैंडल की ओर खींचें।",
+      "शीर्ष पर एक क्षण के लिए रुकें, फिर धीरे-धीरे अपने आप को प्रारंभिक स्थिति में वापस ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Ustaw drążek na wysokości bioder lub użyj trenera TRX.",
+      "Stań przodem do drążka lub trenera TRX, stopy rozstawione na szerokość barków.",
+      "Chwyć drążek lub uchwyty nachwytem, nieco szerzej niż szerokość barków.",
+      "Odchyl się do tyłu, utrzymując proste ciało i pięty oparte na podłodze.",
+      "Przyciągnij klatkę piersiową w stronę drążka lub uchwytów, ściskając łopatki.",
+      "Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli wróć do pozycji wyjściowej.",
+      "Powtórz zgodnie z zaplanowaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "막대를 허리 높이에 설정하거나 서스펜션 트레이너를 사용합니다.",
+      "막대나 서스펜션 트레이너 앞에 서면서 발을 어깨너비로 벌립니다.",
+      "손아등그립으로 막대나 손잡이를 어깨너비보다 약간 넓게 잡습니다.",
+      "몸을 곧게 유지하고 발꿈치를 바닥에 붙인 채로 뒤로 기울입니다.",
+      "가슴을 막대나 손잡이 쪽으로 당기면서 어깨뼈를 함께 조입니다.",
+      "위쪽에서 잠시 멈춘 후 천천히 시작 자세로 내려옵니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Installe une barre à hauteur de taille ou utilise un entraîneur en suspension.",
+      "Tiens-toi face à la barre ou au sangle de suspension, les pieds écartés à la largeur des épaules.",
+      "Saisis la barre ou les poignées avec une prise en pronation, un peu plus large que la largeur des épaules.",
+      "Penche-toi en arrière, en gardant le corps droit et les talons au sol.",
+      "Tire ta poitrine vers la barre ou les poignées en contractant tes omoplates l'une vers l'autre.",
+      "Marque une pause en haut, puis abaisse-toi lentement pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "forearms"
+  ],
+  "target": "upper back",
+  "image": "images/0499-bZGHsAZ.jpg",
+  "gif_url": "videos/0499-bZGHsAZ.gif",
+  "media_id": "bZGHsAZ",
+  "created_at": "2026-03-18T12:31:32.884626+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

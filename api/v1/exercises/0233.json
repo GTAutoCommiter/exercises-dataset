@@ -1,0 +1,113 @@
+{
+  "id": "0233",
+  "name": "cable standing rear delt row (with rope)",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Stand facing a cable machine with your feet shoulder-width apart. Hold the cable attachment with both hands, palms facing each other, and step back to create tension in the cable. Keep your back straight and your core engaged. Pull the cable towards your body, squeezing your shoulder blades together. Pause for a moment at the peak of the movement, then slowly release the cable back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stai di fronte a una macchina per cavi con i piedi distanti alla larghezza delle spalle. Tieni il cavo con entrambe le mani, palmi rivolti l'uno verso l'altro, e fai un passo indietro per creare tensione nel cavo. Tieni la schiena dritta e il core attivo. Tira il cavo verso il corpo, stringendo le scapole insieme. Fermati un attimo al picco del movimento, poi rilascia lentamente il cavo alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde bir kablo makinesine dönük durun. Kablo ek parçasını avuçlarınız birbirine bakacak şekilde iki elinizle tutun ve kabloda gerginlik oluşturmak için geri adım atın. Sırtınızı düz ve merkez bölgenizi meşgul tutun. Kürek kemiklerinizi birbirine sıkıştırarak kabloyu vücudunuza doğru çekin. Hareketin zirvesinde bir an duraklayın, ardından kabloyu yavaşça başlangıç ​​pozisyonuna geri bırakın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie frente a una máquina de cable con los pies separados a la altura de los hombros. Sujeta el accesorio del cable con ambas manos, con las palmas una frente a la otra, y retrocede un paso para crear tensión en el cable. Mantén la espalda recta y el core activado. Tira del cable hacia tu cuerpo, apretando los omóplatos entre sí. Haz una pausa breve en el punto máximo del movimiento, luego suelta lentamente el cable de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте лицом к канатному тренажеру, поставив ноги на ширине плеч. Удерживая трос обеими руками, ладонями друг к другу, отступите назад, чтобы создать натяжение троса. Держите спину прямо, а корпус напряженным. Потяните трос к себе, сжимая лопатки вместе. Сделайте паузу на мгновение на пике движения, затем медленно отпустите трос обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "面向缆绳机站立，双脚与肩同宽。 用双手握住电缆附件，手掌相对，然后后退以在电缆中产生张力。 保持背部挺直，核心肌群参与。 将电缆拉向您的身体，将肩胛骨挤压在一起。 在运动的最高点停顿片刻，然后慢慢松开绳索回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए केबल मशीन की ओर मुंह करके खड़े हो जाएं। केबल अटैचमेंट को दोनों हाथों से पकड़ें, हथेलियाँ एक-दूसरे के सामने हों, और केबल में तनाव पैदा करने के लिए पीछे हटें। अपनी पीठ सीधी रखें और अपने कोर को व्यस्त रखें। अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए, केबल को अपने शरीर की ओर खींचें। गति के चरम पर एक पल के लिए रुकें, फिर धीरे-धीरे केबल को प्रारंभिक स्थिति में वापस छोड़ दें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań przodem do wyciągu, ustawiając stopy na szerokość barków. Trzymaj uchwyt wyciągu obiema rękami, dłonie zwrócone do siebie, i zrób krok do tyłu, aby wytworzyć napięcie w lince. Trzymaj plecy proste, a mięśnie brzucha napięte. Przyciągnij linkę do ciała, ściągając łopatki. Zatrzymaj się na chwilę w szczytowej fazie ruchu, a następnie powoli zwolnij linkę z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "케이블 머신을 마주보고 발을 어깨 너비만큼 벌려 서 있습니다. 양손으로 케이블 어댑터를 잡고 손바닥이 서로를 향하게 하며 뒤로 한 발 내디어 케이블에 긴장을 줍니다. 등을 곧게 펴고 복부에 힘을 주어 둡니다. 케이블을 몸 쪽으로 당기며 견갑골을 함께 조입니다. 운동의 최고점에서 잠시 멈춘 후 천천히 케이블을 처음 위치로 풀어 놓습니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi face à une machine à câble, les pieds écartés à la largeur des épaules. Tiens l'accessoire de câble des deux mains, les paumes tournées l'une vers l'autre, et recule pour créer de la tension dans le câble. Garde le dos droit et ta sangle abdominale gainée. Tire le câble vers ton corps, en contractant tes omoplates. Marque une pause au sommet du mouvement, puis relâche lentement le câble pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand facing a cable machine with your feet shoulder-width apart.",
+      "Hold the cable attachment with both hands, palms facing each other, and step back to create tension in the cable.",
+      "Keep your back straight and your core engaged.",
+      "Pull the cable towards your body, squeezing your shoulder blades together.",
+      "Pause for a moment at the peak of the movement, then slowly release the cable back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai di fronte a una macchina per cavi con i piedi distanti alla larghezza delle spalle.",
+      "Tieni il cavo con entrambe le mani, palmi rivolti l'uno verso l'altro, e fai un passo indietro per creare tensione nel cavo.",
+      "Tieni la schiena dritta e il core attivo.",
+      "Tira il cavo verso il corpo, stringendo le scapole insieme.",
+      "Fermati un attimo al picco del movimento, poi rilascia lentamente il cavo alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde bir kablo makinesine dönük durun.",
+      "Kablo ek parçasını avuçlarınız birbirine bakacak şekilde iki elinizle tutun ve kabloda gerginlik oluşturmak için geri adım atın.",
+      "Sırtınızı düz ve merkez bölgenizi meşgul tutun.",
+      "Kürek kemiklerinizi birbirine sıkıştırarak kabloyu vücudunuza doğru çekin.",
+      "Hareketin zirvesinde bir an duraklayın, ardından kabloyu yavaşça başlangıç ​​pozisyonuna geri bırakın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie frente a una máquina de cable con los pies separados a la altura de los hombros.",
+      "Sujeta el accesorio del cable con ambas manos, con las palmas una frente a la otra, y retrocede un paso para crear tensión en el cable.",
+      "Mantén la espalda recta y el core activado.",
+      "Tira del cable hacia tu cuerpo, apretando los omóplatos entre sí.",
+      "Haz una pausa breve en el punto máximo del movimiento, luego suelta lentamente el cable de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте лицом к канатному тренажеру, поставив ноги на ширине плеч.",
+      "Удерживая трос обеими руками, ладонями друг к другу, отступите назад, чтобы создать натяжение троса.",
+      "Держите спину прямо, а корпус напряженным.",
+      "Потяните трос к себе, сжимая лопатки вместе.",
+      "Сделайте паузу на мгновение на пике движения, затем медленно отпустите трос обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "面向缆绳机站立，双脚与肩同宽。",
+      "用双手握住电缆附件，手掌相对，然后后退以在电缆中产生张力。",
+      "保持背部挺直，核心肌群参与。",
+      "将电缆拉向您的身体，将肩胛骨挤压在一起。",
+      "在运动的最高点停顿片刻，然后慢慢松开绳索回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए केबल मशीन की ओर मुंह करके खड़े हो जाएं।",
+      "केबल अटैचमेंट को दोनों हाथों से पकड़ें, हथेलियाँ एक-दूसरे के सामने हों, और केबल में तनाव पैदा करने के लिए पीछे हटें।",
+      "अपनी पीठ सीधी रखें और अपने कोर को व्यस्त रखें।",
+      "अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए, केबल को अपने शरीर की ओर खींचें।",
+      "गति के चरम पर एक पल के लिए रुकें, फिर धीरे-धीरे केबल को प्रारंभिक स्थिति में वापस छोड़ दें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań przodem do wyciągu, ustawiając stopy na szerokość barków.",
+      "Trzymaj uchwyt wyciągu obiema rękami, dłonie zwrócone do siebie, i zrób krok do tyłu, aby wytworzyć napięcie w lince.",
+      "Trzymaj plecy proste, a mięśnie brzucha napięte.",
+      "Przyciągnij linkę do ciała, ściągając łopatki.",
+      "Zatrzymaj się na chwilę w szczytowej fazie ruchu, a następnie powoli zwolnij linkę z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "케이블 머신을 마주보고 발을 어깨 너비만큼 벌려 서 있습니다.",
+      "양손으로 케이블 어댑터를 잡고 손바닥이 서로를 향하게 하며 뒤로 한 발 내디어 케이블에 긴장을 줍니다.",
+      "등을 곧게 펴고 복부에 힘을 주어 둡니다.",
+      "케이블을 몸 쪽으로 당기며 견갑골을 함께 조입니다.",
+      "운동의 최고점에서 잠시 멈춘 후 천천히 케이블을 처음 위치로 풀어 놓습니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi face à une machine à câble, les pieds écartés à la largeur des épaules.",
+      "Tiens l'accessoire de câble des deux mains, les paumes tournées l'une vers l'autre, et recule pour créer de la tension dans le câble.",
+      "Garde le dos droit et ta sangle abdominale gainée.",
+      "Tire le câble vers ton corps, en contractant tes omoplates.",
+      "Marque une pause au sommet du mouvement, puis relâche lentement le câble pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "trapezius",
+  "secondary_muscles": [
+    "trapezius",
+    "rhomboids",
+    "biceps"
+  ],
+  "target": "delts",
+  "image": "images/0233-ZfyAGhK.jpg",
+  "gif_url": "videos/0233-ZfyAGhK.gif",
+  "media_id": "ZfyAGhK",
+  "created_at": "2026-03-18T12:31:32.876399+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

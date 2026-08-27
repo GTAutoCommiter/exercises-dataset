@@ -1,0 +1,116 @@
+[
+  {
+    "name": "abductors",
+    "slug": "abductors",
+    "count": 5,
+    "url": "api/v1/by-target/abductors.json"
+  },
+  {
+    "name": "abs",
+    "slug": "abs",
+    "count": 169,
+    "url": "api/v1/by-target/abs.json"
+  },
+  {
+    "name": "adductors",
+    "slug": "adductors",
+    "count": 6,
+    "url": "api/v1/by-target/adductors.json"
+  },
+  {
+    "name": "biceps",
+    "slug": "biceps",
+    "count": 151,
+    "url": "api/v1/by-target/biceps.json"
+  },
+  {
+    "name": "calves",
+    "slug": "calves",
+    "count": 59,
+    "url": "api/v1/by-target/calves.json"
+  },
+  {
+    "name": "cardiovascular system",
+    "slug": "cardiovascular-system",
+    "count": 29,
+    "url": "api/v1/by-target/cardiovascular-system.json"
+  },
+  {
+    "name": "delts",
+    "slug": "delts",
+    "count": 143,
+    "url": "api/v1/by-target/delts.json"
+  },
+  {
+    "name": "forearms",
+    "slug": "forearms",
+    "count": 37,
+    "url": "api/v1/by-target/forearms.json"
+  },
+  {
+    "name": "glutes",
+    "slug": "glutes",
+    "count": 144,
+    "url": "api/v1/by-target/glutes.json"
+  },
+  {
+    "name": "hamstrings",
+    "slug": "hamstrings",
+    "count": 28,
+    "url": "api/v1/by-target/hamstrings.json"
+  },
+  {
+    "name": "lats",
+    "slug": "lats",
+    "count": 81,
+    "url": "api/v1/by-target/lats.json"
+  },
+  {
+    "name": "levator scapulae",
+    "slug": "levator-scapulae",
+    "count": 2,
+    "url": "api/v1/by-target/levator-scapulae.json"
+  },
+  {
+    "name": "pectorals",
+    "slug": "pectorals",
+    "count": 158,
+    "url": "api/v1/by-target/pectorals.json"
+  },
+  {
+    "name": "quads",
+    "slug": "quads",
+    "count": 44,
+    "url": "api/v1/by-target/quads.json"
+  },
+  {
+    "name": "serratus anterior",
+    "slug": "serratus-anterior",
+    "count": 5,
+    "url": "api/v1/by-target/serratus-anterior.json"
+  },
+  {
+    "name": "spine",
+    "slug": "spine",
+    "count": 19,
+    "url": "api/v1/by-target/spine.json"
+  },
+  {
+    "name": "traps",
+    "slug": "traps",
+    "count": 15,
+    "url": "api/v1/by-target/traps.json"
+  },
+  {
+    "name": "triceps",
+    "slug": "triceps",
+    "count": 141,
+    "url": "api/v1/by-target/triceps.json"
+  },
+  {
+    "name": "upper back",
+    "slug": "upper-back",
+    "count": 88,
+    "url": "api/v1/by-target/upper-back.json"
+  }
+]

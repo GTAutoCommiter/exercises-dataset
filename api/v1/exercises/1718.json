@@ -1,0 +1,101 @@
+{
+  "id": "1718",
+  "name": "barbell seated close grip behind neck triceps extension",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "barbell",
+  "instructions": {
+    "en": "Sit on a bench with your back straight and feet flat on the ground. Hold the barbell with a close grip behind your neck, palms facing forward. Keep your elbows close to your head and slowly lower the barbell towards the back of your head. Pause for a moment, then extend your arms back up to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Siediti su una panca con la schiena dritta e i piedi appoggiati a terra. Tieni il bilanciere con una presa salda dietro il collo, con i palmi rivolti in avanti. Tieni i gomiti vicini alla testa e abbassa lentamente il bilanciere verso la parte posteriore della testa. Fai una pausa per un momento, quindi allunga le braccia fino alla posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Sırtınız dik ve ayaklarınız yere düz basacak şekilde bir bankta oturun. Halteri boynunuzun arkasında, avuçlarınız öne bakacak şekilde sıkı bir tutuşla tutun. Dirseklerinizi başınıza yakın tutun ve halteri yavaşça başınızın arkasına doğru indirin. Bir an duraklayın, ardından kollarınızı başlangıç ​​pozisyonuna kadar uzatın. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Siéntate en un banco con la espalda recta y los pies planos sobre el suelo. Sujeta la barra con un agarre cerrado detrás del cuello, con las palmas mirando hacia delante. Mantén los codos cerca de la cabeza y baja lentamente la barra hacia la parte de atrás de la cabeza. Haz una pausa breve y luego extiende los brazos de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Сядьте на скамью, выпрямив спину и поставив ноги на землю. Держите штангу узким хватом за шеей ладонями вперед. Держите локти близко к голове и медленно опустите штангу к затылку. Сделайте паузу на мгновение, затем вытяните руки обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "坐在长凳上，背部挺直，双脚平放在地上。 紧紧抓住颈后的杠铃，手掌朝前。 保持肘部靠近头部，慢慢将杠铃放低至脑后。 暂停片刻，然后将手臂伸回到起始位置。 重复所需的重复次数。",
+    "hi": "अपनी पीठ सीधी और पैर ज़मीन पर सपाट करके एक बेंच पर बैठें। बारबेल को अपनी गर्दन के पीछे कसकर पकड़ें, हथेलियाँ आगे की ओर हों। अपनी कोहनियों को अपने सिर के पास रखें और बारबेल को धीरे-धीरे अपने सिर के पीछे की ओर नीचे करें। एक पल के लिए रुकें, फिर अपनी भुजाओं को वापस प्रारंभिक स्थिति तक फैलाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Usiądź na ławce, plecy wyprostuj, a stopy oprzyj płasko na podłodze. Chwyć sztangę wąskim chwytem za głową, dłonie skierowane do przodu. Trzymaj łokcie blisko głowy i powoli opuszczaj sztangę w kierunku tyłu głowy. Zatrzymaj się na chwilę, a następnie wyprostuj ręce z powrotem do pozycji wyjściowej. Powtórz odpowiednią liczbę razy.",
+    "ko": "벤치에 앉아 등을 곧게 펴고 발은 바닥에 놓습니다. 목 뒤에 클로즈그립으로 바벨을 잡으며 손은 앞을 향합니다. 팔꿈치는 머리 가까이 유지하며 천천히 바벨을 머리 뒤로 내립니다. 잠시 멈춘 후 팔을 펼쳐 시작 위치로 올립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Assieds-toi sur un banc, le dos droit et les pieds à plat sur le sol. Tiens la barre en prise serrée derrière ta nuque, les paumes tournées vers l'avant. Garde tes coudes près de ta tête et abaisse lentement la barre vers l'arrière de ta tête. Marque une pause, puis étends tes bras vers le haut pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on a bench with your back straight and feet flat on the ground.",
+      "Hold the barbell with a close grip behind your neck, palms facing forward.",
+      "Keep your elbows close to your head and slowly lower the barbell towards the back of your head.",
+      "Pause for a moment, then extend your arms back up to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Siediti su una panca con la schiena dritta e i piedi appoggiati a terra.",
+      "Tieni il bilanciere con una presa salda dietro il collo, con i palmi rivolti in avanti.",
+      "Tieni i gomiti vicini alla testa e abbassa lentamente il bilanciere verso la parte posteriore della testa.",
+      "Fai una pausa per un momento, quindi allunga le braccia fino alla posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Sırtınız dik ve ayaklarınız yere düz basacak şekilde bir bankta oturun.",
+      "Halteri boynunuzun arkasında, avuçlarınız öne bakacak şekilde sıkı bir tutuşla tutun.",
+      "Dirseklerinizi başınıza yakın tutun ve halteri yavaşça başınızın arkasına doğru indirin.",
+      "Bir an duraklayın, ardından kollarınızı başlangıç ​​pozisyonuna kadar uzatın.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Siéntate en un banco con la espalda recta y los pies planos sobre el suelo.",
+      "Sujeta la barra con un agarre cerrado detrás del cuello, con las palmas mirando hacia delante.",
+      "Mantén los codos cerca de la cabeza y baja lentamente la barra hacia la parte de atrás de la cabeza.",
+      "Haz una pausa breve y luego extiende los brazos de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на скамью, выпрямив спину и поставив ноги на землю.",
+      "Держите штангу узким хватом за шеей ладонями вперед.",
+      "Держите локти близко к голове и медленно опустите штангу к затылку.",
+      "Сделайте паузу на мгновение, затем вытяните руки обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "坐在长凳上，背部挺直，双脚平放在地上。",
+      "紧紧抓住颈后的杠铃，手掌朝前。",
+      "保持肘部靠近头部，慢慢将杠铃放低至脑后。",
+      "暂停片刻，然后将手臂伸回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपनी पीठ सीधी और पैर ज़मीन पर सपाट करके एक बेंच पर बैठें।",
+      "बारबेल को अपनी गर्दन के पीछे कसकर पकड़ें, हथेलियाँ आगे की ओर हों।",
+      "अपनी कोहनियों को अपने सिर के पास रखें और बारबेल को धीरे-धीरे अपने सिर के पीछे की ओर नीचे करें।",
+      "एक पल के लिए रुकें, फिर अपनी भुजाओं को वापस प्रारंभिक स्थिति तक फैलाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Usiądź na ławce, plecy wyprostuj, a stopy oprzyj płasko na podłodze.",
+      "Chwyć sztangę wąskim chwytem za głową, dłonie skierowane do przodu.",
+      "Trzymaj łokcie blisko głowy i powoli opuszczaj sztangę w kierunku tyłu głowy.",
+      "Zatrzymaj się na chwilę, a następnie wyprostuj ręce z powrotem do pozycji wyjściowej.",
+      "Powtórz odpowiednią liczbę razy."
+    ],
+    "ko": [
+      "벤치에 앉아 등을 곧게 펴고 발은 바닥에 놓습니다.",
+      "목 뒤에 클로즈그립으로 바벨을 잡으며 손은 앞을 향합니다.",
+      "팔꿈치는 머리 가까이 유지하며 천천히 바벨을 머리 뒤로 내립니다.",
+      "잠시 멈춘 후 팔을 펼쳐 시작 위치로 올립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Assieds-toi sur un banc, le dos droit et les pieds à plat sur le sol.",
+      "Tiens la barre en prise serrée derrière ta nuque, les paumes tournées vers l'avant.",
+      "Garde tes coudes près de ta tête et abaisse lentement la barre vers l'arrière de ta tête.",
+      "Marque une pause, puis étends tes bras vers le haut pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders"
+  ],
+  "target": "triceps",
+  "image": "images/1718-4CBIBOM.jpg",
+  "gif_url": "videos/1718-4CBIBOM.gif",
+  "media_id": "4CBIBOM",
+  "created_at": "2026-03-18T12:31:32.872703+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

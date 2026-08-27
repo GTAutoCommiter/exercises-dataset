@@ -1,0 +1,91 @@
+{
+  "id": "1368",
+  "name": "ankle circles",
+  "category": "lower legs",
+  "body_part": "lower legs",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Sit on the ground with your legs extended in front of you. Lift one leg off the ground and rotate your ankle in a circular motion. Perform the desired number of circles in one direction, then switch to the other direction. Repeat with the other leg.",
+    "it": "Siediti a terra con le gambe distese davanti a te. Solleva una gamba da terra e ruota la caviglia con un movimento circolare. Esegui il numero desiderato di cerchi in una direzione, quindi passa all'altra direzione. Ripeti con l'altra gamba.",
+    "tr": "Bacaklarınız önünüzde uzatılmış halde yere oturun. Bir bacağınızı yerden kaldırın ve bileğinizi dairesel bir hareketle döndürün. İstediğiniz sayıda daireyi bir yönde gerçekleştirin, ardından diğer yöne geçin. Diğer bacakla tekrarlayın.",
+    "es": "Siéntate en el suelo con las piernas extendidas frente a ti. Levanta una pierna del suelo y rota el tobillo con un movimiento circular. Realiza el número de círculos deseado en una dirección, luego cambia a la dirección contraria. Repite con la otra pierna.",
+    "ru": "Сядьте на пол, вытянув ноги перед собой. Поднимите одну ногу с земли и сделайте круговые движения лодыжкой. Выполните нужное количество кругов в одну сторону, затем переключитесь на другую сторону. Повторите с другой ногой.",
+    "zh": "坐在地上，双腿在身前伸展。 将一条腿抬离地面，并以圆周运动旋转脚踝。 在一个方向上转所需的圈数，然后切换到另一个方向。 换另一条腿重复上述步骤。",
+    "hi": "अपने पैरों को सामने फैलाकर जमीन पर बैठें। एक पैर को जमीन से ऊपर उठाएं और अपने टखने को गोलाकार गति में घुमाएं। एक दिशा में वांछित संख्या में वृत्त बनाएं, फिर दूसरी दिशा में स्विच करें। दूसरे पैर से दोहराएँ।",
+    "pl": "Usiądź na podłodze z nogami wyciągniętymi przed sobą. Unieś jedną nogę nad podłogę i wykonuj okrężny ruch kostką. Wykonaj zalecaną liczbę okrążeń w jednym kierunku, a następnie zmień kierunek. Powtórz drugą nogą.",
+    "ko": "바닥에 앉아 다리를 앞으로 펼칩니다. 한쪽 다리를 바닥에서 들어 발목을 원형으로 회전시킵니다. 원하는 횟수만큼 한 방향으로 회전한 다음 반대 방향으로 회전합니다. 반대쪽 다리로 같은 동작을 반복합니다.",
+    "fr": "Assieds-toi au sol, les jambes tendues devant toi. Décolle une jambe du sol et fais tourner ta cheville en cercle. Effectue le nombre de cercles souhaité dans une direction, puis change de direction. Répète avec l'autre jambe."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on the ground with your legs extended in front of you.",
+      "Lift one leg off the ground and rotate your ankle in a circular motion.",
+      "Perform the desired number of circles in one direction, then switch to the other direction.",
+      "Repeat with the other leg."
+    ],
+    "it": [
+      "Siediti a terra con le gambe distese davanti a te.",
+      "Solleva una gamba da terra e ruota la caviglia con un movimento circolare.",
+      "Esegui il numero desiderato di cerchi in una direzione, quindi passa all'altra direzione.",
+      "Ripeti con l'altra gamba."
+    ],
+    "tr": [
+      "Bacaklarınız önünüzde uzatılmış halde yere oturun.",
+      "Bir bacağınızı yerden kaldırın ve bileğinizi dairesel bir hareketle döndürün.",
+      "İstediğiniz sayıda daireyi bir yönde gerçekleştirin, ardından diğer yöne geçin.",
+      "Diğer bacakla tekrarlayın."
+    ],
+    "es": [
+      "Siéntate en el suelo con las piernas extendidas frente a ti.",
+      "Levanta una pierna del suelo y rota el tobillo con un movimiento circular.",
+      "Realiza el número de círculos deseado en una dirección, luego cambia a la dirección contraria.",
+      "Repite con la otra pierna."
+    ],
+    "ru": [
+      "Сядьте на пол, вытянув ноги перед собой.",
+      "Поднимите одну ногу с земли и сделайте круговые движения лодыжкой.",
+      "Выполните нужное количество кругов в одну сторону, затем переключитесь на другую сторону.",
+      "Повторите с другой ногой."
+    ],
+    "zh": [
+      "坐在地上，双腿在身前伸展。",
+      "将一条腿抬离地面，并以圆周运动旋转脚踝。",
+      "在一个方向上转所需的圈数，然后切换到另一个方向。",
+      "换另一条腿重复上述步骤。"
+    ],
+    "hi": [
+      "अपने पैरों को सामने फैलाकर जमीन पर बैठें।",
+      "एक पैर को जमीन से ऊपर उठाएं और अपने टखने को गोलाकार गति में घुमाएं।",
+      "एक दिशा में वांछित संख्या में वृत्त बनाएं, फिर दूसरी दिशा में स्विच करें।",
+      "दूसरे पैर से दोहराएँ।"
+    ],
+    "pl": [
+      "Usiądź na podłodze z nogami wyciągniętymi przed sobą.",
+      "Unieś jedną nogę nad podłogę i wykonuj okrężny ruch kostką.",
+      "Wykonaj zalecaną liczbę okrążeń w jednym kierunku, a następnie zmień kierunek.",
+      "Powtórz drugą nogą."
+    ],
+    "ko": [
+      "바닥에 앉아 다리를 앞으로 펼칩니다.",
+      "한쪽 다리를 바닥에서 들어 발목을 원형으로 회전시킵니다.",
+      "원하는 횟수만큼 한 방향으로 회전한 다음 반대 방향으로 회전합니다.",
+      "반대쪽 다리로 같은 동작을 반복합니다."
+    ],
+    "fr": [
+      "Assieds-toi au sol, les jambes tendues devant toi.",
+      "Décolle une jambe du sol et fais tourner ta cheville en cercle.",
+      "Effectue le nombre de cercles souhaité dans une direction, puis change de direction.",
+      "Répète avec l'autre jambe."
+    ]
+  },
+  "muscle_group": "ankle stabilizers",
+  "secondary_muscles": [
+    "ankle stabilizers"
+  ],
+  "target": "calves",
+  "image": "images/1368-uL9CsKm.jpg",
+  "gif_url": "videos/1368-uL9CsKm.gif",
+  "media_id": "uL9CsKm",
+  "created_at": "2026-03-18T12:31:32.855057+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

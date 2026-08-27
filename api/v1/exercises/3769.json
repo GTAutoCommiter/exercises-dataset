@@ -1,0 +1,113 @@
+{
+  "id": "3769",
+  "name": "curtsey squat",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart. Take a step diagonally behind and across your body with your right foot, crossing it behind your left leg. Bend both knees as if you were curtsying, lowering your body towards the ground. Keep your torso upright and your weight on your front foot. Push through your front foot to return to the starting position. Repeat on the other side, stepping diagonally behind and across your body with your left foot.",
+    "it": "Stai con i piedi a larghezza delle spalle. Fai un passo diagonalmente dietro e attraverso il corpo con il piede destro, incrociandolo dietro la gamba sinistra. Piega entrambe le ginocchia come se stessi facendo un inchino, abbassando il corpo verso terra. Mantieni il busto eretto e il peso sul piede anteriore. Spingi con il piede anteriore per tornare alla posizione di partenza. Ripeti dall'altro lato, camminando diagonalmente dietro e attraverso il corpo con il piede sinistro.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durun. Sağ ayağınızla vücudunuzun arkasına ve çaprazına çapraz bir adım atın, sol bacağınızın arkasından geçin. Her iki dizinizi de sanki reverans yapıyormuş gibi bükün ve vücudunuzu yere doğru indirin. Gövdenizi dik tutun ve ağırlığınızı ön ayağınıza verin. Başlangıç ​​pozisyonuna dönmek için ön ayağınızı itin. Sol ayağınızla çapraz olarak vücudunuzun arkasına ve çapraz adım atarak diğer tarafta tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros. Da un paso en diagonal hacia atrás y a través de tu cuerpo con el pie derecho, cruzándolo detrás de la pierna izquierda. Flexiona ambas rodillas como si hicieras una reverencia, bajando el cuerpo hacia el suelo. Mantén el torso erguido y el peso sobre el pie delantero. Empuja con el pie delantero para regresar a la posición inicial. Repite en el otro lado, dando un paso en diagonal hacia atrás y a través de tu cuerpo con el pie izquierdo.",
+    "ru": "Встаньте, ноги на ширине плеч. Сделайте шаг по диагонали позади и поперек тела правой ногой, скрестив ее за левой ногой. Согните оба колена, как будто вы делаете реверанс, опуская тело к земле. Держите туловище в вертикальном положении, а вес тела перенесите на переднюю ногу. Оттолкнитесь передней ногой, чтобы вернуться в исходное положение. Повторите то же самое с другой стороны, шагая левой ногой по диагонали позади и поперек тела.",
+    "zh": "双脚分开与肩同宽站立。 右脚向斜后方跨出一步，跨过身体，交叉在左腿后面。 弯曲双膝，就像行屈膝礼一样，将身体降低到地面。 保持躯干直立，将体重放在前脚上。 推动前脚返回起始位置。 在另一侧重复，用左脚斜向后方跨过身体。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई की दूरी पर रखकर खड़े हो जाएं। अपने दाहिने पैर को अपने बाएं पैर के पीछे से पार करते हुए, अपने शरीर के पीछे और तिरछे एक कदम उठाएं। दोनों घुटनों को मोड़ें जैसे कि आप कर्टसी कर रहे हों, अपने शरीर को ज़मीन की ओर झुकाएँ। अपने धड़ को सीधा रखें और अपना वजन अपने सामने वाले पैर पर रखें। प्रारंभिक स्थिति में लौटने के लिए अपने सामने वाले पैर से धक्का दें। दूसरी तरफ दोहराएँ, अपने बाएँ पैर से अपने शरीर के पीछे और आर-पार तिरछे कदम बढ़ाते हुए।",
+    "pl": "Stań, ustawiając stopy na szerokość barków. Zrób krok po przekątnej za siebie i w poprzek ciała prawą stopą, krzyżując ją za lewą nogą. Ugnij oba kolana, jakbyś wykonywał dygnięcie, opuszczając ciało w kierunku podłogi. Trzymaj tułów wyprostowany, a ciężar ciała na przedniej stopie. Wypchnij się przez przednią stopę, aby wrócić do pozycji wyjściowej. Powtórz po drugiej stronie, robiąc krok po przekątnej za siebie i w poprzek ciała lewą stopą.",
+    "ko": "발을 어깨너비로 벌리고 섭니다. 오른발을 대각선으로 뒤쪽으로 옮기며 왼쪽 다리를 넘어 몸 뒤로 지나가도록 합니다. 커티시를 하듯이 두 무릎을 구부리며 몸을 바닥 쪽으로 내립니다. 몸통은 곧게 유지하고 무게는 앞쪽 발에 둡니다. 앞쪽 발로 밀어 처음 위치로 돌아갑니다. 반대쪽도 반복합니다. 왼발을 대각선으로 뒤쪽으로 옮기며 몸 뒤로 지나가도록 합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules. Fais un pas en diagonale derrière et en travers de ton corps avec le pied droit, en le croisant derrière ta jambe gauche. Fléchis les deux genoux comme si tu faisais une révérence, en abaissant ton corps vers le sol. Garde le torse droit et le poids sur le pied avant. Pousse à travers ton pied avant pour revenir à la position de départ. Répète de l'autre côté en faisant un pas en diagonale derrière et en travers de ton corps avec ton pied gauche."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart.",
+      "Take a step diagonally behind and across your body with your right foot, crossing it behind your left leg.",
+      "Bend both knees as if you were curtsying, lowering your body towards the ground.",
+      "Keep your torso upright and your weight on your front foot.",
+      "Push through your front foot to return to the starting position.",
+      "Repeat on the other side, stepping diagonally behind and across your body with your left foot."
+    ],
+    "it": [
+      "Stai con i piedi a larghezza delle spalle.",
+      "Fai un passo diagonalmente dietro e attraverso il corpo con il piede destro, incrociandolo dietro la gamba sinistra.",
+      "Piega entrambe le ginocchia come se stessi facendo un inchino, abbassando il corpo verso terra.",
+      "Mantieni il busto eretto e il peso sul piede anteriore.",
+      "Spingi con il piede anteriore per tornare alla posizione di partenza.",
+      "Ripeti dall'altro lato, camminando diagonalmente dietro e attraverso il corpo con il piede sinistro."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durun.",
+      "Sağ ayağınızla vücudunuzun arkasına ve çaprazına çapraz bir adım atın, sol bacağınızın arkasından geçin.",
+      "Her iki dizinizi de sanki reverans yapıyormuş gibi bükün ve vücudunuzu yere doğru indirin.",
+      "Gövdenizi dik tutun ve ağırlığınızı ön ayağınıza verin.",
+      "Başlangıç ​​pozisyonuna dönmek için ön ayağınızı itin.",
+      "Sol ayağınızla çapraz olarak vücudunuzun arkasına ve çapraz adım atarak diğer tarafta tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros.",
+      "Da un paso en diagonal hacia atrás y a través de tu cuerpo con el pie derecho, cruzándolo detrás de la pierna izquierda.",
+      "Flexiona ambas rodillas como si hicieras una reverencia, bajando el cuerpo hacia el suelo.",
+      "Mantén el torso erguido y el peso sobre el pie delantero.",
+      "Empuja con el pie delantero para regresar a la posición inicial.",
+      "Repite en el otro lado, dando un paso en diagonal hacia atrás y a través de tu cuerpo con el pie izquierdo."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч.",
+      "Сделайте шаг по диагонали позади и поперек тела правой ногой, скрестив ее за левой ногой.",
+      "Согните оба колена, как будто вы делаете реверанс, опуская тело к земле.",
+      "Держите туловище в вертикальном положении, а вес тела перенесите на переднюю ногу.",
+      "Оттолкнитесь передней ногой, чтобы вернуться в исходное положение.",
+      "Повторите то же самое с другой стороны, шагая левой ногой по диагонали позади и поперек тела."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立。",
+      "右脚向斜后方跨出一步，跨过身体，交叉在左腿后面。",
+      "弯曲双膝，就像行屈膝礼一样，将身体降低到地面。",
+      "保持躯干直立，将体重放在前脚上。",
+      "推动前脚返回起始位置。",
+      "在另一侧重复，用左脚斜向后方跨过身体。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई की दूरी पर रखकर खड़े हो जाएं।",
+      "अपने दाहिने पैर को अपने बाएं पैर के पीछे से पार करते हुए, अपने शरीर के पीछे और तिरछे एक कदम उठाएं।",
+      "दोनों घुटनों को मोड़ें जैसे कि आप कर्टसी कर रहे हों, अपने शरीर को ज़मीन की ओर झुकाएँ।",
+      "अपने धड़ को सीधा रखें और अपना वजन अपने सामने वाले पैर पर रखें।",
+      "प्रारंभिक स्थिति में लौटने के लिए अपने सामने वाले पैर से धक्का दें।",
+      "दूसरी तरफ दोहराएँ, अपने बाएँ पैर से अपने शरीर के पीछे और आर-पार तिरछे कदम बढ़ाते हुए।"
+    ],
+    "pl": [
+      "Stań, ustawiając stopy na szerokość barków.",
+      "Zrób krok po przekątnej za siebie i w poprzek ciała prawą stopą, krzyżując ją za lewą nogą.",
+      "Ugnij oba kolana, jakbyś wykonywał dygnięcie, opuszczając ciało w kierunku podłogi.",
+      "Trzymaj tułów wyprostowany, a ciężar ciała na przedniej stopie.",
+      "Wypchnij się przez przednią stopę, aby wrócić do pozycji wyjściowej.",
+      "Powtórz po drugiej stronie, robiąc krok po przekątnej za siebie i w poprzek ciała lewą stopą."
+    ],
+    "ko": [
+      "발을 어깨너비로 벌리고 섭니다.",
+      "오른발을 대각선으로 뒤쪽으로 옮기며 왼쪽 다리를 넘어 몸 뒤로 지나가도록 합니다.",
+      "커티시를 하듯이 두 무릎을 구부리며 몸을 바닥 쪽으로 내립니다.",
+      "몸통은 곧게 유지하고 무게는 앞쪽 발에 둡니다.",
+      "앞쪽 발로 밀어 처음 위치로 돌아갑니다.",
+      "반대쪽도 반복합니다. 왼발을 대각선으로 뒤쪽으로 옮기며 몸 뒤로 지나가도록 합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules.",
+      "Fais un pas en diagonale derrière et en travers de ton corps avec le pied droit, en le croisant derrière ta jambe gauche.",
+      "Fléchis les deux genoux comme si tu faisais une révérence, en abaissant ton corps vers le sol.",
+      "Garde le torse droit et le poids sur le pied avant.",
+      "Pousse à travers ton pied avant pour revenir à la position de départ.",
+      "Répète de l'autre côté en faisant un pas en diagonale derrière et en travers de ton corps avec ton pied gauche."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "glutes",
+  "image": "images/3769-gUjqdei.jpg",
+  "gif_url": "videos/3769-gUjqdei.gif",
+  "media_id": "gUjqdei",
+  "created_at": "2026-03-18T12:31:32.877329+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

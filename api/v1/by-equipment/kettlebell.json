@@ -1,0 +1,412 @@
+[
+  {
+    "id": "0517",
+    "name": "kettlebell advanced windmill",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "kettlebell",
+    "target": "abs",
+    "image": "images/0517-Kal9cQQ.jpg",
+    "gif_url": "videos/0517-Kal9cQQ.gif"
+  },
+  {
+    "id": "0518",
+    "name": "kettlebell alternating hang clean",
+    "category": "lower arms",
+    "body_part": "lower arms",
+    "equipment": "kettlebell",
+    "target": "forearms",
+    "image": "images/0518-I4tibZG.jpg",
+    "gif_url": "videos/0518-I4tibZG.gif"
+  },
+  {
+    "id": "0520",
+    "name": "kettlebell alternating press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "kettlebell",
+    "target": "delts",
+    "image": "images/0520-5KLbZWx.jpg",
+    "gif_url": "videos/0520-5KLbZWx.gif"
+  },
+  {
+    "id": "0519",
+    "name": "kettlebell alternating press on floor",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "kettlebell",
+    "target": "pectorals",
+    "image": "images/0519-7w6i0vE.jpg",
+    "gif_url": "videos/0519-7w6i0vE.gif"
+  },
+  {
+    "id": "0521",
+    "name": "kettlebell alternating renegade row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "kettlebell",
+    "target": "upper back",
+    "image": "images/0521-b9kqlBy.jpg",
+    "gif_url": "videos/0521-b9kqlBy.gif"
+  },
+  {
+    "id": "0522",
+    "name": "kettlebell alternating row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "kettlebell",
+    "target": "upper back",
+    "image": "images/0522-Ca76jUE.jpg",
+    "gif_url": "videos/0522-Ca76jUE.gif"
+  },
+  {
+    "id": "0523",
+    "name": "kettlebell arnold press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "kettlebell",
+    "target": "delts",
+    "image": "images/0523-UM8mgyG.jpg",
+    "gif_url": "videos/0523-UM8mgyG.gif"
+  },
+  {
+    "id": "0524",
+    "name": "kettlebell bent press",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "kettlebell",
+    "target": "abs",
+    "image": "images/0524-kjE55n5.jpg",
+    "gif_url": "videos/0524-kjE55n5.gif"
+  },
+  {
+    "id": "0525",
+    "name": "kettlebell bottoms up clean from the hang position",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "kettlebell",
+    "target": "biceps",
+    "image": "images/0525-4KJEpzb.jpg",
+    "gif_url": "videos/0525-4KJEpzb.gif"
+  },
+  {
+    "id": "0526",
+    "name": "kettlebell double alternating hang clean",
+    "category": "upper arms",
+    "body_part": "upper arms",
+    "equipment": "kettlebell",
+    "target": "biceps",
+    "image": "images/0526-a4F9Oyc.jpg",
+    "gif_url": "videos/0526-a4F9Oyc.gif"
+  },
+  {
+    "id": "0527",
+    "name": "kettlebell double jerk",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "kettlebell",
+    "target": "delts",
+    "image": "images/0527-tznL2Ad.jpg",
+    "gif_url": "videos/0527-tznL2Ad.gif"
+  },
+  {
+    "id": "0528",
+    "name": "kettlebell double push press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "kettlebell",
+    "target": "delts",
+    "image": "images/0528-I4KkPdl.jpg",
+    "gif_url": "videos/0528-I4KkPdl.gif"
+  },
+  {
+    "id": "0529",
+    "name": "kettlebell double snatch",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "kettlebell",
+    "target": "delts",
+    "image": "images/0529-M74kdvm.jpg",
+    "gif_url": "videos/0529-M74kdvm.gif"
+  },
+  {
+    "id": "0530",
+    "name": "kettlebell double windmill",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "kettlebell",
+    "target": "abs",
+    "image": "images/0530-OaE7CpD.jpg",
+    "gif_url": "videos/0530-OaE7CpD.gif"
+  },
+  {
+    "id": "0531",
+    "name": "kettlebell extended range one arm press on floor",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "kettlebell",
+    "target": "pectorals",
+    "image": "images/0531-rseLfH3.jpg",
+    "gif_url": "videos/0531-rseLfH3.gif"
+  },
+  {
+    "id": "0532",
+    "name": "kettlebell figure 8",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "kettlebell",
+    "target": "abs",
+    "image": "images/0532-L4ay0PW.jpg",
+    "gif_url": "videos/0532-L4ay0PW.gif"
+  },
+  {
+    "id": "0533",
+    "name": "kettlebell front squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "kettlebell",
+    "target": "glutes",
+    "image": "images/0533-DB0n8AG.jpg",
+    "gif_url": "videos/0533-DB0n8AG.gif"
+  },
+  {
+    "id": "0534",
+    "name": "kettlebell goblet squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "kettlebell",
+    "target": "glutes",
+    "image": "images/0534-ZA8b5hc.jpg",
+    "gif_url": "videos/0534-ZA8b5hc.gif"
+  },
+  {
+    "id": "0535",
+    "name": "kettlebell hang clean",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "kettlebell",
+    "target": "hamstrings",
+    "image": "images/0535-LHWF7us.jpg",
+    "gif_url": "videos/0535-LHWF7us.gif"
+  },
+  {
+    "id": "0536",
+    "name": "kettlebell lunge pass through",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "kettlebell",
+    "target": "glutes",
+    "image": "images/0536-WKMQzCD.jpg",
+    "gif_url": "videos/0536-WKMQzCD.gif"
+  },
+  {
+    "id": "0537",
+    "name": "kettlebell one arm clean and jerk",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "kettlebell",
+    "target": "delts",
+    "image": "images/0537-vzAxBtt.jpg",
+    "gif_url": "videos/0537-vzAxBtt.gif"
+  },
+  {
+    "id": "1298",
+    "name": "kettlebell one arm floor press",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "kettlebell",
+    "target": "pectorals",
+    "image": "images/1298-rg59QCH.jpg",
+    "gif_url": "videos/1298-rg59QCH.gif"
+  },
+  {
+    "id": "0538",
+    "name": "kettlebell one arm jerk",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "kettlebell",
+    "target": "delts",
+    "image": "images/0538-S37C94C.jpg",
+    "gif_url": "videos/0538-S37C94C.gif"
+  },
+  {
+    "id": "0539",
+    "name": "kettlebell one arm military press to the side",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "kettlebell",
+    "target": "delts",
+    "image": "images/0539-yCvYdi7.jpg",
+    "gif_url": "videos/0539-yCvYdi7.gif"
+  },
+  {
+    "id": "0540",
+    "name": "kettlebell one arm push press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "kettlebell",
+    "target": "delts",
+    "image": "images/0540-osdXT3K.jpg",
+    "gif_url": "videos/0540-osdXT3K.gif"
+  },
+  {
+    "id": "0541",
+    "name": "kettlebell one arm row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "kettlebell",
+    "target": "upper back",
+    "image": "images/0541-g9AsZ8P.jpg",
+    "gif_url": "videos/0541-g9AsZ8P.gif"
+  },
+  {
+    "id": "0542",
+    "name": "kettlebell one arm snatch",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "kettlebell",
+    "target": "delts",
+    "image": "images/0542-aXcUyKb.jpg",
+    "gif_url": "videos/0542-aXcUyKb.gif"
+  },
+  {
+    "id": "0543",
+    "name": "kettlebell pirate supper legs",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "kettlebell",
+    "target": "delts",
+    "image": "images/0543-kuXhl0o.jpg",
+    "gif_url": "videos/0543-kuXhl0o.gif"
+  },
+  {
+    "id": "0544",
+    "name": "kettlebell pistol squat",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "kettlebell",
+    "target": "glutes",
+    "image": "images/0544-5bpPTHv.jpg",
+    "gif_url": "videos/0544-5bpPTHv.gif"
+  },
+  {
+    "id": "0545",
+    "name": "kettlebell plyo push-up",
+    "category": "chest",
+    "body_part": "chest",
+    "equipment": "kettlebell",
+    "target": "pectorals",
+    "image": "images/0545-ktf3nvW.jpg",
+    "gif_url": "videos/0545-ktf3nvW.gif"
+  },
+  {
+    "id": "0546",
+    "name": "kettlebell seated press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "kettlebell",
+    "target": "delts",
+    "image": "images/0546-BkxB8LW.jpg",
+    "gif_url": "videos/0546-BkxB8LW.gif"
+  },
+  {
+    "id": "1438",
+    "name": "kettlebell seated two arm military press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "kettlebell",
+    "target": "delts",
+    "image": "images/1438-ZEkjZDi.jpg",
+    "gif_url": "videos/1438-ZEkjZDi.gif"
+  },
+  {
+    "id": "0547",
+    "name": "kettlebell seesaw press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "kettlebell",
+    "target": "delts",
+    "image": "images/0547-UDm6cGl.jpg",
+    "gif_url": "videos/0547-UDm6cGl.gif"
+  },
+  {
+    "id": "0548",
+    "name": "kettlebell sumo high pull",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "kettlebell",
+    "target": "traps",
+    "image": "images/0548-8ARQ9Hw.jpg",
+    "gif_url": "videos/0548-8ARQ9Hw.gif"
+  },
+  {
+    "id": "0549",
+    "name": "kettlebell swing",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "kettlebell",
+    "target": "glutes",
+    "image": "images/0549-UHJlbu3.jpg",
+    "gif_url": "videos/0549-UHJlbu3.gif"
+  },
+  {
+    "id": "0550",
+    "name": "kettlebell thruster",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "kettlebell",
+    "target": "delts",
+    "image": "images/0550-yWxMvB5.jpg",
+    "gif_url": "videos/0550-yWxMvB5.gif"
+  },
+  {
+    "id": "0551",
+    "name": "kettlebell turkish get up (squat style)",
+    "category": "upper legs",
+    "body_part": "upper legs",
+    "equipment": "kettlebell",
+    "target": "glutes",
+    "image": "images/0551-Ha7SZ3y.jpg",
+    "gif_url": "videos/0551-Ha7SZ3y.gif"
+  },
+  {
+    "id": "0552",
+    "name": "kettlebell two arm clean",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "kettlebell",
+    "target": "delts",
+    "image": "images/0552-7Ba7bQ2.jpg",
+    "gif_url": "videos/0552-7Ba7bQ2.gif"
+  },
+  {
+    "id": "0553",
+    "name": "kettlebell two arm military press",
+    "category": "shoulders",
+    "body_part": "shoulders",
+    "equipment": "kettlebell",
+    "target": "delts",
+    "image": "images/0553-blBXysN.jpg",
+    "gif_url": "videos/0553-blBXysN.gif"
+  },
+  {
+    "id": "1345",
+    "name": "kettlebell two arm row",
+    "category": "back",
+    "body_part": "back",
+    "equipment": "kettlebell",
+    "target": "upper back",
+    "image": "images/1345-wf24o8S.jpg",
+    "gif_url": "videos/1345-wf24o8S.gif"
+  },
+  {
+    "id": "0554",
+    "name": "kettlebell windmill",
+    "category": "waist",
+    "body_part": "waist",
+    "equipment": "kettlebell",
+    "target": "abs",
+    "image": "images/0554-9Tkqa9O.jpg",
+    "gif_url": "videos/0554-9Tkqa9O.gif"
+  }
+]

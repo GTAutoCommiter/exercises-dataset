@@ -1,0 +1,142 @@
+{
+  "id": "0170",
+  "name": "cable incline fly (on stability ball)",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Set up a stability ball at an incline angle. Attach the cable handles to the high pulleys of a cable machine. Sit on the stability ball facing away from the machine, with your feet firmly planted on the ground. Grasp the cable handles with an overhand grip, palms facing forward. Lean forward slightly, keeping your back straight and core engaged. With a controlled motion, bring your arms out to the sides, keeping a slight bend in your elbows. Continue the motion until your arms are parallel to the ground. Pause for a moment, then slowly return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Prepara una palla di stabilità con un angolo inclinato. Attacca le maniglie dei cavi alle carrucole alte di una macchina per cavi. Siediti sulla sfera di stabilità rivolta di spalle alla macchina, con i piedi ben piantati a terra. Afferra le maniglie del cavo con una presa sopra la mano, palmi rivolti in avanti. Inclinati leggermente in avanti, mantenendo la schiena dritta e il core attivo. Con un movimento controllato, porta le braccia ai lati, mantenendo una leggera piega dei gomiti. Continua il movimento finché le braccia non sono parallele al suolo. Fermati un attimo, poi torna lentamente alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Eğimli bir açıda bir denge topu kurun. Kablo tutamaklarını bir kablo makinesinin yüksek makaralarına takın. Ayaklarınız yere sağlam bir şekilde basacak şekilde denge topunun üzerine yüzünüz makineden uzak olacak şekilde oturun. Kablo tutamaklarını avuç içleriniz öne bakacak şekilde üstten kavrayın. Hafifçe öne doğru eğilin, sırtınızı düz ve göbek bölgenizi meşgul tutun. Kontrollü bir hareketle, dirseklerinizi hafif bükerek kollarınızı yanlara doğru açın. Kollarınız yere paralel oluncaya kadar harekete devam edin. Bir an duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Coloca un balón de estabilidad en un ángulo inclinado. Sujeta las agarraderas del cable a las poleas altas de una máquina de cable. Siéntate sobre el balón de estabilidad de espaldas a la máquina, con los pies firmemente apoyados en el suelo. Sujeta las agarraderas del cable con un agarre prono, con las palmas hacia adelante. Inclínate ligeramente hacia adelante, manteniendo la espalda recta y el core activado. Con un movimiento controlado, lleva los brazos hacia los lados, manteniendo una ligera flexión en los codos. Continúa el movimiento hasta que los brazos queden paralelos al suelo. Haz una pausa por un momento, luego regresa lentamente a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Установите мяч для стабилизации под углом наклона. Прикрепите рукоятки троса к высоким шкивам канатной машины. Сядьте на стабилизирующий шар лицом в сторону от машины, твердо поставьте ноги на землю. Возьмитесь за рукоятки троса верхним хватом, ладонями вперед. Слегка наклонитесь вперед, сохраняя спину прямой и напряженным корпусом. Контролируемым движением разведите руки в стороны, сохраняя небольшой изгиб в локтях. Продолжайте движение, пока ваши руки не станут параллельны земле. Сделайте паузу на мгновение, затем медленно вернитесь в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "以倾斜角度设置稳定球。 将电缆手柄连接到电缆机的高滑轮上。 背对机器坐在稳定球上，双脚牢牢踩在地面上。 正手握住电缆手柄，手掌朝前。 稍微向前倾，保持背部挺直，核心参与。 控制动作，将手臂向两侧伸出，保持肘部轻微弯曲。 继续这个动作，直到手臂与地面平行。 暂停片刻，然后慢慢回到起始位置。 重复所需的重复次数。",
+    "hi": "एक झुकाव वाले कोण पर स्थिरता गेंद स्थापित करें। केबल हैंडल को केबल मशीन की ऊंची पुली से जोड़ें। स्टेबिलिटी बॉल पर मशीन से दूर की ओर मुंह करके बैठें, अपने पैरों को मजबूती से जमीन पर टिकाएं। केबल के हैंडल को ओवरहैंड ग्रिप से पकड़ें, हथेलियाँ आगे की ओर हों। अपनी पीठ सीधी और कोर व्यस्त रखते हुए थोड़ा आगे झुकें। नियंत्रित गति के साथ, अपनी कोहनियों को हल्का सा मोड़ते हुए, अपनी भुजाओं को बगल की ओर लाएँ। जब तक आपकी भुजाएं जमीन के समानांतर न हो जाएं तब तक गति जारी रखें। एक पल के लिए रुकें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Ustaw piłkę gimnastyczną pod skośnym kątem. Podłącz uchwyty wyciągu do górnych bloczków maszyny. Usiądź na piłce tyłem do maszyny, opierając stopy pewnie o podłogę. Chwyć uchwyty wyciągu nachwytem, dłonie skierowane do przodu. Pochyl się lekko do przodu, utrzymując proste plecy i napięty tułów. Kontrolowanym ruchem rozłóż ramiona na boki, zachowując lekkie ugięcie w łokciach. Kontynuuj ruch, aż ramiona będą równoległe do podłogi. Zatrzymaj się na moment, a następnie powoli wróć do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "스태빌리티 볼을 인클라인 각도로 설정합니다. 케이블 머신의 높은 풀리에 케이블 핸델을 부착합니다. 머신을 등지고 스태빌리티 볼에 앉아 발을 바닥에 단단히 고정합니다. 오버핸드 그립(손바닥이 앞을 향함)으로 케이블 핸델을 잡습니다. 등을 약간 앞으로 기울이되 등은 곧게 하고 코어를 긴장시킵니다. 조절된 동작으로 팔을 옆으로 들되 팔꿈치를 약간 구부립니다. 팔이 바닥과 평행이 될 때까지 계속 동작을 진행합니다. 잠깐 멈추었다가 천천히 시작 위치로 돌아갑니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Installe un ballon de stabilité en position inclinée. Fixe les poignées de câble aux poulies hautes d'une machine à câble. Assieds-toi sur le ballon de stabilité, dos à la machine, les pieds fermement ancrés au sol. Saisis les poignées du câble avec une prise en pronation, les paumes tournées vers l'avant. Penche-toi légèrement en avant, en gardant le dos droit et la sangle abdominale gainée. Dans un mouvement contrôlé, écarte tes bras sur les côtés en gardant une légère flexion dans tes coudes. Continue le mouvement jusqu'à ce que tes bras soient parallèles au sol. Marque une pause, puis reviens lentement à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Set up a stability ball at an incline angle.",
+      "Attach the cable handles to the high pulleys of a cable machine.",
+      "Sit on the stability ball facing away from the machine, with your feet firmly planted on the ground.",
+      "Grasp the cable handles with an overhand grip, palms facing forward.",
+      "Lean forward slightly, keeping your back straight and core engaged.",
+      "With a controlled motion, bring your arms out to the sides, keeping a slight bend in your elbows.",
+      "Continue the motion until your arms are parallel to the ground.",
+      "Pause for a moment, then slowly return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Prepara una palla di stabilità con un angolo inclinato.",
+      "Attacca le maniglie dei cavi alle carrucole alte di una macchina per cavi.",
+      "Siediti sulla sfera di stabilità rivolta di spalle alla macchina, con i piedi ben piantati a terra.",
+      "Afferra le maniglie del cavo con una presa sopra la mano, palmi rivolti in avanti.",
+      "Inclinati leggermente in avanti, mantenendo la schiena dritta e il core attivo.",
+      "Con un movimento controllato, porta le braccia ai lati, mantenendo una leggera piega dei gomiti.",
+      "Continua il movimento finché le braccia non sono parallele al suolo.",
+      "Fermati un attimo, poi torna lentamente alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Eğimli bir açıda bir denge topu kurun.",
+      "Kablo tutamaklarını bir kablo makinesinin yüksek makaralarına takın.",
+      "Ayaklarınız yere sağlam bir şekilde basacak şekilde denge topunun üzerine yüzünüz makineden uzak olacak şekilde oturun.",
+      "Kablo tutamaklarını avuç içleriniz öne bakacak şekilde üstten kavrayın.",
+      "Hafifçe öne doğru eğilin, sırtınızı düz ve göbek bölgenizi meşgul tutun.",
+      "Kontrollü bir hareketle, dirseklerinizi hafif bükerek kollarınızı yanlara doğru açın.",
+      "Kollarınız yere paralel oluncaya kadar harekete devam edin.",
+      "Bir an duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Coloca un balón de estabilidad en un ángulo inclinado.",
+      "Sujeta las agarraderas del cable a las poleas altas de una máquina de cable.",
+      "Siéntate sobre el balón de estabilidad de espaldas a la máquina, con los pies firmemente apoyados en el suelo.",
+      "Sujeta las agarraderas del cable con un agarre prono, con las palmas hacia adelante.",
+      "Inclínate ligeramente hacia adelante, manteniendo la espalda recta y el core activado.",
+      "Con un movimiento controlado, lleva los brazos hacia los lados, manteniendo una ligera flexión en los codos.",
+      "Continúa el movimiento hasta que los brazos queden paralelos al suelo.",
+      "Haz una pausa por un momento, luego regresa lentamente a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Установите мяч для стабилизации под углом наклона.",
+      "Прикрепите рукоятки троса к высоким шкивам канатной машины.",
+      "Сядьте на стабилизирующий шар лицом в сторону от машины, твердо поставьте ноги на землю.",
+      "Возьмитесь за рукоятки троса верхним хватом, ладонями вперед.",
+      "Слегка наклонитесь вперед, сохраняя спину прямой и напряженным корпусом.",
+      "Контролируемым движением разведите руки в стороны, сохраняя небольшой изгиб в локтях.",
+      "Продолжайте движение, пока ваши руки не станут параллельны земле.",
+      "Сделайте паузу на мгновение, затем медленно вернитесь в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "以倾斜角度设置稳定球。",
+      "将电缆手柄连接到电缆机的高滑轮上。",
+      "背对机器坐在稳定球上，双脚牢牢踩在地面上。",
+      "正手握住电缆手柄，手掌朝前。",
+      "稍微向前倾，保持背部挺直，核心参与。",
+      "控制动作，将手臂向两侧伸出，保持肘部轻微弯曲。",
+      "继续这个动作，直到手臂与地面平行。",
+      "暂停片刻，然后慢慢回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "एक झुकाव वाले कोण पर स्थिरता गेंद स्थापित करें।",
+      "केबल हैंडल को केबल मशीन की ऊंची पुली से जोड़ें।",
+      "स्टेबिलिटी बॉल पर मशीन से दूर की ओर मुंह करके बैठें, अपने पैरों को मजबूती से जमीन पर टिकाएं।",
+      "केबल के हैंडल को ओवरहैंड ग्रिप से पकड़ें, हथेलियाँ आगे की ओर हों।",
+      "अपनी पीठ सीधी और कोर व्यस्त रखते हुए थोड़ा आगे झुकें।",
+      "नियंत्रित गति के साथ, अपनी कोहनियों को हल्का सा मोड़ते हुए, अपनी भुजाओं को बगल की ओर लाएँ।",
+      "जब तक आपकी भुजाएं जमीन के समानांतर न हो जाएं तब तक गति जारी रखें।",
+      "एक पल के लिए रुकें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Ustaw piłkę gimnastyczną pod skośnym kątem.",
+      "Podłącz uchwyty wyciągu do górnych bloczków maszyny.",
+      "Usiądź na piłce tyłem do maszyny, opierając stopy pewnie o podłogę.",
+      "Chwyć uchwyty wyciągu nachwytem, dłonie skierowane do przodu.",
+      "Pochyl się lekko do przodu, utrzymując proste plecy i napięty tułów.",
+      "Kontrolowanym ruchem rozłóż ramiona na boki, zachowując lekkie ugięcie w łokciach.",
+      "Kontynuuj ruch, aż ramiona będą równoległe do podłogi.",
+      "Zatrzymaj się na moment, a następnie powoli wróć do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "스태빌리티 볼을 인클라인 각도로 설정합니다.",
+      "케이블 머신의 높은 풀리에 케이블 핸델을 부착합니다.",
+      "머신을 등지고 스태빌리티 볼에 앉아 발을 바닥에 단단히 고정합니다.",
+      "오버핸드 그립(손바닥이 앞을 향함)으로 케이블 핸델을 잡습니다.",
+      "등을 약간 앞으로 기울이되 등은 곧게 하고 코어를 긴장시킵니다.",
+      "조절된 동작으로 팔을 옆으로 들되 팔꿈치를 약간 구부립니다.",
+      "팔이 바닥과 평행이 될 때까지 계속 동작을 진행합니다.",
+      "잠깐 멈추었다가 천천히 시작 위치로 돌아갑니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Installe un ballon de stabilité en position inclinée.",
+      "Fixe les poignées de câble aux poulies hautes d'une machine à câble.",
+      "Assieds-toi sur le ballon de stabilité, dos à la machine, les pieds fermement ancrés au sol.",
+      "Saisis les poignées du câble avec une prise en pronation, les paumes tournées vers l'avant.",
+      "Penche-toi légèrement en avant, en gardant le dos droit et la sangle abdominale gainée.",
+      "Dans un mouvement contrôlé, écarte tes bras sur les côtés en gardant une légère flexion dans tes coudes.",
+      "Continue le mouvement jusqu'à ce que tes bras soient parallèles au sol.",
+      "Marque une pause, puis reviens lentement à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "deltoids",
+  "secondary_muscles": [
+    "deltoids",
+    "triceps"
+  ],
+  "target": "pectorals",
+  "image": "images/0170-27NNGFr.jpg",
+  "gif_url": "videos/0170-27NNGFr.gif",
+  "media_id": "27NNGFr",
+  "created_at": "2026-03-18T12:31:32.87462+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

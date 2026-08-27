@@ -1,0 +1,102 @@
+{
+  "id": "1737",
+  "name": "dumbbell seated bent over triceps extension",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Sit on a bench with your feet flat on the ground and hold a dumbbell in each hand. Bend forward at the waist, keeping your back straight and your head up. Extend your arms straight back, keeping your elbows close to your head. Pause for a moment, then slowly lower the dumbbells back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Siediti su una panchina con i piedi piatti a terra e tieni un manubrio in ciascuna mano. Piegati in avanti in vita, tenendo la schiena dritta e la testa sollevata. Allunga le braccia dritte all'indietro, tenendo i gomiti vicini alla testa. Fermati un attimo, poi abbassa lentamente i manubri alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız yere düz basacak şekilde bir bankta oturun ve her iki elinizde birer dambıl tutun. Belinizi öne doğru eğin, sırtınızı düz ve başınızı dik tutun. Dirseklerinizi başınıza yakın tutarak kollarınızı düz bir şekilde geriye doğru uzatın. Bir süre duraklayın, ardından dambılları yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Siéntate en un banco con los pies apoyados en el suelo y sujeta una mancuerna en cada mano. Inclínate hacia adelante desde la cintura, manteniendo la espalda recta y la cabeza erguida. Extiende los brazos rectos hacia atrás, manteniendo los codos cerca de la cabeza. Haz una pausa por un momento, luego baja lentamente las mancuernas de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Сядьте на скамью, поставьте ноги на землю и возьмите в каждую руку по гантели. Наклонитесь вперед в талии, держа спину прямо и голову вверх. Вытяните руки прямо назад, держа локти близко к голове. Сделайте паузу на мгновение, затем медленно опустите гантели обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "坐在长凳上，双脚平放在地上，每只手各握一个哑铃。 腰部向前弯曲，保持背部挺直，头部抬起。 将手臂向后伸直，保持肘部靠近头部。 暂停片刻，然后慢慢将哑铃放回起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को ज़मीन पर सपाट करके एक बेंच पर बैठें और प्रत्येक हाथ में एक डम्बल पकड़ें। अपनी पीठ सीधी और सिर ऊपर रखते हुए कमर के बल आगे की ओर झुकें। अपनी कोहनियों को अपने सिर के पास रखते हुए, अपनी भुजाओं को पीछे की ओर सीधा फैलाएँ। एक पल के लिए रुकें, फिर धीरे-धीरे डम्बल को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Usiądź na ławce, stopy oprzyj płasko na podłodze, i trzymaj w każdej dłoni hantlę. Pochyl się do przodu w talii, utrzymując proste plecy i uniesioną głowę. Wyprostuj ręce prosto do tyłu, trzymając łokcie blisko głowy. Zatrzymaj się na chwilę, a następnie powoli opuść hantle z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "벤치에 앉아 발을 땅에 댄 채 양손에 덤벨을 든다. 허리에서 몸을 구부려 등을 곧게 유지하고 머리를 위로 향한다. 팔을 뒤쪽으로 곧게 펼치되 팔꿈치는 머리 근처에 가깝게 유지한다. 잠깐 멈춘 후 천천히 덤벨을 시작 위치로 내린다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Assieds-toi sur un banc, les pieds à plat sur le sol, et tiens un haltère dans chaque main. Penche-toi vers l'avant au niveau de la taille en gardant ton dos droit et ta tête haute. Étends les bras droit vers l'arrière, en gardant les coudes près de ta tête. Marque une pause, puis abaisse lentement les haltères jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on a bench with your feet flat on the ground and hold a dumbbell in each hand.",
+      "Bend forward at the waist, keeping your back straight and your head up.",
+      "Extend your arms straight back, keeping your elbows close to your head.",
+      "Pause for a moment, then slowly lower the dumbbells back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Siediti su una panchina con i piedi piatti a terra e tieni un manubrio in ciascuna mano.",
+      "Piegati in avanti in vita, tenendo la schiena dritta e la testa sollevata.",
+      "Allunga le braccia dritte all'indietro, tenendo i gomiti vicini alla testa.",
+      "Fermati un attimo, poi abbassa lentamente i manubri alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız yere düz basacak şekilde bir bankta oturun ve her iki elinizde birer dambıl tutun.",
+      "Belinizi öne doğru eğin, sırtınızı düz ve başınızı dik tutun.",
+      "Dirseklerinizi başınıza yakın tutarak kollarınızı düz bir şekilde geriye doğru uzatın.",
+      "Bir süre duraklayın, ardından dambılları yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Siéntate en un banco con los pies apoyados en el suelo y sujeta una mancuerna en cada mano.",
+      "Inclínate hacia adelante desde la cintura, manteniendo la espalda recta y la cabeza erguida.",
+      "Extiende los brazos rectos hacia atrás, manteniendo los codos cerca de la cabeza.",
+      "Haz una pausa por un momento, luego baja lentamente las mancuernas de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на скамью, поставьте ноги на землю и возьмите в каждую руку по гантели.",
+      "Наклонитесь вперед в талии, держа спину прямо и голову вверх.",
+      "Вытяните руки прямо назад, держа локти близко к голове.",
+      "Сделайте паузу на мгновение, затем медленно опустите гантели обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "坐在长凳上，双脚平放在地上，每只手各握一个哑铃。",
+      "腰部向前弯曲，保持背部挺直，头部抬起。",
+      "将手臂向后伸直，保持肘部靠近头部。",
+      "暂停片刻，然后慢慢将哑铃放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को ज़मीन पर सपाट करके एक बेंच पर बैठें और प्रत्येक हाथ में एक डम्बल पकड़ें।",
+      "अपनी पीठ सीधी और सिर ऊपर रखते हुए कमर के बल आगे की ओर झुकें।",
+      "अपनी कोहनियों को अपने सिर के पास रखते हुए, अपनी भुजाओं को पीछे की ओर सीधा फैलाएँ।",
+      "एक पल के लिए रुकें, फिर धीरे-धीरे डम्बल को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Usiądź na ławce, stopy oprzyj płasko na podłodze, i trzymaj w każdej dłoni hantlę.",
+      "Pochyl się do przodu w talii, utrzymując proste plecy i uniesioną głowę.",
+      "Wyprostuj ręce prosto do tyłu, trzymając łokcie blisko głowy.",
+      "Zatrzymaj się na chwilę, a następnie powoli opuść hantle z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "벤치에 앉아 발을 땅에 댄 채 양손에 덤벨을 든다.",
+      "허리에서 몸을 구부려 등을 곧게 유지하고 머리를 위로 향한다.",
+      "팔을 뒤쪽으로 곧게 펼치되 팔꿈치는 머리 근처에 가깝게 유지한다.",
+      "잠깐 멈춘 후 천천히 덤벨을 시작 위치로 내린다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Assieds-toi sur un banc, les pieds à plat sur le sol, et tiens un haltère dans chaque main.",
+      "Penche-toi vers l'avant au niveau de la taille en gardant ton dos droit et ta tête haute.",
+      "Étends les bras droit vers l'arrière, en gardant les coudes près de ta tête.",
+      "Marque une pause, puis abaisse lentement les haltères jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "back"
+  ],
+  "target": "triceps",
+  "image": "images/1737-4ievMJ9.jpg",
+  "gif_url": "videos/1737-4ievMJ9.gif",
+  "media_id": "4ievMJ9",
+  "created_at": "2026-03-18T12:31:32.881132+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

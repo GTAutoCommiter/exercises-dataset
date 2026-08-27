@@ -1,0 +1,92 @@
+{
+  "id": "0139",
+  "name": "biceps narrow pull-ups",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Hang from a pull-up bar with your palms facing towards you and your hands shoulder-width apart. Engage your core and pull yourself up towards the bar, focusing on using your biceps to lift your body. Pause for a moment at the top, then slowly lower yourself back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Appenditi a una barra per trazioni con i palmi rivolti verso di te e le mani distanti alla larghezza delle spalle. Impegna il core e tira verso la barra, concentrandoti sull'uso dei bicipiti per sollevare il corpo. Fermati un attimo in cima, poi lentamente scendi di nuovo alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Avuç içleriniz size doğru bakacak ve elleriniz omuz genişliğinde açık olacak şekilde barfiks barına asın. Merkez bölgenizi devreye sokun ve vücudunuzu kaldırmak için bicepslerinizi kullanmaya odaklanarak kendinizi bara doğru çekin. Tepe noktasında bir an duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Cuélgate de una barra de dominadas con las palmas mirando hacia ti y las manos separadas a la altura de los hombros. Activa el core y tira de tu cuerpo hacia la barra, enfocándote en usar los bíceps para levantar el cuerpo. Haz una pausa breve en la parte más alta, luego baja lentamente de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Повисните на перекладине, повернув ладонями к себе и расставив руки на ширине плеч. Напрягите корпус и подтяните себя к перекладине, сосредоточившись на использовании бицепсов для подъема тела. Задержитесь на мгновение в верхней точке, затем медленно опуститесь обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "悬挂在引体向上杆上，手掌朝向自己，双手与肩同宽。 启动你的核心并将自己拉向杠铃，专注于使用二头肌来抬起你的身体。 在最高点暂停片刻，然后慢慢降低回到起始位置。 重复所需的重复次数。",
+    "hi": "अपनी हथेलियों को अपनी ओर रखते हुए और अपने हाथों को कंधे की चौड़ाई से अलग रखते हुए पुल-अप बार से लटकें। अपने कोर को संलग्न करें और अपने शरीर को ऊपर उठाने के लिए अपने बाइसेप्स का उपयोग करने पर ध्यान केंद्रित करते हुए, अपने आप को बार की ओर खींचें। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने आप को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Zwiśnij na drążku do podciągania, dłońmi zwróconymi do siebie, a dłonie rozstawione na szerokość barków. Napnij mięśnie brzucha i podciągnij się w kierunku drążka, skupiając się na wykorzystaniu mięśni dwugłowych do uniesienia ciała. Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść się z powrotem do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "풀업 봉에서 손바닥이 자신을 향하도록 매달리되 손은 어깨 너비로 벌립니다. 코어에 힘을 주고 이두근을 사용하여 몸을 봉 쪽으로 당깁니다. 맨 위에서 잠깐 멈춘 후, 천천히 시작 위치로 내려갑니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Suspends-toi à une barre de traction, les paumes tournées vers toi et les mains écartées à la largeur des épaules. Gaine ta sangle abdominale et hisse-toi vers la barre, en te concentrant sur l'utilisation de tes biceps pour soulever ton corps. Marque une pause en haut, puis abaisse-toi lentement pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Hang from a pull-up bar with your palms facing towards you and your hands shoulder-width apart.",
+      "Engage your core and pull yourself up towards the bar, focusing on using your biceps to lift your body.",
+      "Pause for a moment at the top, then slowly lower yourself back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Appenditi a una barra per trazioni con i palmi rivolti verso di te e le mani distanti alla larghezza delle spalle.",
+      "Impegna il core e tira verso la barra, concentrandoti sull'uso dei bicipiti per sollevare il corpo.",
+      "Fermati un attimo in cima, poi lentamente scendi di nuovo alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Avuç içleriniz size doğru bakacak ve elleriniz omuz genişliğinde açık olacak şekilde barfiks barına asın.",
+      "Merkez bölgenizi devreye sokun ve vücudunuzu kaldırmak için bicepslerinizi kullanmaya odaklanarak kendinizi bara doğru çekin.",
+      "Tepe noktasında bir an duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Cuélgate de una barra de dominadas con las palmas mirando hacia ti y las manos separadas a la altura de los hombros.",
+      "Activa el core y tira de tu cuerpo hacia la barra, enfocándote en usar los bíceps para levantar el cuerpo.",
+      "Haz una pausa breve en la parte más alta, luego baja lentamente de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Повисните на перекладине, повернув ладонями к себе и расставив руки на ширине плеч.",
+      "Напрягите корпус и подтяните себя к перекладине, сосредоточившись на использовании бицепсов для подъема тела.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опуститесь обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "悬挂在引体向上杆上，手掌朝向自己，双手与肩同宽。",
+      "启动你的核心并将自己拉向杠铃，专注于使用二头肌来抬起你的身体。",
+      "在最高点暂停片刻，然后慢慢降低回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपनी हथेलियों को अपनी ओर रखते हुए और अपने हाथों को कंधे की चौड़ाई से अलग रखते हुए पुल-अप बार से लटकें।",
+      "अपने कोर को संलग्न करें और अपने शरीर को ऊपर उठाने के लिए अपने बाइसेप्स का उपयोग करने पर ध्यान केंद्रित करते हुए, अपने आप को बार की ओर खींचें।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने आप को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Zwiśnij na drążku do podciągania, dłońmi zwróconymi do siebie, a dłonie rozstawione na szerokość barków.",
+      "Napnij mięśnie brzucha i podciągnij się w kierunku drążka, skupiając się na wykorzystaniu mięśni dwugłowych do uniesienia ciała.",
+      "Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść się z powrotem do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "풀업 봉에서 손바닥이 자신을 향하도록 매달리되 손은 어깨 너비로 벌립니다.",
+      "코어에 힘을 주고 이두근을 사용하여 몸을 봉 쪽으로 당깁니다.",
+      "맨 위에서 잠깐 멈춘 후, 천천히 시작 위치로 내려갑니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Suspends-toi à une barre de traction, les paumes tournées vers toi et les mains écartées à la largeur des épaules.",
+      "Gaine ta sangle abdominale et hisse-toi vers la barre, en te concentrant sur l'utilisation de tes biceps pour soulever ton corps.",
+      "Marque une pause en haut, puis abaisse-toi lentement pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "forearms",
+  "secondary_muscles": [
+    "forearms",
+    "shoulders"
+  ],
+  "target": "biceps",
+  "image": "images/0139-50BETrz.jpg",
+  "gif_url": "videos/0139-50BETrz.gif",
+  "media_id": "50BETrz",
+  "created_at": "2026-03-18T12:31:32.873726+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

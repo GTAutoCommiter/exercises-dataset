@@ -1,0 +1,103 @@
+{
+  "id": "3637",
+  "name": "wheel run",
+  "category": "cardio",
+  "body_part": "cardio",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Start in a plank position with your hands on the wheel and your body straight. Engage your core and start rolling the wheel forward by extending your arms. Continue rolling until your body is fully extended and your arms are overhead. Reverse the movement by pulling the wheel back towards your body, using your core and arms. Repeat for the desired number of repetitions.",
+    "it": "Inizia in una posizione di plancia con le mani sul volante e il corpo dritto. Coinvolgi il tuo core e inizia a far rotolare la ruota in avanti estendendo le braccia. Continua a rotolare finché il tuo corpo non è completamente esteso e le tue braccia sono sopra la testa. Invertire il movimento tirando indietro la ruota verso il corpo, utilizzando il core e le braccia. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Elleriniz direksiyonun üzerinde ve vücudunuz düz olacak şekilde plank pozisyonunda başlayın. Merkez bölgenizi devreye sokun ve kollarınızı uzatarak tekerleği ileri doğru yuvarlamaya başlayın. Vücudunuz tamamen uzayıncaya ve kollarınız başınızın üstünde oluncaya kadar yuvarlanmaya devam edin. Merkez bölgenizi ve kollarınızı kullanarak tekerleği vücudunuza doğru çekerek hareketi tersine çevirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Comienza en posición de plancha con las manos sobre el rodillo y el cuerpo recto. Activa el core y comienza a hacer rodar el rodillo hacia adelante extendiendo los brazos. Continúa rodando hasta que tu cuerpo quede completamente extendido y los brazos por encima de la cabeza. Invierte el movimiento tirando del rodillo de vuelta hacia tu cuerpo, usando el core y los brazos. Repite el número de repeticiones deseado.",
+    "ru": "Начните с положения планки, положив руки на руль и выпрямив тело. Включите корпус и начните катить колесо вперед, вытягивая руки. Продолжайте перекатываться до тех пор, пока ваше тело не будет полностью выпрямлено, а руки не окажутся над головой. Выполните обратное движение, потянув колесо назад к телу, используя корпус и руки. Повторите необходимое количество повторений.",
+    "zh": "从平板支撑位置开始，双手放在方向盘上，身体伸直。 启动你的核心并通过伸展双臂开始向前滚动轮子。 继续滚动，直到身体完全伸展并且手臂举过头顶。 使用你的核心和手臂将轮子拉回你的身体，从而扭转运动。 重复所需的重复次数。",
+    "hi": "अपने हाथों को पहिए पर और अपने शरीर को सीधा रखते हुए तख़्त स्थिति में शुरुआत करें। अपने कोर को संलग्न करें और अपनी बाहों को फैलाकर पहिये को आगे की ओर घुमाना शुरू करें। तब तक रोल करना जारी रखें जब तक आपका शरीर पूरी तरह से विस्तारित न हो जाए और आपकी भुजाएं ऊपर न आ जाएं। अपने कोर और भुजाओं का उपयोग करके पहिये को अपने शरीर की ओर वापस खींचकर गति को उल्टा करें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Zacznij w pozycji deski z dłońmi na kółku i wyprostowanym ciałem. Napnij mięśnie brzucha i zacznij toczyć kółko do przodu, prostując ramiona. Kontynuuj toczenie, aż ciało będzie w pełni wyprostowane, a ramiona nad głową. Cofnij ruch, przyciągając kółko z powrotem w stronę ciała, wykorzystując mięśnie brzucha i ramiona. Powtórz zgodnie z żądaną liczbą powtórzeń.",
+    "ko": "손을 휠 위에 놓고 몸을 곧게 유지한 상태에서 플랭크 자세로 시작합니다. 복부를 활성화하고 팔을 펴서 휠을 앞으로 굴리기 시작합니다. 몸이 완전히 뻗어지고 팔이 머리 위가 될 때까지 계속 굴립니다. 복부와 팔을 사용하여 휠을 다시 몸 쪽으로 당겨 움직임을 반대로 합니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Commence en position de planche, les mains sur la roue et le corps bien droit. Gaine ta sangle abdominale et commence à faire rouler la roue vers l'avant en étendant tes bras. Continue à rouler vers l'avant jusqu'à ce que ton corps soit complètement étendu et que tes bras soient au-dessus de ta tête. Inverse le mouvement en tirant la roue vers ton corps, en utilisant ta sangle abdominale et tes bras. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start in a plank position with your hands on the wheel and your body straight.",
+      "Engage your core and start rolling the wheel forward by extending your arms.",
+      "Continue rolling until your body is fully extended and your arms are overhead.",
+      "Reverse the movement by pulling the wheel back towards your body, using your core and arms.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia in una posizione di plancia con le mani sul volante e il corpo dritto.",
+      "Coinvolgi il tuo core e inizia a far rotolare la ruota in avanti estendendo le braccia.",
+      "Continua a rotolare finché il tuo corpo non è completamente esteso e le tue braccia sono sopra la testa.",
+      "Invertire il movimento tirando indietro la ruota verso il corpo, utilizzando il core e le braccia.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Elleriniz direksiyonun üzerinde ve vücudunuz düz olacak şekilde plank pozisyonunda başlayın.",
+      "Merkez bölgenizi devreye sokun ve kollarınızı uzatarak tekerleği ileri doğru yuvarlamaya başlayın.",
+      "Vücudunuz tamamen uzayıncaya ve kollarınız başınızın üstünde oluncaya kadar yuvarlanmaya devam edin.",
+      "Merkez bölgenizi ve kollarınızı kullanarak tekerleği vücudunuza doğru çekerek hareketi tersine çevirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Comienza en posición de plancha con las manos sobre el rodillo y el cuerpo recto.",
+      "Activa el core y comienza a hacer rodar el rodillo hacia adelante extendiendo los brazos.",
+      "Continúa rodando hasta que tu cuerpo quede completamente extendido y los brazos por encima de la cabeza.",
+      "Invierte el movimiento tirando del rodillo de vuelta hacia tu cuerpo, usando el core y los brazos.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с положения планки, положив руки на руль и выпрямив тело.",
+      "Включите корпус и начните катить колесо вперед, вытягивая руки.",
+      "Продолжайте перекатываться до тех пор, пока ваше тело не будет полностью выпрямлено, а руки не окажутся над головой.",
+      "Выполните обратное движение, потянув колесо назад к телу, используя корпус и руки.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "从平板支撑位置开始，双手放在方向盘上，身体伸直。",
+      "启动你的核心并通过伸展双臂开始向前滚动轮子。",
+      "继续滚动，直到身体完全伸展并且手臂举过头顶。",
+      "使用你的核心和手臂将轮子拉回你的身体，从而扭转运动。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने हाथों को पहिए पर और अपने शरीर को सीधा रखते हुए तख़्त स्थिति में शुरुआत करें।",
+      "अपने कोर को संलग्न करें और अपनी बाहों को फैलाकर पहिये को आगे की ओर घुमाना शुरू करें।",
+      "तब तक रोल करना जारी रखें जब तक आपका शरीर पूरी तरह से विस्तारित न हो जाए और आपकी भुजाएं ऊपर न आ जाएं।",
+      "अपने कोर और भुजाओं का उपयोग करके पहिये को अपने शरीर की ओर वापस खींचकर गति को उल्टा करें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Zacznij w pozycji deski z dłońmi na kółku i wyprostowanym ciałem.",
+      "Napnij mięśnie brzucha i zacznij toczyć kółko do przodu, prostując ramiona.",
+      "Kontynuuj toczenie, aż ciało będzie w pełni wyprostowane, a ramiona nad głową.",
+      "Cofnij ruch, przyciągając kółko z powrotem w stronę ciała, wykorzystując mięśnie brzucha i ramiona.",
+      "Powtórz zgodnie z żądaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "손을 휠 위에 놓고 몸을 곧게 유지한 상태에서 플랭크 자세로 시작합니다.",
+      "복부를 활성화하고 팔을 펴서 휠을 앞으로 굴리기 시작합니다.",
+      "몸이 완전히 뻗어지고 팔이 머리 위가 될 때까지 계속 굴립니다.",
+      "복부와 팔을 사용하여 휠을 다시 몸 쪽으로 당겨 움직임을 반대로 합니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Commence en position de planche, les mains sur la roue et le corps bien droit.",
+      "Gaine ta sangle abdominale et commence à faire rouler la roue vers l'avant en étendant tes bras.",
+      "Continue à rouler vers l'avant jusqu'à ce que ton corps soit complètement étendu et que tes bras soient au-dessus de ta tête.",
+      "Inverse le mouvement en tirant la roue vers ton corps, en utilisant ta sangle abdominale et tes bras.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "cardiovascular system",
+  "image": "images/3637-km2Ljzj.jpg",
+  "gif_url": "videos/3637-km2Ljzj.gif",
+  "media_id": "km2Ljzj",
+  "created_at": "2026-03-18T12:31:32.90647+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

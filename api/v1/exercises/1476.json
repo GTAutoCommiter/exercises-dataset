@@ -1,0 +1,113 @@
+{
+  "id": "1476",
+  "name": "one leg squat",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart. Extend one leg forward, keeping it off the ground. Bend your standing leg and lower your body down as if sitting back into a chair. Keep your chest up and your back straight. Push through your heel to return to the starting position. Repeat with the other leg.",
+    "it": "Stai con i piedi alla larghezza delle spalle. Estendi una gamba in avanti, tenendola sollevata da terra. Piega la gamba in piedi e abbassa il corpo come se fossi seduto su una sedia. Tieni il petto in alto e la schiena dritta. Spingi attraverso il tallone per tornare alla posizione di partenza. Ripeti con l'altra gamba.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durun. Bir bacağınızı yerden yüksekte tutarak öne doğru uzatın. Ayakta duran bacağınızı bükün ve sanki bir sandalyeye oturuyormuş gibi vücudunuzu aşağıya doğru indirin. Göğsünüzü dik ve sırtınızı dik tutun. Başlangıç ​​pozisyonuna dönmek için topuğunuzu itin. Diğer bacakla tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros. Extiende una pierna hacia adelante, manteniéndola elevada del suelo. Flexiona la pierna de apoyo y baja el cuerpo como si te sentaras en una silla. Mantén el pecho arriba y la espalda recta. Empuja con el talón para regresar a la posición inicial. Repite con la otra pierna.",
+    "ru": "Встаньте, ноги на ширине плеч. Вытяните одну ногу вперед, не отрывая ее от земли. Согните стоящую ногу и опустите тело вниз, как будто садитесь на стул. Держите грудь поднятой, а спину прямой. Оттолкнитесь пяткой, чтобы вернуться в исходное положение. Повторите с другой ногой.",
+    "zh": "双脚分开与肩同宽站立。 向前伸出一条腿，使其离开地面。 弯曲站立的腿并降低身体，就像坐回椅子上一样。 保持挺胸、背部挺直。 推动脚后跟返回到起始位置。 换另一条腿重复上述步骤。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई की दूरी पर रखकर खड़े हो जाएं। एक पैर को जमीन से ऊपर रखते हुए आगे बढ़ाएं। अपने खड़े पैर को मोड़ें और अपने शरीर को नीचे नीचे करें जैसे कि कुर्सी पर पीछे बैठे हों। अपनी छाती ऊपर और पीठ सीधी रखें। प्रारंभिक स्थिति में लौटने के लिए अपनी एड़ी को धक्का दें। दूसरे पैर से दोहराएँ।",
+    "pl": "Stań w rozkroku na szerokość barków. Wyprostuj jedną nogę do przodu, trzymając ją nad podłogą. Ugnij nogę stojącą i opuść ciało, jakbyś siadał na krześle. Trzymaj klatkę piersiową uniesioną, a plecy proste. Wypchnij się przez piętę, aby wrócić do pozycji wyjściowej. Powtórz drugą nogą.",
+    "ko": "발을 어깨 너비로 벌리고 서 있습니다. 한다리를 앞으로 펼쳐 바닥에서 띄웁니다. 서 있는 다리를 구부려 마치 의자에 앉듯이 몸을 내립니다. 가슴을 들고 등을 곧게 유지합니다. 발뒤꿈치로 밀어 시작 위치로 돌아옵니다. 반대다리로 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules. Étends une jambe vers l'avant, en la gardant décollée du sol. Fléchis ta jambe d'appui et abaisse ton corps comme si tu t'asseyais sur une chaise. Garde la poitrine relevée et le dos droit. Pousse à travers ton talon pour revenir à la position de départ. Répète avec l'autre jambe."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart.",
+      "Extend one leg forward, keeping it off the ground.",
+      "Bend your standing leg and lower your body down as if sitting back into a chair.",
+      "Keep your chest up and your back straight.",
+      "Push through your heel to return to the starting position.",
+      "Repeat with the other leg."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle.",
+      "Estendi una gamba in avanti, tenendola sollevata da terra.",
+      "Piega la gamba in piedi e abbassa il corpo come se fossi seduto su una sedia.",
+      "Tieni il petto in alto e la schiena dritta.",
+      "Spingi attraverso il tallone per tornare alla posizione di partenza.",
+      "Ripeti con l'altra gamba."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durun.",
+      "Bir bacağınızı yerden yüksekte tutarak öne doğru uzatın.",
+      "Ayakta duran bacağınızı bükün ve sanki bir sandalyeye oturuyormuş gibi vücudunuzu aşağıya doğru indirin.",
+      "Göğsünüzü dik ve sırtınızı dik tutun.",
+      "Başlangıç ​​pozisyonuna dönmek için topuğunuzu itin.",
+      "Diğer bacakla tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros.",
+      "Extiende una pierna hacia adelante, manteniéndola elevada del suelo.",
+      "Flexiona la pierna de apoyo y baja el cuerpo como si te sentaras en una silla.",
+      "Mantén el pecho arriba y la espalda recta.",
+      "Empuja con el talón para regresar a la posición inicial.",
+      "Repite con la otra pierna."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч.",
+      "Вытяните одну ногу вперед, не отрывая ее от земли.",
+      "Согните стоящую ногу и опустите тело вниз, как будто садитесь на стул.",
+      "Держите грудь поднятой, а спину прямой.",
+      "Оттолкнитесь пяткой, чтобы вернуться в исходное положение.",
+      "Повторите с другой ногой."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立。",
+      "向前伸出一条腿，使其离开地面。",
+      "弯曲站立的腿并降低身体，就像坐回椅子上一样。",
+      "保持挺胸、背部挺直。",
+      "推动脚后跟返回到起始位置。",
+      "换另一条腿重复上述步骤。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई की दूरी पर रखकर खड़े हो जाएं।",
+      "एक पैर को जमीन से ऊपर रखते हुए आगे बढ़ाएं।",
+      "अपने खड़े पैर को मोड़ें और अपने शरीर को नीचे नीचे करें जैसे कि कुर्सी पर पीछे बैठे हों।",
+      "अपनी छाती ऊपर और पीठ सीधी रखें।",
+      "प्रारंभिक स्थिति में लौटने के लिए अपनी एड़ी को धक्का दें।",
+      "दूसरे पैर से दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków.",
+      "Wyprostuj jedną nogę do przodu, trzymając ją nad podłogą.",
+      "Ugnij nogę stojącą i opuść ciało, jakbyś siadał na krześle.",
+      "Trzymaj klatkę piersiową uniesioną, a plecy proste.",
+      "Wypchnij się przez piętę, aby wrócić do pozycji wyjściowej.",
+      "Powtórz drugą nogą."
+    ],
+    "ko": [
+      "발을 어깨 너비로 벌리고 서 있습니다.",
+      "한다리를 앞으로 펼쳐 바닥에서 띄웁니다.",
+      "서 있는 다리를 구부려 마치 의자에 앉듯이 몸을 내립니다.",
+      "가슴을 들고 등을 곧게 유지합니다.",
+      "발뒤꿈치로 밀어 시작 위치로 돌아옵니다.",
+      "반대다리로 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules.",
+      "Étends une jambe vers l'avant, en la gardant décollée du sol.",
+      "Fléchis ta jambe d'appui et abaisse ton corps comme si tu t'asseyais sur une chaise.",
+      "Garde la poitrine relevée et le dos droit.",
+      "Pousse à travers ton talon pour revenir à la position de départ.",
+      "Répète avec l'autre jambe."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "glutes",
+  "image": "images/1476-C31LMnP.jpg",
+  "gif_url": "videos/1476-C31LMnP.gif",
+  "media_id": "C31LMnP",
+  "created_at": "2026-03-18T12:31:32.888076+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

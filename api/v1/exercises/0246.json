@@ -1,0 +1,112 @@
+{
+  "id": "0246",
+  "name": "cable upright row",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart, knees slightly bent, and hold the cable attachment with an overhand grip. Keep your back straight and your core engaged throughout the exercise. Pull the cable attachment straight up towards your chin, leading with your elbows. Pause for a moment at the top, squeezing your shoulder blades together. Slowly lower the cable attachment back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stai in piedi con i piedi larghi le spalle, le ginocchia leggermente piegate, e tieni il cavo con una presa sopra la mano. Mantieni la schiena dritta e il core attivo durante tutto l'esercizio. Tira il cavo dritto verso il mento, iniziando con i gomiti. Fermati un attimo in cima, stringendo le scapole insieme. Abbassa lentamente il cavo fino alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız omuz genişliğinde açık, dizleriniz hafifçe bükülü olarak ayakta durun ve kablo bağlantısını üstten kavrayarak tutun. Egzersiz boyunca sırtınızı düz ve merkez bölgenizi meşgul tutun. Kablo eklentisini dirseklerinizle birlikte düz bir şekilde çenenize doğru çekin. Tepe noktasında bir an duraklayın ve kürek kemiklerinizi birbirine doğru sıkıştırın. Kablo eklentisini yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros, las rodillas ligeramente flexionadas, y sujeta el accesorio del cable con un agarre prono. Mantén la espalda recta y el core activado durante todo el ejercicio. Tira del accesorio del cable directamente hacia arriba, hacia tu barbilla, guiando con los codos. Haz una pausa breve en la parte alta, apretando los omóplatos entre sí. Baja lentamente el accesorio del cable de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, слегка согните колени и возьмитесь за крепление троса хватом сверху. На протяжении всего упражнения держите спину прямой и напряженным корпус. Потяните блочное крепление прямо вверх к подбородку, ведя локтями. В верхней точке задержитесь на мгновение, сведя лопатки вместе. Медленно опустите крепление троса обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，膝盖稍微弯曲，并用正手握住电缆附件。 在整个练习过程中保持背部挺直，核心肌群参与其中。 用肘部引导，将电缆附件笔直向上拉向下巴。 在顶部暂停片刻，将肩胛骨挤压在一起。 缓慢地将电缆附件放回起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, घुटने थोड़े मुड़े हुए हों और केबल अटैचमेंट को ओवरहैंड ग्रिप से पकड़ें। पूरे अभ्यास के दौरान अपनी पीठ सीधी रखें और अपने कोर को व्यस्त रखें। केबल अटैचमेंट को अपनी कोहनियों से आगे बढ़ाते हुए सीधे अपनी ठुड्डी की ओर खींचें। शीर्ष पर एक पल के लिए रुकें, अपने कंधे के ब्लेड को एक साथ दबाएं। धीरे-धीरे केबल अटैचमेंट को वापस प्रारंभिक स्थिति में नीचे लाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań, ustawiając stopy na szerokość barków, kolana lekko ugięte, i trzymaj uchwyt wyciągu chwytem nachwytem. Trzymaj plecy proste, a mięśnie brzucha napięte przez cały czas trwania ćwiczenia. Przyciągnij uchwyt prosto w górę w kierunku podbródka, prowadząc ruch łokciami. Zatrzymaj się na chwilę w górnej pozycji, ściągając łopatki. Powoli opuść uchwyt z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "어깨너비만큼 발을 벌리고 무릎을 약간 구부립니다. 오버그립으로 케이블 부착물을 잡고 등을 곧게 펴며 복부에 힘을 줍니다. 팔꿈치를 주도하면서 케이블 부착물을 턱 쪽으로 곧게 위로 당깁니다. 최상단에서 잠시 멈춰 견갑골을 모읍니다. 케이블 부착물을 천천히 처음 위치로 내립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules, les genoux légèrement fléchis, et tiens l'accessoire du câble en prise pronation. Garde le dos droit et ta sangle abdominale gainée tout au long de l'exercice. Tire l'accessoire du câble droit vers le haut en direction de ton menton, en menant avec tes coudes. Marque une pause en haut, en rapprochant tes omoplates l'une de l'autre. Abaisse lentement la poignée du câble vers la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart, knees slightly bent, and hold the cable attachment with an overhand grip.",
+      "Keep your back straight and your core engaged throughout the exercise.",
+      "Pull the cable attachment straight up towards your chin, leading with your elbows.",
+      "Pause for a moment at the top, squeezing your shoulder blades together.",
+      "Slowly lower the cable attachment back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai in piedi con i piedi larghi le spalle, le ginocchia leggermente piegate, e tieni il cavo con una presa sopra la mano.",
+      "Mantieni la schiena dritta e il core attivo durante tutto l'esercizio.",
+      "Tira il cavo dritto verso il mento, iniziando con i gomiti.",
+      "Fermati un attimo in cima, stringendo le scapole insieme.",
+      "Abbassa lentamente il cavo fino alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık, dizleriniz hafifçe bükülü olarak ayakta durun ve kablo bağlantısını üstten kavrayarak tutun.",
+      "Egzersiz boyunca sırtınızı düz ve merkez bölgenizi meşgul tutun.",
+      "Kablo eklentisini dirseklerinizle birlikte düz bir şekilde çenenize doğru çekin.",
+      "Tepe noktasında bir an duraklayın ve kürek kemiklerinizi birbirine doğru sıkıştırın.",
+      "Kablo eklentisini yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros, las rodillas ligeramente flexionadas, y sujeta el accesorio del cable con un agarre prono.",
+      "Mantén la espalda recta y el core activado durante todo el ejercicio.",
+      "Tira del accesorio del cable directamente hacia arriba, hacia tu barbilla, guiando con los codos.",
+      "Haz una pausa breve en la parte alta, apretando los omóplatos entre sí.",
+      "Baja lentamente el accesorio del cable de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, слегка согните колени и возьмитесь за крепление троса хватом сверху.",
+      "На протяжении всего упражнения держите спину прямой и напряженным корпус.",
+      "Потяните блочное крепление прямо вверх к подбородку, ведя локтями.",
+      "В верхней точке задержитесь на мгновение, сведя лопатки вместе.",
+      "Медленно опустите крепление троса обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，膝盖稍微弯曲，并用正手握住电缆附件。",
+      "在整个练习过程中保持背部挺直，核心肌群参与其中。",
+      "用肘部引导，将电缆附件笔直向上拉向下巴。",
+      "在顶部暂停片刻，将肩胛骨挤压在一起。",
+      "缓慢地将电缆附件放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं, घुटने थोड़े मुड़े हुए हों और केबल अटैचमेंट को ओवरहैंड ग्रिप से पकड़ें।",
+      "पूरे अभ्यास के दौरान अपनी पीठ सीधी रखें और अपने कोर को व्यस्त रखें।",
+      "केबल अटैचमेंट को अपनी कोहनियों से आगे बढ़ाते हुए सीधे अपनी ठुड्डी की ओर खींचें।",
+      "शीर्ष पर एक पल के लिए रुकें, अपने कंधे के ब्लेड को एक साथ दबाएं।",
+      "धीरे-धीरे केबल अटैचमेंट को वापस प्रारंभिक स्थिति में नीचे लाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań, ustawiając stopy na szerokość barków, kolana lekko ugięte, i trzymaj uchwyt wyciągu chwytem nachwytem.",
+      "Trzymaj plecy proste, a mięśnie brzucha napięte przez cały czas trwania ćwiczenia.",
+      "Przyciągnij uchwyt prosto w górę w kierunku podbródka, prowadząc ruch łokciami.",
+      "Zatrzymaj się na chwilę w górnej pozycji, ściągając łopatki.",
+      "Powoli opuść uchwyt z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "어깨너비만큼 발을 벌리고 무릎을 약간 구부립니다.",
+      "오버그립으로 케이블 부착물을 잡고 등을 곧게 펴며 복부에 힘을 줍니다.",
+      "팔꿈치를 주도하면서 케이블 부착물을 턱 쪽으로 곧게 위로 당깁니다.",
+      "최상단에서 잠시 멈춰 견갑골을 모읍니다.",
+      "케이블 부착물을 천천히 처음 위치로 내립니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules, les genoux légèrement fléchis, et tiens l'accessoire du câble en prise pronation.",
+      "Garde le dos droit et ta sangle abdominale gainée tout au long de l'exercice.",
+      "Tire l'accessoire du câble droit vers le haut en direction de ton menton, en menant avec tes coudes.",
+      "Marque une pause en haut, en rapprochant tes omoplates l'une de l'autre.",
+      "Abaisse lentement la poignée du câble vers la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "traps",
+  "secondary_muscles": [
+    "traps",
+    "biceps"
+  ],
+  "target": "delts",
+  "image": "images/0246-cALKspW.jpg",
+  "gif_url": "videos/0246-cALKspW.gif",
+  "media_id": "cALKspW",
+  "created_at": "2026-03-18T12:31:32.876777+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

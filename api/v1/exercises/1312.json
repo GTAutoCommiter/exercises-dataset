@@ -1,0 +1,113 @@
+{
+  "id": "1312",
+  "name": "medicine ball chest push with run release",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "medicine ball",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart, holding a medicine ball at chest level. Step forward with your right foot and simultaneously push the medicine ball forward, extending your arms fully. As you push the ball forward, release it and let it roll forward. Quickly run forward and catch the ball before it hits the ground. Once you catch the ball, bring it back to your chest and repeat the movement with your left foot forward. Continue alternating legs and repeating the exercise for the desired number of repetitions.",
+    "it": "Stare con i piedi alla larghezza delle spalle, tenendo una palla medica all'altezza del petto. Fai un passo avanti con il piede destro e contemporaneamente spingi la palla medica in avanti, estendendo completamente le braccia. Mentre spingi la palla in avanti, rilasciala e lasciala rotolare in avanti. Corri velocemente in avanti e prendi la palla prima che tocchi terra. Una volta presa la palla, riportala al petto e ripeti il ​​movimento con il piede sinistro in avanti. Continua ad alternare le gambe e a ripetere l'esercizio per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durun ve sağlık topunu göğüs hizanızda tutun. Sağ ayağınızla öne doğru bir adım atın ve aynı anda sağlık topunu ileri doğru iterek kollarınızı tamamen uzatın. Topu ileri doğru iterken bırakın ve ileri doğru yuvarlanmasına izin verin. Hızla ileri koşun ve yere düşmeden topu yakalayın. Topu yakaladığınızda göğsünüze geri getirin ve hareketi sol ayağınız öne gelecek şekilde tekrarlayın. Bacaklarınızı değiştirerek ve egzersizi istediğiniz sayıda tekrarlamaya devam edin.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros, sosteniendo un balón medicinal a la altura del pecho. Da un paso adelante con el pie derecho y, al mismo tiempo, empuja el balón medicinal hacia adelante, extendiendo completamente los brazos. Mientras empujas el balón hacia adelante, suéltalo y déjalo rodar. Corre rápidamente hacia adelante y atrapa el balón antes de que toque el suelo. Una vez que atrapes el balón, llévalo de vuelta al pecho y repite el movimiento con el pie izquierdo adelante. Continúa alternando piernas y repitiendo el ejercicio el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч, удерживая медицинский мяч на уровне груди. Сделайте шаг вперед правой ногой и одновременно толкните медицинский мяч вперед, полностью выпрямляя руки. Когда вы толкаете мяч вперед, отпустите его и позвольте ему катиться вперед. Быстро бегите вперед и поймайте мяч, прежде чем он упадет на землю. Как только вы поймаете мяч, верните его к груди и повторите движение, выставив левую ногу вперед. Продолжайте чередовать ноги и повторять упражнение желаемое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，将药球举至胸部水平。 右脚向前迈出一步，同时向前推动药球，充分伸展双臂。 当你向前推动球时，松开它并让它向前滚动。 快速向前跑，在球落地之前接住球。 接住球后，将其放回胸前，左脚向前重复该动作。 继续交替双腿并重复练习达到所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर, छाती के स्तर पर एक मेडिसिन बॉल पकड़कर खड़े रहें। अपने दाहिने पैर से आगे बढ़ें और साथ ही अपनी बाहों को पूरी तरह फैलाते हुए मेडिसिन बॉल को आगे की ओर धकेलें। जैसे ही आप गेंद को आगे की ओर धकेलें, उसे छोड़ दें और आगे की ओर लुढ़कने दें। तेजी से आगे दौड़ें और गेंद को जमीन पर गिरने से पहले पकड़ लें। एक बार जब आप गेंद को पकड़ लें, तो उसे वापस अपनी छाती पर लाएँ और अपने बाएँ पैर को आगे की ओर रखते हुए इस क्रिया को दोहराएँ। पैरों को बारी-बारी से बदलते रहें और व्यायाम को वांछित संख्या में दोहराव तक दोहराते रहें।",
+    "pl": "Stań w rozkroku na szerokość barków, trzymając piłkę lekarską na wysokości klatki piersiowej. Zrób krok do przodu prawą stopą i jednocześnie wypchnij piłkę lekarską do przodu, w pełni prostując ramiona. Wypychając piłkę do przodu, wypuść ją i pozwól, aby toczyła się dalej. Szybko podbiegnij i złap piłkę, zanim dotknie podłogi. Gdy złapiesz piłkę, przyciągnij ją z powrotem do klatki piersiowej i powtórz ruch, stawiając do przodu lewą stopę. Kontynuuj naprzemienne kroki nogami, powtarzając ćwiczenie przez zadaną liczbę powtórzeń.",
+    "ko": "어깨 너비로 발을 벌리고 서서 메디신볼을 가슴 높이에 들고 있습니다. 오른쪽 발을 앞으로 한 발 내디디면서 동시에 메디신볼을 앞으로 밀어 팔을 완전히 펴집니다. 메디신볼을 앞으로 밀어내면서 놓고 구르게 합니다. 빠르게 앞으로 달려가서 공이 땅에 닿기 전에 캐치합니다. 공을 다시 가슴으로 가져와 왼쪽 발을 앞으로 하는 동작을 반복합니다. 원하는 횟수만큼 좌우 다리를 교대로 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un médecine-ball à hauteur de poitrine. Avance le pied droit et pousse simultanément le médecine-ball vers l'avant, en tendant complètement les bras. En poussant le ballon vers l'avant, relâche-le et laisse-le rouler vers l'avant. Cours rapidement vers l'avant et attrape le ballon avant qu'il ne touche le sol. Une fois que tu attrapes le ballon, ramène-le contre ta poitrine et répète le mouvement avec ton pied gauche en avant. Continue à alterner les jambes et à répéter l'exercice pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart, holding a medicine ball at chest level.",
+      "Step forward with your right foot and simultaneously push the medicine ball forward, extending your arms fully.",
+      "As you push the ball forward, release it and let it roll forward.",
+      "Quickly run forward and catch the ball before it hits the ground.",
+      "Once you catch the ball, bring it back to your chest and repeat the movement with your left foot forward.",
+      "Continue alternating legs and repeating the exercise for the desired number of repetitions."
+    ],
+    "it": [
+      "Stare con i piedi alla larghezza delle spalle, tenendo una palla medica all'altezza del petto.",
+      "Fai un passo avanti con il piede destro e contemporaneamente spingi la palla medica in avanti, estendendo completamente le braccia.",
+      "Mentre spingi la palla in avanti, rilasciala e lasciala rotolare in avanti.",
+      "Corri velocemente in avanti e prendi la palla prima che tocchi terra.",
+      "Una volta presa la palla, riportala al petto e ripeti il ​​movimento con il piede sinistro in avanti.",
+      "Continua ad alternare le gambe e a ripetere l'esercizio per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durun ve sağlık topunu göğüs hizanızda tutun.",
+      "Sağ ayağınızla öne doğru bir adım atın ve aynı anda sağlık topunu ileri doğru iterek kollarınızı tamamen uzatın.",
+      "Topu ileri doğru iterken bırakın ve ileri doğru yuvarlanmasına izin verin.",
+      "Hızla ileri koşun ve yere düşmeden topu yakalayın.",
+      "Topu yakaladığınızda göğsünüze geri getirin ve hareketi sol ayağınız öne gelecek şekilde tekrarlayın.",
+      "Bacaklarınızı değiştirerek ve egzersizi istediğiniz sayıda tekrarlamaya devam edin."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros, sosteniendo un balón medicinal a la altura del pecho.",
+      "Da un paso adelante con el pie derecho y, al mismo tiempo, empuja el balón medicinal hacia adelante, extendiendo completamente los brazos.",
+      "Mientras empujas el balón hacia adelante, suéltalo y déjalo rodar.",
+      "Corre rápidamente hacia adelante y atrapa el balón antes de que toque el suelo.",
+      "Una vez que atrapes el balón, llévalo de vuelta al pecho y repite el movimiento con el pie izquierdo adelante.",
+      "Continúa alternando piernas y repitiendo el ejercicio el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч, удерживая медицинский мяч на уровне груди.",
+      "Сделайте шаг вперед правой ногой и одновременно толкните медицинский мяч вперед, полностью выпрямляя руки.",
+      "Когда вы толкаете мяч вперед, отпустите его и позвольте ему катиться вперед.",
+      "Быстро бегите вперед и поймайте мяч, прежде чем он упадет на землю.",
+      "Как только вы поймаете мяч, верните его к груди и повторите движение, выставив левую ногу вперед.",
+      "Продолжайте чередовать ноги и повторять упражнение желаемое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，将药球举至胸部水平。",
+      "右脚向前迈出一步，同时向前推动药球，充分伸展双臂。",
+      "当你向前推动球时，松开它并让它向前滚动。",
+      "快速向前跑，在球落地之前接住球。",
+      "接住球后，将其放回胸前，左脚向前重复该动作。",
+      "继续交替双腿并重复练习达到所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर, छाती के स्तर पर एक मेडिसिन बॉल पकड़कर खड़े रहें।",
+      "अपने दाहिने पैर से आगे बढ़ें और साथ ही अपनी बाहों को पूरी तरह फैलाते हुए मेडिसिन बॉल को आगे की ओर धकेलें।",
+      "जैसे ही आप गेंद को आगे की ओर धकेलें, उसे छोड़ दें और आगे की ओर लुढ़कने दें।",
+      "तेजी से आगे दौड़ें और गेंद को जमीन पर गिरने से पहले पकड़ लें।",
+      "एक बार जब आप गेंद को पकड़ लें, तो उसे वापस अपनी छाती पर लाएँ और अपने बाएँ पैर को आगे की ओर रखते हुए इस क्रिया को दोहराएँ।",
+      "पैरों को बारी-बारी से बदलते रहें और व्यायाम को वांछित संख्या में दोहराव तक दोहराते रहें।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków, trzymając piłkę lekarską na wysokości klatki piersiowej.",
+      "Zrób krok do przodu prawą stopą i jednocześnie wypchnij piłkę lekarską do przodu, w pełni prostując ramiona.",
+      "Wypychając piłkę do przodu, wypuść ją i pozwól, aby toczyła się dalej.",
+      "Szybko podbiegnij i złap piłkę, zanim dotknie podłogi.",
+      "Gdy złapiesz piłkę, przyciągnij ją z powrotem do klatki piersiowej i powtórz ruch, stawiając do przodu lewą stopę.",
+      "Kontynuuj naprzemienne kroki nogami, powtarzając ćwiczenie przez zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "어깨 너비로 발을 벌리고 서서 메디신볼을 가슴 높이에 들고 있습니다.",
+      "오른쪽 발을 앞으로 한 발 내디디면서 동시에 메디신볼을 앞으로 밀어 팔을 완전히 펴집니다.",
+      "메디신볼을 앞으로 밀어내면서 놓고 구르게 합니다.",
+      "빠르게 앞으로 달려가서 공이 땅에 닿기 전에 캐치합니다.",
+      "공을 다시 가슴으로 가져와 왼쪽 발을 앞으로 하는 동작을 반복합니다.",
+      "원하는 횟수만큼 좌우 다리를 교대로 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules, en tenant un médecine-ball à hauteur de poitrine.",
+      "Avance le pied droit et pousse simultanément le médecine-ball vers l'avant, en tendant complètement les bras.",
+      "En poussant le ballon vers l'avant, relâche-le et laisse-le rouler vers l'avant.",
+      "Cours rapidement vers l'avant et attrape le ballon avant qu'il ne touche le sol.",
+      "Une fois que tu attrapes le ballon, ramène-le contre ta poitrine et répète le mouvement avec ton pied gauche en avant.",
+      "Continue à alterner les jambes et à répéter l'exercice pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "shoulders",
+    "core"
+  ],
+  "target": "pectorals",
+  "image": "images/1312-pX9Elbe.jpg",
+  "gif_url": "videos/1312-pX9Elbe.gif",
+  "media_id": "pX9Elbe",
+  "created_at": "2026-03-18T12:31:32.887633+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "2204",
+  "name": "roller body saw",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "roller",
+  "instructions": {
+    "en": "Start in a plank position with your forearms on the roller and your body in a straight line. Engage your core and slowly roll the roller forward, extending your body as far as you can while maintaining control. Pause for a moment at the furthest point, then slowly roll the roller back towards your starting position. Repeat for the desired number of repetitions.",
+    "it": "Inizia in una posizione di plancia con gli avambracci sul rullo e il corpo in linea retta. Coinvolgi il tuo core e fai rotolare lentamente il rullo in avanti, estendendo il tuo corpo il più lontano possibile mantenendo il controllo. Fermati per un momento nel punto più lontano, quindi riporta lentamente il rullo verso la posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Önkollarınız silindir üzerinde ve vücudunuz düz bir çizgide olacak şekilde plank pozisyonunda başlayın. Merkez bölgenizi devreye sokun ve kontrolü korurken vücudunuzu mümkün olduğu kadar uzatarak silindiri yavaşça ileri doğru yuvarlayın. En uzak noktada bir an duraklayın, ardından silindiri yavaşça başlangıç ​​pozisyonunuza doğru döndürün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Comienza en posición de plancha con los antebrazos sobre el rodillo y el cuerpo en línea recta. Activa el core y rueda lentamente el rodillo hacia adelante, extendiendo el cuerpo tanto como puedas mientras mantienes el control. Haz una pausa por un momento en el punto más lejano y luego rueda lentamente el rodillo de vuelta hacia tu posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Начните с положения планки, положив предплечья на валик, а тело образуя прямую линию. Включите корпус и медленно катите ролик вперед, вытягивая тело как можно дальше, сохраняя при этом контроль. Сделайте паузу на мгновение в самой дальней точке, затем медленно катите ролик обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "从平板支撑位置开始，前臂放在滚轴上，身体呈一条直线。 启动你的核心并缓慢向前滚动滚轮，在保持控制的同时尽可能地伸展你的身体。 在最远点暂停片刻，然后慢慢地将滚轮滚回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने अग्रबाहुओं को रोलर पर और अपने शरीर को एक सीधी रेखा में रखते हुए तख़्त स्थिति में शुरुआत करें। अपने कोर को संलग्न करें और धीरे-धीरे रोलर को आगे की ओर घुमाएं, नियंत्रण बनाए रखते हुए अपने शरीर को जितना हो सके उतना फैलाएं। सबसे दूर वाले बिंदु पर एक क्षण के लिए रुकें, फिर धीरे-धीरे रोलर को अपनी प्रारंभिक स्थिति की ओर वापस घुमाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Rozpocznij w pozycji deski z przedramionami na wałku i ciałem w linii prostej. Napnij mięśnie brzucha i powoli przetocz wałek do przodu, wydłużając ciało tak daleko, jak to możliwe, zachowując kontrolę. Zatrzymaj się na chwilę w najdalszym punkcie, a następnie powoli przetocz wałek z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę razy.",
+    "ko": "팔꿈치를 롤러 위에 올리고 몸이 일직선을 이루는 플랭크 자세로 시작합니다. 코어를 수축시키고 롤러를 천천히 앞으로 굴리며 조절을 유지하면서 몸을 최대한 늘립니다. 가장 먼 지점에서 잠시 멈추었다가 천천히 롤러를 시작 위치 방향으로 돌아갑니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Commence en position de planche, les avant-bras sur le rouleau et le corps bien aligné. Gaine ta sangle abdominale et fais rouler lentement le rouleau vers l'avant, en étendant ton corps aussi loin que possible tout en gardant le contrôle. Marque une pause au point le plus éloigné, puis fais rouler lentement le rouleau vers ta position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Start in a plank position with your forearms on the roller and your body in a straight line.",
+      "Engage your core and slowly roll the roller forward, extending your body as far as you can while maintaining control.",
+      "Pause for a moment at the furthest point, then slowly roll the roller back towards your starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Inizia in una posizione di plancia con gli avambracci sul rullo e il corpo in linea retta.",
+      "Coinvolgi il tuo core e fai rotolare lentamente il rullo in avanti, estendendo il tuo corpo il più lontano possibile mantenendo il controllo.",
+      "Fermati per un momento nel punto più lontano, quindi riporta lentamente il rullo verso la posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Önkollarınız silindir üzerinde ve vücudunuz düz bir çizgide olacak şekilde plank pozisyonunda başlayın.",
+      "Merkez bölgenizi devreye sokun ve kontrolü korurken vücudunuzu mümkün olduğu kadar uzatarak silindiri yavaşça ileri doğru yuvarlayın.",
+      "En uzak noktada bir an duraklayın, ardından silindiri yavaşça başlangıç ​​pozisyonunuza doğru döndürün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Comienza en posición de plancha con los antebrazos sobre el rodillo y el cuerpo en línea recta.",
+      "Activa el core y rueda lentamente el rodillo hacia adelante, extendiendo el cuerpo tanto como puedas mientras mantienes el control.",
+      "Haz una pausa por un momento en el punto más lejano y luego rueda lentamente el rodillo de vuelta hacia tu posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Начните с положения планки, положив предплечья на валик, а тело образуя прямую линию.",
+      "Включите корпус и медленно катите ролик вперед, вытягивая тело как можно дальше, сохраняя при этом контроль.",
+      "Сделайте паузу на мгновение в самой дальней точке, затем медленно катите ролик обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "从平板支撑位置开始，前臂放在滚轴上，身体呈一条直线。",
+      "启动你的核心并缓慢向前滚动滚轮，在保持控制的同时尽可能地伸展你的身体。",
+      "在最远点暂停片刻，然后慢慢地将滚轮滚回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने अग्रबाहुओं को रोलर पर और अपने शरीर को एक सीधी रेखा में रखते हुए तख़्त स्थिति में शुरुआत करें।",
+      "अपने कोर को संलग्न करें और धीरे-धीरे रोलर को आगे की ओर घुमाएं, नियंत्रण बनाए रखते हुए अपने शरीर को जितना हो सके उतना फैलाएं।",
+      "सबसे दूर वाले बिंदु पर एक क्षण के लिए रुकें, फिर धीरे-धीरे रोलर को अपनी प्रारंभिक स्थिति की ओर वापस घुमाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Rozpocznij w pozycji deski z przedramionami na wałku i ciałem w linii prostej.",
+      "Napnij mięśnie brzucha i powoli przetocz wałek do przodu, wydłużając ciało tak daleko, jak to możliwe, zachowując kontrolę.",
+      "Zatrzymaj się na chwilę w najdalszym punkcie, a następnie powoli przetocz wałek z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "팔꿈치를 롤러 위에 올리고 몸이 일직선을 이루는 플랭크 자세로 시작합니다.",
+      "코어를 수축시키고 롤러를 천천히 앞으로 굴리며 조절을 유지하면서 몸을 최대한 늘립니다.",
+      "가장 먼 지점에서 잠시 멈추었다가 천천히 롤러를 시작 위치 방향으로 돌아갑니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Commence en position de planche, les avant-bras sur le rouleau et le corps bien aligné.",
+      "Gaine ta sangle abdominale et fais rouler lentement le rouleau vers l'avant, en étendant ton corps aussi loin que possible tout en gardant le contrôle.",
+      "Marque une pause au point le plus éloigné, puis fais rouler lentement le rouleau vers ta position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "triceps",
+    "core"
+  ],
+  "target": "abs",
+  "image": "images/2204-XeMvLgE.jpg",
+  "gif_url": "videos/2204-XeMvLgE.gif",
+  "media_id": "XeMvLgE",
+  "created_at": "2026-03-18T12:31:32.889154+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

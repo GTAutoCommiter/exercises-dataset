@@ -1,0 +1,112 @@
+{
+  "id": "1408",
+  "name": "band hip lift",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "band",
+  "instructions": {
+    "en": "Lie on your back with your knees bent and feet flat on the ground. Place a resistance band just above your knees. Engage your glutes and core muscles. Press your heels into the ground and lift your hips off the floor, squeezing your glutes at the top. Pause for a moment at the top, then slowly lower your hips back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Sdraiati sulla schiena con le ginocchia piegate e i piedi appoggiati a terra. Posiziona una fascia di resistenza appena sopra le ginocchia. Coinvolgi i tuoi glutei e i muscoli centrali. Premi i talloni a terra e solleva i fianchi dal pavimento, contraendo i glutei nella parte superiore. Fai una pausa per un momento in alto, quindi abbassa lentamente i fianchi fino alla posizione iniziale. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Dizleriniz bükülü ve ayaklarınız yere düz basacak şekilde sırt üstü yatın. Dizlerinizin hemen üstüne bir direnç bandı yerleştirin. Kalçalarınızı ve göbek kaslarınızı çalıştırın. Topuklarınızı yere bastırın ve kalçalarınızı yerden kaldırın, üst kısımda kalça kaslarınızı sıkın. Tepe noktasında bir an duraklayın, ardından kalçalarınızı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Túmbate sobre tu espalda con las rodillas flexionadas y los pies apoyados en el suelo. Coloca una banda elástica justo por encima de las rodillas. Activa los glúteos y los músculos del core. Presiona los talones contra el suelo y levanta las caderas del suelo, apretando los glúteos en la parte superior. Haz una pausa por un momento en la parte superior, luego baja lentamente las caderas de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Лягте на спину, согните колени и поставьте ступни на землю. Поместите ленту сопротивления чуть выше колен. Задействуйте ягодицы и мышцы корпуса. Прижмите пятки к земле и поднимите бедра от пола, сжимая ягодицы в верхней части. Задержитесь на мгновение в верхней точке, затем медленно опустите бедра обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "仰卧，膝盖弯曲，双脚平放在地上。 将阻力带放在膝盖上方。 调动你的臀肌和核心肌肉。 将脚后跟压入地面，将臀部抬离地板，在顶部挤压臀部。 在顶部暂停片刻，然后慢慢将臀部放回起始位置。 重复所需的重复次数。",
+    "hi": "अपने घुटनों को मोड़कर और पैरों को ज़मीन पर सपाट रखते हुए अपनी पीठ के बल लेटें। अपने घुटनों के ठीक ऊपर एक प्रतिरोध बैंड रखें। अपने ग्लूट्स और कोर मांसपेशियों को संलग्न करें। अपनी एड़ियों को ज़मीन पर दबाएँ और अपने कूल्हों को ज़मीन से ऊपर उठाएँ, अपने ग्लूट्स को ऊपर की ओर दबाएँ। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने कूल्हों को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Połóż się na plecach z ugiętymi kolanami i stopami płasko na podłodze. Umieść taśmę oporową tuż nad kolanami. Napnij pośladki i mięśnie brzucha. Wciśnij pięty w podłogę i unieś biodra nad podłogę, ściskając pośladki w górnej fazie ruchu. Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść biodra z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę razy.",
+    "ko": "등을 바닥에 대고 누워 무릎을 구부리고 발을 바닥에 붙입니다. 저항 밴드를 무릎 바로 위에 놓습니다. 엉덩이와 복부 근육에 힘을 줍니다. 발뒤꿈치를 바닥에 눌러 엉덩이를 떨어뜨려 올리되 꼭짓점에서 엉덩이 근육을 짜냅니다. 꼭짓점에서 잠깐 멈춘 후 천천히 엉덩이를 시작 자세로 내립니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Allonge-toi sur le dos, les genoux fléchis et les pieds à plat au sol. Place un élastique juste au-dessus de tes genoux. Contracte tes fessiers et tes muscles abdominaux. Presse tes talons dans le sol et soulève tes hanches du sol, en contractant tes fessiers en haut. Marque une pause en haut, puis abaisse lentement tes hanches pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Lie on your back with your knees bent and feet flat on the ground.",
+      "Place a resistance band just above your knees.",
+      "Engage your glutes and core muscles.",
+      "Press your heels into the ground and lift your hips off the floor, squeezing your glutes at the top.",
+      "Pause for a moment at the top, then slowly lower your hips back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Sdraiati sulla schiena con le ginocchia piegate e i piedi appoggiati a terra.",
+      "Posiziona una fascia di resistenza appena sopra le ginocchia.",
+      "Coinvolgi i tuoi glutei e i muscoli centrali.",
+      "Premi i talloni a terra e solleva i fianchi dal pavimento, contraendo i glutei nella parte superiore.",
+      "Fai una pausa per un momento in alto, quindi abbassa lentamente i fianchi fino alla posizione iniziale.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Dizleriniz bükülü ve ayaklarınız yere düz basacak şekilde sırt üstü yatın.",
+      "Dizlerinizin hemen üstüne bir direnç bandı yerleştirin.",
+      "Kalçalarınızı ve göbek kaslarınızı çalıştırın.",
+      "Topuklarınızı yere bastırın ve kalçalarınızı yerden kaldırın, üst kısımda kalça kaslarınızı sıkın.",
+      "Tepe noktasında bir an duraklayın, ardından kalçalarınızı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Túmbate sobre tu espalda con las rodillas flexionadas y los pies apoyados en el suelo.",
+      "Coloca una banda elástica justo por encima de las rodillas.",
+      "Activa los glúteos y los músculos del core.",
+      "Presiona los talones contra el suelo y levanta las caderas del suelo, apretando los glúteos en la parte superior.",
+      "Haz una pausa por un momento en la parte superior, luego baja lentamente las caderas de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Лягте на спину, согните колени и поставьте ступни на землю.",
+      "Поместите ленту сопротивления чуть выше колен.",
+      "Задействуйте ягодицы и мышцы корпуса.",
+      "Прижмите пятки к земле и поднимите бедра от пола, сжимая ягодицы в верхней части.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите бедра обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "仰卧，膝盖弯曲，双脚平放在地上。",
+      "将阻力带放在膝盖上方。",
+      "调动你的臀肌和核心肌肉。",
+      "将脚后跟压入地面，将臀部抬离地板，在顶部挤压臀部。",
+      "在顶部暂停片刻，然后慢慢将臀部放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने घुटनों को मोड़कर और पैरों को ज़मीन पर सपाट रखते हुए अपनी पीठ के बल लेटें।",
+      "अपने घुटनों के ठीक ऊपर एक प्रतिरोध बैंड रखें।",
+      "अपने ग्लूट्स और कोर मांसपेशियों को संलग्न करें।",
+      "अपनी एड़ियों को ज़मीन पर दबाएँ और अपने कूल्हों को ज़मीन से ऊपर उठाएँ, अपने ग्लूट्स को ऊपर की ओर दबाएँ।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने कूल्हों को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Połóż się na plecach z ugiętymi kolanami i stopami płasko na podłodze.",
+      "Umieść taśmę oporową tuż nad kolanami.",
+      "Napnij pośladki i mięśnie brzucha.",
+      "Wciśnij pięty w podłogę i unieś biodra nad podłogę, ściskając pośladki w górnej fazie ruchu.",
+      "Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli opuść biodra z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "등을 바닥에 대고 누워 무릎을 구부리고 발을 바닥에 붙입니다.",
+      "저항 밴드를 무릎 바로 위에 놓습니다.",
+      "엉덩이와 복부 근육에 힘을 줍니다.",
+      "발뒤꿈치를 바닥에 눌러 엉덩이를 떨어뜨려 올리되 꼭짓점에서 엉덩이 근육을 짜냅니다.",
+      "꼭짓점에서 잠깐 멈춘 후 천천히 엉덩이를 시작 자세로 내립니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Allonge-toi sur le dos, les genoux fléchis et les pieds à plat au sol.",
+      "Place un élastique juste au-dessus de tes genoux.",
+      "Contracte tes fessiers et tes muscles abdominaux.",
+      "Presse tes talons dans le sol et soulève tes hanches du sol, en contractant tes fessiers en haut.",
+      "Marque une pause en haut, puis abaisse lentement tes hanches pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings",
+    "quadriceps"
+  ],
+  "target": "glutes",
+  "image": "images/1408-E4R8Hz1.jpg",
+  "gif_url": "videos/1408-E4R8Hz1.gif",
+  "media_id": "E4R8Hz1",
+  "created_at": "2026-03-18T12:31:32.855967+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

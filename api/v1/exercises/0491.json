@@ -1,0 +1,101 @@
+{
+  "id": "0491",
+  "name": "incline leg hip raise (leg straight)",
+  "category": "waist",
+  "body_part": "waist",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Lie on an incline bench with your back flat against the bench and your legs extended straight out in front of you. Place your hands on the sides of the bench for support. Engaging your abs, lift your legs off the bench, raising them as high as you can while keeping them straight. Pause for a moment at the top, then slowly lower your legs back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Sdraiati su una panca inclinata con la schiena appoggiata alla panca e le gambe distese davanti a te. Metti le mani sui lati della panca per supporto. Coinvolgendo gli addominali, solleva le gambe dalla panca, sollevandole più in alto che puoi mantenendole dritte. Fai una pausa per un momento in alto, quindi abbassa lentamente le gambe fino alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Eğimli bir bankta sırtınız düz bir şekilde bankta uzanacak ve bacaklarınız önünüzde düz bir şekilde uzatılacak şekilde uzanın. Destek için ellerinizi sehpanın yanlarına koyun. Karın kaslarınızı devreye sokarak bacaklarınızı benchten kaldırın ve düz tutarak mümkün olduğu kadar yükseğe kaldırın. Tepe noktasında bir an duraklayın, ardından bacaklarınızı yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Túmbate en un banco inclinado con la espalda apoyada plana en el banco y las piernas extendidas rectas frente a ti. Coloca las manos a los lados del banco para apoyarte. Activando el abdomen, levanta las piernas del banco, elevándolas tan alto como puedas mientras las mantienes rectas. Haz una pausa por un momento en la parte superior, luego baja lentamente las piernas de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Лягте на наклонную скамью, прижав спину к скамье и вытянув ноги прямо перед собой. Положите руки по бокам скамьи для поддержки. Включив пресс, поднимите ноги со скамьи, подняв их как можно выше, сохраняя при этом прямыми. Задержитесь на мгновение в верхней точке, затем медленно опустите ноги обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "躺在倾斜的长凳上，背部平放在长凳上，双腿伸直在身前。 将双手放在长凳两侧以获得支撑。 收紧腹肌，将双腿抬离长凳，尽可能抬高双腿，同时保持伸直。 在顶部暂停片刻，然后慢慢将双腿放回起始位置。 重复所需的重复次数。",
+    "hi": "एक झुकी हुई बेंच पर लेटें और अपनी पीठ को बेंच से सटाकर रखें और आपके पैर आपके सामने सीधे फैले हुए हों। समर्थन के लिए अपने हाथों को बेंच के किनारों पर रखें। अपने एब्स को शामिल करते हुए, अपने पैरों को बेंच से ऊपर उठाएं, उन्हें सीधा रखते हुए जितना हो सके उतना ऊपर उठाएं। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने पैरों को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Połóż się na ławce skośnej, plecy oprzyj płasko o ławkę, a nogi wyprostuj prosto przed sobą. Umieść dłonie po bokach ławki dla wsparcia. Napinając mięśnie brzucha, unieś nogi nad ławkę, podnosząc je jak najwyżej, trzymając je prosto. Zatrzymaj się na chwilę na górze, a następnie powoli opuść nogi z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę razy.",
+    "ko": "경사 벤치에 누워 등이 벤치에 붙고 다리를 앞으로 펼쳐 뻗습니다. 손을 벤치 옆에 두어 지탱합니다. 복부에 힘을 주고 벤치에서 다리를 들어 올립니다. 다리를 곧게 펼친 채로 최대한 높이 올립니다. 위에서 잠시 멈춘 후 천천히 다리를 시작 위치로 내립니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Allonge-toi sur un banc incliné, le dos à plat contre le banc et les jambes tendues droit devant toi. Place tes mains sur les côtés du banc pour te soutenir. En gainant tes abdominaux, soulève tes jambes du banc, en les levant aussi haut que possible tout en les gardant tendues. Marque une pause en haut, puis abaisse lentement tes jambes pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Lie on an incline bench with your back flat against the bench and your legs extended straight out in front of you.",
+      "Place your hands on the sides of the bench for support.",
+      "Engaging your abs, lift your legs off the bench, raising them as high as you can while keeping them straight.",
+      "Pause for a moment at the top, then slowly lower your legs back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Sdraiati su una panca inclinata con la schiena appoggiata alla panca e le gambe distese davanti a te.",
+      "Metti le mani sui lati della panca per supporto.",
+      "Coinvolgendo gli addominali, solleva le gambe dalla panca, sollevandole più in alto che puoi mantenendole dritte.",
+      "Fai una pausa per un momento in alto, quindi abbassa lentamente le gambe fino alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Eğimli bir bankta sırtınız düz bir şekilde bankta uzanacak ve bacaklarınız önünüzde düz bir şekilde uzatılacak şekilde uzanın.",
+      "Destek için ellerinizi sehpanın yanlarına koyun.",
+      "Karın kaslarınızı devreye sokarak bacaklarınızı benchten kaldırın ve düz tutarak mümkün olduğu kadar yükseğe kaldırın.",
+      "Tepe noktasında bir an duraklayın, ardından bacaklarınızı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Túmbate en un banco inclinado con la espalda apoyada plana en el banco y las piernas extendidas rectas frente a ti.",
+      "Coloca las manos a los lados del banco para apoyarte.",
+      "Activando el abdomen, levanta las piernas del banco, elevándolas tan alto como puedas mientras las mantienes rectas.",
+      "Haz una pausa por un momento en la parte superior, luego baja lentamente las piernas de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Лягте на наклонную скамью, прижав спину к скамье и вытянув ноги прямо перед собой.",
+      "Положите руки по бокам скамьи для поддержки.",
+      "Включив пресс, поднимите ноги со скамьи, подняв их как можно выше, сохраняя при этом прямыми.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите ноги обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "躺在倾斜的长凳上，背部平放在长凳上，双腿伸直在身前。",
+      "将双手放在长凳两侧以获得支撑。",
+      "收紧腹肌，将双腿抬离长凳，尽可能抬高双腿，同时保持伸直。",
+      "在顶部暂停片刻，然后慢慢将双腿放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "एक झुकी हुई बेंच पर लेटें और अपनी पीठ को बेंच से सटाकर रखें और आपके पैर आपके सामने सीधे फैले हुए हों।",
+      "समर्थन के लिए अपने हाथों को बेंच के किनारों पर रखें।",
+      "अपने एब्स को शामिल करते हुए, अपने पैरों को बेंच से ऊपर उठाएं, उन्हें सीधा रखते हुए जितना हो सके उतना ऊपर उठाएं।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे अपने पैरों को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Połóż się na ławce skośnej, plecy oprzyj płasko o ławkę, a nogi wyprostuj prosto przed sobą.",
+      "Umieść dłonie po bokach ławki dla wsparcia.",
+      "Napinając mięśnie brzucha, unieś nogi nad ławkę, podnosząc je jak najwyżej, trzymając je prosto.",
+      "Zatrzymaj się na chwilę na górze, a następnie powoli opuść nogi z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "경사 벤치에 누워 등이 벤치에 붙고 다리를 앞으로 펼쳐 뻗습니다.",
+      "손을 벤치 옆에 두어 지탱합니다.",
+      "복부에 힘을 주고 벤치에서 다리를 들어 올립니다.",
+      "다리를 곧게 펼친 채로 최대한 높이 올립니다.",
+      "위에서 잠시 멈춘 후 천천히 다리를 시작 위치로 내립니다."
+    ],
+    "fr": [
+      "Allonge-toi sur un banc incliné, le dos à plat contre le banc et les jambes tendues droit devant toi.",
+      "Place tes mains sur les côtés du banc pour te soutenir.",
+      "En gainant tes abdominaux, soulève tes jambes du banc, en les levant aussi haut que possible tout en les gardant tendues.",
+      "Marque une pause en haut, puis abaisse lentement tes jambes pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hip flexors",
+  "secondary_muscles": [
+    "hip flexors"
+  ],
+  "target": "abs",
+  "image": "images/0491-eVxAzgz.jpg",
+  "gif_url": "videos/0491-eVxAzgz.gif",
+  "media_id": "eVxAzgz",
+  "created_at": "2026-03-18T12:31:32.884445+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

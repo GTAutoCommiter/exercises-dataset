@@ -1,0 +1,131 @@
+{
+  "id": "1723",
+  "name": "cable one arm tricep pushdown",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Stand facing a cable machine with a straight bar attachment at chest height. Grasp the bar with an overhand grip and step back to create tension in the cable. Position your feet shoulder-width apart and slightly bend your knees. Keep your back straight and core engaged throughout the exercise. Start with your arm fully extended and perpendicular to the floor. Keeping your upper arm stationary, exhale and push the bar down until your arm is fully extended. Pause for a moment, then inhale and slowly return to the starting position. Repeat for the desired number of repetitions, then switch arms.",
+    "it": "Stai di fronte a una macchina per cavi con un attacco a barra dritta all'altezza del petto. Afferra la barra con una presa sopra la mano e fai un passo indietro per creare tensione nel cavo. Posiziona i piedi alla larghezza delle spalle e piega leggermente le ginocchia. Mantieni la schiena dritta e il core impegnato durante tutto l'esercizio. Inizia con il braccio completamente teso e perpendicolare al pavimento. Mantenendo fermo il braccio superiore, espira e spingi la barra verso il basso finché il braccio non è completamente esteso. Fermati un attimo, poi inspira e torna lentamente alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni, poi cambia braccio.",
+    "tr": "Göğüs yüksekliğinde düz bir çubuk ataşmanı bulunan bir kablo makinesine dönük olarak ayakta durun. Çubuğu üstten kavrayın ve kabloda gerginlik oluşturmak için geri adım atın. Ayaklarınızı omuz genişliğinde açın ve dizlerinizi hafifçe bükün. Egzersiz boyunca sırtınızı düz ve göbek bölgenizi meşgul tutun. Kolunuz tamamen uzatılmış ve yere dik olacak şekilde başlayın. Üst kolunuzu sabit tutarak nefes verin ve kolunuz tamamen uzayıncaya kadar çubuğu aşağı doğru itin. Bir an duraklayın, nefes alın ve yavaşça başlangıç ​​pozisyonuna dönün. İstenilen tekrar sayısı kadar tekrarlayın, ardından kolları değiştirin.",
+    "es": "Ponte de pie frente a una máquina de cable con un accesorio de barra recta a la altura del pecho. Sujeta la barra con un agarre prono y retrocede un paso para crear tensión en el cable. Coloca los pies separados a la altura de los hombros y flexiona ligeramente las rodillas. Mantén la espalda recta y el core activado durante todo el ejercicio. Comienza con el brazo completamente extendido y perpendicular al suelo. Manteniendo la parte superior del brazo inmóvil, exhala y empuja la barra hacia abajo hasta que el brazo quede completamente extendido. Haz una pausa por un momento, luego inhala y regresa lentamente a la posición inicial. Repite el número de repeticiones deseado, luego cambia de brazo.",
+    "ru": "Встаньте лицом к канатному тренажеру с прямым грифом на уровне груди. Возьмите штангу хватом сверху и отступите назад, чтобы создать натяжение троса. Поставьте ноги на ширине плеч и слегка согните колени. На протяжении всего упражнения держите спину прямой и напряженным корпус. Начните с полностью выпрямленной руки, перпендикулярной полу. Удерживая плечо неподвижно, выдохните и толкните штангу вниз, пока рука полностью не выпрямится. Сделайте паузу на мгновение, затем вдохните и медленно вернитесь в исходное положение. Повторите желаемое количество повторений, затем поменяйте руки.",
+    "zh": "面向缆绳机站立，并在胸部高度处安装直杆附件。 正手握住杠铃，然后后退以在绳索上产生张力。 将双脚分开与肩同宽，并稍微弯曲膝盖。 在整个练习过程中保持背部挺直并保持核心参与。 首先，手臂完全伸展并垂直于地板。 保持上臂静止，呼气并将杠铃向下推，直到手臂完全伸展。 暂停片刻，然后吸气，慢慢回到起始位置。 重复所需的重复次数，然后换臂。",
+    "hi": "छाती की ऊंचाई पर सीधी बार अटैचमेंट वाली केबल मशीन की ओर मुंह करके खड़े हो जाएं। केबल में तनाव पैदा करने के लिए बार को ओवरहैंड ग्रिप से पकड़ें और पीछे हटें। अपने पैरों को कंधे की चौड़ाई से अलग रखें और अपने घुटनों को थोड़ा मोड़ लें। पूरे अभ्यास के दौरान अपनी पीठ सीधी रखें और मुख्य भाग को व्यस्त रखें। अपने हाथ को पूरी तरह फैलाकर और फर्श से लंबवत रखकर शुरुआत करें। अपनी ऊपरी बांह को स्थिर रखते हुए, सांस छोड़ें और बार को तब तक नीचे धकेलें जब तक कि आपकी बांह पूरी तरह विस्तारित न हो जाए। एक पल के लिए रुकें, फिर सांस लें और धीरे-धीरे प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएं, फिर हथियार बदल लें।",
+    "pl": "Stań przodem do wyciągu z prostą drążką na wysokości klatki piersiowej. Chwyć drążek nachwytem i cofnij się, aby napiąć linę. Ustaw stopy na szerokość barków i lekko ugnij kolana. Trzymaj proste plecy i napięty tułów przez cały czas trwania ćwiczenia. Rozpocznij z ramieniem całkowicie wyprostowanym i prostopadłym do podłogi. Utrzymując nieruchome ramię górne, wydychaj powietrze i pchnij drążek w dół, aż ramię będzie całkowicie wyprostowane. Zatrzymaj się na moment, a następnie wdychaj powietrze i powoli wróć do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń, a następnie zmień ramię.",
+    "ko": "가슴 높이의 바 어태치먼트가 있는 케이블 머신을 향해 섭니다. 오버핸드 그립으로 바를 잡고 뒤로 물러나 케이블에 긴장을 만듭니다. 어깨 너비로 발을 벌리고 무릎을 약간 구부립니다. 등을 곧게 유지하고 코어에 힘을 줍니다. 팔을 시작해서 완전히 펴고 바닥에 수직으로 유지합니다. 상완을 고정한 채로 숨을 내쉬며 팔이 완전히 펴질 때까지 바를 아래로 밉니다. 잠깐 멈춘 후 숨을 들이쉬며 천천히 시작 위치로 돌립니다. 원하는 반복 횟수만큼 반복한 후 팔을 바꿉니다.",
+    "fr": "Tiens-toi face à une machine à câble avec une barre droite fixée à hauteur de poitrine. Saisis la barre avec une prise en pronation et recule d'un pas pour créer de la tension dans le câble. Positionne tes pieds écartés à la largeur des épaules et fléchis légèrement tes genoux. Garde le dos droit et ta sangle abdominale gainée tout au long de l'exercice. Commence avec le bras complètement tendu et perpendiculaire au sol. En gardant le haut du bras immobile, expire et pousse la barre vers le bas jusqu'à ce que ton bras soit complètement tendu. Marque une pause, puis inspire et reviens lentement à la position de départ. Répète le nombre de répétitions souhaité, puis change de bras."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand facing a cable machine with a straight bar attachment at chest height.",
+      "Grasp the bar with an overhand grip and step back to create tension in the cable.",
+      "Position your feet shoulder-width apart and slightly bend your knees.",
+      "Keep your back straight and core engaged throughout the exercise.",
+      "Start with your arm fully extended and perpendicular to the floor.",
+      "Keeping your upper arm stationary, exhale and push the bar down until your arm is fully extended.",
+      "Pause for a moment, then inhale and slowly return to the starting position.",
+      "Repeat for the desired number of repetitions, then switch arms."
+    ],
+    "it": [
+      "Stai di fronte a una macchina per cavi con un attacco a barra dritta all'altezza del petto.",
+      "Afferra la barra con una presa sopra la mano e fai un passo indietro per creare tensione nel cavo.",
+      "Posiziona i piedi alla larghezza delle spalle e piega leggermente le ginocchia.",
+      "Mantieni la schiena dritta e il core impegnato durante tutto l'esercizio.",
+      "Inizia con il braccio completamente teso e perpendicolare al pavimento.",
+      "Mantenendo fermo il braccio superiore, espira e spingi la barra verso il basso finché il braccio non è completamente esteso.",
+      "Fermati un attimo, poi inspira e torna lentamente alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni, poi cambia braccio."
+    ],
+    "tr": [
+      "Göğüs yüksekliğinde düz bir çubuk ataşmanı bulunan bir kablo makinesine dönük olarak ayakta durun.",
+      "Çubuğu üstten kavrayın ve kabloda gerginlik oluşturmak için geri adım atın.",
+      "Ayaklarınızı omuz genişliğinde açın ve dizlerinizi hafifçe bükün.",
+      "Egzersiz boyunca sırtınızı düz ve göbek bölgenizi meşgul tutun.",
+      "Kolunuz tamamen uzatılmış ve yere dik olacak şekilde başlayın.",
+      "Üst kolunuzu sabit tutarak nefes verin ve kolunuz tamamen uzayıncaya kadar çubuğu aşağı doğru itin.",
+      "Bir an duraklayın, nefes alın ve yavaşça başlangıç ​​pozisyonuna dönün.",
+      "İstenilen tekrar sayısı kadar tekrarlayın, ardından kolları değiştirin."
+    ],
+    "es": [
+      "Ponte de pie frente a una máquina de cable con un accesorio de barra recta a la altura del pecho.",
+      "Sujeta la barra con un agarre prono y retrocede un paso para crear tensión en el cable.",
+      "Coloca los pies separados a la altura de los hombros y flexiona ligeramente las rodillas.",
+      "Mantén la espalda recta y el core activado durante todo el ejercicio.",
+      "Comienza con el brazo completamente extendido y perpendicular al suelo.",
+      "Manteniendo la parte superior del brazo inmóvil, exhala y empuja la barra hacia abajo hasta que el brazo quede completamente extendido.",
+      "Haz una pausa por un momento, luego inhala y regresa lentamente a la posición inicial.",
+      "Repite el número de repeticiones deseado, luego cambia de brazo."
+    ],
+    "ru": [
+      "Встаньте лицом к канатному тренажеру с прямым грифом на уровне груди.",
+      "Возьмите штангу хватом сверху и отступите назад, чтобы создать натяжение троса.",
+      "Поставьте ноги на ширине плеч и слегка согните колени.",
+      "На протяжении всего упражнения держите спину прямой и напряженным корпус.",
+      "Начните с полностью выпрямленной руки, перпендикулярной полу.",
+      "Удерживая плечо неподвижно, выдохните и толкните штангу вниз, пока рука полностью не выпрямится.",
+      "Сделайте паузу на мгновение, затем вдохните и медленно вернитесь в исходное положение.",
+      "Повторите желаемое количество повторений, затем поменяйте руки."
+    ],
+    "zh": [
+      "面向缆绳机站立，并在胸部高度处安装直杆附件。",
+      "正手握住杠铃，然后后退以在绳索上产生张力。",
+      "将双脚分开与肩同宽，并稍微弯曲膝盖。",
+      "在整个练习过程中保持背部挺直并保持核心参与。",
+      "首先，手臂完全伸展并垂直于地板。",
+      "保持上臂静止，呼气并将杠铃向下推，直到手臂完全伸展。",
+      "暂停片刻，然后吸气，慢慢回到起始位置。",
+      "重复所需的重复次数，然后换臂。"
+    ],
+    "hi": [
+      "छाती की ऊंचाई पर सीधी बार अटैचमेंट वाली केबल मशीन की ओर मुंह करके खड़े हो जाएं।",
+      "केबल में तनाव पैदा करने के लिए बार को ओवरहैंड ग्रिप से पकड़ें और पीछे हटें।",
+      "अपने पैरों को कंधे की चौड़ाई से अलग रखें और अपने घुटनों को थोड़ा मोड़ लें।",
+      "पूरे अभ्यास के दौरान अपनी पीठ सीधी रखें और मुख्य भाग को व्यस्त रखें।",
+      "अपने हाथ को पूरी तरह फैलाकर और फर्श से लंबवत रखकर शुरुआत करें।",
+      "अपनी ऊपरी बांह को स्थिर रखते हुए, सांस छोड़ें और बार को तब तक नीचे धकेलें जब तक कि आपकी बांह पूरी तरह विस्तारित न हो जाए।",
+      "एक पल के लिए रुकें, फिर सांस लें और धीरे-धीरे प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएं, फिर हथियार बदल लें।"
+    ],
+    "pl": [
+      "Stań przodem do wyciągu z prostą drążką na wysokości klatki piersiowej.",
+      "Chwyć drążek nachwytem i cofnij się, aby napiąć linę.",
+      "Ustaw stopy na szerokość barków i lekko ugnij kolana.",
+      "Trzymaj proste plecy i napięty tułów przez cały czas trwania ćwiczenia.",
+      "Rozpocznij z ramieniem całkowicie wyprostowanym i prostopadłym do podłogi.",
+      "Utrzymując nieruchome ramię górne, wydychaj powietrze i pchnij drążek w dół, aż ramię będzie całkowicie wyprostowane.",
+      "Zatrzymaj się na moment, a następnie wdychaj powietrze i powoli wróć do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń, a następnie zmień ramię."
+    ],
+    "ko": [
+      "가슴 높이의 바 어태치먼트가 있는 케이블 머신을 향해 섭니다.",
+      "오버핸드 그립으로 바를 잡고 뒤로 물러나 케이블에 긴장을 만듭니다.",
+      "어깨 너비로 발을 벌리고 무릎을 약간 구부립니다.",
+      "등을 곧게 유지하고 코어에 힘을 줍니다.",
+      "팔을 시작해서 완전히 펴고 바닥에 수직으로 유지합니다.",
+      "상완을 고정한 채로 숨을 내쉬며 팔이 완전히 펴질 때까지 바를 아래로 밉니다.",
+      "잠깐 멈춘 후 숨을 들이쉬며 천천히 시작 위치로 돌립니다.",
+      "원하는 반복 횟수만큼 반복한 후 팔을 바꿉니다."
+    ],
+    "fr": [
+      "Tiens-toi face à une machine à câble avec une barre droite fixée à hauteur de poitrine.",
+      "Saisis la barre avec une prise en pronation et recule d'un pas pour créer de la tension dans le câble.",
+      "Positionne tes pieds écartés à la largeur des épaules et fléchis légèrement tes genoux.",
+      "Garde le dos droit et ta sangle abdominale gainée tout au long de l'exercice.",
+      "Commence avec le bras complètement tendu et perpendiculaire au sol.",
+      "En gardant le haut du bras immobile, expire et pousse la barre vers le bas jusqu'à ce que ton bras soit complètement tendu.",
+      "Marque une pause, puis inspire et reviens lentement à la position de départ.",
+      "Répète le nombre de répétitions souhaité, puis change de bras."
+    ]
+  },
+  "muscle_group": "forearms",
+  "secondary_muscles": [
+    "forearms"
+  ],
+  "target": "triceps",
+  "image": "images/1723-qRZ5S1N.jpg",
+  "gif_url": "videos/1723-qRZ5S1N.gif",
+  "media_id": "qRZ5S1N",
+  "created_at": "2026-03-18T12:31:32.87525+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

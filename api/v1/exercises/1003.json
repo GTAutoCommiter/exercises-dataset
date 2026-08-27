@@ -1,0 +1,123 @@
+{
+  "id": "1003",
+  "name": "band squat row",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "band",
+  "instructions": {
+    "en": "Attach the band to a sturdy anchor point at waist height. Stand facing the anchor point with your feet shoulder-width apart. Hold the band handles with your palms facing each other and your arms extended in front of you. Bend your knees and lower into a squat position, keeping your back straight and chest lifted. From the squat position, pull the band handles towards your body, squeezing your shoulder blades together. Pause for a moment at the top, then slowly release the tension and return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Attacca la fascia a un punto di ancoraggio robusto all'altezza della vita. Stai di fronte al punto di ancoraggio con i piedi alla larghezza delle spalle. Tieni le maniglie della fascia con i palmi delle mani uno di fronte all'altro e le braccia distese davanti a te. Piega le ginocchia e abbassati in posizione tozza, mantenendo la schiena dritta e il petto sollevato. Dalla posizione tozza, tira le maniglie della fascia verso il tuo corpo, stringendo insieme le scapole. Fermati per un momento in alto, quindi rilascia lentamente la tensione e torna alla posizione di partenza. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Bandı bel yüksekliğinde sağlam bir bağlantı noktasına takın. Ayaklarınız omuz genişliğinde açık olacak şekilde bağlantı noktasına bakacak şekilde durun. Bandın saplarını avuçlarınız birbirine bakacak ve kollarınız önünüzde uzatılmış şekilde tutun. Dizlerinizi bükün ve çömelme pozisyonuna alçaltın, sırtınızı düz ve göğsünüzü yukarıda tutun. Çömelme pozisyonundan, kürek kemiklerinizi birbirine doğru sıkıştırarak bandın saplarını vücudunuza doğru çekin. Tepe noktasında bir an duraklayın, ardından yavaşça gerilimi bırakın ve başlangıç ​​pozisyonuna dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Sujeta la banda a un punto de anclaje resistente a la altura de la cintura. Ponte de pie frente al punto de anclaje con los pies separados a la altura de los hombros. Sostén las agarraderas de la banda con las palmas mirándose entre sí y los brazos extendidos frente a ti. Flexiona las rodillas y baja a una posición de sentadilla, manteniendo la espalda recta y el pecho elevado. Desde la posición de sentadilla, tira de las agarraderas de la banda hacia el cuerpo, juntando los omóplatos. Haz una pausa por un momento en la parte superior, luego suelta lentamente la tensión y regresa a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Прикрепите ремешок к прочной точке крепления на высоте талии. Встаньте лицом к точке крепления, поставив ноги на ширине плеч. Держите ручки лент ладонями друг к другу, а руки вытянуты перед собой. Согните колени и опуститесь в присед, сохраняя спину прямой и грудь поднятой. Из положения приседа потяните ручки лент к себе, сжимая лопатки вместе. Задержитесь на мгновение в верхней точке, затем медленно ослабьте напряжение и вернитесь в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "将带子固定在腰部高度的坚固锚点上。 面向锚点站立，双脚分开与肩同宽。 双手握住弹力带手柄，手掌相对，双臂向前伸展。 弯曲膝盖并蹲下，保持背部挺直，挺胸。 从蹲姿开始，将弹力带手柄拉向身体，将肩胛骨挤压在一起。 在最高点停顿片刻，然后慢慢释放张力，回到起始位置。 重复所需的重复次数。",
+    "hi": "बैंड को कमर की ऊंचाई पर एक मजबूत एंकर पॉइंट से जोड़ें। अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए एंकर पॉइंट की ओर मुंह करके खड़े हो जाएं। अपनी हथेलियों को एक-दूसरे के सामने रखते हुए और अपनी बाहों को अपने सामने फैलाकर बैंड के हैंडल को पकड़ें। अपने घुटनों को मोड़ें और स्क्वाट स्थिति में आ जाएं, अपनी पीठ सीधी रखें और छाती ऊपर उठाएं। स्क्वाट स्थिति से, अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए, बैंड के हैंडल को अपने शरीर की ओर खींचें। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे तनाव छोड़ें और प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Przymocuj taśmę do stabilnego punktu zaczepienia na wysokości talii. Stań przodem do punktu zaczepienia, stopy w rozkroku na szerokość barków. Trzymaj uchwyty taśmy dłońmi zwróconymi do siebie, ramiona wyciągnięte przed sobą. Ugnij kolana i opuść się do pozycji przysiadu, utrzymując proste plecy i uniesioną klatkę piersiową. Z pozycji przysiadu przyciągnij uchwyty taśmy w kierunku ciała, ściskając łopatki. Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli zwolnij napięcie i wróć do pozycji wyjściowej. Powtórz zalecaną liczbę razy.",
+    "ko": "밴드를 허리 높이의 견고한 고정점에 부착합니다. 고정점을 향해 어깨 너비로 발을 벌리고 서서 밴드를 직면합니다. 밴드 손잡이를 손바닥이 서로 마주 보도록 잡고 팔을 앞으로 쭉 뻗습니다. 무릎을 구부려 스쿼트 자세로 내리면서 등을 곧게 펴고 가슴을 들어 올립니다. 스쿼트 위치에서 밴드 손잡이를 몸 쪽으로 당기며 어깨날을 조입니다. 맨 위에서 잠시 멈춘 후, 천천히 장력을 풀고 원래 위치로 돌아옵니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Fixe l'élastique à un point d'ancrage solide à hauteur de la taille. Tiens-toi face au point d'ancrage, les pieds écartés à la largeur des épaules. Tiens les poignées de l'élastique, les paumes tournées l'une vers l'autre et les bras étendus devant toi. Fléchis les genoux et descends en position accroupie en gardant le dos droit et la poitrine relevée. Depuis la position de squat, tire les poignées de l'élastique vers ton corps, en resserrant tes omoplates. Marque une pause en haut, puis relâche lentement la tension et reviens à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Attach the band to a sturdy anchor point at waist height.",
+      "Stand facing the anchor point with your feet shoulder-width apart.",
+      "Hold the band handles with your palms facing each other and your arms extended in front of you.",
+      "Bend your knees and lower into a squat position, keeping your back straight and chest lifted.",
+      "From the squat position, pull the band handles towards your body, squeezing your shoulder blades together.",
+      "Pause for a moment at the top, then slowly release the tension and return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Attacca la fascia a un punto di ancoraggio robusto all'altezza della vita.",
+      "Stai di fronte al punto di ancoraggio con i piedi alla larghezza delle spalle.",
+      "Tieni le maniglie della fascia con i palmi delle mani uno di fronte all'altro e le braccia distese davanti a te.",
+      "Piega le ginocchia e abbassati in posizione tozza, mantenendo la schiena dritta e il petto sollevato.",
+      "Dalla posizione tozza, tira le maniglie della fascia verso il tuo corpo, stringendo insieme le scapole.",
+      "Fermati per un momento in alto, quindi rilascia lentamente la tensione e torna alla posizione di partenza.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Bandı bel yüksekliğinde sağlam bir bağlantı noktasına takın.",
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde bağlantı noktasına bakacak şekilde durun.",
+      "Bandın saplarını avuçlarınız birbirine bakacak ve kollarınız önünüzde uzatılmış şekilde tutun.",
+      "Dizlerinizi bükün ve çömelme pozisyonuna alçaltın, sırtınızı düz ve göğsünüzü yukarıda tutun.",
+      "Çömelme pozisyonundan, kürek kemiklerinizi birbirine doğru sıkıştırarak bandın saplarını vücudunuza doğru çekin.",
+      "Tepe noktasında bir an duraklayın, ardından yavaşça gerilimi bırakın ve başlangıç ​​pozisyonuna dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Sujeta la banda a un punto de anclaje resistente a la altura de la cintura.",
+      "Ponte de pie frente al punto de anclaje con los pies separados a la altura de los hombros.",
+      "Sostén las agarraderas de la banda con las palmas mirándose entre sí y los brazos extendidos frente a ti.",
+      "Flexiona las rodillas y baja a una posición de sentadilla, manteniendo la espalda recta y el pecho elevado.",
+      "Desde la posición de sentadilla, tira de las agarraderas de la banda hacia el cuerpo, juntando los omóplatos.",
+      "Haz una pausa por un momento en la parte superior, luego suelta lentamente la tensión y regresa a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Прикрепите ремешок к прочной точке крепления на высоте талии.",
+      "Встаньте лицом к точке крепления, поставив ноги на ширине плеч.",
+      "Держите ручки лент ладонями друг к другу, а руки вытянуты перед собой.",
+      "Согните колени и опуститесь в присед, сохраняя спину прямой и грудь поднятой.",
+      "Из положения приседа потяните ручки лент к себе, сжимая лопатки вместе.",
+      "Задержитесь на мгновение в верхней точке, затем медленно ослабьте напряжение и вернитесь в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将带子固定在腰部高度的坚固锚点上。",
+      "面向锚点站立，双脚分开与肩同宽。",
+      "双手握住弹力带手柄，手掌相对，双臂向前伸展。",
+      "弯曲膝盖并蹲下，保持背部挺直，挺胸。",
+      "从蹲姿开始，将弹力带手柄拉向身体，将肩胛骨挤压在一起。",
+      "在最高点停顿片刻，然后慢慢释放张力，回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "बैंड को कमर की ऊंचाई पर एक मजबूत एंकर पॉइंट से जोड़ें।",
+      "अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए एंकर पॉइंट की ओर मुंह करके खड़े हो जाएं।",
+      "अपनी हथेलियों को एक-दूसरे के सामने रखते हुए और अपनी बाहों को अपने सामने फैलाकर बैंड के हैंडल को पकड़ें।",
+      "अपने घुटनों को मोड़ें और स्क्वाट स्थिति में आ जाएं, अपनी पीठ सीधी रखें और छाती ऊपर उठाएं।",
+      "स्क्वाट स्थिति से, अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए, बैंड के हैंडल को अपने शरीर की ओर खींचें।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे तनाव छोड़ें और प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Przymocuj taśmę do stabilnego punktu zaczepienia na wysokości talii.",
+      "Stań przodem do punktu zaczepienia, stopy w rozkroku na szerokość barków.",
+      "Trzymaj uchwyty taśmy dłońmi zwróconymi do siebie, ramiona wyciągnięte przed sobą.",
+      "Ugnij kolana i opuść się do pozycji przysiadu, utrzymując proste plecy i uniesioną klatkę piersiową.",
+      "Z pozycji przysiadu przyciągnij uchwyty taśmy w kierunku ciała, ściskając łopatki.",
+      "Zatrzymaj się na chwilę w górnej pozycji, a następnie powoli zwolnij napięcie i wróć do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "밴드를 허리 높이의 견고한 고정점에 부착합니다.",
+      "고정점을 향해 어깨 너비로 발을 벌리고 서서 밴드를 직면합니다.",
+      "밴드 손잡이를 손바닥이 서로 마주 보도록 잡고 팔을 앞으로 쭉 뻗습니다.",
+      "무릎을 구부려 스쿼트 자세로 내리면서 등을 곧게 펴고 가슴을 들어 올립니다.",
+      "스쿼트 위치에서 밴드 손잡이를 몸 쪽으로 당기며 어깨날을 조입니다.",
+      "맨 위에서 잠시 멈춘 후, 천천히 장력을 풀고 원래 위치로 돌아옵니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Fixe l'élastique à un point d'ancrage solide à hauteur de la taille.",
+      "Tiens-toi face au point d'ancrage, les pieds écartés à la largeur des épaules.",
+      "Tiens les poignées de l'élastique, les paumes tournées l'une vers l'autre et les bras étendus devant toi.",
+      "Fléchis les genoux et descends en position accroupie en gardant le dos droit et la poitrine relevée.",
+      "Depuis la position de squat, tire les poignées de l'élastique vers ton corps, en resserrant tes omoplates.",
+      "Marque une pause en haut, puis relâche lentement la tension et reviens à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings",
+    "quadriceps",
+    "back"
+  ],
+  "target": "glutes",
+  "image": "images/1003-w1NOByi.jpg",
+  "gif_url": "videos/1003-w1NOByi.gif",
+  "media_id": "w1NOByi",
+  "created_at": "2026-03-18T12:31:32.86988+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,123 @@
+{
+  "id": "1008",
+  "name": "band step-up",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "band",
+  "instructions": {
+    "en": "Place a band around your thighs, just above your knees. Stand facing a step or platform with your feet hip-width apart. Step up onto the platform with your right foot, pushing through your heel. Extend your left leg behind you, keeping it straight. Lower your left foot back down to the ground. Repeat with your left foot stepping up onto the platform. Continue alternating legs for the desired number of repetitions.",
+    "it": "Metti una fascia intorno alle cosce, appena sopra le ginocchia. Mettiti di fronte a un gradino o a una piattaforma con i piedi alla larghezza dei fianchi. Sali sulla piattaforma con il piede destro, spingendo attraverso il tallone. Estendi la gamba sinistra dietro di te, mantenendola dritta. Abbassa di nuovo il piede sinistro a terra. Ripeti con il piede sinistro salendo sulla piattaforma. Continua ad alternare le gambe per il numero di ripetizioni desiderato.",
+    "tr": "Bir bandı uyluklarınızın çevresine, dizlerinizin hemen üstüne yerleştirin. Ayaklarınız kalça genişliğinde açık olacak şekilde bir basamağa veya platforma dönük durun. Sağ ayağınızla topuğunuzu iterek platforma çıkın. Sol bacağınızı düz tutarak arkanıza doğru uzatın. Sol ayağınızı tekrar yere indirin. Sol ayağınızla platforma adım atarak tekrarlayın. İstenilen sayıda tekrar için bacakları değiştirerek devam edin.",
+    "es": "Coloca una banda alrededor de los muslos, justo por encima de las rodillas. Ponte de pie frente a un escalón o plataforma con los pies separados a la altura de las caderas. Sube a la plataforma con el pie derecho, empujando con el talón. Extiende la pierna izquierda hacia atrás, manteniéndola recta. Baja el pie izquierdo de nuevo hasta el suelo. Repite subiendo a la plataforma con el pie izquierdo. Continúa alternando las piernas durante el número de repeticiones deseado.",
+    "ru": "Наденьте резинку на бедра, чуть выше колен. Встаньте лицом к ступеньке или платформе, поставив ноги на ширине плеч. Встаньте на платформу правой ногой, отталкиваясь пяткой. Вытяните левую ногу позади себя, сохраняя ее прямой. Опустите левую ногу обратно на землю. Повторите то же самое, вставив левую ногу на платформу. Продолжайте чередовать ноги желаемое количество повторений.",
+    "zh": "将一条带子绕在大腿上，就在膝盖上方。 面向台阶或平台站立，双脚分开与臀部同宽。 用右脚踩上平台，用脚后跟推动。 将左腿伸到身后，保持伸直。 将左脚放回地面。 重复左脚踩上平台的动作。 继续交替双腿达到所需的重复次数。",
+    "hi": "अपने घुटनों के ठीक ऊपर, अपनी जाँघों के चारों ओर एक बैंड रखें। अपने पैरों को कूल्हे की चौड़ाई के बराबर दूरी पर रखते हुए किसी सीढ़ी या मंच की ओर मुंह करके खड़े हो जाएं। अपने दाहिने पैर के साथ मंच पर कदम रखें, अपनी एड़ी को धक्का देते हुए। अपने बाएँ पैर को सीधा रखते हुए अपने पीछे फैलाएँ। अपने बाएँ पैर को वापस ज़मीन पर टिकाएँ। अपने बाएँ पैर को प्लेटफ़ॉर्म पर आगे बढ़ाते हुए दोहराएँ। पुनरावृत्ति की वांछित संख्या के लिए पैरों को बारी-बारी से जारी रखें।",
+    "pl": "Umieść taśmę wokół ud, tuż nad kolanami. Stań przodem do stopnia lub platformy, stopy w rozkroku na szerokość bioder. Wejdź na platformę prawą stopą, odpychając się piętą. Wyprostuj lewą nogę za sobą, utrzymując ją prostą. Opuść lewą stopę z powrotem na podłogę. Powtórz, wchodząc na platformę lewą stopą. Kontynuuj naprzemienne wykonywanie ruchu przez zalecaną liczbę powtórzeń.",
+    "ko": "밴드를 무릎 바로 위 넓적다리 주위에 감습니다. 계단이나 플랫폼을 향해 엉덩이 너비로 발을 벌리고 섭니다. 오른쪽 발로 플랫폼에 올라가면서 발꿈치를 통해 밀어냅니다. 왼쪽 다리를 뒤로 곧게 뻗습니다. 왼쪽 발을 땅에 내립니다. 왼쪽 발로 플랫폼에 올라가도록 반복합니다. 원하는 횟수만큼 다리를 번갈아 계속합니다.",
+    "fr": "Place un élastique autour de tes cuisses, juste au-dessus de tes genoux. Tiens-toi face à une marche ou une plateforme, les pieds écartés à la largeur des hanches. Monte sur la plateforme avec le pied droit, en poussant sur ton talon. Étends ta jambe gauche derrière toi, en la gardant tendue. Repose ton pied gauche au sol. Répète avec ton pied gauche en montant sur la plateforme. Continue à alterner les jambes pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Place a band around your thighs, just above your knees.",
+      "Stand facing a step or platform with your feet hip-width apart.",
+      "Step up onto the platform with your right foot, pushing through your heel.",
+      "Extend your left leg behind you, keeping it straight.",
+      "Lower your left foot back down to the ground.",
+      "Repeat with your left foot stepping up onto the platform.",
+      "Continue alternating legs for the desired number of repetitions."
+    ],
+    "it": [
+      "Metti una fascia intorno alle cosce, appena sopra le ginocchia.",
+      "Mettiti di fronte a un gradino o a una piattaforma con i piedi alla larghezza dei fianchi.",
+      "Sali sulla piattaforma con il piede destro, spingendo attraverso il tallone.",
+      "Estendi la gamba sinistra dietro di te, mantenendola dritta.",
+      "Abbassa di nuovo il piede sinistro a terra.",
+      "Ripeti con il piede sinistro salendo sulla piattaforma.",
+      "Continua ad alternare le gambe per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Bir bandı uyluklarınızın çevresine, dizlerinizin hemen üstüne yerleştirin.",
+      "Ayaklarınız kalça genişliğinde açık olacak şekilde bir basamağa veya platforma dönük durun.",
+      "Sağ ayağınızla topuğunuzu iterek platforma çıkın.",
+      "Sol bacağınızı düz tutarak arkanıza doğru uzatın.",
+      "Sol ayağınızı tekrar yere indirin.",
+      "Sol ayağınızla platforma adım atarak tekrarlayın.",
+      "İstenilen sayıda tekrar için bacakları değiştirerek devam edin."
+    ],
+    "es": [
+      "Coloca una banda alrededor de los muslos, justo por encima de las rodillas.",
+      "Ponte de pie frente a un escalón o plataforma con los pies separados a la altura de las caderas.",
+      "Sube a la plataforma con el pie derecho, empujando con el talón.",
+      "Extiende la pierna izquierda hacia atrás, manteniéndola recta.",
+      "Baja el pie izquierdo de nuevo hasta el suelo.",
+      "Repite subiendo a la plataforma con el pie izquierdo.",
+      "Continúa alternando las piernas durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Наденьте резинку на бедра, чуть выше колен.",
+      "Встаньте лицом к ступеньке или платформе, поставив ноги на ширине плеч.",
+      "Встаньте на платформу правой ногой, отталкиваясь пяткой.",
+      "Вытяните левую ногу позади себя, сохраняя ее прямой.",
+      "Опустите левую ногу обратно на землю.",
+      "Повторите то же самое, вставив левую ногу на платформу.",
+      "Продолжайте чередовать ноги желаемое количество повторений."
+    ],
+    "zh": [
+      "将一条带子绕在大腿上，就在膝盖上方。",
+      "面向台阶或平台站立，双脚分开与臀部同宽。",
+      "用右脚踩上平台，用脚后跟推动。",
+      "将左腿伸到身后，保持伸直。",
+      "将左脚放回地面。",
+      "重复左脚踩上平台的动作。",
+      "继续交替双腿达到所需的重复次数。"
+    ],
+    "hi": [
+      "अपने घुटनों के ठीक ऊपर, अपनी जाँघों के चारों ओर एक बैंड रखें।",
+      "अपने पैरों को कूल्हे की चौड़ाई के बराबर दूरी पर रखते हुए किसी सीढ़ी या मंच की ओर मुंह करके खड़े हो जाएं।",
+      "अपने दाहिने पैर के साथ मंच पर कदम रखें, अपनी एड़ी को धक्का देते हुए।",
+      "अपने बाएँ पैर को सीधा रखते हुए अपने पीछे फैलाएँ।",
+      "अपने बाएँ पैर को वापस ज़मीन पर टिकाएँ।",
+      "अपने बाएँ पैर को प्लेटफ़ॉर्म पर आगे बढ़ाते हुए दोहराएँ।",
+      "पुनरावृत्ति की वांछित संख्या के लिए पैरों को बारी-बारी से जारी रखें।"
+    ],
+    "pl": [
+      "Umieść taśmę wokół ud, tuż nad kolanami.",
+      "Stań przodem do stopnia lub platformy, stopy w rozkroku na szerokość bioder.",
+      "Wejdź na platformę prawą stopą, odpychając się piętą.",
+      "Wyprostuj lewą nogę za sobą, utrzymując ją prostą.",
+      "Opuść lewą stopę z powrotem na podłogę.",
+      "Powtórz, wchodząc na platformę lewą stopą.",
+      "Kontynuuj naprzemienne wykonywanie ruchu przez zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "밴드를 무릎 바로 위 넓적다리 주위에 감습니다.",
+      "계단이나 플랫폼을 향해 엉덩이 너비로 발을 벌리고 섭니다.",
+      "오른쪽 발로 플랫폼에 올라가면서 발꿈치를 통해 밀어냅니다.",
+      "왼쪽 다리를 뒤로 곧게 뻗습니다.",
+      "왼쪽 발을 땅에 내립니다.",
+      "왼쪽 발로 플랫폼에 올라가도록 반복합니다.",
+      "원하는 횟수만큼 다리를 번갈아 계속합니다."
+    ],
+    "fr": [
+      "Place un élastique autour de tes cuisses, juste au-dessus de tes genoux.",
+      "Tiens-toi face à une marche ou une plateforme, les pieds écartés à la largeur des hanches.",
+      "Monte sur la plateforme avec le pied droit, en poussant sur ton talon.",
+      "Étends ta jambe gauche derrière toi, en la gardant tendue.",
+      "Repose ton pied gauche au sol.",
+      "Répète avec ton pied gauche en montant sur la plateforme.",
+      "Continue à alterner les jambes pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "target": "glutes",
+  "image": "images/1008-d5bTEPV.jpg",
+  "gif_url": "videos/1008-d5bTEPV.gif",
+  "media_id": "d5bTEPV",
+  "created_at": "2026-03-18T12:31:32.869987+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

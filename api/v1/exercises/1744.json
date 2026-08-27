@@ -1,0 +1,102 @@
+{
+  "id": "1744",
+  "name": "exercise ball dip",
+  "category": "upper arms",
+  "body_part": "upper arms",
+  "equipment": "stability ball",
+  "instructions": {
+    "en": "Sit on the stability ball with your feet flat on the ground and your knees bent at a 90-degree angle. Place your hands on the ball beside your hips, fingers pointing forward. Engage your triceps and push through your hands to lift your body off the ball, straightening your arms. Lower your body back down by bending your elbows, keeping them close to your sides. Repeat for the desired number of repetitions.",
+    "it": "Siediti sulla palla di stabilità con i piedi appoggiati a terra e le ginocchia piegate con un angolo di 90 gradi. Metti le mani sulla palla accanto ai fianchi, con le dita rivolte in avanti. Coinvolgi i tricipiti e spingi con le mani per sollevare il corpo dalla palla, raddrizzando le braccia. Abbassa il corpo piegando i gomiti, tenendoli vicini ai fianchi. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız yere düz basacak ve dizleriniz 90 derecelik bir açıyla bükülü olacak şekilde stabilite topunun üzerine oturun. Ellerinizi kalçalarınızın yanındaki topun üzerine, parmaklarınız ileriyi gösterecek şekilde yerleştirin. Trisepsinizi devreye sokun ve vücudunuzu toptan kaldırmak için ellerinizi itin, kollarınızı düzleştirin. Dirseklerinizi bükerek, yanlarınıza yakın tutarak vücudunuzu geriye doğru indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Siéntate en el balón de estabilidad con los pies planos en el suelo y las rodillas flexionadas en un ángulo de 90 grados. Coloca las manos sobre el balón junto a las caderas, con los dedos apuntando hacia adelante. Activa el tríceps y empuja con las manos para levantar el cuerpo del balón, enderezando los brazos. Baja el cuerpo flexionando los codos, manteniéndolos cerca de los costados. Repite el número de repeticiones deseado.",
+    "ru": "Сядьте на мяч для стабилизации, поставьте ступни на землю и согните колени под углом 90 градусов. Положите руки на мяч рядом с бедрами, пальцы направлены вперед. Задействуйте трицепсы и толкайте руки, чтобы оторвать тело от мяча, выпрямляя руки. Опустите тело обратно вниз, сгибая локти и держа их близко к бокам. Повторите необходимое количество повторений.",
+    "zh": "坐在稳定球上，双脚平放在地面上，膝盖弯曲成 90 度角。 将双手放在臀部旁边的球上，手指指向前方。 启动你的三头肌并用力推动你的身体，将你的身体抬离球，伸直你的手臂。 弯曲肘部，将身体放低，使其靠近身体两侧。 重复所需的重复次数。",
+    "hi": "स्टेबिलिटी बॉल पर अपने पैरों को ज़मीन पर सपाट करके बैठें और आपके घुटने 90 डिग्री के कोण पर मुड़े हों। अपने हाथों को अपने कूल्हों के पास गेंद पर रखें, उंगलियां आगे की ओर हों। अपने ट्राइसेप्स को संलग्न करें और अपने हाथों को सीधा करते हुए अपने शरीर को गेंद से ऊपर उठाने के लिए अपने हाथों से धक्का दें। अपनी कोहनियों को मोड़कर, उन्हें अपनी भुजाओं के पास रखते हुए, अपने शरीर को पीछे की ओर नीचे लाएँ। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Usiądź na piłce gimnastycznej, oprzyj stopy płasko na podłodze, a kolana zegnij pod kątem 90 stopni. Ułóż dłonie na piłce obok bioder, palce skierowane do przodu. Napnij triceps i wypchnij się dłońmi, unosząc ciało nad piłkę, prostując ramiona. Opuść ciało z powrotem, zginając łokcie i trzymając je blisko boków. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "짐볼 위에 앉아 발을 바닥에 평평하게 놓고 무릎을 90도 각도로 구부리십시오. 손을 볼 옆 엉덩이 근처에 놓고 손가락이 앞을 향하도록 하십시오. 삼두근을 조이고 손으로 밀어 몸을 볼에서 들어올리되 팔을 펴십시오. 팔꿈치를 구부려 몸을 다시 아래로 내리되 팔꿈치를 몸에 가깝게 유지하십시오. 원하는 반복 횟수만큼 반복하십시오.",
+    "fr": "Assieds-toi sur le ballon de stabilité, les pieds à plat sur le sol et les genoux fléchis à un angle de 90 degrés. Place tes mains sur le ballon à côté de tes hanches, les doigts pointés vers l'avant. Contracte tes triceps et pousse sur tes mains pour soulever ton corps du ballon, en tendant tes bras. Abaisse ton corps en fléchissant tes coudes, en les gardant près de tes côtés. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on the stability ball with your feet flat on the ground and your knees bent at a 90-degree angle.",
+      "Place your hands on the ball beside your hips, fingers pointing forward.",
+      "Engage your triceps and push through your hands to lift your body off the ball, straightening your arms.",
+      "Lower your body back down by bending your elbows, keeping them close to your sides.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Siediti sulla palla di stabilità con i piedi appoggiati a terra e le ginocchia piegate con un angolo di 90 gradi.",
+      "Metti le mani sulla palla accanto ai fianchi, con le dita rivolte in avanti.",
+      "Coinvolgi i tricipiti e spingi con le mani per sollevare il corpo dalla palla, raddrizzando le braccia.",
+      "Abbassa il corpo piegando i gomiti, tenendoli vicini ai fianchi.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız yere düz basacak ve dizleriniz 90 derecelik bir açıyla bükülü olacak şekilde stabilite topunun üzerine oturun.",
+      "Ellerinizi kalçalarınızın yanındaki topun üzerine, parmaklarınız ileriyi gösterecek şekilde yerleştirin.",
+      "Trisepsinizi devreye sokun ve vücudunuzu toptan kaldırmak için ellerinizi itin, kollarınızı düzleştirin.",
+      "Dirseklerinizi bükerek, yanlarınıza yakın tutarak vücudunuzu geriye doğru indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Siéntate en el balón de estabilidad con los pies planos en el suelo y las rodillas flexionadas en un ángulo de 90 grados.",
+      "Coloca las manos sobre el balón junto a las caderas, con los dedos apuntando hacia adelante.",
+      "Activa el tríceps y empuja con las manos para levantar el cuerpo del balón, enderezando los brazos.",
+      "Baja el cuerpo flexionando los codos, manteniéndolos cerca de los costados.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на мяч для стабилизации, поставьте ступни на землю и согните колени под углом 90 градусов.",
+      "Положите руки на мяч рядом с бедрами, пальцы направлены вперед.",
+      "Задействуйте трицепсы и толкайте руки, чтобы оторвать тело от мяча, выпрямляя руки.",
+      "Опустите тело обратно вниз, сгибая локти и держа их близко к бокам.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "坐在稳定球上，双脚平放在地面上，膝盖弯曲成 90 度角。",
+      "将双手放在臀部旁边的球上，手指指向前方。",
+      "启动你的三头肌并用力推动你的身体，将你的身体抬离球，伸直你的手臂。",
+      "弯曲肘部，将身体放低，使其靠近身体两侧。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "स्टेबिलिटी बॉल पर अपने पैरों को ज़मीन पर सपाट करके बैठें और आपके घुटने 90 डिग्री के कोण पर मुड़े हों।",
+      "अपने हाथों को अपने कूल्हों के पास गेंद पर रखें, उंगलियां आगे की ओर हों।",
+      "अपने ट्राइसेप्स को संलग्न करें और अपने हाथों को सीधा करते हुए अपने शरीर को गेंद से ऊपर उठाने के लिए अपने हाथों से धक्का दें।",
+      "अपनी कोहनियों को मोड़कर, उन्हें अपनी भुजाओं के पास रखते हुए, अपने शरीर को पीछे की ओर नीचे लाएँ।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Usiądź na piłce gimnastycznej, oprzyj stopy płasko na podłodze, a kolana zegnij pod kątem 90 stopni.",
+      "Ułóż dłonie na piłce obok bioder, palce skierowane do przodu.",
+      "Napnij triceps i wypchnij się dłońmi, unosząc ciało nad piłkę, prostując ramiona.",
+      "Opuść ciało z powrotem, zginając łokcie i trzymając je blisko boków.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "짐볼 위에 앉아 발을 바닥에 평평하게 놓고 무릎을 90도 각도로 구부리십시오.",
+      "손을 볼 옆 엉덩이 근처에 놓고 손가락이 앞을 향하도록 하십시오.",
+      "삼두근을 조이고 손으로 밀어 몸을 볼에서 들어올리되 팔을 펴십시오.",
+      "팔꿈치를 구부려 몸을 다시 아래로 내리되 팔꿈치를 몸에 가깝게 유지하십시오.",
+      "원하는 반복 횟수만큼 반복하십시오."
+    ],
+    "fr": [
+      "Assieds-toi sur le ballon de stabilité, les pieds à plat sur le sol et les genoux fléchis à un angle de 90 degrés.",
+      "Place tes mains sur le ballon à côté de tes hanches, les doigts pointés vers l'avant.",
+      "Contracte tes triceps et pousse sur tes mains pour soulever ton corps du ballon, en tendant tes bras.",
+      "Abaisse ton corps en fléchissant tes coudes, en les gardant près de tes côtés.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "chest",
+  "secondary_muscles": [
+    "chest",
+    "shoulders"
+  ],
+  "target": "triceps",
+  "image": "images/1744-kprile3.jpg",
+  "gif_url": "videos/1744-kprile3.gif",
+  "media_id": "kprile3",
+  "created_at": "2026-03-18T12:31:32.882734+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,102 @@
+{
+  "id": "1259",
+  "name": "behind head chest stretch",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "assisted",
+  "instructions": {
+    "en": "Stand tall with your feet shoulder-width apart. Interlace your fingers behind your head with your elbows pointing outwards. Slowly squeeze your shoulder blades together and push your chest forward. Hold the stretch for 15-30 seconds. Release the stretch and repeat as desired.",
+    "it": "Stai dritto con i piedi a larghezza delle spalle. Intreccia le dita dietro la testa con i gomiti rivolti verso l'esterno. Stringi lentamente le scapole e spingi il petto in avanti. Mantieni lo stretch per 15-30 secondi. Lascia andare lo stretch e ripeti come vuoi.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde dik durun. Dirsekleriniz dışarı bakacak şekilde parmaklarınızı başınızın arkasında birleştirin. Kürek kemiklerinizi yavaşça birbirine sıkıştırın ve göğsünüzü ileri doğru itin. Germeyi 15-30 saniye kadar tutun. Uzatmayı bırakın ve istediğiniz gibi tekrarlayın.",
+    "es": "Ponte de pie con la espalda recta y los pies separados a la altura de los hombros. Entrelaza los dedos detrás de la cabeza con los codos apuntando hacia afuera. Junta lentamente los omóplatos y empuja el pecho hacia adelante. Mantén el estiramiento durante 15-30 segundos. Suelta el estiramiento y repite cuantas veces lo desees.",
+    "ru": "Встаньте прямо, ноги на ширине плеч. Переплетите пальцы за головой так, чтобы локти были направлены наружу. Медленно сведите лопатки вместе и выдвиньте грудь вперед. Удерживайте растяжку 15–30 секунд. Освободите растяжку и повторите по желанию.",
+    "zh": "站直，双脚分开与肩同宽。 将手指交叉放在脑后，肘部朝外。 慢慢地将肩胛骨挤压在一起，并将胸部向前推。 保持拉伸 15-30 秒。 松开拉伸并根据需要重复。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर सीधे खड़े रहें। अपनी कोहनियों को बाहर की ओर रखते हुए अपनी उंगलियों को अपने सिर के पीछे फंसा लें। धीरे-धीरे अपने कंधे के ब्लेड को एक साथ दबाएं और अपनी छाती को आगे की ओर धकेलें। 15-30 सेकंड तक खिंचाव बनाए रखें। खिंचाव छोड़ें और इच्छानुसार दोहराएं।",
+    "pl": "Stań prosto, ze stopami na szerokość barków. Spleć palce za głową, z łokciami skierowanymi na zewnątrz. Powoli ściągnij łopatki i wypchnij klatkę piersiową do przodu. Przytrzymaj rozciągnięcie przez 15-30 sekund. Zwolnij rozciągnięcie i powtórz według potrzeb.",
+    "ko": "어깨 너비로 발을 벌리고 똑바로 섭니다. 손가락을 깍지껴 머리 뒤에서 팔꿈치를 바깥쪽으로 향하게 합니다. 천천히 견갑골을 함께 조이고 가슴을 앞으로 밀어 냅니다. 15-30초 동안 스트레치를 유지합니다. 스트레치를 풀고 필요에 따라 반복합니다.",
+    "fr": "Tiens-toi bien droit, les pieds écartés à la largeur des épaules. Entrelace tes doigts derrière ta tête, les coudes pointés vers l'extérieur. Contracte lentement tes omoplates l'une vers l'autre et pousse ta poitrine vers l'avant. Maintiens l'étirement pendant 15 à 30 secondes. Relâche l'étirement et répète autant de fois que souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand tall with your feet shoulder-width apart.",
+      "Interlace your fingers behind your head with your elbows pointing outwards.",
+      "Slowly squeeze your shoulder blades together and push your chest forward.",
+      "Hold the stretch for 15-30 seconds.",
+      "Release the stretch and repeat as desired."
+    ],
+    "it": [
+      "Stai dritto con i piedi a larghezza delle spalle.",
+      "Intreccia le dita dietro la testa con i gomiti rivolti verso l'esterno.",
+      "Stringi lentamente le scapole e spingi il petto in avanti.",
+      "Mantieni lo stretch per 15-30 secondi.",
+      "Lascia andare lo stretch e ripeti come vuoi."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde dik durun.",
+      "Dirsekleriniz dışarı bakacak şekilde parmaklarınızı başınızın arkasında birleştirin.",
+      "Kürek kemiklerinizi yavaşça birbirine sıkıştırın ve göğsünüzü ileri doğru itin.",
+      "Germeyi 15-30 saniye kadar tutun.",
+      "Uzatmayı bırakın ve istediğiniz gibi tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con la espalda recta y los pies separados a la altura de los hombros.",
+      "Entrelaza los dedos detrás de la cabeza con los codos apuntando hacia afuera.",
+      "Junta lentamente los omóplatos y empuja el pecho hacia adelante.",
+      "Mantén el estiramiento durante 15-30 segundos.",
+      "Suelta el estiramiento y repite cuantas veces lo desees."
+    ],
+    "ru": [
+      "Встаньте прямо, ноги на ширине плеч.",
+      "Переплетите пальцы за головой так, чтобы локти были направлены наружу.",
+      "Медленно сведите лопатки вместе и выдвиньте грудь вперед.",
+      "Удерживайте растяжку 15–30 секунд.",
+      "Освободите растяжку и повторите по желанию."
+    ],
+    "zh": [
+      "站直，双脚分开与肩同宽。",
+      "将手指交叉放在脑后，肘部朝外。",
+      "慢慢地将肩胛骨挤压在一起，并将胸部向前推。",
+      "保持拉伸 15-30 秒。",
+      "松开拉伸并根据需要重复。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर सीधे खड़े रहें।",
+      "अपनी कोहनियों को बाहर की ओर रखते हुए अपनी उंगलियों को अपने सिर के पीछे फंसा लें।",
+      "धीरे-धीरे अपने कंधे के ब्लेड को एक साथ दबाएं और अपनी छाती को आगे की ओर धकेलें।",
+      "15-30 सेकंड तक खिंचाव बनाए रखें।",
+      "खिंचाव छोड़ें और इच्छानुसार दोहराएं।"
+    ],
+    "pl": [
+      "Stań prosto, ze stopami na szerokość barków.",
+      "Spleć palce za głową, z łokciami skierowanymi na zewnątrz.",
+      "Powoli ściągnij łopatki i wypchnij klatkę piersiową do przodu.",
+      "Przytrzymaj rozciągnięcie przez 15-30 sekund.",
+      "Zwolnij rozciągnięcie i powtórz według potrzeb."
+    ],
+    "ko": [
+      "어깨 너비로 발을 벌리고 똑바로 섭니다.",
+      "손가락을 깍지껴 머리 뒤에서 팔꿈치를 바깥쪽으로 향하게 합니다.",
+      "천천히 견갑골을 함께 조이고 가슴을 앞으로 밀어 냅니다.",
+      "15-30초 동안 스트레치를 유지합니다.",
+      "스트레치를 풀고 필요에 따라 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi bien droit, les pieds écartés à la largeur des épaules.",
+      "Entrelace tes doigts derrière ta tête, les coudes pointés vers l'extérieur.",
+      "Contracte lentement tes omoplates l'une vers l'autre et pousse ta poitrine vers l'avant.",
+      "Maintiens l'étirement pendant 15 à 30 secondes.",
+      "Relâche l'étirement et répète autant de fois que souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "target": "pectorals",
+  "image": "images/1259-QoHIhPl.jpg",
+  "gif_url": "videos/1259-QoHIhPl.gif",
+  "media_id": "QoHIhPl",
+  "created_at": "2026-03-18T12:31:32.873606+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

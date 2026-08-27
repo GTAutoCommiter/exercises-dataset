@@ -1,0 +1,112 @@
+{
+  "id": "0158",
+  "name": "cable decline fly",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Adjust the cable machine to a decline position. Stand facing away from the machine with your feet shoulder-width apart. Hold the handles with your palms facing forward and your arms extended straight out in front of you. Keeping a slight bend in your elbows, open your arms out to the sides in a controlled motion. Pause for a moment at the fully extended position, then slowly return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Regola la macchina a cavo in posizione declinante. Mettiti di spalle alla macchina con i piedi a larghezza delle spalle. Tieni le maniglie con i palmi rivolti in avanti e le braccia estese dritte davanti a te. Mantenendo una leggera piega dei gomiti, apri le braccia ai lati in un movimento controllato. Fermati un attimo nella posizione completamente estesa, poi torna lentamente alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Kablo makinesini reddetme konumuna ayarlayın. Ayaklarınız omuz genişliğinde açık olacak şekilde, yüzünüz makineden uzakta durun. Avuç içleriniz öne bakacak ve kollarınız düz bir şekilde önünüze doğru uzatılacak şekilde tutamaçları tutun. Dirseklerinizi hafif bükerek kollarınızı kontrollü bir hareketle yanlara doğru açın. Tamamen uzatılmış pozisyonda bir an duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta la máquina de cable a una posición declinada. Ponte de pie de espaldas a la máquina con los pies separados a la altura de los hombros. Sujeta las agarraderas con las palmas hacia adelante y los brazos extendidos rectos frente a ti. Manteniendo una ligera flexión en los codos, abre los brazos hacia los lados con un movimiento controlado. Haz una pausa breve en la posición completamente extendida, luego vuelve lentamente a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Отрегулируйте тросную машину в положение опускания. Встаньте лицом к тренажеру, поставив ноги на ширине плеч. Возьмитесь за ручки ладонями вперед и вытяните руки прямо перед собой. Сохраняя небольшой изгиб в локтях, контролируемым движением разведите руки в стороны. Задержитесь на мгновение в полностью выпрямленном положении, затем медленно вернитесь в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "将拉线机调整至下降位置。 背对机器站立，双脚与肩同宽。 握住手柄，手掌朝前，双臂在身前伸直。 保持肘部轻微弯曲，以受控的动作向两侧张开双臂。 在完全伸展位置停顿片刻，然后慢慢回到起始位置。 重复所需的重复次数。",
+    "hi": "केबल मशीन को गिरावट की स्थिति में समायोजित करें। अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए मशीन से दूर की ओर मुंह करके खड़े हो जाएं। अपनी हथेलियों को आगे की ओर रखते हुए हैंडल को पकड़ें और आपकी भुजाएँ आपके सामने सीधी फैली हुई हों। अपनी कोहनियों को थोड़ा मोड़ते हुए, नियंत्रित गति में अपनी भुजाओं को बगल की ओर खोलें। पूरी तरह विस्तारित स्थिति में एक पल के लिए रुकें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Ustaw wyciąg w pozycji skośnej w dół. Stań tyłem do maszyny, ze stopami na szerokość barków. Chwyć uchwyty dłońmi skierowanymi do przodu, a ramionami wyprostowanymi prosto przed sobą. Trzymając lekkie zgięcie w łokciach, rozłóż ramiona na boki w kontrolowanym ruchu. Zatrzymaj się na chwilę w pozycji pełnego rozłożenia, a następnie powoli wróć do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "케이블 머신을 디클라인 위치로 조정합니다. 머신을 등지고 서서 발을 어깨 너비로 벌립니다. 손바닥이 앞을 향하도록 핸들을 잡고 팔을 앞으로 곧게 펼칩니다. 팔꿈치를 약간 구부린 상태에서 팔을 옆으로 벌리는 동작을 조절되게 진행합니다. 완전히 펼친 위치에서 잠깐 멈추었다가 천천히 시작 위치로 돌아갑니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Règle la machine à câble en position déclinée. Tiens-toi dos à la machine, les pieds écartés à la largeur des épaules. Tiens les poignées, les paumes tournées vers l'avant et les bras étendus droit devant toi. En gardant une légère flexion des coudes, ouvre les bras sur les côtés dans un mouvement contrôlé. Marque une pause en position complètement étendue, puis reviens lentement à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the cable machine to a decline position.",
+      "Stand facing away from the machine with your feet shoulder-width apart.",
+      "Hold the handles with your palms facing forward and your arms extended straight out in front of you.",
+      "Keeping a slight bend in your elbows, open your arms out to the sides in a controlled motion.",
+      "Pause for a moment at the fully extended position, then slowly return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Regola la macchina a cavo in posizione declinante.",
+      "Mettiti di spalle alla macchina con i piedi a larghezza delle spalle.",
+      "Tieni le maniglie con i palmi rivolti in avanti e le braccia estese dritte davanti a te.",
+      "Mantenendo una leggera piega dei gomiti, apri le braccia ai lati in un movimento controllato.",
+      "Fermati un attimo nella posizione completamente estesa, poi torna lentamente alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Kablo makinesini reddetme konumuna ayarlayın.",
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde, yüzünüz makineden uzakta durun.",
+      "Avuç içleriniz öne bakacak ve kollarınız düz bir şekilde önünüze doğru uzatılacak şekilde tutamaçları tutun.",
+      "Dirseklerinizi hafif bükerek kollarınızı kontrollü bir hareketle yanlara doğru açın.",
+      "Tamamen uzatılmış pozisyonda bir an duraklayın, ardından yavaşça başlangıç ​​pozisyonuna dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta la máquina de cable a una posición declinada.",
+      "Ponte de pie de espaldas a la máquina con los pies separados a la altura de los hombros.",
+      "Sujeta las agarraderas con las palmas hacia adelante y los brazos extendidos rectos frente a ti.",
+      "Manteniendo una ligera flexión en los codos, abre los brazos hacia los lados con un movimiento controlado.",
+      "Haz una pausa breve en la posición completamente extendida, luego vuelve lentamente a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Отрегулируйте тросную машину в положение опускания.",
+      "Встаньте лицом к тренажеру, поставив ноги на ширине плеч.",
+      "Возьмитесь за ручки ладонями вперед и вытяните руки прямо перед собой.",
+      "Сохраняя небольшой изгиб в локтях, контролируемым движением разведите руки в стороны.",
+      "Задержитесь на мгновение в полностью выпрямленном положении, затем медленно вернитесь в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将拉线机调整至下降位置。",
+      "背对机器站立，双脚与肩同宽。",
+      "握住手柄，手掌朝前，双臂在身前伸直。",
+      "保持肘部轻微弯曲，以受控的动作向两侧张开双臂。",
+      "在完全伸展位置停顿片刻，然后慢慢回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "केबल मशीन को गिरावट की स्थिति में समायोजित करें।",
+      "अपने पैरों को कंधे की चौड़ाई से अलग रखते हुए मशीन से दूर की ओर मुंह करके खड़े हो जाएं।",
+      "अपनी हथेलियों को आगे की ओर रखते हुए हैंडल को पकड़ें और आपकी भुजाएँ आपके सामने सीधी फैली हुई हों।",
+      "अपनी कोहनियों को थोड़ा मोड़ते हुए, नियंत्रित गति में अपनी भुजाओं को बगल की ओर खोलें।",
+      "पूरी तरह विस्तारित स्थिति में एक पल के लिए रुकें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Ustaw wyciąg w pozycji skośnej w dół.",
+      "Stań tyłem do maszyny, ze stopami na szerokość barków.",
+      "Chwyć uchwyty dłońmi skierowanymi do przodu, a ramionami wyprostowanymi prosto przed sobą.",
+      "Trzymając lekkie zgięcie w łokciach, rozłóż ramiona na boki w kontrolowanym ruchu.",
+      "Zatrzymaj się na chwilę w pozycji pełnego rozłożenia, a następnie powoli wróć do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "케이블 머신을 디클라인 위치로 조정합니다.",
+      "머신을 등지고 서서 발을 어깨 너비로 벌립니다.",
+      "손바닥이 앞을 향하도록 핸들을 잡고 팔을 앞으로 곧게 펼칩니다.",
+      "팔꿈치를 약간 구부린 상태에서 팔을 옆으로 벌리는 동작을 조절되게 진행합니다.",
+      "완전히 펼친 위치에서 잠깐 멈추었다가 천천히 시작 위치로 돌아갑니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Règle la machine à câble en position déclinée.",
+      "Tiens-toi dos à la machine, les pieds écartés à la largeur des épaules.",
+      "Tiens les poignées, les paumes tournées vers l'avant et les bras étendus droit devant toi.",
+      "En gardant une légère flexion des coudes, ouvre les bras sur les côtés dans un mouvement contrôlé.",
+      "Marque une pause en position complètement étendue, puis reviens lentement à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "shoulders",
+  "secondary_muscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "target": "pectorals",
+  "image": "images/0158-7saC5zz.jpg",
+  "gif_url": "videos/0158-7saC5zz.gif",
+  "media_id": "7saC5zz",
+  "created_at": "2026-03-18T12:31:32.874334+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

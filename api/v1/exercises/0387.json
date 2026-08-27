@@ -1,0 +1,112 @@
+{
+  "id": "0387",
+  "name": "dumbbell seated alternate front raise",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Sit on a bench with your back straight and feet flat on the ground. Hold a dumbbell in each hand with your palms facing your body and arms extended down by your sides. Keeping your arms straight, raise one dumbbell in front of you until it is parallel to the ground. Pause for a moment at the top, then slowly lower the dumbbell back down to the starting position. Repeat with the other arm. Alternate between arms for the desired number of repetitions.",
+    "it": "Siediti su una panchina con la schiena dritta e i piedi piatti a terra. Tieni un manubrio in ogni mano con i palmi rivolti verso il corpo e le braccia distese lungo i lati. Tenendo le braccia dritte, alza un manubrio davanti a te finché non è parallelo al suolo. Fermati un attimo in cima, poi abbassa lentamente il manubrio fino alla posizione di partenza. Ripeti con l'altro braccio. Alternare tra le armi per il numero desiderato di ripetizioni.",
+    "tr": "Sırtınız dik ve ayaklarınız yere düz basacak şekilde bir bankta oturun. Avuç içleriniz vücudunuza bakacak ve kollarınız yanlarınızda uzanacak şekilde her iki elinizde birer dambıl tutun. Kollarınızı düz tutarak önünüzdeki bir dambılı yere paralel oluncaya kadar kaldırın. Tepe noktasında bir süre duraklayın, ardından dambılı yavaşça başlangıç ​​pozisyonuna indirin. Diğer kolla tekrarlayın. İstenilen sayıda tekrar için kollar arasında geçiş yapın.",
+    "es": "Siéntate en un banco con la espalda recta y los pies planos sobre el suelo. Sujeta una mancuerna en cada mano con las palmas hacia tu cuerpo y los brazos extendidos hacia abajo a los lados. Manteniendo los brazos rectos, levanta una mancuerna frente a ti hasta que quede paralela al suelo. Haz una pausa breve en la parte más alta, luego baja lentamente la mancuerna de vuelta a la posición inicial. Repite con el otro brazo. Alterna entre los brazos el número de repeticiones deseado.",
+    "ru": "Сядьте на скамью, выпрямив спину и поставив ноги на землю. Возьмите по гантели в каждую руку ладонями к телу, а руки вытяните вниз по бокам. Держа руки прямыми, поднимите одну гантель перед собой до тех пор, пока она не станет параллельна земле. Задержитесь на мгновение в верхней точке, затем медленно опустите гантель обратно в исходное положение. Повторите с другой рукой. Чередуйте руки, выполняя желаемое количество повторений.",
+    "zh": "坐在长凳上，背部挺直，双脚平放在地上。 每只手握住一个哑铃，手掌朝向身体，手臂向下伸展到身体两侧。 保持双臂伸直，将一只哑铃举至身前，直至其与地面平行。 在顶部停顿片刻，然后慢慢将哑铃放回起始位置。 用另一只手臂重复上述步骤。 双臂交替进行所需的重复次数。",
+    "hi": "अपनी पीठ सीधी और पैर ज़मीन पर सपाट करके एक बेंच पर बैठें। प्रत्येक हाथ में एक डम्बल पकड़ें, अपनी हथेलियों को अपने शरीर की ओर रखें और भुजाएँ अपनी तरफ नीचे की ओर फैलाएँ। अपनी भुजाओं को सीधा रखते हुए, एक डम्बल को अपने सामने तब तक उठाएँ जब तक कि वह ज़मीन के समानांतर न हो जाए। शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे डम्बल को वापस प्रारंभिक स्थिति में ले आएं। दूसरे हाथ से दोहराएँ. दोहराव की वांछित संख्या के लिए भुजाओं के बीच वैकल्पिक करें।",
+    "pl": "Usiądź na ławce, trzymając plecy proste i stopy płasko na podłodze. Trzymaj w każdej dłoni hantlę, dłonie skierowane w stronę ciała, ręce wyprostowane wzdłuż boków ciała. Utrzymując proste ręce, unieś jedną hantlę przed sobą, aż będzie równoległa do podłogi. Zatrzymaj się na chwilę na górze, a następnie powoli opuść hantlę z powrotem do pozycji wyjściowej. Powtórz drugą ręką. Kontynuuj naprzemienne wykonywanie ćwiczenia przez zalecaną liczbę powtórzeń.",
+    "ko": "벤치에 앉아 등을 곧게 펴고 발을 땅에 댄다. 양손에 덤벨을 들되 손바닥이 몸을 향하고 팔을 아래로 펼친 상태로 옆에 둔다. 팔을 곧게 펼친 채 한쪽 덤벨을 몸 앞쪽으로 들어올려 바닥과 평행하게 만든다. 맨 위에서 잠깐 멈춘 후 천천히 덤벨을 시작 위치로 낮춘다. 다른 팔로 반복한다. 양팔을 교대로 반복하며 원하는 반복 횟수만큼 수행합니다.",
+    "fr": "Assieds-toi sur un banc, le dos droit et les pieds à plat sur le sol. Tiens un haltère dans chaque main, les paumes tournées vers ton corps et les bras étendus le long de tes flancs. En gardant les bras tendus, lève un haltère devant toi jusqu'à ce qu'il soit parallèle au sol. Marque une pause en haut, puis abaisse lentement l'haltère pour revenir à la position de départ. Répète avec l'autre bras. Alterne les bras pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on a bench with your back straight and feet flat on the ground.",
+      "Hold a dumbbell in each hand with your palms facing your body and arms extended down by your sides.",
+      "Keeping your arms straight, raise one dumbbell in front of you until it is parallel to the ground.",
+      "Pause for a moment at the top, then slowly lower the dumbbell back down to the starting position.",
+      "Repeat with the other arm.",
+      "Alternate between arms for the desired number of repetitions."
+    ],
+    "it": [
+      "Siediti su una panchina con la schiena dritta e i piedi piatti a terra.",
+      "Tieni un manubrio in ogni mano con i palmi rivolti verso il corpo e le braccia distese lungo i lati.",
+      "Tenendo le braccia dritte, alza un manubrio davanti a te finché non è parallelo al suolo.",
+      "Fermati un attimo in cima, poi abbassa lentamente il manubrio fino alla posizione di partenza.",
+      "Ripeti con l'altro braccio.",
+      "Alternare tra le armi per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Sırtınız dik ve ayaklarınız yere düz basacak şekilde bir bankta oturun.",
+      "Avuç içleriniz vücudunuza bakacak ve kollarınız yanlarınızda uzanacak şekilde her iki elinizde birer dambıl tutun.",
+      "Kollarınızı düz tutarak önünüzdeki bir dambılı yere paralel oluncaya kadar kaldırın.",
+      "Tepe noktasında bir süre duraklayın, ardından dambılı yavaşça başlangıç ​​pozisyonuna indirin.",
+      "Diğer kolla tekrarlayın.",
+      "İstenilen sayıda tekrar için kollar arasında geçiş yapın."
+    ],
+    "es": [
+      "Siéntate en un banco con la espalda recta y los pies planos sobre el suelo.",
+      "Sujeta una mancuerna en cada mano con las palmas hacia tu cuerpo y los brazos extendidos hacia abajo a los lados.",
+      "Manteniendo los brazos rectos, levanta una mancuerna frente a ti hasta que quede paralela al suelo.",
+      "Haz una pausa breve en la parte más alta, luego baja lentamente la mancuerna de vuelta a la posición inicial.",
+      "Repite con el otro brazo.",
+      "Alterna entre los brazos el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на скамью, выпрямив спину и поставив ноги на землю.",
+      "Возьмите по гантели в каждую руку ладонями к телу, а руки вытяните вниз по бокам.",
+      "Держа руки прямыми, поднимите одну гантель перед собой до тех пор, пока она не станет параллельна земле.",
+      "Задержитесь на мгновение в верхней точке, затем медленно опустите гантель обратно в исходное положение.",
+      "Повторите с другой рукой.",
+      "Чередуйте руки, выполняя желаемое количество повторений."
+    ],
+    "zh": [
+      "坐在长凳上，背部挺直，双脚平放在地上。",
+      "每只手握住一个哑铃，手掌朝向身体，手臂向下伸展到身体两侧。",
+      "保持双臂伸直，将一只哑铃举至身前，直至其与地面平行。",
+      "在顶部停顿片刻，然后慢慢将哑铃放回起始位置。",
+      "用另一只手臂重复上述步骤。",
+      "双臂交替进行所需的重复次数。"
+    ],
+    "hi": [
+      "अपनी पीठ सीधी और पैर ज़मीन पर सपाट करके एक बेंच पर बैठें।",
+      "प्रत्येक हाथ में एक डम्बल पकड़ें, अपनी हथेलियों को अपने शरीर की ओर रखें और भुजाएँ अपनी तरफ नीचे की ओर फैलाएँ।",
+      "अपनी भुजाओं को सीधा रखते हुए, एक डम्बल को अपने सामने तब तक उठाएँ जब तक कि वह ज़मीन के समानांतर न हो जाए।",
+      "शीर्ष पर एक पल के लिए रुकें, फिर धीरे-धीरे डम्बल को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दूसरे हाथ से दोहराएँ.",
+      "दोहराव की वांछित संख्या के लिए भुजाओं के बीच वैकल्पिक करें।"
+    ],
+    "pl": [
+      "Usiądź na ławce, trzymając plecy proste i stopy płasko na podłodze.",
+      "Trzymaj w każdej dłoni hantlę, dłonie skierowane w stronę ciała, ręce wyprostowane wzdłuż boków ciała.",
+      "Utrzymując proste ręce, unieś jedną hantlę przed sobą, aż będzie równoległa do podłogi.",
+      "Zatrzymaj się na chwilę na górze, a następnie powoli opuść hantlę z powrotem do pozycji wyjściowej.",
+      "Powtórz drugą ręką.",
+      "Kontynuuj naprzemienne wykonywanie ćwiczenia przez zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "벤치에 앉아 등을 곧게 펴고 발을 땅에 댄다.",
+      "양손에 덤벨을 들되 손바닥이 몸을 향하고 팔을 아래로 펼친 상태로 옆에 둔다.",
+      "팔을 곧게 펼친 채 한쪽 덤벨을 몸 앞쪽으로 들어올려 바닥과 평행하게 만든다.",
+      "맨 위에서 잠깐 멈춘 후 천천히 덤벨을 시작 위치로 낮춘다.",
+      "다른 팔로 반복한다.",
+      "양팔을 교대로 반복하며 원하는 반복 횟수만큼 수행합니다."
+    ],
+    "fr": [
+      "Assieds-toi sur un banc, le dos droit et les pieds à plat sur le sol.",
+      "Tiens un haltère dans chaque main, les paumes tournées vers ton corps et les bras étendus le long de tes flancs.",
+      "En gardant les bras tendus, lève un haltère devant toi jusqu'à ce qu'il soit parallèle au sol.",
+      "Marque une pause en haut, puis abaisse lentement l'haltère pour revenir à la position de départ.",
+      "Répète avec l'autre bras.",
+      "Alterne les bras pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "trapezius",
+  "secondary_muscles": [
+    "trapezius",
+    "biceps"
+  ],
+  "target": "delts",
+  "image": "images/0387-gH5fRsC.jpg",
+  "gif_url": "videos/0387-gH5fRsC.gif",
+  "media_id": "gH5fRsC",
+  "created_at": "2026-03-18T12:31:32.881007+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

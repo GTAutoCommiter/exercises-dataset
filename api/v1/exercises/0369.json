@@ -1,0 +1,102 @@
+{
+  "id": "0369",
+  "name": "dumbbell over bench wrist curl",
+  "category": "lower arms",
+  "body_part": "lower arms",
+  "equipment": "dumbbell",
+  "instructions": {
+    "en": "Sit on a bench with your forearms resting on the bench and your palms facing up, holding a dumbbell in each hand. Allow your wrists to hang over the edge of the bench. Slowly curl your wrists upward, squeezing your forearms at the top of the movement. Pause for a moment, then slowly lower your wrists back down to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Siediti su una panchina con gli avambracci appoggiati sulla panca e i palmi rivolti verso l'alto, tenendo un manubrio in ogni mano. Lascia che i polsi sporgano dal bordo della panca. Ripiega lentamente i polsi verso l'alto, stringendo gli avambracci nella parte alta del movimento. Fermati un attimo, poi abbassa lentamente i polsi fino alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Her iki elinizde birer dambıl tutarak, önkollarınız bankın üzerinde ve avuçlarınız yukarı bakacak şekilde bir bankta oturun. Bileklerinizin bankın kenarından sarkmasına izin verin. Hareketin üst noktasında ön kollarınızı sıkarak bileklerinizi yavaşça yukarı doğru kıvırın. Bir an duraklayın, ardından bileklerinizi yavaşça başlangıç ​​pozisyonuna indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Siéntate en un banco con los antebrazos apoyados en él y las palmas hacia arriba, sujetando una mancuerna en cada mano. Deja que tus muñecas cuelguen del borde del banco. Flexiona lentamente las muñecas hacia arriba, apretando los antebrazos en la parte superior del movimiento. Haz una pausa por un momento y luego baja lentamente las muñecas de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Сядьте на скамью, положив предплечья на скамью ладонями вверх, держа в каждой руке по гантели. Пусть ваши запястья свисают с края скамьи. Медленно поднимите запястья вверх, сжимая предплечья в верхней точке движения. Сделайте паузу на мгновение, затем медленно опустите запястья обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "坐在长凳上，前臂放在长凳上，手掌朝上，每只手各握一个哑铃。 让手腕悬在长凳边缘。 慢慢向上弯曲手腕，在动作的最高点挤压前臂。 暂停片刻，然后慢慢将手腕放回起始位置。 重复所需的重复次数。",
+    "hi": "एक बेंच पर बैठें, अपने अग्रबाहुओं को बेंच पर टिकाएं और अपनी हथेलियों को ऊपर की ओर रखें, प्रत्येक हाथ में डम्बल पकड़ें। अपनी कलाइयों को बेंच के किनारे पर लटकने दें। धीरे-धीरे अपनी कलाइयों को ऊपर की ओर मोड़ें, अपने अग्रबाहुओं को गति के शीर्ष पर निचोड़ें। एक पल के लिए रुकें, फिर धीरे-धीरे अपनी कलाइयों को वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Usiądź na ławce, opierając przedramiona na ławce, dłonie skierowane do góry, trzymając w każdej dłoni hantlę. Pozwól nadgarstkom zwisać poza krawędzią ławki. Powoli zginaj nadgarstki do góry, ściskając przedramiona na górze ruchu. Zatrzymaj się na chwilę, a następnie powoli opuść nadgarstki z powrotem do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "벤치에 앉아 전완을 벤치에 얹고 손바닥이 위를 향하며 양쪽 팔에 덤벨을 잡으세요. 손목이 벤치 가장자리에서 튀어나오도록 하세요. 천천히 손목을 위로 말아올려 동작의 위쪽에서 전완을 꽉 조이세요. 잠깐 멈춘 후 천천히 손목을 시작 위치로 내리세요. 원하는 횟수만큼 반복하세요.",
+    "fr": "Assieds-toi sur un banc, les avant-bras posés sur le banc et les paumes tournées vers le haut, en tenant un haltère dans chaque main. Laisse tes poignets dépasser du bord du banc. Enroule lentement tes poignets vers le haut, en contractant tes avant-bras en haut du mouvement. Marque une pause, puis abaisse lentement tes poignets jusqu'à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Sit on a bench with your forearms resting on the bench and your palms facing up, holding a dumbbell in each hand.",
+      "Allow your wrists to hang over the edge of the bench.",
+      "Slowly curl your wrists upward, squeezing your forearms at the top of the movement.",
+      "Pause for a moment, then slowly lower your wrists back down to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Siediti su una panchina con gli avambracci appoggiati sulla panca e i palmi rivolti verso l'alto, tenendo un manubrio in ogni mano.",
+      "Lascia che i polsi sporgano dal bordo della panca.",
+      "Ripiega lentamente i polsi verso l'alto, stringendo gli avambracci nella parte alta del movimento.",
+      "Fermati un attimo, poi abbassa lentamente i polsi fino alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Her iki elinizde birer dambıl tutarak, önkollarınız bankın üzerinde ve avuçlarınız yukarı bakacak şekilde bir bankta oturun.",
+      "Bileklerinizin bankın kenarından sarkmasına izin verin.",
+      "Hareketin üst noktasında ön kollarınızı sıkarak bileklerinizi yavaşça yukarı doğru kıvırın.",
+      "Bir an duraklayın, ardından bileklerinizi yavaşça başlangıç ​​pozisyonuna indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Siéntate en un banco con los antebrazos apoyados en él y las palmas hacia arriba, sujetando una mancuerna en cada mano.",
+      "Deja que tus muñecas cuelguen del borde del banco.",
+      "Flexiona lentamente las muñecas hacia arriba, apretando los antebrazos en la parte superior del movimiento.",
+      "Haz una pausa por un momento y luego baja lentamente las muñecas de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Сядьте на скамью, положив предплечья на скамью ладонями вверх, держа в каждой руке по гантели.",
+      "Пусть ваши запястья свисают с края скамьи.",
+      "Медленно поднимите запястья вверх, сжимая предплечья в верхней точке движения.",
+      "Сделайте паузу на мгновение, затем медленно опустите запястья обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "坐在长凳上，前臂放在长凳上，手掌朝上，每只手各握一个哑铃。",
+      "让手腕悬在长凳边缘。",
+      "慢慢向上弯曲手腕，在动作的最高点挤压前臂。",
+      "暂停片刻，然后慢慢将手腕放回起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "एक बेंच पर बैठें, अपने अग्रबाहुओं को बेंच पर टिकाएं और अपनी हथेलियों को ऊपर की ओर रखें, प्रत्येक हाथ में डम्बल पकड़ें।",
+      "अपनी कलाइयों को बेंच के किनारे पर लटकने दें।",
+      "धीरे-धीरे अपनी कलाइयों को ऊपर की ओर मोड़ें, अपने अग्रबाहुओं को गति के शीर्ष पर निचोड़ें।",
+      "एक पल के लिए रुकें, फिर धीरे-धीरे अपनी कलाइयों को वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Usiądź na ławce, opierając przedramiona na ławce, dłonie skierowane do góry, trzymając w każdej dłoni hantlę.",
+      "Pozwól nadgarstkom zwisać poza krawędzią ławki.",
+      "Powoli zginaj nadgarstki do góry, ściskając przedramiona na górze ruchu.",
+      "Zatrzymaj się na chwilę, a następnie powoli opuść nadgarstki z powrotem do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "벤치에 앉아 전완을 벤치에 얹고 손바닥이 위를 향하며 양쪽 팔에 덤벨을 잡으세요.",
+      "손목이 벤치 가장자리에서 튀어나오도록 하세요.",
+      "천천히 손목을 위로 말아올려 동작의 위쪽에서 전완을 꽉 조이세요.",
+      "잠깐 멈춘 후 천천히 손목을 시작 위치로 내리세요.",
+      "원하는 횟수만큼 반복하세요."
+    ],
+    "fr": [
+      "Assieds-toi sur un banc, les avant-bras posés sur le banc et les paumes tournées vers le haut, en tenant un haltère dans chaque main.",
+      "Laisse tes poignets dépasser du bord du banc.",
+      "Enroule lentement tes poignets vers le haut, en contractant tes avant-bras en haut du mouvement.",
+      "Marque une pause, puis abaisse lentement tes poignets jusqu'à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "brachialis"
+  ],
+  "target": "forearms",
+  "image": "images/0369-D1xYJAU.jpg",
+  "gif_url": "videos/0369-D1xYJAU.gif",
+  "media_id": "D1xYJAU",
+  "created_at": "2026-03-18T12:31:32.880398+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

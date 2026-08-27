@@ -1,0 +1,93 @@
+{
+  "id": "1473",
+  "name": "backward jump",
+  "category": "upper legs",
+  "body_part": "upper legs",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart. Bend your knees slightly and jump backwards, pushing off with both feet. Land softly on the balls of your feet, bending your knees to absorb the impact. Repeat for the desired number of repetitions.",
+    "it": "Stai con i piedi alla larghezza delle spalle. Piega leggermente le ginocchia e salta all'indietro, spingendoti con entrambi i piedi. Atterra dolcemente sulle punte dei piedi, piegando le ginocchia per assorbire l'impatto. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durun. Dizlerinizi hafifçe bükün ve her iki ayağınızla iterek geriye doğru atlayın. Darbeyi absorbe etmek için dizlerinizi bükerek ayak parmaklarınızın üzerine yumuşak bir şekilde inin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros. Flexiona ligeramente las rodillas y salta hacia atrás, impulsándote con ambos pies. Aterriza suavemente sobre la punta de los pies, flexionando las rodillas para absorber el impacto. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч. Слегка согните колени и подпрыгните назад, отталкиваясь обеими ногами. Мягко приземлитесь на подушечки стоп, согнув колени, чтобы поглотить удар. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立。 稍微弯曲膝盖，向后跳跃，用双脚蹬地。 脚掌轻轻着地，弯曲膝盖以吸收冲击力。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई की दूरी पर रखकर खड़े हो जाएं। अपने घुटनों को थोड़ा मोड़ें और दोनों पैरों से धक्का देते हुए पीछे की ओर कूदें। प्रभाव को अवशोषित करने के लिए अपने घुटनों को मोड़ते हुए, अपने पैरों की उंगलियों पर धीरे से उतरें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań w rozkroku na szerokość barków. Ugnij lekko kolana i wyskocz do tyłu, odbijając się obiema stopami. Wyląduj miękko na palcach stóp, uginając kolana, aby zamortyzować lądowanie. Powtórz zalecaną liczbę razy.",
+    "ko": "발을 어깨너비로 벌리고 섭니다. 무릎을 약간 구부리고 양발로 밀어내 뒤로 점프합니다. 발의 앞부분으로 부드럽게 착지하면서 무릎을 구부려 충격을 흡수합니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules. Fléchis légèrement les genoux et saute vers l'arrière en poussant avec les deux pieds. Atterris en douceur sur la pointe des pieds, en fléchissant les genoux pour absorber l'impact. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart.",
+      "Bend your knees slightly and jump backwards, pushing off with both feet.",
+      "Land softly on the balls of your feet, bending your knees to absorb the impact.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai con i piedi alla larghezza delle spalle.",
+      "Piega leggermente le ginocchia e salta all'indietro, spingendoti con entrambi i piedi.",
+      "Atterra dolcemente sulle punte dei piedi, piegando le ginocchia per assorbire l'impatto.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde ayakta durun.",
+      "Dizlerinizi hafifçe bükün ve her iki ayağınızla iterek geriye doğru atlayın.",
+      "Darbeyi absorbe etmek için dizlerinizi bükerek ayak parmaklarınızın üzerine yumuşak bir şekilde inin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros.",
+      "Flexiona ligeramente las rodillas y salta hacia atrás, impulsándote con ambos pies.",
+      "Aterriza suavemente sobre la punta de los pies, flexionando las rodillas para absorber el impacto.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч.",
+      "Слегка согните колени и подпрыгните назад, отталкиваясь обеими ногами.",
+      "Мягко приземлитесь на подушечки стоп, согнув колени, чтобы поглотить удар.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立。",
+      "稍微弯曲膝盖，向后跳跃，用双脚蹬地。",
+      "脚掌轻轻着地，弯曲膝盖以吸收冲击力。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई की दूरी पर रखकर खड़े हो जाएं।",
+      "अपने घुटनों को थोड़ा मोड़ें और दोनों पैरों से धक्का देते हुए पीछे की ओर कूदें।",
+      "प्रभाव को अवशोषित करने के लिए अपने घुटनों को मोड़ते हुए, अपने पैरों की उंगलियों पर धीरे से उतरें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań w rozkroku na szerokość barków.",
+      "Ugnij lekko kolana i wyskocz do tyłu, odbijając się obiema stopami.",
+      "Wyląduj miękko na palcach stóp, uginając kolana, aby zamortyzować lądowanie.",
+      "Powtórz zalecaną liczbę razy."
+    ],
+    "ko": [
+      "발을 어깨너비로 벌리고 섭니다.",
+      "무릎을 약간 구부리고 양발로 밀어내 뒤로 점프합니다.",
+      "발의 앞부분으로 부드럽게 착지하면서 무릎을 구부려 충격을 흡수합니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules.",
+      "Fléchis légèrement les genoux et saute vers l'arrière en poussant avec les deux pieds.",
+      "Atterris en douceur sur la pointe des pieds, en fléchissant les genoux pour absorber l'impact.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "hamstrings",
+  "secondary_muscles": [
+    "hamstrings",
+    "glutes",
+    "calves"
+  ],
+  "target": "quads",
+  "image": "images/1473-SaDOwk7.jpg",
+  "gif_url": "videos/1473-SaDOwk7.gif",
+  "media_id": "SaDOwk7",
+  "created_at": "2026-03-18T12:31:32.855688+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

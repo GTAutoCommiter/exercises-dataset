@@ -1,0 +1,112 @@
+{
+  "id": "1479",
+  "name": "lever incline chest press v. 2",
+  "category": "chest",
+  "body_part": "chest",
+  "equipment": "leverage machine",
+  "instructions": {
+    "en": "Adjust the seat height and backrest angle on the leverage machine to a comfortable position. Sit on the machine with your back against the backrest and your feet flat on the floor. Grasp the handles with an overhand grip and position your hands slightly wider than shoulder-width apart. Push the handles forward and away from your body until your arms are fully extended, but without locking your elbows. Pause for a moment at the fully extended position, then slowly bend your elbows and lower the handles back towards your chest. Repeat for the desired number of repetitions.",
+    "it": "Regolare l'altezza del sedile e l'angolazione dello schienale sulla macchina a leva in una posizione comoda. Sedersi sulla macchina con la schiena appoggiata allo schienale e i piedi appoggiati sul pavimento. Afferrare le maniglie con una presa prona e posizionare le mani leggermente più larghe della larghezza delle spalle. Spingere le maniglie in avanti e lontano dal corpo finché le braccia non sono completamente distese, ma senza bloccare i gomiti. Fai una pausa per un momento nella posizione completamente estesa, quindi piega lentamente i gomiti e abbassa le maniglie verso il petto. Ripetere per il numero di ripetizioni desiderato.",
+    "tr": "Kaldıraç makinesindeki koltuk yüksekliğini ve sırtlık açısını rahat bir konuma ayarlayın. Sırtınız koltuk arkalığına dayalı ve ayaklarınız yere düz basacak şekilde makinenin üzerine oturun. Tutma yerlerini üstten kavrayın ve ellerinizi omuz genişliğinden biraz daha geniş olacak şekilde konumlandırın. Kollarınız tamamen uzayana kadar, ancak dirseklerinizi kilitlemeden, kolları ileri ve vücudunuzdan uzağa doğru itin. Tamamen uzatılmış pozisyonda bir an duraklayın, ardından dirseklerinizi yavaşça bükün ve kolları göğsünüze doğru indirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ajusta la altura del asiento y el ángulo del respaldo de la máquina de palanca a una posición cómoda. Siéntate en la máquina con la espalda apoyada en el respaldo y los pies planos en el suelo. Sujeta las asas con un agarre prono y coloca las manos un poco más separadas que la altura de los hombros. Empuja las asas hacia adelante y alejándolas del cuerpo hasta que los brazos queden completamente extendidos, pero sin bloquear los codos. Haz una pausa breve en la posición completamente extendida, luego flexiona lentamente los codos y baja las asas de vuelta hacia el pecho. Repite el número de repeticiones deseado.",
+    "ru": "Отрегулируйте высоту сиденья и угол наклона спинки на рычаге машины до удобного положения. Сядьте на тренажер, прислонившись спиной к спинке, а ноги поставьте на пол. Возьмитесь за рукоятки хватом сверху и поставьте руки чуть шире плеч. Толкайте рукоятки вперед и в сторону от тела до тех пор, пока руки полностью не выпрямятся, но не сгибайте локти. Задержитесь на мгновение в полностью выпрямленном положении, затем медленно согните локти и опустите рукоятки обратно к груди. Повторите необходимое количество повторений.",
+    "zh": "将杠杆机上的座椅高度和靠背角度调整到舒适的位置。 坐在机器上，背部靠在靠背上，双脚平放在地板上。 正手握住手柄，双手之间的距离略大于肩宽。 向前推动手柄并远离身体，直到手臂完全伸展，但不要锁定肘部。 在完全伸展的位置暂停片刻，然后慢慢弯曲肘部并将手柄放回胸部。 重复所需的重复次数。",
+    "hi": "लीवरेज मशीन पर सीट की ऊंचाई और बैकरेस्ट कोण को आरामदायक स्थिति में समायोजित करें। मशीन पर अपनी पीठ को पीछे की ओर टिकाकर बैठें और आपके पैर फर्श पर सपाट हों। हैंडल को ओवरहैंड ग्रिप से पकड़ें और अपने हाथों को कंधे की चौड़ाई से थोड़ा चौड़ा रखें। जब तक आपकी बाहें पूरी तरह विस्तारित न हो जाएं, तब तक हैंडल को अपने शरीर से आगे और दूर धकेलें, लेकिन अपनी कोहनियों को लॉक किए बिना। पूरी तरह विस्तारित स्थिति में एक पल के लिए रुकें, फिर धीरे-धीरे अपनी कोहनियों को मोड़ें और हैंडल को वापस अपनी छाती की ओर नीचे करें। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Wyreguluj wysokość siedziska i kąt oparcia maszyny dźwigniowej do wygodnej pozycji. Usiądź na maszynie, opierając plecy o oparcie, a stopy płasko na podłodze. Chwyć uchwyty nachwytem, ustawiając dłonie nieco szerzej niż na szerokość barków. Wypchnij uchwyty do przodu i od siebie, aż ramiona będą w pełni wyprostowane, ale bez blokowania łokci. Zatrzymaj się na chwilę w pozycji pełnego wyprostu, a następnie powoli ugnij łokcie i opuść uchwyty z powrotem w kierunku klatki piersiowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "레버 머신의 시트 높이와 백레스트 각도를 편안한 위치로 조정합니다. 등을 백레스트에 기대고 발을 바닥에 평평하게 놓은 상태로 머신에 앉습니다. 손가락을 위로 향하게 하는 오버핸드 그립으로 핸들을 잡고 손을 어깨 너비보다 약간 더 넓게 위치시킵니다. 팔꿈치를 잠금하지 않으면서 팔을 완전히 펼칠 때까지 핸들을 앞쪽으로 밀어냅니다. 완전히 펴진 위치에서 잠깐 멈춘 후, 천천히 팔꿈치를 구부리고 핸들을 가슴 쪽으로 돌려냅니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Règle la hauteur du siège et l'angle du dossier de la machine à levier dans une position confortable. Assieds-toi sur la machine, le dos contre le dossier et les pieds à plat sur le sol. Saisis les poignées avec une prise en pronation et place tes mains légèrement plus écartées que la largeur des épaules. Pousse les poignées vers l'avant et loin de ton corps jusqu'à ce que tes bras soient complètement tendus, mais sans verrouiller tes coudes. Marque une pause en position complètement étendue, puis fléchis lentement tes coudes et abaisse les poignées vers ta poitrine. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the seat height and backrest angle on the leverage machine to a comfortable position.",
+      "Sit on the machine with your back against the backrest and your feet flat on the floor.",
+      "Grasp the handles with an overhand grip and position your hands slightly wider than shoulder-width apart.",
+      "Push the handles forward and away from your body until your arms are fully extended, but without locking your elbows.",
+      "Pause for a moment at the fully extended position, then slowly bend your elbows and lower the handles back towards your chest.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Regolare l'altezza del sedile e l'angolazione dello schienale sulla macchina a leva in una posizione comoda.",
+      "Sedersi sulla macchina con la schiena appoggiata allo schienale e i piedi appoggiati sul pavimento.",
+      "Afferrare le maniglie con una presa prona e posizionare le mani leggermente più larghe della larghezza delle spalle.",
+      "Spingere le maniglie in avanti e lontano dal corpo finché le braccia non sono completamente distese, ma senza bloccare i gomiti.",
+      "Fai una pausa per un momento nella posizione completamente estesa, quindi piega lentamente i gomiti e abbassa le maniglie verso il petto.",
+      "Ripetere per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Kaldıraç makinesindeki koltuk yüksekliğini ve sırtlık açısını rahat bir konuma ayarlayın.",
+      "Sırtınız koltuk arkalığına dayalı ve ayaklarınız yere düz basacak şekilde makinenin üzerine oturun.",
+      "Tutma yerlerini üstten kavrayın ve ellerinizi omuz genişliğinden biraz daha geniş olacak şekilde konumlandırın.",
+      "Kollarınız tamamen uzayana kadar, ancak dirseklerinizi kilitlemeden, kolları ileri ve vücudunuzdan uzağa doğru itin.",
+      "Tamamen uzatılmış pozisyonda bir an duraklayın, ardından dirseklerinizi yavaşça bükün ve kolları göğsünüze doğru indirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ajusta la altura del asiento y el ángulo del respaldo de la máquina de palanca a una posición cómoda.",
+      "Siéntate en la máquina con la espalda apoyada en el respaldo y los pies planos en el suelo.",
+      "Sujeta las asas con un agarre prono y coloca las manos un poco más separadas que la altura de los hombros.",
+      "Empuja las asas hacia adelante y alejándolas del cuerpo hasta que los brazos queden completamente extendidos, pero sin bloquear los codos.",
+      "Haz una pausa breve en la posición completamente extendida, luego flexiona lentamente los codos y baja las asas de vuelta hacia el pecho.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Отрегулируйте высоту сиденья и угол наклона спинки на рычаге машины до удобного положения.",
+      "Сядьте на тренажер, прислонившись спиной к спинке, а ноги поставьте на пол.",
+      "Возьмитесь за рукоятки хватом сверху и поставьте руки чуть шире плеч.",
+      "Толкайте рукоятки вперед и в сторону от тела до тех пор, пока руки полностью не выпрямятся, но не сгибайте локти.",
+      "Задержитесь на мгновение в полностью выпрямленном положении, затем медленно согните локти и опустите рукоятки обратно к груди.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "将杠杆机上的座椅高度和靠背角度调整到舒适的位置。",
+      "坐在机器上，背部靠在靠背上，双脚平放在地板上。",
+      "正手握住手柄，双手之间的距离略大于肩宽。",
+      "向前推动手柄并远离身体，直到手臂完全伸展，但不要锁定肘部。",
+      "在完全伸展的位置暂停片刻，然后慢慢弯曲肘部并将手柄放回胸部。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "लीवरेज मशीन पर सीट की ऊंचाई और बैकरेस्ट कोण को आरामदायक स्थिति में समायोजित करें।",
+      "मशीन पर अपनी पीठ को पीछे की ओर टिकाकर बैठें और आपके पैर फर्श पर सपाट हों।",
+      "हैंडल को ओवरहैंड ग्रिप से पकड़ें और अपने हाथों को कंधे की चौड़ाई से थोड़ा चौड़ा रखें।",
+      "जब तक आपकी बाहें पूरी तरह विस्तारित न हो जाएं, तब तक हैंडल को अपने शरीर से आगे और दूर धकेलें, लेकिन अपनी कोहनियों को लॉक किए बिना।",
+      "पूरी तरह विस्तारित स्थिति में एक पल के लिए रुकें, फिर धीरे-धीरे अपनी कोहनियों को मोड़ें और हैंडल को वापस अपनी छाती की ओर नीचे करें।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Wyreguluj wysokość siedziska i kąt oparcia maszyny dźwigniowej do wygodnej pozycji.",
+      "Usiądź na maszynie, opierając plecy o oparcie, a stopy płasko na podłodze.",
+      "Chwyć uchwyty nachwytem, ustawiając dłonie nieco szerzej niż na szerokość barków.",
+      "Wypchnij uchwyty do przodu i od siebie, aż ramiona będą w pełni wyprostowane, ale bez blokowania łokci.",
+      "Zatrzymaj się na chwilę w pozycji pełnego wyprostu, a następnie powoli ugnij łokcie i opuść uchwyty z powrotem w kierunku klatki piersiowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "레버 머신의 시트 높이와 백레스트 각도를 편안한 위치로 조정합니다.",
+      "등을 백레스트에 기대고 발을 바닥에 평평하게 놓은 상태로 머신에 앉습니다.",
+      "손가락을 위로 향하게 하는 오버핸드 그립으로 핸들을 잡고 손을 어깨 너비보다 약간 더 넓게 위치시킵니다.",
+      "팔꿈치를 잠금하지 않으면서 팔을 완전히 펼칠 때까지 핸들을 앞쪽으로 밀어냅니다.",
+      "완전히 펴진 위치에서 잠깐 멈춘 후, 천천히 팔꿈치를 구부리고 핸들을 가슴 쪽으로 돌려냅니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Règle la hauteur du siège et l'angle du dossier de la machine à levier dans une position confortable.",
+      "Assieds-toi sur la machine, le dos contre le dossier et les pieds à plat sur le sol.",
+      "Saisis les poignées avec une prise en pronation et place tes mains légèrement plus écartées que la largeur des épaules.",
+      "Pousse les poignées vers l'avant et loin de ton corps jusqu'à ce que tes bras soient complètement tendus, mais sans verrouiller tes coudes.",
+      "Marque une pause en position complètement étendue, puis fléchis lentement tes coudes et abaisse les poignées vers ta poitrine.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "triceps",
+  "secondary_muscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "target": "pectorals",
+  "image": "images/1479-o17Jfkt.jpg",
+  "gif_url": "videos/1479-o17Jfkt.gif",
+  "media_id": "o17Jfkt",
+  "created_at": "2026-03-18T12:31:32.886445+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

@@ -1,0 +1,132 @@
+{
+  "id": "0571",
+  "name": "lever alternating narrow grip seated row",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "leverage machine",
+  "instructions": {
+    "en": "Adjust the seat height and footplate position to ensure proper alignment. Sit on the machine with your back straight and feet flat on the footplate. Grasp the handles with a narrow grip, palms facing each other. Keep your chest up and shoulders back throughout the exercise. Pull one handle towards your torso while keeping the other handle stationary. Squeeze your shoulder blades together at the end of the movement. Slowly return the handle to the starting position and repeat with the other side. Continue alternating sides for the desired number of repetitions.",
+    "it": "Regolare l'altezza del sedile e la posizione della pedana per garantire il corretto allineamento. Sedersi sulla macchina con la schiena dritta e i piedi appoggiati sulla pedana. Afferrare le maniglie con una presa stretta, i palmi rivolti l'uno verso l'altro. Tieni il petto in alto e le spalle indietro durante l'esercizio. Tirare una maniglia verso il busto mantenendo l'altra maniglia ferma. Stringi insieme le scapole alla fine del movimento. Riporta lentamente la maniglia nella posizione iniziale e ripeti con l'altro lato. Continua ad alternare i lati per il numero di ripetizioni desiderato.",
+    "tr": "Doğru hizalamayı sağlamak için koltuk yüksekliğini ve ayak plakası konumunu ayarlayın. Sırtınız düz ve ayaklarınız taban plakası üzerinde düz olacak şekilde makinenin üzerine oturun. Avuç içleri birbirine bakacak şekilde tutamakları dar bir tutuşla kavrayın. Egzersiz boyunca göğsünüzü yukarıda ve omuzlarınızı geride tutun. Bir kolu gövdenize doğru çekerken diğer kolu sabit tutun. Hareketin sonunda kürek kemiklerinizi birbirine doğru sıkın. Kolu yavaşça başlangıç ​​pozisyonuna getirin ve hareketi diğer tarafla tekrarlayın. İstenilen tekrar sayısı için alternatif taraflara devam edin.",
+    "es": "Ajusta la altura del asiento y la posición de la placa para los pies para asegurar una alineación correcta. Siéntate en la máquina con la espalda recta y los pies planos sobre la placa para los pies. Sujeta las asas con un agarre estrecho, con las palmas una frente a la otra. Mantén el pecho elevado y los hombros hacia atrás durante todo el ejercicio. Tira de una asa hacia el torso mientras mantienes la otra asa inmóvil. Aprieta los omóplatos al final del movimiento. Devuelve lentamente el asa a la posición inicial y repite con el otro lado. Continúa alternando lados durante el número de repeticiones deseado.",
+    "ru": "Отрегулируйте высоту сиденья и положение подножки, чтобы обеспечить правильное выравнивание. Сядьте на тренажер, выпрямив спину и положив ступни на подножку. Возьмитесь за ручки узким хватом, ладони обращены друг к другу. На протяжении всего упражнения держите грудь поднятой, а плечи отведенными назад. Потяните одну ручку к туловищу, удерживая другую ручку неподвижной. В конце движения сведите лопатки вместе. Медленно верните ручку в исходное положение и повторите то же самое с другой стороны. Продолжайте чередовать стороны желаемое количество повторений.",
+    "zh": "调整座椅高度和踏板位置以确保正确对齐。 坐在机器上，背部挺直，双脚平放在踏板上。 紧紧握住手柄，手掌相对。 在整个练习过程中保持挺胸、肩膀向后。 将一个手柄拉向您的躯干，同时保持另一个手柄静止。 在动作结束时将肩胛骨挤压在一起。 慢慢地将手柄返回到起始位置，并在另一侧重复此操作。 继续交替进行所需的重复次数。",
+    "hi": "उचित संरेखण सुनिश्चित करने के लिए सीट की ऊंचाई और फ़ुटप्लेट की स्थिति को समायोजित करें। अपनी पीठ सीधी करके और पैरों को फ़ुटप्लेट पर सपाट करके मशीन पर बैठें। हैंडल को पतली पकड़ से पकड़ें, हथेलियाँ एक दूसरे के सामने हों। पूरे अभ्यास के दौरान अपनी छाती ऊपर और कंधे पीछे रखें। एक हैंडल को अपने धड़ की ओर खींचें जबकि दूसरे हैंडल को स्थिर रखें। आंदोलन के अंत में अपने कंधे के ब्लेड को एक साथ निचोड़ें। धीरे-धीरे हैंडल को शुरुआती स्थिति में लौटाएं और दूसरी तरफ से दोहराएं। दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।",
+    "pl": "Wyreguluj wysokość siedziska i pozycję podpórki na stopy, aby zapewnić właściwe ustawienie ciała. Usiądź na maszynie z prostymi plecami i stopami płasko opartymi o podpórkę. Chwyć uchwyty wąskim chwytem, dłonie zwrócone do siebie. Utrzymuj uniesioną klatkę piersiową i cofnięte barki przez cały czas trwania ćwiczenia. Podciągnij jeden uchwyt w stronę tułowia, utrzymując drugi uchwyt nieruchomo. Ściśnij łopatki na końcu ruchu. Powoli wróć uchwytem do pozycji wyjściowej i powtórz po drugiej stronie. Kontynuuj naprzemienne wykonywanie ruchu zgodnie z zaplanowaną liczbą powtórzeń.",
+    "ko": "시트의 높이와 발판의 위치를 조정하여 적절한 정렬을 확보한다. 머신에 앉아 등을 펴고 발을 발판에 편다. 좁은 그립으로 손잡이를 잡고 손바닥이 서로 마주보게 한다. 운동 내내 가슴을 세우고 어깨를 뒤로 유지한다. 한쪽 손잡이를 몸통 쪽으로 당기고 다른 쪽은 그대로 유지한다. 스트로크의 끝에서 견갑골을 모아 쥔다. 천천히 손잡이를 시작 위치로 돌려 놓고 반대쪽으로 반복한다. 원하는 횟수만큼 양쪽을 교대로 반복한다.",
+    "fr": "Règle la hauteur du siège et la position du repose-pieds pour garantir un bon alignement. Assieds-toi sur la machine, le dos droit et les pieds à plat sur la plaque de pied. Saisis les poignées avec une prise serrée, les paumes tournées l'une vers l'autre. Garde la poitrine relevée et les épaules en arrière tout au long de l'exercice. Tire une poignée vers ton torse tout en gardant l'autre poignée immobile. Contracte tes omoplates l'une vers l'autre à la fin du mouvement. Ramène lentement la poignée à la position de départ et répète de l'autre côté. Continue à alterner les côtés pour le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Adjust the seat height and footplate position to ensure proper alignment.",
+      "Sit on the machine with your back straight and feet flat on the footplate.",
+      "Grasp the handles with a narrow grip, palms facing each other.",
+      "Keep your chest up and shoulders back throughout the exercise.",
+      "Pull one handle towards your torso while keeping the other handle stationary.",
+      "Squeeze your shoulder blades together at the end of the movement.",
+      "Slowly return the handle to the starting position and repeat with the other side.",
+      "Continue alternating sides for the desired number of repetitions."
+    ],
+    "it": [
+      "Regolare l'altezza del sedile e la posizione della pedana per garantire il corretto allineamento.",
+      "Sedersi sulla macchina con la schiena dritta e i piedi appoggiati sulla pedana.",
+      "Afferrare le maniglie con una presa stretta, i palmi rivolti l'uno verso l'altro.",
+      "Tieni il petto in alto e le spalle indietro durante l'esercizio.",
+      "Tirare una maniglia verso il busto mantenendo l'altra maniglia ferma.",
+      "Stringi insieme le scapole alla fine del movimento.",
+      "Riporta lentamente la maniglia nella posizione iniziale e ripeti con l'altro lato.",
+      "Continua ad alternare i lati per il numero di ripetizioni desiderato."
+    ],
+    "tr": [
+      "Doğru hizalamayı sağlamak için koltuk yüksekliğini ve ayak plakası konumunu ayarlayın.",
+      "Sırtınız düz ve ayaklarınız taban plakası üzerinde düz olacak şekilde makinenin üzerine oturun.",
+      "Avuç içleri birbirine bakacak şekilde tutamakları dar bir tutuşla kavrayın.",
+      "Egzersiz boyunca göğsünüzü yukarıda ve omuzlarınızı geride tutun.",
+      "Bir kolu gövdenize doğru çekerken diğer kolu sabit tutun.",
+      "Hareketin sonunda kürek kemiklerinizi birbirine doğru sıkın.",
+      "Kolu yavaşça başlangıç ​​pozisyonuna getirin ve hareketi diğer tarafla tekrarlayın.",
+      "İstenilen tekrar sayısı için alternatif taraflara devam edin."
+    ],
+    "es": [
+      "Ajusta la altura del asiento y la posición de la placa para los pies para asegurar una alineación correcta.",
+      "Siéntate en la máquina con la espalda recta y los pies planos sobre la placa para los pies.",
+      "Sujeta las asas con un agarre estrecho, con las palmas una frente a la otra.",
+      "Mantén el pecho elevado y los hombros hacia atrás durante todo el ejercicio.",
+      "Tira de una asa hacia el torso mientras mantienes la otra asa inmóvil.",
+      "Aprieta los omóplatos al final del movimiento.",
+      "Devuelve lentamente el asa a la posición inicial y repite con el otro lado.",
+      "Continúa alternando lados durante el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Отрегулируйте высоту сиденья и положение подножки, чтобы обеспечить правильное выравнивание.",
+      "Сядьте на тренажер, выпрямив спину и положив ступни на подножку.",
+      "Возьмитесь за ручки узким хватом, ладони обращены друг к другу.",
+      "На протяжении всего упражнения держите грудь поднятой, а плечи отведенными назад.",
+      "Потяните одну ручку к туловищу, удерживая другую ручку неподвижной.",
+      "В конце движения сведите лопатки вместе.",
+      "Медленно верните ручку в исходное положение и повторите то же самое с другой стороны.",
+      "Продолжайте чередовать стороны желаемое количество повторений."
+    ],
+    "zh": [
+      "调整座椅高度和踏板位置以确保正确对齐。",
+      "坐在机器上，背部挺直，双脚平放在踏板上。",
+      "紧紧握住手柄，手掌相对。",
+      "在整个练习过程中保持挺胸、肩膀向后。",
+      "将一个手柄拉向您的躯干，同时保持另一个手柄静止。",
+      "在动作结束时将肩胛骨挤压在一起。",
+      "慢慢地将手柄返回到起始位置，并在另一侧重复此操作。",
+      "继续交替进行所需的重复次数。"
+    ],
+    "hi": [
+      "उचित संरेखण सुनिश्चित करने के लिए सीट की ऊंचाई और फ़ुटप्लेट की स्थिति को समायोजित करें।",
+      "अपनी पीठ सीधी करके और पैरों को फ़ुटप्लेट पर सपाट करके मशीन पर बैठें।",
+      "हैंडल को पतली पकड़ से पकड़ें, हथेलियाँ एक दूसरे के सामने हों।",
+      "पूरे अभ्यास के दौरान अपनी छाती ऊपर और कंधे पीछे रखें।",
+      "एक हैंडल को अपने धड़ की ओर खींचें जबकि दूसरे हैंडल को स्थिर रखें।",
+      "आंदोलन के अंत में अपने कंधे के ब्लेड को एक साथ निचोड़ें।",
+      "धीरे-धीरे हैंडल को शुरुआती स्थिति में लौटाएं और दूसरी तरफ से दोहराएं।",
+      "दोहराव की वांछित संख्या के लिए पक्षों को बदलना जारी रखें।"
+    ],
+    "pl": [
+      "Wyreguluj wysokość siedziska i pozycję podpórki na stopy, aby zapewnić właściwe ustawienie ciała.",
+      "Usiądź na maszynie z prostymi plecami i stopami płasko opartymi o podpórkę.",
+      "Chwyć uchwyty wąskim chwytem, dłonie zwrócone do siebie.",
+      "Utrzymuj uniesioną klatkę piersiową i cofnięte barki przez cały czas trwania ćwiczenia.",
+      "Podciągnij jeden uchwyt w stronę tułowia, utrzymując drugi uchwyt nieruchomo.",
+      "Ściśnij łopatki na końcu ruchu.",
+      "Powoli wróć uchwytem do pozycji wyjściowej i powtórz po drugiej stronie.",
+      "Kontynuuj naprzemienne wykonywanie ruchu zgodnie z zaplanowaną liczbą powtórzeń."
+    ],
+    "ko": [
+      "시트의 높이와 발판의 위치를 조정하여 적절한 정렬을 확보한다.",
+      "머신에 앉아 등을 펴고 발을 발판에 편다.",
+      "좁은 그립으로 손잡이를 잡고 손바닥이 서로 마주보게 한다.",
+      "운동 내내 가슴을 세우고 어깨를 뒤로 유지한다.",
+      "한쪽 손잡이를 몸통 쪽으로 당기고 다른 쪽은 그대로 유지한다.",
+      "스트로크의 끝에서 견갑골을 모아 쥔다.",
+      "천천히 손잡이를 시작 위치로 돌려 놓고 반대쪽으로 반복한다.",
+      "원하는 횟수만큼 양쪽을 교대로 반복한다."
+    ],
+    "fr": [
+      "Règle la hauteur du siège et la position du repose-pieds pour garantir un bon alignement.",
+      "Assieds-toi sur la machine, le dos droit et les pieds à plat sur la plaque de pied.",
+      "Saisis les poignées avec une prise serrée, les paumes tournées l'une vers l'autre.",
+      "Garde la poitrine relevée et les épaules en arrière tout au long de l'exercice.",
+      "Tire une poignée vers ton torse tout en gardant l'autre poignée immobile.",
+      "Contracte tes omoplates l'une vers l'autre à la fin du mouvement.",
+      "Ramène lentement la poignée à la position de départ et répète de l'autre côté.",
+      "Continue à alterner les côtés pour le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "forearms"
+  ],
+  "target": "upper back",
+  "image": "images/0571-w2oRpuH.jpg",
+  "gif_url": "videos/0571-w2oRpuH.gif",
+  "media_id": "w2oRpuH",
+  "created_at": "2026-03-18T12:31:32.886043+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

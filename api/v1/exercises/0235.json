@@ -1,0 +1,112 @@
+{
+  "id": "0235",
+  "name": "cable standing shoulder external rotation",
+  "category": "shoulders",
+  "body_part": "shoulders",
+  "equipment": "cable",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and your knees slightly bent. Hold the cable handle with your arm extended in front of you, parallel to the ground. Keep your elbow slightly bent and your shoulder blades pulled back. Slowly rotate your arm outward, away from your body, while keeping your elbow in the same position. Pause for a moment at the end of the movement, then slowly return to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stai in piedi con i piedi a larghezza delle spalle e le ginocchia leggermente piegate. Tieni la maniglia del cavo con il braccio teso davanti a te, parallelo al suolo. Tieni il gomito leggermente piegato e le scapole tirate indietro. Ruota lentamente il braccio verso l'esterno, lontano dal corpo, mantenendo il gomito nella stessa posizione. Fermati un attimo alla fine del movimento, poi torna lentamente alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız omuz genişliğinde açık ve dizleriniz hafifçe bükülü şekilde ayakta durun. Kablo tutamağını kolunuz önünüzde uzatılmış, yere paralel olacak şekilde tutun. Dirseğinizi hafifçe bükülü ve kürek kemiklerinizi geriye çekilmiş halde tutun. Dirseğinizi aynı pozisyonda tutarak kolunuzu yavaşça vücudunuzdan uzağa doğru döndürün. Hareketin sonunda bir süre duraklayın ve ardından yavaşça başlangıç ​​pozisyonuna dönün. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y las rodillas ligeramente flexionadas. Sujeta el mango del cable con el brazo extendido frente a ti, paralelo al suelo. Mantén el codo ligeramente flexionado y los omóplatos retraídos hacia atrás. Rota lentamente el brazo hacia afuera, alejándolo de tu cuerpo, manteniendo el codo en la misma posición. Haz una pausa por un momento al final del movimiento, luego regresa lentamente a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, поставив ноги на ширине плеч и слегка согнув колени. Держите рукоятку троса, вытянув руку перед собой параллельно земле. Держите локоть слегка согнутым, а лопатки отведенными назад. Медленно поверните руку наружу, от тела, сохраняя локоть в том же положении. В конце движения сделайте паузу на мгновение, затем медленно вернитесь в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "双脚分开与肩同宽站立，膝盖稍微弯曲。 将手臂伸向前方，与地面平行，握住电缆手柄。 保持肘部稍微弯曲，肩胛骨向后拉。 慢慢地向外旋转手臂，远离身体，同时保持肘部处于同一位置。 动作结束时暂停片刻，然后慢慢回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और आपके घुटने थोड़े मुड़े हुए हों। अपने हाथ को जमीन के समानांतर अपने सामने फैलाकर केबल के हैंडल को पकड़ें। अपनी कोहनी को थोड़ा मोड़कर रखें और अपने कंधे के ब्लेड को पीछे की ओर खींचें। अपनी कोहनी को उसी स्थिति में रखते हुए धीरे-धीरे अपने हाथ को अपने शरीर से दूर बाहर की ओर घुमाएं। आंदोलन के अंत में एक पल के लिए रुकें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań, ustawiając stopy na szerokość barków, kolana lekko ugięte. Trzymaj uchwyt wyciągu ramieniem wyciągniętym przed sobą, równolegle do podłoża. Trzymaj łokieć lekko ugięty, a łopatki ściągnięte do tyłu. Powoli obróć ramię na zewnątrz, oddalając je od ciała, zachowując pozycję łokcia bez zmian. Zatrzymaj się na chwilę na końcu ruchu, a następnie powoli wróć do pozycji wyjściowej. Powtórz zalecaną liczbę powtórzeń.",
+    "ko": "발을 어깨너비만큼 벌리고 무릎을 약간 구부립니다. 케이블 핸들을 잡고 팔을 앞쪽으로 뻗어 지면과 평행하게 유지합니다. 팔꿈치를 약간 구부리고 견갑골을 뒤로 당깁니다. 팔꿈치의 위치를 유지하면서 팔을 천천히 바깥쪽으로 회전시킵니다. 동작의 끝에서 잠시 멈춘 후 천천히 처음 위치로 돌아갑니다. 원하는 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et les genoux légèrement fléchis. Tiens la poignée de câble, le bras étendu devant toi, parallèle au sol. Garde ton coude légèrement fléchi et tes omoplates tirées vers l'arrière. Fais pivoter lentement ton bras vers l'extérieur, en l'éloignant de ton corps, tout en gardant ton coude dans la même position. Marque une pause à la fin du mouvement, puis reviens lentement à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and your knees slightly bent.",
+      "Hold the cable handle with your arm extended in front of you, parallel to the ground.",
+      "Keep your elbow slightly bent and your shoulder blades pulled back.",
+      "Slowly rotate your arm outward, away from your body, while keeping your elbow in the same position.",
+      "Pause for a moment at the end of the movement, then slowly return to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai in piedi con i piedi a larghezza delle spalle e le ginocchia leggermente piegate.",
+      "Tieni la maniglia del cavo con il braccio teso davanti a te, parallelo al suolo.",
+      "Tieni il gomito leggermente piegato e le scapole tirate indietro.",
+      "Ruota lentamente il braccio verso l'esterno, lontano dal corpo, mantenendo il gomito nella stessa posizione.",
+      "Fermati un attimo alla fine del movimento, poi torna lentamente alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık ve dizleriniz hafifçe bükülü şekilde ayakta durun.",
+      "Kablo tutamağını kolunuz önünüzde uzatılmış, yere paralel olacak şekilde tutun.",
+      "Dirseğinizi hafifçe bükülü ve kürek kemiklerinizi geriye çekilmiş halde tutun.",
+      "Dirseğinizi aynı pozisyonda tutarak kolunuzu yavaşça vücudunuzdan uzağa doğru döndürün.",
+      "Hareketin sonunda bir süre duraklayın ve ardından yavaşça başlangıç ​​pozisyonuna dönün.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y las rodillas ligeramente flexionadas.",
+      "Sujeta el mango del cable con el brazo extendido frente a ti, paralelo al suelo.",
+      "Mantén el codo ligeramente flexionado y los omóplatos retraídos hacia atrás.",
+      "Rota lentamente el brazo hacia afuera, alejándolo de tu cuerpo, manteniendo el codo en la misma posición.",
+      "Haz una pausa por un momento al final del movimiento, luego regresa lentamente a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, поставив ноги на ширине плеч и слегка согнув колени.",
+      "Держите рукоятку троса, вытянув руку перед собой параллельно земле.",
+      "Держите локоть слегка согнутым, а лопатки отведенными назад.",
+      "Медленно поверните руку наружу, от тела, сохраняя локоть в том же положении.",
+      "Сделайте небольшую паузу в конце движения, затем медленно вернитесь в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "双脚分开与肩同宽站立，膝盖稍微弯曲。",
+      "将手臂伸向前方，与地面平行，握住电缆手柄。",
+      "保持肘部稍微弯曲，肩胛骨向后拉。",
+      "慢慢地向外旋转手臂，远离身体，同时保持肘部处于同一位置。",
+      "动作结束时暂停片刻，然后慢慢回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर खड़े हो जाएं और आपके घुटने थोड़े मुड़े हुए हों।",
+      "अपने हाथ को जमीन के समानांतर अपने सामने फैलाकर केबल के हैंडल को पकड़ें।",
+      "अपनी कोहनी को थोड़ा मोड़कर रखें और अपने कंधे के ब्लेड को पीछे की ओर खींचें।",
+      "अपनी कोहनी को उसी स्थिति में रखते हुए धीरे-धीरे अपने हाथ को अपने शरीर से दूर बाहर की ओर घुमाएं।",
+      "आंदोलन के अंत में एक पल के लिए रुकें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań, ustawiając stopy na szerokość barków, kolana lekko ugięte.",
+      "Trzymaj uchwyt wyciągu ramieniem wyciągniętym przed sobą, równolegle do podłoża.",
+      "Trzymaj łokieć lekko ugięty, a łopatki ściągnięte do tyłu.",
+      "Powoli obróć ramię na zewnątrz, oddalając je od ciała, zachowując pozycję łokcia bez zmian.",
+      "Zatrzymaj się na chwilę na końcu ruchu, a następnie powoli wróć do pozycji wyjściowej.",
+      "Powtórz zalecaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨너비만큼 벌리고 무릎을 약간 구부립니다.",
+      "케이블 핸들을 잡고 팔을 앞쪽으로 뻗어 지면과 평행하게 유지합니다.",
+      "팔꿈치를 약간 구부리고 견갑골을 뒤로 당깁니다.",
+      "팔꿈치의 위치를 유지하면서 팔을 천천히 바깥쪽으로 회전시킵니다.",
+      "동작의 끝에서 잠시 멈춘 후 천천히 처음 위치로 돌아갑니다.",
+      "원하는 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et les genoux légèrement fléchis.",
+      "Tiens la poignée de câble, le bras étendu devant toi, parallèle au sol.",
+      "Garde ton coude légèrement fléchi et tes omoplates tirées vers l'arrière.",
+      "Fais pivoter lentement ton bras vers l'extérieur, en l'éloignant de ton corps, tout en gardant ton coude dans la même position.",
+      "Marque une pause à la fin du mouvement, puis reviens lentement à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "rotator cuff",
+  "secondary_muscles": [
+    "rotator cuff",
+    "trapezius"
+  ],
+  "target": "delts",
+  "image": "images/0235-FWdVhcW.jpg",
+  "gif_url": "videos/0235-FWdVhcW.gif",
+  "media_id": "FWdVhcW",
+  "created_at": "2026-03-18T12:31:32.87645+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

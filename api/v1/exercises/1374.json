@@ -1,0 +1,113 @@
+{
+  "id": "1374",
+  "name": "box jump down with one leg stabilization",
+  "category": "lower legs",
+  "body_part": "lower legs",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand in front of a box or platform with your feet shoulder-width apart. Bend your knees and jump onto the box, landing softly with one foot on the box and the other foot hanging off the edge. Stabilize yourself on the box with the foot that is on it, while keeping the other foot off the ground. Hold this position for a few seconds, engaging your calf muscles to maintain balance. Slowly step down with the foot that is on the box, returning to the starting position. Repeat the exercise with the other leg.",
+    "it": "Mettiti davanti a una scatola o a una piattaforma con i piedi distanti alla larghezza delle spalle. Piega le ginocchia e salta sulla scatola, atterrando dolcemente con un piede sulla scatola e l'altro che pendeva dal bordo. Stabilizzati sulla scatola con il piede che è sopra, mantenendo l'altro piede sollevato da terra. Mantieni questa posizione per qualche secondo, attivando i muscoli del polpaccio per mantenere l'equilibrio. Scendi lentamente con il piede che è sulla scatola, tornando alla posizione iniziale. Ripeti l'esercizio con l'altra gamba.",
+    "tr": "Ayaklarınız omuz genişliğinde açık olacak şekilde bir kutunun veya platformun önünde durun. Dizlerinizi bükün ve kutunun üzerine atlayın, bir ayağınız kutunun üzerinde ve diğer ayağınız kenardan sarkacak şekilde yumuşak bir şekilde inin. Üzerindeki ayağınızla kutunun üzerinde kendinizi sabitlerken, diğer ayağınızı yerden kaldırın. Dengeyi korumak için baldır kaslarınızı çalıştırarak bu pozisyonu birkaç saniye basılı tutun. Kutunun üzerindeki ayağınızla yavaşça aşağı inip başlangıç ​​pozisyonuna dönün. Egzersizi diğer bacakla tekrarlayın.",
+    "es": "Ponte de pie frente a una caja o plataforma con los pies separados a la altura de los hombros. Flexiona las rodillas y salta sobre la caja, aterrizando suavemente con un pie sobre la caja y el otro pie colgando del borde. Estabilízate sobre la caja con el pie que está sobre ella, mientras mantienes el otro pie fuera del suelo. Mantén esta posición durante unos segundos, activando los músculos de la pantorrilla para conservar el equilibrio. Baja lentamente con el pie que está sobre la caja, volviendo a la posición inicial. Repite el ejercicio con la otra pierna.",
+    "ru": "Встаньте перед ящиком или платформой, поставив ноги на ширине плеч. Согните колени и прыгните на ящик, мягко приземлившись, поставив одну ногу на ящик, а другую свесив с края. Зафиксируйтесь на ящике стоящей на нем ногой, удерживая при этом другую ногу над землей. Удерживайте это положение несколько секунд, задействуя икроножные мышцы для сохранения равновесия. Медленно шагните вниз ногой, стоящей на ящике, возвращаясь в исходное положение. Повторите упражнение с другой ногой.",
+    "zh": "站在盒子或平台前，双脚分开与肩同宽。 弯曲膝盖，跳到盒子上，一只脚轻轻落地，另一只脚悬在盒子边缘。 将脚踩在盒子上，将自己稳定在盒子上，同时保持另一只脚离开地面。 保持这个姿势几秒钟，锻炼小腿肌肉以保持平衡。 将放在盒子上的脚慢慢放下，回到起始位置。 用另一条腿重复该练习。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर किसी बॉक्स या प्लेटफॉर्म के सामने खड़े हो जाएं। अपने घुटनों को मोड़ें और बॉक्स पर कूदें, एक पैर बॉक्स पर और दूसरा पैर किनारे से लटकाकर धीरे से उतरें। अपने आप को बॉक्स पर रखे पैर से स्थिर करें, जबकि दूसरे पैर को ज़मीन से दूर रखें। संतुलन बनाए रखने के लिए अपनी पिंडली की मांसपेशियों को शामिल करते हुए कुछ सेकंड के लिए इस स्थिति में रहें। बॉक्स पर रखे पैर से धीरे-धीरे नीचे उतरें और प्रारंभिक स्थिति में लौट आएं। दूसरे पैर से भी व्यायाम दोहराएं।",
+    "pl": "Stań przed skrzynią lub podwyższeniem, ze stopami na szerokość barków. Ugnij kolana i wskocz na skrzynię, lądując miękko jedną stopą na skrzyni, a drugą stopą zwisającą poza krawędzią. Ustabilizuj się na skrzyni na stopie, która na niej stoi, trzymając drugą stopę nad podłogą. Przytrzymaj tę pozycję przez kilka sekund, angażując mięśnie łydek dla utrzymania równowagi. Powoli zejdź stopą, która była na skrzyni, wracając do pozycji wyjściowej. Powtórz ćwiczenie drugą nogą.",
+    "ko": "발을 어깨 너비만큼 벌려 박스나 플랫폼 앞에 서 있습니다. 무릎을 구부리고 박스 위로 뛰어올라 한쪽 발은 박스 위에, 다른 쪽 발은 가장자리를 넘게 착지합니다. 박스 위의 발로 균형을 잡으면서 다른 발은 바닥에서 떨어뜨려둡니다. 이 자세를 몇 초간 유지하면서 종아리 근육을 engaged 하여 균형을 유지합니다. 박스 위의 발로 천천히 내려와 시작 자세로 돌아옵니다. 다른 다리로 이 운동을 반복합니다.",
+    "fr": "Tiens-toi devant une boîte ou une plateforme, les pieds écartés à la largeur des épaules. Fléchis les genoux et saute sur la box, en atterrissant en douceur avec un pied sur la box et l'autre pied dans le vide au bord. Stabilise-toi sur la boîte avec le pied posé dessus, tout en gardant l'autre pied décollé du sol. Maintiens cette position pendant quelques secondes, en engageant tes mollets pour garder l'équilibre. Descends lentement avec le pied posé sur la boîte, en revenant à la position de départ. Répète l'exercice avec l'autre jambe."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand in front of a box or platform with your feet shoulder-width apart.",
+      "Bend your knees and jump onto the box, landing softly with one foot on the box and the other foot hanging off the edge.",
+      "Stabilize yourself on the box with the foot that is on it, while keeping the other foot off the ground.",
+      "Hold this position for a few seconds, engaging your calf muscles to maintain balance.",
+      "Slowly step down with the foot that is on the box, returning to the starting position.",
+      "Repeat the exercise with the other leg."
+    ],
+    "it": [
+      "Mettiti davanti a una scatola o a una piattaforma con i piedi distanti alla larghezza delle spalle.",
+      "Piega le ginocchia e salta sulla scatola, atterrando dolcemente con un piede sulla scatola e l'altro che pendeva dal bordo.",
+      "Stabilizzati sulla scatola con il piede che è sopra, mantenendo l'altro piede sollevato da terra.",
+      "Mantieni questa posizione per qualche secondo, attivando i muscoli del polpaccio per mantenere l'equilibrio.",
+      "Scendi lentamente con il piede che è sulla scatola, tornando alla posizione iniziale.",
+      "Ripeti l'esercizio con l'altra gamba."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde bir kutunun veya platformun önünde durun.",
+      "Dizlerinizi bükün ve kutunun üzerine atlayın, bir ayağınız kutunun üzerinde ve diğer ayağınız kenardan sarkacak şekilde yumuşak bir şekilde inin.",
+      "Üzerindeki ayağınızla kutunun üzerinde kendinizi sabitlerken, diğer ayağınızı yerden kaldırın.",
+      "Dengeyi korumak için baldır kaslarınızı çalıştırarak bu pozisyonu birkaç saniye basılı tutun.",
+      "Kutunun üzerindeki ayağınızla yavaşça aşağı inip başlangıç ​​pozisyonuna dönün.",
+      "Egzersizi diğer bacakla tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie frente a una caja o plataforma con los pies separados a la altura de los hombros.",
+      "Flexiona las rodillas y salta sobre la caja, aterrizando suavemente con un pie sobre la caja y el otro pie colgando del borde.",
+      "Estabilízate sobre la caja con el pie que está sobre ella, mientras mantienes el otro pie fuera del suelo.",
+      "Mantén esta posición durante unos segundos, activando los músculos de la pantorrilla para conservar el equilibrio.",
+      "Baja lentamente con el pie que está sobre la caja, volviendo a la posición inicial.",
+      "Repite el ejercicio con la otra pierna."
+    ],
+    "ru": [
+      "Встаньте перед ящиком или платформой, поставив ноги на ширине плеч.",
+      "Согните колени и прыгните на ящик, мягко приземлившись, поставив одну ногу на ящик, а другую свесив с края.",
+      "Зафиксируйтесь на ящике стоящей на нем ногой, удерживая при этом другую ногу над землей.",
+      "Удерживайте это положение несколько секунд, задействуя икроножные мышцы для сохранения равновесия.",
+      "Медленно шагните вниз ногой, стоящей на ящике, возвращаясь в исходное положение.",
+      "Повторите упражнение с другой ногой."
+    ],
+    "zh": [
+      "站在盒子或平台前，双脚分开与肩同宽。",
+      "弯曲膝盖，跳到盒子上，一只脚轻轻落地，另一只脚悬在盒子边缘。",
+      "将脚踩在盒子上，将自己稳定在盒子上，同时保持另一只脚离开地面。",
+      "保持这个姿势几秒钟，锻炼小腿肌肉以保持平衡。",
+      "将放在盒子上的脚慢慢放下，回到起始位置。",
+      "用另一条腿重复该练习。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर किसी बॉक्स या प्लेटफॉर्म के सामने खड़े हो जाएं।",
+      "अपने घुटनों को मोड़ें और बॉक्स पर कूदें, एक पैर बॉक्स पर और दूसरा पैर किनारे से लटकाकर धीरे से उतरें।",
+      "अपने आप को बॉक्स पर रखे पैर से स्थिर करें, जबकि दूसरे पैर को ज़मीन से दूर रखें।",
+      "संतुलन बनाए रखने के लिए अपनी पिंडली की मांसपेशियों को शामिल करते हुए कुछ सेकंड के लिए इस स्थिति में रहें।",
+      "बॉक्स पर रखे पैर से धीरे-धीरे नीचे उतरें और प्रारंभिक स्थिति में लौट आएं।",
+      "दूसरे पैर से भी व्यायाम दोहराएं।"
+    ],
+    "pl": [
+      "Stań przed skrzynią lub podwyższeniem, ze stopami na szerokość barków.",
+      "Ugnij kolana i wskocz na skrzynię, lądując miękko jedną stopą na skrzyni, a drugą stopą zwisającą poza krawędzią.",
+      "Ustabilizuj się na skrzyni na stopie, która na niej stoi, trzymając drugą stopę nad podłogą.",
+      "Przytrzymaj tę pozycję przez kilka sekund, angażując mięśnie łydek dla utrzymania równowagi.",
+      "Powoli zejdź stopą, która była na skrzyni, wracając do pozycji wyjściowej.",
+      "Powtórz ćwiczenie drugą nogą."
+    ],
+    "ko": [
+      "발을 어깨 너비만큼 벌려 박스나 플랫폼 앞에 서 있습니다.",
+      "무릎을 구부리고 박스 위로 뛰어올라 한쪽 발은 박스 위에, 다른 쪽 발은 가장자리를 넘게 착지합니다.",
+      "박스 위의 발로 균형을 잡으면서 다른 발은 바닥에서 떨어뜨려둡니다.",
+      "이 자세를 몇 초간 유지하면서 종아리 근육을 engaged 하여 균형을 유지합니다.",
+      "박스 위의 발로 천천히 내려와 시작 자세로 돌아옵니다.",
+      "다른 다리로 이 운동을 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi devant une boîte ou une plateforme, les pieds écartés à la largeur des épaules.",
+      "Fléchis les genoux et saute sur la box, en atterrissant en douceur avec un pied sur la box et l'autre pied dans le vide au bord.",
+      "Stabilise-toi sur la boîte avec le pied posé dessus, tout en gardant l'autre pied décollé du sol.",
+      "Maintiens cette position pendant quelques secondes, en engageant tes mollets pour garder l'équilibre.",
+      "Descends lentement avec le pied posé sur la boîte, en revenant à la position de départ.",
+      "Répète l'exercice avec l'autre jambe."
+    ]
+  },
+  "muscle_group": "quadriceps",
+  "secondary_muscles": [
+    "quadriceps",
+    "hamstrings",
+    "glutes"
+  ],
+  "target": "calves",
+  "image": "images/1374-iPm26QU.jpg",
+  "gif_url": "videos/1374-iPm26QU.gif",
+  "media_id": "iPm26QU",
+  "created_at": "2026-03-18T12:31:32.874018+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

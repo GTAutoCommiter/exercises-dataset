@@ -1,0 +1,122 @@
+{
+  "id": "3166",
+  "name": "bodyweight standing row",
+  "category": "back",
+  "body_part": "back",
+  "equipment": "body weight",
+  "instructions": {
+    "en": "Stand with your feet shoulder-width apart and knees slightly bent. Grasp a bar or handles with an overhand grip, palms facing down. Keep your back straight and core engaged. Pull the bar or handles towards your body, squeezing your shoulder blades together. Pause for a moment at the top of the movement. Slowly release and extend your arms back to the starting position. Repeat for the desired number of repetitions.",
+    "it": "Stai in piedi con i piedi alla larghezza delle spalle e le ginocchia leggermente piegate. Afferra una barra o manici con una presa sopra la mano, palmi rivolti verso il basso. Tieni la schiena dritta e il core attivo. Tira il manubrio o i manici verso il corpo, stringendo le scapole insieme. Fermati un attimo all'inizio del movimento. Rilascia lentamente ed estendi le braccia fino alla posizione iniziale. Ripeti per il numero desiderato di ripetizioni.",
+    "tr": "Ayaklarınız omuz genişliğinde açık ve dizleriniz hafifçe bükülü şekilde ayakta durun. Avuç içleriniz aşağıya bakacak şekilde bir çubuğu veya tutacakları üstten kavrayın. Sırtınızı düz ve merkez bölgenizi meşgul tutun. Kürek kemiklerinizi birbirine doğru sıkıştırarak çubuğu veya tutacakları vücudunuza doğru çekin. Hareketin zirvesinde bir an duraklayın. Kollarınızı yavaşça serbest bırakın ve başlangıç ​​pozisyonuna geri getirin. İstenilen sayıda tekrar için tekrarlayın.",
+    "es": "Ponte de pie con los pies separados a la altura de los hombros y las rodillas ligeramente flexionadas. Sujeta una barra o las agarraderas con agarre prono, palmas hacia abajo. Mantén la espalda recta y el core activado. Tira de la barra o las agarraderas hacia el cuerpo, juntando los omóplatos. Haz una pausa breve en la parte alta del movimiento. Suelta lentamente y extiende los brazos de vuelta a la posición inicial. Repite el número de repeticiones deseado.",
+    "ru": "Встаньте, ноги на ширине плеч и слегка согнуты в коленях. Возьмите перекладину или ручки верхним хватом ладонями вниз. Держите спину прямо и напрягите корпус. Потяните штангу или ручки к себе, сведя лопатки вместе. Сделайте паузу на мгновение в верхней точке движения. Медленно расслабьте и вытяните руки обратно в исходное положение. Повторите необходимое количество повторений.",
+    "zh": "站立，双脚分开与肩同宽，膝盖稍微弯曲。 正手握住杆或手柄，手掌朝下。 保持背部挺直，核心参与。 将杠铃或手柄拉向身体，将肩胛骨挤压在一起。 在动作的最高点停顿片刻。 慢慢释放并伸展双臂回到起始位置。 重复所需的重复次数。",
+    "hi": "अपने पैरों को कंधे की चौड़ाई पर फैलाकर और घुटनों को थोड़ा मोड़कर खड़े हो जाएं। किसी बार या हैंडल को ओवरहैंड ग्रिप से पकड़ें, हथेलियाँ नीचे की ओर हों। अपनी पीठ सीधी और कोर व्यस्त रखें। अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए, बार या हैंडल को अपने शरीर की ओर खींचें। गति के शीर्ष पर एक क्षण के लिए रुकें। धीरे-धीरे अपनी भुजाओं को छोड़ें और वापस प्रारंभिक स्थिति में ले आएं। दोहराव की वांछित संख्या के लिए दोहराएँ।",
+    "pl": "Stań ze stopami na szerokość barków, a kolana lekko ugięte. Chwyć drążek lub uchwyty chwytem nachwytem, dłońmi skierowanymi w dół. Trzymaj plecy proste, a mięśnie brzucha napięte. Przyciągnij drążek lub uchwyty w kierunku ciała, ściągając łopatki. Zatrzymaj się na chwilę w górnej pozycji ruchu. Powoli zwolnij i wyprostuj ramiona, wracając do pozycji wyjściowej. Powtórz zadaną liczbę powtórzeń.",
+    "ko": "발을 어깨 너비만큼 벌리고 무릎을 약간 구부린 상태로 서 있습니다. 손등이 아래를 향하는 오버핸드 그립으로 바나 핸들을 잡습니다. 허리를 곧게 펴고 코어를 engaged 합니다. 바나 핸들을 몸 쪽으로 당기면서 견갑골을 모아줍니다. 동작의 맨 위에서 잠시 멈춥니다. 천천히 팔을 펼쳐 시작 자세로 돌아옵니다. 원하는 반복 횟수만큼 반복합니다.",
+    "fr": "Tiens-toi debout, les pieds écartés à la largeur des épaules et les genoux légèrement fléchis. Saisis une barre ou des poignées avec une prise en pronation, les paumes tournées vers le bas. Garde le dos droit et ta sangle abdominale gainée. Tire la barre ou les poignées vers ton corps, en contractant tes omoplates. Marque une pause en haut du mouvement. Relâche lentement et étends les bras pour revenir à la position de départ. Répète le nombre de répétitions souhaité."
+  },
+  "instruction_steps": {
+    "en": [
+      "Stand with your feet shoulder-width apart and knees slightly bent.",
+      "Grasp a bar or handles with an overhand grip, palms facing down.",
+      "Keep your back straight and core engaged.",
+      "Pull the bar or handles towards your body, squeezing your shoulder blades together.",
+      "Pause for a moment at the top of the movement.",
+      "Slowly release and extend your arms back to the starting position.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "it": [
+      "Stai in piedi con i piedi alla larghezza delle spalle e le ginocchia leggermente piegate.",
+      "Afferra una barra o manici con una presa sopra la mano, palmi rivolti verso il basso.",
+      "Tieni la schiena dritta e il core attivo.",
+      "Tira il manubrio o i manici verso il corpo, stringendo le scapole insieme.",
+      "Fermati un attimo all'inizio del movimento.",
+      "Rilascia lentamente ed estendi le braccia fino alla posizione iniziale.",
+      "Ripeti per il numero desiderato di ripetizioni."
+    ],
+    "tr": [
+      "Ayaklarınız omuz genişliğinde açık ve dizleriniz hafifçe bükülü şekilde ayakta durun.",
+      "Avuç içleriniz aşağıya bakacak şekilde bir çubuğu veya tutacakları üstten kavrayın.",
+      "Sırtınızı düz ve merkez bölgenizi meşgul tutun.",
+      "Kürek kemiklerinizi birbirine doğru sıkıştırarak çubuğu veya tutacakları vücudunuza doğru çekin.",
+      "Hareketin zirvesinde bir an duraklayın.",
+      "Kollarınızı yavaşça serbest bırakın ve başlangıç ​​pozisyonuna geri getirin.",
+      "İstenilen sayıda tekrar için tekrarlayın."
+    ],
+    "es": [
+      "Ponte de pie con los pies separados a la altura de los hombros y las rodillas ligeramente flexionadas.",
+      "Sujeta una barra o las agarraderas con agarre prono, palmas hacia abajo.",
+      "Mantén la espalda recta y el core activado.",
+      "Tira de la barra o las agarraderas hacia el cuerpo, juntando los omóplatos.",
+      "Haz una pausa breve en la parte alta del movimiento.",
+      "Suelta lentamente y extiende los brazos de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ],
+    "ru": [
+      "Встаньте, ноги на ширине плеч и слегка согнуты в коленях.",
+      "Возьмите перекладину или ручки верхним хватом ладонями вниз.",
+      "Держите спину прямо и напрягите корпус.",
+      "Потяните штангу или ручки к себе, сведя лопатки вместе.",
+      "Сделайте паузу на мгновение в верхней точке движения.",
+      "Медленно расслабьте и вытяните руки обратно в исходное положение.",
+      "Повторите необходимое количество повторений."
+    ],
+    "zh": [
+      "站立，双脚分开与肩同宽，膝盖稍微弯曲。",
+      "正手握住杆或手柄，手掌朝下。",
+      "保持背部挺直，核心参与。",
+      "将杠铃或手柄拉向身体，将肩胛骨挤压在一起。",
+      "在动作的最高点停顿片刻。",
+      "慢慢释放并伸展双臂回到起始位置。",
+      "重复所需的重复次数。"
+    ],
+    "hi": [
+      "अपने पैरों को कंधे की चौड़ाई पर फैलाकर और घुटनों को थोड़ा मोड़कर खड़े हो जाएं।",
+      "किसी बार या हैंडल को ओवरहैंड ग्रिप से पकड़ें, हथेलियाँ नीचे की ओर हों।",
+      "अपनी पीठ सीधी और कोर व्यस्त रखें।",
+      "अपने कंधे के ब्लेड को एक साथ निचोड़ते हुए, बार या हैंडल को अपने शरीर की ओर खींचें।",
+      "गति के शीर्ष पर एक क्षण के लिए रुकें।",
+      "धीरे-धीरे अपनी भुजाओं को छोड़ें और वापस प्रारंभिक स्थिति में ले आएं।",
+      "दोहराव की वांछित संख्या के लिए दोहराएँ।"
+    ],
+    "pl": [
+      "Stań ze stopami na szerokość barków, a kolana lekko ugięte.",
+      "Chwyć drążek lub uchwyty chwytem nachwytem, dłońmi skierowanymi w dół.",
+      "Trzymaj plecy proste, a mięśnie brzucha napięte.",
+      "Przyciągnij drążek lub uchwyty w kierunku ciała, ściągając łopatki.",
+      "Zatrzymaj się na chwilę w górnej pozycji ruchu.",
+      "Powoli zwolnij i wyprostuj ramiona, wracając do pozycji wyjściowej.",
+      "Powtórz zadaną liczbę powtórzeń."
+    ],
+    "ko": [
+      "발을 어깨 너비만큼 벌리고 무릎을 약간 구부린 상태로 서 있습니다.",
+      "손등이 아래를 향하는 오버핸드 그립으로 바나 핸들을 잡습니다.",
+      "허리를 곧게 펴고 코어를 engaged 합니다.",
+      "바나 핸들을 몸 쪽으로 당기면서 견갑골을 모아줍니다.",
+      "동작의 맨 위에서 잠시 멈춥니다.",
+      "천천히 팔을 펼쳐 시작 자세로 돌아옵니다.",
+      "원하는 반복 횟수만큼 반복합니다."
+    ],
+    "fr": [
+      "Tiens-toi debout, les pieds écartés à la largeur des épaules et les genoux légèrement fléchis.",
+      "Saisis une barre ou des poignées avec une prise en pronation, les paumes tournées vers le bas.",
+      "Garde le dos droit et ta sangle abdominale gainée.",
+      "Tire la barre ou les poignées vers ton corps, en contractant tes omoplates.",
+      "Marque une pause en haut du mouvement.",
+      "Relâche lentement et étends les bras pour revenir à la position de départ.",
+      "Répète le nombre de répétitions souhaité."
+    ]
+  },
+  "muscle_group": "biceps",
+  "secondary_muscles": [
+    "biceps",
+    "shoulders"
+  ],
+  "target": "upper back",
+  "image": "images/3166-wd4ds3s.jpg",
+  "gif_url": "videos/3166-wd4ds3s.gif",
+  "media_id": "wd4ds3s",
+  "created_at": "2026-03-18T12:31:32.873968+00:00",
+  "attribution": "© Gym visual — https://gymvisual.com/"
+}

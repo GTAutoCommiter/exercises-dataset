@@ -1,0 +1,592 @@
+[
+  {
+    "id": "1368",
+    "name": "ankle circles",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "body weight",
+    "target": "calves",
+    "image": "images/1368-uL9CsKm.jpg",
+    "gif_url": "videos/1368-uL9CsKm.gif"
+  },
+  {
+    "id": "1708",
+    "name": "assisted lying calves stretch",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "assisted",
+    "target": "calves",
+    "image": "images/1708-GxDwDX0.jpg",
+    "gif_url": "videos/1708-GxDwDX0.gif"
+  },
+  {
+    "id": "0999",
+    "name": "band single leg calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "band",
+    "target": "calves",
+    "image": "images/0999-9JprnPh.jpg",
+    "gif_url": "videos/0999-9JprnPh.gif"
+  },
+  {
+    "id": "1000",
+    "name": "band single leg reverse calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "band",
+    "target": "calves",
+    "image": "images/1000-QsSQWbf.jpg",
+    "gif_url": "videos/1000-QsSQWbf.gif"
+  },
+  {
+    "id": "1369",
+    "name": "band two legs calf raise - (band under both legs) v. 2",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "band",
+    "target": "calves",
+    "image": "images/1369-jl6uxZV.jpg",
+    "gif_url": "videos/1369-jl6uxZV.gif"
+  },
+  {
+    "id": "1370",
+    "name": "barbell floor calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "barbell",
+    "target": "calves",
+    "image": "images/1370-2IHEa2T.jpg",
+    "gif_url": "videos/1370-2IHEa2T.gif"
+  },
+  {
+    "id": "0088",
+    "name": "barbell seated calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "barbell",
+    "target": "calves",
+    "image": "images/0088-ktsFQAZ.jpg",
+    "gif_url": "videos/0088-ktsFQAZ.gif"
+  },
+  {
+    "id": "1371",
+    "name": "barbell seated calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "barbell",
+    "target": "calves",
+    "image": "images/1371-ipvgBnC.jpg",
+    "gif_url": "videos/1371-ipvgBnC.gif"
+  },
+  {
+    "id": "1372",
+    "name": "barbell standing calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "barbell",
+    "target": "calves",
+    "image": "images/1372-8ozhUIZ.jpg",
+    "gif_url": "videos/1372-8ozhUIZ.gif"
+  },
+  {
+    "id": "0108",
+    "name": "barbell standing leg calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "barbell",
+    "target": "calves",
+    "image": "images/0108-rGwhJ5o.jpg",
+    "gif_url": "videos/0108-rGwhJ5o.gif"
+  },
+  {
+    "id": "0111",
+    "name": "barbell standing rocking leg calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "barbell",
+    "target": "calves",
+    "image": "images/0111-6HiHHe0.jpg",
+    "gif_url": "videos/0111-6HiHHe0.gif"
+  },
+  {
+    "id": "1373",
+    "name": "bodyweight standing calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "body weight",
+    "target": "calves",
+    "image": "images/1373-bJYHBIN.jpg",
+    "gif_url": "videos/1373-bJYHBIN.gif"
+  },
+  {
+    "id": "1374",
+    "name": "box jump down with one leg stabilization",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "body weight",
+    "target": "calves",
+    "image": "images/1374-iPm26QU.jpg",
+    "gif_url": "videos/1374-iPm26QU.gif"
+  },
+  {
+    "id": "1375",
+    "name": "cable standing calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "cable",
+    "target": "calves",
+    "image": "images/1375-yl2IYyy.jpg",
+    "gif_url": "videos/1375-yl2IYyy.gif"
+  },
+  {
+    "id": "1376",
+    "name": "cable standing one leg calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "cable",
+    "target": "calves",
+    "image": "images/1376-fgc9Xdl.jpg",
+    "gif_url": "videos/1376-fgc9Xdl.gif"
+  },
+  {
+    "id": "1407",
+    "name": "calf push stretch with hands against wall",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "body weight",
+    "target": "calves",
+    "image": "images/1407-PzNxakt.jpg",
+    "gif_url": "videos/1407-PzNxakt.gif"
+  },
+  {
+    "id": "1377",
+    "name": "calf stretch with hands against wall",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "body weight",
+    "target": "calves",
+    "image": "images/1377-m0tCHqc.jpg",
+    "gif_url": "videos/1377-m0tCHqc.gif"
+  },
+  {
+    "id": "1378",
+    "name": "calf stretch with rope",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "rope",
+    "target": "calves",
+    "image": "images/1378-1LVFcEn.jpg",
+    "gif_url": "videos/1378-1LVFcEn.gif"
+  },
+  {
+    "id": "0257",
+    "name": "circles knee stretch",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "body weight",
+    "target": "calves",
+    "image": "images/0257-X7jbxra.jpg",
+    "gif_url": "videos/0257-X7jbxra.gif"
+  },
+  {
+    "id": "0284",
+    "name": "donkey calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "body weight",
+    "target": "calves",
+    "image": "images/0284-u5ESqzH.jpg",
+    "gif_url": "videos/0284-u5ESqzH.gif"
+  },
+  {
+    "id": "1379",
+    "name": "dumbbell seated calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "dumbbell",
+    "target": "calves",
+    "image": "images/1379-r29jP7S.jpg",
+    "gif_url": "videos/1379-r29jP7S.gif"
+  },
+  {
+    "id": "0400",
+    "name": "dumbbell seated one leg calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "dumbbell",
+    "target": "calves",
+    "image": "images/0400-Ia7tumC.jpg",
+    "gif_url": "videos/0400-Ia7tumC.gif"
+  },
+  {
+    "id": "1380",
+    "name": "dumbbell seated one leg calf raise - hammer grip",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "dumbbell",
+    "target": "calves",
+    "image": "images/1380-FxhcxUW.jpg",
+    "gif_url": "videos/1380-FxhcxUW.gif"
+  },
+  {
+    "id": "1381",
+    "name": "dumbbell seated one leg calf raise - palm up",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "dumbbell",
+    "target": "calves",
+    "image": "images/1381-VW88JNd.jpg",
+    "gif_url": "videos/1381-VW88JNd.gif"
+  },
+  {
+    "id": "0409",
+    "name": "dumbbell single leg calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "dumbbell",
+    "target": "calves",
+    "image": "images/0409-1kB3Wmk.jpg",
+    "gif_url": "videos/0409-1kB3Wmk.gif"
+  },
+  {
+    "id": "0417",
+    "name": "dumbbell standing calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "dumbbell",
+    "target": "calves",
+    "image": "images/0417-dPmaUaU.jpg",
+    "gif_url": "videos/0417-dPmaUaU.gif"
+  },
+  {
+    "id": "1382",
+    "name": "exercise ball on the wall calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "dumbbell",
+    "target": "calves",
+    "image": "images/1382-xo6sENf.jpg",
+    "gif_url": "videos/1382-xo6sENf.gif"
+  },
+  {
+    "id": "3241",
+    "name": "exercise ball on the wall calf raise (tennis ball between ankles)",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "dumbbell",
+    "target": "calves",
+    "image": "images/3241-FY3UdNT.jpg",
+    "gif_url": "videos/3241-FY3UdNT.gif"
+  },
+  {
+    "id": "3240",
+    "name": "exercise ball on the wall calf raise (tennis ball between knees)",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "dumbbell",
+    "target": "calves",
+    "image": "images/3240-j74M6Zn.jpg",
+    "gif_url": "videos/3240-j74M6Zn.gif"
+  },
+  {
+    "id": "1383",
+    "name": "hack calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "sled machine",
+    "target": "calves",
+    "image": "images/1383-2ORFMoR.jpg",
+    "gif_url": "videos/1383-2ORFMoR.gif"
+  },
+  {
+    "id": "1384",
+    "name": "hack one leg calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "sled machine",
+    "target": "calves",
+    "image": "images/1384-AxFoqAD.jpg",
+    "gif_url": "videos/1384-AxFoqAD.gif"
+  },
+  {
+    "id": "2289",
+    "name": "lever calf press",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "leverage machine",
+    "target": "calves",
+    "image": "images/2289-7B4F5nZ.jpg",
+    "gif_url": "videos/2289-7B4F5nZ.gif"
+  },
+  {
+    "id": "1253",
+    "name": "lever donkey calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "leverage machine",
+    "target": "calves",
+    "image": "images/1253-C9LuR4A.jpg",
+    "gif_url": "videos/1253-C9LuR4A.gif"
+  },
+  {
+    "id": "2315",
+    "name": "lever rotary calf",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "leverage machine",
+    "target": "calves",
+    "image": "images/2315-MrgP9L6.jpg",
+    "gif_url": "videos/2315-MrgP9L6.gif"
+  },
+  {
+    "id": "2335",
+    "name": "lever seated calf press",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "leverage machine",
+    "target": "calves",
+    "image": "images/2335-Ie9UGty.jpg",
+    "gif_url": "videos/2335-Ie9UGty.gif"
+  },
+  {
+    "id": "0594",
+    "name": "lever seated calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "leverage machine",
+    "target": "calves",
+    "image": "images/0594-bOOdeyc.jpg",
+    "gif_url": "videos/0594-bOOdeyc.gif"
+  },
+  {
+    "id": "1385",
+    "name": "lever seated squat calf raise on leg press machine",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "leverage machine",
+    "target": "calves",
+    "image": "images/1385-IeDEXTe.jpg",
+    "gif_url": "videos/1385-IeDEXTe.gif"
+  },
+  {
+    "id": "0605",
+    "name": "lever standing calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "leverage machine",
+    "target": "calves",
+    "image": "images/0605-ykUOVze.jpg",
+    "gif_url": "videos/0605-ykUOVze.gif"
+  },
+  {
+    "id": "1386",
+    "name": "one leg donkey calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "body weight",
+    "target": "calves",
+    "image": "images/1386-A2upspL.jpg",
+    "gif_url": "videos/1386-A2upspL.gif"
+  },
+  {
+    "id": "1387",
+    "name": "one leg floor calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "body weight",
+    "target": "calves",
+    "image": "images/1387-0jp9Rlz.jpg",
+    "gif_url": "videos/1387-0jp9Rlz.gif"
+  },
+  {
+    "id": "1388",
+    "name": "peroneals stretch",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "rope",
+    "target": "calves",
+    "image": "images/1388-XhfS1DZ.jpg",
+    "gif_url": "videos/1388-XhfS1DZ.gif"
+  },
+  {
+    "id": "1389",
+    "name": "posterior tibialis stretch",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "rope",
+    "target": "calves",
+    "image": "images/1389-DEEqoI2.jpg",
+    "gif_url": "videos/1389-DEEqoI2.gif"
+  },
+  {
+    "id": "1390",
+    "name": "seated calf stretch (male)",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "body weight",
+    "target": "calves",
+    "image": "images/1390-17bqEXD.jpg",
+    "gif_url": "videos/1390-17bqEXD.gif"
+  },
+  {
+    "id": "0727",
+    "name": "single leg calf raise (on a dumbbell)",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "dumbbell",
+    "target": "calves",
+    "image": "images/0727-fKZgDEO.jpg",
+    "gif_url": "videos/0727-fKZgDEO.gif"
+  },
+  {
+    "id": "0738",
+    "name": "sled 45в° calf press",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "sled machine",
+    "target": "calves",
+    "image": "images/0738-qCNVnaU.jpg",
+    "gif_url": "videos/0738-qCNVnaU.gif"
+  },
+  {
+    "id": "1391",
+    "name": "sled calf press on leg press",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "sled machine",
+    "target": "calves",
+    "image": "images/1391-ykHcWme.jpg",
+    "gif_url": "videos/1391-ykHcWme.gif"
+  },
+  {
+    "id": "0742",
+    "name": "sled forward angled calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "sled machine",
+    "target": "calves",
+    "image": "images/0742-XDOiFns.jpg",
+    "gif_url": "videos/0742-XDOiFns.gif"
+  },
+  {
+    "id": "2334",
+    "name": "sled lying calf press",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "sled machine",
+    "target": "calves",
+    "image": "images/2334-g376LuL.jpg",
+    "gif_url": "videos/2334-g376LuL.gif"
+  },
+  {
+    "id": "1392",
+    "name": "sled one leg calf press on leg press",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "sled machine",
+    "target": "calves",
+    "image": "images/1392-u0pLNgz.jpg",
+    "gif_url": "videos/1392-u0pLNgz.gif"
+  },
+  {
+    "id": "1393",
+    "name": "smith one leg floor calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "smith machine",
+    "target": "calves",
+    "image": "images/1393-9GXrTE6.jpg",
+    "gif_url": "videos/1393-9GXrTE6.gif"
+  },
+  {
+    "id": "0763",
+    "name": "smith reverse calf raises",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "smith machine",
+    "target": "calves",
+    "image": "images/0763-ywaNfuh.jpg",
+    "gif_url": "videos/0763-ywaNfuh.gif"
+  },
+  {
+    "id": "1394",
+    "name": "smith reverse calf raises",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "smith machine",
+    "target": "calves",
+    "image": "images/1394-Lsqrgh4.jpg",
+    "gif_url": "videos/1394-Lsqrgh4.gif"
+  },
+  {
+    "id": "1395",
+    "name": "smith seated one leg calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "smith machine",
+    "target": "calves",
+    "image": "images/1395-0S75mYG.jpg",
+    "gif_url": "videos/1395-0S75mYG.gif"
+  },
+  {
+    "id": "0773",
+    "name": "smith standing leg calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "smith machine",
+    "target": "calves",
+    "image": "images/0773-6MaEjVA.jpg",
+    "gif_url": "videos/0773-6MaEjVA.gif"
+  },
+  {
+    "id": "1396",
+    "name": "smith toe raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "smith machine",
+    "target": "calves",
+    "image": "images/1396-Y4QlY8z.jpg",
+    "gif_url": "videos/1396-Y4QlY8z.gif"
+  },
+  {
+    "id": "1490",
+    "name": "standing calf raise (on a staircase)",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "body weight",
+    "target": "calves",
+    "image": "images/1490-6HmFgmx.jpg",
+    "gif_url": "videos/1490-6HmFgmx.gif"
+  },
+  {
+    "id": "1397",
+    "name": "standing calves",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "body weight",
+    "target": "calves",
+    "image": "images/1397-XIHEoCG.jpg",
+    "gif_url": "videos/1397-XIHEoCG.gif"
+  },
+  {
+    "id": "1398",
+    "name": "standing calves calf stretch",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "body weight",
+    "target": "calves",
+    "image": "images/1398-qOKcgVP.jpg",
+    "gif_url": "videos/1398-qOKcgVP.gif"
+  },
+  {
+    "id": "0833",
+    "name": "weighted donkey calf raise",
+    "category": "lower legs",
+    "body_part": "lower legs",
+    "equipment": "weighted",
+    "target": "calves",
+    "image": "images/0833-LmaFNZS.jpg",
+    "gif_url": "videos/0833-LmaFNZS.gif"
+  }
+]
